@@ -4,7 +4,6 @@ import {
   ChevronDown, 
   Search, 
   Bookmark, 
-  Sparkles, 
   Info, 
   Sun, 
   Moon, 
@@ -12,7 +11,8 @@ import {
   ChevronLeft, 
   ChevronRight,
   ShieldCheck,
-  Palette
+  Download,
+  WifiOff
 } from 'lucide-react';
 import bibleCatalog from '../data/bible_catalog.json';
 
@@ -29,10 +29,11 @@ export default function Navbar({
   onChangeFontSize,
   onOpenSearch,
   onOpenBookmarks,
-  onOpenCharacterGuide,
   onOpenCopyright,
-  bookmarkCount = 0,
-  isStoryMode = false
+  onOpenInstall,
+  isInstalled = false,
+  isOnline = true,
+  bookmarkCount = 0
 }) {
   const [isBookMenuOpen, setIsBookMenuOpen] = useState(false);
   const [isChapterMenuOpen, setIsChapterMenuOpen] = useState(false);
@@ -61,13 +62,18 @@ export default function Navbar({
               <Book className="w-4 h-4" />
             </div>
             <div>
-              <div className="flex items-center gap-2">
-                <span className="font-cinzel font-bold text-base md:text-lg text-stone-900 dark:text-stone-100 tracking-wide">
-                  The Holy Bible
+              <div className="flex items-center gap-1.5 sm:gap-2">
+                <span className="font-cinzel font-bold text-sm sm:text-base md:text-lg text-stone-900 dark:text-stone-100 tracking-wide whitespace-nowrap">
+                  <span className="hidden md:inline">The </span>Holy Bible
                 </span>
-                <span className="hidden sm:inline-block text-[10px] uppercase font-bold tracking-wider px-1.5 py-0.5 bg-amber-100 dark:bg-amber-950/60 text-amber-800 dark:text-amber-400 rounded">
+                <span className="hidden lg:inline-block text-[10px] uppercase font-bold tracking-wider px-1.5 py-0.5 bg-amber-100 dark:bg-amber-950/60 text-amber-800 dark:text-amber-400 rounded">
                   EasyEnglish
                 </span>
+                {!isOnline && (
+                  <span className="inline-flex items-center gap-1 text-[10px] uppercase font-bold tracking-wider px-1.5 py-0.5 bg-amber-200/80 dark:bg-amber-950 text-amber-900 dark:text-amber-300 rounded shadow-xs" title="You are offline. Full Genesis & Q&A are available offline.">
+                    <WifiOff className="w-3 h-3 text-amber-700 dark:text-amber-400" /> Offline
+                  </span>
+                )}
               </div>
             </div>
           </div>
@@ -122,11 +128,6 @@ export default function Navbar({
                       }`}
                     >
                       <span>{b.name}</span>
-                      {b.hasStoryMode && (
-                        <span className="text-[10px] px-1.5 py-0.2 bg-purple-100 dark:bg-purple-950/60 text-purple-700 dark:text-purple-300 rounded font-semibold">
-                          Manhwa Mode
-                        </span>
-                      )}
                     </button>
                   ))}
                 </div>
@@ -203,6 +204,27 @@ export default function Navbar({
 
         {/* Action Controls & Modal Triggers */}
         <div className="flex items-center gap-1 sm:gap-2">
+          {/* PWA Install Button */}
+          {!isInstalled ? (
+            <button
+              onClick={onOpenInstall}
+              className="inline-flex items-center gap-1.5 px-2.5 py-1.5 text-xs font-semibold rounded-lg bg-amber-700 hover:bg-amber-800 text-white shadow-xs transition cursor-pointer"
+              title="Install Holy Bible App for Offline Reading"
+            >
+              <Download className="w-3.5 h-3.5" />
+              <span className="hidden sm:inline">Install</span>
+            </button>
+          ) : (
+            <button
+              onClick={onOpenInstall}
+              className="hidden sm:inline-flex items-center gap-1 px-2 py-1.5 text-[11px] font-semibold rounded-lg text-emerald-800 dark:text-emerald-400 hover:bg-emerald-50 dark:hover:bg-emerald-950/40 transition cursor-pointer"
+              title="App is installed and running offline-ready"
+            >
+              <ShieldCheck className="w-3.5 h-3.5 text-emerald-600" />
+              <span>Offline Ready</span>
+            </button>
+          )}
+
           {/* Search Trigger */}
           <button
             onClick={onOpenSearch}
@@ -222,15 +244,6 @@ export default function Navbar({
             {bookmarkCount > 0 && (
               <span className="absolute top-1 right-1 w-2 h-2 rounded-full bg-amber-600" />
             )}
-          </button>
-
-          {/* Character Guide Trigger */}
-          <button
-            onClick={onOpenCharacterGuide}
-            className="p-2 text-stone-600 dark:text-stone-300 hover:bg-stone-200/60 dark:hover:bg-stone-800 rounded-lg transition"
-            title="Character & Art Guide"
-          >
-            <Sparkles className="w-4 h-4 text-purple-600 dark:text-purple-400" />
           </button>
 
           {/* Theme Selector Toggle */}

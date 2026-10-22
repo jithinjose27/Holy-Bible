@@ -1,6 +1,5 @@
 import React, { useState, useEffect, useRef } from 'react';
 import { 
-  Sparkles, 
   ChevronLeft, 
   ChevronRight, 
   Bookmark, 
@@ -15,10 +14,10 @@ import {
   ChevronUp
 } from 'lucide-react';
 import kjvData from '../data/genesis_kjv_text.json';
+import ChapterQASection from './ChapterQASection';
 
 export default function BibleReader({
   chapterData,
-  onOpenStoryMode,
   onPrevChapter,
   onNextChapter,
   fontSizeClass = "text-base",
@@ -113,18 +112,6 @@ export default function BibleReader({
                 {chapterData.subtitle}
               </p>
             )}
-          </div>
-
-          {/* Dedicated "Read as Comic" Action Button */}
-          <div className="flex items-center gap-2">
-            <button
-              onClick={() => onOpenStoryMode(chapterData.chapter)}
-              className="group relative inline-flex items-center gap-2 px-4 py-2.5 rounded-xl bg-gradient-to-r from-purple-700 via-indigo-700 to-amber-700 hover:from-purple-800 hover:to-amber-800 text-white font-medium text-xs sm:text-sm shadow-md hover:shadow-lg transition-all transform hover:-translate-y-0.5 active:translate-y-0 cursor-pointer"
-              title="Open photorealistic comic / manhwa story mode for Genesis"
-            >
-              <Sparkles className="w-4 h-4 text-amber-300 group-hover:rotate-12 transition-transform" />
-              <span className="font-semibold tracking-wide">🎨 Read as Comic</span>
-            </button>
           </div>
         </div>
 
@@ -387,30 +374,28 @@ export default function BibleReader({
         </div>
       )}
 
+      {/* Chapter Review - Questions and Answers Section */}
+      <ChapterQASection chapter={chapterData.chapter} />
+
       {/* Bottom Chapter Navigation Bar */}
       <div className="mt-12 pt-6 border-t border-stone-200 dark:border-stone-800 flex items-center justify-between">
         <button
           onClick={onPrevChapter}
           disabled={chapterData.chapter <= 1}
-          className="inline-flex items-center gap-2 px-4 py-2 rounded-xl text-sm font-semibold bg-stone-200/60 dark:bg-stone-800 hover:bg-stone-200 dark:hover:bg-stone-700 disabled:opacity-30 disabled:pointer-events-none transition cursor-pointer"
+          className="inline-flex items-center gap-2 px-4 py-2.5 rounded-xl text-sm font-semibold bg-stone-200/60 dark:bg-stone-800 hover:bg-stone-200 dark:hover:bg-stone-700 disabled:opacity-30 disabled:pointer-events-none transition cursor-pointer"
         >
           <ChevronLeft className="w-4 h-4" />
           <span>Genesis {chapterData.chapter - 1}</span>
         </button>
 
-        {/* Read as Comic CTA at bottom */}
-        <button
-          onClick={() => onOpenStoryMode(chapterData.chapter)}
-          className="inline-flex items-center gap-1.5 px-4 py-2 rounded-xl text-xs sm:text-sm font-semibold text-purple-700 dark:text-purple-300 hover:bg-purple-100 dark:hover:bg-purple-950/40 border border-purple-200 dark:border-purple-900/50 transition cursor-pointer"
-        >
-          <Sparkles className="w-4 h-4 text-amber-500" />
-          <span>Read Ch. {chapterData.chapter} as Comic</span>
-        </button>
+        <span className="text-xs font-semibold text-stone-500 dark:text-stone-400">
+          Genesis {chapterData.chapter} of 50
+        </span>
 
         <button
           onClick={onNextChapter}
           disabled={chapterData.chapter >= 50}
-          className="inline-flex items-center gap-2 px-4 py-2 rounded-xl text-sm font-semibold bg-stone-200/60 dark:bg-stone-800 hover:bg-stone-200 dark:hover:bg-stone-700 disabled:opacity-30 disabled:pointer-events-none transition cursor-pointer"
+          className="inline-flex items-center gap-2 px-4 py-2.5 rounded-xl text-sm font-semibold bg-stone-200/60 dark:bg-stone-800 hover:bg-stone-200 dark:hover:bg-stone-700 disabled:opacity-30 disabled:pointer-events-none transition cursor-pointer"
         >
           <span>Genesis {chapterData.chapter + 1}</span>
           <ChevronRight className="w-4 h-4" />

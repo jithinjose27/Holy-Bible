@@ -1,5 +1,5 @@
 import React from 'react';
-import { X, ExternalLink, ShieldCheck, BookOpen, Sparkles, Heart } from 'lucide-react';
+import { X, ExternalLink, ShieldCheck, BookOpen, HelpCircle, Heart } from 'lucide-react';
 
 export default function AboutCopyrightModal({ isOpen, onClose }) {
   if (!isOpen) return null;
@@ -77,15 +77,24 @@ export default function AboutCopyrightModal({ isOpen, onClose }) {
 
           <div>
             <h4 className="font-semibold text-stone-900 dark:text-stone-100 mb-1 flex items-center gap-2">
-              <Sparkles className="w-4 h-4 text-purple-600 dark:text-purple-400" /> Photorealistic Visual Story Mode
+              <HelpCircle className="w-4 h-4 text-amber-700 dark:text-amber-400" /> Chapter Review — Questions & Answers
             </h4>
             <p className="text-stone-600 dark:text-stone-400 text-xs sm:text-sm">
-              Visual Story Mode presents biblical events with cinematic photorealism, capturing geological rock formations, volumetric atmospheric lighting, real marine wildlife, and ancient Near Eastern landscapes. Dialogue bubbles explicitly distinguish direct Scripture quotes from creative narrative adaptations.
+              Each chapter of Genesis includes 10 review questions grounded directly in Scripture. Readers can test their understanding interactively through Practice Mode (instant feedback, live scoring, and explanations) or examine the full study guide with collapsible answers and verse references in Study Mode.
+            </p>
+          </div>
+
+          <div className="p-3.5 bg-stone-100/70 dark:bg-stone-800/50 border border-stone-200 dark:border-stone-700/60 rounded-xl text-xs space-y-1">
+            <h4 className="font-semibold text-stone-800 dark:text-stone-200">
+              Offline Capability & Local Device Privacy
+            </h4>
+            <p className="text-stone-600 dark:text-stone-400 leading-relaxed">
+              All 50 chapters of Genesis and all 500 review questions are pre-bundled and cached locally on your device via the Progressive Web App Service Worker. Reading progress, bookmarks, verse highlights, and quiz scores are stored strictly in your device's browser local storage and never transmitted to external cloud servers. Progress is maintained locally on each device.
             </p>
           </div>
 
           <div className="pt-4 border-t border-stone-200 dark:border-stone-800 text-xs text-stone-500 flex items-center justify-between">
-            <span>Holy Bible Reader • Version 2.1 (Photoreal + KJV)</span>
+            <span>Holy Bible Reader • Version 3.5 (Cross-Platform PWA & Offline Study)</span>
             <span className="flex items-center gap-1">Crafted with reverence <Heart className="w-3.5 h-3.5 text-rose-500 fill-rose-500 inline" /></span>
           </div>
         </div>
