@@ -30,6 +30,14 @@ export default function App() {
       return [];
     }
   });
+  const [highlights, setHighlights] = useState(() => {
+    try {
+      const saved = localStorage.getItem('holy_bible_highlights');
+      return saved ? JSON.parse(saved) : {};
+    } catch {
+      return {};
+    }
+  });
 
   // Modal states
   const [isSearchOpen, setIsSearchOpen] = useState(false);
@@ -37,7 +45,7 @@ export default function App() {
   const [isCharacterGuideOpen, setIsCharacterGuideOpen] = useState(false);
   const [isCopyrightOpen, setIsCopyrightOpen] = useState(false);
 
-  // Sync settings
+  // Sync settings with localStorage
   useEffect(() => {
     localStorage.setItem('holy_bible_theme', theme);
     document.documentElement.className = theme === 'dark' || theme === 'midnight' ? 'dark' : '';
@@ -50,6 +58,10 @@ export default function App() {
   useEffect(() => {
     localStorage.setItem('holy_bible_bookmarks', JSON.stringify(bookmarks));
   }, [bookmarks]);
+
+  useEffect(() => {
+    localStorage.setItem('holy_bible_highlights', JSON.stringify(highlights));
+  }, [highlights]);
 
   // Global keyboard shortcuts (Ctrl+K for search)
   useEffect(() => {
@@ -67,7 +79,7 @@ export default function App() {
   const currentBibleChapter = bibleData.chapters.find((c) => c.chapter === currentChapter) || bibleData.chapters[0];
   const currentStoryChapter = storyDataset.chapters.find((c) => c.chapter === currentChapter) || storyDataset.chapters[0];
 
-  // Handlers
+  // Navigation Handlers
   const handleSelectChapter = (ch) => {
     if (ch >= 1 && ch <= 50) {
       setCurrentChapter(ch);
@@ -112,6 +124,18 @@ export default function App() {
 
   const handleRemoveBookmark = (ch, verseNum) => {
     setBookmarks((prev) => prev.filter((b) => !(b.chapter === ch && b.verse === verseNum)));
+  };
+
+  const handleSetHighlight = (verseKey, color) => {
+    setHighlights((prev) => {
+      const updated = { ...prev };
+      if (!color) {
+        delete updated[verseKey];
+      } else {
+        updated[verseKey] = color;
+      }
+      return updated;
+    });
   };
 
   const handleSelectVerseFromSearchOrBookmark = (ch, verseNum) => {
@@ -163,6 +187,8 @@ export default function App() {
             onToggleBookmark={handleToggleBookmark}
             targetVerse={targetVerse}
             clearTargetVerse={() => setTargetVerse(null)}
+            highlights={highlights}
+            onSetHighlight={handleSetHighlight}
           />
         ) : (
           <VisualStoryReader
