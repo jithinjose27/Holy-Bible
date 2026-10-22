@@ -11,9 +11,10 @@ import {
   Minus,
   BookOpen,
   ChevronDown,
-  ChevronUp
+  ChevronUp,
+  Trophy,
+  Award
 } from 'lucide-react';
-import kjvData from '../data/genesis_kjv_text.json';
 import ChapterQASection from './ChapterQASection';
 
 export default function BibleReader({
@@ -26,12 +27,22 @@ export default function BibleReader({
   targetVerse = null,
   clearTargetVerse,
   highlights = {}, // { "ch-v": "yellow" | "green" | "blue" | "rose" | "purple" }
-  onSetHighlight
+  onSetHighlight,
+  bookMeta = { id: 'GEN', name: 'Genesis', chapters: 50 },
+  kjvBookData = null,
+  chapterQA = null,
+  onOpenBookReview = null,
+  onNextBook = null,
+  nextBookMeta = null
 }) {
   const verseRefs = useRef({});
   const [copiedVerse, setCopiedVerse] = useState(null);
   const [expandedVerses, setExpandedVerses] = useState({}); // { [verseNum]: boolean }
   const [showOverview, setShowOverview] = useState(false);
+
+  const bookId = bookMeta?.id || 'GEN';
+  const bookName = bookMeta?.name || 'Genesis';
+  const totalChapters = bookMeta?.chapters || 50;
 
   // Reset expanded verses when changing chapter
   useEffect(() => {
@@ -72,15 +83,15 @@ export default function BibleReader({
     }));
   };
 
-  // Retrieve exact KJV text for Genesis {chapter}:{verse} from WordProject dataset
+  // Retrieve exact KJV text for {bookName} {chapter}:{verse}
   const getKjvVerseText = (chapterNum, verseNum) => {
     const chKey = String(chapterNum);
     const vKey = String(verseNum);
-    return kjvData.chapters?.[chKey]?.[vKey] || null;
+    return kjvBookData?.chapters?.[chKey]?.[vKey] || null;
   };
 
   const handleCopyKjvVerse = (verseNum, text) => {
-    const quote = `Genesis ${chapterData.chapter}:${verseNum} – “${text}” (King James Version - KJV, WordProject)`;
+    const quote = `${bookName} ${chapterData.chapter}:${verseNum} – “${text}” (King James Version - KJV)`;
     navigator.clipboard?.writeText(quote);
     setCopiedVerse(`kjv-${verseNum}`);
     setTimeout(() => setCopiedVerse(null), 2500);
@@ -102,7 +113,7 @@ export default function BibleReader({
         <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-4">
           <div>
             <div className="text-xs uppercase font-bold tracking-widest text-amber-800 dark:text-amber-400 mb-1">
-              The Book of Genesis
+              The Book of {bookName}
             </div>
             <h1 className="text-2xl sm:text-4xl md:text-5xl font-cinzel font-bold text-stone-900 dark:text-stone-50 tracking-tight">
               {chapterData.title}
@@ -123,7 +134,7 @@ export default function BibleReader({
           >
             <span className="flex items-center gap-1.5">
               <BookOpen className="w-4 h-4 text-amber-700 dark:text-amber-400" />
-              Chapter {chapterData.chapter} Overview & Historical Setting
+              {bookName} Chapter {chapterData.chapter} Overview & Historical Setting
             </span>
             <button className="text-stone-500 hover:text-stone-800 dark:hover:text-stone-200">
               {showOverview ? <ChevronUp className="w-4 h-4" /> : <ChevronDown className="w-4 h-4" />}
@@ -134,11 +145,11 @@ export default function BibleReader({
             <div className="mt-2.5 pt-2 border-t border-amber-200/60 dark:border-stone-800 text-xs sm:text-sm text-stone-800 dark:text-stone-200 font-serif leading-relaxed space-y-1.5">
               <p>
                 <strong className="font-sans font-semibold text-stone-900 dark:text-stone-100">Summary: </strong>
-                {chapterData.subtitle || `The narrative of Genesis Chapter ${chapterData.chapter}`}. Contains {chapterData.totalVerses} verses divided into {chapterData.sections.length} thematic sections.
+                {chapterData.subtitle || `The narrative of ${bookName} Chapter ${chapterData.chapter}`}. Contains {chapterData.totalVerses} verses divided into {chapterData.sections?.length || 1} thematic sections.
               </p>
               <p className="text-xs text-stone-600 dark:text-stone-400 font-sans">
                 💡 <strong className="font-semibold text-stone-800 dark:text-stone-200">Feature: </strong> 
-                Click the <Plus className="w-3 h-3 inline text-amber-700 dark:text-amber-400 font-bold" /> icon beside any verse number to reveal the corresponding <strong>King James Version (KJV)</strong> text from WordProject.
+                Click the <Plus className="w-3 h-3 inline text-amber-700 dark:text-amber-400 font-bold" /> icon beside any verse number to reveal the corresponding <strong>King James Version (KJV)</strong> text.
               </p>
             </div>
           )}
@@ -148,10 +159,10 @@ export default function BibleReader({
         <div className="mt-4 pt-3 border-t border-stone-200 dark:border-stone-800 flex flex-col sm:flex-row sm:items-center justify-between gap-2 text-xs text-stone-600 dark:text-stone-300">
           <div className="flex flex-wrap items-center gap-1.5 sm:gap-2">
             <span className="font-semibold text-stone-800 dark:text-stone-200">Main:</span>
-            <span>EasyEnglish Bible</span>
+            <span className="text-stone-700 dark:text-stone-300 font-medium">EasyEnglish Bible</span>
             <span className="text-stone-400">•</span>
             <span className="font-semibold text-stone-800 dark:text-stone-200">Compare:</span>
-            <span>King James Version (KJV)</span>
+            <span className="text-stone-700 dark:text-stone-300 font-medium">King James Version (KJV)</span>
           </div>
           <a
             href={chapterData.sourceUrl || `https://www.easyenglish.bible/bible/easy/genesis/${chapterData.chapter}/`}
@@ -159,7 +170,7 @@ export default function BibleReader({
             rel="noopener noreferrer"
             className="inline-flex items-center gap-1 text-stone-600 hover:text-amber-800 dark:text-stone-300 dark:hover:text-amber-400 font-medium transition"
           >
-            <span>EasyEnglish.bible</span>
+            <span className="text-stone-700 dark:text-stone-300 font-medium">EasyEnglish.bible</span>
             <ExternalLink className="w-3 h-3" />
           </a>
         </div>
@@ -237,7 +248,7 @@ export default function BibleReader({
                           )}
 
                           {/* Verse Text in Main Translation (EasyEnglish) */}
-                          <span>{verseItem.text} </span>
+                          <span className="text-stone-900 dark:text-stone-100 leading-relaxed">{verseItem.text} </span>
                         </span>
                       );
                     })}
@@ -377,7 +388,49 @@ export default function BibleReader({
       )}
 
       {/* Chapter Review - Questions and Answers Section */}
-      <ChapterQASection chapter={chapterData.chapter} />
+      <ChapterQASection 
+        chapter={chapterData.chapter}
+        bookId={bookId}
+        bookName={bookName}
+        questions={chapterQA}
+      />
+
+      {/* End-of-Book Celebratory Banner with 50-Question Assessment */}
+      {chapterData.chapter >= totalChapters && (
+        <div className="mt-10 p-5 sm:p-6 rounded-2xl bg-gradient-to-br from-amber-500/10 via-amber-500/5 to-amber-600/15 border border-amber-500/30 dark:border-amber-500/20 text-center space-y-3">
+          <div className="w-12 h-12 mx-auto rounded-xl bg-amber-700 text-amber-100 flex items-center justify-center shadow-md">
+            <Trophy className="w-6 h-6" />
+          </div>
+          <div>
+            <h3 className="font-cinzel font-bold text-lg sm:text-xl text-stone-900 dark:text-stone-100">
+              You've Completed the Book of {bookName}!
+            </h3>
+            <p className="text-xs sm:text-sm text-stone-600 dark:text-stone-300 max-w-md mx-auto mt-1">
+              Congratulations on reading all {totalChapters} chapters. Deepen your understanding with the comprehensive 50-question review.
+            </p>
+          </div>
+          <div className="flex flex-wrap items-center justify-center gap-3 pt-1">
+            {onOpenBookReview && (
+              <button
+                onClick={onOpenBookReview}
+                className="inline-flex items-center gap-2 px-4 py-2.5 rounded-xl text-xs sm:text-sm font-bold bg-amber-700 hover:bg-amber-800 text-white shadow-sm transition cursor-pointer"
+              >
+                <Award className="w-4 h-4" />
+                <span>Take 50-Question Book Review</span>
+              </button>
+            )}
+            {nextBookMeta && onNextBook && (
+              <button
+                onClick={onNextBook}
+                className="inline-flex items-center gap-2 px-4 py-2.5 rounded-xl text-xs sm:text-sm font-semibold bg-stone-200/80 dark:bg-stone-800 hover:bg-stone-300 dark:hover:bg-stone-700 text-stone-800 dark:text-stone-200 transition cursor-pointer"
+              >
+                <span>Continue to {nextBookMeta.name}</span>
+                <ChevronRight className="w-4 h-4" />
+              </button>
+            )}
+          </div>
+        </div>
+      )}
 
       {/* Bottom Chapter Navigation Bar */}
       <div className="mt-12 pt-6 border-t border-stone-200 dark:border-stone-800 flex items-center justify-between">
@@ -387,21 +440,37 @@ export default function BibleReader({
           className="inline-flex items-center gap-2 px-4 py-2.5 rounded-xl text-sm font-semibold bg-stone-200/60 dark:bg-stone-800 hover:bg-stone-200 dark:hover:bg-stone-700 disabled:opacity-30 disabled:pointer-events-none transition cursor-pointer"
         >
           <ChevronLeft className="w-4 h-4" />
-          <span>Genesis {chapterData.chapter - 1}</span>
+          <span>{bookName} {chapterData.chapter - 1}</span>
         </button>
 
         <span className="text-xs font-semibold text-stone-500 dark:text-stone-400">
-          Genesis {chapterData.chapter} of 50
+          {bookName} {chapterData.chapter} of {totalChapters}
         </span>
 
-        <button
-          onClick={onNextChapter}
-          disabled={chapterData.chapter >= 50}
-          className="inline-flex items-center gap-2 px-4 py-2.5 rounded-xl text-sm font-semibold bg-stone-200/60 dark:bg-stone-800 hover:bg-stone-200 dark:hover:bg-stone-700 disabled:opacity-30 disabled:pointer-events-none transition cursor-pointer"
-        >
-          <span>Genesis {chapterData.chapter + 1}</span>
-          <ChevronRight className="w-4 h-4" />
-        </button>
+        {chapterData.chapter < totalChapters ? (
+          <button
+            onClick={onNextChapter}
+            className="inline-flex items-center gap-2 px-4 py-2.5 rounded-xl text-sm font-semibold bg-stone-200/60 dark:bg-stone-800 hover:bg-stone-200 dark:hover:bg-stone-700 transition cursor-pointer"
+          >
+            <span>{bookName} {chapterData.chapter + 1}</span>
+            <ChevronRight className="w-4 h-4" />
+          </button>
+        ) : nextBookMeta && onNextBook ? (
+          <button
+            onClick={onNextBook}
+            className="inline-flex items-center gap-2 px-4 py-2.5 rounded-xl text-sm font-bold bg-amber-700 hover:bg-amber-800 text-white shadow-xs transition cursor-pointer"
+          >
+            <span>{nextBookMeta.name} 1</span>
+            <ChevronRight className="w-4 h-4" />
+          </button>
+        ) : (
+          <button
+            disabled
+            className="inline-flex items-center gap-2 px-4 py-2.5 rounded-xl text-sm font-semibold bg-stone-200/60 dark:bg-stone-800 opacity-30 cursor-default"
+          >
+            <span>End of {bookName}</span>
+          </button>
+        )}
       </div>
 
       {/* Translation & Attribution Notice */}

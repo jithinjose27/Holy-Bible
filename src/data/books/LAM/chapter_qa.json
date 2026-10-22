@@ -1,0 +1,769 @@
+{
+  "book": "Lamentations",
+  "bookId": "LAM",
+  "totalChapters": 5,
+  "totalQuestions": 50,
+  "questionsPerChapter": 10,
+  "chapters": {
+    "1": [
+      {
+        "id": "lam-1-q1",
+        "questionNumber": 1,
+        "question": "According to Lamentations 1:1, what is the opening statement or setting of this chapter?",
+        "options": [
+          "It records: “See her seated by herself, the town which was full of people! She...”",
+          "It begins with a prayer of thanksgiving for deliverance in Lamentations",
+          "It opens with a formal census and counting of the congregation",
+          "It records a severe judgment pronounced against neighboring nations"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "It records: “See her seated by herself, the town which was full of people! She...”",
+        "reference": "Lamentations 1:1",
+        "explanation": "The chapter begins directly with the statement: 'See her seated by herself, the town which was full of people! She who was great among the nations has become like a widow! She who was a princess among the countries has come under the yoke of forced work!'."
+      },
+      {
+        "id": "lam-1-q2",
+        "questionNumber": 2,
+        "question": "What key instruction, event, or declaration is set forth in Lamentations 1:2?",
+        "options": [
+          "“Those who are against her have become the head,...”",
+          "“She is sorrowing bitterly in the night, and her face is...”",
+          "“In her skirts were her unclean ways; she gave...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“She is sorrowing bitterly in the night, and her face is...”",
+        "reference": "Lamentations 1:2",
+        "explanation": "Lamentations 1:2 records: 'She is sorrowing bitterly in the night, and her face is wet with weeping; among all her lovers she has no comforter: all her friends have been false to her, they have become her haters.'."
+      },
+      {
+        "id": "lam-1-q3",
+        "questionNumber": 3,
+        "question": "What significant action or revelation occurs in Lamentations 1:4?",
+        "options": [
+          "“Jerusalem keeps in mind, in the days of her...”",
+          "“Breathing out grief all her people are looking for...”",
+          "“The ways of Zion are sad, because no one comes to...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“The ways of Zion are sad, because no one comes to...”",
+        "reference": "Lamentations 1:4",
+        "explanation": "Lamentations 1:4 records: 'The ways of Zion are sad, because no one comes to the holy meeting; all her doorways are made waste, her priests are breathing out sorrow: her virgins are troubled, and it is bitter for her.'."
+      },
+      {
+        "id": "lam-1-q4",
+        "questionNumber": 4,
+        "question": "What truth or description is highlighted in Lamentations 1:6?",
+        "options": [
+          "“In her skirts were her unclean ways; she gave...”",
+          "“From on high he has sent fire into my...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“And all her glory has gone from the daughter of Zion:...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“And all her glory has gone from the daughter of Zion:...”",
+        "reference": "Lamentations 1:6",
+        "explanation": "Lamentations 1:6 records: 'And all her glory has gone from the daughter of Zion: her rulers have become like harts with no place for food, and they have gone in flight without strength before the attacker.'."
+      },
+      {
+        "id": "lam-1-q5",
+        "questionNumber": 5,
+        "question": "According to the text, what happened or was commanded in Lamentations 1:8?",
+        "options": [
+          "“Great is the sin of Jerusalem; for this cause she has...”",
+          "“Breathing out grief all her people are looking for...”",
+          "“The Lord has made sport of all my men...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“Great is the sin of Jerusalem; for this cause she has...”",
+        "reference": "Lamentations 1:8",
+        "explanation": "Lamentations 1:8 records: 'Great is the sin of Jerusalem; for this cause she has become an unclean thing: all those who gave her honour are looking down on her, because they have seen her shame: now truly, breathing out grief, she is turned back.'."
+      },
+      {
+        "id": "lam-1-q6",
+        "questionNumber": 6,
+        "question": "What central message or instruction is delivered in Lamentations 1:10?",
+        "options": [
+          "“From on high he has sent fire into my...”",
+          "“The hand of her hater is stretched out over all her...”",
+          "“Zion's hands are outstretched; she has no comforter; the...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“The hand of her hater is stretched out over all her...”",
+        "reference": "Lamentations 1:10",
+        "explanation": "Lamentations 1:10 records: 'The hand of her hater is stretched out over all her desired things; for she has seen that the nations have come into her holy place, about whom you gave orders that they were not to come into the meeting of your people.'."
+      },
+      {
+        "id": "lam-1-q7",
+        "questionNumber": 7,
+        "question": "What detail regarding God's work, covenant, or people is given in Lamentations 1:12?",
+        "options": [
+          "“The Lord has made sport of all my men...”",
+          "“I sent for my lovers, but they were false...”",
+          "“Come to me, all you who go by! Keep your eyes...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“Come to me, all you who go by! Keep your eyes...”",
+        "reference": "Lamentations 1:12",
+        "explanation": "Lamentations 1:12 records: 'Come to me, all you who go by! Keep your eyes on me, and see if there is any pain like the pain of my wound, which the Lord has sent on me in the day of his burning wrath.'."
+      },
+      {
+        "id": "lam-1-q8",
+        "questionNumber": 8,
+        "question": "What phrase or account is recorded in Lamentations 1:14?",
+        "options": [
+          "“Zion's hands are outstretched; she has no comforter; the...”",
+          "“Give ear to the voice of my grief; I...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“A watch is kept on my sins; they are joined together...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“A watch is kept on my sins; they are joined together...”",
+        "reference": "Lamentations 1:14",
+        "explanation": "Lamentations 1:14 records: 'A watch is kept on my sins; they are joined together by his hand, they have come on to my neck; he has made my strength give way: the Lord has given me up into the hands of those against whom I have no power.'."
+      },
+      {
+        "id": "lam-1-q9",
+        "questionNumber": 9,
+        "question": "How does the passage describe the circumstances or people in Lamentations 1:16?",
+        "options": [
+          "“For these things I am weeping; my eye is streaming with...”",
+          "“I sent for my lovers, but they were false...”",
+          "“See her seated by herself, the town which was...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“For these things I am weeping; my eye is streaming with...”",
+        "reference": "Lamentations 1:16",
+        "explanation": "Lamentations 1:16 records: 'For these things I am weeping; my eye is streaming with water; because the comforter who might give me new life is far from me: my children are made waste, because the hater is strong.'."
+      },
+      {
+        "id": "lam-1-q10",
+        "questionNumber": 10,
+        "question": "In the concluding portion of the chapter, what takes place in Lamentations 1:18?",
+        "options": [
+          "“Give ear to the voice of my grief; I...”",
+          "“The Lord is upright; for I have gone against his orders:...”",
+          "“Judah has been taken away as a prisoner because...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“The Lord is upright; for I have gone against his orders:...”",
+        "reference": "Lamentations 1:18",
+        "explanation": "Lamentations 1:18 records: 'The Lord is upright; for I have gone against his orders: give ear, now, all you peoples, and see my pain, my virgins and my young men have gone away as prisoners.'."
+      }
+    ],
+    "2": [
+      {
+        "id": "lam-2-q1",
+        "questionNumber": 1,
+        "question": "According to Lamentations 2:1, what is the opening statement or setting of this chapter?",
+        "options": [
+          "It records: “How has the daughter of Zion been covered with a cloud by the Lor...”",
+          "It begins with a prayer of thanksgiving for deliverance in Lamentations",
+          "It opens with a formal census and counting of the congregation",
+          "It records a severe judgment pronounced against neighboring nations"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "It records: “How has the daughter of Zion been covered with a cloud by the Lor...”",
+        "reference": "Lamentations 2:1",
+        "explanation": "The chapter begins directly with the statement: 'How has the daughter of Zion been covered with a cloud by the Lord in his wrath! he has sent down from heaven to earth the glory of Israel, and has not kept in memory the resting-place of his feet in the day of his wrath.'."
+      },
+      {
+        "id": "lam-2-q2",
+        "questionNumber": 2,
+        "question": "What key instruction, event, or declaration is set forth in Lamentations 2:2?",
+        "options": [
+          "“The Lord has become like one fighting against her,...”",
+          "“The Lord has given up to destruction all the living-places of...”",
+          "“Her doors have gone down into the earth; he...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“The Lord has given up to destruction all the living-places of...”",
+        "reference": "Lamentations 2:2",
+        "explanation": "Lamentations 2:2 records: 'The Lord has given up to destruction all the living-places of Jacob without pity; pulling down in his wrath the strong places of the daughter of Judah, stretching out on the earth the wounded, even her king and her rulers.'."
+      },
+      {
+        "id": "lam-2-q3",
+        "questionNumber": 3,
+        "question": "What significant action or revelation occurs in Lamentations 2:4?",
+        "options": [
+          "“The Lord has given up his altar and has...”",
+          "“My eyes are wasted with weeping, the inmost parts...”",
+          "“His bow has been bent for the attack, he has taken...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“His bow has been bent for the attack, he has taken...”",
+        "reference": "Lamentations 2:4",
+        "explanation": "Lamentations 2:4 records: 'His bow has been bent for the attack, he has taken his place with his hand ready, in his hate he has put to death all who were pleasing to the eye: on the tent of the daughter of Zion he has let loose his passion like fire.'."
+      },
+      {
+        "id": "lam-2-q4",
+        "questionNumber": 4,
+        "question": "What truth or description is highlighted in Lamentations 2:6?",
+        "options": [
+          "“Her doors have gone down into the earth; he...”",
+          "“What example am I to give you? what comparison...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“And he has violently taken away his tent, as from a...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“And he has violently taken away his tent, as from a...”",
+        "reference": "Lamentations 2:6",
+        "explanation": "Lamentations 2:6 records: 'And he has violently taken away his tent, as from a garden; he has made waste his meeting-place: the Lord has taken away the memory of feast and Sabbath in Zion, and in the passion of his wrath he is against king and priest.'."
+      },
+      {
+        "id": "lam-2-q5",
+        "questionNumber": 5,
+        "question": "According to the text, what happened or was commanded in Lamentations 2:8?",
+        "options": [
+          "“It is the Lord's purpose to make waste the wall of...”",
+          "“My eyes are wasted with weeping, the inmost parts...”",
+          "“All who go by make a noise with their...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“It is the Lord's purpose to make waste the wall of...”",
+        "reference": "Lamentations 2:8",
+        "explanation": "Lamentations 2:8 records: 'It is the Lord's purpose to make waste the wall of the daughter of Zion; his line has been stretched out, he has not kept back his hand from destruction: he has sent sorrow on tower and wall, they have become feeble together.'."
+      },
+      {
+        "id": "lam-2-q6",
+        "questionNumber": 6,
+        "question": "What central message or instruction is delivered in Lamentations 2:10?",
+        "options": [
+          "“What example am I to give you? what comparison...”",
+          "“The responsible men of the daughter of Zion are seated on...”",
+          "“The Lord has done that which was his purpose;...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“The responsible men of the daughter of Zion are seated on...”",
+        "reference": "Lamentations 2:10",
+        "explanation": "Lamentations 2:10 records: 'The responsible men of the daughter of Zion are seated on the earth without a word; they have put dust on their heads, they are clothed in haircloth: the heads of the virgins of Jerusalem are bent down to the earth.'."
+      },
+      {
+        "id": "lam-2-q7",
+        "questionNumber": 7,
+        "question": "What detail regarding God's work, covenant, or people is given in Lamentations 2:12?",
+        "options": [
+          "“All who go by make a noise with their...”",
+          "“Up! give cries in the night, at the starting...”",
+          "“They say to their mothers, Where is grain and wine? when...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“They say to their mothers, Where is grain and wine? when...”",
+        "reference": "Lamentations 2:12",
+        "explanation": "Lamentations 2:12 records: 'They say to their mothers, Where is grain and wine? when they are falling like the wounded in the open squares of the town, when their life is drained out on their mother's breast.'."
+      },
+      {
+        "id": "lam-2-q8",
+        "questionNumber": 8,
+        "question": "What phrase or account is recorded in Lamentations 2:14?",
+        "options": [
+          "“The Lord has done that which was his purpose;...”",
+          "“The young men and the old are stretched on...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“The visions which your prophets have seen for you are false...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“The visions which your prophets have seen for you are false...”",
+        "reference": "Lamentations 2:14",
+        "explanation": "Lamentations 2:14 records: 'The visions which your prophets have seen for you are false and foolish; they have not made clear to you your sin so that your fate might be changed: but they have seen for you false words, driving you away.'."
+      },
+      {
+        "id": "lam-2-q9",
+        "questionNumber": 9,
+        "question": "How does the passage describe the circumstances or people in Lamentations 2:16?",
+        "options": [
+          "“All your haters are opening their mouths wide against you; making...”",
+          "“Up! give cries in the night, at the starting...”",
+          "“How has the daughter of Zion been covered with...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“All your haters are opening their mouths wide against you; making...”",
+        "reference": "Lamentations 2:16",
+        "explanation": "Lamentations 2:16 records: 'All your haters are opening their mouths wide against you; making hisses and whistling through their teeth, they say, We have made a meal of her: certainly this is the day we have been looking for; it has come, we have seen it.'."
+      },
+      {
+        "id": "lam-2-q10",
+        "questionNumber": 10,
+        "question": "In the concluding portion of the chapter, what takes place in Lamentations 2:18?",
+        "options": [
+          "“The young men and the old are stretched on...”",
+          "“Let your cry go up to the Lord: O wall of...”",
+          "“In his burning wrath every horn of Israel has...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“Let your cry go up to the Lord: O wall of...”",
+        "reference": "Lamentations 2:18",
+        "explanation": "Lamentations 2:18 records: 'Let your cry go up to the Lord: O wall of the daughter of Zion, let your weeping be flowing down like a stream day and night; give yourself no rest, let not your eyes keep back the drops of sorrow.'."
+      }
+    ],
+    "3": [
+      {
+        "id": "lam-3-q1",
+        "questionNumber": 1,
+        "question": "According to Lamentations 3:1, what is the opening statement or setting of this chapter?",
+        "options": [
+          "It records: “I am the man who has seen trouble by the rod of his wrath.”",
+          "It begins with a prayer of thanksgiving for deliverance in Lamentations",
+          "It opens with a formal census and counting of the congregation",
+          "It records a severe judgment pronounced against neighboring nations"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "It records: “I am the man who has seen trouble by the rod of his wrath.”",
+        "reference": "Lamentations 3:1",
+        "explanation": "The chapter begins directly with the statement: 'I am the man who has seen trouble by the rod of his wrath.'."
+      },
+      {
+        "id": "lam-3-q2",
+        "questionNumber": 2,
+        "question": "What key instruction, event, or declaration is set forth in Lamentations 3:6?",
+        "options": [
+          "“He has put up a wall of cut stones...”",
+          "“He has kept me in dark places, like those who have...”",
+          "“He has let loose his arrows into the inmost...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“He has kept me in dark places, like those who have...”",
+        "reference": "Lamentations 3:6",
+        "explanation": "Lamentations 3:6 records: 'He has kept me in dark places, like those who have been long dead.'."
+      },
+      {
+        "id": "lam-3-q3",
+        "questionNumber": 3,
+        "question": "What significant action or revelation occurs in Lamentations 3:12?",
+        "options": [
+          "“He has made my life nothing but pain, he...”",
+          "“Keep in mind my trouble and my wandering, the...”",
+          "“With his bow bent, he has made me the mark for...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“With his bow bent, he has made me the mark for...”",
+        "reference": "Lamentations 3:12",
+        "explanation": "Lamentations 3:12 records: 'With his bow bent, he has made me the mark for his arrows.'."
+      },
+      {
+        "id": "lam-3-q4",
+        "questionNumber": 4,
+        "question": "What truth or description is highlighted in Lamentations 3:18?",
+        "options": [
+          "“This I keep in mind, and because of this...”",
+          "“The Lord is good to those who are waiting...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“And I said, My strength is cut off, and my hope...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“And I said, My strength is cut off, and my hope...”",
+        "reference": "Lamentations 3:18",
+        "explanation": "Lamentations 3:18 records: 'And I said, My strength is cut off, and my hope from the Lord.'."
+      },
+      {
+        "id": "lam-3-q5",
+        "questionNumber": 5,
+        "question": "According to the text, what happened or was commanded in Lamentations 3:24?",
+        "options": [
+          "“I said to myself, The Lord is my heritage; and because...”",
+          "“It is good for a man to undergo the...”",
+          "“For the Lord does not give a man up...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“I said to myself, The Lord is my heritage; and because...”",
+        "reference": "Lamentations 3:24",
+        "explanation": "Lamentations 3:24 records: 'I said to myself, The Lord is my heritage; and because of this I will have hope in him.'."
+      },
+      {
+        "id": "lam-3-q6",
+        "questionNumber": 6,
+        "question": "What central message or instruction is delivered in Lamentations 3:30?",
+        "options": [
+          "“For he has no pleasure in troubling and causing...”",
+          "“Let his face be turned to him who gives him blows;...”",
+          "“Who is able to say a thing, and give...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“Let his face be turned to him who gives him blows;...”",
+        "reference": "Lamentations 3:30",
+        "explanation": "Lamentations 3:30 records: 'Let his face be turned to him who gives him blows; let him be full of shame.'."
+      },
+      {
+        "id": "lam-3-q7",
+        "questionNumber": 7,
+        "question": "What detail regarding God's work, covenant, or people is given in Lamentations 3:36?",
+        "options": [
+          "“What protest may a living man make, even a...”",
+          "“Covering yourself with wrath you have gone after us,...”",
+          "“In his doing wrong to a man in his cause, the...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“In his doing wrong to a man in his cause, the...”",
+        "reference": "Lamentations 3:36",
+        "explanation": "Lamentations 3:36 records: 'In his doing wrong to a man in his cause, the Lord has no pleasure.'."
+      },
+      {
+        "id": "lam-3-q8",
+        "questionNumber": 8,
+        "question": "What phrase or account is recorded in Lamentations 3:42?",
+        "options": [
+          "“You have made us like waste and that for...”",
+          "“My eyes are streaming without stopping, they have no...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“We have done wrong and gone against your law; we have...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“We have done wrong and gone against your law; we have...”",
+        "reference": "Lamentations 3:42",
+        "explanation": "Lamentations 3:42 records: 'We have done wrong and gone against your law; we have not had your forgiveness.'."
+      },
+      {
+        "id": "lam-3-q9",
+        "questionNumber": 9,
+        "question": "How does the passage describe the circumstances or people in Lamentations 3:48?",
+        "options": [
+          "“Rivers of water are running down from my eyes, for the...”",
+          "“The Lord is unkind to my soul, more than...”",
+          "“I was making prayer to your name, O Lord,...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“Rivers of water are running down from my eyes, for the...”",
+        "reference": "Lamentations 3:48",
+        "explanation": "Lamentations 3:48 records: 'Rivers of water are running down from my eyes, for the destruction of the daughter of my people.'."
+      },
+      {
+        "id": "lam-3-q10",
+        "questionNumber": 10,
+        "question": "In the concluding portion of the chapter, what takes place in Lamentations 3:54?",
+        "options": [
+          "“You came near in the day when I made...”",
+          "“Waters were flowing over my head; I said, I am cut off.”",
+          "“Their bitter words have come to your ears, O...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“Waters were flowing over my head; I said, I am cut off.”",
+        "reference": "Lamentations 3:54",
+        "explanation": "Lamentations 3:54 records: 'Waters were flowing over my head; I said, I am cut off.'."
+      }
+    ],
+    "4": [
+      {
+        "id": "lam-4-q1",
+        "questionNumber": 1,
+        "question": "According to Lamentations 4:1, what is the opening statement or setting of this chapter?",
+        "options": [
+          "It records: “How dark has the gold become! how changed the best gold! the ston...”",
+          "It begins with a prayer of thanksgiving for deliverance in Lamentations",
+          "It opens with a formal census and counting of the congregation",
+          "It records a severe judgment pronounced against neighboring nations"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "It records: “How dark has the gold become! how changed the best gold! the ston...”",
+        "reference": "Lamentations 4:1",
+        "explanation": "The chapter begins directly with the statement: 'How dark has the gold become! how changed the best gold! the stones of the holy place are dropping out at the top of every street.'."
+      },
+      {
+        "id": "lam-4-q2",
+        "questionNumber": 2,
+        "question": "What key instruction, event, or declaration is set forth in Lamentations 4:2?",
+        "options": [
+          "“Those who were used to feasting on delicate food...”",
+          "“The valued sons of Zion, whose price was the best gold,...”",
+          "“Those who have been put to the sword are...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“The valued sons of Zion, whose price was the best gold,...”",
+        "reference": "Lamentations 4:2",
+        "explanation": "Lamentations 4:2 records: 'The valued sons of Zion, whose price was the best gold, are looked on as vessels of earth, the work of the hands of the potter!'."
+      },
+      {
+        "id": "lam-4-q3",
+        "questionNumber": 3,
+        "question": "What significant action or revelation occurs in Lamentations 4:4?",
+        "options": [
+          "“Her holy ones were cleaner than snow, they were...”",
+          "“The Lord has given full effect to his passion,...”",
+          "“The tongue of the child at the breast is fixed to...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“The tongue of the child at the breast is fixed to...”",
+        "reference": "Lamentations 4:4",
+        "explanation": "Lamentations 4:4 records: 'The tongue of the child at the breast is fixed to the roof of his mouth for need of drink: the young children are crying out for bread, and no man gives it to them.'."
+      },
+      {
+        "id": "lam-4-q4",
+        "questionNumber": 4,
+        "question": "What truth or description is highlighted in Lamentations 4:6?",
+        "options": [
+          "“Those who have been put to the sword are...”",
+          "“It is because of the sins of her prophets...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“For the punishment of the daughter of my people is greater...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“For the punishment of the daughter of my people is greater...”",
+        "reference": "Lamentations 4:6",
+        "explanation": "Lamentations 4:6 records: 'For the punishment of the daughter of my people is greater than the punishment of Sodom, which was overturned suddenly without any hand falling on her.'."
+      },
+      {
+        "id": "lam-4-q5",
+        "questionNumber": 5,
+        "question": "According to the text, what happened or was commanded in Lamentations 4:8?",
+        "options": [
+          "“Their face is blacker than night; in the streets no one...”",
+          "“The Lord has given full effect to his passion,...”",
+          "“Away! unclean! they were crying out to them, Away!...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“Their face is blacker than night; in the streets no one...”",
+        "reference": "Lamentations 4:8",
+        "explanation": "Lamentations 4:8 records: 'Their face is blacker than night; in the streets no one has knowledge of them: their skin is hanging on their bones, they are dry, they have become like wood.'."
+      },
+      {
+        "id": "lam-4-q6",
+        "questionNumber": 6,
+        "question": "What central message or instruction is delivered in Lamentations 4:10?",
+        "options": [
+          "“It is because of the sins of her prophets...”",
+          "“The hands of kind-hearted women have been boiling their children; they...”",
+          "“Our eyes are still wasting away in looking for...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“The hands of kind-hearted women have been boiling their children; they...”",
+        "reference": "Lamentations 4:10",
+        "explanation": "Lamentations 4:10 records: 'The hands of kind-hearted women have been boiling their children; they were their food in the destruction of the daughter of my people.'."
+      },
+      {
+        "id": "lam-4-q7",
+        "questionNumber": 7,
+        "question": "What detail regarding God's work, covenant, or people is given in Lamentations 4:12?",
+        "options": [
+          "“Away! unclean! they were crying out to them, Away!...”",
+          "“Those who went after us were quicker than the...”",
+          "“To the kings of the earth and to all the people...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“To the kings of the earth and to all the people...”",
+        "reference": "Lamentations 4:12",
+        "explanation": "Lamentations 4:12 records: 'To the kings of the earth and to all the people of the world it did not seem possible that the attackers and the haters would go into the doors of Jerusalem.'."
+      },
+      {
+        "id": "lam-4-q8",
+        "questionNumber": 8,
+        "question": "What phrase or account is recorded in Lamentations 4:14?",
+        "options": [
+          "“Our eyes are still wasting away in looking for...”",
+          "“Have joy and be glad, O daughter of Edom,...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“They are wandering like blind men in the streets, they are...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“They are wandering like blind men in the streets, they are...”",
+        "reference": "Lamentations 4:14",
+        "explanation": "Lamentations 4:14 records: 'They are wandering like blind men in the streets, they are made unclean with blood, so that their robes may not be touched by men.'."
+      },
+      {
+        "id": "lam-4-q9",
+        "questionNumber": 9,
+        "question": "How does the passage describe the circumstances or people in Lamentations 4:16?",
+        "options": [
+          "“The face of the Lord has sent them in all directions;...”",
+          "“Those who went after us were quicker than the...”",
+          "“How dark has the gold become! how changed the...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“The face of the Lord has sent them in all directions;...”",
+        "reference": "Lamentations 4:16",
+        "explanation": "Lamentations 4:16 records: 'The face of the Lord has sent them in all directions; he will no longer take care of them: they had no respect for the priests, they gave no honour to the old men.'."
+      },
+      {
+        "id": "lam-4-q10",
+        "questionNumber": 10,
+        "question": "In the concluding portion of the chapter, what takes place in Lamentations 4:18?",
+        "options": [
+          "“Have joy and be glad, O daughter of Edom,...”",
+          "“They go after our steps so that we may not go...”",
+          "“Even the beasts of the waste land have full...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“They go after our steps so that we may not go...”",
+        "reference": "Lamentations 4:18",
+        "explanation": "Lamentations 4:18 records: 'They go after our steps so that we may not go in our streets: our end is near, our days are numbered; for our end has come.'."
+      }
+    ],
+    "5": [
+      {
+        "id": "lam-5-q1",
+        "questionNumber": 1,
+        "question": "According to Lamentations 5:1, what is the opening statement or setting of this chapter?",
+        "options": [
+          "It records: “Keep in mind, O Lord, what has come to us: take note and see our ...”",
+          "It begins with a prayer of thanksgiving for deliverance in Lamentations",
+          "It opens with a formal census and counting of the congregation",
+          "It records a severe judgment pronounced against neighboring nations"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "It records: “Keep in mind, O Lord, what has come to us: take note and see our ...”",
+        "reference": "Lamentations 5:1",
+        "explanation": "The chapter begins directly with the statement: 'Keep in mind, O Lord, what has come to us: take note and see our shame.'."
+      },
+      {
+        "id": "lam-5-q2",
+        "questionNumber": 2,
+        "question": "What key instruction, event, or declaration is set forth in Lamentations 5:2?",
+        "options": [
+          "“Our attackers are on our necks: overcome with weariness,...”",
+          "“Our heritage is given up to men of strange lands, our...”",
+          "“We put our lives in danger to get our...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“Our heritage is given up to men of strange lands, our...”",
+        "reference": "Lamentations 5:2",
+        "explanation": "Lamentations 5:2 records: 'Our heritage is given up to men of strange lands, our houses to those who are not our countrymen.'."
+      },
+      {
+        "id": "lam-5-q3",
+        "questionNumber": 3,
+        "question": "What significant action or revelation occurs in Lamentations 5:4?",
+        "options": [
+          "“Our fathers were sinners and are dead; and the...”",
+          "“They took by force the women in Zion, the...”",
+          "“We give money for a drink of water, we get our...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“We give money for a drink of water, we get our...”",
+        "reference": "Lamentations 5:4",
+        "explanation": "Lamentations 5:4 records: 'We give money for a drink of water, we get our wood for a price.'."
+      },
+      {
+        "id": "lam-5-q4",
+        "questionNumber": 4,
+        "question": "What truth or description is highlighted in Lamentations 5:6?",
+        "options": [
+          "“We put our lives in danger to get our...”",
+          "“The young men were crushing the grain, and the...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“We have given our hands to the Egyptians and to the...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“We have given our hands to the Egyptians and to the...”",
+        "reference": "Lamentations 5:6",
+        "explanation": "Lamentations 5:6 records: 'We have given our hands to the Egyptians and to the Assyrians so that we might have enough bread.'."
+      },
+      {
+        "id": "lam-5-q5",
+        "questionNumber": 5,
+        "question": "According to the text, what happened or was commanded in Lamentations 5:8?",
+        "options": [
+          "“Servants are ruling over us, and there is no one to...”",
+          "“They took by force the women in Zion, the...”",
+          "“The joy of our hearts is ended; our dancing...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“Servants are ruling over us, and there is no one to...”",
+        "reference": "Lamentations 5:8",
+        "explanation": "Lamentations 5:8 records: 'Servants are ruling over us, and there is no one to make us free from their hands.'."
+      },
+      {
+        "id": "lam-5-q6",
+        "questionNumber": 6,
+        "question": "What central message or instruction is delivered in Lamentations 5:10?",
+        "options": [
+          "“The young men were crushing the grain, and the...”",
+          "“Our skin is heated like an oven because of our burning...”",
+          "“Because of this our hearts are feeble; for these...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“Our skin is heated like an oven because of our burning...”",
+        "reference": "Lamentations 5:10",
+        "explanation": "Lamentations 5:10 records: 'Our skin is heated like an oven because of our burning heat from need of food.'."
+      },
+      {
+        "id": "lam-5-q7",
+        "questionNumber": 7,
+        "question": "What detail regarding God's work, covenant, or people is given in Lamentations 5:12?",
+        "options": [
+          "“The joy of our hearts is ended; our dancing...”",
+          "“You, O Lord, are seated as King for ever;...”",
+          "“Their hands put princes to death by hanging: the faces of...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“Their hands put princes to death by hanging: the faces of...”",
+        "reference": "Lamentations 5:12",
+        "explanation": "Lamentations 5:12 records: 'Their hands put princes to death by hanging: the faces of old men were not honoured.'."
+      },
+      {
+        "id": "lam-5-q8",
+        "questionNumber": 8,
+        "question": "What phrase or account is recorded in Lamentations 5:14?",
+        "options": [
+          "“Because of this our hearts are feeble; for these...”",
+          "“Make us come back to you, O Lord, and...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“The old men are no longer seated in the doorway, and...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“The old men are no longer seated in the doorway, and...”",
+        "reference": "Lamentations 5:14",
+        "explanation": "Lamentations 5:14 records: 'The old men are no longer seated in the doorway, and the music of the young men has come to an end.'."
+      },
+      {
+        "id": "lam-5-q9",
+        "questionNumber": 9,
+        "question": "How does the passage describe the circumstances or people in Lamentations 5:16?",
+        "options": [
+          "“The crown has been taken from our head: sorrow is ours,...”",
+          "“You, O Lord, are seated as King for ever;...”",
+          "“Keep in mind, O Lord, what has come to...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“The crown has been taken from our head: sorrow is ours,...”",
+        "reference": "Lamentations 5:16",
+        "explanation": "Lamentations 5:16 records: 'The crown has been taken from our head: sorrow is ours, for we are sinners.'."
+      },
+      {
+        "id": "lam-5-q10",
+        "questionNumber": 10,
+        "question": "In the concluding portion of the chapter, what takes place in Lamentations 5:18?",
+        "options": [
+          "“Make us come back to you, O Lord, and...”",
+          "“Because of the mountain of Zion which is a waste; jackals...”",
+          "“We are children without fathers, our mothers are like...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“Because of the mountain of Zion which is a waste; jackals...”",
+        "reference": "Lamentations 5:18",
+        "explanation": "Lamentations 5:18 records: 'Because of the mountain of Zion which is a waste; jackals go over it.'."
+      }
+    ]
+  }
+}

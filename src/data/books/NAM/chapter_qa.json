@@ -1,0 +1,465 @@
+{
+  "book": "Nahum",
+  "bookId": "NAM",
+  "totalChapters": 3,
+  "totalQuestions": 30,
+  "questionsPerChapter": 10,
+  "chapters": {
+    "1": [
+      {
+        "id": "nam-1-q1",
+        "questionNumber": 1,
+        "question": "According to Nahum 1:1, what is the opening statement or setting of this chapter?",
+        "options": [
+          "It records: “The word about Nineveh. The book of the vision of Nahum the Elkos...”",
+          "It begins with a prayer of thanksgiving for deliverance in Nahum",
+          "It opens with a formal census and counting of the congregation",
+          "It records a severe judgment pronounced against neighboring nations"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "It records: “The word about Nineveh. The book of the vision of Nahum the Elkos...”",
+        "reference": "Nahum 1:1",
+        "explanation": "The chapter begins directly with the statement: 'The word about Nineveh. The book of the vision of Nahum the Elkoshite.'."
+      },
+      {
+        "id": "nam-1-q2",
+        "questionNumber": 2,
+        "question": "What key instruction, event, or declaration is set forth in Nahum 1:2?",
+        "options": [
+          "“The mountains are shaking because of him, and the...”",
+          "“The Lord is a God who takes care of his honour...”",
+          "“What are you designing against the Lord? he will...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“The Lord is a God who takes care of his honour...”",
+        "reference": "Nahum 1:2",
+        "explanation": "Nahum 1:2 records: 'The Lord is a God who takes care of his honour and gives punishment for wrong; the Lord gives punishment and is angry; the Lord sends punishment on those who are against him, being angry with his haters.'."
+      },
+      {
+        "id": "nam-1-q3",
+        "questionNumber": 3,
+        "question": "What significant action or revelation occurs in Nahum 1:3?",
+        "options": [
+          "“Who may keep his place before his wrath? and...”",
+          "“For though they are like twisted thorns, and are...”",
+          "“The Lord is slow to get angry and great in power,...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“The Lord is slow to get angry and great in power,...”",
+        "reference": "Nahum 1:3",
+        "explanation": "Nahum 1:3 records: 'The Lord is slow to get angry and great in power, and will not let the sinner go without punishment: the way of the Lord is in the wind and the storm, and the clouds are the dust of his feet.'."
+      },
+      {
+        "id": "nam-1-q4",
+        "questionNumber": 4,
+        "question": "What truth or description is highlighted in Nahum 1:4?",
+        "options": [
+          "“The Lord is good, a strong place in the...”",
+          "“One has gone out from you who is designing...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“He says sharp words to the sea and makes it dry,...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“He says sharp words to the sea and makes it dry,...”",
+        "reference": "Nahum 1:4",
+        "explanation": "Nahum 1:4 records: 'He says sharp words to the sea and makes it dry, drying up all the rivers: Bashan is feeble, and Carmel, and the flower of Lebanon is without strength.'."
+      },
+      {
+        "id": "nam-1-q5",
+        "questionNumber": 5,
+        "question": "According to the text, what happened or was commanded in Nahum 1:5?",
+        "options": [
+          "“The mountains are shaking because of him, and the hills flowing...”",
+          "“But like water overflowing he will take them away;...”",
+          "“This is what the Lord has said: The days...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“The mountains are shaking because of him, and the hills flowing...”",
+        "reference": "Nahum 1:5",
+        "explanation": "Nahum 1:5 records: 'The mountains are shaking because of him, and the hills flowing away; the earth is falling to bits before him, the world and all who are in it.'."
+      },
+      {
+        "id": "nam-1-q6",
+        "questionNumber": 6,
+        "question": "What central message or instruction is delivered in Nahum 1:6?",
+        "options": [
+          "“What are you designing against the Lord? he will...”",
+          "“Who may keep his place before his wrath? and who may...”",
+          "“And now I will let his yoke be broken...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“Who may keep his place before his wrath? and who may...”",
+        "reference": "Nahum 1:6",
+        "explanation": "Nahum 1:6 records: 'Who may keep his place before his wrath? and who may undergo the heat of his passion? his wrath is let loose like fire and the rocks are broken open by him.'."
+      },
+      {
+        "id": "nam-1-q7",
+        "questionNumber": 7,
+        "question": "What detail regarding God's work, covenant, or people is given in Nahum 1:7?",
+        "options": [
+          "“For though they are like twisted thorns, and are...”",
+          "“The Lord has given an order about you, that...”",
+          "“The Lord is good, a strong place in the day of...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“The Lord is good, a strong place in the day of...”",
+        "reference": "Nahum 1:7",
+        "explanation": "Nahum 1:7 records: 'The Lord is good, a strong place in the day of trouble; and he has knowledge of those who take him for their safe cover.'."
+      },
+      {
+        "id": "nam-1-q8",
+        "questionNumber": 8,
+        "question": "What phrase or account is recorded in Nahum 1:8?",
+        "options": [
+          "“One has gone out from you who is designing...”",
+          "“The word about Nineveh. The book of the vision...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“But like water overflowing he will take them away; he will...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“But like water overflowing he will take them away; he will...”",
+        "reference": "Nahum 1:8",
+        "explanation": "Nahum 1:8 records: 'But like water overflowing he will take them away; he will put an end to those who come up against him, driving his haters into the dark.'."
+      },
+      {
+        "id": "nam-1-q9",
+        "questionNumber": 9,
+        "question": "How does the passage describe the circumstances or people in Nahum 1:9?",
+        "options": [
+          "“What are you designing against the Lord? he will put an...”",
+          "“This is what the Lord has said: The days...”",
+          "“The word about Nineveh. The book of the vision...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“What are you designing against the Lord? he will put an...”",
+        "reference": "Nahum 1:9",
+        "explanation": "Nahum 1:9 records: 'What are you designing against the Lord? he will put an end to it: his haters will not come up again a second time.'."
+      },
+      {
+        "id": "nam-1-q10",
+        "questionNumber": 10,
+        "question": "In the concluding portion of the chapter, what takes place in Nahum 1:10?",
+        "options": [
+          "“And now I will let his yoke be broken...”",
+          "“For though they are like twisted thorns, and are overcome as...”",
+          "“The Lord is a God who takes care of...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“For though they are like twisted thorns, and are overcome as...”",
+        "reference": "Nahum 1:10",
+        "explanation": "Nahum 1:10 records: 'For though they are like twisted thorns, and are overcome as with drink, they will come to destruction like stems of grass fully dry.'."
+      }
+    ],
+    "2": [
+      {
+        "id": "nam-2-q1",
+        "questionNumber": 1,
+        "question": "According to Nahum 2:1, what is the opening statement or setting of this chapter?",
+        "options": [
+          "It records: “A crusher has come up before your face: keep a good look-out, let...”",
+          "It begins with a prayer of thanksgiving for deliverance in Nahum",
+          "It opens with a formal census and counting of the congregation",
+          "It records a severe judgment pronounced against neighboring nations"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "It records: “A crusher has come up before your face: keep a good look-out, let...”",
+        "reference": "Nahum 2:1",
+        "explanation": "The chapter begins directly with the statement: 'A crusher has come up before your face: keep a good look-out, let the way be watched, make yourself strong, let your power be greatly increased.'."
+      },
+      {
+        "id": "nam-2-q2",
+        "questionNumber": 2,
+        "question": "What key instruction, event, or declaration is set forth in Nahum 2:2?",
+        "options": [
+          "“He takes the record of his great men: they...”",
+          "“For the Lord will make good the vine of Jacob, as...”",
+          "“Take silver, take gold; for there is no end...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“For the Lord will make good the vine of Jacob, as...”",
+        "reference": "Nahum 2:2",
+        "explanation": "Nahum 2:2 records: 'For the Lord will make good the vine of Jacob, as well as the vine of Israel: for the wasters have made them waste and sent destruction on the branches of their vine.'."
+      },
+      {
+        "id": "nam-2-q3",
+        "questionNumber": 3,
+        "question": "What significant action or revelation occurs in Nahum 2:3?",
+        "options": [
+          "“The river doorways are forced open, and the king's...”",
+          "“Everything has been taken from her, all is gone,...”",
+          "“The body-covers of his fighting men have been made red, the...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“The body-covers of his fighting men have been made red, the...”",
+        "reference": "Nahum 2:3",
+        "explanation": "Nahum 2:3 records: 'The body-covers of his fighting men have been made red, the men of war are clothed in bright red: the war-carriages are like flames of fire in the day when he gets ready, the horses are shaking.'."
+      },
+      {
+        "id": "nam-2-q4",
+        "questionNumber": 4,
+        "question": "What truth or description is highlighted in Nahum 2:4?",
+        "options": [
+          "“And the queen is uncovered, she is taken away...”",
+          "“Where is the lions' hole, the place where the...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“The war-carriages are rushing through the streets, pushing against one another...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“The war-carriages are rushing through the streets, pushing against one another...”",
+        "reference": "Nahum 2:4",
+        "explanation": "Nahum 2:4 records: 'The war-carriages are rushing through the streets, pushing against one another in the wide ways, looking like burning lights, running like thunder-flames.'."
+      },
+      {
+        "id": "nam-2-q5",
+        "questionNumber": 5,
+        "question": "According to the text, what happened or was commanded in Nahum 2:5?",
+        "options": [
+          "“He takes the record of his great men: they go falling...”",
+          "“But Nineveh is like a pool of water whose...”",
+          "“Food enough for his young and for his she-lions...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“He takes the record of his great men: they go falling...”",
+        "reference": "Nahum 2:5",
+        "explanation": "Nahum 2:5 records: 'He takes the record of his great men: they go falling on their way; they go quickly to the wall, the cover is made ready.'."
+      },
+      {
+        "id": "nam-2-q6",
+        "questionNumber": 6,
+        "question": "What central message or instruction is delivered in Nahum 2:6?",
+        "options": [
+          "“Take silver, take gold; for there is no end...”",
+          "“The river doorways are forced open, and the king's house is...”",
+          "“A crusher has come up before your face: keep...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“The river doorways are forced open, and the king's house is...”",
+        "reference": "Nahum 2:6",
+        "explanation": "Nahum 2:6 records: 'The river doorways are forced open, and the king's house is flowing away.'."
+      },
+      {
+        "id": "nam-2-q7",
+        "questionNumber": 7,
+        "question": "What detail regarding God's work, covenant, or people is given in Nahum 2:7?",
+        "options": [
+          "“Everything has been taken from her, all is gone,...”",
+          "“A crusher has come up before your face: keep...”",
+          "“And the queen is uncovered, she is taken away and her...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“And the queen is uncovered, she is taken away and her...”",
+        "reference": "Nahum 2:7",
+        "explanation": "Nahum 2:7 records: 'And the queen is uncovered, she is taken away and her servant-girls are weeping like the sound of doves, hammering on their breasts.'."
+      },
+      {
+        "id": "nam-2-q8",
+        "questionNumber": 8,
+        "question": "What phrase or account is recorded in Nahum 2:8?",
+        "options": [
+          "“Where is the lions' hole, the place where the...”",
+          "“For the Lord will make good the vine of...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“But Nineveh is like a pool of water whose waters are...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“But Nineveh is like a pool of water whose waters are...”",
+        "reference": "Nahum 2:8",
+        "explanation": "Nahum 2:8 records: 'But Nineveh is like a pool of water whose waters are flowing away; Keep your place, they say; but no one is turning back.'."
+      },
+      {
+        "id": "nam-2-q9",
+        "questionNumber": 9,
+        "question": "How does the passage describe the circumstances or people in Nahum 2:9?",
+        "options": [
+          "“Take silver, take gold; for there is no end to the...”",
+          "“Food enough for his young and for his she-lions...”",
+          "“The body-covers of his fighting men have been made...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“Take silver, take gold; for there is no end to the...”",
+        "reference": "Nahum 2:9",
+        "explanation": "Nahum 2:9 records: 'Take silver, take gold; for there is no end to the store; take for yourselves a weight of things to be desired.'."
+      },
+      {
+        "id": "nam-2-q10",
+        "questionNumber": 10,
+        "question": "In the concluding portion of the chapter, what takes place in Nahum 2:10?",
+        "options": [
+          "“A crusher has come up before your face: keep...”",
+          "“Everything has been taken from her, all is gone, she has...”",
+          "“The war-carriages are rushing through the streets, pushing against...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“Everything has been taken from her, all is gone, she has...”",
+        "reference": "Nahum 2:10",
+        "explanation": "Nahum 2:10 records: 'Everything has been taken from her, all is gone, she has nothing more: the heart is turned to water, the knees are shaking, all are twisted in pain, and colour has gone from all faces.'."
+      }
+    ],
+    "3": [
+      {
+        "id": "nam-3-q1",
+        "questionNumber": 1,
+        "question": "According to Nahum 3:1, what is the opening statement or setting of this chapter?",
+        "options": [
+          "It records: “A curse is on the town of blood; it is full of deceit and violent...”",
+          "It begins with a prayer of thanksgiving for deliverance in Nahum",
+          "It opens with a formal census and counting of the congregation",
+          "It records a severe judgment pronounced against neighboring nations"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "It records: “A curse is on the town of blood; it is full of deceit and violent...”",
+        "reference": "Nahum 3:1",
+        "explanation": "The chapter begins directly with the statement: 'A curse is on the town of blood; it is full of deceit and violent acts; and there is no end to the taking of life.'."
+      },
+      {
+        "id": "nam-3-q2",
+        "questionNumber": 2,
+        "question": "What key instruction, event, or declaration is set forth in Nahum 3:2?",
+        "options": [
+          "“See, I am against you, says the Lord of...”",
+          "“The noise of the whip, and the noise of thundering wheels;...”",
+          "“Ethiopia was her strength and Egyptians without number; Put...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“The noise of the whip, and the noise of thundering wheels;...”",
+        "reference": "Nahum 3:2",
+        "explanation": "Nahum 3:2 records: 'The noise of the whip, and the noise of thundering wheels; horses rushing and war-carriages jumping,'."
+      },
+      {
+        "id": "nam-3-q3",
+        "questionNumber": 3,
+        "question": "What significant action or revelation occurs in Nahum 3:3?",
+        "options": [
+          "“I will make you completely disgusting and full of...”",
+          "“But even she has been taken away, she has...”",
+          "“Horsemen driving forward, and the shining sword and the bright spear:...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“Horsemen driving forward, and the shining sword and the bright spear:...”",
+        "reference": "Nahum 3:3",
+        "explanation": "Nahum 3:3 records: 'Horsemen driving forward, and the shining sword and the bright spear: and a great number of wounded, and masses of dead bodies; they are falling over the bodies of the dead:'."
+      },
+      {
+        "id": "nam-3-q4",
+        "questionNumber": 4,
+        "question": "What truth or description is highlighted in Nahum 3:4?",
+        "options": [
+          "“And it will come about that all who see...”",
+          "“And you will be overcome with wine, you will...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“Because of all the false ways of the loose woman, expert...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“Because of all the false ways of the loose woman, expert...”",
+        "reference": "Nahum 3:4",
+        "explanation": "Nahum 3:4 records: 'Because of all the false ways of the loose woman, expert in attraction and wise in secret arts, who takes nations in the net of her false ways, and families through her secret arts.'."
+      },
+      {
+        "id": "nam-3-q5",
+        "questionNumber": 5,
+        "question": "According to the text, what happened or was commanded in Nahum 3:5?",
+        "options": [
+          "“See, I am against you, says the Lord of armies, and...”",
+          "“Are you better than No-amon, seated on the Nile...”",
+          "“All your walled places will be like fig-trees and...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“See, I am against you, says the Lord of armies, and...”",
+        "reference": "Nahum 3:5",
+        "explanation": "Nahum 3:5 records: 'See, I am against you, says the Lord of armies, and I will have your skirts pulled over your face, and let the nations see you unclothed, and the kingdoms your shame.'."
+      },
+      {
+        "id": "nam-3-q6",
+        "questionNumber": 6,
+        "question": "What central message or instruction is delivered in Nahum 3:6?",
+        "options": [
+          "“Ethiopia was her strength and Egyptians without number; Put...”",
+          "“I will make you completely disgusting and full of shame, and...”",
+          "“See, the people who are in you are women;...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“I will make you completely disgusting and full of shame, and...”",
+        "reference": "Nahum 3:6",
+        "explanation": "Nahum 3:6 records: 'I will make you completely disgusting and full of shame, and will put you up to be looked at by all.'."
+      },
+      {
+        "id": "nam-3-q7",
+        "questionNumber": 7,
+        "question": "What detail regarding God's work, covenant, or people is given in Nahum 3:7?",
+        "options": [
+          "“But even she has been taken away, she has...”",
+          "“Get water for the time when you are shut...”",
+          "“And it will come about that all who see you will...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“And it will come about that all who see you will...”",
+        "reference": "Nahum 3:7",
+        "explanation": "Nahum 3:7 records: 'And it will come about that all who see you will go in flight from you and say, Nineveh is made waste: who will be weeping for her? where am I to get comforters for her?'."
+      },
+      {
+        "id": "nam-3-q8",
+        "questionNumber": 8,
+        "question": "What phrase or account is recorded in Nahum 3:8?",
+        "options": [
+          "“And you will be overcome with wine, you will...”",
+          "“There the fire will make you waste; you will...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“Are you better than No-amon, seated on the Nile streams, with...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“Are you better than No-amon, seated on the Nile streams, with...”",
+        "reference": "Nahum 3:8",
+        "explanation": "Nahum 3:8 records: 'Are you better than No-amon, seated on the Nile streams, with waters all round her; whose wall was the sea and her earthwork the waters?'."
+      },
+      {
+        "id": "nam-3-q9",
+        "questionNumber": 9,
+        "question": "How does the passage describe the circumstances or people in Nahum 3:9?",
+        "options": [
+          "“Ethiopia was her strength and Egyptians without number; Put and Lubim...”",
+          "“All your walled places will be like fig-trees and...”",
+          "“Let your traders be increased more than the stars...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“Ethiopia was her strength and Egyptians without number; Put and Lubim...”",
+        "reference": "Nahum 3:9",
+        "explanation": "Nahum 3:9 records: 'Ethiopia was her strength and Egyptians without number; Put and Lubim were her helpers.'."
+      },
+      {
+        "id": "nam-3-q10",
+        "questionNumber": 10,
+        "question": "In the concluding portion of the chapter, what takes place in Nahum 3:10?",
+        "options": [
+          "“See, the people who are in you are women;...”",
+          "“But even she has been taken away, she has gone away...”",
+          "“Your crowned ones are like the locusts, and your...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“But even she has been taken away, she has gone away...”",
+        "reference": "Nahum 3:10",
+        "explanation": "Nahum 3:10 records: 'But even she has been taken away, she has gone away as a prisoner: even her young children are smashed to bits at the top of all the streets: the fate of her honoured men is put to the decision of chance, and all her great men are put in chains.'."
+      }
+    ]
+  }
+}

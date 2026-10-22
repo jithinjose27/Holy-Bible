@@ -1,19 +1,32 @@
 import React, { useState, useMemo } from 'react';
 import { X, Search, BookOpen, ChevronRight, Hash } from 'lucide-react';
-import bibleData from '../data/genesis_bible_text.json';
 
-export default function SearchModal({ isOpen, onClose, onSelectVerse }) {
+export default function SearchModal({ 
+  isOpen, 
+  onClose, 
+  onSelectVerse, 
+  currentBookText = null,
+  bookName = "Genesis",
+  bookId = "GEN"
+}) {
   const [searchTerm, setSearchTerm] = useState('');
+
+  const activeBookData = currentBookText;
 
   const searchResults = useMemo(() => {
     const q = searchTerm.trim().toLowerCase();
     if (!q || q.length < 2) return [];
 
     const results = [];
-    for (const ch of bibleData.chapters) {
-      for (const v of ch.verses) {
-        if (v.text.toLowerCase().includes(q)) {
+    const chapters = activeBookData?.chapters || [];
+
+    for (const ch of chapters) {
+      const verses = ch.verses || [];
+      for (const v of verses) {
+        if (v.text && v.text.toLowerCase().includes(q)) {
           results.push({
+            bookId,
+            bookName,
             chapter: ch.chapter,
             verse: v.verse,
             text: v.text,
@@ -26,7 +39,7 @@ export default function SearchModal({ isOpen, onClose, onSelectVerse }) {
       if (results.length >= 60) break;
     }
     return results;
-  }, [searchTerm]);
+  }, [searchTerm, activeBookData, bookId, bookName]);
 
   if (!isOpen) return null;
 
@@ -56,7 +69,7 @@ export default function SearchModal({ isOpen, onClose, onSelectVerse }) {
             type="text"
             value={searchTerm}
             onChange={(e) => setSearchTerm(e.target.value)}
-            placeholder="Search Genesis (e.g., 'light', 'covenant', 'Joseph', 'stars')..."
+            placeholder={`Search ${bookName} (e.g., 'faith', 'covenant', 'glory')...`}
             className="flex-1 bg-transparent text-base text-stone-800 dark:text-stone-100 placeholder:text-stone-400 focus:outline-none"
             autoFocus
           />
@@ -70,64 +83,56 @@ export default function SearchModal({ isOpen, onClose, onSelectVerse }) {
           )}
           <button
             onClick={onClose}
-            className="px-3 py-1.5 text-xs font-semibold bg-stone-200 dark:bg-stone-800 hover:bg-stone-300 dark:hover:bg-stone-700 text-stone-700 dark:text-stone-300 rounded-lg transition"
+            className="p-1.5 rounded-lg text-stone-400 hover:text-stone-700 dark:hover:text-stone-200"
           >
-            Esc
+            <span className="text-xs font-semibold uppercase">Close</span>
           </button>
         </div>
 
         {/* Results List */}
-        <div className="flex-1 overflow-y-auto p-4 divide-y divide-stone-200/60 dark:divide-stone-800/60">
-          {!searchTerm.trim() ? (
+        <div className="flex-1 overflow-y-auto p-4 space-y-2">
+          {searchTerm.trim().length >= 2 && searchResults.length === 0 && (
             <div className="py-12 text-center text-stone-400">
-              <Search className="w-10 h-10 mx-auto mb-3 opacity-30" />
-              <p className="text-sm font-medium">Type a word or phrase to search all 50 chapters of Genesis.</p>
-              <div className="mt-4 flex flex-wrap justify-center gap-2 text-xs">
-                {['In the beginning', 'Covenant', 'Rainbow', 'Abraham', 'Isaac', 'Ladder', 'Joseph'].map((sample) => (
-                  <button
-                    key={sample}
-                    onClick={() => setSearchTerm(sample)}
-                    className="px-2.5 py-1 bg-stone-100 dark:bg-stone-800 text-stone-600 dark:text-stone-300 rounded-full hover:bg-amber-100 dark:hover:bg-amber-950/40 hover:text-amber-800 transition"
-                  >
-                    "{sample}"
-                  </button>
-                ))}
-              </div>
+              <Search className="w-8 h-8 mx-auto mb-2 opacity-30" />
+              <p className="text-sm">No matches found for "{searchTerm}" in {bookName}.</p>
             </div>
-          ) : searchResults.length === 0 ? (
-            <div className="py-12 text-center text-stone-400">
-              <p className="text-sm">No matches found for "{searchTerm}".</p>
-            </div>
-          ) : (
-            searchResults.map((res, idx) => (
-              <div
-                key={idx}
-                onClick={() => {
-                  onSelectVerse(res.chapter, res.verse);
-                  onClose();
-                }}
-                className="py-3 px-3 hover:bg-stone-100 dark:hover:bg-stone-800/50 rounded-xl cursor-pointer transition group"
-              >
-                <div className="flex items-center justify-between mb-1">
-                  <span className="text-xs font-bold text-amber-800 dark:text-amber-400 flex items-center gap-1.5">
-                    <BookOpen className="w-3.5 h-3.5" /> Genesis {res.chapter}:{res.verse}
-                  </span>
-                  <span className="text-[11px] text-stone-400 flex items-center gap-1 opacity-0 group-hover:opacity-100 transition">
-                    Jump to verse <ChevronRight className="w-3.5 h-3.5" />
-                  </span>
-                </div>
-                <p className="text-sm font-serif-bible text-stone-700 dark:text-stone-300 line-clamp-2 leading-relaxed">
-                  {highlightMatch(res.text, searchTerm)}
-                </p>
-              </div>
-            ))
           )}
+
+          {searchTerm.trim().length < 2 && (
+            <div className="py-12 text-center text-stone-400">
+              <BookOpen className="w-8 h-8 mx-auto mb-2 opacity-30" />
+              <p className="text-sm">Type 2 or more characters to search {bookName} scriptures.</p>
+            </div>
+          )}
+
+          {searchResults.map((res) => (
+            <div
+              key={`${res.chapter}-${res.verse}`}
+              onClick={() => {
+                onSelectVerse(res.chapter, res.verse);
+                onClose();
+              }}
+              className="p-3.5 bg-white dark:bg-stone-800/80 hover:bg-amber-50/60 dark:hover:bg-amber-950/30 border border-stone-200 dark:border-stone-800 hover:border-amber-400 dark:hover:border-amber-600 rounded-xl cursor-pointer transition group"
+            >
+              <div className="flex items-center justify-between text-xs font-bold text-amber-800 dark:text-amber-400 mb-1">
+                <span className="flex items-center gap-1.5">
+                  <Hash className="w-3.5 h-3.5 opacity-70" /> {res.bookName} {res.chapter}:{res.verse}
+                </span>
+                <span className="text-[11px] font-normal text-stone-400 group-hover:text-amber-600 flex items-center gap-0.5">
+                  Jump to verse <ChevronRight className="w-3 h-3" />
+                </span>
+              </div>
+              <p className="text-xs sm:text-sm font-serif-bible text-stone-800 dark:text-stone-200 leading-relaxed">
+                {highlightMatch(res.text, searchTerm)}
+              </p>
+            </div>
+          ))}
         </div>
 
-        {/* Footer */}
+        {/* Footer info */}
         {searchResults.length > 0 && (
-          <div className="p-3 border-t border-stone-200 dark:border-stone-800 bg-stone-100/60 dark:bg-stone-950/40 text-xs text-stone-500 text-right">
-            Found {searchResults.length} {searchResults.length === 60 ? 'or more' : ''} verses
+          <div className="p-3 bg-stone-100 dark:bg-stone-950 text-xs text-stone-500 text-center border-t border-stone-200 dark:border-stone-800">
+            Found {searchResults.length} {searchResults.length === 1 ? 'match' : 'matches'} in {bookName}
           </div>
         )}
       </div>

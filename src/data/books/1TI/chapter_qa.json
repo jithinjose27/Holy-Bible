@@ -1,0 +1,921 @@
+{
+  "book": "1 Timothy",
+  "bookId": "1TI",
+  "totalChapters": 6,
+  "totalQuestions": 60,
+  "questionsPerChapter": 10,
+  "chapters": {
+    "1": [
+      {
+        "id": "1ti-1-q1",
+        "questionNumber": 1,
+        "question": "According to 1 Timothy 1:1, what is the opening statement or setting of this chapter?",
+        "options": [
+          "It records: “Paul, an Apostle of Jesus Christ, by the order of God our Saviour...”",
+          "It begins with a prayer of thanksgiving for deliverance in 1 Timothy",
+          "It opens with a formal census and counting of the congregation",
+          "It records a severe judgment pronounced against neighboring nations"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "It records: “Paul, an Apostle of Jesus Christ, by the order of God our Saviour...”",
+        "reference": "1 Timothy 1:1",
+        "explanation": "The chapter begins directly with the statement: 'Paul, an Apostle of Jesus Christ, by the order of God our Saviour and Christ Jesus our hope;'."
+      },
+      {
+        "id": "1ti-1-q2",
+        "questionNumber": 2,
+        "question": "What key instruction, event, or declaration is set forth in 1 Timothy 1:2?",
+        "options": [
+          "“But the effect of the order is love coming...”",
+          "“To Timothy, my true child in the faith: Grace, mercy, peace,...”",
+          "“With the knowledge that the law is made, not...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“To Timothy, my true child in the faith: Grace, mercy, peace,...”",
+        "reference": "1 Timothy 1:2",
+        "explanation": "1 Timothy 1:2 records: 'To Timothy, my true child in the faith: Grace, mercy, peace, from God the Father and Christ Jesus our Lord.'."
+      },
+      {
+        "id": "1ti-1-q3",
+        "questionNumber": 3,
+        "question": "What significant action or revelation occurs in 1 Timothy 1:4?",
+        "options": [
+          "“Desiring to be teachers of the law, though they...”",
+          "“Which may be seen in the good news of...”",
+          "“Or to give attention to stories and long lists of generations,...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“Or to give attention to stories and long lists of generations,...”",
+        "reference": "1 Timothy 1:4",
+        "explanation": "1 Timothy 1:4 records: 'Or to give attention to stories and long lists of generations, from which come questionings and doubts, in place of God's ordered way of life which is in faith;'."
+      },
+      {
+        "id": "1ti-1-q4",
+        "questionNumber": 4,
+        "question": "What truth or description is highlighted in 1 Timothy 1:6?",
+        "options": [
+          "“With the knowledge that the law is made, not...”",
+          "“Though I had said violent words against God, and...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“From which some have been turned away, giving themselves to foolish talking;”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“From which some have been turned away, giving themselves to foolish talking;”",
+        "reference": "1 Timothy 1:6",
+        "explanation": "1 Timothy 1:6 records: 'From which some have been turned away, giving themselves to foolish talking;'."
+      },
+      {
+        "id": "1ti-1-q5",
+        "questionNumber": 5,
+        "question": "According to the text, what happened or was commanded in 1 Timothy 1:8?",
+        "options": [
+          "“We are conscious that the law is good, if a man...”",
+          "“Which may be seen in the good news of...”",
+          "“It is a true saying, in which all may...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“We are conscious that the law is good, if a man...”",
+        "reference": "1 Timothy 1:8",
+        "explanation": "1 Timothy 1:8 records: 'We are conscious that the law is good, if a man makes a right use of it,'."
+      },
+      {
+        "id": "1ti-1-q6",
+        "questionNumber": 6,
+        "question": "What central message or instruction is delivered in 1 Timothy 1:10?",
+        "options": [
+          "“Though I had said violent words against God, and...”",
+          "“For those who go after loose women, for those with unnatural...”",
+          "“Now to the King eternal, ever-living, unseen, the only...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“For those who go after loose women, for those with unnatural...”",
+        "reference": "1 Timothy 1:10",
+        "explanation": "1 Timothy 1:10 records: 'For those who go after loose women, for those with unnatural desires, for those who take men prisoners, who make false statements and false oaths, and those who do any other things against the right teaching,'."
+      },
+      {
+        "id": "1ti-1-q7",
+        "questionNumber": 7,
+        "question": "What detail regarding God's work, covenant, or people is given in 1 Timothy 1:12?",
+        "options": [
+          "“It is a true saying, in which all may...”",
+          "“Keeping faith, and being conscious of well-doing; for some,...”",
+          "“I give praise to him who gave me power, Christ Jesus...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“I give praise to him who gave me power, Christ Jesus...”",
+        "reference": "1 Timothy 1:12",
+        "explanation": "1 Timothy 1:12 records: 'I give praise to him who gave me power, Christ Jesus our Lord, because he took me to be true, making me his servant,'."
+      },
+      {
+        "id": "1ti-1-q8",
+        "questionNumber": 8,
+        "question": "What phrase or account is recorded in 1 Timothy 1:14?",
+        "options": [
+          "“Now to the King eternal, ever-living, unseen, the only...”",
+          "“Paul, an Apostle of Jesus Christ, by the order...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“And the grace of our Lord was very great, with faith...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“And the grace of our Lord was very great, with faith...”",
+        "reference": "1 Timothy 1:14",
+        "explanation": "1 Timothy 1:14 records: 'And the grace of our Lord was very great, with faith and love which is in Christ Jesus.'."
+      },
+      {
+        "id": "1ti-1-q9",
+        "questionNumber": 9,
+        "question": "How does the passage describe the circumstances or people in 1 Timothy 1:16?",
+        "options": [
+          "“But for this reason I was given mercy, so that in...”",
+          "“Keeping faith, and being conscious of well-doing; for some,...”",
+          "“It was my desire, when I went on into...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“But for this reason I was given mercy, so that in...”",
+        "reference": "1 Timothy 1:16",
+        "explanation": "1 Timothy 1:16 records: 'But for this reason I was given mercy, so that in me, the chief of sinners, Jesus Christ might make clear all his mercy, as an example to those who in the future would have faith in him to eternal life.'."
+      },
+      {
+        "id": "1ti-1-q10",
+        "questionNumber": 10,
+        "question": "In the concluding portion of the chapter, what takes place in 1 Timothy 1:18?",
+        "options": [
+          "“Paul, an Apostle of Jesus Christ, by the order...”",
+          "“This order I give to you, Timothy my son, in harmony...”",
+          "“But the effect of the order is love coming...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“This order I give to you, Timothy my son, in harmony...”",
+        "reference": "1 Timothy 1:18",
+        "explanation": "1 Timothy 1:18 records: 'This order I give to you, Timothy my son, in harmony with the words of the prophets about you, so that by them you may be strong, fighting the good fight,'."
+      }
+    ],
+    "2": [
+      {
+        "id": "1ti-2-q1",
+        "questionNumber": 1,
+        "question": "According to 1 Timothy 2:1, what is the opening statement or setting of this chapter?",
+        "options": [
+          "It records: “My desire is, first of all, that you will make requests and praye...”",
+          "It begins with a prayer of thanksgiving for deliverance in 1 Timothy",
+          "It opens with a formal census and counting of the congregation",
+          "It records a severe judgment pronounced against neighboring nations"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "It records: “My desire is, first of all, that you will make requests and praye...”",
+        "reference": "1 Timothy 2:1",
+        "explanation": "The chapter begins directly with the statement: 'My desire is, first of all, that you will make requests and prayers and give praise for all men;'."
+      },
+      {
+        "id": "1ti-2-q2",
+        "questionNumber": 2,
+        "question": "What key instruction, event, or declaration is set forth in 1 Timothy 2:2?",
+        "options": [
+          "“For there is one God and one peacemaker between...”",
+          "“For kings and all those in authority; so that we may...”",
+          "“And that women may be dressed in simple clothing,...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“For kings and all those in authority; so that we may...”",
+        "reference": "1 Timothy 2:2",
+        "explanation": "1 Timothy 2:2 records: 'For kings and all those in authority; so that we may have a calm and quiet life in all fear of God and serious behaviour.'."
+      },
+      {
+        "id": "1ti-2-q3",
+        "questionNumber": 3,
+        "question": "What significant action or revelation occurs in 1 Timothy 2:3?",
+        "options": [
+          "“Who gave himself as an offering for all; witness...”",
+          "“But clothed with good works, as is right for...”",
+          "“This is good and pleasing in the eyes of God our Saviour;”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“This is good and pleasing in the eyes of God our Saviour;”",
+        "reference": "1 Timothy 2:3",
+        "explanation": "1 Timothy 2:3 records: 'This is good and pleasing in the eyes of God our Saviour;'."
+      },
+      {
+        "id": "1ti-2-q4",
+        "questionNumber": 4,
+        "question": "What truth or description is highlighted in 1 Timothy 2:4?",
+        "options": [
+          "“And of this I became a preacher and an...”",
+          "“Let a woman quietly take the place of a...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“Whose desire is that all men may have salvation and come...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“Whose desire is that all men may have salvation and come...”",
+        "reference": "1 Timothy 2:4",
+        "explanation": "1 Timothy 2:4 records: 'Whose desire is that all men may have salvation and come to the knowledge of what is true.'."
+      },
+      {
+        "id": "1ti-2-q5",
+        "questionNumber": 5,
+        "question": "According to the text, what happened or was commanded in 1 Timothy 2:5?",
+        "options": [
+          "“For there is one God and one peacemaker between God and...”",
+          "“It is my desire, then, that in every place...”",
+          "“In my opinion it is right for a woman...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“For there is one God and one peacemaker between God and...”",
+        "reference": "1 Timothy 2:5",
+        "explanation": "1 Timothy 2:5 records: 'For there is one God and one peacemaker between God and men, the man Christ Jesus,'."
+      },
+      {
+        "id": "1ti-2-q6",
+        "questionNumber": 6,
+        "question": "What central message or instruction is delivered in 1 Timothy 2:6?",
+        "options": [
+          "“And that women may be dressed in simple clothing,...”",
+          "“Who gave himself as an offering for all; witness of which...”",
+          "“For Adam was first formed, then Eve;”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“Who gave himself as an offering for all; witness of which...”",
+        "reference": "1 Timothy 2:6",
+        "explanation": "1 Timothy 2:6 records: 'Who gave himself as an offering for all; witness of which was to be given at the right time;'."
+      },
+      {
+        "id": "1ti-2-q7",
+        "questionNumber": 7,
+        "question": "What detail regarding God's work, covenant, or people is given in 1 Timothy 2:7?",
+        "options": [
+          "“But clothed with good works, as is right for...”",
+          "“And Adam was not taken by deceit, but the...”",
+          "“And of this I became a preacher and an Apostle (what...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“And of this I became a preacher and an Apostle (what...”",
+        "reference": "1 Timothy 2:7",
+        "explanation": "1 Timothy 2:7 records: 'And of this I became a preacher and an Apostle (what I say is true, not false,) and a teacher of the Gentiles in the true faith.'."
+      },
+      {
+        "id": "1ti-2-q8",
+        "questionNumber": 8,
+        "question": "What phrase or account is recorded in 1 Timothy 2:8?",
+        "options": [
+          "“Let a woman quietly take the place of a...”",
+          "“My desire is, first of all, that you will...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“It is my desire, then, that in every place men may...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“It is my desire, then, that in every place men may...”",
+        "reference": "1 Timothy 2:8",
+        "explanation": "1 Timothy 2:8 records: 'It is my desire, then, that in every place men may give themselves to prayer, lifting up holy hands, without wrath or argument.'."
+      },
+      {
+        "id": "1ti-2-q9",
+        "questionNumber": 9,
+        "question": "How does the passage describe the circumstances or people in 1 Timothy 2:9?",
+        "options": [
+          "“And that women may be dressed in simple clothing, with a...”",
+          "“In my opinion it is right for a woman...”",
+          "“My desire is, first of all, that you will...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“And that women may be dressed in simple clothing, with a...”",
+        "reference": "1 Timothy 2:9",
+        "explanation": "1 Timothy 2:9 records: 'And that women may be dressed in simple clothing, with a quiet and serious air; not with twisted hair and gold or jewels or robes of great price;'."
+      },
+      {
+        "id": "1ti-2-q10",
+        "questionNumber": 10,
+        "question": "In the concluding portion of the chapter, what takes place in 1 Timothy 2:10?",
+        "options": [
+          "“For Adam was first formed, then Eve;”",
+          "“But clothed with good works, as is right for women who...”",
+          "“For kings and all those in authority; so that...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“But clothed with good works, as is right for women who...”",
+        "reference": "1 Timothy 2:10",
+        "explanation": "1 Timothy 2:10 records: 'But clothed with good works, as is right for women who are living in the fear of God.'."
+      }
+    ],
+    "3": [
+      {
+        "id": "1ti-3-q1",
+        "questionNumber": 1,
+        "question": "According to 1 Timothy 3:1, what is the opening statement or setting of this chapter?",
+        "options": [
+          "It records: “This is a true saying, A man desiring the position of a Bishop ha...”",
+          "It begins with a prayer of thanksgiving for deliverance in 1 Timothy",
+          "It opens with a formal census and counting of the congregation",
+          "It records a severe judgment pronounced against neighboring nations"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "It records: “This is a true saying, A man desiring the position of a Bishop ha...”",
+        "reference": "1 Timothy 3:1",
+        "explanation": "The chapter begins directly with the statement: 'This is a true saying, A man desiring the position of a Bishop has a desire for a good work.'."
+      },
+      {
+        "id": "1ti-3-q2",
+        "questionNumber": 2,
+        "question": "What key instruction, event, or declaration is set forth in 1 Timothy 3:2?",
+        "options": [
+          "“(For if a man has not the art of...”",
+          "“The Bishop, then, is to be a man of good name,...”",
+          "“Keeping the secret of the faith in a heart...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“The Bishop, then, is to be a man of good name,...”",
+        "reference": "1 Timothy 3:2",
+        "explanation": "1 Timothy 3:2 records: 'The Bishop, then, is to be a man of good name, the husband of one wife, self-controlled, serious-minded, having respect for order, opening his house freely to guests, a ready teacher;'."
+      },
+      {
+        "id": "1ti-3-q3",
+        "questionNumber": 3,
+        "question": "What significant action or revelation occurs in 1 Timothy 3:3?",
+        "options": [
+          "“Not one newly taken into the church, for fear...”",
+          "“And let these first be put to the test;...”",
+          "“Not quickly moved to wrath or blows, but gentle; no fighter,...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“Not quickly moved to wrath or blows, but gentle; no fighter,...”",
+        "reference": "1 Timothy 3:3",
+        "explanation": "1 Timothy 3:3 records: 'Not quickly moved to wrath or blows, but gentle; no fighter, no lover of money;'."
+      },
+      {
+        "id": "1ti-3-q4",
+        "questionNumber": 4,
+        "question": "What truth or description is highlighted in 1 Timothy 3:4?",
+        "options": [
+          "“And he is to have a good name among...”",
+          "“Women are to be serious in behaviour, saying no...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“Ruling his house well, having his children under control with all...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“Ruling his house well, having his children under control with all...”",
+        "reference": "1 Timothy 3:4",
+        "explanation": "1 Timothy 3:4 records: 'Ruling his house well, having his children under control with all serious behaviour;'."
+      },
+      {
+        "id": "1ti-3-q5",
+        "questionNumber": 5,
+        "question": "According to the text, what happened or was commanded in 1 Timothy 3:5?",
+        "options": [
+          "“(For if a man has not the art of ruling his...”",
+          "“Deacons, in the same way, are to be serious...”",
+          "“Let Deacons be husbands of one wife, ruling their...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“(For if a man has not the art of ruling his...”",
+        "reference": "1 Timothy 3:5",
+        "explanation": "1 Timothy 3:5 records: '(For if a man has not the art of ruling his house, how will he take care of the church of God?)'."
+      },
+      {
+        "id": "1ti-3-q6",
+        "questionNumber": 6,
+        "question": "What central message or instruction is delivered in 1 Timothy 3:6?",
+        "options": [
+          "“Keeping the secret of the faith in a heart...”",
+          "“Not one newly taken into the church, for fear that, through...”",
+          "“For those who have done good work as Deacons...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“Not one newly taken into the church, for fear that, through...”",
+        "reference": "1 Timothy 3:6",
+        "explanation": "1 Timothy 3:6 records: 'Not one newly taken into the church, for fear that, through his high opinion of himself, he may come into the same sin as the Evil One.'."
+      },
+      {
+        "id": "1ti-3-q7",
+        "questionNumber": 7,
+        "question": "What detail regarding God's work, covenant, or people is given in 1 Timothy 3:7?",
+        "options": [
+          "“And let these first be put to the test;...”",
+          "“I am writing these things to you, though I...”",
+          "“And he is to have a good name among those outside...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“And he is to have a good name among those outside...”",
+        "reference": "1 Timothy 3:7",
+        "explanation": "1 Timothy 3:7 records: 'And he is to have a good name among those outside the church, so that nothing may be said against him and he may not be taken by the designs of the Evil One.'."
+      },
+      {
+        "id": "1ti-3-q8",
+        "questionNumber": 8,
+        "question": "What phrase or account is recorded in 1 Timothy 3:8?",
+        "options": [
+          "“Women are to be serious in behaviour, saying no...”",
+          "“But if I am long in coming, this will...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“Deacons, in the same way, are to be serious in their...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“Deacons, in the same way, are to be serious in their...”",
+        "reference": "1 Timothy 3:8",
+        "explanation": "1 Timothy 3:8 records: 'Deacons, in the same way, are to be serious in their behaviour, not false in word, not given to taking much wine or greatly desiring the wealth of this world;'."
+      },
+      {
+        "id": "1ti-3-q9",
+        "questionNumber": 9,
+        "question": "How does the passage describe the circumstances or people in 1 Timothy 3:9?",
+        "options": [
+          "“Keeping the secret of the faith in a heart free from sin.”",
+          "“Let Deacons be husbands of one wife, ruling their...”",
+          "“This is a true saying, A man desiring the...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“Keeping the secret of the faith in a heart free from sin.”",
+        "reference": "1 Timothy 3:9",
+        "explanation": "1 Timothy 3:9 records: 'Keeping the secret of the faith in a heart free from sin.'."
+      },
+      {
+        "id": "1ti-3-q10",
+        "questionNumber": 10,
+        "question": "In the concluding portion of the chapter, what takes place in 1 Timothy 3:10?",
+        "options": [
+          "“For those who have done good work as Deacons...”",
+          "“And let these first be put to the test; then let...”",
+          "“This is a true saying, A man desiring the...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“And let these first be put to the test; then let...”",
+        "reference": "1 Timothy 3:10",
+        "explanation": "1 Timothy 3:10 records: 'And let these first be put to the test; then let them become Deacons if there is nothing against them.'."
+      }
+    ],
+    "4": [
+      {
+        "id": "1ti-4-q1",
+        "questionNumber": 1,
+        "question": "According to 1 Timothy 4:1, what is the opening statement or setting of this chapter?",
+        "options": [
+          "It records: “But the Spirit says clearly that in later times some will be turn...”",
+          "It begins with a prayer of thanksgiving for deliverance in 1 Timothy",
+          "It opens with a formal census and counting of the congregation",
+          "It records a severe judgment pronounced against neighboring nations"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "It records: “But the Spirit says clearly that in later times some will be turn...”",
+        "reference": "1 Timothy 4:1",
+        "explanation": "The chapter begins directly with the statement: 'But the Spirit says clearly that in later times some will be turned away from the faith, giving their minds to spirits of deceit, and the teachings of evil spirits,'."
+      },
+      {
+        "id": "1ti-4-q2",
+        "questionNumber": 2,
+        "question": "What key instruction, event, or declaration is set forth in 1 Timothy 4:2?",
+        "options": [
+          "“For it is made holy by the word of...”",
+          "“Through the false ways of men whose words are untrue, whose...”",
+          "“This is a true saying, in which all may...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“Through the false ways of men whose words are untrue, whose...”",
+        "reference": "1 Timothy 4:2",
+        "explanation": "1 Timothy 4:2 records: 'Through the false ways of men whose words are untrue, whose hearts are burned as with a heated iron;'."
+      },
+      {
+        "id": "1ti-4-q3",
+        "questionNumber": 3,
+        "question": "What significant action or revelation occurs in 1 Timothy 4:3?",
+        "options": [
+          "“If you keep these things before the minds of...”",
+          "“And this is the purpose of all our work...”",
+          "“Who keep men from being married and from taking food which...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“Who keep men from being married and from taking food which...”",
+        "reference": "1 Timothy 4:3",
+        "explanation": "1 Timothy 4:3 records: 'Who keep men from being married and from taking food which God made to be taken with praise by those who have faith and true knowledge.'."
+      },
+      {
+        "id": "1ti-4-q4",
+        "questionNumber": 4,
+        "question": "What truth or description is highlighted in 1 Timothy 4:4?",
+        "options": [
+          "“But have nothing to do with unclean and foolish...”",
+          "“Let these be your orders and your teaching.”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“Because everything which God has made is good, and nothing is...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“Because everything which God has made is good, and nothing is...”",
+        "reference": "1 Timothy 4:4",
+        "explanation": "1 Timothy 4:4 records: 'Because everything which God has made is good, and nothing is evil, if it is taken with praise:'."
+      },
+      {
+        "id": "1ti-4-q5",
+        "questionNumber": 5,
+        "question": "According to the text, what happened or was commanded in 1 Timothy 4:5?",
+        "options": [
+          "“For it is made holy by the word of God and...”",
+          "“For the training of the body is of profit...”",
+          "“Let no one make little of you because you...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“For it is made holy by the word of God and...”",
+        "reference": "1 Timothy 4:5",
+        "explanation": "1 Timothy 4:5 records: 'For it is made holy by the word of God and by prayer.'."
+      },
+      {
+        "id": "1ti-4-q6",
+        "questionNumber": 6,
+        "question": "What central message or instruction is delivered in 1 Timothy 4:6?",
+        "options": [
+          "“This is a true saying, in which all may...”",
+          "“If you keep these things before the minds of the brothers,...”",
+          "“Till I come, give attention to the reading of...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“If you keep these things before the minds of the brothers,...”",
+        "reference": "1 Timothy 4:6",
+        "explanation": "1 Timothy 4:6 records: 'If you keep these things before the minds of the brothers, you will be a good servant of Christ Jesus, trained in the words of the faith and of the right teaching which has been your guide:'."
+      },
+      {
+        "id": "1ti-4-q7",
+        "questionNumber": 7,
+        "question": "What detail regarding God's work, covenant, or people is given in 1 Timothy 4:7?",
+        "options": [
+          "“And this is the purpose of all our work...”",
+          "“Make use of that grace in you, which was...”",
+          "“But have nothing to do with unclean and foolish stories. Give...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“But have nothing to do with unclean and foolish stories. Give...”",
+        "reference": "1 Timothy 4:7",
+        "explanation": "1 Timothy 4:7 records: 'But have nothing to do with unclean and foolish stories. Give yourself training in religion:'."
+      },
+      {
+        "id": "1ti-4-q8",
+        "questionNumber": 8,
+        "question": "What phrase or account is recorded in 1 Timothy 4:8?",
+        "options": [
+          "“Let these be your orders and your teaching.”",
+          "“Have a care for these things; give yourself to...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“For the training of the body is of profit for a...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“For the training of the body is of profit for a...”",
+        "reference": "1 Timothy 4:8",
+        "explanation": "1 Timothy 4:8 records: 'For the training of the body is of profit for a little, but religion is of profit in every way, giving hope for the life which now is, and for that which is to come.'."
+      },
+      {
+        "id": "1ti-4-q9",
+        "questionNumber": 9,
+        "question": "How does the passage describe the circumstances or people in 1 Timothy 4:9?",
+        "options": [
+          "“This is a true saying, in which all may put their faith.”",
+          "“Let no one make little of you because you...”",
+          "“But the Spirit says clearly that in later times...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“This is a true saying, in which all may put their faith.”",
+        "reference": "1 Timothy 4:9",
+        "explanation": "1 Timothy 4:9 records: 'This is a true saying, in which all may put their faith.'."
+      },
+      {
+        "id": "1ti-4-q10",
+        "questionNumber": 10,
+        "question": "In the concluding portion of the chapter, what takes place in 1 Timothy 4:10?",
+        "options": [
+          "“Till I come, give attention to the reading of...”",
+          "“And this is the purpose of all our work and our...”",
+          "“But the Spirit says clearly that in later times...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“And this is the purpose of all our work and our...”",
+        "reference": "1 Timothy 4:10",
+        "explanation": "1 Timothy 4:10 records: 'And this is the purpose of all our work and our fighting, because our hope is in the living God, who is the Saviour of all men, and specially of those who have faith.'."
+      }
+    ],
+    "5": [
+      {
+        "id": "1ti-5-q1",
+        "questionNumber": 1,
+        "question": "According to 1 Timothy 5:1, what is the opening statement or setting of this chapter?",
+        "options": [
+          "It records: “Do not say sharp words to one who has authority in the church, bu...”",
+          "It begins with a prayer of thanksgiving for deliverance in 1 Timothy",
+          "It opens with a formal census and counting of the congregation",
+          "It records a severe judgment pronounced against neighboring nations"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "It records: “Do not say sharp words to one who has authority in the church, bu...”",
+        "reference": "1 Timothy 5:1",
+        "explanation": "The chapter begins directly with the statement: 'Do not say sharp words to one who has authority in the church, but let your talk be as to a father, and to the younger men as to brothers:'."
+      },
+      {
+        "id": "1ti-5-q2",
+        "questionNumber": 2,
+        "question": "What key instruction, event, or declaration is set forth in 1 Timothy 5:2?",
+        "options": [
+          "“Now she who is truly a widow and without...”",
+          "“To the older women as to mothers, to the younger as...”",
+          "“Let no woman be numbered among the widows who...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“To the older women as to mothers, to the younger as...”",
+        "reference": "1 Timothy 5:2",
+        "explanation": "1 Timothy 5:2 records: 'To the older women as to mothers, to the younger as to sisters, with a clean heart.'."
+      },
+      {
+        "id": "1ti-5-q3",
+        "questionNumber": 3,
+        "question": "What significant action or revelation occurs in 1 Timothy 5:4?",
+        "options": [
+          "“Give orders to this effect, so that no evil...”",
+          "“But to the younger widows say No: for when...”",
+          "“But if any widow has children or children's children, let these...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“But if any widow has children or children's children, let these...”",
+        "reference": "1 Timothy 5:4",
+        "explanation": "1 Timothy 5:4 records: 'But if any widow has children or children's children, let these see that it is right to take care of their family and their fathers and mothers: for this is pleasing in the eyes of God.'."
+      },
+      {
+        "id": "1ti-5-q4",
+        "questionNumber": 4,
+        "question": "What truth or description is highlighted in 1 Timothy 5:6?",
+        "options": [
+          "“Let no woman be numbered among the widows who...”",
+          "“And they get into the way of doing no...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“But she who gives herself to pleasure is dead while she...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“But she who gives herself to pleasure is dead while she...”",
+        "reference": "1 Timothy 5:6",
+        "explanation": "1 Timothy 5:6 records: 'But she who gives herself to pleasure is dead while she is living.'."
+      },
+      {
+        "id": "1ti-5-q5",
+        "questionNumber": 5,
+        "question": "According to the text, what happened or was commanded in 1 Timothy 5:8?",
+        "options": [
+          "“If anyone has no care for his family and those in...”",
+          "“But to the younger widows say No: for when...”",
+          "“For even now some are turned away to Satan.”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“If anyone has no care for his family and those in...”",
+        "reference": "1 Timothy 5:8",
+        "explanation": "1 Timothy 5:8 records: 'If anyone has no care for his family and those in his house, he is false to the faith, and is worse than one who has no faith.'."
+      },
+      {
+        "id": "1ti-5-q6",
+        "questionNumber": 6,
+        "question": "What central message or instruction is delivered in 1 Timothy 5:10?",
+        "options": [
+          "“And they get into the way of doing no...”",
+          "“And if witness is given of her good works; if she...”",
+          "“Let rulers whose rule is good be honoured twice...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“And if witness is given of her good works; if she...”",
+        "reference": "1 Timothy 5:10",
+        "explanation": "1 Timothy 5:10 records: 'And if witness is given of her good works; if she has had the care of children, if she has been kind to travellers, washing the feet of the saints, helping those who are in trouble, giving herself to good works.'."
+      },
+      {
+        "id": "1ti-5-q7",
+        "questionNumber": 7,
+        "question": "What detail regarding God's work, covenant, or people is given in 1 Timothy 5:12?",
+        "options": [
+          "“For even now some are turned away to Satan.”",
+          "“Do not take as true any statement made against...”",
+          "“And they are judged because they have been false to their...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“And they are judged because they have been false to their...”",
+        "reference": "1 Timothy 5:12",
+        "explanation": "1 Timothy 5:12 records: 'And they are judged because they have been false to their first faith;'."
+      },
+      {
+        "id": "1ti-5-q8",
+        "questionNumber": 8,
+        "question": "What phrase or account is recorded in 1 Timothy 5:14?",
+        "options": [
+          "“Let rulers whose rule is good be honoured twice...”",
+          "“I give you orders before God and Christ Jesus...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“So it is my desire that the younger widows may be...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“So it is my desire that the younger widows may be...”",
+        "reference": "1 Timothy 5:14",
+        "explanation": "1 Timothy 5:14 records: 'So it is my desire that the younger widows may be married and have children, controlling their families, and giving the Evil One no chance to say anything against them,'."
+      },
+      {
+        "id": "1ti-5-q9",
+        "questionNumber": 9,
+        "question": "How does the passage describe the circumstances or people in 1 Timothy 5:16?",
+        "options": [
+          "“If any woman of the faith has relations who are widows,...”",
+          "“Do not take as true any statement made against...”",
+          "“Do not take only water as your drink, but...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“If any woman of the faith has relations who are widows,...”",
+        "reference": "1 Timothy 5:16",
+        "explanation": "1 Timothy 5:16 records: 'If any woman of the faith has relations who are widows, let her give them help, so that the care of them does not come on the church, and so it may give help to those who are truly widowed.'."
+      },
+      {
+        "id": "1ti-5-q10",
+        "questionNumber": 10,
+        "question": "In the concluding portion of the chapter, what takes place in 1 Timothy 5:18?",
+        "options": [
+          "“I give you orders before God and Christ Jesus...”",
+          "“For the Writings say, It is not right to keep the...”",
+          "“Do not say sharp words to one who has...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“For the Writings say, It is not right to keep the...”",
+        "reference": "1 Timothy 5:18",
+        "explanation": "1 Timothy 5:18 records: 'For the Writings say, It is not right to keep the ox from taking the grain when he is crushing it. And, The worker has a right to his reward.'."
+      }
+    ],
+    "6": [
+      {
+        "id": "1ti-6-q1",
+        "questionNumber": 1,
+        "question": "According to 1 Timothy 6:1, what is the opening statement or setting of this chapter?",
+        "options": [
+          "It records: “Let all who are servants under the yoke give all honour to their ...”",
+          "It begins with a prayer of thanksgiving for deliverance in 1 Timothy",
+          "It opens with a formal census and counting of the congregation",
+          "It records a severe judgment pronounced against neighboring nations"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "It records: “Let all who are servants under the yoke give all honour to their ...”",
+        "reference": "1 Timothy 6:1",
+        "explanation": "The chapter begins directly with the statement: 'Let all who are servants under the yoke give all honour to their masters, so that no evil may be said against the name of God and his teaching.'."
+      },
+      {
+        "id": "1ti-6-q2",
+        "questionNumber": 2,
+        "question": "What key instruction, event, or declaration is set forth in 1 Timothy 6:2?",
+        "options": [
+          "“Bitter talk of men who, being evil in mind...”",
+          "“And let those whose masters are of the faith have respect...”",
+          "“But those who have a desire for wealth are...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“And let those whose masters are of the faith have respect...”",
+        "reference": "1 Timothy 6:2",
+        "explanation": "1 Timothy 6:2 records: 'And let those whose masters are of the faith have respect for them because they are brothers, working for them the more readily, because those who take part in the good work are of the faith and are dear. Give orders and teaching about these things.'."
+      },
+      {
+        "id": "1ti-6-q3",
+        "questionNumber": 3,
+        "question": "What significant action or revelation occurs in 1 Timothy 6:4?",
+        "options": [
+          "“For we came into the world with nothing, and...”",
+          "“But you, O man of God, keep yourself from...”",
+          "“He has an over-high opinion of himself; being without knowledge, having...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“He has an over-high opinion of himself; being without knowledge, having...”",
+        "reference": "1 Timothy 6:4",
+        "explanation": "1 Timothy 6:4 records: 'He has an over-high opinion of himself; being without knowledge, having only an unhealthy love of questionings and wars of words, from which come envy, fighting, cruel words, evil thoughts,'."
+      },
+      {
+        "id": "1ti-6-q4",
+        "questionNumber": 4,
+        "question": "What truth or description is highlighted in 1 Timothy 6:6?",
+        "options": [
+          "“But those who have a desire for wealth are...”",
+          "“I give you orders before God, the giver of...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“But true faith, with peace of mind, is of great profit:”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“But true faith, with peace of mind, is of great profit:”",
+        "reference": "1 Timothy 6:6",
+        "explanation": "1 Timothy 6:6 records: 'But true faith, with peace of mind, is of great profit:'."
+      },
+      {
+        "id": "1ti-6-q5",
+        "questionNumber": 5,
+        "question": "According to the text, what happened or was commanded in 1 Timothy 6:8?",
+        "options": [
+          "“But if we have food and a roof over us, let...”",
+          "“But you, O man of God, keep yourself from...”",
+          "“Which at the right time he will make clear,...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“But if we have food and a roof over us, let...”",
+        "reference": "1 Timothy 6:8",
+        "explanation": "1 Timothy 6:8 records: 'But if we have food and a roof over us, let that be enough.'."
+      },
+      {
+        "id": "1ti-6-q6",
+        "questionNumber": 6,
+        "question": "What central message or instruction is delivered in 1 Timothy 6:10?",
+        "options": [
+          "“I give you orders before God, the giver of...”",
+          "“For the love of money is a root of all evil:...”",
+          "“Give orders to those who have money and goods...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“For the love of money is a root of all evil:...”",
+        "reference": "1 Timothy 6:10",
+        "explanation": "1 Timothy 6:10 records: 'For the love of money is a root of all evil: and some whose hearts were fixed on it have been turned away from the faith, and been wounded with unnumbered sorrows.'."
+      },
+      {
+        "id": "1ti-6-q7",
+        "questionNumber": 7,
+        "question": "What detail regarding God's work, covenant, or people is given in 1 Timothy 6:12?",
+        "options": [
+          "“Which at the right time he will make clear,...”",
+          "“Making ready for themselves a safe place for the...”",
+          "“Be fighting the good fight of the faith; take for yourself...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“Be fighting the good fight of the faith; take for yourself...”",
+        "reference": "1 Timothy 6:12",
+        "explanation": "1 Timothy 6:12 records: 'Be fighting the good fight of the faith; take for yourself the life eternal, for which you were marked out, and of which you gave witness in the eyes of all.'."
+      },
+      {
+        "id": "1ti-6-q8",
+        "questionNumber": 8,
+        "question": "What phrase or account is recorded in 1 Timothy 6:14?",
+        "options": [
+          "“Give orders to those who have money and goods...”",
+          "“Let all who are servants under the yoke give...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“To keep the word untouched by evil, clear from all shame,...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“To keep the word untouched by evil, clear from all shame,...”",
+        "reference": "1 Timothy 6:14",
+        "explanation": "1 Timothy 6:14 records: 'To keep the word untouched by evil, clear from all shame, till the revelation of our Lord Jesus Christ:'."
+      },
+      {
+        "id": "1ti-6-q9",
+        "questionNumber": 9,
+        "question": "How does the passage describe the circumstances or people in 1 Timothy 6:16?",
+        "options": [
+          "“Who only has life for ever, living in light to which...”",
+          "“Making ready for themselves a safe place for the...”",
+          "“And let those whose masters are of the faith...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“Who only has life for ever, living in light to which...”",
+        "reference": "1 Timothy 6:16",
+        "explanation": "1 Timothy 6:16 records: 'Who only has life for ever, living in light to which no man may come near; whom no man has seen or is able to see: to whom be honour and power for ever. So be it.'."
+      },
+      {
+        "id": "1ti-6-q10",
+        "questionNumber": 10,
+        "question": "In the concluding portion of the chapter, what takes place in 1 Timothy 6:18?",
+        "options": [
+          "“Let all who are servants under the yoke give...”",
+          "“And to do good, having wealth in good works, being quick...”",
+          "“He has an over-high opinion of himself; being without...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“And to do good, having wealth in good works, being quick...”",
+        "reference": "1 Timothy 6:18",
+        "explanation": "1 Timothy 6:18 records: 'And to do good, having wealth in good works, being quick to give, taking part with one another;'."
+      }
+    ]
+  }
+}

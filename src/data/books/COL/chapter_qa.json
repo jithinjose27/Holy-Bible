@@ -1,0 +1,617 @@
+{
+  "book": "Colossians",
+  "bookId": "COL",
+  "totalChapters": 4,
+  "totalQuestions": 40,
+  "questionsPerChapter": 10,
+  "chapters": {
+    "1": [
+      {
+        "id": "col-1-q1",
+        "questionNumber": 1,
+        "question": "According to Colossians 1:1, what is the opening statement or setting of this chapter?",
+        "options": [
+          "It records: “Paul, an Apostle of Jesus Christ, by the purpose of God, and Timo...”",
+          "It begins with a prayer of thanksgiving for deliverance in Colossians",
+          "It opens with a formal census and counting of the congregation",
+          "It records a severe judgment pronounced against neighboring nations"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "It records: “Paul, an Apostle of Jesus Christ, by the purpose of God, and Timo...”",
+        "reference": "Colossians 1:1",
+        "explanation": "The chapter begins directly with the statement: 'Paul, an Apostle of Jesus Christ, by the purpose of God, and Timothy our brother,'."
+      },
+      {
+        "id": "col-1-q2",
+        "questionNumber": 2,
+        "question": "What key instruction, event, or declaration is set forth in Colossians 1:2?",
+        "options": [
+          "“Through the hope which is in store for you...”",
+          "“To the saints and true brothers in Christ at Colossae: Grace...”",
+          "“For this reason, we, from the day when we...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“To the saints and true brothers in Christ at Colossae: Grace...”",
+        "reference": "Colossians 1:2",
+        "explanation": "Colossians 1:2 records: 'To the saints and true brothers in Christ at Colossae: Grace to you and peace from God our Father.'."
+      },
+      {
+        "id": "col-1-q3",
+        "questionNumber": 3,
+        "question": "What significant action or revelation occurs in Colossians 1:4?",
+        "options": [
+          "“As it was given to you by Epaphras, our...”",
+          "“Full of strength in the measure of the great...”",
+          "“After hearing of your faith in Christ Jesus, and of the...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“After hearing of your faith in Christ Jesus, and of the...”",
+        "reference": "Colossians 1:4",
+        "explanation": "Colossians 1:4 records: 'After hearing of your faith in Christ Jesus, and of the love which you have for all the saints,'."
+      },
+      {
+        "id": "col-1-q4",
+        "questionNumber": 4,
+        "question": "What truth or description is highlighted in Colossians 1:6?",
+        "options": [
+          "“For this reason, we, from the day when we...”",
+          "“Who has made us free from the power of...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“Which has come to you; and which in all the world...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“Which has come to you; and which in all the world...”",
+        "reference": "Colossians 1:6",
+        "explanation": "Colossians 1:6 records: 'Which has come to you; and which in all the world is giving fruit and increase, as it has done in you from the day when it came to your ears and you had true knowledge of the grace of God;'."
+      },
+      {
+        "id": "col-1-q5",
+        "questionNumber": 5,
+        "question": "According to the text, what happened or was commanded in Colossians 1:8?",
+        "options": [
+          "“And who, himself, made clear to us your love in the Spirit.”",
+          "“Full of strength in the measure of the great...”",
+          "“Who is the image of the unseen God coming...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“And who, himself, made clear to us your love in the Spirit.”",
+        "reference": "Colossians 1:8",
+        "explanation": "Colossians 1:8 records: 'And who, himself, made clear to us your love in the Spirit.'."
+      },
+      {
+        "id": "col-1-q6",
+        "questionNumber": 6,
+        "question": "What central message or instruction is delivered in Colossians 1:10?",
+        "options": [
+          "“Who has made us free from the power of...”",
+          "“Living uprightly in the approval of the Lord, giving fruit in...”",
+          "“He is before all things, and in him all...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“Living uprightly in the approval of the Lord, giving fruit in...”",
+        "reference": "Colossians 1:10",
+        "explanation": "Colossians 1:10 records: 'Living uprightly in the approval of the Lord, giving fruit in every good work, and increasing in the knowledge of God;'."
+      },
+      {
+        "id": "col-1-q7",
+        "questionNumber": 7,
+        "question": "What detail regarding God's work, covenant, or people is given in Colossians 1:12?",
+        "options": [
+          "“Who is the image of the unseen God coming...”",
+          "“For God in full measure was pleased to be...”",
+          "“Giving praise to the Father who has given us a part...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“Giving praise to the Father who has given us a part...”",
+        "reference": "Colossians 1:12",
+        "explanation": "Colossians 1:12 records: 'Giving praise to the Father who has given us a part in the heritage of the saints in light;'."
+      },
+      {
+        "id": "col-1-q8",
+        "questionNumber": 8,
+        "question": "What phrase or account is recorded in Colossians 1:14?",
+        "options": [
+          "“He is before all things, and in him all...”",
+          "“And you, who in the past were cut off...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“In whom we have our salvation, the forgiveness of sins:”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“In whom we have our salvation, the forgiveness of sins:”",
+        "reference": "Colossians 1:14",
+        "explanation": "Colossians 1:14 records: 'In whom we have our salvation, the forgiveness of sins:'."
+      },
+      {
+        "id": "col-1-q9",
+        "questionNumber": 9,
+        "question": "How does the passage describe the circumstances or people in Colossians 1:16?",
+        "options": [
+          "“For by him all things were made, in heaven and on...”",
+          "“For God in full measure was pleased to be...”",
+          "“If you keep yourselves safely based in the faith,...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“For by him all things were made, in heaven and on...”",
+        "reference": "Colossians 1:16",
+        "explanation": "Colossians 1:16 records: 'For by him all things were made, in heaven and on earth, things seen and things unseen, authorities, lords, rulers, and powers; all things were made by him and for him;'."
+      },
+      {
+        "id": "col-1-q10",
+        "questionNumber": 10,
+        "question": "In the concluding portion of the chapter, what takes place in Colossians 1:18?",
+        "options": [
+          "“And you, who in the past were cut off...”",
+          "“And he is the head of the body, the church: the...”",
+          "“Of which I became a servant by the purpose...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“And he is the head of the body, the church: the...”",
+        "reference": "Colossians 1:18",
+        "explanation": "Colossians 1:18 records: 'And he is the head of the body, the church: the starting point of all things, the first to come again from the dead; so that in all things he might have the chief place.'."
+      }
+    ],
+    "2": [
+      {
+        "id": "col-2-q1",
+        "questionNumber": 1,
+        "question": "According to Colossians 2:1, what is the opening statement or setting of this chapter?",
+        "options": [
+          "It records: “For it is my desire to give you news of the great fight I am maki...”",
+          "It begins with a prayer of thanksgiving for deliverance in Colossians",
+          "It opens with a formal census and counting of the congregation",
+          "It records a severe judgment pronounced against neighboring nations"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "It records: “For it is my desire to give you news of the great fight I am maki...”",
+        "reference": "Colossians 2:1",
+        "explanation": "The chapter begins directly with the statement: 'For it is my desire to give you news of the great fight I am making for you and for those at Laodicea, and for all who have not seen my face in the flesh;'."
+      },
+      {
+        "id": "col-2-q2",
+        "questionNumber": 2,
+        "question": "What key instruction, event, or declaration is set forth in Colossians 2:2?",
+        "options": [
+          "“For though I am not present in the flesh,...”",
+          "“So that their hearts may be comforted, and that being joined...”",
+          "“For in him all the wealth of God's being...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“So that their hearts may be comforted, and that being joined...”",
+        "reference": "Colossians 2:2",
+        "explanation": "Colossians 2:2 records: 'So that their hearts may be comforted, and that being joined together in love, they may come to the full wealth of the certain knowledge of the secret of God, even Christ,'."
+      },
+      {
+        "id": "col-2-q3",
+        "questionNumber": 3,
+        "question": "What significant action or revelation occurs in Colossians 2:4?",
+        "options": [
+          "“Rooted and based together in him, strong in the...”",
+          "“In whom you had a circumcision not made with...”",
+          "“I say this so that you may not be turned away...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“I say this so that you may not be turned away...”",
+        "reference": "Colossians 2:4",
+        "explanation": "Colossians 2:4 records: 'I say this so that you may not be turned away by any deceit of words.'."
+      },
+      {
+        "id": "col-2-q4",
+        "questionNumber": 4,
+        "question": "What truth or description is highlighted in Colossians 2:6?",
+        "options": [
+          "“For in him all the wealth of God's being...”",
+          "“And you, being dead through your sins and the...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“As, then, you took Christ Jesus the Lord, so go on...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“As, then, you took Christ Jesus the Lord, so go on...”",
+        "reference": "Colossians 2:6",
+        "explanation": "Colossians 2:6 records: 'As, then, you took Christ Jesus the Lord, so go on in him,'."
+      },
+      {
+        "id": "col-2-q5",
+        "questionNumber": 5,
+        "question": "According to the text, what happened or was commanded in Colossians 2:8?",
+        "options": [
+          "“Take care that no one takes you away by force, through...”",
+          "“In whom you had a circumcision not made with...”",
+          "“Having made himself free from the rule of authorities...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“Take care that no one takes you away by force, through...”",
+        "reference": "Colossians 2:8",
+        "explanation": "Colossians 2:8 records: 'Take care that no one takes you away by force, through man's wisdom and deceit, going after the beliefs of men and the theories of the world, and not after Christ:'."
+      },
+      {
+        "id": "col-2-q6",
+        "questionNumber": 6,
+        "question": "What central message or instruction is delivered in Colossians 2:10?",
+        "options": [
+          "“And you, being dead through your sins and the...”",
+          "“And you are complete in him, who is the head of...”",
+          "“For these are an image of the things which...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“And you are complete in him, who is the head of...”",
+        "reference": "Colossians 2:10",
+        "explanation": "Colossians 2:10 records: 'And you are complete in him, who is the head of all rule and authority:'."
+      },
+      {
+        "id": "col-2-q7",
+        "questionNumber": 7,
+        "question": "What detail regarding God's work, covenant, or people is given in Colossians 2:12?",
+        "options": [
+          "“Having made himself free from the rule of authorities...”",
+          "“And not joined to the Head, from whom all...”",
+          "“Having been put to death with him in baptism, by which...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“Having been put to death with him in baptism, by which...”",
+        "reference": "Colossians 2:12",
+        "explanation": "Colossians 2:12 records: 'Having been put to death with him in baptism, by which you came to life again with him, through faith in the working of God, who made him come back from the dead.'."
+      },
+      {
+        "id": "col-2-q8",
+        "questionNumber": 8,
+        "question": "What phrase or account is recorded in Colossians 2:14?",
+        "options": [
+          "“For these are an image of the things which...”",
+          "“Which say there may be no touching, tasting, or...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“Having put an end to the handwriting of the law which...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“Having put an end to the handwriting of the law which...”",
+        "reference": "Colossians 2:14",
+        "explanation": "Colossians 2:14 records: 'Having put an end to the handwriting of the law which was against us, taking it out of the way by nailing it to his cross;'."
+      },
+      {
+        "id": "col-2-q9",
+        "questionNumber": 9,
+        "question": "How does the passage describe the circumstances or people in Colossians 2:16?",
+        "options": [
+          "“For this reason let no man be your judge in any...”",
+          "“And not joined to the Head, from whom all...”",
+          "“For it is my desire to give you news...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“For this reason let no man be your judge in any...”",
+        "reference": "Colossians 2:16",
+        "explanation": "Colossians 2:16 records: 'For this reason let no man be your judge in any question of food or drink or feast days or new moons or Sabbaths:'."
+      },
+      {
+        "id": "col-2-q10",
+        "questionNumber": 10,
+        "question": "In the concluding portion of the chapter, what takes place in Colossians 2:18?",
+        "options": [
+          "“Which say there may be no touching, tasting, or...”",
+          "“Let no man take your reward from you by consciously making...”",
+          "“So that their hearts may be comforted, and that...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“Let no man take your reward from you by consciously making...”",
+        "reference": "Colossians 2:18",
+        "explanation": "Colossians 2:18 records: 'Let no man take your reward from you by consciously making little of himself and giving worship to angels; having his thoughts fixed on the things which he has seen, being foolishly lifted up in his natural mind,'."
+      }
+    ],
+    "3": [
+      {
+        "id": "col-3-q1",
+        "questionNumber": 1,
+        "question": "According to Colossians 3:1, what is the opening statement or setting of this chapter?",
+        "options": [
+          "It records: “If then you have a new life with Christ, give your attention to t...”",
+          "It begins with a prayer of thanksgiving for deliverance in Colossians",
+          "It opens with a formal census and counting of the congregation",
+          "It records a severe judgment pronounced against neighboring nations"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "It records: “If then you have a new life with Christ, give your attention to t...”",
+        "reference": "Colossians 3:1",
+        "explanation": "The chapter begins directly with the statement: 'If then you have a new life with Christ, give your attention to the things of heaven, where Christ is seated at the right hand of God.'."
+      },
+      {
+        "id": "col-3-q2",
+        "questionNumber": 2,
+        "question": "What key instruction, event, or declaration is set forth in Colossians 3:2?",
+        "options": [
+          "“Then put to death your bodies which are of...”",
+          "“Keep your mind on the higher things, not on the things...”",
+          "“Do not make false statements to one another; because...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“Keep your mind on the higher things, not on the things...”",
+        "reference": "Colossians 3:2",
+        "explanation": "Colossians 3:2 records: 'Keep your mind on the higher things, not on the things of earth.'."
+      },
+      {
+        "id": "col-3-q3",
+        "questionNumber": 3,
+        "question": "What significant action or revelation occurs in Colossians 3:4?",
+        "options": [
+          "“Among whom you were living in the past, when...”",
+          "“Where there is no Greek or Jew, no one...”",
+          "“At the coming of Christ who is our life, you will...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“At the coming of Christ who is our life, you will...”",
+        "reference": "Colossians 3:4",
+        "explanation": "Colossians 3:4 records: 'At the coming of Christ who is our life, you will be seen with him in glory.'."
+      },
+      {
+        "id": "col-3-q4",
+        "questionNumber": 4,
+        "question": "What truth or description is highlighted in Colossians 3:6?",
+        "options": [
+          "“Do not make false statements to one another; because...”",
+          "“Being gentle to one another and having forgiveness for...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“Because of which the wrath of God comes on those who...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“Because of which the wrath of God comes on those who...”",
+        "reference": "Colossians 3:6",
+        "explanation": "Colossians 3:6 records: 'Because of which the wrath of God comes on those who go against his orders;'."
+      },
+      {
+        "id": "col-3-q5",
+        "questionNumber": 5,
+        "question": "According to the text, what happened or was commanded in Colossians 3:8?",
+        "options": [
+          "“But now it is right for you to put away all...”",
+          "“Where there is no Greek or Jew, no one...”",
+          "“And let the peace of Christ be ruling in...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“But now it is right for you to put away all...”",
+        "reference": "Colossians 3:8",
+        "explanation": "Colossians 3:8 records: 'But now it is right for you to put away all these things; wrath, passion, bad feeling, curses, unclean talk;'."
+      },
+      {
+        "id": "col-3-q6",
+        "questionNumber": 6,
+        "question": "What central message or instruction is delivered in Colossians 3:10?",
+        "options": [
+          "“Being gentle to one another and having forgiveness for...”",
+          "“And have put on the new man, which has become new...”",
+          "“And whatever you do, in word or in act,...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“And have put on the new man, which has become new...”",
+        "reference": "Colossians 3:10",
+        "explanation": "Colossians 3:10 records: 'And have put on the new man, which has become new in knowledge after the image of his maker;'."
+      },
+      {
+        "id": "col-3-q7",
+        "questionNumber": 7,
+        "question": "What detail regarding God's work, covenant, or people is given in Colossians 3:12?",
+        "options": [
+          "“And let the peace of Christ be ruling in...”",
+          "“Husbands, have love for your wives, and be not...”",
+          "“As saints of God, then, holy and dearly loved, let your...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“As saints of God, then, holy and dearly loved, let your...”",
+        "reference": "Colossians 3:12",
+        "explanation": "Colossians 3:12 records: 'As saints of God, then, holy and dearly loved, let your behaviour be marked by pity and mercy, kind feeling, a low opinion of yourselves, gentle ways, and a power of undergoing all things;'."
+      },
+      {
+        "id": "col-3-q8",
+        "questionNumber": 8,
+        "question": "What phrase or account is recorded in Colossians 3:14?",
+        "options": [
+          "“And whatever you do, in word or in act,...”",
+          "“Fathers, do not be hard on your children, so...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“And more than all, have love; the only way in which...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“And more than all, have love; the only way in which...”",
+        "reference": "Colossians 3:14",
+        "explanation": "Colossians 3:14 records: 'And more than all, have love; the only way in which you may be completely joined together.'."
+      },
+      {
+        "id": "col-3-q9",
+        "questionNumber": 9,
+        "question": "How does the passage describe the circumstances or people in Colossians 3:16?",
+        "options": [
+          "“Let the word of Christ be in you in all wealth...”",
+          "“Husbands, have love for your wives, and be not...”",
+          "“Whatever you do, do it readily, as to the...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“Let the word of Christ be in you in all wealth...”",
+        "reference": "Colossians 3:16",
+        "explanation": "Colossians 3:16 records: 'Let the word of Christ be in you in all wealth of wisdom; teaching and helping one another with songs of praise and holy words, making melody to God with grace in your hearts.'."
+      },
+      {
+        "id": "col-3-q10",
+        "questionNumber": 10,
+        "question": "In the concluding portion of the chapter, what takes place in Colossians 3:18?",
+        "options": [
+          "“Fathers, do not be hard on your children, so...”",
+          "“Wives, be under the authority of your husbands, as is right...”",
+          "“If then you have a new life with Christ,...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“Wives, be under the authority of your husbands, as is right...”",
+        "reference": "Colossians 3:18",
+        "explanation": "Colossians 3:18 records: 'Wives, be under the authority of your husbands, as is right in the Lord.'."
+      }
+    ],
+    "4": [
+      {
+        "id": "col-4-q1",
+        "questionNumber": 1,
+        "question": "According to Colossians 4:1, what is the opening statement or setting of this chapter?",
+        "options": [
+          "It records: “Masters, give your servants what is right and equal, conscious th...”",
+          "It begins with a prayer of thanksgiving for deliverance in Colossians",
+          "It opens with a formal census and counting of the congregation",
+          "It records a severe judgment pronounced against neighboring nations"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "It records: “Masters, give your servants what is right and equal, conscious th...”",
+        "reference": "Colossians 4:1",
+        "explanation": "The chapter begins directly with the statement: 'Masters, give your servants what is right and equal, conscious that you have a Master in heaven.'."
+      },
+      {
+        "id": "col-4-q2",
+        "questionNumber": 2,
+        "question": "What key instruction, event, or declaration is set forth in Colossians 4:2?",
+        "options": [
+          "“Be wise in your behaviour to those who are...”",
+          "“Give yourselves to prayer at all times, keeping watch with praise;”",
+          "“And with him I have sent Onesimus, the true...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“Give yourselves to prayer at all times, keeping watch with praise;”",
+        "reference": "Colossians 4:2",
+        "explanation": "Colossians 4:2 records: 'Give yourselves to prayer at all times, keeping watch with praise;'."
+      },
+      {
+        "id": "col-4-q3",
+        "questionNumber": 3,
+        "question": "What significant action or revelation occurs in Colossians 4:3?",
+        "options": [
+          "“Let your talk be with grace, mixed with salt,...”",
+          "“Aristarchus, my brother-prisoner, sends his love to you, and...”",
+          "“And making prayer for us, that God may give us an...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“And making prayer for us, that God may give us an...”",
+        "reference": "Colossians 4:3",
+        "explanation": "Colossians 4:3 records: 'And making prayer for us, that God may give us an open door for the preaching of the word, the secret of Christ, for which I am now in chains;'."
+      },
+      {
+        "id": "col-4-q4",
+        "questionNumber": 4,
+        "question": "What truth or description is highlighted in Colossians 4:4?",
+        "options": [
+          "“Tychicus will give you news of all my business:...”",
+          "“And Jesus, whose other name is Justus; these are...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“So that I may make it clear, as it is right...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“So that I may make it clear, as it is right...”",
+        "reference": "Colossians 4:4",
+        "explanation": "Colossians 4:4 records: 'So that I may make it clear, as it is right for me to do.'."
+      },
+      {
+        "id": "col-4-q5",
+        "questionNumber": 5,
+        "question": "According to the text, what happened or was commanded in Colossians 4:5?",
+        "options": [
+          "“Be wise in your behaviour to those who are outside, making...”",
+          "“And I have sent him to you for this...”",
+          "“Epaphras, who is one of you, a servant of...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“Be wise in your behaviour to those who are outside, making...”",
+        "reference": "Colossians 4:5",
+        "explanation": "Colossians 4:5 records: 'Be wise in your behaviour to those who are outside, making good use of the time.'."
+      },
+      {
+        "id": "col-4-q6",
+        "questionNumber": 6,
+        "question": "What central message or instruction is delivered in Colossians 4:6?",
+        "options": [
+          "“And with him I have sent Onesimus, the true...”",
+          "“Let your talk be with grace, mixed with salt, so that...”",
+          "“For I give witness of him that he has...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“Let your talk be with grace, mixed with salt, so that...”",
+        "reference": "Colossians 4:6",
+        "explanation": "Colossians 4:6 records: 'Let your talk be with grace, mixed with salt, so that you may be able to give an answer to everyone.'."
+      },
+      {
+        "id": "col-4-q7",
+        "questionNumber": 7,
+        "question": "What detail regarding God's work, covenant, or people is given in Colossians 4:7?",
+        "options": [
+          "“Aristarchus, my brother-prisoner, sends his love to you, and...”",
+          "“Luke, our well-loved medical friend, and Demas, send you...”",
+          "“Tychicus will give you news of all my business: he is...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“Tychicus will give you news of all my business: he is...”",
+        "reference": "Colossians 4:7",
+        "explanation": "Colossians 4:7 records: 'Tychicus will give you news of all my business: he is a dear brother and true servant and helper in the word;'."
+      },
+      {
+        "id": "col-4-q8",
+        "questionNumber": 8,
+        "question": "What phrase or account is recorded in Colossians 4:8?",
+        "options": [
+          "“And Jesus, whose other name is Justus; these are...”",
+          "“Give my love to the brothers in Laodicea and...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“And I have sent him to you for this very purpose,...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“And I have sent him to you for this very purpose,...”",
+        "reference": "Colossians 4:8",
+        "explanation": "Colossians 4:8 records: 'And I have sent him to you for this very purpose, so that you may have news of how we are, and so that he may give your hearts comfort;'."
+      },
+      {
+        "id": "col-4-q9",
+        "questionNumber": 9,
+        "question": "How does the passage describe the circumstances or people in Colossians 4:9?",
+        "options": [
+          "“And with him I have sent Onesimus, the true and well-loved...”",
+          "“Epaphras, who is one of you, a servant of...”",
+          "“And when this letter has been made public among...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“And with him I have sent Onesimus, the true and well-loved...”",
+        "reference": "Colossians 4:9",
+        "explanation": "Colossians 4:9 records: 'And with him I have sent Onesimus, the true and well-loved brother, who is one of you. They will give you word of everything which is taking place here.'."
+      },
+      {
+        "id": "col-4-q10",
+        "questionNumber": 10,
+        "question": "In the concluding portion of the chapter, what takes place in Colossians 4:10?",
+        "options": [
+          "“For I give witness of him that he has...”",
+          "“Aristarchus, my brother-prisoner, sends his love to you, and Mark, a...”",
+          "“Say to Archippus, See that you do the work...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“Aristarchus, my brother-prisoner, sends his love to you, and Mark, a...”",
+        "reference": "Colossians 4:10",
+        "explanation": "Colossians 4:10 records: 'Aristarchus, my brother-prisoner, sends his love to you, and Mark, a relation of Barnabas (about whom you have been given orders: if he comes to you, be kind to him),'."
+      }
+    ]
+  }
+}

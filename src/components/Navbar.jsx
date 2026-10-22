@@ -1,24 +1,30 @@
-import React, { useState } from 'react';
+import React, { useState, useMemo } from 'react';
 import { 
   Book, 
   ChevronDown, 
   Search, 
   Bookmark, 
   ChevronLeft, 
-  ChevronRight,
-  ShieldCheck,
-  Download,
-  WifiOff,
-  Sun,
-  Moon,
-  Palette
+  ChevronRight, 
+  ShieldCheck, 
+  Download, 
+  WifiOff, 
+  Sun, 
+  Moon, 
+  Palette,
+  Award,
+  Trophy,
+  Filter,
+  X
 } from 'lucide-react';
 import bibleCatalog from '../data/bible_catalog.json';
 
 export default function Navbar({
+  currentBookId = "GEN",
   currentBook = "Genesis",
   currentChapter = 1,
   totalChapters = 50,
+  onSelectBook,
   onSelectChapter,
   onPrevChapter,
   onNextChapter,
@@ -30,12 +36,14 @@ export default function Navbar({
   onOpenBookmarks,
   onOpenCopyright,
   onOpenInstall,
+  onOpenBookReview,
   isInstalled = false,
   isOnline = true,
   bookmarkCount = 0
 }) {
   const [isBookMenuOpen, setIsBookMenuOpen] = useState(false);
   const [isChapterMenuOpen, setIsChapterMenuOpen] = useState(false);
+  const [bookQuery, setBookQuery] = useState('');
 
   const themes = [
     { id: 'paper', label: 'Paper' },
@@ -56,6 +64,30 @@ export default function Navbar({
     const cycle = ['paper', 'sepia', 'dark', 'midnight'];
     const nextIdx = (cycle.indexOf(theme) + 1) % cycle.length;
     onChangeTheme(cycle[nextIdx]);
+  };
+
+  // Filtered books for search inside book selector
+  const filteredOt = useMemo(() => {
+    const q = bookQuery.trim().toLowerCase();
+    const books = bibleCatalog.testaments[0]?.books || [];
+    if (!q) return books;
+    return books.filter(b => b.name.toLowerCase().includes(q) || b.id.toLowerCase().includes(q));
+  }, [bookQuery]);
+
+  const filteredNt = useMemo(() => {
+    const q = bookQuery.trim().toLowerCase();
+    const books = bibleCatalog.testaments[1]?.books || [];
+    if (!q) return books;
+    return books.filter(b => b.name.toLowerCase().includes(q) || b.id.toLowerCase().includes(q));
+  }, [bookQuery]);
+
+  const handleBookClick = (book) => {
+    if (onSelectBook) {
+      onSelectBook(book.id);
+    }
+    onSelectChapter(1);
+    setIsBookMenuOpen(false);
+    setBookQuery('');
   };
 
   return (
@@ -92,6 +124,17 @@ export default function Navbar({
 
             {/* Mobile Actions */}
             <div className="flex items-center gap-1 shrink-0">
+              {onOpenBookReview && (
+                <button
+                  onClick={onOpenBookReview}
+                  className="p-1.5 rounded-lg bg-amber-100 dark:bg-amber-950/80 text-amber-900 dark:text-amber-300 hover:bg-amber-200 transition cursor-pointer"
+                  title="50-Question Book Review"
+                  aria-label="50-Question Book Review"
+                >
+                  <Award className="w-4 h-4 text-amber-700 dark:text-amber-400" />
+                </button>
+              )}
+
               {!isInstalled && (
                 <button
                   onClick={onOpenInstall}
@@ -169,55 +212,78 @@ export default function Navbar({
                 }}
                 className="h-8 flex items-center gap-1 px-3 text-xs font-semibold rounded-lg bg-stone-200/70 dark:bg-stone-800 hover:bg-stone-200 dark:hover:bg-stone-700 text-stone-800 dark:text-stone-200 transition cursor-pointer"
               >
-                <span>{currentBook}</span>
-                <ChevronDown className="w-3.5 h-3.5 opacity-60" />
+                <span className="truncate max-w-[120px]">{currentBook}</span>
+                <ChevronDown className="w-3.5 h-3.5 opacity-60 shrink-0" />
               </button>
 
               {isBookMenuOpen && (
-                <div className="fixed inset-x-3 top-28 sm:absolute sm:inset-x-auto sm:left-0 sm:top-full mt-2 sm:w-72 max-h-80 overflow-y-auto bg-white dark:bg-stone-900 border border-stone-200 dark:border-stone-800 rounded-xl shadow-2xl p-3 z-50 animate-fade-in">
-                  <div className="text-[11px] font-bold uppercase tracking-wider text-stone-400 mb-2">
-                    Old Testament
-                  </div>
-                  <div className="space-y-0.5">
-                    {bibleCatalog.testaments[0].books.map((b) => (
-                      <button
-                        key={b.id}
-                        onClick={() => {
-                          if (b.name === "Genesis") {
-                            onSelectChapter(1);
-                          }
-                          setIsBookMenuOpen(false);
-                        }}
-                        className={`w-full text-left px-2.5 py-1.5 rounded-lg text-xs flex items-center justify-between transition cursor-pointer ${
-                          b.name === currentBook
-                            ? 'bg-amber-100 dark:bg-amber-950/70 text-amber-900 dark:text-amber-300 font-bold'
-                            : b.hasFullText
-                            ? 'text-stone-800 dark:text-stone-200 hover:bg-stone-100 dark:hover:bg-stone-800'
-                            : 'text-stone-400 dark:text-stone-600'
-                        }`}
-                      >
-                        <span>{b.name}</span>
-                        {b.hasFullText && (
-                          <span className="text-[10px] text-amber-700 dark:text-amber-400 font-semibold">Available</span>
-                        )}
+                <div className="fixed inset-x-3 top-28 mt-2 max-h-[75vh] flex flex-col bg-white dark:bg-stone-900 border border-stone-200 dark:border-stone-800 rounded-xl shadow-2xl p-3 z-50 animate-fade-in">
+                  {/* Search filter for books */}
+                  <div className="pb-2 border-b border-stone-200 dark:border-stone-800 flex items-center gap-2">
+                    <Search className="w-4 h-4 text-stone-400 shrink-0" />
+                    <input
+                      type="text"
+                      value={bookQuery}
+                      onChange={(e) => setBookQuery(e.target.value)}
+                      placeholder="Find book (e.g. Psalms, John)..."
+                      className="w-full text-xs bg-transparent text-stone-800 dark:text-stone-200 placeholder:text-stone-400 focus:outline-none"
+                      autoFocus
+                    />
+                    {bookQuery && (
+                      <button onClick={() => setBookQuery('')} className="text-stone-400">
+                        <X className="w-3.5 h-3.5" />
                       </button>
-                    ))}
+                    )}
                   </div>
 
-                  <div className="text-[11px] font-bold uppercase tracking-wider text-stone-400 mt-4 mb-2">
-                    New Testament
-                  </div>
-                  <div className="space-y-0.5">
-                    {bibleCatalog.testaments[1].books.map((b) => (
-                      <button
-                        key={b.id}
-                        disabled={!b.hasFullText}
-                        className="w-full text-left px-2.5 py-1.5 rounded-lg text-xs flex items-center justify-between text-stone-400 dark:text-stone-600"
-                      >
-                        <span>{b.name}</span>
-                        <span className="text-[10px] opacity-60">Soon</span>
-                      </button>
-                    ))}
+                  <div className="flex-1 overflow-y-auto divide-y divide-stone-200/60 dark:divide-stone-800/60 pt-2">
+                    {filteredOt.length > 0 && (
+                      <div className="pb-3">
+                        <div className="text-[11px] font-bold uppercase tracking-wider text-amber-800 dark:text-amber-400 mb-1 px-1">
+                          Old Testament ({filteredOt.length})
+                        </div>
+                        <div className="grid grid-cols-2 gap-1">
+                          {filteredOt.map((b) => (
+                            <button
+                              key={b.id}
+                              onClick={() => handleBookClick(b)}
+                              className={`text-left px-2 py-1.5 rounded-lg text-xs flex items-center justify-between transition cursor-pointer ${
+                                b.id === currentBookId || b.name === currentBook
+                                  ? 'bg-amber-100 dark:bg-amber-950/70 text-amber-900 dark:text-amber-300 font-bold'
+                                  : 'text-stone-800 dark:text-stone-200 hover:bg-stone-100 dark:hover:bg-stone-800'
+                              }`}
+                            >
+                              <span className="truncate">{b.name}</span>
+                              <span className="text-[10px] text-stone-400 ml-1 shrink-0">{b.chapters}ch</span>
+                            </button>
+                          ))}
+                        </div>
+                      </div>
+                    )}
+
+                    {filteredNt.length > 0 && (
+                      <div className="pt-2">
+                        <div className="text-[11px] font-bold uppercase tracking-wider text-amber-800 dark:text-amber-400 mb-1 px-1">
+                          New Testament ({filteredNt.length})
+                        </div>
+                        <div className="grid grid-cols-2 gap-1">
+                          {filteredNt.map((b) => (
+                            <button
+                              key={b.id}
+                              onClick={() => handleBookClick(b)}
+                              className={`text-left px-2 py-1.5 rounded-lg text-xs flex items-center justify-between transition cursor-pointer ${
+                                b.id === currentBookId || b.name === currentBook
+                                  ? 'bg-amber-100 dark:bg-amber-950/70 text-amber-900 dark:text-amber-300 font-bold'
+                                  : 'text-stone-800 dark:text-stone-200 hover:bg-stone-100 dark:hover:bg-stone-800'
+                              }`}
+                            >
+                              <span className="truncate">{b.name}</span>
+                              <span className="text-[10px] text-stone-400 ml-1 shrink-0">{b.chapters}ch</span>
+                            </button>
+                          ))}
+                        </div>
+                      </div>
+                    )}
                   </div>
                 </div>
               )}
@@ -237,9 +303,9 @@ export default function Navbar({
               </button>
 
               {isChapterMenuOpen && (
-                <div className="fixed inset-x-3 top-28 sm:absolute sm:inset-x-auto sm:left-1/2 sm:-translate-x-1/2 mt-2 sm:w-72 max-h-80 overflow-y-auto bg-white dark:bg-stone-900 border border-stone-200 dark:border-stone-800 rounded-xl shadow-2xl p-3 z-50 animate-fade-in">
+                <div className="fixed inset-x-3 top-28 mt-2 max-h-80 overflow-y-auto bg-white dark:bg-stone-900 border border-stone-200 dark:border-stone-800 rounded-xl shadow-2xl p-3 z-50 animate-fade-in">
                   <div className="text-xs font-bold text-stone-600 dark:text-stone-300 mb-2 text-center">
-                    Select Chapter (1 to {totalChapters})
+                    {currentBook} — Select Chapter (1 to {totalChapters})
                   </div>
                   <div className="grid grid-cols-5 gap-1.5">
                     {Array.from({ length: totalChapters }, (_, i) => i + 1).map((ch) => (
@@ -294,7 +360,7 @@ export default function Navbar({
                 EasyEnglish
               </span>
               {!isOnline && (
-                <span className="inline-flex items-center gap-1 text-[10px] uppercase font-bold tracking-wider px-1.5 py-0.5 bg-amber-200/80 dark:bg-amber-950 text-amber-900 dark:text-amber-300 rounded shadow-xs" title="You are offline. Full Genesis & Q&A are available offline.">
+                <span className="inline-flex items-center gap-1 text-[10px] uppercase font-bold tracking-wider px-1.5 py-0.5 bg-amber-200/80 dark:bg-amber-950 text-amber-900 dark:text-amber-300 rounded shadow-xs" title="Offline Mode">
                   <WifiOff className="w-3 h-3 text-amber-700 dark:text-amber-400" /> Offline
                 </span>
               )}
@@ -320,54 +386,80 @@ export default function Navbar({
                   setIsBookMenuOpen(!isBookMenuOpen);
                   setIsChapterMenuOpen(false);
                 }}
-                className="flex items-center gap-1.5 px-2.5 py-1.5 text-xs sm:text-sm font-semibold rounded-lg bg-stone-200/60 dark:bg-stone-800 hover:bg-stone-200 dark:hover:bg-stone-700 text-stone-800 dark:text-stone-200 transition cursor-pointer"
+                className="flex items-center gap-1.5 px-3 py-1.5 text-xs sm:text-sm font-semibold rounded-lg bg-stone-200/60 dark:bg-stone-800 hover:bg-stone-200 dark:hover:bg-stone-700 text-stone-800 dark:text-stone-200 transition cursor-pointer"
               >
                 <span>{currentBook}</span>
                 <ChevronDown className="w-3.5 h-3.5 opacity-60" />
               </button>
 
               {isBookMenuOpen && (
-                <div className="absolute top-full left-0 mt-2 w-72 max-h-96 overflow-y-auto bg-white dark:bg-stone-900 border border-stone-200 dark:border-stone-800 rounded-xl shadow-xl p-3 z-50 animate-fade-in">
-                  <div className="text-[11px] font-bold uppercase tracking-wider text-stone-400 mb-2">
-                    Old Testament
-                  </div>
-                  <div className="space-y-0.5">
-                    {bibleCatalog.testaments[0].books.map((b) => (
-                      <button
-                        key={b.id}
-                        onClick={() => {
-                          if (b.name === "Genesis") {
-                            onSelectChapter(1);
-                          }
-                          setIsBookMenuOpen(false);
-                        }}
-                        className={`w-full text-left px-2.5 py-1.5 rounded-lg text-xs flex items-center justify-between transition cursor-pointer ${
-                          b.name === currentBook
-                            ? 'bg-amber-100 dark:bg-amber-950/60 text-amber-900 dark:text-amber-300 font-bold'
-                            : b.hasFullText
-                            ? 'text-stone-800 dark:text-stone-200 hover:bg-stone-100 dark:hover:bg-stone-800'
-                            : 'text-stone-400 dark:text-stone-600'
-                        }`}
-                      >
-                        <span>{b.name}</span>
+                <div className="absolute top-full left-0 mt-2 w-80 max-h-[80vh] flex flex-col bg-white dark:bg-stone-900 border border-stone-200 dark:border-stone-800 rounded-xl shadow-xl p-3 z-50 animate-fade-in">
+                  {/* Search input for books */}
+                  <div className="pb-2 border-b border-stone-200 dark:border-stone-800 flex items-center gap-2">
+                    <Search className="w-4 h-4 text-stone-400 shrink-0" />
+                    <input
+                      type="text"
+                      value={bookQuery}
+                      onChange={(e) => setBookQuery(e.target.value)}
+                      placeholder="Search books (e.g., Romans, Mark)..."
+                      className="w-full text-xs bg-transparent text-stone-800 dark:text-stone-200 placeholder:text-stone-400 focus:outline-none"
+                      autoFocus
+                    />
+                    {bookQuery && (
+                      <button onClick={() => setBookQuery('')} className="text-stone-400">
+                        <X className="w-3.5 h-3.5" />
                       </button>
-                    ))}
+                    )}
                   </div>
 
-                  <div className="text-[11px] font-bold uppercase tracking-wider text-stone-400 mt-4 mb-2">
-                    New Testament
-                  </div>
-                  <div className="space-y-0.5">
-                    {bibleCatalog.testaments[1].books.map((b) => (
-                      <button
-                        key={b.id}
-                        disabled={!b.hasFullText}
-                        className="w-full text-left px-2.5 py-1.5 rounded-lg text-xs flex items-center justify-between text-stone-400 dark:text-stone-600"
-                      >
-                        <span>{b.name}</span>
-                        <span className="text-[10px] opacity-60">Soon</span>
-                      </button>
-                    ))}
+                  <div className="flex-1 overflow-y-auto divide-y divide-stone-200/60 dark:divide-stone-800/60 pt-2 space-y-2">
+                    {filteredOt.length > 0 && (
+                      <div>
+                        <div className="text-[11px] font-bold uppercase tracking-wider text-amber-800 dark:text-amber-400 mb-1 px-1">
+                          Old Testament ({filteredOt.length})
+                        </div>
+                        <div className="grid grid-cols-2 gap-1">
+                          {filteredOt.map((b) => (
+                            <button
+                              key={b.id}
+                              onClick={() => handleBookClick(b)}
+                              className={`text-left px-2 py-1 rounded-lg text-xs flex items-center justify-between transition cursor-pointer ${
+                                b.id === currentBookId || b.name === currentBook
+                                  ? 'bg-amber-100 dark:bg-amber-950/60 text-amber-900 dark:text-amber-300 font-bold'
+                                  : 'text-stone-800 dark:text-stone-200 hover:bg-stone-100 dark:hover:bg-stone-800'
+                              }`}
+                            >
+                              <span className="truncate">{b.name}</span>
+                              <span className="text-[10px] text-stone-400 ml-1 shrink-0">{b.chapters}ch</span>
+                            </button>
+                          ))}
+                        </div>
+                      </div>
+                    )}
+
+                    {filteredNt.length > 0 && (
+                      <div className="pt-2">
+                        <div className="text-[11px] font-bold uppercase tracking-wider text-amber-800 dark:text-amber-400 mb-1 px-1">
+                          New Testament ({filteredNt.length})
+                        </div>
+                        <div className="grid grid-cols-2 gap-1">
+                          {filteredNt.map((b) => (
+                            <button
+                              key={b.id}
+                              onClick={() => handleBookClick(b)}
+                              className={`text-left px-2 py-1 rounded-lg text-xs flex items-center justify-between transition cursor-pointer ${
+                                b.id === currentBookId || b.name === currentBook
+                                  ? 'bg-amber-100 dark:bg-amber-950/60 text-amber-900 dark:text-amber-300 font-bold'
+                                  : 'text-stone-800 dark:text-stone-200 hover:bg-stone-100 dark:hover:bg-stone-800'
+                              }`}
+                            >
+                              <span className="truncate">{b.name}</span>
+                              <span className="text-[10px] text-stone-400 ml-1 shrink-0">{b.chapters}ch</span>
+                            </button>
+                          ))}
+                        </div>
+                      </div>
+                    )}
                   </div>
                 </div>
               )}
@@ -389,7 +481,7 @@ export default function Navbar({
               {isChapterMenuOpen && (
                 <div className="absolute top-full left-1/2 -translate-x-1/2 mt-2 w-72 max-h-80 overflow-y-auto bg-white dark:bg-stone-900 border border-stone-200 dark:border-stone-800 rounded-xl shadow-xl p-3 z-50 animate-fade-in">
                   <div className="text-xs font-bold text-stone-600 dark:text-stone-300 mb-2 text-center">
-                    Select Chapter (1 to {totalChapters})
+                    {currentBook} — Select Chapter (1 to {totalChapters})
                   </div>
                   <div className="grid grid-cols-5 gap-1.5">
                     {Array.from({ length: totalChapters }, (_, i) => i + 1).map((ch) => (
@@ -426,6 +518,17 @@ export default function Navbar({
 
           {/* Desktop Actions */}
           <div className="flex items-center gap-1.5 sm:gap-2">
+            {onOpenBookReview && (
+              <button
+                onClick={onOpenBookReview}
+                className="inline-flex items-center gap-1.5 px-2.5 py-1.5 text-xs font-semibold rounded-lg bg-amber-100 hover:bg-amber-200 dark:bg-amber-950/70 dark:hover:bg-amber-900/60 text-amber-900 dark:text-amber-300 border border-amber-300/60 dark:border-amber-800 transition cursor-pointer"
+                title="50-Question Comprehensive Book Review"
+              >
+                <Award className="w-3.5 h-3.5 text-amber-700 dark:text-amber-400" />
+                <span>50-Q Review</span>
+              </button>
+            )}
+
             {!isInstalled ? (
               <button
                 onClick={onOpenInstall}

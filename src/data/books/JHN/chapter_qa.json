@@ -1,0 +1,3201 @@
+{
+  "book": "John",
+  "bookId": "JHN",
+  "totalChapters": 21,
+  "totalQuestions": 210,
+  "questionsPerChapter": 10,
+  "chapters": {
+    "1": [
+      {
+        "id": "jhn-1-q1",
+        "questionNumber": 1,
+        "question": "According to John 1:1, what is the opening statement or setting of this chapter?",
+        "options": [
+          "It records: “From the first he was the Word, and the Word was in relation with...”",
+          "It begins with a prayer of thanksgiving for deliverance in John",
+          "It opens with a formal census and counting of the congregation",
+          "It records a severe judgment pronounced against neighboring nations"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "It records: “From the first he was the Word, and the Word was in relation with...”",
+        "reference": "John 1:1",
+        "explanation": "The chapter begins directly with the statement: 'From the first he was the Word, and the Word was in relation with God and was God.'."
+      },
+      {
+        "id": "jhn-1-q2",
+        "questionNumber": 2,
+        "question": "What key instruction, event, or declaration is set forth in John 1:5?",
+        "options": [
+          "“He himself was not the light: he was sent...”",
+          "“And the light goes on shining in the dark; it is...”",
+          "“To all those who did so take him, however,...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“And the light goes on shining in the dark; it is...”",
+        "reference": "John 1:5",
+        "explanation": "John 1:5 records: 'And the light goes on shining in the dark; it is not overcome by the dark.'."
+      },
+      {
+        "id": "jhn-1-q3",
+        "questionNumber": 3,
+        "question": "What significant action or revelation occurs in John 1:10?",
+        "options": [
+          "“Whose birth was from God and not from blood,...”",
+          "“For the law was given through Moses; grace and...”",
+          "“He was in the world, the world which came into being...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“He was in the world, the world which came into being...”",
+        "reference": "John 1:10",
+        "explanation": "John 1:10 records: 'He was in the world, the world which came into being through him, but the world had no knowledge of him.'."
+      },
+      {
+        "id": "jhn-1-q4",
+        "questionNumber": 4,
+        "question": "What truth or description is highlighted in John 1:15?",
+        "options": [
+          "“No man has seen God at any time; the...”",
+          "“So they said to him, Who are you then?...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“John gave witness about him, crying, This is he of whom...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“John gave witness about him, crying, This is he of whom...”",
+        "reference": "John 1:15",
+        "explanation": "John 1:15 records: 'John gave witness about him, crying, This is he of whom I said, He who is coming after me is put over me because he was in existence before me.'."
+      },
+      {
+        "id": "jhn-1-q5",
+        "questionNumber": 5,
+        "question": "According to the text, what happened or was commanded in John 1:20?",
+        "options": [
+          "“He said quite openly and straightforwardly, I am not the Christ.”",
+          "“He said, I am the voice of one crying...”",
+          "“It is he who is coming after me; I...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“He said quite openly and straightforwardly, I am not the Christ.”",
+        "reference": "John 1:20",
+        "explanation": "John 1:20 records: 'He said quite openly and straightforwardly, I am not the Christ.'."
+      },
+      {
+        "id": "jhn-1-q6",
+        "questionNumber": 6,
+        "question": "What central message or instruction is delivered in John 1:25?",
+        "options": [
+          "“These things took place at Bethany on the other...”",
+          "“And they put this question to him, saying, Why then are...”",
+          "“And John gave this witness, saying, I saw the...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“And they put this question to him, saying, Why then are...”",
+        "reference": "John 1:25",
+        "explanation": "John 1:25 records: 'And they put this question to him, saying, Why then are you giving baptism if you are not the Christ, or Elijah, or the prophet?'."
+      },
+      {
+        "id": "jhn-1-q7",
+        "questionNumber": 7,
+        "question": "What detail regarding God's work, covenant, or people is given in John 1:30?",
+        "options": [
+          "“I had no knowledge who he was, but he...”",
+          "“Hearing what he said, the two disciples went after...”",
+          "“This is he of whom I said, One is coming after...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“This is he of whom I said, One is coming after...”",
+        "reference": "John 1:30",
+        "explanation": "John 1:30 records: 'This is he of whom I said, One is coming after me who is put over me because he was in existence before me.'."
+      },
+      {
+        "id": "jhn-1-q8",
+        "questionNumber": 8,
+        "question": "What phrase or account is recorded in John 1:35?",
+        "options": [
+          "“And Jesus, turning round, saw them coming after him...”",
+          "“And he took him to Jesus. Looking at him...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“The day after, John was there again with two of his disciples;”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“The day after, John was there again with two of his disciples;”",
+        "reference": "John 1:35",
+        "explanation": "John 1:35 records: 'The day after, John was there again with two of his disciples;'."
+      },
+      {
+        "id": "jhn-1-q9",
+        "questionNumber": 9,
+        "question": "How does the passage describe the circumstances or people in John 1:40?",
+        "options": [
+          "“Andrew, Simon Peter's brother, was one of the two men who,...”",
+          "“The day after this, Jesus had a desire to...”",
+          "“Jesus saw Nathanael coming to him and said of...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“Andrew, Simon Peter's brother, was one of the two men who,...”",
+        "reference": "John 1:40",
+        "explanation": "John 1:40 records: 'Andrew, Simon Peter's brother, was one of the two men who, hearing what John said, went after Jesus.'."
+      },
+      {
+        "id": "jhn-1-q10",
+        "questionNumber": 10,
+        "question": "In the concluding portion of the chapter, what takes place in John 1:45?",
+        "options": [
+          "“Nathanael said to him, Where did you get knowledge...”",
+          "“Philip came across Nathanael and said to him, We have made...”",
+          "“From the first he was the Word, and the...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“Philip came across Nathanael and said to him, We have made...”",
+        "reference": "John 1:45",
+        "explanation": "John 1:45 records: 'Philip came across Nathanael and said to him, We have made a discovery! It is he of whom Moses, in the law, and the prophets were writing, Jesus of Nazareth, the son of Joseph.'."
+      }
+    ],
+    "2": [
+      {
+        "id": "jhn-2-q1",
+        "questionNumber": 1,
+        "question": "According to John 2:1, what is the opening statement or setting of this chapter?",
+        "options": [
+          "It records: “On the third day two people were going to be married at Cana in G...”",
+          "It begins with a prayer of thanksgiving for deliverance in John",
+          "It opens with a formal census and counting of the congregation",
+          "It records a severe judgment pronounced against neighboring nations"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "It records: “On the third day two people were going to be married at Cana in G...”",
+        "reference": "John 2:1",
+        "explanation": "The chapter begins directly with the statement: 'On the third day two people were going to be married at Cana in Galilee. The mother of Jesus was there:'."
+      },
+      {
+        "id": "jhn-2-q2",
+        "questionNumber": 2,
+        "question": "What key instruction, event, or declaration is set forth in John 2:2?",
+        "options": [
+          "“His mother said to the servants, Whatever he says...”",
+          "“And Jesus with his disciples came as guests.”",
+          "“After tasting the water which had now become wine,...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“And Jesus with his disciples came as guests.”",
+        "reference": "John 2:2",
+        "explanation": "John 2:2 records: 'And Jesus with his disciples came as guests.'."
+      },
+      {
+        "id": "jhn-2-q3",
+        "questionNumber": 3,
+        "question": "What significant action or revelation occurs in John 2:4?",
+        "options": [
+          "“Jesus said to the servants, Make the pots full...”",
+          "“This, the first of his signs, Jesus did at...”",
+          "“Jesus said to her, Woman, this is not your business; my...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“Jesus said to her, Woman, this is not your business; my...”",
+        "reference": "John 2:4",
+        "explanation": "John 2:4 records: 'Jesus said to her, Woman, this is not your business; my time is still to come.'."
+      },
+      {
+        "id": "jhn-2-q4",
+        "questionNumber": 4,
+        "question": "What truth or description is highlighted in John 2:6?",
+        "options": [
+          "“After tasting the water which had now become wine,...”",
+          "“The time of the Passover of the Jews was...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“Now six pots of stone, every one taking two or three...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“Now six pots of stone, every one taking two or three...”",
+        "reference": "John 2:6",
+        "explanation": "John 2:6 records: 'Now six pots of stone, every one taking two or three firkins of water, were placed there for the purpose of washing, as is the way of the Jews.'."
+      },
+      {
+        "id": "jhn-2-q5",
+        "questionNumber": 5,
+        "question": "According to the text, what happened or was commanded in John 2:8?",
+        "options": [
+          "“Then he said to them, Now take some, and give it...”",
+          "“This, the first of his signs, Jesus did at...”",
+          "“And he made a whip of small cords and...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“Then he said to them, Now take some, and give it...”",
+        "reference": "John 2:8",
+        "explanation": "John 2:8 records: 'Then he said to them, Now take some, and give it to the master of the feast. So they took it to him.'."
+      },
+      {
+        "id": "jhn-2-q6",
+        "questionNumber": 6,
+        "question": "What central message or instruction is delivered in John 2:10?",
+        "options": [
+          "“The time of the Passover of the Jews was...”",
+          "“And said to him, Every man first puts out his best...”",
+          "“And it came to the minds of the disciples...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“And said to him, Every man first puts out his best...”",
+        "reference": "John 2:10",
+        "explanation": "John 2:10 records: 'And said to him, Every man first puts out his best wine and when all have had enough he puts out what is not so good; but you have kept the good wine till now.'."
+      },
+      {
+        "id": "jhn-2-q7",
+        "questionNumber": 7,
+        "question": "What detail regarding God's work, covenant, or people is given in John 2:12?",
+        "options": [
+          "“And he made a whip of small cords and...”",
+          "“And Jesus said to them, Send destruction on this...”",
+          "“After this he went down to Capernaum, with his mother, his...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“After this he went down to Capernaum, with his mother, his...”",
+        "reference": "John 2:12",
+        "explanation": "John 2:12 records: 'After this he went down to Capernaum, with his mother, his brothers, and his disciples, and they were there not more than two or three days.'."
+      },
+      {
+        "id": "jhn-2-q8",
+        "questionNumber": 8,
+        "question": "What phrase or account is recorded in John 2:14?",
+        "options": [
+          "“And it came to the minds of the disciples...”",
+          "“But his words were about that holy building which...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“And there in the Temple he saw men trading in oxen...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“And there in the Temple he saw men trading in oxen...”",
+        "reference": "John 2:14",
+        "explanation": "John 2:14 records: 'And there in the Temple he saw men trading in oxen and sheep and doves, and he saw the changers of money in their seats:'."
+      },
+      {
+        "id": "jhn-2-q9",
+        "questionNumber": 9,
+        "question": "How does the passage describe the circumstances or people in John 2:16?",
+        "options": [
+          "“And to those who were trading in doves he said, Take...”",
+          "“And Jesus said to them, Send destruction on this...”",
+          "“Now while he was in Jerusalem at the feast...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“And to those who were trading in doves he said, Take...”",
+        "reference": "John 2:16",
+        "explanation": "John 2:16 records: 'And to those who were trading in doves he said, Take these things away; do not make my Father's house a market.'."
+      },
+      {
+        "id": "jhn-2-q10",
+        "questionNumber": 10,
+        "question": "In the concluding portion of the chapter, what takes place in John 2:18?",
+        "options": [
+          "“But his words were about that holy building which...”",
+          "“Then the Jews put this question to him: What sign of...”",
+          "“On the third day two people were going to...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“Then the Jews put this question to him: What sign of...”",
+        "reference": "John 2:18",
+        "explanation": "John 2:18 records: 'Then the Jews put this question to him: What sign of authority have you to give us, seeing that you do these things?'."
+      }
+    ],
+    "3": [
+      {
+        "id": "jhn-3-q1",
+        "questionNumber": 1,
+        "question": "According to John 3:1, what is the opening statement or setting of this chapter?",
+        "options": [
+          "It records: “Now there was among the Pharisees a man named Nicodemus, who was ...”",
+          "It begins with a prayer of thanksgiving for deliverance in John",
+          "It opens with a formal census and counting of the congregation",
+          "It records a severe judgment pronounced against neighboring nations"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "It records: “Now there was among the Pharisees a man named Nicodemus, who was ...”",
+        "reference": "John 3:1",
+        "explanation": "The chapter begins directly with the statement: 'Now there was among the Pharisees a man named Nicodemus, who was one of the rulers of the Jews.'."
+      },
+      {
+        "id": "jhn-3-q2",
+        "questionNumber": 2,
+        "question": "What key instruction, event, or declaration is set forth in John 3:3?",
+        "options": [
+          "“That which has birth from the flesh is flesh,...”",
+          "“Jesus said to him, Truly, I say to you, Without a...”",
+          "“And Jesus, answering, said, Are you the teacher of...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“Jesus said to him, Truly, I say to you, Without a...”",
+        "reference": "John 3:3",
+        "explanation": "John 3:3 records: 'Jesus said to him, Truly, I say to you, Without a new birth no man is able to see the kingdom of God.'."
+      },
+      {
+        "id": "jhn-3-q3",
+        "questionNumber": 3,
+        "question": "What significant action or revelation occurs in John 3:6?",
+        "options": [
+          "“And Nicodemus said to him, How is it possible...”",
+          "“And no one has ever gone up to heaven...”",
+          "“That which has birth from the flesh is flesh, and that...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“That which has birth from the flesh is flesh, and that...”",
+        "reference": "John 3:6",
+        "explanation": "John 3:6 records: 'That which has birth from the flesh is flesh, and that which has birth from the Spirit is spirit.'."
+      },
+      {
+        "id": "jhn-3-q4",
+        "questionNumber": 4,
+        "question": "What truth or description is highlighted in John 3:9?",
+        "options": [
+          "“If you have no belief when my words are...”",
+          "“For God had such love for the world that...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“And Nicodemus said to him, How is it possible for these...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“And Nicodemus said to him, How is it possible for these...”",
+        "reference": "John 3:9",
+        "explanation": "John 3:9 records: 'And Nicodemus said to him, How is it possible for these things to be?'."
+      },
+      {
+        "id": "jhn-3-q5",
+        "questionNumber": 5,
+        "question": "According to the text, what happened or was commanded in John 3:12?",
+        "options": [
+          "“If you have no belief when my words are about the...”",
+          "“So that whoever has faith may have in him...”",
+          "“And this is the test by which men are...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“If you have no belief when my words are about the...”",
+        "reference": "John 3:12",
+        "explanation": "John 3:12 records: 'If you have no belief when my words are about the things of earth, how will you have belief if my words are about the things of heaven?'."
+      },
+      {
+        "id": "jhn-3-q6",
+        "questionNumber": 6,
+        "question": "What central message or instruction is delivered in John 3:15?",
+        "options": [
+          "“The man who has faith in him does not...”",
+          "“So that whoever has faith may have in him eternal life.”",
+          "“After these things Jesus and his disciples went into...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“So that whoever has faith may have in him eternal life.”",
+        "reference": "John 3:15",
+        "explanation": "John 3:15 records: 'So that whoever has faith may have in him eternal life.'."
+      },
+      {
+        "id": "jhn-3-q7",
+        "questionNumber": 7,
+        "question": "What detail regarding God's work, covenant, or people is given in John 3:18?",
+        "options": [
+          "“But he whose life is true comes to the...”",
+          "“Then a question came up between John's disciples and...”",
+          "“The man who has faith in him does not come up...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“The man who has faith in him does not come up...”",
+        "reference": "John 3:18",
+        "explanation": "John 3:18 records: 'The man who has faith in him does not come up to be judged; but he who has no faith in him has been judged even now, because he has no faith in the name of the only Son of God.'."
+      },
+      {
+        "id": "jhn-3-q8",
+        "questionNumber": 8,
+        "question": "What phrase or account is recorded in John 3:21?",
+        "options": [
+          "“For at this time John had not been put...”",
+          "“You yourselves give witness that I said, I am...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“But he whose life is true comes to the light, so...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“But he whose life is true comes to the light, so...”",
+        "reference": "John 3:21",
+        "explanation": "John 3:21 records: 'But he whose life is true comes to the light, so that it may be clearly seen that his acts have been done by the help of God.'."
+      },
+      {
+        "id": "jhn-3-q9",
+        "questionNumber": 9,
+        "question": "How does the passage describe the circumstances or people in John 3:24?",
+        "options": [
+          "“For at this time John had not been put into prison.”",
+          "“And this was John's answer: A man is unable...”",
+          "“He who comes from heaven is greater than all...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“For at this time John had not been put into prison.”",
+        "reference": "John 3:24",
+        "explanation": "John 3:24 records: 'For at this time John had not been put into prison.'."
+      },
+      {
+        "id": "jhn-3-q10",
+        "questionNumber": 10,
+        "question": "In the concluding portion of the chapter, what takes place in John 3:27?",
+        "options": [
+          "“He has to become greater while I become less.”",
+          "“And this was John's answer: A man is unable to have...”",
+          "“For he whom God has sent says God's words;...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“And this was John's answer: A man is unable to have...”",
+        "reference": "John 3:27",
+        "explanation": "John 3:27 records: 'And this was John's answer: A man is unable to have anything if it is not given to him from heaven.'."
+      }
+    ],
+    "4": [
+      {
+        "id": "jhn-4-q1",
+        "questionNumber": 1,
+        "question": "According to John 4:1, what is the opening statement or setting of this chapter?",
+        "options": [
+          "It records: “Now when it was clear to the Lord that word had come to the ears ...”",
+          "It begins with a prayer of thanksgiving for deliverance in John",
+          "It opens with a formal census and counting of the congregation",
+          "It records a severe judgment pronounced against neighboring nations"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "It records: “Now when it was clear to the Lord that word had come to the ears ...”",
+        "reference": "John 4:1",
+        "explanation": "The chapter begins directly with the statement: 'Now when it was clear to the Lord that word had come to the ears of the Pharisees that Jesus was making more disciples than John and was giving them baptism'."
+      },
+      {
+        "id": "jhn-4-q2",
+        "questionNumber": 2,
+        "question": "What key instruction, event, or declaration is set forth in John 4:5?",
+        "options": [
+          "“For his disciples had gone to the town to...”",
+          "“So he came to a town of Samaria which was named...”",
+          "“Are you greater than our father Jacob who gave...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“So he came to a town of Samaria which was named...”",
+        "reference": "John 4:5",
+        "explanation": "John 4:5 records: 'So he came to a town of Samaria which was named Sychar, near to the bit of land which Jacob gave to his son Joseph:'."
+      },
+      {
+        "id": "jhn-4-q3",
+        "questionNumber": 3,
+        "question": "What significant action or revelation occurs in John 4:10?",
+        "options": [
+          "“Jesus said to her, Everyone who takes this water...”",
+          "“In answer, the woman said, I have no husband....”",
+          "“In answer Jesus said, If you had knowledge of what God...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“In answer Jesus said, If you had knowledge of what God...”",
+        "reference": "John 4:10",
+        "explanation": "John 4:10 records: 'In answer Jesus said, If you had knowledge of what God gives freely and who it is who says to you, Give me water, you would make your prayer to him, and he would give you living water.'."
+      },
+      {
+        "id": "jhn-4-q4",
+        "questionNumber": 4,
+        "question": "What truth or description is highlighted in John 4:15?",
+        "options": [
+          "“You have had five husbands, and the man you...”",
+          "“You give worship, but without knowledge of what you...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“The woman said to him, Sir, give me this water, so...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“The woman said to him, Sir, give me this water, so...”",
+        "reference": "John 4:15",
+        "explanation": "John 4:15 records: 'The woman said to him, Sir, give me this water, so that I may not be in need again of drink and will not have to come all this way for it.'."
+      },
+      {
+        "id": "jhn-4-q5",
+        "questionNumber": 5,
+        "question": "According to the text, what happened or was commanded in John 4:20?",
+        "options": [
+          "“Our fathers gave worship on this mountain, but you Jews say...”",
+          "“But the time is coming, and is even now...”",
+          "“At that point the disciples came back, and they...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“Our fathers gave worship on this mountain, but you Jews say...”",
+        "reference": "John 4:20",
+        "explanation": "John 4:20 records: 'Our fathers gave worship on this mountain, but you Jews say that the right place for worship is in Jerusalem.'."
+      },
+      {
+        "id": "jhn-4-q6",
+        "questionNumber": 6,
+        "question": "What central message or instruction is delivered in John 4:25?",
+        "options": [
+          "“Then the woman put down her water-pot and went...”",
+          "“The woman said to him, I am certain that the Messiah,...”",
+          "“But he said to them, I have food of...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“The woman said to him, I am certain that the Messiah,...”",
+        "reference": "John 4:25",
+        "explanation": "John 4:25 records: 'The woman said to him, I am certain that the Messiah, who is named Christ, is coming; when he comes he will make all things clear to us.'."
+      },
+      {
+        "id": "jhn-4-q7",
+        "questionNumber": 7,
+        "question": "What detail regarding God's work, covenant, or people is given in John 4:30?",
+        "options": [
+          "“So the disciples said one to another, Did anyone...”",
+          "“In this the saying is a true one, One...”",
+          "“So they went out of the town and came to him.”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“So they went out of the town and came to him.”",
+        "reference": "John 4:30",
+        "explanation": "John 4:30 records: 'So they went out of the town and came to him.'."
+      },
+      {
+        "id": "jhn-4-q8",
+        "questionNumber": 8,
+        "question": "What phrase or account is recorded in John 4:35?",
+        "options": [
+          "“I sent you to get in grain which you...”",
+          "“And they said to the woman, Now we have...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“You would say, Four months from now is the time of...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“You would say, Four months from now is the time of...”",
+        "reference": "John 4:35",
+        "explanation": "John 4:35 records: 'You would say, Four months from now is the time of the grain-cutting. Take a look, I say to you, at the fields; they are even now white for cutting.'."
+      },
+      {
+        "id": "jhn-4-q9",
+        "questionNumber": 9,
+        "question": "How does the passage describe the circumstances or people in John 4:40?",
+        "options": [
+          "“So when the people came to him they made request to...”",
+          "“And after the two days he went on from...”",
+          "“When it came to his ears that Jesus had...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“So when the people came to him they made request to...”",
+        "reference": "John 4:40",
+        "explanation": "John 4:40 records: 'So when the people came to him they made request to him to be among them for a time, and he was there two days.'."
+      },
+      {
+        "id": "jhn-4-q10",
+        "questionNumber": 10,
+        "question": "In the concluding portion of the chapter, what takes place in John 4:45?",
+        "options": [
+          "“Then Jesus said to him, You will not have...”",
+          "“So when he came into Galilee, the Galilaeans took him to...”",
+          "“So he put a question to them as to...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“So when he came into Galilee, the Galilaeans took him to...”",
+        "reference": "John 4:45",
+        "explanation": "John 4:45 records: 'So when he came into Galilee, the Galilaeans took him to their hearts because of the things which they had seen him do in Jerusalem at the feast--they themselves having been there at the feast.'."
+      }
+    ],
+    "5": [
+      {
+        "id": "jhn-5-q1",
+        "questionNumber": 1,
+        "question": "According to John 5:1, what is the opening statement or setting of this chapter?",
+        "options": [
+          "It records: “After these things there was a feast of the Jews, and Jesus went ...”",
+          "It begins with a prayer of thanksgiving for deliverance in John",
+          "It opens with a formal census and counting of the congregation",
+          "It records a severe judgment pronounced against neighboring nations"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "It records: “After these things there was a feast of the Jews, and Jesus went ...”",
+        "reference": "John 5:1",
+        "explanation": "The chapter begins directly with the statement: 'After these things there was a feast of the Jews, and Jesus went up to Jerusalem.'."
+      },
+      {
+        "id": "jhn-5-q2",
+        "questionNumber": 2,
+        "question": "What key instruction, event, or declaration is set forth in John 5:4?",
+        "options": [
+          "“The ill man said in answer, Sir, I have...”",
+          "“[]”",
+          "“He said to them, But he who made me...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“[]”",
+        "reference": "John 5:4",
+        "explanation": "John 5:4 records: '[]'."
+      },
+      {
+        "id": "jhn-5-q3",
+        "questionNumber": 3,
+        "question": "What significant action or revelation occurs in John 5:8?",
+        "options": [
+          "“He said to them, But he who made me...”",
+          "“The man went away and said to the Jews...”",
+          "“Jesus said to him, Get up, take your bed and go.”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“Jesus said to him, Get up, take your bed and go.”",
+        "reference": "John 5:8",
+        "explanation": "John 5:8 records: 'Jesus said to him, Get up, take your bed and go.'."
+      },
+      {
+        "id": "jhn-5-q4",
+        "questionNumber": 4,
+        "question": "What truth or description is highlighted in John 5:12?",
+        "options": [
+          "“The man went away and said to the Jews...”",
+          "“So Jesus made answer and said, Truly I say...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“Then they put to him the question: Who is the man...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“Then they put to him the question: Who is the man...”",
+        "reference": "John 5:12",
+        "explanation": "John 5:12 records: 'Then they put to him the question: Who is the man who said to you, Take it up and go?'."
+      },
+      {
+        "id": "jhn-5-q5",
+        "questionNumber": 5,
+        "question": "According to the text, what happened or was commanded in John 5:16?",
+        "options": [
+          "“And for this reason the Jews were turned against Jesus, because...”",
+          "“So Jesus made answer and said, Truly I say...”",
+          "“So that all men may give honour to the...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“And for this reason the Jews were turned against Jesus, because...”",
+        "reference": "John 5:16",
+        "explanation": "John 5:16 records: 'And for this reason the Jews were turned against Jesus, because he was doing these things on the Sabbath.'."
+      },
+      {
+        "id": "jhn-5-q6",
+        "questionNumber": 6,
+        "question": "What central message or instruction is delivered in John 5:20?",
+        "options": [
+          "“So that all men may give honour to the...”",
+          "“For the Father has love for the Son and lets him...”",
+          "“And he has given him authority to be judge...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“For the Father has love for the Son and lets him...”",
+        "reference": "John 5:20",
+        "explanation": "John 5:20 records: 'For the Father has love for the Son and lets him see everything which he does: and he will let him see greater works than these so that you may be full of wonder.'."
+      },
+      {
+        "id": "jhn-5-q7",
+        "questionNumber": 7,
+        "question": "What detail regarding God's work, covenant, or people is given in John 5:24?",
+        "options": [
+          "“And he has given him authority to be judge...”",
+          "“If I gave witness about myself, my witness would...”",
+          "“Truly I say to you, The man whose ears are open...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“Truly I say to you, The man whose ears are open...”",
+        "reference": "John 5:24",
+        "explanation": "John 5:24 records: 'Truly I say to you, The man whose ears are open to my word and who has faith in him who sent me, has eternal life; he will not be judged, but has come from death into life.'."
+      },
+      {
+        "id": "jhn-5-q8",
+        "questionNumber": 8,
+        "question": "What phrase or account is recorded in John 5:28?",
+        "options": [
+          "“If I gave witness about myself, my witness would...”",
+          "“He was a burning and shining light, and for...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“Do not be surprised at this: for the time is coming...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“Do not be surprised at this: for the time is coming...”",
+        "reference": "John 5:28",
+        "explanation": "John 5:28 records: 'Do not be surprised at this: for the time is coming when his voice will come to all who are in the place of the dead,'."
+      },
+      {
+        "id": "jhn-5-q9",
+        "questionNumber": 9,
+        "question": "How does the passage describe the circumstances or people in John 5:32?",
+        "options": [
+          "“There is another who gives witness about me and I am...”",
+          "“He was a burning and shining light, and for...”",
+          "“You make search in the holy Writings, in the...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“There is another who gives witness about me and I am...”",
+        "reference": "John 5:32",
+        "explanation": "John 5:32 records: 'There is another who gives witness about me and I am certain that the witness he gives about me is true.'."
+      },
+      {
+        "id": "jhn-5-q10",
+        "questionNumber": 10,
+        "question": "In the concluding portion of the chapter, what takes place in John 5:36?",
+        "options": [
+          "“You make search in the holy Writings, in the...”",
+          "“But the witness which I have is greater than that of...”",
+          "“I have come in my Father's name, and your...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“But the witness which I have is greater than that of...”",
+        "reference": "John 5:36",
+        "explanation": "John 5:36 records: 'But the witness which I have is greater than that of John: the work which the Father has given me to do, the very work which I am now doing, is a witness that the Father has sent me.'."
+      }
+    ],
+    "6": [
+      {
+        "id": "jhn-6-q1",
+        "questionNumber": 1,
+        "question": "According to John 6:1, what is the opening statement or setting of this chapter?",
+        "options": [
+          "It records: “After these things Jesus went away to the other side of the sea o...”",
+          "It begins with a prayer of thanksgiving for deliverance in John",
+          "It opens with a formal census and counting of the congregation",
+          "It records a severe judgment pronounced against neighboring nations"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "It records: “After these things Jesus went away to the other side of the sea o...”",
+        "reference": "John 6:1",
+        "explanation": "The chapter begins directly with the statement: 'After these things Jesus went away to the other side of the sea of Galilee--that is, the sea of Tiberias.'."
+      },
+      {
+        "id": "jhn-6-q2",
+        "questionNumber": 2,
+        "question": "What key instruction, event, or declaration is set forth in John 6:7?",
+        "options": [
+          "“Jesus said, Let the people be seated. Now there...”",
+          "“Philip made answer, Bread to the value of two hundred pence...”",
+          "“And when the people saw the sign which he...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“Philip made answer, Bread to the value of two hundred pence...”",
+        "reference": "John 6:7",
+        "explanation": "John 6:7 records: 'Philip made answer, Bread to the value of two hundred pence would not be enough even to give everyone a little.'."
+      },
+      {
+        "id": "jhn-6-q3",
+        "questionNumber": 3,
+        "question": "What significant action or revelation occurs in John 6:14?",
+        "options": [
+          "“And they took a boat and went across the...”",
+          "“Then they readily took him into the boat: and...”",
+          "“And when the people saw the sign which he had done,...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“And when the people saw the sign which he had done,...”",
+        "reference": "John 6:14",
+        "explanation": "John 6:14 records: 'And when the people saw the sign which he had done, they said, Truly, this is the prophet who is to come into the world.'."
+      },
+      {
+        "id": "jhn-6-q4",
+        "questionNumber": 4,
+        "question": "What truth or description is highlighted in John 6:21?",
+        "options": [
+          "“So when the people saw that Jesus was not...”",
+          "“Then they said to him, How may we do...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“Then they readily took him into the boat: and straight away...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“Then they readily took him into the boat: and straight away...”",
+        "reference": "John 6:21",
+        "explanation": "John 6:21 records: 'Then they readily took him into the boat: and straight away the boat was at the land to which they were going.'."
+      },
+      {
+        "id": "jhn-6-q5",
+        "questionNumber": 5,
+        "question": "According to the text, what happened or was commanded in John 6:28?",
+        "options": [
+          "“Then they said to him, How may we do the works...”",
+          "“Our fathers had the manna in the waste land,...”",
+          "“And this was the answer of Jesus: I am...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“Then they said to him, How may we do the works...”",
+        "reference": "John 6:28",
+        "explanation": "John 6:28 records: 'Then they said to him, How may we do the works of God?'."
+      },
+      {
+        "id": "jhn-6-q6",
+        "questionNumber": 6,
+        "question": "What central message or instruction is delivered in John 6:35?",
+        "options": [
+          "“For I have come down from heaven, not to...”",
+          "“And this was the answer of Jesus: I am the bread...”",
+          "“And they said, Is not this Jesus, the son...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“And this was the answer of Jesus: I am the bread...”",
+        "reference": "John 6:35",
+        "explanation": "John 6:35 records: 'And this was the answer of Jesus: I am the bread of life. He who comes to me will never be in need of food, and he who has faith in me will never be in need of drink.'."
+      },
+      {
+        "id": "jhn-6-q7",
+        "questionNumber": 7,
+        "question": "What detail regarding God's work, covenant, or people is given in John 6:42?",
+        "options": [
+          "“The writings of the prophets say, And they will...”",
+          "“Your fathers took the manna in the waste land--and...”",
+          "“And they said, Is not this Jesus, the son of Joseph,...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“And they said, Is not this Jesus, the son of Joseph,...”",
+        "reference": "John 6:42",
+        "explanation": "John 6:42 records: 'And they said, Is not this Jesus, the son of Joseph, whose father and mother we have seen? How is it then that he now says, I have come down from heaven?'."
+      },
+      {
+        "id": "jhn-6-q8",
+        "questionNumber": 8,
+        "question": "What phrase or account is recorded in John 6:49?",
+        "options": [
+          "“Then the Jews had an angry discussion among themselves,...”",
+          "“He who takes my flesh for food and my...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“Your fathers took the manna in the waste land--and they are dead.”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“Your fathers took the manna in the waste land--and they are dead.”",
+        "reference": "John 6:49",
+        "explanation": "John 6:49 records: 'Your fathers took the manna in the waste land--and they are dead.'."
+      },
+      {
+        "id": "jhn-6-q9",
+        "questionNumber": 9,
+        "question": "How does the passage describe the circumstances or people in John 6:56?",
+        "options": [
+          "“He who takes my flesh for food and my blood for...”",
+          "“Jesus said these things in the Synagogue while he...”",
+          "“The spirit is the life giver; the flesh is...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“He who takes my flesh for food and my blood for...”",
+        "reference": "John 6:56",
+        "explanation": "John 6:56 records: 'He who takes my flesh for food and my blood for drink is in me and I in him.'."
+      },
+      {
+        "id": "jhn-6-q10",
+        "questionNumber": 10,
+        "question": "In the concluding portion of the chapter, what takes place in John 6:63?",
+        "options": [
+          "“Because of what he said, a number of the...”",
+          "“The spirit is the life giver; the flesh is of no...”",
+          "“Then Jesus said, Did I not make a selection...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“The spirit is the life giver; the flesh is of no...”",
+        "reference": "John 6:63",
+        "explanation": "John 6:63 records: 'The spirit is the life giver; the flesh is of no value: the words which I have said to you are spirit and they are life.'."
+      }
+    ],
+    "7": [
+      {
+        "id": "jhn-7-q1",
+        "questionNumber": 1,
+        "question": "According to John 7:1, what is the opening statement or setting of this chapter?",
+        "options": [
+          "It records: “After this, Jesus went from place to place in Galilee. He did not...”",
+          "It begins with a prayer of thanksgiving for deliverance in John",
+          "It opens with a formal census and counting of the congregation",
+          "It records a severe judgment pronounced against neighboring nations"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "It records: “After this, Jesus went from place to place in Galilee. He did not...”",
+        "reference": "John 7:1",
+        "explanation": "The chapter begins directly with the statement: 'After this, Jesus went from place to place in Galilee. He did not go about in Judaea, because the Jews were looking for a chance to put him to death.'."
+      },
+      {
+        "id": "jhn-7-q2",
+        "questionNumber": 2,
+        "question": "What key instruction, event, or declaration is set forth in John 7:5?",
+        "options": [
+          "“Go you up to the feast: I am not...”",
+          "“For even his brothers had no belief in him.”",
+          "“And there was much discussion about him among the...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“For even his brothers had no belief in him.”",
+        "reference": "John 7:5",
+        "explanation": "John 7:5 records: 'For even his brothers had no belief in him.'."
+      },
+      {
+        "id": "jhn-7-q3",
+        "questionNumber": 3,
+        "question": "What significant action or revelation occurs in John 7:10?",
+        "options": [
+          "“But no man said anything about him openly for...”",
+          "“If any man is ready to do God's pleasure...”",
+          "“But after his brothers had gone up to the feast, then...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“But after his brothers had gone up to the feast, then...”",
+        "reference": "John 7:10",
+        "explanation": "John 7:10 records: 'But after his brothers had gone up to the feast, then he went up, not publicly, but in secret.'."
+      },
+      {
+        "id": "jhn-7-q4",
+        "questionNumber": 4,
+        "question": "What truth or description is highlighted in John 7:15?",
+        "options": [
+          "“The man whose words come from himself is looking...”",
+          "“Moses gave you circumcision--not that it comes from Moses,...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“Then the Jews were surprised and said, How has this man...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“Then the Jews were surprised and said, How has this man...”",
+        "reference": "John 7:15",
+        "explanation": "John 7:15 records: 'Then the Jews were surprised and said, How has this man got knowledge of books? He has never been to school.'."
+      },
+      {
+        "id": "jhn-7-q5",
+        "questionNumber": 5,
+        "question": "According to the text, what happened or was commanded in John 7:20?",
+        "options": [
+          "“The people said in answer, You have an evil spirit: who...”",
+          "“If a child is given circumcision on the Sabbath...”",
+          "“However, it is clear to us where this man...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“The people said in answer, You have an evil spirit: who...”",
+        "reference": "John 7:20",
+        "explanation": "John 7:20 records: 'The people said in answer, You have an evil spirit: who has any desire to put you to death?'."
+      },
+      {
+        "id": "jhn-7-q6",
+        "questionNumber": 6,
+        "question": "What central message or instruction is delivered in John 7:25?",
+        "options": [
+          "“Then, when he was teaching in the Temple, Jesus...”",
+          "“Then some of the people of Jerusalem said, Is not this...”",
+          "“This discussion of the people came to the ears...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“Then some of the people of Jerusalem said, Is not this...”",
+        "reference": "John 7:25",
+        "explanation": "John 7:25 records: 'Then some of the people of Jerusalem said, Is not this the man whose death is desired?'."
+      },
+      {
+        "id": "jhn-7-q7",
+        "questionNumber": 7,
+        "question": "What detail regarding God's work, covenant, or people is given in John 7:30?",
+        "options": [
+          "“Then Jesus said, I will be with you a...”",
+          "“On the last day, the great day of the...”",
+          "“Then they had a desire to take him: but no man...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“Then they had a desire to take him: but no man...”",
+        "reference": "John 7:30",
+        "explanation": "John 7:30 records: 'Then they had a desire to take him: but no man put hands on him because his hour was still to come.'."
+      },
+      {
+        "id": "jhn-7-q8",
+        "questionNumber": 8,
+        "question": "What phrase or account is recorded in John 7:35?",
+        "options": [
+          "“He who has faith in me, out of his...”",
+          "“Do not the Writings say that the Christ comes...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“So the Jews said among themselves, To what place is he...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“So the Jews said among themselves, To what place is he...”",
+        "reference": "John 7:35",
+        "explanation": "John 7:35 records: 'So the Jews said among themselves, To what place is he going where we will not see him? will he go to the Jews living among the Greeks and become the teacher of the Greeks?'."
+      },
+      {
+        "id": "jhn-7-q9",
+        "questionNumber": 9,
+        "question": "How does the passage describe the circumstances or people in John 7:40?",
+        "options": [
+          "“When these words came to their ears, some of the people...”",
+          "“So there was a division among the people because...”",
+          "“Then the Pharisees said to them, Have you, like...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“When these words came to their ears, some of the people...”",
+        "reference": "John 7:40",
+        "explanation": "John 7:40 records: 'When these words came to their ears, some of the people said, This is certainly the prophet.'."
+      },
+      {
+        "id": "jhn-7-q10",
+        "questionNumber": 10,
+        "question": "In the concluding portion of the chapter, what takes place in John 7:45?",
+        "options": [
+          "“Have any of the rulers belief in him, or...”",
+          "“Then the servants went back to the chief priests and Pharisees,...”",
+          "“This was their answer: And do you come from...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“Then the servants went back to the chief priests and Pharisees,...”",
+        "reference": "John 7:45",
+        "explanation": "John 7:45 records: 'Then the servants went back to the chief priests and Pharisees, who said to them, Why have you not got him with you?'."
+      }
+    ],
+    "8": [
+      {
+        "id": "jhn-8-q1",
+        "questionNumber": 1,
+        "question": "According to John 8:1, what is the opening statement or setting of this chapter?",
+        "options": [
+          "It records: “But Jesus went to the Mountain of Olives.”",
+          "It begins with a prayer of thanksgiving for deliverance in John",
+          "It opens with a formal census and counting of the congregation",
+          "It records a severe judgment pronounced against neighboring nations"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "It records: “But Jesus went to the Mountain of Olives.”",
+        "reference": "John 8:1",
+        "explanation": "The chapter begins directly with the statement: 'But Jesus went to the Mountain of Olives.'."
+      },
+      {
+        "id": "jhn-8-q2",
+        "questionNumber": 2,
+        "question": "What key instruction, event, or declaration is set forth in John 8:5?",
+        "options": [
+          "“And again, with bent head, he made letters on...”",
+          "“Now in the law Moses gave directions that such women were...”",
+          "“Then again Jesus said to them, I am the...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“Now in the law Moses gave directions that such women were...”",
+        "reference": "John 8:5",
+        "explanation": "John 8:5 records: 'Now in the law Moses gave directions that such women were to be stoned; what do you say about it?'."
+      },
+      {
+        "id": "jhn-8-q3",
+        "questionNumber": 3,
+        "question": "What significant action or revelation occurs in John 8:10?",
+        "options": [
+          "“So the Pharisees said to him, The witness you...”",
+          "“Even in your law it is said that the...”",
+          "“Then Jesus got up, and seeing nobody but the woman, he...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“Then Jesus got up, and seeing nobody but the woman, he...”",
+        "reference": "John 8:10",
+        "explanation": "John 8:10 records: 'Then Jesus got up, and seeing nobody but the woman, he said to her, Where are the men who said things against you? did no one give a decision against you?'."
+      },
+      {
+        "id": "jhn-8-q4",
+        "questionNumber": 4,
+        "question": "What truth or description is highlighted in John 8:15?",
+        "options": [
+          "“I give witness about myself and the Father who...”",
+          "“So the Jews said, Will he take his life?...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“You are judging from what you see; I am judging no man.”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“You are judging from what you see; I am judging no man.”",
+        "reference": "John 8:15",
+        "explanation": "John 8:15 records: 'You are judging from what you see; I am judging no man.'."
+      },
+      {
+        "id": "jhn-8-q5",
+        "questionNumber": 5,
+        "question": "According to the text, what happened or was commanded in John 8:20?",
+        "options": [
+          "“Jesus said these words in the place where the offerings were...”",
+          "“And he said to them, You are of the...”",
+          "“They did not see that his words were about...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“Jesus said these words in the place where the offerings were...”",
+        "reference": "John 8:20",
+        "explanation": "John 8:20 records: 'Jesus said these words in the place where the offerings were stored, while he was teaching in the Temple: but no man took him because his time was still to come.'."
+      },
+      {
+        "id": "jhn-8-q6",
+        "questionNumber": 6,
+        "question": "What central message or instruction is delivered in John 8:25?",
+        "options": [
+          "“So Jesus said, When the Son of man has...”",
+          "“Then they said to him, Who are you? Jesus said, What...”",
+          "“And you will have knowledge of what is true,...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“Then they said to him, Who are you? Jesus said, What...”",
+        "reference": "John 8:25",
+        "explanation": "John 8:25 records: 'Then they said to him, Who are you? Jesus said, What I said to you from the first.'."
+      },
+      {
+        "id": "jhn-8-q7",
+        "questionNumber": 7,
+        "question": "What detail regarding God's work, covenant, or people is given in John 8:30?",
+        "options": [
+          "“They said to him in answer, We are Abraham's...”",
+          "“I am conscious that you are Abraham's seed; but...”",
+          "“When he said this a number came to have faith in him.”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“When he said this a number came to have faith in him.”",
+        "reference": "John 8:30",
+        "explanation": "John 8:30 records: 'When he said this a number came to have faith in him.'."
+      },
+      {
+        "id": "jhn-8-q8",
+        "questionNumber": 8,
+        "question": "What phrase or account is recorded in John 8:35?",
+        "options": [
+          "“I say the things which I have seen in...”",
+          "“Jesus said to them, If God was your Father...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“Now the servant does not go on living in the house...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“Now the servant does not go on living in the house...”",
+        "reference": "John 8:35",
+        "explanation": "John 8:35 records: 'Now the servant does not go on living in the house for ever, but the son does.'."
+      },
+      {
+        "id": "jhn-8-q9",
+        "questionNumber": 9,
+        "question": "How does the passage describe the circumstances or people in John 8:40?",
+        "options": [
+          "“But now you have a desire to put me to death,...”",
+          "“Why are my words not clear to you? It...”",
+          "“He who is a child of God gives ear...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“But now you have a desire to put me to death,...”",
+        "reference": "John 8:40",
+        "explanation": "John 8:40 records: 'But now you have a desire to put me to death, a man who has said to you what is true, as I had it from God: Abraham did not do that.'."
+      },
+      {
+        "id": "jhn-8-q10",
+        "questionNumber": 10,
+        "question": "In the concluding portion of the chapter, what takes place in John 8:45?",
+        "options": [
+          "“The Jews said to him in answer, Are we...”",
+          "“But because I say what is true, you have no belief...”",
+          "“The Jews said to him, Now we are certain...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“But because I say what is true, you have no belief...”",
+        "reference": "John 8:45",
+        "explanation": "John 8:45 records: 'But because I say what is true, you have no belief in me.'."
+      }
+    ],
+    "9": [
+      {
+        "id": "jhn-9-q1",
+        "questionNumber": 1,
+        "question": "According to John 9:1, what is the opening statement or setting of this chapter?",
+        "options": [
+          "It records: “And when he went on his way, he saw a man blind from birth.”",
+          "It begins with a prayer of thanksgiving for deliverance in John",
+          "It opens with a formal census and counting of the congregation",
+          "It records a severe judgment pronounced against neighboring nations"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "It records: “And when he went on his way, he saw a man blind from birth.”",
+        "reference": "John 9:1",
+        "explanation": "The chapter begins directly with the statement: 'And when he went on his way, he saw a man blind from birth.'."
+      },
+      {
+        "id": "jhn-9-q2",
+        "questionNumber": 2,
+        "question": "What key instruction, event, or declaration is set forth in John 9:4?",
+        "options": [
+          "“And said to him, Go and make yourself clean...”",
+          "“While it is day we have to do the works of...”",
+          "“His answer was: The man who is named Jesus...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“While it is day we have to do the works of...”",
+        "reference": "John 9:4",
+        "explanation": "John 9:4 records: 'While it is day we have to do the works of him who sent me: the night comes when no work may be done.'."
+      },
+      {
+        "id": "jhn-9-q3",
+        "questionNumber": 3,
+        "question": "What significant action or revelation occurs in John 9:8?",
+        "options": [
+          "“His answer was: The man who is named Jesus...”",
+          "“So the Pharisees put more questions to him about...”",
+          "“Then the neighbours and others who had seen him before in...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“Then the neighbours and others who had seen him before in...”",
+        "reference": "John 9:8",
+        "explanation": "John 9:8 records: 'Then the neighbours and others who had seen him before in the street, with his hand out for money, said, Is not this the man who got money from people?'."
+      },
+      {
+        "id": "jhn-9-q4",
+        "questionNumber": 4,
+        "question": "What truth or description is highlighted in John 9:12?",
+        "options": [
+          "“So the Pharisees put more questions to him about...”",
+          "“And put the question to them, saying, Is this...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“And they said to him, Where is he? His answer was:...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“And they said to him, Where is he? His answer was:...”",
+        "reference": "John 9:12",
+        "explanation": "John 9:12 records: 'And they said to him, Where is he? His answer was: I have no knowledge.'."
+      },
+      {
+        "id": "jhn-9-q5",
+        "questionNumber": 5,
+        "question": "According to the text, what happened or was commanded in John 9:16?",
+        "options": [
+          "“Then some of the Pharisees said, That man has not come...”",
+          "“And put the question to them, saying, Is this...”",
+          "“That was the reason why they said, He is...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“Then some of the Pharisees said, That man has not come...”",
+        "reference": "John 9:16",
+        "explanation": "John 9:16 records: 'Then some of the Pharisees said, That man has not come from God, for he does not keep the Sabbath. Others said, How is it possible for a sinner to do such signs? So there was a division among them.'."
+      },
+      {
+        "id": "jhn-9-q6",
+        "questionNumber": 6,
+        "question": "What central message or instruction is delivered in John 9:20?",
+        "options": [
+          "“That was the reason why they said, He is...”",
+          "“In answer his father and mother said, We are certain that...”",
+          "“His answer was: I have said it before, but...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“In answer his father and mother said, We are certain that...”",
+        "reference": "John 9:20",
+        "explanation": "John 9:20 records: 'In answer his father and mother said, We are certain that this is our son and that he was blind at birth:'."
+      },
+      {
+        "id": "jhn-9-q7",
+        "questionNumber": 7,
+        "question": "What detail regarding God's work, covenant, or people is given in John 9:24?",
+        "options": [
+          "“His answer was: I have said it before, but...”",
+          "“We have knowledge that God does not give ear...”",
+          "“So they sent a second time for the man who had...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“So they sent a second time for the man who had...”",
+        "reference": "John 9:24",
+        "explanation": "John 9:24 records: 'So they sent a second time for the man who had been blind and they said to him, Give glory to God: it is clear to us that this man is a sinner.'."
+      },
+      {
+        "id": "jhn-9-q8",
+        "questionNumber": 8,
+        "question": "What phrase or account is recorded in John 9:28?",
+        "options": [
+          "“We have knowledge that God does not give ear...”",
+          "“It came to the ears of Jesus that they...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“And they were angry with him and said, You are his...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“And they were angry with him and said, You are his...”",
+        "reference": "John 9:28",
+        "explanation": "John 9:28 records: 'And they were angry with him and said, You are his disciple, but we are disciples of Moses.'."
+      },
+      {
+        "id": "jhn-9-q9",
+        "questionNumber": 9,
+        "question": "How does the passage describe the circumstances or people in John 9:32?",
+        "options": [
+          "“In all the years nobody has ever before seen the eyes...”",
+          "“It came to the ears of Jesus that they...”",
+          "“And Jesus said, I came into this world to...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“In all the years nobody has ever before seen the eyes...”",
+        "reference": "John 9:32",
+        "explanation": "John 9:32 records: 'In all the years nobody has ever before seen the eyes of a man blind from birth made open.'."
+      },
+      {
+        "id": "jhn-9-q10",
+        "questionNumber": 10,
+        "question": "In the concluding portion of the chapter, what takes place in John 9:36?",
+        "options": [
+          "“And Jesus said, I came into this world to...”",
+          "“He said in answer, And who is he, Lord? Say, so...”",
+          "“And his disciples put a question to him, saying,...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“He said in answer, And who is he, Lord? Say, so...”",
+        "reference": "John 9:36",
+        "explanation": "John 9:36 records: 'He said in answer, And who is he, Lord? Say, so that I may have faith in him.'."
+      }
+    ],
+    "10": [
+      {
+        "id": "jhn-10-q1",
+        "questionNumber": 1,
+        "question": "According to John 10:1, what is the opening statement or setting of this chapter?",
+        "options": [
+          "It records: “Truly I say to you, He who does not go through the door into the ...”",
+          "It begins with a prayer of thanksgiving for deliverance in John",
+          "It opens with a formal census and counting of the congregation",
+          "It records a severe judgment pronounced against neighboring nations"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "It records: “Truly I say to you, He who does not go through the door into the ...”",
+        "reference": "John 10:1",
+        "explanation": "The chapter begins directly with the statement: 'Truly I say to you, He who does not go through the door into the place where the sheep are kept, but gets in by some other way, is a thief and an outlaw.'."
+      },
+      {
+        "id": "jhn-10-q2",
+        "questionNumber": 2,
+        "question": "What key instruction, event, or declaration is set forth in John 10:4?",
+        "options": [
+          "“So Jesus said again, Truly I say to you,...”",
+          "“When he has got them all out, he goes before them,...”",
+          "“I am the good keeper of sheep: the good...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“When he has got them all out, he goes before them,...”",
+        "reference": "John 10:4",
+        "explanation": "John 10:4 records: 'When he has got them all out, he goes before them, and the sheep go after him, for they have knowledge of his voice.'."
+      },
+      {
+        "id": "jhn-10-q3",
+        "questionNumber": 3,
+        "question": "What significant action or revelation occurs in John 10:8?",
+        "options": [
+          "“I am the good keeper of sheep: the good...”",
+          "“Even as the Father has knowledge of me and...”",
+          "“All who came before me are thieves and outlaws: but the...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“All who came before me are thieves and outlaws: but the...”",
+        "reference": "John 10:8",
+        "explanation": "John 10:8 records: 'All who came before me are thieves and outlaws: but the sheep did not give ear to them.'."
+      },
+      {
+        "id": "jhn-10-q4",
+        "questionNumber": 4,
+        "question": "What truth or description is highlighted in John 10:12?",
+        "options": [
+          "“Even as the Father has knowledge of me and...”",
+          "“There was a division again among the Jews because...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“He who is a servant, and not the keeper or the...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“He who is a servant, and not the keeper or the...”",
+        "reference": "John 10:12",
+        "explanation": "John 10:12 records: 'He who is a servant, and not the keeper or the owner of the sheep, sees the wolf coming and goes in flight, away from the sheep; and the wolf comes down on them and sends them in all directions:'."
+      },
+      {
+        "id": "jhn-10-q5",
+        "questionNumber": 5,
+        "question": "According to the text, what happened or was commanded in John 10:16?",
+        "options": [
+          "“And I have other sheep which are not of this field:...”",
+          "“There was a division again among the Jews because...”",
+          "“And Jesus was walking in the Temple, in Solomon's...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“And I have other sheep which are not of this field:...”",
+        "reference": "John 10:16",
+        "explanation": "John 10:16 records: 'And I have other sheep which are not of this field: I will be their guide in the same way, and they will give ear to my voice, so there will be one flock and one keeper.'."
+      },
+      {
+        "id": "jhn-10-q6",
+        "questionNumber": 6,
+        "question": "What central message or instruction is delivered in John 10:20?",
+        "options": [
+          "“And Jesus was walking in the Temple, in Solomon's...”",
+          "“And a number of them said, He has an evil spirit...”",
+          "“My sheep give ear to my voice, and I...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“And a number of them said, He has an evil spirit...”",
+        "reference": "John 10:20",
+        "explanation": "John 10:20 records: 'And a number of them said, He has an evil spirit and is out of his mind; why do you give ear to him?'."
+      },
+      {
+        "id": "jhn-10-q7",
+        "questionNumber": 7,
+        "question": "What detail regarding God's work, covenant, or people is given in John 10:24?",
+        "options": [
+          "“My sheep give ear to my voice, and I...”",
+          "“Then the Jews took up stones again to send...”",
+          "“Then the Jews came round him, saying, how long are you...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“Then the Jews came round him, saying, how long are you...”",
+        "reference": "John 10:24",
+        "explanation": "John 10:24 records: 'Then the Jews came round him, saying, how long are you going to keep us in doubt? If you are the Christ, say so clearly.'."
+      },
+      {
+        "id": "jhn-10-q8",
+        "questionNumber": 8,
+        "question": "What phrase or account is recorded in John 10:28?",
+        "options": [
+          "“Then the Jews took up stones again to send...”",
+          "“If he said they were gods, to whom the...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“And I give them eternal life; they will never come to...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“And I give them eternal life; they will never come to...”",
+        "reference": "John 10:28",
+        "explanation": "John 10:28 records: 'And I give them eternal life; they will never come to destruction, and no one will ever take them out of my hand.'."
+      },
+      {
+        "id": "jhn-10-q9",
+        "questionNumber": 9,
+        "question": "How does the passage describe the circumstances or people in John 10:32?",
+        "options": [
+          "“Jesus said to them in answer, I have let you see...”",
+          "“If he said they were gods, to whom the...”",
+          "“Then again they made an attempt to take him;...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“Jesus said to them in answer, I have let you see...”",
+        "reference": "John 10:32",
+        "explanation": "John 10:32 records: 'Jesus said to them in answer, I have let you see a number of good works from the Father; for which of those works are you stoning me?'."
+      },
+      {
+        "id": "jhn-10-q10",
+        "questionNumber": 10,
+        "question": "In the concluding portion of the chapter, what takes place in John 10:36?",
+        "options": [
+          "“Then again they made an attempt to take him;...”",
+          "“Do you say of him whom the Father made holy and...”",
+          "“Truly I say to you, He who does not...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“Do you say of him whom the Father made holy and...”",
+        "reference": "John 10:36",
+        "explanation": "John 10:36 records: 'Do you say of him whom the Father made holy and sent into the world, Your words are evil; because I said, I am God's Son?'."
+      }
+    ],
+    "11": [
+      {
+        "id": "jhn-11-q1",
+        "questionNumber": 1,
+        "question": "According to John 11:1, what is the opening statement or setting of this chapter?",
+        "options": [
+          "It records: “Now a certain man named Lazarus was ill; he was of Bethany, the t...”",
+          "It begins with a prayer of thanksgiving for deliverance in John",
+          "It opens with a formal census and counting of the congregation",
+          "It records a severe judgment pronounced against neighboring nations"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "It records: “Now a certain man named Lazarus was ill; he was of Bethany, the t...”",
+        "reference": "John 11:1",
+        "explanation": "The chapter begins directly with the statement: 'Now a certain man named Lazarus was ill; he was of Bethany, the town of Mary and her sister Martha.'."
+      },
+      {
+        "id": "jhn-11-q2",
+        "questionNumber": 2,
+        "question": "What key instruction, event, or declaration is set forth in John 11:5?",
+        "options": [
+          "“The disciples said to him, Master, the Jews were...”",
+          "“Now Jesus had love in his heart for Martha and her...”",
+          "“Then his disciples said to him, Lord, if he...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“Now Jesus had love in his heart for Martha and her...”",
+        "reference": "John 11:5",
+        "explanation": "John 11:5 records: 'Now Jesus had love in his heart for Martha and her sister and Lazarus.'."
+      },
+      {
+        "id": "jhn-11-q3",
+        "questionNumber": 3,
+        "question": "What significant action or revelation occurs in John 11:10?",
+        "options": [
+          "“Jesus, however, was talking of his death: but they...”",
+          "“Now when Jesus came, he made the discovery that...”",
+          "“But if a man goes about in the night, he may...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“But if a man goes about in the night, he may...”",
+        "reference": "John 11:10",
+        "explanation": "John 11:10 records: 'But if a man goes about in the night, he may have a fall because the light is not in him.'."
+      },
+      {
+        "id": "jhn-11-q4",
+        "questionNumber": 4,
+        "question": "What truth or description is highlighted in John 11:15?",
+        "options": [
+          "“Now Bethany was near to Jerusalem, about two miles...”",
+          "“But I am certain that, even now, whatever request...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“And because of you I am glad I was not there,...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“And because of you I am glad I was not there,...”",
+        "reference": "John 11:15",
+        "explanation": "John 11:15 records: 'And because of you I am glad I was not there, so that you may have faith; but let us go to him.'."
+      },
+      {
+        "id": "jhn-11-q5",
+        "questionNumber": 5,
+        "question": "According to the text, what happened or was commanded in John 11:20?",
+        "options": [
+          "“When Martha had the news that Jesus was on the way,...”",
+          "“Jesus said to her, Your brother will come to...”",
+          "“She said to him, Yes, Lord: my faith is...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“When Martha had the news that Jesus was on the way,...”",
+        "reference": "John 11:20",
+        "explanation": "John 11:20 records: 'When Martha had the news that Jesus was on the way, she went out to him, but Mary did not go from the house.'."
+      },
+      {
+        "id": "jhn-11-q6",
+        "questionNumber": 6,
+        "question": "What central message or instruction is delivered in John 11:25?",
+        "options": [
+          "“And having said this, she went away and said...”",
+          "“Jesus said to her, I am myself that day and that...”",
+          "“When Mary came to where Jesus was and saw...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“Jesus said to her, I am myself that day and that...”",
+        "reference": "John 11:25",
+        "explanation": "John 11:25 records: 'Jesus said to her, I am myself that day and that life; he who has faith in me will have life even if he is dead;'."
+      },
+      {
+        "id": "jhn-11-q7",
+        "questionNumber": 7,
+        "question": "What detail regarding God's work, covenant, or people is given in John 11:30?",
+        "options": [
+          "“And when Jesus saw her weeping, and saw the...”",
+          "“But some of them said, This man, who made...”",
+          "“Now Jesus had not at this time come into the town,...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“Now Jesus had not at this time come into the town,...”",
+        "reference": "John 11:30",
+        "explanation": "John 11:30 records: 'Now Jesus had not at this time come into the town, but was still in the place where Martha had seen him.'."
+      },
+      {
+        "id": "jhn-11-q8",
+        "questionNumber": 8,
+        "question": "What phrase or account is recorded in John 11:35?",
+        "options": [
+          "“So Jesus, deeply troubled in heart, came to the...”",
+          "“I was certain that your ears are at all...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“And Jesus himself was weeping.”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“And Jesus himself was weeping.”",
+        "reference": "John 11:35",
+        "explanation": "John 11:35 records: 'And Jesus himself was weeping.'."
+      },
+      {
+        "id": "jhn-11-q9",
+        "questionNumber": 9,
+        "question": "How does the passage describe the circumstances or people in John 11:40?",
+        "options": [
+          "“Jesus said to her, Did I not say to you that...”",
+          "“Then he said in a loud voice, Lazarus, come...”",
+          "“Then the high priests and the Pharisees had a...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“Jesus said to her, Did I not say to you that...”",
+        "reference": "John 11:40",
+        "explanation": "John 11:40 records: 'Jesus said to her, Did I not say to you that if you had faith you would see the glory of God?'."
+      },
+      {
+        "id": "jhn-11-q10",
+        "questionNumber": 10,
+        "question": "In the concluding portion of the chapter, what takes place in John 11:45?",
+        "options": [
+          "“If we let him go on in this way,...”",
+          "“Then a number of the Jews who had come to Mary...”",
+          "“And not for that nation only, but for the...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“Then a number of the Jews who had come to Mary...”",
+        "reference": "John 11:45",
+        "explanation": "John 11:45 records: 'Then a number of the Jews who had come to Mary and had seen the things which Jesus did had belief in him.'."
+      }
+    ],
+    "12": [
+      {
+        "id": "jhn-12-q1",
+        "questionNumber": 1,
+        "question": "According to John 12:1, what is the opening statement or setting of this chapter?",
+        "options": [
+          "It records: “Then, six days before the Passover, Jesus came to Bethany where L...”",
+          "It begins with a prayer of thanksgiving for deliverance in John",
+          "It opens with a formal census and counting of the congregation",
+          "It records a severe judgment pronounced against neighboring nations"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "It records: “Then, six days before the Passover, Jesus came to Bethany where L...”",
+        "reference": "John 12:1",
+        "explanation": "The chapter begins directly with the statement: 'Then, six days before the Passover, Jesus came to Bethany where Lazarus was, whom Jesus had made to come back from the dead.'."
+      },
+      {
+        "id": "jhn-12-q2",
+        "questionNumber": 2,
+        "question": "What key instruction, event, or declaration is set forth in John 12:5?",
+        "options": [
+          "“The poor you have ever with you, but me...”",
+          "“Why was not this perfume traded for three hundred pence, and...”",
+          "“The day after, a great number of people who...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“Why was not this perfume traded for three hundred pence, and...”",
+        "reference": "John 12:5",
+        "explanation": "John 12:5 records: 'Why was not this perfume traded for three hundred pence, and the money given to the poor?'."
+      },
+      {
+        "id": "jhn-12-q3",
+        "questionNumber": 3,
+        "question": "What significant action or revelation occurs in John 12:10?",
+        "options": [
+          "“Took branches of palm-trees and went out to him,...”",
+          "“Now the people who were with him when his...”",
+          "“Now there was talk among the chief priests of putting Lazarus...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“Now there was talk among the chief priests of putting Lazarus...”",
+        "reference": "John 12:10",
+        "explanation": "John 12:10 records: 'Now there was talk among the chief priests of putting Lazarus to death;'."
+      },
+      {
+        "id": "jhn-12-q4",
+        "questionNumber": 4,
+        "question": "What truth or description is highlighted in John 12:15?",
+        "options": [
+          "“And that was the reason the people went out...”",
+          "“Philip went and gave word of it to Andrew;...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“Have no fear, daughter of Zion: see your King is coming,...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“Have no fear, daughter of Zion: see your King is coming,...”",
+        "reference": "John 12:15",
+        "explanation": "John 12:15 records: 'Have no fear, daughter of Zion: see your King is coming, seated on a young ass.'."
+      },
+      {
+        "id": "jhn-12-q5",
+        "questionNumber": 5,
+        "question": "According to the text, what happened or was commanded in John 12:20?",
+        "options": [
+          "“Now there were some Greeks among the people who had come...”",
+          "“And Jesus said to them in answer, The hour...”",
+          "“Now is my soul troubled; and what am I...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“Now there were some Greeks among the people who had come...”",
+        "reference": "John 12:20",
+        "explanation": "John 12:20 records: 'Now there were some Greeks among the people who had come up to give worship at the feast:'."
+      },
+      {
+        "id": "jhn-12-q6",
+        "questionNumber": 6,
+        "question": "What central message or instruction is delivered in John 12:25?",
+        "options": [
+          "“Father, give glory to your name. Then there came...”",
+          "“He who is in love with life will have it taken...”",
+          "“And I, if I am lifted up from the...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“He who is in love with life will have it taken...”",
+        "reference": "John 12:25",
+        "explanation": "John 12:25 records: 'He who is in love with life will have it taken from him; and he who has no care for his life in this world will keep it for ever and ever.'."
+      },
+      {
+        "id": "jhn-12-q7",
+        "questionNumber": 7,
+        "question": "What detail regarding God's work, covenant, or people is given in John 12:30?",
+        "options": [
+          "“(This he said, pointing to the sort of death...”",
+          "“But though he had done such a number of...”",
+          "“Jesus said in answer, This voice came not for me but...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“Jesus said in answer, This voice came not for me but...”",
+        "reference": "John 12:30",
+        "explanation": "John 12:30 records: 'Jesus said in answer, This voice came not for me but for you.'."
+      },
+      {
+        "id": "jhn-12-q8",
+        "questionNumber": 8,
+        "question": "What phrase or account is recorded in John 12:35?",
+        "options": [
+          "“So that the words of the prophet Isaiah might...”",
+          "“However, a number even of the rulers had belief...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“Jesus said to them, For a little time longer the light...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“Jesus said to them, For a little time longer the light...”",
+        "reference": "John 12:35",
+        "explanation": "John 12:35 records: 'Jesus said to them, For a little time longer the light will be among you; while you have the light go on walking in it, so that the dark may not overtake you: one walking in the dark has no knowledge of where he is going.'."
+      },
+      {
+        "id": "jhn-12-q9",
+        "questionNumber": 9,
+        "question": "How does the passage describe the circumstances or people in John 12:40?",
+        "options": [
+          "“He has made their eyes blind, and their hearts hard; for...”",
+          "“For the praise of men was dearer to them...”",
+          "“And if any man gives ear to my words...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“He has made their eyes blind, and their hearts hard; for...”",
+        "reference": "John 12:40",
+        "explanation": "John 12:40 records: 'He has made their eyes blind, and their hearts hard; for fear that they might see with their eyes and get knowledge with their hearts, and be changed, and I might make them well.'."
+      },
+      {
+        "id": "jhn-12-q10",
+        "questionNumber": 10,
+        "question": "In the concluding portion of the chapter, what takes place in John 12:45?",
+        "options": [
+          "“He who puts me on one side and does...”",
+          "“And he who sees me, sees him who sent me.”",
+          "“So they made him a meal there, and he...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“And he who sees me, sees him who sent me.”",
+        "reference": "John 12:45",
+        "explanation": "John 12:45 records: 'And he who sees me, sees him who sent me.'."
+      }
+    ],
+    "13": [
+      {
+        "id": "jhn-13-q1",
+        "questionNumber": 1,
+        "question": "According to John 13:1, what is the opening statement or setting of this chapter?",
+        "options": [
+          "It records: “Now before the feast of the Passover, it was clear to Jesus that ...”",
+          "It begins with a prayer of thanksgiving for deliverance in John",
+          "It opens with a formal census and counting of the congregation",
+          "It records a severe judgment pronounced against neighboring nations"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "It records: “Now before the feast of the Passover, it was clear to Jesus that ...”",
+        "reference": "John 13:1",
+        "explanation": "The chapter begins directly with the statement: 'Now before the feast of the Passover, it was clear to Jesus that the time had come for him to go away from this world to the Father. Having once had love for those in the world who were his, his love for them went on to the end.'."
+      },
+      {
+        "id": "jhn-13-q2",
+        "questionNumber": 2,
+        "question": "What key instruction, event, or declaration is set forth in John 13:3?",
+        "options": [
+          "“So he came to Simon Peter. Peter said, Lord,...”",
+          "“Jesus, being conscious that the Father had put everything into his...”",
+          "“Jesus said to him, He who is bathed has...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“Jesus, being conscious that the Father had put everything into his...”",
+        "reference": "John 13:3",
+        "explanation": "John 13:3 records: 'Jesus, being conscious that the Father had put everything into his hands, and that he came from God and was going to God,'."
+      },
+      {
+        "id": "jhn-13-q3",
+        "questionNumber": 3,
+        "question": "What significant action or revelation occurs in John 13:6?",
+        "options": [
+          "“Simon Peter said to him, Lord, not my feet...”",
+          "“You give me the name of Master and Lord:...”",
+          "“So he came to Simon Peter. Peter said, Lord, are my...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“So he came to Simon Peter. Peter said, Lord, are my...”",
+        "reference": "John 13:6",
+        "explanation": "John 13:6 records: 'So he came to Simon Peter. Peter said, Lord, are my feet to be washed by you?'."
+      },
+      {
+        "id": "jhn-13-q4",
+        "questionNumber": 4,
+        "question": "What truth or description is highlighted in John 13:9?",
+        "options": [
+          "“Then, after washing their feet and putting on his...”",
+          "“Truly I say to you, A servant is not...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“Simon Peter said to him, Lord, not my feet only, but...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“Simon Peter said to him, Lord, not my feet only, but...”",
+        "reference": "John 13:9",
+        "explanation": "John 13:9 records: 'Simon Peter said to him, Lord, not my feet only, but my hands and my head.'."
+      },
+      {
+        "id": "jhn-13-q5",
+        "questionNumber": 5,
+        "question": "According to the text, what happened or was commanded in John 13:12?",
+        "options": [
+          "“Then, after washing their feet and putting on his robe again,...”",
+          "“I have given you an example, so that you...”",
+          "“From this time forward, I give you knowledge of...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“Then, after washing their feet and putting on his robe again,...”",
+        "reference": "John 13:12",
+        "explanation": "John 13:12 records: 'Then, after washing their feet and putting on his robe again, he took his seat and said to them, Do you see what I have done to you?'."
+      },
+      {
+        "id": "jhn-13-q6",
+        "questionNumber": 6,
+        "question": "What central message or instruction is delivered in John 13:15?",
+        "options": [
+          "“I am not talking of you all: I have...”",
+          "“I have given you an example, so that you may do...”",
+          "“Then the eyes of the disciples were turned on...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“I have given you an example, so that you may do...”",
+        "reference": "John 13:15",
+        "explanation": "John 13:15 records: 'I have given you an example, so that you may do what I have done to you.'."
+      },
+      {
+        "id": "jhn-13-q7",
+        "questionNumber": 7,
+        "question": "What detail regarding God's work, covenant, or people is given in John 13:18?",
+        "options": [
+          "“When Jesus had said this he was troubled in...”",
+          "“He, then, resting his head on Jesus' breast, said...”",
+          "“I am not talking of you all: I have knowledge of...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“I am not talking of you all: I have knowledge of...”",
+        "reference": "John 13:18",
+        "explanation": "John 13:18 records: 'I am not talking of you all: I have knowledge of my true disciples, but things are as they are, so that the Writings may come true, The foot of him who takes bread with me is lifted up against me.'."
+      },
+      {
+        "id": "jhn-13-q8",
+        "questionNumber": 8,
+        "question": "What phrase or account is recorded in John 13:21?",
+        "options": [
+          "“Making a sign to him, Simon Peter said, Who...”",
+          "“Now it was not clear to anyone at table...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“When Jesus had said this he was troubled in spirit, and...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“When Jesus had said this he was troubled in spirit, and...”",
+        "reference": "John 13:21",
+        "explanation": "John 13:21 records: 'When Jesus had said this he was troubled in spirit, and gave witness, saying, Truly I say to you, that one of you will be false to me.'."
+      },
+      {
+        "id": "jhn-13-q9",
+        "questionNumber": 9,
+        "question": "How does the passage describe the circumstances or people in John 13:24?",
+        "options": [
+          "“Making a sign to him, Simon Peter said, Who is it...”",
+          "“And when Judas took the bread Satan went into...”",
+          "“Then when he had gone out, Jesus said, Now...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“Making a sign to him, Simon Peter said, Who is it...”",
+        "reference": "John 13:24",
+        "explanation": "John 13:24 records: 'Making a sign to him, Simon Peter said, Who is it he is talking about?'."
+      },
+      {
+        "id": "jhn-13-q10",
+        "questionNumber": 10,
+        "question": "In the concluding portion of the chapter, what takes place in John 13:27?",
+        "options": [
+          "“So Judas, having taken the bit of bread, straight...”",
+          "“And when Judas took the bread Satan went into him. Then...”",
+          "“I give you a new law: Have love one...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“And when Judas took the bread Satan went into him. Then...”",
+        "reference": "John 13:27",
+        "explanation": "John 13:27 records: 'And when Judas took the bread Satan went into him. Then Jesus said to him, Do quickly what you have to do.'."
+      }
+    ],
+    "14": [
+      {
+        "id": "jhn-14-q1",
+        "questionNumber": 1,
+        "question": "According to John 14:1, what is the opening statement or setting of this chapter?",
+        "options": [
+          "It records: “Let not your heart be troubled: have faith in God and have faith ...”",
+          "It begins with a prayer of thanksgiving for deliverance in John",
+          "It opens with a formal census and counting of the congregation",
+          "It records a severe judgment pronounced against neighboring nations"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "It records: “Let not your heart be troubled: have faith in God and have faith ...”",
+        "reference": "John 14:1",
+        "explanation": "The chapter begins directly with the statement: 'Let not your heart be troubled: have faith in God and have faith in me.'."
+      },
+      {
+        "id": "jhn-14-q2",
+        "questionNumber": 2,
+        "question": "What key instruction, event, or declaration is set forth in John 14:3?",
+        "options": [
+          "“Jesus said to him, I am the true and...”",
+          "“And if I go and make ready a place for you,...”",
+          "“Have you not faith that I am in the...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“And if I go and make ready a place for you,...”",
+        "reference": "John 14:3",
+        "explanation": "John 14:3 records: 'And if I go and make ready a place for you, I will come back again and will take you to be with me, so that you may be where I am.'."
+      },
+      {
+        "id": "jhn-14-q3",
+        "questionNumber": 3,
+        "question": "What significant action or revelation occurs in John 14:6?",
+        "options": [
+          "“Jesus said to him, Philip, have I been with...”",
+          "“And whatever request you make in my name, that...”",
+          "“Jesus said to him, I am the true and living way:...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“Jesus said to him, I am the true and living way:...”",
+        "reference": "John 14:6",
+        "explanation": "John 14:6 records: 'Jesus said to him, I am the true and living way: no one comes to the Father but by me.'."
+      },
+      {
+        "id": "jhn-14-q4",
+        "questionNumber": 4,
+        "question": "What truth or description is highlighted in John 14:9?",
+        "options": [
+          "“Truly I say to you, He who puts his...”",
+          "“And I will make prayer to the Father and...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“Jesus said to him, Philip, have I been with you all...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“Jesus said to him, Philip, have I been with you all...”",
+        "reference": "John 14:9",
+        "explanation": "John 14:9 records: 'Jesus said to him, Philip, have I been with you all this time, and still you have no knowledge of me? He who has seen me has seen the Father. Why do you say, Let us see the Father?'."
+      },
+      {
+        "id": "jhn-14-q5",
+        "questionNumber": 5,
+        "question": "According to the text, what happened or was commanded in John 14:12?",
+        "options": [
+          "“Truly I say to you, He who puts his faith in...”",
+          "“If you have love for me, you will keep...”",
+          "“A little time longer, and the world will see...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“Truly I say to you, He who puts his faith in...”",
+        "reference": "John 14:12",
+        "explanation": "John 14:12 records: 'Truly I say to you, He who puts his faith in me will do the very works which I do, and he will do greater things than these, because I am going to my Father.'."
+      },
+      {
+        "id": "jhn-14-q6",
+        "questionNumber": 6,
+        "question": "What central message or instruction is delivered in John 14:15?",
+        "options": [
+          "“I will not let you be without a friend:...”",
+          "“If you have love for me, you will keep my laws.”",
+          "“Judas (not Iscariot) said to him, How is it...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“If you have love for me, you will keep my laws.”",
+        "reference": "John 14:15",
+        "explanation": "John 14:15 records: 'If you have love for me, you will keep my laws.'."
+      },
+      {
+        "id": "jhn-14-q7",
+        "questionNumber": 7,
+        "question": "What detail regarding God's work, covenant, or people is given in John 14:18?",
+        "options": [
+          "“He who has my laws and keeps them, he...”",
+          "“I have said all this to you while I...”",
+          "“I will not let you be without a friend: I am...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“I will not let you be without a friend: I am...”",
+        "reference": "John 14:18",
+        "explanation": "John 14:18 records: 'I will not let you be without a friend: I am coming to you.'."
+      },
+      {
+        "id": "jhn-14-q8",
+        "questionNumber": 8,
+        "question": "What phrase or account is recorded in John 14:21?",
+        "options": [
+          "“He who has no love for me does not...”",
+          "“Keep in mind how I said to you, I...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“He who has my laws and keeps them, he it is...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“He who has my laws and keeps them, he it is...”",
+        "reference": "John 14:21",
+        "explanation": "John 14:21 records: 'He who has my laws and keeps them, he it is who has love for me: and he who has love for me will be loved by my Father, and I will have love for him and will let myself be seen clearly by him.'."
+      },
+      {
+        "id": "jhn-14-q9",
+        "questionNumber": 9,
+        "question": "How does the passage describe the circumstances or people in John 14:24?",
+        "options": [
+          "“He who has no love for me does not keep my...”",
+          "“May peace be with you; my peace I give...”",
+          "“Let not your heart be troubled: have faith in...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“He who has no love for me does not keep my...”",
+        "reference": "John 14:24",
+        "explanation": "John 14:24 records: 'He who has no love for me does not keep my words; and the word which you are hearing is not my word but the Father's who sent me.'."
+      },
+      {
+        "id": "jhn-14-q10",
+        "questionNumber": 10,
+        "question": "In the concluding portion of the chapter, what takes place in John 14:27?",
+        "options": [
+          "“After this I will not say much to you,...”",
+          "“May peace be with you; my peace I give to you:...”",
+          "“And if I go and make ready a place...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“May peace be with you; my peace I give to you:...”",
+        "reference": "John 14:27",
+        "explanation": "John 14:27 records: 'May peace be with you; my peace I give to you: I give it not as the world gives. Let not your heart be troubled; let it be without fear.'."
+      }
+    ],
+    "15": [
+      {
+        "id": "jhn-15-q1",
+        "questionNumber": 1,
+        "question": "According to John 15:1, what is the opening statement or setting of this chapter?",
+        "options": [
+          "It records: “I am the true vine and my Father is the gardener.”",
+          "It begins with a prayer of thanksgiving for deliverance in John",
+          "It opens with a formal census and counting of the congregation",
+          "It records a severe judgment pronounced against neighboring nations"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "It records: “I am the true vine and my Father is the gardener.”",
+        "reference": "John 15:1",
+        "explanation": "The chapter begins directly with the statement: 'I am the true vine and my Father is the gardener.'."
+      },
+      {
+        "id": "jhn-15-q2",
+        "questionNumber": 2,
+        "question": "What key instruction, event, or declaration is set forth in John 15:2?",
+        "options": [
+          "“I am the vine, you are the branches: he...”",
+          "“He takes away every branch in me which has no fruit,...”",
+          "“Even as the Father has given me his love,...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“He takes away every branch in me which has no fruit,...”",
+        "reference": "John 15:2",
+        "explanation": "John 15:2 records: 'He takes away every branch in me which has no fruit, and every branch which has fruit he makes clean, so that it may have more fruit.'."
+      },
+      {
+        "id": "jhn-15-q3",
+        "questionNumber": 3,
+        "question": "What significant action or revelation occurs in John 15:4?",
+        "options": [
+          "“If you are in me at all times, and...”",
+          "“I have said these things to you so that...”",
+          "“Be in me at all times as I am in you....”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“Be in me at all times as I am in you....”",
+        "reference": "John 15:4",
+        "explanation": "John 15:4 records: 'Be in me at all times as I am in you. As the branch is not able to give fruit of itself, if it is not still on the vine, so you are not able to do so if you are not in me.'."
+      },
+      {
+        "id": "jhn-15-q4",
+        "questionNumber": 4,
+        "question": "What truth or description is highlighted in John 15:6?",
+        "options": [
+          "“Even as the Father has given me his love,...”",
+          "“Greater love has no man than this, that a...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“If a man does not keep himself in me, he becomes...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“If a man does not keep himself in me, he becomes...”",
+        "reference": "John 15:6",
+        "explanation": "John 15:6 records: 'If a man does not keep himself in me, he becomes dead and is cut off like a dry branch; such branches are taken up and put in the fire and burned.'."
+      },
+      {
+        "id": "jhn-15-q5",
+        "questionNumber": 5,
+        "question": "According to the text, what happened or was commanded in John 15:8?",
+        "options": [
+          "“Here is my Father's glory, in that you give much fruit...”",
+          "“I have said these things to you so that...”",
+          "“No longer do I give you the name of...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“Here is my Father's glory, in that you give much fruit...”",
+        "reference": "John 15:8",
+        "explanation": "John 15:8 records: 'Here is my Father's glory, in that you give much fruit and so are my true disciples.'."
+      },
+      {
+        "id": "jhn-15-q6",
+        "questionNumber": 6,
+        "question": "What central message or instruction is delivered in John 15:10?",
+        "options": [
+          "“Greater love has no man than this, that a...”",
+          "“If you keep my laws, you will be ever in my...”",
+          "“So this is my law for you: Have love...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“If you keep my laws, you will be ever in my...”",
+        "reference": "John 15:10",
+        "explanation": "John 15:10 records: 'If you keep my laws, you will be ever in my love, even as I have kept my Father's laws, and am ever in his love.'."
+      },
+      {
+        "id": "jhn-15-q7",
+        "questionNumber": 7,
+        "question": "What detail regarding God's work, covenant, or people is given in John 15:12?",
+        "options": [
+          "“No longer do I give you the name of...”",
+          "“If you were of the world, you would be...”",
+          "“This is the law I give you: Have love one for...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“This is the law I give you: Have love one for...”",
+        "reference": "John 15:12",
+        "explanation": "John 15:12 records: 'This is the law I give you: Have love one for another, even as I have love for you.'."
+      },
+      {
+        "id": "jhn-15-q8",
+        "questionNumber": 8,
+        "question": "What phrase or account is recorded in John 15:14?",
+        "options": [
+          "“So this is my law for you: Have love...”",
+          "“They will do all this to you because of...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“You are my friends, if you do what I give you...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“You are my friends, if you do what I give you...”",
+        "reference": "John 15:14",
+        "explanation": "John 15:14 records: 'You are my friends, if you do what I give you orders to do.'."
+      },
+      {
+        "id": "jhn-15-q9",
+        "questionNumber": 9,
+        "question": "How does the passage describe the circumstances or people in John 15:16?",
+        "options": [
+          "“You did not take me for yourselves, but I took you...”",
+          "“If you were of the world, you would be...”",
+          "“He who has hate for me has hate for...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“You did not take me for yourselves, but I took you...”",
+        "reference": "John 15:16",
+        "explanation": "John 15:16 records: 'You did not take me for yourselves, but I took you for myself; and I gave you the work of going about and producing fruit which will be for ever; so that whatever request you make to the Father in my name he may give it to you.'."
+      },
+      {
+        "id": "jhn-15-q10",
+        "questionNumber": 10,
+        "question": "In the concluding portion of the chapter, what takes place in John 15:18?",
+        "options": [
+          "“They will do all this to you because of...”",
+          "“If you are hated by the world, keep in mind that...”",
+          "“This comes about so that the writing in their...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“If you are hated by the world, keep in mind that...”",
+        "reference": "John 15:18",
+        "explanation": "John 15:18 records: 'If you are hated by the world, keep in mind that I was hated by the world before you.'."
+      }
+    ],
+    "16": [
+      {
+        "id": "jhn-16-q1",
+        "questionNumber": 1,
+        "question": "According to John 16:1, what is the opening statement or setting of this chapter?",
+        "options": [
+          "It records: “I have said these things to you so that you may not be in doubt.”",
+          "It begins with a prayer of thanksgiving for deliverance in John",
+          "It opens with a formal census and counting of the congregation",
+          "It records a severe judgment pronounced against neighboring nations"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "It records: “I have said these things to you so that you may not be in doubt.”",
+        "reference": "John 16:1",
+        "explanation": "The chapter begins directly with the statement: 'I have said these things to you so that you may not be in doubt.'."
+      },
+      {
+        "id": "jhn-16-q2",
+        "questionNumber": 2,
+        "question": "What key instruction, event, or declaration is set forth in John 16:3?",
+        "options": [
+          "“But your hearts are full of sorrow because I...”",
+          "“They will do these things to you because they have not...”",
+          "“Of righteousness, because I go to the Father and...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“They will do these things to you because they have not...”",
+        "reference": "John 16:3",
+        "explanation": "John 16:3 records: 'They will do these things to you because they have not had knowledge of the Father or of me.'."
+      },
+      {
+        "id": "jhn-16-q3",
+        "questionNumber": 3,
+        "question": "What significant action or revelation occurs in John 16:6?",
+        "options": [
+          "“Of sin, because they have not faith in me;”",
+          "“However, when he, the Spirit of true knowledge, has...”",
+          "“But your hearts are full of sorrow because I have said...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“But your hearts are full of sorrow because I have said...”",
+        "reference": "John 16:6",
+        "explanation": "John 16:6 records: 'But your hearts are full of sorrow because I have said these things.'."
+      },
+      {
+        "id": "jhn-16-q4",
+        "questionNumber": 4,
+        "question": "What truth or description is highlighted in John 16:9?",
+        "options": [
+          "“I have still much to say to you, but...”",
+          "“After a little time you will see me no...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“Of sin, because they have not faith in me;”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“Of sin, because they have not faith in me;”",
+        "reference": "John 16:9",
+        "explanation": "John 16:9 records: 'Of sin, because they have not faith in me;'."
+      },
+      {
+        "id": "jhn-16-q5",
+        "questionNumber": 5,
+        "question": "According to the text, what happened or was commanded in John 16:12?",
+        "options": [
+          "“I have still much to say to you, but you are...”",
+          "“Everything which the Father has is mine: that is...”",
+          "“Jesus saw that they had a desire to put...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“I have still much to say to you, but you are...”",
+        "reference": "John 16:12",
+        "explanation": "John 16:12 records: 'I have still much to say to you, but you are not strong enough for it now.'."
+      },
+      {
+        "id": "jhn-16-q6",
+        "questionNumber": 6,
+        "question": "What central message or instruction is delivered in John 16:15?",
+        "options": [
+          "“So they said again and again, What is this...”",
+          "“Everything which the Father has is mine: that is why I...”",
+          "“So you have sorrow now: but I will see...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“Everything which the Father has is mine: that is why I...”",
+        "reference": "John 16:15",
+        "explanation": "John 16:15 records: 'Everything which the Father has is mine: that is why I say, He will take of what is mine and will make it clear to you.'."
+      },
+      {
+        "id": "jhn-16-q7",
+        "questionNumber": 7,
+        "question": "What detail regarding God's work, covenant, or people is given in John 16:18?",
+        "options": [
+          "“When a woman is about to give birth she...”",
+          "“All this I have said to you in veiled...”",
+          "“So they said again and again, What is this he is...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“So they said again and again, What is this he is...”",
+        "reference": "John 16:18",
+        "explanation": "John 16:18 records: 'So they said again and again, What is this he is saying, A little time? His words are not clear to us.'."
+      },
+      {
+        "id": "jhn-16-q8",
+        "questionNumber": 8,
+        "question": "What phrase or account is recorded in John 16:21?",
+        "options": [
+          "“Up to now you have made no request in...”",
+          "“I came out from the Father and have come...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“When a woman is about to give birth she has sorrow,...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“When a woman is about to give birth she has sorrow,...”",
+        "reference": "John 16:21",
+        "explanation": "John 16:21 records: 'When a woman is about to give birth she has sorrow, because her hour is come; but when she has given birth to the child, the pain is put out of her mind by the joy that a man has come into the world.'."
+      },
+      {
+        "id": "jhn-16-q9",
+        "questionNumber": 9,
+        "question": "How does the passage describe the circumstances or people in John 16:24?",
+        "options": [
+          "“Up to now you have made no request in my name:...”",
+          "“For the Father himself gives his love to you,...”",
+          "“Jesus made answer, Have you faith now?”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“Up to now you have made no request in my name:...”",
+        "reference": "John 16:24",
+        "explanation": "John 16:24 records: 'Up to now you have made no request in my name: do so, and it will be answered, so that your hearts may be full of joy.'."
+      },
+      {
+        "id": "jhn-16-q10",
+        "questionNumber": 10,
+        "question": "In the concluding portion of the chapter, what takes place in John 16:27?",
+        "options": [
+          "“Now we are certain that you have knowledge of...”",
+          "“For the Father himself gives his love to you, because you...”",
+          "“I have said these things to you so that...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“For the Father himself gives his love to you, because you...”",
+        "reference": "John 16:27",
+        "explanation": "John 16:27 records: 'For the Father himself gives his love to you, because you have given your love to me and have had faith that I came from God.'."
+      }
+    ],
+    "17": [
+      {
+        "id": "jhn-17-q1",
+        "questionNumber": 1,
+        "question": "According to John 17:1, what is the opening statement or setting of this chapter?",
+        "options": [
+          "It records: “Jesus said these things; then, lifting his eyes to heaven, he sai...”",
+          "It begins with a prayer of thanksgiving for deliverance in John",
+          "It opens with a formal census and counting of the congregation",
+          "It records a severe judgment pronounced against neighboring nations"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "It records: “Jesus said these things; then, lifting his eyes to heaven, he sai...”",
+        "reference": "John 17:1",
+        "explanation": "The chapter begins directly with the statement: 'Jesus said these things; then, lifting his eyes to heaven, he said, Father, the time has now come; give glory to your Son, so that the Son may give glory to you:'."
+      },
+      {
+        "id": "jhn-17-q2",
+        "questionNumber": 2,
+        "question": "What key instruction, event, or declaration is set forth in John 17:2?",
+        "options": [
+          "“And now, Father, let me have glory with you,...”",
+          "“Even as you gave him authority over all flesh, to give...”",
+          "“My prayer is for them: my prayer is not...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“Even as you gave him authority over all flesh, to give...”",
+        "reference": "John 17:2",
+        "explanation": "John 17:2 records: 'Even as you gave him authority over all flesh, to give eternal life to all those whom you have given to him.'."
+      },
+      {
+        "id": "jhn-17-q3",
+        "questionNumber": 3,
+        "question": "What significant action or revelation occurs in John 17:4?",
+        "options": [
+          "“Now it is clear to them that whatever you...”",
+          "“And now I will be no longer in the...”",
+          "“I have given you glory on the earth, having done all...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“I have given you glory on the earth, having done all...”",
+        "reference": "John 17:4",
+        "explanation": "John 17:4 records: 'I have given you glory on the earth, having done all the work which you gave me to do.'."
+      },
+      {
+        "id": "jhn-17-q4",
+        "questionNumber": 4,
+        "question": "What truth or description is highlighted in John 17:6?",
+        "options": [
+          "“My prayer is for them: my prayer is not...”",
+          "“And now I come to you; and these things...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“I have given knowledge of your name to the men whom...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“I have given knowledge of your name to the men whom...”",
+        "reference": "John 17:6",
+        "explanation": "John 17:6 records: 'I have given knowledge of your name to the men whom you gave me out of the world: yours they were, and you gave them to me, and they have kept your words.'."
+      },
+      {
+        "id": "jhn-17-q5",
+        "questionNumber": 5,
+        "question": "According to the text, what happened or was commanded in John 17:8?",
+        "options": [
+          "“Because I have given them the words which you gave to...”",
+          "“And now I will be no longer in the...”",
+          "“My prayer is not that you will take them...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“Because I have given them the words which you gave to...”",
+        "reference": "John 17:8",
+        "explanation": "John 17:8 records: 'Because I have given them the words which you gave to me; and they have taken them to heart, and have certain knowledge that I came from you, and they have faith that you sent me.'."
+      },
+      {
+        "id": "jhn-17-q6",
+        "questionNumber": 6,
+        "question": "What central message or instruction is delivered in John 17:10?",
+        "options": [
+          "“And now I come to you; and these things...”",
+          "“(All mine are yours, and yours are mine) and I have...”",
+          "“Make them holy by the true word: your word...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“(All mine are yours, and yours are mine) and I have...”",
+        "reference": "John 17:10",
+        "explanation": "John 17:10 records: '(All mine are yours, and yours are mine) and I have glory in them.'."
+      },
+      {
+        "id": "jhn-17-q7",
+        "questionNumber": 7,
+        "question": "What detail regarding God's work, covenant, or people is given in John 17:12?",
+        "options": [
+          "“My prayer is not that you will take them...”",
+          "“And for them I make myself holy, so that...”",
+          "“While I was with them I kept them safe in your...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“While I was with them I kept them safe in your...”",
+        "reference": "John 17:12",
+        "explanation": "John 17:12 records: 'While I was with them I kept them safe in your name which you have given to me: I took care of them and not one of them has come to destruction, but only the son of destruction, so that the Writings might come true.'."
+      },
+      {
+        "id": "jhn-17-q8",
+        "questionNumber": 8,
+        "question": "What phrase or account is recorded in John 17:14?",
+        "options": [
+          "“Make them holy by the true word: your word...”",
+          "“May they all be one! Even as you, Father,...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“I have given your word to them; and they are hated...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“I have given your word to them; and they are hated...”",
+        "reference": "John 17:14",
+        "explanation": "John 17:14 records: 'I have given your word to them; and they are hated by the world, because they are not of the world, even as I am not of the world.'."
+      },
+      {
+        "id": "jhn-17-q9",
+        "questionNumber": 9,
+        "question": "How does the passage describe the circumstances or people in John 17:16?",
+        "options": [
+          "“They are not of the world any more than I am...”",
+          "“And for them I make myself holy, so that...”",
+          "“I in them, and you in me, so that...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“They are not of the world any more than I am...”",
+        "reference": "John 17:16",
+        "explanation": "John 17:16 records: 'They are not of the world any more than I am of the world.'."
+      },
+      {
+        "id": "jhn-17-q10",
+        "questionNumber": 10,
+        "question": "In the concluding portion of the chapter, what takes place in John 17:18?",
+        "options": [
+          "“May they all be one! Even as you, Father,...”",
+          "“Even as you have sent me into the world, so I...”",
+          "“Father of righteousness, I have knowledge of you, though...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“Even as you have sent me into the world, so I...”",
+        "reference": "John 17:18",
+        "explanation": "John 17:18 records: 'Even as you have sent me into the world, so I have sent them into the world.'."
+      }
+    ],
+    "18": [
+      {
+        "id": "jhn-18-q1",
+        "questionNumber": 1,
+        "question": "According to John 18:1, what is the opening statement or setting of this chapter?",
+        "options": [
+          "It records: “When Jesus had said these words he went out with his disciples ov...”",
+          "It begins with a prayer of thanksgiving for deliverance in John",
+          "It opens with a formal census and counting of the congregation",
+          "It records a severe judgment pronounced against neighboring nations"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "It records: “When Jesus had said these words he went out with his disciples ov...”",
+        "reference": "John 18:1",
+        "explanation": "The chapter begins directly with the statement: 'When Jesus had said these words he went out with his disciples over the stream Kedron to a garden, into which he went with his disciples.'."
+      },
+      {
+        "id": "jhn-18-q2",
+        "questionNumber": 2,
+        "question": "What key instruction, event, or declaration is set forth in John 18:4?",
+        "options": [
+          "“So again he put the question to them, Who...”",
+          "“Then Jesus, having knowledge of everything which was coming on him,...”",
+          "“Then Jesus said to Peter, Put back your sword:...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“Then Jesus, having knowledge of everything which was coming on him,...”",
+        "reference": "John 18:4",
+        "explanation": "John 18:4 records: 'Then Jesus, having knowledge of everything which was coming on him, went forward and said to them, Who are you looking for?'."
+      },
+      {
+        "id": "jhn-18-q3",
+        "questionNumber": 3,
+        "question": "What significant action or revelation occurs in John 18:8?",
+        "options": [
+          "“Then Jesus said to Peter, Put back your sword:...”",
+          "“And Simon Peter went after Jesus with another disciple....”",
+          "“Jesus made answer, I have said that I am he; if...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“Jesus made answer, I have said that I am he; if...”",
+        "reference": "John 18:8",
+        "explanation": "John 18:8 records: 'Jesus made answer, I have said that I am he; if you are looking for me, let these men go away.'."
+      },
+      {
+        "id": "jhn-18-q4",
+        "questionNumber": 4,
+        "question": "What truth or description is highlighted in John 18:12?",
+        "options": [
+          "“And Simon Peter went after Jesus with another disciple....”",
+          "“Then the high priest put questions to Jesus about...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“Then the band and the chief captain and the police took...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“Then the band and the chief captain and the police took...”",
+        "reference": "John 18:12",
+        "explanation": "John 18:12 records: 'Then the band and the chief captain and the police took Jesus and put cords round him.'."
+      },
+      {
+        "id": "jhn-18-q5",
+        "questionNumber": 5,
+        "question": "According to the text, what happened or was commanded in John 18:16?",
+        "options": [
+          "“But Peter was kept outside at the door. Then this other...”",
+          "“Then the high priest put questions to Jesus about...”",
+          "“Jesus said in answer, If I have said anything...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“But Peter was kept outside at the door. Then this other...”",
+        "reference": "John 18:16",
+        "explanation": "John 18:16 records: 'But Peter was kept outside at the door. Then this other disciple, who was a friend of the high priest, came out and had a word with the girl who kept the door, and took Peter in.'."
+      },
+      {
+        "id": "jhn-18-q6",
+        "questionNumber": 6,
+        "question": "What central message or instruction is delivered in John 18:20?",
+        "options": [
+          "“Jesus said in answer, If I have said anything...”",
+          "“Jesus made answer, I said things openly to the world at...”",
+          "“Then again Peter said, No. And straight away a...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“Jesus made answer, I said things openly to the world at...”",
+        "reference": "John 18:20",
+        "explanation": "John 18:20 records: 'Jesus made answer, I said things openly to the world at all times; I have given my teaching in the Synagogues and in the Temple to which all the Jews come; and I have said nothing secretly.'."
+      },
+      {
+        "id": "jhn-18-q7",
+        "questionNumber": 7,
+        "question": "What detail regarding God's work, covenant, or people is given in John 18:24?",
+        "options": [
+          "“Then again Peter said, No. And straight away a...”",
+          "“Then Pilate said to them, Take him yourselves and...”",
+          "“Then Annas sent him chained to Caiaphas, the high priest.”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“Then Annas sent him chained to Caiaphas, the high priest.”",
+        "reference": "John 18:24",
+        "explanation": "John 18:24 records: 'Then Annas sent him chained to Caiaphas, the high priest.'."
+      },
+      {
+        "id": "jhn-18-q8",
+        "questionNumber": 8,
+        "question": "What phrase or account is recorded in John 18:28?",
+        "options": [
+          "“Then Pilate said to them, Take him yourselves and...”",
+          "“Pilate said, Am I a Jew? Your nation and...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“So they took Jesus from the house of Caiaphas to the...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“So they took Jesus from the house of Caiaphas to the...”",
+        "reference": "John 18:28",
+        "explanation": "John 18:28 records: 'So they took Jesus from the house of Caiaphas to the Praetorium. It was early. They themselves did not go into the Praetorium, so that they might not become unclean, but might take the Passover.'."
+      },
+      {
+        "id": "jhn-18-q9",
+        "questionNumber": 9,
+        "question": "How does the passage describe the circumstances or people in John 18:32?",
+        "options": [
+          "“(That the word of Jesus might come true, pointing to the...”",
+          "“Pilate said, Am I a Jew? Your nation and...”",
+          "“But every year you make a request to me...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“(That the word of Jesus might come true, pointing to the...”",
+        "reference": "John 18:32",
+        "explanation": "John 18:32 records: '(That the word of Jesus might come true, pointing to the sort of death he would have.)'."
+      },
+      {
+        "id": "jhn-18-q10",
+        "questionNumber": 10,
+        "question": "In the concluding portion of the chapter, what takes place in John 18:36?",
+        "options": [
+          "“But every year you make a request to me...”",
+          "“Jesus said in answer, My kingdom is not of this world:...”",
+          "“So Judas, getting a band of armed men and...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“Jesus said in answer, My kingdom is not of this world:...”",
+        "reference": "John 18:36",
+        "explanation": "John 18:36 records: 'Jesus said in answer, My kingdom is not of this world: if my kingdom was of this world, my disciples would have made a good fight to keep me out of the hands of the Jews: but my kingdom is not here.'."
+      }
+    ],
+    "19": [
+      {
+        "id": "jhn-19-q1",
+        "questionNumber": 1,
+        "question": "According to John 19:1, what is the opening statement or setting of this chapter?",
+        "options": [
+          "It records: “Then Pilate took Jesus and had him whipped with cords.”",
+          "It begins with a prayer of thanksgiving for deliverance in John",
+          "It opens with a formal census and counting of the congregation",
+          "It records a severe judgment pronounced against neighboring nations"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "It records: “Then Pilate took Jesus and had him whipped with cords.”",
+        "reference": "John 19:1",
+        "explanation": "The chapter begins directly with the statement: 'Then Pilate took Jesus and had him whipped with cords.'."
+      },
+      {
+        "id": "jhn-19-q2",
+        "questionNumber": 2,
+        "question": "What key instruction, event, or declaration is set forth in John 19:4?",
+        "options": [
+          "“And the Jews made answer, We have a law,...”",
+          "“And Pilate went out again and said to them, See, I...”",
+          "“Jesus gave this answer: You would have no power...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“And Pilate went out again and said to them, See, I...”",
+        "reference": "John 19:4",
+        "explanation": "John 19:4 records: 'And Pilate went out again and said to them, See, I let him come out to you to make it clear to you that I see no wrong in him.'."
+      },
+      {
+        "id": "jhn-19-q3",
+        "questionNumber": 3,
+        "question": "What significant action or revelation occurs in John 19:8?",
+        "options": [
+          "“Jesus gave this answer: You would have no power...”",
+          "“Then they gave a loud cry, Away with him!...”",
+          "“When this saying came to Pilate's ears his fear became greater;”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“When this saying came to Pilate's ears his fear became greater;”",
+        "reference": "John 19:8",
+        "explanation": "John 19:8 records: 'When this saying came to Pilate's ears his fear became greater;'."
+      },
+      {
+        "id": "jhn-19-q4",
+        "questionNumber": 4,
+        "question": "What truth or description is highlighted in John 19:12?",
+        "options": [
+          "“Then they gave a loud cry, Away with him!...”",
+          "“And Pilate put on the cross a statement in...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“Hearing this, Pilate had a desire to let him go free,...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“Hearing this, Pilate had a desire to let him go free,...”",
+        "reference": "John 19:12",
+        "explanation": "John 19:12 records: 'Hearing this, Pilate had a desire to let him go free, but the Jews said in a loud voice, If you let this man go, you are not Caesar's friend: everyone who makes himself a king goes against Caesar.'."
+      },
+      {
+        "id": "jhn-19-q5",
+        "questionNumber": 5,
+        "question": "According to the text, what happened or was commanded in John 19:16?",
+        "options": [
+          "“So then he gave him up to them to be put...”",
+          "“And Pilate put on the cross a statement in...”",
+          "“And when Jesus was nailed to the cross, the...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“So then he gave him up to them to be put...”",
+        "reference": "John 19:16",
+        "explanation": "John 19:16 records: 'So then he gave him up to them to be put to death on the cross. And they took Jesus away;'."
+      },
+      {
+        "id": "jhn-19-q6",
+        "questionNumber": 6,
+        "question": "What central message or instruction is delivered in John 19:20?",
+        "options": [
+          "“And when Jesus was nailed to the cross, the...”",
+          "“The writing was seen by a number of the Jews, for...”",
+          "“Then he said to the disciple, There is your...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“The writing was seen by a number of the Jews, for...”",
+        "reference": "John 19:20",
+        "explanation": "John 19:20 records: 'The writing was seen by a number of the Jews, for the place where Jesus was put to death on the cross was near the town; and the writing was in Hebrew and Latin and Greek.'."
+      },
+      {
+        "id": "jhn-19-q7",
+        "questionNumber": 7,
+        "question": "What detail regarding God's work, covenant, or people is given in John 19:24?",
+        "options": [
+          "“Then he said to the disciple, There is your...”",
+          "“Now it was the day of getting ready for...”",
+          "“So they said among themselves, Let this not be cut up,...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“So they said among themselves, Let this not be cut up,...”",
+        "reference": "John 19:24",
+        "explanation": "John 19:24 records: 'So they said among themselves, Let this not be cut up, but let us put it to the decision of chance and see who gets it. (They did this so that the Writings might come true, which say, They made a distribution of my clothing among them, and my coat they put to the decision of chance.) This was what the men of the army did.'."
+      },
+      {
+        "id": "jhn-19-q8",
+        "questionNumber": 8,
+        "question": "What phrase or account is recorded in John 19:28?",
+        "options": [
+          "“Now it was the day of getting ready for...”",
+          "“And he who saw it has given witness (and...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“After this, being conscious that all things had now been done...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“After this, being conscious that all things had now been done...”",
+        "reference": "John 19:28",
+        "explanation": "John 19:28 records: 'After this, being conscious that all things had now been done so that the Writings might come true, Jesus said, Give me water.'."
+      },
+      {
+        "id": "jhn-19-q9",
+        "questionNumber": 9,
+        "question": "How does the passage describe the circumstances or people in John 19:32?",
+        "options": [
+          "“So the men of the army came, and the legs of...”",
+          "“And he who saw it has given witness (and...”",
+          "“And Nicodemus came (he who had first come to...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“So the men of the army came, and the legs of...”",
+        "reference": "John 19:32",
+        "explanation": "John 19:32 records: 'So the men of the army came, and the legs of the first were broken and then of the other who was put to death on the cross with Jesus:'."
+      },
+      {
+        "id": "jhn-19-q10",
+        "questionNumber": 10,
+        "question": "In the concluding portion of the chapter, what takes place in John 19:36?",
+        "options": [
+          "“And Nicodemus came (he who had first come to...”",
+          "“These things came about so that the Writings might be true,...”",
+          "“Then Pilate took Jesus and had him whipped with...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“These things came about so that the Writings might be true,...”",
+        "reference": "John 19:36",
+        "explanation": "John 19:36 records: 'These things came about so that the Writings might be true, No bone of his body will be broken.'."
+      }
+    ],
+    "20": [
+      {
+        "id": "jhn-20-q1",
+        "questionNumber": 1,
+        "question": "According to John 20:1, what is the opening statement or setting of this chapter?",
+        "options": [
+          "It records: “Now on the first day of the week, very early, while it was still ...”",
+          "It begins with a prayer of thanksgiving for deliverance in John",
+          "It opens with a formal census and counting of the congregation",
+          "It records a severe judgment pronounced against neighboring nations"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "It records: “Now on the first day of the week, very early, while it was still ...”",
+        "reference": "John 20:1",
+        "explanation": "The chapter begins directly with the statement: 'Now on the first day of the week, very early, while it was still dark, Mary Magdalene came to the place and saw that the stone had been taken away from it.'."
+      },
+      {
+        "id": "jhn-20-q2",
+        "questionNumber": 2,
+        "question": "What key instruction, event, or declaration is set forth in John 20:3?",
+        "options": [
+          "“Then Simon Peter came after him and went into...”",
+          "“So Peter and the other disciple went out to the place...”",
+          "“So then the disciples went away again to their...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“So Peter and the other disciple went out to the place...”",
+        "reference": "John 20:3",
+        "explanation": "John 20:3 records: 'So Peter and the other disciple went out to the place of the dead.'."
+      },
+      {
+        "id": "jhn-20-q3",
+        "questionNumber": 3,
+        "question": "What significant action or revelation occurs in John 20:6?",
+        "options": [
+          "“For at that time they had no knowledge that...”",
+          "“They said to her, Woman, why are you weeping?...”",
+          "“Then Simon Peter came after him and went into the hole...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“Then Simon Peter came after him and went into the hole...”",
+        "reference": "John 20:6",
+        "explanation": "John 20:6 records: 'Then Simon Peter came after him and went into the hole in the rock; and he saw the linen bands on the earth,'."
+      },
+      {
+        "id": "jhn-20-q4",
+        "questionNumber": 4,
+        "question": "What truth or description is highlighted in John 20:9?",
+        "options": [
+          "“She saw two angels in white seated where the...”",
+          "“Jesus said to her, Mary! Turning, she said to...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“For at that time they had no knowledge that the Writings...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“For at that time they had no knowledge that the Writings...”",
+        "reference": "John 20:9",
+        "explanation": "John 20:9 records: 'For at that time they had no knowledge that the Writings said that he would have to come again from the dead.'."
+      },
+      {
+        "id": "jhn-20-q5",
+        "questionNumber": 5,
+        "question": "According to the text, what happened or was commanded in John 20:12?",
+        "options": [
+          "“She saw two angels in white seated where the body of...”",
+          "“Jesus said to her, Woman, why are you weeping?...”",
+          "“At evening on that day, the first day of...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“She saw two angels in white seated where the body of...”",
+        "reference": "John 20:12",
+        "explanation": "John 20:12 records: 'She saw two angels in white seated where the body of Jesus had been, one at the head and the other at the feet.'."
+      },
+      {
+        "id": "jhn-20-q6",
+        "questionNumber": 6,
+        "question": "What central message or instruction is delivered in John 20:15?",
+        "options": [
+          "“Mary Magdalene went with the news to the disciples,...”",
+          "“Jesus said to her, Woman, why are you weeping? who are...”",
+          "“And when he had said this, breathing on them,...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“Jesus said to her, Woman, why are you weeping? who are...”",
+        "reference": "John 20:15",
+        "explanation": "John 20:15 records: 'Jesus said to her, Woman, why are you weeping? who are you looking for? She, taking him for the gardener, said to him, Sir, if you have taken him away from here, say where you have put him and I will take him away.'."
+      },
+      {
+        "id": "jhn-20-q7",
+        "questionNumber": 7,
+        "question": "What detail regarding God's work, covenant, or people is given in John 20:18?",
+        "options": [
+          "“And Jesus said to them again, May peace be...”",
+          "“So the other disciples said to him, We have...”",
+          "“Mary Magdalene went with the news to the disciples, and said...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“Mary Magdalene went with the news to the disciples, and said...”",
+        "reference": "John 20:18",
+        "explanation": "John 20:18 records: 'Mary Magdalene went with the news to the disciples, and said she had seen the Lord and that he had said these things to her.'."
+      },
+      {
+        "id": "jhn-20-q8",
+        "questionNumber": 8,
+        "question": "What phrase or account is recorded in John 20:21?",
+        "options": [
+          "“Now Thomas, one of the twelve, named Didymus, was...”",
+          "“And Thomas said in answer, My Lord and my...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“And Jesus said to them again, May peace be with you!...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“And Jesus said to them again, May peace be with you!...”",
+        "reference": "John 20:21",
+        "explanation": "John 20:21 records: 'And Jesus said to them again, May peace be with you! As the Father sent me, even so I now send you.'."
+      },
+      {
+        "id": "jhn-20-q9",
+        "questionNumber": 9,
+        "question": "How does the passage describe the circumstances or people in John 20:24?",
+        "options": [
+          "“Now Thomas, one of the twelve, named Didymus, was not with...”",
+          "“Then he said to Thomas, Put out your finger,...”",
+          "“Now on the first day of the week, very...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“Now Thomas, one of the twelve, named Didymus, was not with...”",
+        "reference": "John 20:24",
+        "explanation": "John 20:24 records: 'Now Thomas, one of the twelve, named Didymus, was not with them when Jesus came.'."
+      },
+      {
+        "id": "jhn-20-q10",
+        "questionNumber": 10,
+        "question": "In the concluding portion of the chapter, what takes place in John 20:27?",
+        "options": [
+          "“A number of other signs Jesus did before his...”",
+          "“Then he said to Thomas, Put out your finger, and see...”",
+          "“So Peter and the other disciple went out to...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“Then he said to Thomas, Put out your finger, and see...”",
+        "reference": "John 20:27",
+        "explanation": "John 20:27 records: 'Then he said to Thomas, Put out your finger, and see my hands; and put your hand here into my side: and be no longer in doubt but have belief.'."
+      }
+    ],
+    "21": [
+      {
+        "id": "jhn-21-q1",
+        "questionNumber": 1,
+        "question": "According to John 21:1, what is the opening statement or setting of this chapter?",
+        "options": [
+          "It records: “After these things Jesus let himself be seen again by the discipl...”",
+          "It begins with a prayer of thanksgiving for deliverance in John",
+          "It opens with a formal census and counting of the congregation",
+          "It records a severe judgment pronounced against neighboring nations"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "It records: “After these things Jesus let himself be seen again by the discipl...”",
+        "reference": "John 21:1",
+        "explanation": "The chapter begins directly with the statement: 'After these things Jesus let himself be seen again by the disciples at the sea of Tiberias; and it came about in this way.'."
+      },
+      {
+        "id": "jhn-21-q2",
+        "questionNumber": 2,
+        "question": "What key instruction, event, or declaration is set forth in John 21:2?",
+        "options": [
+          "“So Jesus said to them, Children, have you taken...”",
+          "“Simon Peter, Thomas named Didymus, Nathanael of Cana in Galilee, the...”",
+          "“When they got to land, they saw a fire...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“Simon Peter, Thomas named Didymus, Nathanael of Cana in Galilee, the...”",
+        "reference": "John 21:2",
+        "explanation": "John 21:2 records: 'Simon Peter, Thomas named Didymus, Nathanael of Cana in Galilee, the sons of Zebedee, and two others of his disciples were all together.'."
+      },
+      {
+        "id": "jhn-21-q3",
+        "questionNumber": 3,
+        "question": "What significant action or revelation occurs in John 21:4?",
+        "options": [
+          "“So the disciple who was dear to Jesus said...”",
+          "“So Peter went to the boat and came back...”",
+          "“Now very early in the morning Jesus was there by the...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“Now very early in the morning Jesus was there by the...”",
+        "reference": "John 21:4",
+        "explanation": "John 21:4 records: 'Now very early in the morning Jesus was there by the edge of the sea (though the disciples were not conscious that it was Jesus).'."
+      },
+      {
+        "id": "jhn-21-q4",
+        "questionNumber": 4,
+        "question": "What truth or description is highlighted in John 21:6?",
+        "options": [
+          "“When they got to land, they saw a fire...”",
+          "“Then Jesus came and took the bread and gave...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“And he said to them, Let down the net on the...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“And he said to them, Let down the net on the...”",
+        "reference": "John 21:6",
+        "explanation": "John 21:6 records: 'And he said to them, Let down the net on the right side of the boat and you will get some. So they put it in the water and now they were not able to get it up again because of the great number of fish.'."
+      },
+      {
+        "id": "jhn-21-q5",
+        "questionNumber": 5,
+        "question": "According to the text, what happened or was commanded in John 21:8?",
+        "options": [
+          "“And the other disciples came in the little boat (they were...”",
+          "“So Peter went to the boat and came back...”",
+          "“Then when they had taken food, Jesus said to...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“And the other disciples came in the little boat (they were...”",
+        "reference": "John 21:8",
+        "explanation": "John 21:8 records: 'And the other disciples came in the little boat (they were not far from land, only about two hundred cubits off) pulling the net full of fish.'."
+      },
+      {
+        "id": "jhn-21-q6",
+        "questionNumber": 6,
+        "question": "What central message or instruction is delivered in John 21:10?",
+        "options": [
+          "“Then Jesus came and took the bread and gave...”",
+          "“Jesus said to them, Get some of the fish which you...”",
+          "“He said to him a third time, Simon, son...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“Jesus said to them, Get some of the fish which you...”",
+        "reference": "John 21:10",
+        "explanation": "John 21:10 records: 'Jesus said to them, Get some of the fish which you have now taken.'."
+      },
+      {
+        "id": "jhn-21-q7",
+        "questionNumber": 7,
+        "question": "What detail regarding God's work, covenant, or people is given in John 21:12?",
+        "options": [
+          "“Then when they had taken food, Jesus said to...”",
+          "“Now this he said, pointing out the sort of...”",
+          "“Jesus said to them, Come and take some food. And all...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“Jesus said to them, Come and take some food. And all...”",
+        "reference": "John 21:12",
+        "explanation": "John 21:12 records: 'Jesus said to them, Come and take some food. And all the disciples were in fear of putting the question, Who are you? being conscious that it was the Lord.'."
+      },
+      {
+        "id": "jhn-21-q8",
+        "questionNumber": 8,
+        "question": "What phrase or account is recorded in John 21:14?",
+        "options": [
+          "“He said to him a third time, Simon, son...”",
+          "“Seeing him, Peter said to Jesus, What about this...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“Now this was the third time that Jesus let himself be...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“Now this was the third time that Jesus let himself be...”",
+        "reference": "John 21:14",
+        "explanation": "John 21:14 records: 'Now this was the third time that Jesus let himself be seen by the disciples after he had come back from the dead.'."
+      },
+      {
+        "id": "jhn-21-q9",
+        "questionNumber": 9,
+        "question": "How does the passage describe the circumstances or people in John 21:16?",
+        "options": [
+          "“Again, a second time, he said to him, Simon, son of...”",
+          "“Now this he said, pointing out the sort of...”",
+          "“So this saying went about among the brothers that...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“Again, a second time, he said to him, Simon, son of...”",
+        "reference": "John 21:16",
+        "explanation": "John 21:16 records: 'Again, a second time, he said to him, Simon, son of John, have you any love for me? Yes, Lord, he said, you are certain of my love for you. Then take care of my sheep, said Jesus.'."
+      },
+      {
+        "id": "jhn-21-q10",
+        "questionNumber": 10,
+        "question": "In the concluding portion of the chapter, what takes place in John 21:18?",
+        "options": [
+          "“Seeing him, Peter said to Jesus, What about this...”",
+          "“Truly I say to you, When you were young, you made...”",
+          "“After these things Jesus let himself be seen again...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“Truly I say to you, When you were young, you made...”",
+        "reference": "John 21:18",
+        "explanation": "John 21:18 records: 'Truly I say to you, When you were young, you made yourself ready and went wherever you had a desire to go: but when you are old, you will put out your hands and another will make you ready, and you will be taken where you have no desire to go.'."
+      }
+    ]
+  }
+}

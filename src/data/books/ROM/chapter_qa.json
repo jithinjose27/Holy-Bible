@@ -1,0 +1,2441 @@
+{
+  "book": "Romans",
+  "bookId": "ROM",
+  "totalChapters": 16,
+  "totalQuestions": 160,
+  "questionsPerChapter": 10,
+  "chapters": {
+    "1": [
+      {
+        "id": "rom-1-q1",
+        "questionNumber": 1,
+        "question": "According to Romans 1:1, what is the opening statement or setting of this chapter?",
+        "options": [
+          "It records: “Paul, a servant of Jesus Christ, an Apostle by the selection of G...”",
+          "It begins with a prayer of thanksgiving for deliverance in Romans",
+          "It opens with a formal census and counting of the congregation",
+          "It records a severe judgment pronounced against neighboring nations"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "It records: “Paul, a servant of Jesus Christ, an Apostle by the selection of G...”",
+        "reference": "Romans 1:1",
+        "explanation": "The chapter begins directly with the statement: 'Paul, a servant of Jesus Christ, an Apostle by the selection of God, given authority as a preacher of the good news,'."
+      },
+      {
+        "id": "rom-1-q2",
+        "questionNumber": 2,
+        "question": "What key instruction, event, or declaration is set forth in Romans 1:3?",
+        "options": [
+          "“Among whom you in the same way have been...”",
+          "“About his Son who, in the flesh, came from the family...”",
+          "“And that I am ever making prayers that God...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“About his Son who, in the flesh, came from the family...”",
+        "reference": "Romans 1:3",
+        "explanation": "Romans 1:3 records: 'About his Son who, in the flesh, came from the family of David,'."
+      },
+      {
+        "id": "rom-1-q3",
+        "questionNumber": 3,
+        "question": "What significant action or revelation occurs in Romans 1:6?",
+        "options": [
+          "“For God is my witness, whose servant I am...”",
+          "“You may be certain, my brothers, that it has...”",
+          "“Among whom you in the same way have been marked out...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“Among whom you in the same way have been marked out...”",
+        "reference": "Romans 1:6",
+        "explanation": "Romans 1:6 records: 'Among whom you in the same way have been marked out to be disciples of Jesus Christ:'."
+      },
+      {
+        "id": "rom-1-q4",
+        "questionNumber": 4,
+        "question": "What truth or description is highlighted in Romans 1:9?",
+        "options": [
+          "“That is to say, that all of us may...”",
+          "“For I have no feeling of shame about the...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“For God is my witness, whose servant I am in spirit...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“For God is my witness, whose servant I am in spirit...”",
+        "reference": "Romans 1:9",
+        "explanation": "Romans 1:9 records: 'For God is my witness, whose servant I am in spirit in the good news of his Son, that you are at all times in my memory and in my prayers,'."
+      },
+      {
+        "id": "rom-1-q5",
+        "questionNumber": 5,
+        "question": "According to the text, what happened or was commanded in Romans 1:12?",
+        "options": [
+          "“That is to say, that all of us may be comforted...”",
+          "“For which reason I have the desire, as far...”",
+          "“Because the knowledge of God may be seen in...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“That is to say, that all of us may be comforted...”",
+        "reference": "Romans 1:12",
+        "explanation": "Romans 1:12 records: 'That is to say, that all of us may be comforted together by the faith which is in you and in me.'."
+      },
+      {
+        "id": "rom-1-q6",
+        "questionNumber": 6,
+        "question": "What central message or instruction is delivered in Romans 1:15?",
+        "options": [
+          "“For there is a revelation of the wrath of...”",
+          "“For which reason I have the desire, as far as I...”",
+          "“Seeming to be wise, they were in fact foolish,”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“For which reason I have the desire, as far as I...”",
+        "reference": "Romans 1:15",
+        "explanation": "Romans 1:15 records: 'For which reason I have the desire, as far as I am able, to give the knowledge of the good news to you who are in Rome.'."
+      },
+      {
+        "id": "rom-1-q7",
+        "questionNumber": 7,
+        "question": "What detail regarding God's work, covenant, or people is given in Romans 1:18?",
+        "options": [
+          "“Because, having the knowledge of God, they did not...”",
+          "“Because by them the true word of God was...”",
+          "“For there is a revelation of the wrath of God from...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“For there is a revelation of the wrath of God from...”",
+        "reference": "Romans 1:18",
+        "explanation": "Romans 1:18 records: 'For there is a revelation of the wrath of God from heaven against all the wrongdoing and evil thoughts of men who keep down what is true by wrongdoing;'."
+      },
+      {
+        "id": "rom-1-q8",
+        "questionNumber": 8,
+        "question": "What phrase or account is recorded in Romans 1:21?",
+        "options": [
+          "“For this reason God gave them up to the...”",
+          "“And because they had not the mind to keep...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“Because, having the knowledge of God, they did not give glory...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“Because, having the knowledge of God, they did not give glory...”",
+        "reference": "Romans 1:21",
+        "explanation": "Romans 1:21 records: 'Because, having the knowledge of God, they did not give glory to God as God, and did not give praise, but their minds were full of foolish things, and their hearts, being without sense, were made dark.'."
+      },
+      {
+        "id": "rom-1-q9",
+        "questionNumber": 9,
+        "question": "How does the passage describe the circumstances or people in Romans 1:24?",
+        "options": [
+          "“For this reason God gave them up to the evil desires...”",
+          "“And in the same way the men gave up...”",
+          "“Without knowledge, not true to their undertakings, unkind, having...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“For this reason God gave them up to the evil desires...”",
+        "reference": "Romans 1:24",
+        "explanation": "Romans 1:24 records: 'For this reason God gave them up to the evil desires of their hearts, working shame in their bodies with one another:'."
+      },
+      {
+        "id": "rom-1-q10",
+        "questionNumber": 10,
+        "question": "In the concluding portion of the chapter, what takes place in Romans 1:27?",
+        "options": [
+          "“Hated by God, full of pride, without respect, full...”",
+          "“And in the same way the men gave up the natural...”",
+          "“Of which God had given word before by his...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“And in the same way the men gave up the natural...”",
+        "reference": "Romans 1:27",
+        "explanation": "Romans 1:27 records: 'And in the same way the men gave up the natural use of the woman and were burning in their desire for one another, men doing shame with men, and getting in their bodies the right reward of their evil-doing.'."
+      }
+    ],
+    "2": [
+      {
+        "id": "rom-2-q1",
+        "questionNumber": 1,
+        "question": "According to Romans 2:1, what is the opening statement or setting of this chapter?",
+        "options": [
+          "It records: “So you have no reason, whoever you are, for judging: for in judgi...”",
+          "It begins with a prayer of thanksgiving for deliverance in Romans",
+          "It opens with a formal census and counting of the congregation",
+          "It records a severe judgment pronounced against neighboring nations"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "It records: “So you have no reason, whoever you are, for judging: for in judgi...”",
+        "reference": "Romans 2:1",
+        "explanation": "The chapter begins directly with the statement: 'So you have no reason, whoever you are, for judging: for in judging another you are judging yourself, for you do the same things.'."
+      },
+      {
+        "id": "rom-2-q2",
+        "questionNumber": 2,
+        "question": "What key instruction, event, or declaration is set forth in Romans 2:2?",
+        "options": [
+          "“But by your hard and unchanged heart you are...”",
+          "“And we are conscious that God is a true judge against...”",
+          "“Trouble and sorrow on all whose works are evil,...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“And we are conscious that God is a true judge against...”",
+        "reference": "Romans 2:2",
+        "explanation": "Romans 2:2 records: 'And we are conscious that God is a true judge against those who do such things.'."
+      },
+      {
+        "id": "rom-2-q3",
+        "questionNumber": 3,
+        "question": "What significant action or revelation occurs in Romans 2:4?",
+        "options": [
+          "“To those who go on with good works in...”",
+          "“For one man is not different from another before...”",
+          "“Or is it nothing to you that God had pity on...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“Or is it nothing to you that God had pity on...”",
+        "reference": "Romans 2:4",
+        "explanation": "Romans 2:4 records: 'Or is it nothing to you that God had pity on you, waiting and putting up with you for so long, not seeing that in his pity God's desire is to give you a change of heart?'."
+      },
+      {
+        "id": "rom-2-q4",
+        "questionNumber": 4,
+        "question": "What truth or description is highlighted in Romans 2:6?",
+        "options": [
+          "“Trouble and sorrow on all whose works are evil,...”",
+          "“For it is not the hearers of the law...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“Who will give to every man his right reward:”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“Who will give to every man his right reward:”",
+        "reference": "Romans 2:6",
+        "explanation": "Romans 2:6 records: 'Who will give to every man his right reward:'."
+      },
+      {
+        "id": "rom-2-q5",
+        "questionNumber": 5,
+        "question": "According to the text, what happened or was commanded in Romans 2:8?",
+        "options": [
+          "“But to those who, from a love of competition, are not...”",
+          "“For one man is not different from another before...”",
+          "“Because the work of the law is seen in...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“But to those who, from a love of competition, are not...”",
+        "reference": "Romans 2:8",
+        "explanation": "Romans 2:8 records: 'But to those who, from a love of competition, are not guided by what is true, will come the heat of his wrath,'."
+      },
+      {
+        "id": "rom-2-q6",
+        "questionNumber": 6,
+        "question": "What central message or instruction is delivered in Romans 2:10?",
+        "options": [
+          "“For it is not the hearers of the law...”",
+          "“But glory and honour and peace to all whose works are...”",
+          "“But as for you who have the name of...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“But glory and honour and peace to all whose works are...”",
+        "reference": "Romans 2:10",
+        "explanation": "Romans 2:10 records: 'But glory and honour and peace to all whose works are good, to the Jew first and then to the Greek:'."
+      },
+      {
+        "id": "rom-2-q7",
+        "questionNumber": 7,
+        "question": "What detail regarding God's work, covenant, or people is given in Romans 2:12?",
+        "options": [
+          "“Because the work of the law is seen in...”",
+          "“In the belief that you are a guide to...”",
+          "“All those who have done wrong without the law will get...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“All those who have done wrong without the law will get...”",
+        "reference": "Romans 2:12",
+        "explanation": "Romans 2:12 records: 'All those who have done wrong without the law will get destruction without the law: and those who have done wrong under the law will have their punishment by the law;'."
+      },
+      {
+        "id": "rom-2-q8",
+        "questionNumber": 8,
+        "question": "What phrase or account is recorded in Romans 2:14?",
+        "options": [
+          "“But as for you who have the name of...”",
+          "“You who give teaching to others, do you give...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“For when the Gentiles without the law have a natural desire...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“For when the Gentiles without the law have a natural desire...”",
+        "reference": "Romans 2:14",
+        "explanation": "Romans 2:14 records: 'For when the Gentiles without the law have a natural desire to do the things in the law, they are a law to themselves;'."
+      },
+      {
+        "id": "rom-2-q9",
+        "questionNumber": 9,
+        "question": "How does the passage describe the circumstances or people in Romans 2:16?",
+        "options": [
+          "“In the day when God will be a judge of the...”",
+          "“In the belief that you are a guide to...”",
+          "“You who take pride in the law, are you...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“In the day when God will be a judge of the...”",
+        "reference": "Romans 2:16",
+        "explanation": "Romans 2:16 records: 'In the day when God will be a judge of the secrets of men, as it says in the good news of which I am a preacher, through Jesus Christ.'."
+      },
+      {
+        "id": "rom-2-q10",
+        "questionNumber": 10,
+        "question": "In the concluding portion of the chapter, what takes place in Romans 2:18?",
+        "options": [
+          "“You who give teaching to others, do you give...”",
+          "“And have knowledge of his desires, and are a judge of...”",
+          "“It is true that circumcision is of use if...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“And have knowledge of his desires, and are a judge of...”",
+        "reference": "Romans 2:18",
+        "explanation": "Romans 2:18 records: 'And have knowledge of his desires, and are a judge of the things which are different, having the learning of the law,'."
+      }
+    ],
+    "3": [
+      {
+        "id": "rom-3-q1",
+        "questionNumber": 1,
+        "question": "According to Romans 3:1, what is the opening statement or setting of this chapter?",
+        "options": [
+          "It records: “How then is the Jew better off? or what profit is there in circum...”",
+          "It begins with a prayer of thanksgiving for deliverance in Romans",
+          "It opens with a formal census and counting of the congregation",
+          "It records a severe judgment pronounced against neighboring nations"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "It records: “How then is the Jew better off? or what profit is there in circum...”",
+        "reference": "Romans 3:1",
+        "explanation": "The chapter begins directly with the statement: 'How then is the Jew better off? or what profit is there in circumcision?'."
+      },
+      {
+        "id": "rom-3-q2",
+        "questionNumber": 2,
+        "question": "What key instruction, event, or declaration is set forth in Romans 3:3?",
+        "options": [
+          "“In no way: because if it is so, how...”",
+          "“And if some have no faith, will that make the faith...”",
+          "“As it is said in the holy Writings, There...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“And if some have no faith, will that make the faith...”",
+        "reference": "Romans 3:3",
+        "explanation": "Romans 3:3 records: 'And if some have no faith, will that make the faith of God without effect?'."
+      },
+      {
+        "id": "rom-3-q3",
+        "questionNumber": 3,
+        "question": "What significant action or revelation occurs in Romans 3:6?",
+        "options": [
+          "“What then? are we worse off than they? In...”",
+          "“Their throat is like an open place of death;...”",
+          "“In no way: because if it is so, how is God...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“In no way: because if it is so, how is God...”",
+        "reference": "Romans 3:6",
+        "explanation": "Romans 3:6 records: 'In no way: because if it is so, how is God able to be the judge of all the world?'."
+      },
+      {
+        "id": "rom-3-q4",
+        "questionNumber": 4,
+        "question": "What truth or description is highlighted in Romans 3:9?",
+        "options": [
+          "“They have all gone out of the way, there...”",
+          "“Destruction and trouble are in their ways;”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“What then? are we worse off than they? In no way:...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“What then? are we worse off than they? In no way:...”",
+        "reference": "Romans 3:9",
+        "explanation": "Romans 3:9 records: 'What then? are we worse off than they? In no way: because we have before made it clear that Jews as well as Greeks are all under the power of sin;'."
+      },
+      {
+        "id": "rom-3-q5",
+        "questionNumber": 5,
+        "question": "According to the text, what happened or was commanded in Romans 3:12?",
+        "options": [
+          "“They have all gone out of the way, there is no...”",
+          "“Their feet are quick in running after blood;”",
+          "“Now, we have knowledge that what the law says...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“They have all gone out of the way, there is no...”",
+        "reference": "Romans 3:12",
+        "explanation": "Romans 3:12 records: 'They have all gone out of the way, there is no profit in any of them; there is not one who does good, not so much as one:'."
+      },
+      {
+        "id": "rom-3-q6",
+        "questionNumber": 6,
+        "question": "What central message or instruction is delivered in Romans 3:15?",
+        "options": [
+          "“There is no fear of God before their eyes.”",
+          "“Their feet are quick in running after blood;”",
+          "“That is, the righteousness of God through faith in...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“Their feet are quick in running after blood;”",
+        "reference": "Romans 3:15",
+        "explanation": "Romans 3:15 records: 'Their feet are quick in running after blood;'."
+      },
+      {
+        "id": "rom-3-q7",
+        "questionNumber": 7,
+        "question": "What detail regarding God's work, covenant, or people is given in Romans 3:18?",
+        "options": [
+          "“But now without the law there is a revelation...”",
+          "“Whom God has put forward as the sign of...”",
+          "“There is no fear of God before their eyes.”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“There is no fear of God before their eyes.”",
+        "reference": "Romans 3:18",
+        "explanation": "Romans 3:18 records: 'There is no fear of God before their eyes.'."
+      },
+      {
+        "id": "rom-3-q8",
+        "questionNumber": 8,
+        "question": "What phrase or account is recorded in Romans 3:21?",
+        "options": [
+          "“And they may have righteousness put to their credit,...”",
+          "“For this reason, then, a man may get righteousness...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“But now without the law there is a revelation of the...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“But now without the law there is a revelation of the...”",
+        "reference": "Romans 3:21",
+        "explanation": "Romans 3:21 records: 'But now without the law there is a revelation of the righteousness of God, to which witness is given by the law and the prophets;'."
+      },
+      {
+        "id": "rom-3-q9",
+        "questionNumber": 9,
+        "question": "How does the passage describe the circumstances or people in Romans 3:24?",
+        "options": [
+          "“And they may have righteousness put to their credit, freely, by...”",
+          "“What reason, then, is there for pride? It is...”",
+          "“How then is the Jew better off? or what...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“And they may have righteousness put to their credit, freely, by...”",
+        "reference": "Romans 3:24",
+        "explanation": "Romans 3:24 records: 'And they may have righteousness put to their credit, freely, by his grace, through the salvation which is in Christ Jesus:'."
+      },
+      {
+        "id": "rom-3-q10",
+        "questionNumber": 10,
+        "question": "In the concluding portion of the chapter, what takes place in Romans 3:27?",
+        "options": [
+          "“If God is one; and he will give righteousness...”",
+          "“What reason, then, is there for pride? It is shut out....”",
+          "“And if some have no faith, will that make...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“What reason, then, is there for pride? It is shut out....”",
+        "reference": "Romans 3:27",
+        "explanation": "Romans 3:27 records: 'What reason, then, is there for pride? It is shut out. By what sort of law? of works? No, but by a law of faith.'."
+      }
+    ],
+    "4": [
+      {
+        "id": "rom-4-q1",
+        "questionNumber": 1,
+        "question": "According to Romans 4:1, what is the opening statement or setting of this chapter?",
+        "options": [
+          "It records: “What, then, may we say that Abraham, our father after the flesh, ...”",
+          "It begins with a prayer of thanksgiving for deliverance in Romans",
+          "It opens with a formal census and counting of the congregation",
+          "It records a severe judgment pronounced against neighboring nations"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "It records: “What, then, may we say that Abraham, our father after the flesh, ...”",
+        "reference": "Romans 4:1",
+        "explanation": "The chapter begins directly with the statement: 'What, then, may we say that Abraham, our father after the flesh, has got?'."
+      },
+      {
+        "id": "rom-4-q2",
+        "questionNumber": 2,
+        "question": "What key instruction, event, or declaration is set forth in Romans 4:2?",
+        "options": [
+          "“But to him who without working has faith in...”",
+          "“For if Abraham got righteousness by works, he has reason for...”",
+          "“Is this blessing, then, for the circumcision only, or...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“For if Abraham got righteousness by works, he has reason for...”",
+        "reference": "Romans 4:2",
+        "explanation": "Romans 4:2 records: 'For if Abraham got righteousness by works, he has reason for pride; but not before God.'."
+      },
+      {
+        "id": "rom-4-q3",
+        "questionNumber": 3,
+        "question": "What significant action or revelation occurs in Romans 4:4?",
+        "options": [
+          "“Happy are those who have forgiveness for their wrongdoing,...”",
+          "“And he was given the sign of circumcision as...”",
+          "“Now, the reward is credited to him who does works, not...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“Now, the reward is credited to him who does works, not...”",
+        "reference": "Romans 4:4",
+        "explanation": "Romans 4:4 records: 'Now, the reward is credited to him who does works, not as of grace but as a debt.'."
+      },
+      {
+        "id": "rom-4-q4",
+        "questionNumber": 4,
+        "question": "What truth or description is highlighted in Romans 4:6?",
+        "options": [
+          "“Is this blessing, then, for the circumcision only, or...”",
+          "“For God's word, that the earth would be his...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“As David says that there is a blessing on the man...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“As David says that there is a blessing on the man...”",
+        "reference": "Romans 4:6",
+        "explanation": "Romans 4:6 records: 'As David says that there is a blessing on the man to whose account God puts righteousness without works, saying,'."
+      },
+      {
+        "id": "rom-4-q5",
+        "questionNumber": 5,
+        "question": "According to the text, what happened or was commanded in Romans 4:8?",
+        "options": [
+          "“Happy is the man against whom no sin is recorded by...”",
+          "“And he was given the sign of circumcision as...”",
+          "“For the outcome of the law is wrath; but...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“Happy is the man against whom no sin is recorded by...”",
+        "reference": "Romans 4:8",
+        "explanation": "Romans 4:8 records: 'Happy is the man against whom no sin is recorded by the Lord.'."
+      },
+      {
+        "id": "rom-4-q6",
+        "questionNumber": 6,
+        "question": "What central message or instruction is delivered in Romans 4:10?",
+        "options": [
+          "“For God's word, that the earth would be his...”",
+          "“How, then, was it judged? when he had circumcision, or when...”",
+          "“(As it is said in the holy Writings, I...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“How, then, was it judged? when he had circumcision, or when...”",
+        "reference": "Romans 4:10",
+        "explanation": "Romans 4:10 records: 'How, then, was it judged? when he had circumcision, or when he had it not? Not when he had it, but when he did not have it:'."
+      },
+      {
+        "id": "rom-4-q7",
+        "questionNumber": 7,
+        "question": "What detail regarding God's work, covenant, or people is given in Romans 4:12?",
+        "options": [
+          "“For the outcome of the law is wrath; but...”",
+          "“And not being feeble in faith though his body...”",
+          "“And the father of circumcision to those who not only are...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“And the father of circumcision to those who not only are...”",
+        "reference": "Romans 4:12",
+        "explanation": "Romans 4:12 records: 'And the father of circumcision to those who not only are of the circumcision, but who keep to the way of that faith which our father Abraham had before he underwent circumcision.'."
+      },
+      {
+        "id": "rom-4-q8",
+        "questionNumber": 8,
+        "question": "What phrase or account is recorded in Romans 4:14?",
+        "options": [
+          "“(As it is said in the holy Writings, I...”",
+          "“And being certain that God was able to keep...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“For if they who are of the law are the people...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“For if they who are of the law are the people...”",
+        "reference": "Romans 4:14",
+        "explanation": "Romans 4:14 records: 'For if they who are of the law are the people who get the heritage, then faith is made of no use, and the word of God has no power;'."
+      },
+      {
+        "id": "rom-4-q9",
+        "questionNumber": 9,
+        "question": "How does the passage describe the circumstances or people in Romans 4:16?",
+        "options": [
+          "“For this reason it is of faith, so that it may...”",
+          "“And not being feeble in faith though his body...”",
+          "“Now, it was not because of him only that...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“For this reason it is of faith, so that it may...”",
+        "reference": "Romans 4:16",
+        "explanation": "Romans 4:16 records: 'For this reason it is of faith, so that it may be through grace; and so that the word of God may be certain to all the seed; not only to that which is of the law, but to that which is of the faith of Abraham, who is the father of us all,'."
+      },
+      {
+        "id": "rom-4-q10",
+        "questionNumber": 10,
+        "question": "In the concluding portion of the chapter, what takes place in Romans 4:18?",
+        "options": [
+          "“And being certain that God was able to keep...”",
+          "“Who without reason for hope, in faith went on hoping, so...”",
+          "“What, then, may we say that Abraham, our father...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“Who without reason for hope, in faith went on hoping, so...”",
+        "reference": "Romans 4:18",
+        "explanation": "Romans 4:18 records: 'Who without reason for hope, in faith went on hoping, so that he became the father of a number of nations, as it had been said, So will your seed be.'."
+      }
+    ],
+    "5": [
+      {
+        "id": "rom-5-q1",
+        "questionNumber": 1,
+        "question": "According to Romans 5:1, what is the opening statement or setting of this chapter?",
+        "options": [
+          "It records: “For which reason, because we have righteousness through faith, le...”",
+          "It begins with a prayer of thanksgiving for deliverance in Romans",
+          "It opens with a formal census and counting of the congregation",
+          "It records a severe judgment pronounced against neighboring nations"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "It records: “For which reason, because we have righteousness through faith, le...”",
+        "reference": "Romans 5:1",
+        "explanation": "The chapter begins directly with the statement: 'For which reason, because we have righteousness through faith, let us be at peace with God through our Lord Jesus Christ;'."
+      },
+      {
+        "id": "rom-5-q2",
+        "questionNumber": 2,
+        "question": "What key instruction, event, or declaration is set forth in Romans 5:2?",
+        "options": [
+          "“And hope does not put to shame; because our...”",
+          "“Through whom, in the same way, we have been able by...”",
+          "“Much more, if we now have righteousness by his...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“Through whom, in the same way, we have been able by...”",
+        "reference": "Romans 5:2",
+        "explanation": "Romans 5:2 records: 'Through whom, in the same way, we have been able by faith to come to this grace in which we now are; and let us have joy in hope of the glory of God.'."
+      },
+      {
+        "id": "rom-5-q3",
+        "questionNumber": 3,
+        "question": "What significant action or revelation occurs in Romans 5:4?",
+        "options": [
+          "“Now it is hard for anyone to give his...”",
+          "“And not only so, but we have joy in...”",
+          "“And waiting gives experience; and experience, hope:”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“And waiting gives experience; and experience, hope:”",
+        "reference": "Romans 5:4",
+        "explanation": "Romans 5:4 records: 'And waiting gives experience; and experience, hope:'."
+      },
+      {
+        "id": "rom-5-q4",
+        "questionNumber": 4,
+        "question": "What truth or description is highlighted in Romans 5:6?",
+        "options": [
+          "“Much more, if we now have righteousness by his...”",
+          "“Because, till the law came, sin was in existence,...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“For when we were still without strength, at the right time...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“For when we were still without strength, at the right time...”",
+        "reference": "Romans 5:6",
+        "explanation": "Romans 5:6 records: 'For when we were still without strength, at the right time Christ gave his life for evil-doers.'."
+      },
+      {
+        "id": "rom-5-q5",
+        "questionNumber": 5,
+        "question": "According to the text, what happened or was commanded in Romans 5:8?",
+        "options": [
+          "“But God has made clear his love to us, in that,...”",
+          "“And not only so, but we have joy in...”",
+          "“But the free giving of God is not like...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“But God has made clear his love to us, in that,...”",
+        "reference": "Romans 5:8",
+        "explanation": "Romans 5:8 records: 'But God has made clear his love to us, in that, when we were still sinners, Christ gave his life for us.'."
+      },
+      {
+        "id": "rom-5-q6",
+        "questionNumber": 6,
+        "question": "What central message or instruction is delivered in Romans 5:10?",
+        "options": [
+          "“Because, till the law came, sin was in existence,...”",
+          "“For if, when we were haters of God, the death of...”",
+          "“For, if by the wrongdoing of one, death was...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“For if, when we were haters of God, the death of...”",
+        "reference": "Romans 5:10",
+        "explanation": "Romans 5:10 records: 'For if, when we were haters of God, the death of his Son made us at peace with him, much more, now that we are his friends, will we have salvation through his life;'."
+      },
+      {
+        "id": "rom-5-q7",
+        "questionNumber": 7,
+        "question": "What detail regarding God's work, covenant, or people is given in Romans 5:12?",
+        "options": [
+          "“But the free giving of God is not like...”",
+          "“Because, as numbers of men became sinners through the...”",
+          "“For this reason, as through one man sin came into the...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“For this reason, as through one man sin came into the...”",
+        "reference": "Romans 5:12",
+        "explanation": "Romans 5:12 records: 'For this reason, as through one man sin came into the world, and death because of sin, and so death came to all men, because all have done evil:'."
+      },
+      {
+        "id": "rom-5-q8",
+        "questionNumber": 8,
+        "question": "What phrase or account is recorded in Romans 5:14?",
+        "options": [
+          "“For, if by the wrongdoing of one, death was...”",
+          "“For which reason, because we have righteousness through faith,...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“But still death had power from Adam till Moses, even over...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“But still death had power from Adam till Moses, even over...”",
+        "reference": "Romans 5:14",
+        "explanation": "Romans 5:14 records: 'But still death had power from Adam till Moses, even over those who had not done wrong like Adam, who is a picture of him who was to come.'."
+      },
+      {
+        "id": "rom-5-q9",
+        "questionNumber": 9,
+        "question": "How does the passage describe the circumstances or people in Romans 5:16?",
+        "options": [
+          "“And the free giving has not the same effect as the...”",
+          "“Because, as numbers of men became sinners through the...”",
+          "“Through whom, in the same way, we have been...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“And the free giving has not the same effect as the...”",
+        "reference": "Romans 5:16",
+        "explanation": "Romans 5:16 records: 'And the free giving has not the same effect as the sin of one: for the effect of one man's sin was punishment by the decision of God, but the free giving had power to give righteousness to wrongdoers in great number.'."
+      },
+      {
+        "id": "rom-5-q10",
+        "questionNumber": 10,
+        "question": "In the concluding portion of the chapter, what takes place in Romans 5:18?",
+        "options": [
+          "“For which reason, because we have righteousness through faith,...”",
+          "“So then, as the effect of one act of wrongdoing was...”",
+          "“And waiting gives experience; and experience, hope:”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“So then, as the effect of one act of wrongdoing was...”",
+        "reference": "Romans 5:18",
+        "explanation": "Romans 5:18 records: 'So then, as the effect of one act of wrongdoing was that punishment came on all men, even so the effect of one act of righteousness was righteousness of life for all men.'."
+      }
+    ],
+    "6": [
+      {
+        "id": "rom-6-q1",
+        "questionNumber": 1,
+        "question": "According to Romans 6:1, what is the opening statement or setting of this chapter?",
+        "options": [
+          "It records: “What may we say, then? are we to go on in sin so that there may b...”",
+          "It begins with a prayer of thanksgiving for deliverance in Romans",
+          "It opens with a formal census and counting of the congregation",
+          "It records a severe judgment pronounced against neighboring nations"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "It records: “What may we say, then? are we to go on in sin so that there may b...”",
+        "reference": "Romans 6:1",
+        "explanation": "The chapter begins directly with the statement: 'What may we say, then? are we to go on in sin so that there may be more grace?'."
+      },
+      {
+        "id": "rom-6-q2",
+        "questionNumber": 2,
+        "question": "What key instruction, event, or declaration is set forth in Romans 6:2?",
+        "options": [
+          "“For, if we have been made like him in...”",
+          "“In no way. How may we, who are dead to sin,...”",
+          "“Having knowledge that because Christ has come back from...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“In no way. How may we, who are dead to sin,...”",
+        "reference": "Romans 6:2",
+        "explanation": "Romans 6:2 records: 'In no way. How may we, who are dead to sin, be living in it any longer?'."
+      },
+      {
+        "id": "rom-6-q3",
+        "questionNumber": 3,
+        "question": "What significant action or revelation occurs in Romans 6:4?",
+        "options": [
+          "“Because he who is dead is free from sin.”",
+          "“Even so see yourselves as dead to sin, but...”",
+          "“We have been placed with him among the dead through baptism...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“We have been placed with him among the dead through baptism...”",
+        "reference": "Romans 6:4",
+        "explanation": "Romans 6:4 records: 'We have been placed with him among the dead through baptism into death: so that as Christ came again from the dead by the glory of the Father, we, in the same way, might be living in new life.'."
+      },
+      {
+        "id": "rom-6-q4",
+        "questionNumber": 4,
+        "question": "What truth or description is highlighted in Romans 6:6?",
+        "options": [
+          "“Having knowledge that because Christ has come back from...”",
+          "“And do not give your bodies to sin as...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“Being conscious that our old man was put to death on...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“Being conscious that our old man was put to death on...”",
+        "reference": "Romans 6:6",
+        "explanation": "Romans 6:6 records: 'Being conscious that our old man was put to death on the cross with him, so that the body of sin might be put away, and we might no longer be servants to sin.'."
+      },
+      {
+        "id": "rom-6-q5",
+        "questionNumber": 5,
+        "question": "According to the text, what happened or was commanded in Romans 6:8?",
+        "options": [
+          "“But if we are dead with Christ, we have faith that...”",
+          "“Even so see yourselves as dead to sin, but...”",
+          "“What then? are we to go on in sin...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“But if we are dead with Christ, we have faith that...”",
+        "reference": "Romans 6:8",
+        "explanation": "Romans 6:8 records: 'But if we are dead with Christ, we have faith that we will be living with him;'."
+      },
+      {
+        "id": "rom-6-q6",
+        "questionNumber": 6,
+        "question": "What central message or instruction is delivered in Romans 6:10?",
+        "options": [
+          "“And do not give your bodies to sin as...”",
+          "“For his death was a death to sin, but his life...”",
+          "“But praise be to God that though you were...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“For his death was a death to sin, but his life...”",
+        "reference": "Romans 6:10",
+        "explanation": "Romans 6:10 records: 'For his death was a death to sin, but his life now is a life which he is living to God.'."
+      },
+      {
+        "id": "rom-6-q7",
+        "questionNumber": 7,
+        "question": "What detail regarding God's work, covenant, or people is given in Romans 6:12?",
+        "options": [
+          "“What then? are we to go on in sin...”",
+          "“I am using words in the way of men,...”",
+          "“For this cause do not let sin be ruling in your...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“For this cause do not let sin be ruling in your...”",
+        "reference": "Romans 6:12",
+        "explanation": "Romans 6:12 records: 'For this cause do not let sin be ruling in your body which is under the power of death, so that you give way to its desires;'."
+      },
+      {
+        "id": "rom-6-q8",
+        "questionNumber": 8,
+        "question": "What phrase or account is recorded in Romans 6:14?",
+        "options": [
+          "“But praise be to God that though you were...”",
+          "“What fruit had you at that time in the...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“For sin may not have rule over you: because you are...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“For sin may not have rule over you: because you are...”",
+        "reference": "Romans 6:14",
+        "explanation": "Romans 6:14 records: 'For sin may not have rule over you: because you are not under law, but under grace.'."
+      },
+      {
+        "id": "rom-6-q9",
+        "questionNumber": 9,
+        "question": "How does the passage describe the circumstances or people in Romans 6:16?",
+        "options": [
+          "“Are you not conscious that you are the servants of him...”",
+          "“I am using words in the way of men,...”",
+          "“What may we say, then? are we to go...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“Are you not conscious that you are the servants of him...”",
+        "reference": "Romans 6:16",
+        "explanation": "Romans 6:16 records: 'Are you not conscious that you are the servants of him to whom you give yourselves to do his desire? if to sin, the end being death, or if to do the desire of God, the end being righteousness.'."
+      },
+      {
+        "id": "rom-6-q10",
+        "questionNumber": 10,
+        "question": "In the concluding portion of the chapter, what takes place in Romans 6:18?",
+        "options": [
+          "“What fruit had you at that time in the...”",
+          "“And being made free from sin you have been made the...”",
+          "“In no way. How may we, who are dead...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“And being made free from sin you have been made the...”",
+        "reference": "Romans 6:18",
+        "explanation": "Romans 6:18 records: 'And being made free from sin you have been made the servants of righteousness.'."
+      }
+    ],
+    "7": [
+      {
+        "id": "rom-7-q1",
+        "questionNumber": 1,
+        "question": "According to Romans 7:1, what is the opening statement or setting of this chapter?",
+        "options": [
+          "It records: “Is it not clear, my brothers (I am using an argument to those who...”",
+          "It begins with a prayer of thanksgiving for deliverance in Romans",
+          "It opens with a formal census and counting of the congregation",
+          "It records a severe judgment pronounced against neighboring nations"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "It records: “Is it not clear, my brothers (I am using an argument to those who...”",
+        "reference": "Romans 7:1",
+        "explanation": "The chapter begins directly with the statement: 'Is it not clear, my brothers (I am using an argument to those who have knowledge of the law), that the law has power over a man as long as he is living?'."
+      },
+      {
+        "id": "rom-7-q2",
+        "questionNumber": 2,
+        "question": "What key instruction, event, or declaration is set forth in Romans 7:2?",
+        "options": [
+          "“For when we were in the flesh, the evil...”",
+          "“For the woman who has a husband is placed by the...”",
+          "“And there was a time when I was living...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“For the woman who has a husband is placed by the...”",
+        "reference": "Romans 7:2",
+        "explanation": "Romans 7:2 records: 'For the woman who has a husband is placed by the law under the power of her husband as long as he is living; but if her husband is dead, she is free from the law of the husband.'."
+      },
+      {
+        "id": "rom-7-q3",
+        "questionNumber": 3,
+        "question": "What significant action or revelation occurs in Romans 7:4?",
+        "options": [
+          "“What then is to be said? is the law...”",
+          "“For I was tricked and put to death by...”",
+          "“In the same way, my brothers, you were made dead to...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“In the same way, my brothers, you were made dead to...”",
+        "reference": "Romans 7:4",
+        "explanation": "Romans 7:4 records: 'In the same way, my brothers, you were made dead to the law through the body of Christ, so that you might be joined to another, even to him who came again from the dead, so that we might give fruit to God.'."
+      },
+      {
+        "id": "rom-7-q4",
+        "questionNumber": 4,
+        "question": "What truth or description is highlighted in Romans 7:6?",
+        "options": [
+          "“And there was a time when I was living...”",
+          "“Was then that which is good, death to me?...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“But now we are free from the law, having been made...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“But now we are free from the law, having been made...”",
+        "reference": "Romans 7:6",
+        "explanation": "Romans 7:6 records: 'But now we are free from the law, having been made dead to that which had power over us; so that we are servants in the new way of the spirit, not in the old way of the letter.'."
+      },
+      {
+        "id": "rom-7-q5",
+        "questionNumber": 5,
+        "question": "According to the text, what happened or was commanded in Romans 7:8?",
+        "options": [
+          "“But sin, taking its chance through that which was ordered by...”",
+          "“For I was tricked and put to death by...”",
+          "“And I have no clear knowledge of what I...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“But sin, taking its chance through that which was ordered by...”",
+        "reference": "Romans 7:8",
+        "explanation": "Romans 7:8 records: 'But sin, taking its chance through that which was ordered by the law, was working in me every form of desire: because without the law sin is dead.'."
+      },
+      {
+        "id": "rom-7-q6",
+        "questionNumber": 6,
+        "question": "What central message or instruction is delivered in Romans 7:10?",
+        "options": [
+          "“Was then that which is good, death to me?...”",
+          "“And I made the discovery that the law whose purpose was...”",
+          "“So it is no longer I who do it,...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“And I made the discovery that the law whose purpose was...”",
+        "reference": "Romans 7:10",
+        "explanation": "Romans 7:10 records: 'And I made the discovery that the law whose purpose was to give life had become a cause of death:'."
+      },
+      {
+        "id": "rom-7-q7",
+        "questionNumber": 7,
+        "question": "What detail regarding God's work, covenant, or people is given in Romans 7:12?",
+        "options": [
+          "“And I have no clear knowledge of what I...”",
+          "“For the good which I have a mind to...”",
+          "“But the law is holy, and its orders are holy, upright,...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“But the law is holy, and its orders are holy, upright,...”",
+        "reference": "Romans 7:12",
+        "explanation": "Romans 7:12 records: 'But the law is holy, and its orders are holy, upright, and good.'."
+      },
+      {
+        "id": "rom-7-q8",
+        "questionNumber": 8,
+        "question": "What phrase or account is recorded in Romans 7:14?",
+        "options": [
+          "“So it is no longer I who do it,...”",
+          "“So I see a law that, though I have...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“For we are conscious that the law is of the spirit;...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“For we are conscious that the law is of the spirit;...”",
+        "reference": "Romans 7:14",
+        "explanation": "Romans 7:14 records: 'For we are conscious that the law is of the spirit; but I am of the flesh, given into the power of sin.'."
+      },
+      {
+        "id": "rom-7-q9",
+        "questionNumber": 9,
+        "question": "How does the passage describe the circumstances or people in Romans 7:16?",
+        "options": [
+          "“But, if I do that which I have no mind to...”",
+          "“For the good which I have a mind to...”",
+          "“But I see another law in my body, working...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“But, if I do that which I have no mind to...”",
+        "reference": "Romans 7:16",
+        "explanation": "Romans 7:16 records: 'But, if I do that which I have no mind to do, I am in agreement with the law that the law is good.'."
+      },
+      {
+        "id": "rom-7-q10",
+        "questionNumber": 10,
+        "question": "In the concluding portion of the chapter, what takes place in Romans 7:18?",
+        "options": [
+          "“So I see a law that, though I have...”",
+          "“For I am conscious that in me, that is, in my...”",
+          "“Is it not clear, my brothers (I am using...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“For I am conscious that in me, that is, in my...”",
+        "reference": "Romans 7:18",
+        "explanation": "Romans 7:18 records: 'For I am conscious that in me, that is, in my flesh, there is nothing good: I have the mind but not the power to do what is right.'."
+      }
+    ],
+    "8": [
+      {
+        "id": "rom-8-q1",
+        "questionNumber": 1,
+        "question": "According to Romans 8:1, what is the opening statement or setting of this chapter?",
+        "options": [
+          "It records: “For this cause those who are in Christ Jesus will not be judged a...”",
+          "It begins with a prayer of thanksgiving for deliverance in Romans",
+          "It opens with a formal census and counting of the congregation",
+          "It records a severe judgment pronounced against neighboring nations"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "It records: “For this cause those who are in Christ Jesus will not be judged a...”",
+        "reference": "Romans 8:1",
+        "explanation": "The chapter begins directly with the statement: 'For this cause those who are in Christ Jesus will not be judged as sinners.'."
+      },
+      {
+        "id": "rom-8-q2",
+        "questionNumber": 2,
+        "question": "What key instruction, event, or declaration is set forth in Romans 8:3?",
+        "options": [
+          "“For the mind of the flesh is death, but...”",
+          "“For what the law was not able to do because it...”",
+          "“And if Christ is in you, the body is...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“For what the law was not able to do because it...”",
+        "reference": "Romans 8:3",
+        "explanation": "Romans 8:3 records: 'For what the law was not able to do because it was feeble through the flesh, God, sending his Son in the image of the evil flesh, and as an offering for sin, gave his decision against sin in the flesh:'."
+      },
+      {
+        "id": "rom-8-q3",
+        "questionNumber": 3,
+        "question": "What significant action or revelation occurs in Romans 8:6?",
+        "options": [
+          "“You are not in the flesh but in the...”",
+          "“For if you go in the way of the...”",
+          "“For the mind of the flesh is death, but the mind...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“For the mind of the flesh is death, but the mind...”",
+        "reference": "Romans 8:6",
+        "explanation": "Romans 8:6 records: 'For the mind of the flesh is death, but the mind of the Spirit is life and peace:'."
+      },
+      {
+        "id": "rom-8-q4",
+        "questionNumber": 4,
+        "question": "What truth or description is highlighted in Romans 8:9?",
+        "options": [
+          "“So then, my brothers, we are in debt, not...”",
+          "“The Spirit is witness with our spirit that we...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“You are not in the flesh but in the Spirit, if...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“You are not in the flesh but in the Spirit, if...”",
+        "reference": "Romans 8:9",
+        "explanation": "Romans 8:9 records: 'You are not in the flesh but in the Spirit, if the Spirit of God is in you. But if any man has not the Spirit of Christ he is not one of his.'."
+      },
+      {
+        "id": "rom-8-q5",
+        "questionNumber": 5,
+        "question": "According to the text, what happened or was commanded in Romans 8:12?",
+        "options": [
+          "“So then, my brothers, we are in debt, not to the...”",
+          "“For you did not get the spirit of servants...”",
+          "“For the strong desire of every living thing is...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“So then, my brothers, we are in debt, not to the...”",
+        "reference": "Romans 8:12",
+        "explanation": "Romans 8:12 records: 'So then, my brothers, we are in debt, not to the flesh to be living in the way of the flesh:'."
+      },
+      {
+        "id": "rom-8-q6",
+        "questionNumber": 6,
+        "question": "What central message or instruction is delivered in Romans 8:15?",
+        "options": [
+          "“I am of the opinion that there is no...”",
+          "“For you did not get the spirit of servants again to...”",
+          "“For we are conscious that all living things are...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“For you did not get the spirit of servants again to...”",
+        "reference": "Romans 8:15",
+        "explanation": "Romans 8:15 records: 'For you did not get the spirit of servants again to put you in fear, but the spirit of sons was given to you, by which we say, Abba, Father.'."
+      },
+      {
+        "id": "rom-8-q7",
+        "questionNumber": 7,
+        "question": "What detail regarding God's work, covenant, or people is given in Romans 8:18?",
+        "options": [
+          "“That all living things will be made free from...”",
+          "“But if we have hope for that which we...”",
+          "“I am of the opinion that there is no comparison between...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“I am of the opinion that there is no comparison between...”",
+        "reference": "Romans 8:18",
+        "explanation": "Romans 8:18 records: 'I am of the opinion that there is no comparison between the pain of this present time and the glory which we will see in the future.'."
+      },
+      {
+        "id": "rom-8-q8",
+        "questionNumber": 8,
+        "question": "What phrase or account is recorded in Romans 8:21?",
+        "options": [
+          "“For our salvation is by hope: but hope which...”",
+          "“And we are conscious that all things are working...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“That all living things will be made free from the power...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“That all living things will be made free from the power...”",
+        "reference": "Romans 8:21",
+        "explanation": "Romans 8:21 records: 'That all living things will be made free from the power of death and will have a part with the free children of God in glory.'."
+      },
+      {
+        "id": "rom-8-q9",
+        "questionNumber": 9,
+        "question": "How does the passage describe the circumstances or people in Romans 8:24?",
+        "options": [
+          "“For our salvation is by hope: but hope which is seen...”",
+          "“And he who is the searcher of hearts has...”",
+          "“What may we say about these things? If God...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“For our salvation is by hope: but hope which is seen...”",
+        "reference": "Romans 8:24",
+        "explanation": "Romans 8:24 records: 'For our salvation is by hope: but hope which is seen is not hope: for who is hoping for what he sees?'."
+      },
+      {
+        "id": "rom-8-q10",
+        "questionNumber": 10,
+        "question": "In the concluding portion of the chapter, what takes place in Romans 8:27?",
+        "options": [
+          "“And those who were marked out by him were...”",
+          "“And he who is the searcher of hearts has knowledge of...”",
+          "“Who will give a decision against us? It is...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“And he who is the searcher of hearts has knowledge of...”",
+        "reference": "Romans 8:27",
+        "explanation": "Romans 8:27 records: 'And he who is the searcher of hearts has knowledge of the mind of the Spirit, because he is making prayers for the saints in agreement with the mind of God.'."
+      }
+    ],
+    "9": [
+      {
+        "id": "rom-9-q1",
+        "questionNumber": 1,
+        "question": "According to Romans 9:1, what is the opening statement or setting of this chapter?",
+        "options": [
+          "It records: “I say what is true in Christ, and not what is false, my mind givi...”",
+          "It begins with a prayer of thanksgiving for deliverance in Romans",
+          "It opens with a formal census and counting of the congregation",
+          "It records a severe judgment pronounced against neighboring nations"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "It records: “I say what is true in Christ, and not what is false, my mind givi...”",
+        "reference": "Romans 9:1",
+        "explanation": "The chapter begins directly with the statement: 'I say what is true in Christ, and not what is false, my mind giving witness with me in the Holy Spirit,'."
+      },
+      {
+        "id": "rom-9-q2",
+        "questionNumber": 2,
+        "question": "What key instruction, event, or declaration is set forth in Romans 9:3?",
+        "options": [
+          "“But it is not as if the word of...”",
+          "“For I have a desire to take on myself the curse...”",
+          "“And not only so, but Rebecca being about to...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“For I have a desire to take on myself the curse...”",
+        "reference": "Romans 9:3",
+        "explanation": "Romans 9:3 records: 'For I have a desire to take on myself the curse for my brothers, my family in the flesh:'."
+      },
+      {
+        "id": "rom-9-q3",
+        "questionNumber": 3,
+        "question": "What significant action or revelation occurs in Romans 9:6?",
+        "options": [
+          "“For this is the word of God's undertaking, At...”",
+          "“Even as it is said, I had love for...”",
+          "“But it is not as if the word of God was...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“But it is not as if the word of God was...”",
+        "reference": "Romans 9:6",
+        "explanation": "Romans 9:6 records: 'But it is not as if the word of God was without effect. For they are not all Israel, who are of Israel:'."
+      },
+      {
+        "id": "rom-9-q4",
+        "questionNumber": 4,
+        "question": "What truth or description is highlighted in Romans 9:9?",
+        "options": [
+          "“It was said to her, The older will be...”",
+          "“So then, it is not by the desire or...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“For this is the word of God's undertaking, At this time...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“For this is the word of God's undertaking, At this time...”",
+        "reference": "Romans 9:9",
+        "explanation": "Romans 9:9 records: 'For this is the word of God's undertaking, At this time will I come, and Sarah will have a son.'."
+      },
+      {
+        "id": "rom-9-q5",
+        "questionNumber": 5,
+        "question": "According to the text, what happened or was commanded in Romans 9:12?",
+        "options": [
+          "“It was said to her, The older will be the servant...”",
+          "“For he says to Moses, I will have mercy...”",
+          "“But you will say to me, Why does he...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“It was said to her, The older will be the servant...”",
+        "reference": "Romans 9:12",
+        "explanation": "Romans 9:12 records: 'It was said to her, The older will be the servant of the younger.'."
+      },
+      {
+        "id": "rom-9-q6",
+        "questionNumber": 6,
+        "question": "What central message or instruction is delivered in Romans 9:15?",
+        "options": [
+          "“So then, at his pleasure he has mercy on...”",
+          "“For he says to Moses, I will have mercy on whom...”",
+          "“What if God, desiring to let his wrath and...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“For he says to Moses, I will have mercy on whom...”",
+        "reference": "Romans 9:15",
+        "explanation": "Romans 9:15 records: 'For he says to Moses, I will have mercy on whom I will have mercy, and pity on whom I will have pity.'."
+      },
+      {
+        "id": "rom-9-q7",
+        "questionNumber": 7,
+        "question": "What detail regarding God's work, covenant, or people is given in Romans 9:18?",
+        "options": [
+          "“Or has not the potter the right to make...”",
+          "“As he says in Hosea, They will be named...”",
+          "“So then, at his pleasure he has mercy on a man,...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“So then, at his pleasure he has mercy on a man,...”",
+        "reference": "Romans 9:18",
+        "explanation": "Romans 9:18 records: 'So then, at his pleasure he has mercy on a man, and at his pleasure he makes the heart hard.'."
+      },
+      {
+        "id": "rom-9-q8",
+        "questionNumber": 8,
+        "question": "What phrase or account is recorded in Romans 9:21?",
+        "options": [
+          "“Even us, who were marked out by him, not...”",
+          "“For the Lord will give effect to his word...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“Or has not the potter the right to make out of...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“Or has not the potter the right to make out of...”",
+        "reference": "Romans 9:21",
+        "explanation": "Romans 9:21 records: 'Or has not the potter the right to make out of one part of his earth a vessel for honour, and out of another a vessel for shame?'."
+      },
+      {
+        "id": "rom-9-q9",
+        "questionNumber": 9,
+        "question": "How does the passage describe the circumstances or people in Romans 9:24?",
+        "options": [
+          "“Even us, who were marked out by him, not only from...”",
+          "“And Isaiah says about Israel, Even if the number...”",
+          "“But Israel, going after a law of righteousness, did...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“Even us, who were marked out by him, not only from...”",
+        "reference": "Romans 9:24",
+        "explanation": "Romans 9:24 records: 'Even us, who were marked out by him, not only from the Jews, but from the Gentiles?'."
+      },
+      {
+        "id": "rom-9-q10",
+        "questionNumber": 10,
+        "question": "In the concluding portion of the chapter, what takes place in Romans 9:27?",
+        "options": [
+          "“What then may we say? That the nations who...”",
+          "“And Isaiah says about Israel, Even if the number of the...”",
+          "“I say what is true in Christ, and not...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“And Isaiah says about Israel, Even if the number of the...”",
+        "reference": "Romans 9:27",
+        "explanation": "Romans 9:27 records: 'And Isaiah says about Israel, Even if the number of the children of Israel is as the sand of the sea, only a small part will get salvation:'."
+      }
+    ],
+    "10": [
+      {
+        "id": "rom-10-q1",
+        "questionNumber": 1,
+        "question": "According to Romans 10:1, what is the opening statement or setting of this chapter?",
+        "options": [
+          "It records: “Brothers, my heart's desire and my prayer to God for them is, tha...”",
+          "It begins with a prayer of thanksgiving for deliverance in Romans",
+          "It opens with a formal census and counting of the congregation",
+          "It records a severe judgment pronounced against neighboring nations"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "It records: “Brothers, my heart's desire and my prayer to God for them is, tha...”",
+        "reference": "Romans 10:1",
+        "explanation": "The chapter begins directly with the statement: 'Brothers, my heart's desire and my prayer to God for them is, that they may get salvation.'."
+      },
+      {
+        "id": "rom-10-q2",
+        "questionNumber": 2,
+        "question": "What key instruction, event, or declaration is set forth in Romans 10:2?",
+        "options": [
+          "“For Moses says that the man who does the...”",
+          "“For I give witness of them that they have a strong...”",
+          "“Because, if you say with your mouth that Jesus...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“For I give witness of them that they have a strong...”",
+        "reference": "Romans 10:2",
+        "explanation": "Romans 10:2 records: 'For I give witness of them that they have a strong desire for God, but not with knowledge.'."
+      },
+      {
+        "id": "rom-10-q3",
+        "questionNumber": 3,
+        "question": "What significant action or revelation occurs in Romans 10:4?",
+        "options": [
+          "“Or, Who will go down into the deep? (that...”",
+          "“Because it is said in the holy Writings, Whoever...”",
+          "“For Christ is the end of the law for righteousness to...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“For Christ is the end of the law for righteousness to...”",
+        "reference": "Romans 10:4",
+        "explanation": "Romans 10:4 records: 'For Christ is the end of the law for righteousness to everyone who has faith.'."
+      },
+      {
+        "id": "rom-10-q4",
+        "questionNumber": 4,
+        "question": "What truth or description is highlighted in Romans 10:6?",
+        "options": [
+          "“Because, if you say with your mouth that Jesus...”",
+          "“Because, Whoever will give worship to the name of...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“But the righteousness which is of faith says these words, Say...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“But the righteousness which is of faith says these words, Say...”",
+        "reference": "Romans 10:6",
+        "explanation": "Romans 10:6 records: 'But the righteousness which is of faith says these words, Say not in your heart, Who will go up to heaven? (that is, to make Christ come down:)'."
+      },
+      {
+        "id": "rom-10-q5",
+        "questionNumber": 5,
+        "question": "According to the text, what happened or was commanded in Romans 10:8?",
+        "options": [
+          "“But what does it say? The word is near you, in...”",
+          "“Because it is said in the holy Writings, Whoever...”",
+          "“And how will there be preachers if they are...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“But what does it say? The word is near you, in...”",
+        "reference": "Romans 10:8",
+        "explanation": "Romans 10:8 records: 'But what does it say? The word is near you, in your mouth and in your heart: that is, the word of faith of which we are the preachers:'."
+      },
+      {
+        "id": "rom-10-q6",
+        "questionNumber": 6,
+        "question": "What central message or instruction is delivered in Romans 10:10?",
+        "options": [
+          "“Because, Whoever will give worship to the name of...”",
+          "“For with the heart man has faith to get righteousness, and...”",
+          "“So faith comes by hearing, and hearing by the...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“For with the heart man has faith to get righteousness, and...”",
+        "reference": "Romans 10:10",
+        "explanation": "Romans 10:10 records: 'For with the heart man has faith to get righteousness, and with the mouth he says that Jesus is Lord to get salvation.'."
+      },
+      {
+        "id": "rom-10-q7",
+        "questionNumber": 7,
+        "question": "What detail regarding God's work, covenant, or people is given in Romans 10:12?",
+        "options": [
+          "“And how will there be preachers if they are...”",
+          "“But I say, Had Israel no knowledge? First Moses...”",
+          "“And the Jew is not different from the Greek: for there...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“And the Jew is not different from the Greek: for there...”",
+        "reference": "Romans 10:12",
+        "explanation": "Romans 10:12 records: 'And the Jew is not different from the Greek: for there is the same Lord of all, who is good to all who have hope in his name:'."
+      },
+      {
+        "id": "rom-10-q8",
+        "questionNumber": 8,
+        "question": "What phrase or account is recorded in Romans 10:14?",
+        "options": [
+          "“So faith comes by hearing, and hearing by the...”",
+          "“Brothers, my heart's desire and my prayer to God...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“But how will they give worship to him in whom they...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“But how will they give worship to him in whom they...”",
+        "reference": "Romans 10:14",
+        "explanation": "Romans 10:14 records: 'But how will they give worship to him in whom they have no faith? and how will they have faith in him of whom they have not had news? and how will they have news without a preacher?'."
+      },
+      {
+        "id": "rom-10-q9",
+        "questionNumber": 9,
+        "question": "How does the passage describe the circumstances or people in Romans 10:16?",
+        "options": [
+          "“But they have not all given ear to the good news....”",
+          "“But I say, Had Israel no knowledge? First Moses...”",
+          "“For I give witness of them that they have...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“But they have not all given ear to the good news....”",
+        "reference": "Romans 10:16",
+        "explanation": "Romans 10:16 records: 'But they have not all given ear to the good news. For Isaiah says, Lord, who has had faith in our word?'."
+      },
+      {
+        "id": "rom-10-q10",
+        "questionNumber": 10,
+        "question": "In the concluding portion of the chapter, what takes place in Romans 10:18?",
+        "options": [
+          "“Brothers, my heart's desire and my prayer to God...”",
+          "“But I say, Did not the word come to their ears?...”",
+          "“For Christ is the end of the law for...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“But I say, Did not the word come to their ears?...”",
+        "reference": "Romans 10:18",
+        "explanation": "Romans 10:18 records: 'But I say, Did not the word come to their ears? Yes, certainly: Their sound has gone out into all the earth, and their words to the ends of the world.'."
+      }
+    ],
+    "11": [
+      {
+        "id": "rom-11-q1",
+        "questionNumber": 1,
+        "question": "According to Romans 11:1, what is the opening statement or setting of this chapter?",
+        "options": [
+          "It records: “So I say, Has God put his people on one side? Let there be no suc...”",
+          "It begins with a prayer of thanksgiving for deliverance in Romans",
+          "It opens with a formal census and counting of the congregation",
+          "It records a severe judgment pronounced against neighboring nations"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "It records: “So I say, Has God put his people on one side? Let there be no suc...”",
+        "reference": "Romans 11:1",
+        "explanation": "The chapter begins directly with the statement: 'So I say, Has God put his people on one side? Let there be no such thought. For I am of Israel, of the seed of Abraham, of the tribe of Benjamin.'."
+      },
+      {
+        "id": "rom-11-q2",
+        "questionNumber": 2,
+        "question": "What key instruction, event, or declaration is set forth in Romans 11:3?",
+        "options": [
+          "“But if it is of grace, then it is...”",
+          "“Lord, they have put your prophets to death, and made waste...”",
+          "“Let their eyes be made dark so that they...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“Lord, they have put your prophets to death, and made waste...”",
+        "reference": "Romans 11:3",
+        "explanation": "Romans 11:3 records: 'Lord, they have put your prophets to death, and made waste your altars, and now I am the last, and they are searching for me to take away my life.'."
+      },
+      {
+        "id": "rom-11-q3",
+        "questionNumber": 3,
+        "question": "What significant action or revelation occurs in Romans 11:6?",
+        "options": [
+          "“And David says, Let their table be made a...”",
+          "“But I say to you, Gentiles, in so far...”",
+          "“But if it is of grace, then it is no longer...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“But if it is of grace, then it is no longer...”",
+        "reference": "Romans 11:6",
+        "explanation": "Romans 11:6 records: 'But if it is of grace, then it is no longer of works: or grace would not be grace.'."
+      },
+      {
+        "id": "rom-11-q4",
+        "questionNumber": 4,
+        "question": "What truth or description is highlighted in Romans 11:9?",
+        "options": [
+          "“Now, if their fall is the wealth of the...”",
+          "“And if the first-fruit is holy, so is the...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“And David says, Let their table be made a net for...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“And David says, Let their table be made a net for...”",
+        "reference": "Romans 11:9",
+        "explanation": "Romans 11:9 records: 'And David says, Let their table be made a net for taking them, and a stone in their way, and a punishment:'."
+      },
+      {
+        "id": "rom-11-q5",
+        "questionNumber": 5,
+        "question": "According to the text, what happened or was commanded in Romans 11:12?",
+        "options": [
+          "“Now, if their fall is the wealth of the world, and...”",
+          "“For, if by their putting away, the rest of...”",
+          "“You will say, Branches were broken off so that...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“Now, if their fall is the wealth of the world, and...”",
+        "reference": "Romans 11:12",
+        "explanation": "Romans 11:12 records: 'Now, if their fall is the wealth of the world, and their loss the wealth of the Gentiles, how much greater will be the glory when they are made full?'."
+      },
+      {
+        "id": "rom-11-q6",
+        "questionNumber": 6,
+        "question": "What central message or instruction is delivered in Romans 11:15?",
+        "options": [
+          "“Do not be uplifted in pride over the branches:...”",
+          "“For, if by their putting away, the rest of men have...”",
+          "“See then that God is good but his rules...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“For, if by their putting away, the rest of men have...”",
+        "reference": "Romans 11:15",
+        "explanation": "Romans 11:15 records: 'For, if by their putting away, the rest of men have been made friends with God, what will their coming back again be, but life from the dead?'."
+      },
+      {
+        "id": "rom-11-q7",
+        "questionNumber": 7,
+        "question": "What detail regarding God's work, covenant, or people is given in Romans 11:18?",
+        "options": [
+          "“For, if God did not have mercy on the...”",
+          "“For it is my desire, brothers, that this secret...”",
+          "“Do not be uplifted in pride over the branches: because it...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“Do not be uplifted in pride over the branches: because it...”",
+        "reference": "Romans 11:18",
+        "explanation": "Romans 11:18 records: 'Do not be uplifted in pride over the branches: because it is not you who are the support of the root, but it is by the root that you are supported.'."
+      },
+      {
+        "id": "rom-11-q8",
+        "questionNumber": 8,
+        "question": "What phrase or account is recorded in Romans 11:21?",
+        "options": [
+          "“For if you were cut out of a field...”",
+          "“As far as the good news is in question,...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“For, if God did not have mercy on the natural branches,...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“For, if God did not have mercy on the natural branches,...”",
+        "reference": "Romans 11:21",
+        "explanation": "Romans 11:21 records: 'For, if God did not have mercy on the natural branches, he will not have mercy on you.'."
+      },
+      {
+        "id": "rom-11-q9",
+        "questionNumber": 9,
+        "question": "How does the passage describe the circumstances or people in Romans 11:24?",
+        "options": [
+          "“For if you were cut out of a field olive-tree, and...”",
+          "“And this is my agreement with them, when I...”",
+          "“So in the same way these have gone against...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“For if you were cut out of a field olive-tree, and...”",
+        "reference": "Romans 11:24",
+        "explanation": "Romans 11:24 records: 'For if you were cut out of a field olive-tree, and against the natural use were united to a good olive-tree, how much more will these, the natural branches, be united again with the olive-tree which was theirs?'."
+      },
+      {
+        "id": "rom-11-q10",
+        "questionNumber": 10,
+        "question": "In the concluding portion of the chapter, what takes place in Romans 11:27?",
+        "options": [
+          "“For as you, in time past, were not under...”",
+          "“And this is my agreement with them, when I will take...”",
+          "“Who has knowledge of the mind of the Lord?...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“And this is my agreement with them, when I will take...”",
+        "reference": "Romans 11:27",
+        "explanation": "Romans 11:27 records: 'And this is my agreement with them, when I will take away their sins.'."
+      }
+    ],
+    "12": [
+      {
+        "id": "rom-12-q1",
+        "questionNumber": 1,
+        "question": "According to Romans 12:1, what is the opening statement or setting of this chapter?",
+        "options": [
+          "It records: “For this reason I make request to you, brothers, by the mercies o...”",
+          "It begins with a prayer of thanksgiving for deliverance in Romans",
+          "It opens with a formal census and counting of the congregation",
+          "It records a severe judgment pronounced against neighboring nations"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "It records: “For this reason I make request to you, brothers, by the mercies o...”",
+        "reference": "Romans 12:1",
+        "explanation": "The chapter begins directly with the statement: 'For this reason I make request to you, brothers, by the mercies of God, that you will give your bodies as a living offering, holy, pleasing to God, which is the worship it is right for you to give him.'."
+      },
+      {
+        "id": "rom-12-q2",
+        "questionNumber": 2,
+        "question": "What key instruction, event, or declaration is set forth in Romans 12:2?",
+        "options": [
+          "“So we, though we are a number of persons,...”",
+          "“And let not your behaviour be like that of this world,...”",
+          "“Let love be without deceit. Be haters of what...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“And let not your behaviour be like that of this world,...”",
+        "reference": "Romans 12:2",
+        "explanation": "Romans 12:2 records: 'And let not your behaviour be like that of this world, but be changed and made new in mind, so that by experience you may have knowledge of the good and pleasing and complete purpose of God.'."
+      },
+      {
+        "id": "rom-12-q3",
+        "questionNumber": 3,
+        "question": "What significant action or revelation occurs in Romans 12:4?",
+        "options": [
+          "“Or the position of a Deacon of the church,...”",
+          "“Be not slow in your work, but be quick...”",
+          "“For, as we have a number of parts in one body,...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“For, as we have a number of parts in one body,...”",
+        "reference": "Romans 12:4",
+        "explanation": "Romans 12:4 records: 'For, as we have a number of parts in one body, but all the parts have not the same use,'."
+      },
+      {
+        "id": "rom-12-q4",
+        "questionNumber": 4,
+        "question": "What truth or description is highlighted in Romans 12:6?",
+        "options": [
+          "“Let love be without deceit. Be haters of what...”",
+          "“Giving to the needs of the saints, ready to...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“And having different qualities by reason of the grace given to...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“And having different qualities by reason of the grace given to...”",
+        "reference": "Romans 12:6",
+        "explanation": "Romans 12:6 records: 'And having different qualities by reason of the grace given to us, such as the quality of a prophet, let it be made use of in relation to the measure of our faith;'."
+      },
+      {
+        "id": "rom-12-q5",
+        "questionNumber": 5,
+        "question": "According to the text, what happened or was commanded in Romans 12:8?",
+        "options": [
+          "“He who has the power of comforting, let him do so;...”",
+          "“Be not slow in your work, but be quick...”",
+          "“Take part in the joy of those who are...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“He who has the power of comforting, let him do so;...”",
+        "reference": "Romans 12:8",
+        "explanation": "Romans 12:8 records: 'He who has the power of comforting, let him do so; he who gives, let him give freely; he who has the power of ruling, let him do it with a serious mind; he who has mercy on others, let it be with joy.'."
+      },
+      {
+        "id": "rom-12-q6",
+        "questionNumber": 6,
+        "question": "What central message or instruction is delivered in Romans 12:10?",
+        "options": [
+          "“Giving to the needs of the saints, ready to...”",
+          "“Be kind to one another with a brother's love, putting others...”",
+          "“Do not give evil for evil to any man....”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“Be kind to one another with a brother's love, putting others...”",
+        "reference": "Romans 12:10",
+        "explanation": "Romans 12:10 records: 'Be kind to one another with a brother's love, putting others before yourselves in honour;'."
+      },
+      {
+        "id": "rom-12-q7",
+        "questionNumber": 7,
+        "question": "What detail regarding God's work, covenant, or people is given in Romans 12:12?",
+        "options": [
+          "“Take part in the joy of those who are...”",
+          "“Do not give punishment for wrongs done to you,...”",
+          "“Being glad in hope, quiet in trouble, at all times given...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“Being glad in hope, quiet in trouble, at all times given...”",
+        "reference": "Romans 12:12",
+        "explanation": "Romans 12:12 records: 'Being glad in hope, quiet in trouble, at all times given to prayer,'."
+      },
+      {
+        "id": "rom-12-q8",
+        "questionNumber": 8,
+        "question": "What phrase or account is recorded in Romans 12:14?",
+        "options": [
+          "“Do not give evil for evil to any man....”",
+          "“For this reason I make request to you, brothers,...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“Give blessing and not curses to those who are cruel to you.”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“Give blessing and not curses to those who are cruel to you.”",
+        "reference": "Romans 12:14",
+        "explanation": "Romans 12:14 records: 'Give blessing and not curses to those who are cruel to you.'."
+      },
+      {
+        "id": "rom-12-q9",
+        "questionNumber": 9,
+        "question": "How does the passage describe the circumstances or people in Romans 12:16?",
+        "options": [
+          "“Be in harmony with one another. Do not have a high...”",
+          "“Do not give punishment for wrongs done to you,...”",
+          "“And let not your behaviour be like that of...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“Be in harmony with one another. Do not have a high...”",
+        "reference": "Romans 12:16",
+        "explanation": "Romans 12:16 records: 'Be in harmony with one another. Do not have a high opinion of yourselves, but be in agreement with common people. Do not give yourselves an air of wisdom.'."
+      },
+      {
+        "id": "rom-12-q10",
+        "questionNumber": 10,
+        "question": "In the concluding portion of the chapter, what takes place in Romans 12:18?",
+        "options": [
+          "“For this reason I make request to you, brothers,...”",
+          "“As far as it is possible for you be at peace...”",
+          "“For, as we have a number of parts in...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“As far as it is possible for you be at peace...”",
+        "reference": "Romans 12:18",
+        "explanation": "Romans 12:18 records: 'As far as it is possible for you be at peace with all men.'."
+      }
+    ],
+    "13": [
+      {
+        "id": "rom-13-q1",
+        "questionNumber": 1,
+        "question": "According to Romans 13:1, what is the opening statement or setting of this chapter?",
+        "options": [
+          "It records: “Let everyone put himself under the authority of the higher powers...”",
+          "It begins with a prayer of thanksgiving for deliverance in Romans",
+          "It opens with a formal census and counting of the congregation",
+          "It records a severe judgment pronounced against neighboring nations"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "It records: “Let everyone put himself under the authority of the higher powers...”",
+        "reference": "Romans 13:1",
+        "explanation": "The chapter begins directly with the statement: 'Let everyone put himself under the authority of the higher powers, because there is no power which is not of God, and all powers are ordered by God.'."
+      },
+      {
+        "id": "rom-13-q2",
+        "questionNumber": 2,
+        "question": "What key instruction, event, or declaration is set forth in Romans 13:2?",
+        "options": [
+          "“So put yourselves under the authority, not for fear...”",
+          "“For which reason everyone who puts himself against the authority puts...”",
+          "“And this, Do not be untrue in married life,...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“For which reason everyone who puts himself against the authority puts...”",
+        "reference": "Romans 13:2",
+        "explanation": "Romans 13:2 records: 'For which reason everyone who puts himself against the authority puts himself against the order of God: and those who are against it will get punishment for themselves.'."
+      },
+      {
+        "id": "rom-13-q3",
+        "questionNumber": 3,
+        "question": "What significant action or revelation occurs in Romans 13:3?",
+        "options": [
+          "“For the same reason, make payment of taxes; because...”",
+          "“Love does no wrong to his neighbour, so love...”",
+          "“For rulers are not a cause of fear to the good...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“For rulers are not a cause of fear to the good...”",
+        "reference": "Romans 13:3",
+        "explanation": "Romans 13:3 records: 'For rulers are not a cause of fear to the good work but to the evil. If you would have no fear of the authority, do good and you will have praise;'."
+      },
+      {
+        "id": "rom-13-q4",
+        "questionNumber": 4,
+        "question": "What truth or description is highlighted in Romans 13:4?",
+        "options": [
+          "“Give to all what is their right: taxes to...”",
+          "“See then that the time has come for you...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“For he is the servant of God to you for good....”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“For he is the servant of God to you for good....”",
+        "reference": "Romans 13:4",
+        "explanation": "Romans 13:4 records: 'For he is the servant of God to you for good. But if you do evil, have fear; for the sword is not in his hand for nothing: he is God's servant, making God's punishment come on the evil-doer.'."
+      },
+      {
+        "id": "rom-13-q5",
+        "questionNumber": 5,
+        "question": "According to the text, what happened or was commanded in Romans 13:5?",
+        "options": [
+          "“So put yourselves under the authority, not for fear of wrath,...”",
+          "“Be in debt for nothing, but to have love...”",
+          "“The night is far gone, and the day is...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“So put yourselves under the authority, not for fear of wrath,...”",
+        "reference": "Romans 13:5",
+        "explanation": "Romans 13:5 records: 'So put yourselves under the authority, not for fear of wrath, but because you have the knowledge of what is right.'."
+      },
+      {
+        "id": "rom-13-q6",
+        "questionNumber": 6,
+        "question": "What central message or instruction is delivered in Romans 13:6?",
+        "options": [
+          "“And this, Do not be untrue in married life,...”",
+          "“For the same reason, make payment of taxes; because the authority...”",
+          "“With right behaviour as in the day; not in...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“For the same reason, make payment of taxes; because the authority...”",
+        "reference": "Romans 13:6",
+        "explanation": "Romans 13:6 records: 'For the same reason, make payment of taxes; because the authority is God's servant, to take care of such things at all times.'."
+      },
+      {
+        "id": "rom-13-q7",
+        "questionNumber": 7,
+        "question": "What detail regarding God's work, covenant, or people is given in Romans 13:7?",
+        "options": [
+          "“Love does no wrong to his neighbour, so love...”",
+          "“Let everyone put himself under the authority of the...”",
+          "“Give to all what is their right: taxes to him whose...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“Give to all what is their right: taxes to him whose...”",
+        "reference": "Romans 13:7",
+        "explanation": "Romans 13:7 records: 'Give to all what is their right: taxes to him whose they are, payment to him whose right it is, fear to whom fear, honour to whom honour is to be given.'."
+      },
+      {
+        "id": "rom-13-q8",
+        "questionNumber": 8,
+        "question": "What phrase or account is recorded in Romans 13:8?",
+        "options": [
+          "“See then that the time has come for you...”",
+          "“Let everyone put himself under the authority of the...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“Be in debt for nothing, but to have love for one...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“Be in debt for nothing, but to have love for one...”",
+        "reference": "Romans 13:8",
+        "explanation": "Romans 13:8 records: 'Be in debt for nothing, but to have love for one another: for he who has love for his neighbour has kept all the law.'."
+      },
+      {
+        "id": "rom-13-q9",
+        "questionNumber": 9,
+        "question": "How does the passage describe the circumstances or people in Romans 13:9?",
+        "options": [
+          "“And this, Do not be untrue in married life, Do not...”",
+          "“The night is far gone, and the day is...”",
+          "“For which reason everyone who puts himself against the...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“And this, Do not be untrue in married life, Do not...”",
+        "reference": "Romans 13:9",
+        "explanation": "Romans 13:9 records: 'And this, Do not be untrue in married life, Do not put to death, Do not take what is another's, Do not have desire for what is another's, and if there is any other order, it is covered by this word, Have love for your neighbour as for yourself.'."
+      },
+      {
+        "id": "rom-13-q10",
+        "questionNumber": 10,
+        "question": "In the concluding portion of the chapter, what takes place in Romans 13:10?",
+        "options": [
+          "“With right behaviour as in the day; not in...”",
+          "“Love does no wrong to his neighbour, so love makes the...”",
+          "“For rulers are not a cause of fear to...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“Love does no wrong to his neighbour, so love makes the...”",
+        "reference": "Romans 13:10",
+        "explanation": "Romans 13:10 records: 'Love does no wrong to his neighbour, so love makes the law complete.'."
+      }
+    ],
+    "14": [
+      {
+        "id": "rom-14-q1",
+        "questionNumber": 1,
+        "question": "According to Romans 14:1, what is the opening statement or setting of this chapter?",
+        "options": [
+          "It records: “Do not put on one side him who is feeble in faith, and do not put...”",
+          "It begins with a prayer of thanksgiving for deliverance in Romans",
+          "It opens with a formal census and counting of the congregation",
+          "It records a severe judgment pronounced against neighboring nations"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "It records: “Do not put on one side him who is feeble in faith, and do not put...”",
+        "reference": "Romans 14:1",
+        "explanation": "The chapter begins directly with the statement: 'Do not put on one side him who is feeble in faith, and do not put him in doubt by your reasonings.'."
+      },
+      {
+        "id": "rom-14-q2",
+        "questionNumber": 2,
+        "question": "What key instruction, event, or declaration is set forth in Romans 14:2?",
+        "options": [
+          "“This man puts one day before another: to that...”",
+          "“One man has faith to take all things as food: another...”",
+          "“And for this purpose Christ went into death and...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“One man has faith to take all things as food: another...”",
+        "reference": "Romans 14:2",
+        "explanation": "Romans 14:2 records: 'One man has faith to take all things as food: another who is feeble in faith takes only green food.'."
+      },
+      {
+        "id": "rom-14-q3",
+        "questionNumber": 3,
+        "question": "What significant action or revelation occurs in Romans 14:4?",
+        "options": [
+          "“For every man's life and every man's death has...”",
+          "“For it is said in the holy Writings, By...”",
+          "“Who are you to make yourself a judge of another man's...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“Who are you to make yourself a judge of another man's...”",
+        "reference": "Romans 14:4",
+        "explanation": "Romans 14:4 records: 'Who are you to make yourself a judge of another man's servant? it is to his master that he is responsible for good or bad. Yes, his place will be safe, because the Lord is able to keep him from falling.'."
+      },
+      {
+        "id": "rom-14-q4",
+        "questionNumber": 4,
+        "question": "What truth or description is highlighted in Romans 14:6?",
+        "options": [
+          "“And for this purpose Christ went into death and...”",
+          "“Then let us not be judges of one another...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“He who keeps the day, keeps it to the Lord; and...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“He who keeps the day, keeps it to the Lord; and...”",
+        "reference": "Romans 14:6",
+        "explanation": "Romans 14:6 records: 'He who keeps the day, keeps it to the Lord; and he who takes food, takes it as to the Lord, for he gives praise to God; and he who does not take food, to the Lord he takes it not, and gives praise to God.'."
+      },
+      {
+        "id": "rom-14-q5",
+        "questionNumber": 5,
+        "question": "According to the text, what happened or was commanded in Romans 14:8?",
+        "options": [
+          "“As long as we have life we are living to the...”",
+          "“For it is said in the holy Writings, By...”",
+          "“And if because of food your brother is troubled,...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“As long as we have life we are living to the...”",
+        "reference": "Romans 14:8",
+        "explanation": "Romans 14:8 records: 'As long as we have life we are living to the Lord; or if we give up our life it is to the Lord; so if we are living, or if our life comes to an end, we are the Lord's.'."
+      },
+      {
+        "id": "rom-14-q6",
+        "questionNumber": 6,
+        "question": "What central message or instruction is delivered in Romans 14:10?",
+        "options": [
+          "“Then let us not be judges of one another...”",
+          "“But you, why do you make yourself your brother's judge? or...”",
+          "“For the kingdom of God is not food and...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“But you, why do you make yourself your brother's judge? or...”",
+        "reference": "Romans 14:10",
+        "explanation": "Romans 14:10 records: 'But you, why do you make yourself your brother's judge? or again, why have you no respect for your brother? because we will all have to take our place before God as our judge.'."
+      },
+      {
+        "id": "rom-14-q7",
+        "questionNumber": 7,
+        "question": "What detail regarding God's work, covenant, or people is given in Romans 14:12?",
+        "options": [
+          "“And if because of food your brother is troubled,...”",
+          "“So then, let us go after the things which...”",
+          "“So every one of us will have to give an account...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“So every one of us will have to give an account...”",
+        "reference": "Romans 14:12",
+        "explanation": "Romans 14:12 records: 'So every one of us will have to give an account of himself to God.'."
+      },
+      {
+        "id": "rom-14-q8",
+        "questionNumber": 8,
+        "question": "What phrase or account is recorded in Romans 14:14?",
+        "options": [
+          "“For the kingdom of God is not food and...”",
+          "“It is better not to take meat or wine...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“I am conscious of this, and am certain in the Lord...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“I am conscious of this, and am certain in the Lord...”",
+        "reference": "Romans 14:14",
+        "explanation": "Romans 14:14 records: 'I am conscious of this, and am certain in the Lord Jesus, that nothing is unclean in itself; but for the man in whose opinion it is unclean, for him it is unclean.'."
+      },
+      {
+        "id": "rom-14-q9",
+        "questionNumber": 9,
+        "question": "How does the passage describe the circumstances or people in Romans 14:16?",
+        "options": [
+          "“Let it not be possible for men to say evil about...”",
+          "“So then, let us go after the things which...”",
+          "“Do not put on one side him who is...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“Let it not be possible for men to say evil about...”",
+        "reference": "Romans 14:16",
+        "explanation": "Romans 14:16 records: 'Let it not be possible for men to say evil about your good:'."
+      },
+      {
+        "id": "rom-14-q10",
+        "questionNumber": 10,
+        "question": "In the concluding portion of the chapter, what takes place in Romans 14:18?",
+        "options": [
+          "“It is better not to take meat or wine...”",
+          "“And he who in these things is Christ's servant, is pleasing...”",
+          "“One man has faith to take all things as...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“And he who in these things is Christ's servant, is pleasing...”",
+        "reference": "Romans 14:18",
+        "explanation": "Romans 14:18 records: 'And he who in these things is Christ's servant, is pleasing to God and has the approval of men.'."
+      }
+    ],
+    "15": [
+      {
+        "id": "rom-15-q1",
+        "questionNumber": 1,
+        "question": "According to Romans 15:1, what is the opening statement or setting of this chapter?",
+        "options": [
+          "It records: “We who are strong have to be a support to the feeble, and not giv...”",
+          "It begins with a prayer of thanksgiving for deliverance in Romans",
+          "It opens with a formal census and counting of the congregation",
+          "It records a severe judgment pronounced against neighboring nations"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "It records: “We who are strong have to be a support to the feeble, and not giv...”",
+        "reference": "Romans 15:1",
+        "explanation": "The chapter begins directly with the statement: 'We who are strong have to be a support to the feeble, and not give pleasure to ourselves.'."
+      },
+      {
+        "id": "rom-15-q2",
+        "questionNumber": 2,
+        "question": "What key instruction, event, or declaration is set forth in Romans 15:3?",
+        "options": [
+          "“So that with one mouth you may give glory...”",
+          "“For Christ did not give pleasure to himself, but, as it...”",
+          "“And again he says, Take part, you Gentiles, in...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“For Christ did not give pleasure to himself, but, as it...”",
+        "reference": "Romans 15:3",
+        "explanation": "Romans 15:3 records: 'For Christ did not give pleasure to himself, but, as it is said, The bitter words of those who were angry with you came on me.'."
+      },
+      {
+        "id": "rom-15-q3",
+        "questionNumber": 3,
+        "question": "What significant action or revelation occurs in Romans 15:6?",
+        "options": [
+          "“And so that the Gentiles might give glory to...”",
+          "“Now may the God of hope make you full...”",
+          "“So that with one mouth you may give glory to the...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“So that with one mouth you may give glory to the...”",
+        "reference": "Romans 15:6",
+        "explanation": "Romans 15:6 records: 'So that with one mouth you may give glory to the God and Father of our Lord Jesus Christ.'."
+      },
+      {
+        "id": "rom-15-q4",
+        "questionNumber": 4,
+        "question": "What truth or description is highlighted in Romans 15:9?",
+        "options": [
+          "“And again Isaiah says, There will be the root...”",
+          "“To be a servant of Christ Jesus to the...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“And so that the Gentiles might give glory to God for...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“And so that the Gentiles might give glory to God for...”",
+        "reference": "Romans 15:9",
+        "explanation": "Romans 15:9 records: 'And so that the Gentiles might give glory to God for his mercy; as it is said, For this reason I will give praise to you among the Gentiles, and I will make a song to your name.'."
+      },
+      {
+        "id": "rom-15-q5",
+        "questionNumber": 5,
+        "question": "According to the text, what happened or was commanded in Romans 15:12?",
+        "options": [
+          "“And again Isaiah says, There will be the root of Jesse,...”",
+          "“But I have, in some measure, less fear in...”",
+          "“By signs and wonders, in the power of the...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“And again Isaiah says, There will be the root of Jesse,...”",
+        "reference": "Romans 15:12",
+        "explanation": "Romans 15:12 records: 'And again Isaiah says, There will be the root of Jesse, and he who comes to be the ruler over the Gentiles; in him will the Gentiles put their hope.'."
+      },
+      {
+        "id": "rom-15-q6",
+        "questionNumber": 6,
+        "question": "What central message or instruction is delivered in Romans 15:15?",
+        "options": [
+          "“And I will keep myself from talking of anything...”",
+          "“But I have, in some measure, less fear in writing to...”",
+          "“For which reason I was frequently kept from coming...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“But I have, in some measure, less fear in writing to...”",
+        "reference": "Romans 15:15",
+        "explanation": "Romans 15:15 records: 'But I have, in some measure, less fear in writing to you to put these things before you again, because of the grace which was given to me by God,'."
+      },
+      {
+        "id": "rom-15-q7",
+        "questionNumber": 7,
+        "question": "What detail regarding God's work, covenant, or people is given in Romans 15:18?",
+        "options": [
+          "“But as it is said in the holy Writings,...”",
+          "“But now I go to Jerusalem, taking help for...”",
+          "“And I will keep myself from talking of anything but those...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“And I will keep myself from talking of anything but those...”",
+        "reference": "Romans 15:18",
+        "explanation": "Romans 15:18 records: 'And I will keep myself from talking of anything but those things which Christ has done by me to put the Gentiles under his rule in word and in act,'."
+      },
+      {
+        "id": "rom-15-q8",
+        "questionNumber": 8,
+        "question": "What phrase or account is recorded in Romans 15:21?",
+        "options": [
+          "“Whenever I go to Spain (for it is my...”",
+          "“So when I have done this, and have given...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“But as it is said in the holy Writings, They will...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“But as it is said in the holy Writings, They will...”",
+        "reference": "Romans 15:21",
+        "explanation": "Romans 15:21 records: 'But as it is said in the holy Writings, They will see, to whom the news of him had not been given, and those to whose ears it had not come will have knowledge.'."
+      },
+      {
+        "id": "rom-15-q9",
+        "questionNumber": 9,
+        "question": "How does the passage describe the circumstances or people in Romans 15:24?",
+        "options": [
+          "“Whenever I go to Spain (for it is my hope to...”",
+          "“Yes, it has been their good pleasure; and they...”",
+          "“So that I may be kept safe from those...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“Whenever I go to Spain (for it is my hope to...”",
+        "reference": "Romans 15:24",
+        "explanation": "Romans 15:24 records: 'Whenever I go to Spain (for it is my hope to see you on my way, and to be sent on there by you, if first I may in some measure have been comforted by your company)--'."
+      },
+      {
+        "id": "rom-15-q10",
+        "questionNumber": 10,
+        "question": "In the concluding portion of the chapter, what takes place in Romans 15:27?",
+        "options": [
+          "“Now I make request to you, brothers, by our...”",
+          "“Yes, it has been their good pleasure; and they are in...”",
+          "“We who are strong have to be a support...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“Yes, it has been their good pleasure; and they are in...”",
+        "reference": "Romans 15:27",
+        "explanation": "Romans 15:27 records: 'Yes, it has been their good pleasure; and they are in their debt. For if the Gentiles have had a part in the things of the Spirit which were theirs, it is right for them, in the same way, to give them help in the things of the flesh.'."
+      }
+    ],
+    "16": [
+      {
+        "id": "rom-16-q1",
+        "questionNumber": 1,
+        "question": "According to Romans 16:1, what is the opening statement or setting of this chapter?",
+        "options": [
+          "It records: “It is my desire to say a good word for Phoebe, who is a servant o...”",
+          "It begins with a prayer of thanksgiving for deliverance in Romans",
+          "It opens with a formal census and counting of the congregation",
+          "It records a severe judgment pronounced against neighboring nations"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "It records: “It is my desire to say a good word for Phoebe, who is a servant o...”",
+        "reference": "Romans 16:1",
+        "explanation": "The chapter begins directly with the statement: 'It is my desire to say a good word for Phoebe, who is a servant of the church in Cenchreae:'."
+      },
+      {
+        "id": "rom-16-q2",
+        "questionNumber": 2,
+        "question": "What key instruction, event, or declaration is set forth in Romans 16:2?",
+        "options": [
+          "“And say a kind word to the church which...”",
+          "“That you will take her in kindly, after the way of...”",
+          "“Give my love to Urbanus, a worker in Christ...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“That you will take her in kindly, after the way of...”",
+        "reference": "Romans 16:2",
+        "explanation": "Romans 16:2 records: 'That you will take her in kindly, after the way of the saints, as one who is the Lord's, and give her help in anything in which she may have need of you: because she has been a help to a great number and to myself.'."
+      },
+      {
+        "id": "rom-16-q3",
+        "questionNumber": 3,
+        "question": "What significant action or revelation occurs in Romans 16:4?",
+        "options": [
+          "“Give my love to Andronicus and Junia, my relations,...”",
+          "“Give my love to Herodion, my relation. Say a...”",
+          "“Who for my life put their necks in danger; to whom...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“Who for my life put their necks in danger; to whom...”",
+        "reference": "Romans 16:4",
+        "explanation": "Romans 16:4 records: 'Who for my life put their necks in danger; to whom not only I but all the churches of the Gentiles are in debt:'."
+      },
+      {
+        "id": "rom-16-q4",
+        "questionNumber": 4,
+        "question": "What truth or description is highlighted in Romans 16:6?",
+        "options": [
+          "“Give my love to Urbanus, a worker in Christ...”",
+          "“Give my love to Rufus, one of the Lord's...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“Give my love to Mary, who gave much care to you.”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“Give my love to Mary, who gave much care to you.”",
+        "reference": "Romans 16:6",
+        "explanation": "Romans 16:6 records: 'Give my love to Mary, who gave much care to you.'."
+      },
+      {
+        "id": "rom-16-q5",
+        "questionNumber": 5,
+        "question": "According to the text, what happened or was commanded in Romans 16:8?",
+        "options": [
+          "“Give my love to Ampliatus, who is dear to me in...”",
+          "“Give my love to Herodion, my relation. Say a...”",
+          "“Give my love to Philologus and Julia, Nereus and...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“Give my love to Ampliatus, who is dear to me in...”",
+        "reference": "Romans 16:8",
+        "explanation": "Romans 16:8 records: 'Give my love to Ampliatus, who is dear to me in the Lord,'."
+      },
+      {
+        "id": "rom-16-q6",
+        "questionNumber": 6,
+        "question": "What central message or instruction is delivered in Romans 16:10?",
+        "options": [
+          "“Give my love to Rufus, one of the Lord's...”",
+          "“Give my love to Apelles, who has the approval of Christ....”",
+          "“Now, it is my desire, brothers, that you will...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“Give my love to Apelles, who has the approval of Christ....”",
+        "reference": "Romans 16:10",
+        "explanation": "Romans 16:10 records: 'Give my love to Apelles, who has the approval of Christ. Say a kind word to those who are of the house of Aristobulus.'."
+      },
+      {
+        "id": "rom-16-q7",
+        "questionNumber": 7,
+        "question": "What detail regarding God's work, covenant, or people is given in Romans 16:12?",
+        "options": [
+          "“Give my love to Philologus and Julia, Nereus and...”",
+          "“For all have knowledge of how you do what...”",
+          "“Give my love to Tryphaena and Tryphosa, workers in the Lord....”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“Give my love to Tryphaena and Tryphosa, workers in the Lord....”",
+        "reference": "Romans 16:12",
+        "explanation": "Romans 16:12 records: 'Give my love to Tryphaena and Tryphosa, workers in the Lord. Give my love to my dear Persis, who did much work in the Lord.'."
+      },
+      {
+        "id": "rom-16-q8",
+        "questionNumber": 8,
+        "question": "What phrase or account is recorded in Romans 16:14?",
+        "options": [
+          "“Now, it is my desire, brothers, that you will...”",
+          "“Timothy, who is working with me, sends his love...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“Give my love to Asyncritus, Phlegon, Hermes, Patrobas, Hermas, and the...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“Give my love to Asyncritus, Phlegon, Hermes, Patrobas, Hermas, and the...”",
+        "reference": "Romans 16:14",
+        "explanation": "Romans 16:14 records: 'Give my love to Asyncritus, Phlegon, Hermes, Patrobas, Hermas, and the brothers who are with them.'."
+      },
+      {
+        "id": "rom-16-q9",
+        "questionNumber": 9,
+        "question": "How does the passage describe the circumstances or people in Romans 16:16?",
+        "options": [
+          "“Give one another a holy kiss. All the churches of Christ...”",
+          "“For all have knowledge of how you do what...”",
+          "“Gaius, with whom I am living, whose house is...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“Give one another a holy kiss. All the churches of Christ...”",
+        "reference": "Romans 16:16",
+        "explanation": "Romans 16:16 records: 'Give one another a holy kiss. All the churches of Christ send their love to you.'."
+      },
+      {
+        "id": "rom-16-q10",
+        "questionNumber": 10,
+        "question": "In the concluding portion of the chapter, what takes place in Romans 16:18?",
+        "options": [
+          "“Timothy, who is working with me, sends his love...”",
+          "“For such people are not servants of the Lord Christ, but...”",
+          "“Now to him who is able to make you...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“For such people are not servants of the Lord Christ, but...”",
+        "reference": "Romans 16:18",
+        "explanation": "Romans 16:18 records: 'For such people are not servants of the Lord Christ, but of their stomachs; and by their smooth and well-said words the hearts of those who have no knowledge of evil are tricked.'."
+      }
+    ]
+  }
+}

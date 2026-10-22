@@ -1,0 +1,769 @@
+{
+  "book": "James",
+  "bookId": "JAS",
+  "totalChapters": 5,
+  "totalQuestions": 50,
+  "questionsPerChapter": 10,
+  "chapters": {
+    "1": [
+      {
+        "id": "jas-1-q1",
+        "questionNumber": 1,
+        "question": "According to James 1:1, what is the opening statement or setting of this chapter?",
+        "options": [
+          "It records: “James, a servant of God and of the Lord Jesus Christ, sends words...”",
+          "It begins with a prayer of thanksgiving for deliverance in James",
+          "It opens with a formal census and counting of the congregation",
+          "It records a severe judgment pronounced against neighboring nations"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "It records: “James, a servant of God and of the Lord Jesus Christ, sends words...”",
+        "reference": "James 1:1",
+        "explanation": "The chapter begins directly with the statement: 'James, a servant of God and of the Lord Jesus Christ, sends words of love to the twelve tribes of the Jews living in all parts of the earth.'."
+      },
+      {
+        "id": "jas-1-q2",
+        "questionNumber": 2,
+        "question": "What key instruction, event, or declaration is set forth in James 1:2?",
+        "options": [
+          "“But if any man among you is without wisdom,...”",
+          "“Let it be all joy to you, my brothers, when you...”",
+          "“But let the brother of low position be glad...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“Let it be all joy to you, my brothers, when you...”",
+        "reference": "James 1:2",
+        "explanation": "James 1:2 records: 'Let it be all joy to you, my brothers, when you undergo tests of every sort;'."
+      },
+      {
+        "id": "jas-1-q3",
+        "questionNumber": 3,
+        "question": "What significant action or revelation occurs in James 1:4?",
+        "options": [
+          "“Let it not seem to such a man that...”",
+          "“For when the sun comes up with its burning...”",
+          "“But let this power have its full effect, so that you...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“But let this power have its full effect, so that you...”",
+        "reference": "James 1:4",
+        "explanation": "James 1:4 records: 'But let this power have its full effect, so that you may be made complete, needing nothing.'."
+      },
+      {
+        "id": "jas-1-q4",
+        "questionNumber": 4,
+        "question": "What truth or description is highlighted in James 1:6?",
+        "options": [
+          "“But let the brother of low position be glad...”",
+          "“Let no man say when he is tested, I...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“Let him make his request in faith, doubting nothing; for he...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“Let him make his request in faith, doubting nothing; for he...”",
+        "reference": "James 1:6",
+        "explanation": "James 1:6 records: 'Let him make his request in faith, doubting nothing; for he who has doubt in his heart is like the waves of the sea, which are troubled by the driving of the wind.'."
+      },
+      {
+        "id": "jas-1-q5",
+        "questionNumber": 5,
+        "question": "According to the text, what happened or was commanded in James 1:8?",
+        "options": [
+          "“For there is a division in his mind, and he is...”",
+          "“For when the sun comes up with its burning...”",
+          "“Then when its time comes, desire gives birth to...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“For there is a division in his mind, and he is...”",
+        "reference": "James 1:8",
+        "explanation": "James 1:8 records: 'For there is a division in his mind, and he is uncertain in all his ways.'."
+      },
+      {
+        "id": "jas-1-q6",
+        "questionNumber": 6,
+        "question": "What central message or instruction is delivered in James 1:10?",
+        "options": [
+          "“Let no man say when he is tested, I...”",
+          "“But the man of wealth, that he is made low; because...”",
+          "“Every good and true thing is given to us...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“But the man of wealth, that he is made low; because...”",
+        "reference": "James 1:10",
+        "explanation": "James 1:10 records: 'But the man of wealth, that he is made low; because like the flower of the grass he will come to his end.'."
+      },
+      {
+        "id": "jas-1-q7",
+        "questionNumber": 7,
+        "question": "What detail regarding God's work, covenant, or people is given in James 1:12?",
+        "options": [
+          "“Then when its time comes, desire gives birth to...”",
+          "“You have knowledge of this, dear brothers. But let...”",
+          "“There is a blessing on the man who undergoes testing; because,...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“There is a blessing on the man who undergoes testing; because,...”",
+        "reference": "James 1:12",
+        "explanation": "James 1:12 records: 'There is a blessing on the man who undergoes testing; because, if he has God's approval, he will be given the crown of life, which the Lord has said he will give to those who have love for him.'."
+      },
+      {
+        "id": "jas-1-q8",
+        "questionNumber": 8,
+        "question": "What phrase or account is recorded in James 1:14?",
+        "options": [
+          "“Every good and true thing is given to us...”",
+          "“For this reason, putting away all dirty behaviour and...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“But every man is tested when he is turned out of...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“But every man is tested when he is turned out of...”",
+        "reference": "James 1:14",
+        "explanation": "James 1:14 records: 'But every man is tested when he is turned out of the right way by the attraction of his desire.'."
+      },
+      {
+        "id": "jas-1-q9",
+        "questionNumber": 9,
+        "question": "How does the passage describe the circumstances or people in James 1:16?",
+        "options": [
+          "“Do not be turned from the right way, dear brothers.”",
+          "“You have knowledge of this, dear brothers. But let...”",
+          "“Because if any man is a hearer of the...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“Do not be turned from the right way, dear brothers.”",
+        "reference": "James 1:16",
+        "explanation": "James 1:16 records: 'Do not be turned from the right way, dear brothers.'."
+      },
+      {
+        "id": "jas-1-q10",
+        "questionNumber": 10,
+        "question": "In the concluding portion of the chapter, what takes place in James 1:18?",
+        "options": [
+          "“For this reason, putting away all dirty behaviour and...”",
+          "“Of his purpose he gave us being, by his true word,...”",
+          "“But he who goes on looking into the true...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“Of his purpose he gave us being, by his true word,...”",
+        "reference": "James 1:18",
+        "explanation": "James 1:18 records: 'Of his purpose he gave us being, by his true word, so that we might be, in a sense, the first-fruits of all the things which he had made.'."
+      }
+    ],
+    "2": [
+      {
+        "id": "jas-2-q1",
+        "questionNumber": 1,
+        "question": "According to James 2:1, what is the opening statement or setting of this chapter?",
+        "options": [
+          "It records: “My brothers, if you have the faith of our Lord Jesus Christ of gl...”",
+          "It begins with a prayer of thanksgiving for deliverance in James",
+          "It opens with a formal census and counting of the congregation",
+          "It records a severe judgment pronounced against neighboring nations"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "It records: “My brothers, if you have the faith of our Lord Jesus Christ of gl...”",
+        "reference": "James 2:1",
+        "explanation": "The chapter begins directly with the statement: 'My brothers, if you have the faith of our Lord Jesus Christ of glory, do not take a man's position into account.'."
+      },
+      {
+        "id": "jas-2-q2",
+        "questionNumber": 2,
+        "question": "What key instruction, event, or declaration is set forth in James 2:2?",
+        "options": [
+          "“Give ear, my dear brothers; are not those who...”",
+          "“For if a man comes into your Synagogue in fair clothing...”",
+          "“But if you take a man's position into account,...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“For if a man comes into your Synagogue in fair clothing...”",
+        "reference": "James 2:2",
+        "explanation": "James 2:2 records: 'For if a man comes into your Synagogue in fair clothing and with a gold ring, and a poor man comes in with dirty clothing,'."
+      },
+      {
+        "id": "jas-2-q3",
+        "questionNumber": 3,
+        "question": "What significant action or revelation occurs in James 2:4?",
+        "options": [
+          "“Do they not say evil of the holy name...”",
+          "“For he who said, Do not be untrue in...”",
+          "“Is there not a division in your minds? have you not...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“Is there not a division in your minds? have you not...”",
+        "reference": "James 2:4",
+        "explanation": "James 2:4 records: 'Is there not a division in your minds? have you not become judges with evil thoughts?'."
+      },
+      {
+        "id": "jas-2-q4",
+        "questionNumber": 4,
+        "question": "What truth or description is highlighted in James 2:6?",
+        "options": [
+          "“But if you take a man's position into account,...”",
+          "“For the man who has had no mercy will...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“But you have put the poor man to shame. Are not...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“But you have put the poor man to shame. Are not...”",
+        "reference": "James 2:6",
+        "explanation": "James 2:6 records: 'But you have put the poor man to shame. Are not the men of wealth rulers over you? do they not take you by force before their judges?'."
+      },
+      {
+        "id": "jas-2-q5",
+        "questionNumber": 5,
+        "question": "According to the text, what happened or was commanded in James 2:8?",
+        "options": [
+          "“But if you keep the greatest law of all, as it...”",
+          "“For he who said, Do not be untrue in...”",
+          "“If a brother or a sister is without clothing...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“But if you keep the greatest law of all, as it...”",
+        "reference": "James 2:8",
+        "explanation": "James 2:8 records: 'But if you keep the greatest law of all, as it is given in the holy Writings, Have love for your neighbour as for yourself, you do well:'."
+      },
+      {
+        "id": "jas-2-q6",
+        "questionNumber": 6,
+        "question": "What central message or instruction is delivered in James 2:10?",
+        "options": [
+          "“For the man who has had no mercy will...”",
+          "“For anyone who keeps all the law, but makes a slip...”",
+          "“Even so faith without works is dead.”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“For anyone who keeps all the law, but makes a slip...”",
+        "reference": "James 2:10",
+        "explanation": "James 2:10 records: 'For anyone who keeps all the law, but makes a slip in one point, is judged to have gone against it all.'."
+      },
+      {
+        "id": "jas-2-q7",
+        "questionNumber": 7,
+        "question": "What detail regarding God's work, covenant, or people is given in James 2:12?",
+        "options": [
+          "“If a brother or a sister is without clothing...”",
+          "“You have the belief that God is one, and...”",
+          "“Let your words and your acts be those of men who...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“Let your words and your acts be those of men who...”",
+        "reference": "James 2:12",
+        "explanation": "James 2:12 records: 'Let your words and your acts be those of men who are to be judged by the law which makes free.'."
+      },
+      {
+        "id": "jas-2-q8",
+        "questionNumber": 8,
+        "question": "What phrase or account is recorded in James 2:14?",
+        "options": [
+          "“Even so faith without works is dead.”",
+          "“Was not the righteousness of Abraham our father judged...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“What use is it, my brothers, for a man to say...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“What use is it, my brothers, for a man to say...”",
+        "reference": "James 2:14",
+        "explanation": "James 2:14 records: 'What use is it, my brothers, for a man to say that he has faith, if he does nothing? will such a faith give him salvation?'."
+      },
+      {
+        "id": "jas-2-q9",
+        "questionNumber": 9,
+        "question": "How does the passage describe the circumstances or people in James 2:16?",
+        "options": [
+          "“And one of you says to them, Go in peace, be...”",
+          "“You have the belief that God is one, and...”",
+          "“And the holy Writings were put into effect which...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“And one of you says to them, Go in peace, be...”",
+        "reference": "James 2:16",
+        "explanation": "James 2:16 records: 'And one of you says to them, Go in peace, be warm and full of food; but you do not give them the things of which their bodies have need, what profit is there in this?'."
+      },
+      {
+        "id": "jas-2-q10",
+        "questionNumber": 10,
+        "question": "In the concluding portion of the chapter, what takes place in James 2:18?",
+        "options": [
+          "“Was not the righteousness of Abraham our father judged...”",
+          "“But a man may say, You have faith and I have...”",
+          "“And in the same way, was not the righteousness...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“But a man may say, You have faith and I have...”",
+        "reference": "James 2:18",
+        "explanation": "James 2:18 records: 'But a man may say, You have faith and I have works; let me see your faith without your works, and I will make my faith clear to you by my works.'."
+      }
+    ],
+    "3": [
+      {
+        "id": "jas-3-q1",
+        "questionNumber": 1,
+        "question": "According to James 3:1, what is the opening statement or setting of this chapter?",
+        "options": [
+          "It records: “Do not all be teachers, my brothers, because we teachers will be ...”",
+          "It begins with a prayer of thanksgiving for deliverance in James",
+          "It opens with a formal census and counting of the congregation",
+          "It records a severe judgment pronounced against neighboring nations"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "It records: “Do not all be teachers, my brothers, because we teachers will be ...”",
+        "reference": "James 3:1",
+        "explanation": "The chapter begins directly with the statement: 'Do not all be teachers, my brothers, because we teachers will be judged more hardly than others.'."
+      },
+      {
+        "id": "jas-3-q2",
+        "questionNumber": 2,
+        "question": "What key instruction, event, or declaration is set forth in James 3:2?",
+        "options": [
+          "“Even so the tongue is a small part of...”",
+          "“For we all go wrong in a number of things. If...”",
+          "“With it we give praise to our Lord and...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“For we all go wrong in a number of things. If...”",
+        "reference": "James 3:2",
+        "explanation": "James 3:2 records: 'For we all go wrong in a number of things. If a man never makes a slip in his talk, then he is a complete man and able to keep all his body in control.'."
+      },
+      {
+        "id": "jas-3-q3",
+        "questionNumber": 3,
+        "question": "What significant action or revelation occurs in James 3:3?",
+        "options": [
+          "“And the tongue is a fire; it is the...”",
+          "“Out of the same mouth comes blessing and cursing....”",
+          "“Now if we put bits of iron into horses' mouths so...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“Now if we put bits of iron into horses' mouths so...”",
+        "reference": "James 3:3",
+        "explanation": "James 3:3 records: 'Now if we put bits of iron into horses' mouths so that they may be guided by us, we have complete control of their bodies.'."
+      },
+      {
+        "id": "jas-3-q4",
+        "questionNumber": 4,
+        "question": "What truth or description is highlighted in James 3:4?",
+        "options": [
+          "“For every sort of beast and bird and every...”",
+          "“Does the fountain send from the same outlet sweet...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“And again ships, though they are so great and are moved...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“And again ships, though they are so great and are moved...”",
+        "reference": "James 3:4",
+        "explanation": "James 3:4 records: 'And again ships, though they are so great and are moved by violent winds, are turned by a very small guiding-blade, at the impulse of the man who is using it.'."
+      },
+      {
+        "id": "jas-3-q5",
+        "questionNumber": 5,
+        "question": "According to the text, what happened or was commanded in James 3:5?",
+        "options": [
+          "“Even so the tongue is a small part of the body,...”",
+          "“But the tongue may not be controlled by man;...”",
+          "“Is a fig-tree able to give us olives, my...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“Even so the tongue is a small part of the body,...”",
+        "reference": "James 3:5",
+        "explanation": "James 3:5 records: 'Even so the tongue is a small part of the body, but it takes credit for great things. How much wood may be lighted by a very little fire!'."
+      },
+      {
+        "id": "jas-3-q6",
+        "questionNumber": 6,
+        "question": "What central message or instruction is delivered in James 3:6?",
+        "options": [
+          "“With it we give praise to our Lord and...”",
+          "“And the tongue is a fire; it is the power of...”",
+          "“Who has wisdom and good sense among you? let...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“And the tongue is a fire; it is the power of...”",
+        "reference": "James 3:6",
+        "explanation": "James 3:6 records: 'And the tongue is a fire; it is the power of evil placed in our bodies, making all the body unclean, putting the wheel of life on fire, and getting its fire from hell.'."
+      },
+      {
+        "id": "jas-3-q7",
+        "questionNumber": 7,
+        "question": "What detail regarding God's work, covenant, or people is given in James 3:7?",
+        "options": [
+          "“Out of the same mouth comes blessing and cursing....”",
+          "“But if you have bitter envy in your heart...”",
+          "“For every sort of beast and bird and every living thing...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“For every sort of beast and bird and every living thing...”",
+        "reference": "James 3:7",
+        "explanation": "James 3:7 records: 'For every sort of beast and bird and every living thing on earth and in the sea has been controlled by man and is under his authority;'."
+      },
+      {
+        "id": "jas-3-q8",
+        "questionNumber": 8,
+        "question": "What phrase or account is recorded in James 3:8?",
+        "options": [
+          "“Does the fountain send from the same outlet sweet...”",
+          "“This wisdom is not from heaven, but is of...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“But the tongue may not be controlled by man; it is...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“But the tongue may not be controlled by man; it is...”",
+        "reference": "James 3:8",
+        "explanation": "James 3:8 records: 'But the tongue may not be controlled by man; it is an unresting evil, it is full of the poison of death.'."
+      },
+      {
+        "id": "jas-3-q9",
+        "questionNumber": 9,
+        "question": "How does the passage describe the circumstances or people in James 3:9?",
+        "options": [
+          "“With it we give praise to our Lord and Father; and...”",
+          "“Is a fig-tree able to give us olives, my...”",
+          "“For where envy is, and the desire to get...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“With it we give praise to our Lord and Father; and...”",
+        "reference": "James 3:9",
+        "explanation": "James 3:9 records: 'With it we give praise to our Lord and Father; and with it we put a curse on men who are made in God's image.'."
+      },
+      {
+        "id": "jas-3-q10",
+        "questionNumber": 10,
+        "question": "In the concluding portion of the chapter, what takes place in James 3:10?",
+        "options": [
+          "“Who has wisdom and good sense among you? let...”",
+          "“Out of the same mouth comes blessing and cursing. My brothers,...”",
+          "“But the wisdom which is from heaven is first...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“Out of the same mouth comes blessing and cursing. My brothers,...”",
+        "reference": "James 3:10",
+        "explanation": "James 3:10 records: 'Out of the same mouth comes blessing and cursing. My brothers, it is not right for these things to be so.'."
+      }
+    ],
+    "4": [
+      {
+        "id": "jas-4-q1",
+        "questionNumber": 1,
+        "question": "According to James 4:1, what is the opening statement or setting of this chapter?",
+        "options": [
+          "It records: “What is the cause of wars and fighting among you? is it not in yo...”",
+          "It begins with a prayer of thanksgiving for deliverance in James",
+          "It opens with a formal census and counting of the congregation",
+          "It records a severe judgment pronounced against neighboring nations"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "It records: “What is the cause of wars and fighting among you? is it not in yo...”",
+        "reference": "James 4:1",
+        "explanation": "The chapter begins directly with the statement: 'What is the cause of wars and fighting among you? is it not in your desires which are at war in your bodies?'."
+      },
+      {
+        "id": "jas-4-q2",
+        "questionNumber": 2,
+        "question": "What key instruction, event, or declaration is set forth in James 4:2?",
+        "options": [
+          "“Or does it seem to you that it is...”",
+          "“You are burning with desire, and have not your desire, so...”",
+          "“Be troubled, with sorrow and weeping; let your laughing...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“You are burning with desire, and have not your desire, so...”",
+        "reference": "James 4:2",
+        "explanation": "James 4:2 records: 'You are burning with desire, and have not your desire, so you put men to death; you are full of envy, and you are not able to get your desire, so you are fighting and making war; you have not your desire, because you do not make request for it.'."
+      },
+      {
+        "id": "jas-4-q3",
+        "questionNumber": 3,
+        "question": "What significant action or revelation occurs in James 4:3?",
+        "options": [
+          "“But he gives more grace. So that the Writings...”",
+          "“Make yourselves low in the eyes of the Lord...”",
+          "“You make your request but you do not get it, because...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“You make your request but you do not get it, because...”",
+        "reference": "James 4:3",
+        "explanation": "James 4:3 records: 'You make your request but you do not get it, because your request has been wrongly made, desiring the thing only so that you may make use of it for your pleasure.'."
+      },
+      {
+        "id": "jas-4-q4",
+        "questionNumber": 4,
+        "question": "What truth or description is highlighted in James 4:4?",
+        "options": [
+          "“For this cause be ruled by God; but make...”",
+          "“Do not say evil against one another, my brothers....”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“O you who are false to God, do you not see...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“O you who are false to God, do you not see...”",
+        "reference": "James 4:4",
+        "explanation": "James 4:4 records: 'O you who are false to God, do you not see that the friends of this world are not God's friends? Every man desiring to be a friend of this world makes himself a hater of God.'."
+      },
+      {
+        "id": "jas-4-q5",
+        "questionNumber": 5,
+        "question": "According to the text, what happened or was commanded in James 4:5?",
+        "options": [
+          "“Or does it seem to you that it is for nothing...”",
+          "“Come near to God and he will come near...”",
+          "“There is only one judge and law-giver, even he...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“Or does it seem to you that it is for nothing...”",
+        "reference": "James 4:5",
+        "explanation": "James 4:5 records: 'Or does it seem to you that it is for nothing that the holy Writings say, The spirit which God put into our hearts has a strong desire for us?'."
+      },
+      {
+        "id": "jas-4-q6",
+        "questionNumber": 6,
+        "question": "What central message or instruction is delivered in James 4:6?",
+        "options": [
+          "“Be troubled, with sorrow and weeping; let your laughing...”",
+          "“But he gives more grace. So that the Writings say, God...”",
+          "“How foolish it is to say, Today or tomorrow...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“But he gives more grace. So that the Writings say, God...”",
+        "reference": "James 4:6",
+        "explanation": "James 4:6 records: 'But he gives more grace. So that the Writings say, God is against the men of pride, but he gives grace to those who make themselves low before him.'."
+      },
+      {
+        "id": "jas-4-q7",
+        "questionNumber": 7,
+        "question": "What detail regarding God's work, covenant, or people is given in James 4:7?",
+        "options": [
+          "“Make yourselves low in the eyes of the Lord...”",
+          "“When you are not certain what will take place...”",
+          "“For this cause be ruled by God; but make war on...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“For this cause be ruled by God; but make war on...”",
+        "reference": "James 4:7",
+        "explanation": "James 4:7 records: 'For this cause be ruled by God; but make war on the Evil One and he will be put to flight before you.'."
+      },
+      {
+        "id": "jas-4-q8",
+        "questionNumber": 8,
+        "question": "What phrase or account is recorded in James 4:8?",
+        "options": [
+          "“Do not say evil against one another, my brothers....”",
+          "“But the right thing to say would be, If...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“Come near to God and he will come near to you....”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“Come near to God and he will come near to you....”",
+        "reference": "James 4:8",
+        "explanation": "James 4:8 records: 'Come near to God and he will come near to you. Make your hands clean, you evil-doers; put away deceit from your hearts, you false in mind.'."
+      },
+      {
+        "id": "jas-4-q9",
+        "questionNumber": 9,
+        "question": "How does the passage describe the circumstances or people in James 4:9?",
+        "options": [
+          "“Be troubled, with sorrow and weeping; let your laughing be turned...”",
+          "“There is only one judge and law-giver, even he...”",
+          "“But now you go on glorying in your pride:...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“Be troubled, with sorrow and weeping; let your laughing be turned...”",
+        "reference": "James 4:9",
+        "explanation": "James 4:9 records: 'Be troubled, with sorrow and weeping; let your laughing be turned to sorrow and your joy to grief.'."
+      },
+      {
+        "id": "jas-4-q10",
+        "questionNumber": 10,
+        "question": "In the concluding portion of the chapter, what takes place in James 4:10?",
+        "options": [
+          "“How foolish it is to say, Today or tomorrow...”",
+          "“Make yourselves low in the eyes of the Lord and you...”",
+          "“What is the cause of wars and fighting among...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“Make yourselves low in the eyes of the Lord and you...”",
+        "reference": "James 4:10",
+        "explanation": "James 4:10 records: 'Make yourselves low in the eyes of the Lord and you will be lifted up by him.'."
+      }
+    ],
+    "5": [
+      {
+        "id": "jas-5-q1",
+        "questionNumber": 1,
+        "question": "According to James 5:1, what is the opening statement or setting of this chapter?",
+        "options": [
+          "It records: “Come now, you men of wealth, give yourselves to weeping and cryin...”",
+          "It begins with a prayer of thanksgiving for deliverance in James",
+          "It opens with a formal census and counting of the congregation",
+          "It records a severe judgment pronounced against neighboring nations"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "It records: “Come now, you men of wealth, give yourselves to weeping and cryin...”",
+        "reference": "James 5:1",
+        "explanation": "The chapter begins directly with the statement: 'Come now, you men of wealth, give yourselves to weeping and crying because of the bitter troubles which are coming to you.'."
+      },
+      {
+        "id": "jas-5-q2",
+        "questionNumber": 2,
+        "question": "What key instruction, event, or declaration is set forth in James 5:2?",
+        "options": [
+          "“You have been living delicately on earth and have...”",
+          "“Your wealth is unclean and insects have made holes in your clothing.”",
+          "“Say no hard things against one another, brothers, so...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“Your wealth is unclean and insects have made holes in your clothing.”",
+        "reference": "James 5:2",
+        "explanation": "James 5:2 records: 'Your wealth is unclean and insects have made holes in your clothing.'."
+      },
+      {
+        "id": "jas-5-q3",
+        "questionNumber": 3,
+        "question": "What significant action or revelation occurs in James 5:4?",
+        "options": [
+          "“Go on waiting calmly, my brothers, till the coming...”",
+          "“We say that those men who have gone through...”",
+          "“See, the money which you falsely kept back from the workers...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“See, the money which you falsely kept back from the workers...”",
+        "reference": "James 5:4",
+        "explanation": "James 5:4 records: 'See, the money which you falsely kept back from the workers cutting the grass in your field, is crying out against you; and the cries of those who took in your grain have come to the ears of the Lord of armies.'."
+      },
+      {
+        "id": "jas-5-q4",
+        "questionNumber": 4,
+        "question": "What truth or description is highlighted in James 5:6?",
+        "options": [
+          "“Say no hard things against one another, brothers, so...”",
+          "“Is anyone among you in trouble? let him say...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“You have given your decision against the upright man and have...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“You have given your decision against the upright man and have...”",
+        "reference": "James 5:6",
+        "explanation": "James 5:6 records: 'You have given your decision against the upright man and have put him to death. He puts up no fight against you.'."
+      },
+      {
+        "id": "jas-5-q5",
+        "questionNumber": 5,
+        "question": "According to the text, what happened or was commanded in James 5:8?",
+        "options": [
+          "“Be as calm in your waiting; let your hearts be strong:...”",
+          "“We say that those men who have gone through...”",
+          "“And by the prayer of faith the man who...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“Be as calm in your waiting; let your hearts be strong:...”",
+        "reference": "James 5:8",
+        "explanation": "James 5:8 records: 'Be as calm in your waiting; let your hearts be strong: because the coming of the Lord is near.'."
+      },
+      {
+        "id": "jas-5-q6",
+        "questionNumber": 6,
+        "question": "What central message or instruction is delivered in James 5:10?",
+        "options": [
+          "“Is anyone among you in trouble? let him say...”",
+          "“Take as an example of pain nobly undergone and of strength...”",
+          "“Elijah was a man of flesh and blood as...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“Take as an example of pain nobly undergone and of strength...”",
+        "reference": "James 5:10",
+        "explanation": "James 5:10 records: 'Take as an example of pain nobly undergone and of strength in trouble, the prophets who gave to men the words of the Lord.'."
+      },
+      {
+        "id": "jas-5-q7",
+        "questionNumber": 7,
+        "question": "What detail regarding God's work, covenant, or people is given in James 5:12?",
+        "options": [
+          "“And by the prayer of faith the man who...”",
+          "“My brothers, if one of you has gone out...”",
+          "“But most of all, my brothers, do not take oaths, not...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“But most of all, my brothers, do not take oaths, not...”",
+        "reference": "James 5:12",
+        "explanation": "James 5:12 records: 'But most of all, my brothers, do not take oaths, not by the heaven, or by the earth, or by any other thing: but let your Yes be Yes, and your No be No: so that you may not be judged.'."
+      },
+      {
+        "id": "jas-5-q8",
+        "questionNumber": 8,
+        "question": "What phrase or account is recorded in James 5:14?",
+        "options": [
+          "“Elijah was a man of flesh and blood as...”",
+          "“Come now, you men of wealth, give yourselves to...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“Is anyone among you ill? let him send for the rulers...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“Is anyone among you ill? let him send for the rulers...”",
+        "reference": "James 5:14",
+        "explanation": "James 5:14 records: 'Is anyone among you ill? let him send for the rulers of the church; and let them say prayers over him, putting oil on him in the name of the Lord.'."
+      },
+      {
+        "id": "jas-5-q9",
+        "questionNumber": 9,
+        "question": "How does the passage describe the circumstances or people in James 5:16?",
+        "options": [
+          "“So then, make a statement of your sins to one another,...”",
+          "“My brothers, if one of you has gone out...”",
+          "“Your gold and your silver are wasted and their...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“So then, make a statement of your sins to one another,...”",
+        "reference": "James 5:16",
+        "explanation": "James 5:16 records: 'So then, make a statement of your sins to one another, and say prayers for one another so that you may be made well. The prayer of a good man is full of power in its working.'."
+      },
+      {
+        "id": "jas-5-q10",
+        "questionNumber": 10,
+        "question": "In the concluding portion of the chapter, what takes place in James 5:18?",
+        "options": [
+          "“Come now, you men of wealth, give yourselves to...”",
+          "“And he made another prayer, and the heaven sent down rain...”",
+          "“You have been living delicately on earth and have...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“And he made another prayer, and the heaven sent down rain...”",
+        "reference": "James 5:18",
+        "explanation": "James 5:18 records: 'And he made another prayer, and the heaven sent down rain and the earth gave her fruit.'."
+      }
+    ]
+  }
+}

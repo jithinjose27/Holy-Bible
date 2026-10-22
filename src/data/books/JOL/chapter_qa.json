@@ -1,0 +1,465 @@
+{
+  "book": "Joel",
+  "bookId": "JOL",
+  "totalChapters": 3,
+  "totalQuestions": 30,
+  "questionsPerChapter": 10,
+  "chapters": {
+    "1": [
+      {
+        "id": "jol-1-q1",
+        "questionNumber": 1,
+        "question": "According to Joel 1:1, what is the opening statement or setting of this chapter?",
+        "options": [
+          "It records: “The word of the Lord which came to Joel, the son of Pethuel.”",
+          "It begins with a prayer of thanksgiving for deliverance in Joel",
+          "It opens with a formal census and counting of the congregation",
+          "It records a severe judgment pronounced against neighboring nations"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "It records: “The word of the Lord which came to Joel, the son of Pethuel.”",
+        "reference": "Joel 1:1",
+        "explanation": "The chapter begins directly with the statement: 'The word of the Lord which came to Joel, the son of Pethuel.'."
+      },
+      {
+        "id": "jol-1-q2",
+        "questionNumber": 2,
+        "question": "What key instruction, event, or declaration is set forth in Joel 1:2?",
+        "options": [
+          "“Come out of your sleep, you who are overcome...”",
+          "“Give ear to this, you old men, and take note, you...”",
+          "“The meal offering and the drink offering have been...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“Give ear to this, you old men, and take note, you...”",
+        "reference": "Joel 1:2",
+        "explanation": "Joel 1:2 records: 'Give ear to this, you old men, and take note, you people of the land. Has this ever been in your days, or in the days of your fathers?'."
+      },
+      {
+        "id": "jol-1-q3",
+        "questionNumber": 3,
+        "question": "What significant action or revelation occurs in Joel 1:4?",
+        "options": [
+          "“By him my vine is made waste and my...”",
+          "“The farmers are shamed, the workers in the vine-gardens...”",
+          "“What the worm did not make a meal of, has been...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“What the worm did not make a meal of, has been...”",
+        "reference": "Joel 1:4",
+        "explanation": "Joel 1:4 records: 'What the worm did not make a meal of, has been taken by the locust; and what the locust did not take, has been food for the plant-worm; and what the plant-worm did not take, has been food for the field-fly.'."
+      },
+      {
+        "id": "jol-1-q4",
+        "questionNumber": 4,
+        "question": "What truth or description is highlighted in Joel 1:6?",
+        "options": [
+          "“The meal offering and the drink offering have been...”",
+          "“Put haircloth round you and give yourselves to sorrow,...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“For a nation has come up over my land, strong and...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“For a nation has come up over my land, strong and...”",
+        "reference": "Joel 1:6",
+        "explanation": "Joel 1:6 records: 'For a nation has come up over my land, strong and without number; his teeth are the teeth of a lion, and he has the back teeth of a great lion.'."
+      },
+      {
+        "id": "jol-1-q5",
+        "questionNumber": 5,
+        "question": "According to the text, what happened or was commanded in Joel 1:8?",
+        "options": [
+          "“Make sounds of grief like a virgin dressed in haircloth for...”",
+          "“The farmers are shamed, the workers in the vine-gardens...”",
+          "“Sorrow for the day! for the day of the...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“Make sounds of grief like a virgin dressed in haircloth for...”",
+        "reference": "Joel 1:8",
+        "explanation": "Joel 1:8 records: 'Make sounds of grief like a virgin dressed in haircloth for the husband of her early years.'."
+      },
+      {
+        "id": "jol-1-q6",
+        "questionNumber": 6,
+        "question": "What central message or instruction is delivered in Joel 1:10?",
+        "options": [
+          "“Put haircloth round you and give yourselves to sorrow,...”",
+          "“The fields are wasted, the land has become dry; for the...”",
+          "“The grains have become small and dry under the...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“The fields are wasted, the land has become dry; for the...”",
+        "reference": "Joel 1:10",
+        "explanation": "Joel 1:10 records: 'The fields are wasted, the land has become dry; for the grain is wasted, the new wine is kept back, the oil is poor.'."
+      },
+      {
+        "id": "jol-1-q7",
+        "questionNumber": 7,
+        "question": "What detail regarding God's work, covenant, or people is given in Joel 1:12?",
+        "options": [
+          "“Sorrow for the day! for the day of the...”",
+          "“O Lord, my cry goes up to you: for...”",
+          "“The vine has become dry and the fig-tree is feeble; the...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“The vine has become dry and the fig-tree is feeble; the...”",
+        "reference": "Joel 1:12",
+        "explanation": "Joel 1:12 records: 'The vine has become dry and the fig-tree is feeble; the pomegranate and the palm-tree and the apple-tree, even all the trees of the field, are dry: because joy has gone from the sons of men.'."
+      },
+      {
+        "id": "jol-1-q8",
+        "questionNumber": 8,
+        "question": "What phrase or account is recorded in Joel 1:14?",
+        "options": [
+          "“The grains have become small and dry under the...”",
+          "“The word of the Lord which came to Joel,...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“Let a time be fixed for going without food, have a...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“Let a time be fixed for going without food, have a...”",
+        "reference": "Joel 1:14",
+        "explanation": "Joel 1:14 records: 'Let a time be fixed for going without food, have a holy meeting, let the old men, even all the people of the land, come together to the house of the Lord your God, crying out to the Lord.'."
+      },
+      {
+        "id": "jol-1-q9",
+        "questionNumber": 9,
+        "question": "How does the passage describe the circumstances or people in Joel 1:16?",
+        "options": [
+          "“Is not food cut off before our eyes? joy and delight...”",
+          "“O Lord, my cry goes up to you: for...”",
+          "“Give the story of it to your children, and...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“Is not food cut off before our eyes? joy and delight...”",
+        "reference": "Joel 1:16",
+        "explanation": "Joel 1:16 records: 'Is not food cut off before our eyes? joy and delight from the house of our God?'."
+      },
+      {
+        "id": "jol-1-q10",
+        "questionNumber": 10,
+        "question": "In the concluding portion of the chapter, what takes place in Joel 1:18?",
+        "options": [
+          "“The word of the Lord which came to Joel,...”",
+          "“What sounds of pain come from the beasts! the herds of...”",
+          "“Come out of your sleep, you who are overcome...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“What sounds of pain come from the beasts! the herds of...”",
+        "reference": "Joel 1:18",
+        "explanation": "Joel 1:18 records: 'What sounds of pain come from the beasts! the herds of cattle are at a loss because there is no grass for them; even the flocks of sheep are no longer to be seen.'."
+      }
+    ],
+    "2": [
+      {
+        "id": "jol-2-q1",
+        "questionNumber": 1,
+        "question": "According to Joel 2:1, what is the opening statement or setting of this chapter?",
+        "options": [
+          "It records: “Let the horn be sounded in Zion, and a war-cry in my holy mountai...”",
+          "It begins with a prayer of thanksgiving for deliverance in Joel",
+          "It opens with a formal census and counting of the congregation",
+          "It records a severe judgment pronounced against neighboring nations"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "It records: “Let the horn be sounded in Zion, and a war-cry in my holy mountai...”",
+        "reference": "Joel 2:1",
+        "explanation": "The chapter begins directly with the statement: 'Let the horn be sounded in Zion, and a war-cry in my holy mountain; let all the people of the land be troubled: for the day of the Lord is coming;'."
+      },
+      {
+        "id": "jol-2-q2",
+        "questionNumber": 2,
+        "question": "What key instruction, event, or declaration is set forth in Joel 2:3?",
+        "options": [
+          "“At their coming the people are bent with pain:...”",
+          "“Before them fire sends destruction, and after them flame is burning:...”",
+          "“The earth is troubled before them and the heavens...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“Before them fire sends destruction, and after them flame is burning:...”",
+        "reference": "Joel 2:3",
+        "explanation": "Joel 2:3 records: 'Before them fire sends destruction, and after them flame is burning: the land is like the garden of Eden before them, and after them an unpeopled waste; truly, nothing has been kept safe from them.'."
+      },
+      {
+        "id": "jol-2-q3",
+        "questionNumber": 3,
+        "question": "What significant action or revelation occurs in Joel 2:6?",
+        "options": [
+          "“They make a rush on the town, running on...”",
+          "“Let your hearts be broken, and not your clothing,...”",
+          "“At their coming the people are bent with pain: all faces...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“At their coming the people are bent with pain: all faces...”",
+        "reference": "Joel 2:6",
+        "explanation": "Joel 2:6 records: 'At their coming the people are bent with pain: all faces become red together.'."
+      },
+      {
+        "id": "jol-2-q4",
+        "questionNumber": 4,
+        "question": "What truth or description is highlighted in Joel 2:9?",
+        "options": [
+          "“But even now, says the Lord, come back to...”",
+          "“Get the people together, make the mass of the...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“They make a rush on the town, running on the wall;...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“They make a rush on the town, running on the wall;...”",
+        "reference": "Joel 2:9",
+        "explanation": "Joel 2:9 records: 'They make a rush on the town, running on the wall; they go up into the houses and in through the windows like a thief.'."
+      },
+      {
+        "id": "jol-2-q5",
+        "questionNumber": 5,
+        "question": "According to the text, what happened or was commanded in Joel 2:12?",
+        "options": [
+          "“But even now, says the Lord, come back to me with...”",
+          "“Let a horn be sounded in Zion, let a...”",
+          "“And the Lord made answer and said to his...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“But even now, says the Lord, come back to me with...”",
+        "reference": "Joel 2:12",
+        "explanation": "Joel 2:12 records: 'But even now, says the Lord, come back to me with all your heart, keeping from food, with weeping and with sorrow:'."
+      },
+      {
+        "id": "jol-2-q6",
+        "questionNumber": 6,
+        "question": "What central message or instruction is delivered in Joel 2:15?",
+        "options": [
+          "“Then the Lord had a care for the honour...”",
+          "“Let a horn be sounded in Zion, let a time be...”",
+          "“Have no fear, you beasts of the field, for...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“Let a horn be sounded in Zion, let a time be...”",
+        "reference": "Joel 2:15",
+        "explanation": "Joel 2:15 records: 'Let a horn be sounded in Zion, let a time be fixed for going without food, have a holy meeting:'."
+      },
+      {
+        "id": "jol-2-q7",
+        "questionNumber": 7,
+        "question": "What detail regarding God's work, covenant, or people is given in Joel 2:18?",
+        "options": [
+          "“Have no fear, O land; be glad with great...”",
+          "“I will give back to you the years which...”",
+          "“Then the Lord had a care for the honour of his...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“Then the Lord had a care for the honour of his...”",
+        "reference": "Joel 2:18",
+        "explanation": "Joel 2:18 records: 'Then the Lord had a care for the honour of his land and had pity on his people.'."
+      },
+      {
+        "id": "jol-2-q8",
+        "questionNumber": 8,
+        "question": "What phrase or account is recorded in Joel 2:21?",
+        "options": [
+          "“And the floors will be full of grain, and...”",
+          "“And after that, it will come about, says the...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“Have no fear, O land; be glad with great joy; for...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“Have no fear, O land; be glad with great joy; for...”",
+        "reference": "Joel 2:21",
+        "explanation": "Joel 2:21 records: 'Have no fear, O land; be glad with great joy; for the Lord has done great things.'."
+      },
+      {
+        "id": "jol-2-q9",
+        "questionNumber": 9,
+        "question": "How does the passage describe the circumstances or people in Joel 2:24?",
+        "options": [
+          "“And the floors will be full of grain, and the crushing-places...”",
+          "“And you will be certain that I am in...”",
+          "“The sun will be made dark and the moon...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“And the floors will be full of grain, and the crushing-places...”",
+        "reference": "Joel 2:24",
+        "explanation": "Joel 2:24 records: 'And the floors will be full of grain, and the crushing-places overflowing with wine and oil.'."
+      },
+      {
+        "id": "jol-2-q10",
+        "questionNumber": 10,
+        "question": "In the concluding portion of the chapter, what takes place in Joel 2:27?",
+        "options": [
+          "“And I will let wonders be seen in the...”",
+          "“And you will be certain that I am in Israel, and...”",
+          "“For a day of dark and deep shade is...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“And you will be certain that I am in Israel, and...”",
+        "reference": "Joel 2:27",
+        "explanation": "Joel 2:27 records: 'And you will be certain that I am in Israel, and that I am the Lord your God, and there is no other: and my people will never be shamed.'."
+      }
+    ],
+    "3": [
+      {
+        "id": "jol-3-q1",
+        "questionNumber": 1,
+        "question": "According to Joel 3:1, what is the opening statement or setting of this chapter?",
+        "options": [
+          "It records: “For in those days and in that time, when I let the fate of Judah ...”",
+          "It begins with a prayer of thanksgiving for deliverance in Joel",
+          "It opens with a formal census and counting of the congregation",
+          "It records a severe judgment pronounced against neighboring nations"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "It records: “For in those days and in that time, when I let the fate of Judah ...”",
+        "reference": "Joel 3:1",
+        "explanation": "The chapter begins directly with the statement: 'For in those days and in that time, when I let the fate of Judah and Jerusalem be changed,'."
+      },
+      {
+        "id": "jol-3-q2",
+        "questionNumber": 2,
+        "question": "What key instruction, event, or declaration is set forth in Joel 3:2?",
+        "options": [
+          "“For you have taken my silver and my gold,...”",
+          "“I will get together all the nations, and make them come...”",
+          "“Give this out among the nations; make ready for...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“I will get together all the nations, and make them come...”",
+        "reference": "Joel 3:2",
+        "explanation": "Joel 3:2 records: 'I will get together all the nations, and make them come down into the valley of Jehoshaphat; and there I will take up with them the cause of my people and of my heritage Israel, whom they have sent wandering among the nations, and of my land which has been parted by them.'."
+      },
+      {
+        "id": "jol-3-q3",
+        "questionNumber": 3,
+        "question": "What significant action or revelation occurs in Joel 3:4?",
+        "options": [
+          "“See, I will have them moved from the place...”",
+          "“Come quickly, all you nations round about, and get...”",
+          "“And further, what are you to me, O Tyre and Zidon...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“And further, what are you to me, O Tyre and Zidon...”",
+        "reference": "Joel 3:4",
+        "explanation": "Joel 3:4 records: 'And further, what are you to me, O Tyre and Zidon and all the circle of Philistia? will you give me back any payment? and if you do, quickly and suddenly I will send it back on your head,'."
+      },
+      {
+        "id": "jol-3-q4",
+        "questionNumber": 4,
+        "question": "What truth or description is highlighted in Joel 3:6?",
+        "options": [
+          "“Give this out among the nations; make ready for...”",
+          "“Put in the blade, for the grain is ready:...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“And the children of Judah and the children of Jerusalem you...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“And the children of Judah and the children of Jerusalem you...”",
+        "reference": "Joel 3:6",
+        "explanation": "Joel 3:6 records: 'And the children of Judah and the children of Jerusalem you have given for a price to the sons of the Greeks, to send them far away from their land:'."
+      },
+      {
+        "id": "jol-3-q5",
+        "questionNumber": 5,
+        "question": "According to the text, what happened or was commanded in Joel 3:8?",
+        "options": [
+          "“I will give your sons and your daughters into the hands...”",
+          "“Come quickly, all you nations round about, and get...”",
+          "“The sun and the moon have become dark, and...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“I will give your sons and your daughters into the hands...”",
+        "reference": "Joel 3:8",
+        "explanation": "Joel 3:8 records: 'I will give your sons and your daughters into the hands of the children of Judah for a price, and they will give them for a price to the men of Sheba, a nation far off: for the Lord has said it.'."
+      },
+      {
+        "id": "jol-3-q6",
+        "questionNumber": 6,
+        "question": "What central message or instruction is delivered in Joel 3:10?",
+        "options": [
+          "“Put in the blade, for the grain is ready:...”",
+          "“Get your plough-blades hammered into swords, and your vine-knives into spears:...”",
+          "“And you will be certain that I am the...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“Get your plough-blades hammered into swords, and your vine-knives into spears:...”",
+        "reference": "Joel 3:10",
+        "explanation": "Joel 3:10 records: 'Get your plough-blades hammered into swords, and your vine-knives into spears: let the feeble say, I am strong.'."
+      },
+      {
+        "id": "jol-3-q7",
+        "questionNumber": 7,
+        "question": "What detail regarding God's work, covenant, or people is given in Joel 3:12?",
+        "options": [
+          "“The sun and the moon have become dark, and...”",
+          "“Egypt will be a waste and Edom a land...”",
+          "“Let the nations be awake, and come to the valley of...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“Let the nations be awake, and come to the valley of...”",
+        "reference": "Joel 3:12",
+        "explanation": "Joel 3:12 records: 'Let the nations be awake, and come to the valley of Jehoshaphat: for there I will be seated as judge of all the nations round about.'."
+      },
+      {
+        "id": "jol-3-q8",
+        "questionNumber": 8,
+        "question": "What phrase or account is recorded in Joel 3:14?",
+        "options": [
+          "“And you will be certain that I am the...”",
+          "“For in those days and in that time, when...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“Masses on masses in the valley of decision! for the day...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“Masses on masses in the valley of decision! for the day...”",
+        "reference": "Joel 3:14",
+        "explanation": "Joel 3:14 records: 'Masses on masses in the valley of decision! for the day of the Lord is near in the valley of decision.'."
+      },
+      {
+        "id": "jol-3-q9",
+        "questionNumber": 9,
+        "question": "How does the passage describe the circumstances or people in Joel 3:16?",
+        "options": [
+          "“And the Lord will be thundering from Zion, and his voice...”",
+          "“Egypt will be a waste and Edom a land...”",
+          "“I will get together all the nations, and make...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“And the Lord will be thundering from Zion, and his voice...”",
+        "reference": "Joel 3:16",
+        "explanation": "Joel 3:16 records: 'And the Lord will be thundering from Zion, and his voice will be sounding from Jerusalem; and the heavens and the earth will be shaking: but the Lord will be a breastplate for his people and a strong place for the children of Israel.'."
+      },
+      {
+        "id": "jol-3-q10",
+        "questionNumber": 10,
+        "question": "In the concluding portion of the chapter, what takes place in Joel 3:18?",
+        "options": [
+          "“For in those days and in that time, when...”",
+          "“And it will come about in that day that the mountains...”",
+          "“And further, what are you to me, O Tyre...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“And it will come about in that day that the mountains...”",
+        "reference": "Joel 3:18",
+        "explanation": "Joel 3:18 records: 'And it will come about in that day that the mountains will be dropping sweet wine, and the hills will be flowing with milk, and all the streams of Judah will be flowing with water; and a fountain will come out from the house of the Lord, watering the valley of acacia-trees.'."
+      }
+    ]
+  }
+}

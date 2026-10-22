@@ -1,0 +1,921 @@
+{
+  "book": "Galatians",
+  "bookId": "GAL",
+  "totalChapters": 6,
+  "totalQuestions": 60,
+  "questionsPerChapter": 10,
+  "chapters": {
+    "1": [
+      {
+        "id": "gal-1-q1",
+        "questionNumber": 1,
+        "question": "According to Galatians 1:1, what is the opening statement or setting of this chapter?",
+        "options": [
+          "It records: “Paul, an Apostle (not from men, and not through man, but through ...”",
+          "It begins with a prayer of thanksgiving for deliverance in Galatians",
+          "It opens with a formal census and counting of the congregation",
+          "It records a severe judgment pronounced against neighboring nations"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "It records: “Paul, an Apostle (not from men, and not through man, but through ...”",
+        "reference": "Galatians 1:1",
+        "explanation": "The chapter begins directly with the statement: 'Paul, an Apostle (not from men, and not through man, but through Jesus Christ, and God the Father, who made him come back from the dead),'."
+      },
+      {
+        "id": "gal-1-q2",
+        "questionNumber": 2,
+        "question": "What key instruction, event, or declaration is set forth in Galatians 1:2?",
+        "options": [
+          "“To whom be the glory for ever and ever....”",
+          "“And all the brothers who are with me, to the churches...”",
+          "“As we have said before, so say I now...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“And all the brothers who are with me, to the churches...”",
+        "reference": "Galatians 1:2",
+        "explanation": "Galatians 1:2 records: 'And all the brothers who are with me, to the churches of Galatia:'."
+      },
+      {
+        "id": "gal-1-q3",
+        "questionNumber": 3,
+        "question": "What significant action or revelation occurs in Galatians 1:4?",
+        "options": [
+          "“Which is not another sort: only there are some...”",
+          "“Because I say to you, my brothers, that the...”",
+          "“Who gave himself for our sins, so that he might make...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“Who gave himself for our sins, so that he might make...”",
+        "reference": "Galatians 1:4",
+        "explanation": "Galatians 1:4 records: 'Who gave himself for our sins, so that he might make us free from this present evil world, after the purpose of our God and Father:'."
+      },
+      {
+        "id": "gal-1-q4",
+        "questionNumber": 4,
+        "question": "What truth or description is highlighted in Galatians 1:6?",
+        "options": [
+          "“As we have said before, so say I now...”",
+          "“For news has come to you of my way...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“I am surprised that you are being so quickly turned away...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“I am surprised that you are being so quickly turned away...”",
+        "reference": "Galatians 1:6",
+        "explanation": "Galatians 1:6 records: 'I am surprised that you are being so quickly turned away from him whose word came to you in the grace of Christ, to good news of a different sort;'."
+      },
+      {
+        "id": "gal-1-q5",
+        "questionNumber": 5,
+        "question": "According to the text, what happened or was commanded in Galatians 1:8?",
+        "options": [
+          "“But even if we, or an angel from heaven, were to...”",
+          "“Because I say to you, my brothers, that the...”",
+          "“But when it was the good pleasure of God,...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“But even if we, or an angel from heaven, were to...”",
+        "reference": "Galatians 1:8",
+        "explanation": "Galatians 1:8 records: 'But even if we, or an angel from heaven, were to be a preacher to you of good news other than that which we have given you, let there be a curse on him.'."
+      },
+      {
+        "id": "gal-1-q6",
+        "questionNumber": 6,
+        "question": "What central message or instruction is delivered in Galatians 1:10?",
+        "options": [
+          "“For news has come to you of my way...”",
+          "“Am I now using arguments to men, or God? or is...”",
+          "“And I went not up to Jerusalem to those...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“Am I now using arguments to men, or God? or is...”",
+        "reference": "Galatians 1:10",
+        "explanation": "Galatians 1:10 records: 'Am I now using arguments to men, or God? or is it my desire to give men pleasure? if I was still pleasing men, I would not be a servant of Christ.'."
+      },
+      {
+        "id": "gal-1-q7",
+        "questionNumber": 7,
+        "question": "What detail regarding God's work, covenant, or people is given in Galatians 1:12?",
+        "options": [
+          "“But when it was the good pleasure of God,...”",
+          "“But of the other Apostles I saw only James,...”",
+          "“For I did not get it from man, and I was...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“For I did not get it from man, and I was...”",
+        "reference": "Galatians 1:12",
+        "explanation": "Galatians 1:12 records: 'For I did not get it from man, and I was not given teaching in it, but it came to me through revelation of Jesus Christ.'."
+      },
+      {
+        "id": "gal-1-q8",
+        "questionNumber": 8,
+        "question": "What phrase or account is recorded in Galatians 1:14?",
+        "options": [
+          "“And I went not up to Jerusalem to those...”",
+          "“Then I came to the parts of Syria and...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“And I went farther in the Jews' religion than a number...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“And I went farther in the Jews' religion than a number...”",
+        "reference": "Galatians 1:14",
+        "explanation": "Galatians 1:14 records: 'And I went farther in the Jews' religion than a number of my generation among my countrymen, having a more burning interest in the beliefs handed down from my fathers.'."
+      },
+      {
+        "id": "gal-1-q9",
+        "questionNumber": 9,
+        "question": "How does the passage describe the circumstances or people in Galatians 1:16?",
+        "options": [
+          "“To give the revelation of his Son in me, so that...”",
+          "“But of the other Apostles I saw only James,...”",
+          "“Only it came to their ears that he who...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“To give the revelation of his Son in me, so that...”",
+        "reference": "Galatians 1:16",
+        "explanation": "Galatians 1:16 records: 'To give the revelation of his Son in me, so that I might give the news of him to the Gentiles; then I did not take the opinion of flesh and blood,'."
+      },
+      {
+        "id": "gal-1-q10",
+        "questionNumber": 10,
+        "question": "In the concluding portion of the chapter, what takes place in Galatians 1:18?",
+        "options": [
+          "“Then I came to the parts of Syria and...”",
+          "“Then after three years I went up to Jerusalem to see...”",
+          "“Paul, an Apostle (not from men, and not through...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“Then after three years I went up to Jerusalem to see...”",
+        "reference": "Galatians 1:18",
+        "explanation": "Galatians 1:18 records: 'Then after three years I went up to Jerusalem to see Cephas, and was there with him fifteen days.'."
+      }
+    ],
+    "2": [
+      {
+        "id": "gal-2-q1",
+        "questionNumber": 1,
+        "question": "According to Galatians 2:1, what is the opening statement or setting of this chapter?",
+        "options": [
+          "It records: “Then after the space of fourteen years I went up again to Jerusal...”",
+          "It begins with a prayer of thanksgiving for deliverance in Galatians",
+          "It opens with a formal census and counting of the congregation",
+          "It records a severe judgment pronounced against neighboring nations"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "It records: “Then after the space of fourteen years I went up again to Jerusal...”",
+        "reference": "Galatians 2:1",
+        "explanation": "The chapter begins directly with the statement: 'Then after the space of fourteen years I went up again to Jerusalem with Barnabas, taking Titus with me.'."
+      },
+      {
+        "id": "gal-2-q2",
+        "questionNumber": 2,
+        "question": "What key instruction, event, or declaration is set forth in Galatians 2:2?",
+        "options": [
+          "“To whom we gave way not even for an...”",
+          "“And I went up by revelation; and I put before them...”",
+          "“When they saw the grace which was given to...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“And I went up by revelation; and I put before them...”",
+        "reference": "Galatians 2:2",
+        "explanation": "Galatians 2:2 records: 'And I went up by revelation; and I put before them the good news which I was preaching among the Gentiles, but privately before those who were of good name, so that the work which I was or had been doing might not be without effect.'."
+      },
+      {
+        "id": "gal-2-q3",
+        "questionNumber": 3,
+        "question": "What significant action or revelation occurs in Galatians 2:4?",
+        "options": [
+          "“But, quite the opposite, when they saw that I...”",
+          "“But when Cephas came to Antioch, I made a...”",
+          "“And that because of the false brothers let in secretly, who...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“And that because of the false brothers let in secretly, who...”",
+        "reference": "Galatians 2:4",
+        "explanation": "Galatians 2:4 records: 'And that because of the false brothers let in secretly, who came searching out our free condition which we have in Christ Jesus, so that they might make servants of us;'."
+      },
+      {
+        "id": "gal-2-q4",
+        "questionNumber": 4,
+        "question": "What truth or description is highlighted in Galatians 2:6?",
+        "options": [
+          "“When they saw the grace which was given to...”",
+          "“And the rest of the Jews went after him,...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“But from those who seemed to be important (whatever they were...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“But from those who seemed to be important (whatever they were...”",
+        "reference": "Galatians 2:6",
+        "explanation": "Galatians 2:6 records: 'But from those who seemed to be important (whatever they were has no weight with me: God does not take man's person into account): those who seemed to be important gave nothing new to me;'."
+      },
+      {
+        "id": "gal-2-q5",
+        "questionNumber": 5,
+        "question": "According to the text, what happened or was commanded in Galatians 2:8?",
+        "options": [
+          "“(Because he who was working in Peter as the Apostle of...”",
+          "“But when Cephas came to Antioch, I made a...”",
+          "“We being Jews by birth, and not sinners of...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“(Because he who was working in Peter as the Apostle of...”",
+        "reference": "Galatians 2:8",
+        "explanation": "Galatians 2:8 records: '(Because he who was working in Peter as the Apostle of the circumcision was working no less in me among the Gentiles);'."
+      },
+      {
+        "id": "gal-2-q6",
+        "questionNumber": 6,
+        "question": "What central message or instruction is delivered in Galatians 2:10?",
+        "options": [
+          "“And the rest of the Jews went after him,...”",
+          "“Only it was their desire that we would give thought to...”",
+          "“But if, while we were desiring to get righteousness...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“Only it was their desire that we would give thought to...”",
+        "reference": "Galatians 2:10",
+        "explanation": "Galatians 2:10 records: 'Only it was their desire that we would give thought to the poor; which very thing I had much in mind to do.'."
+      },
+      {
+        "id": "gal-2-q7",
+        "questionNumber": 7,
+        "question": "What detail regarding God's work, covenant, or people is given in Galatians 2:12?",
+        "options": [
+          "“We being Jews by birth, and not sinners of...”",
+          "“For I, through the law, have become dead to...”",
+          "“For before certain men came from James, he did take food...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“For before certain men came from James, he did take food...”",
+        "reference": "Galatians 2:12",
+        "explanation": "Galatians 2:12 records: 'For before certain men came from James, he did take food with the Gentiles: but when they came, he went back and made himself separate, fearing those who were of the circumcision.'."
+      },
+      {
+        "id": "gal-2-q8",
+        "questionNumber": 8,
+        "question": "What phrase or account is recorded in Galatians 2:14?",
+        "options": [
+          "“But if, while we were desiring to get righteousness...”",
+          "“Then after the space of fourteen years I went...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“But when I saw that they were not living uprightly in...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“But when I saw that they were not living uprightly in...”",
+        "reference": "Galatians 2:14",
+        "explanation": "Galatians 2:14 records: 'But when I saw that they were not living uprightly in agreement with the true words of the good news, I said to Cephas before them all, If you, being a Jew, are living like the Gentiles, and not like the Jews, how will you make the Gentiles do the same as the Jews?'."
+      },
+      {
+        "id": "gal-2-q9",
+        "questionNumber": 9,
+        "question": "How does the passage describe the circumstances or people in Galatians 2:16?",
+        "options": [
+          "“Being conscious that a man does not get righteousness by the...”",
+          "“For I, through the law, have become dead to...”",
+          "“And I went up by revelation; and I put...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“Being conscious that a man does not get righteousness by the...”",
+        "reference": "Galatians 2:16",
+        "explanation": "Galatians 2:16 records: 'Being conscious that a man does not get righteousness by the works of the law, but through faith in Jesus Christ, we had faith in Christ Jesus, so that we might get righteousness by faith in Christ, and not by the works of the law: because by the works of the law will no flesh get righteousness.'."
+      },
+      {
+        "id": "gal-2-q10",
+        "questionNumber": 10,
+        "question": "In the concluding portion of the chapter, what takes place in Galatians 2:18?",
+        "options": [
+          "“Then after the space of fourteen years I went...”",
+          "“For if I put up again those things which I gave...”",
+          "“And that because of the false brothers let in...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“For if I put up again those things which I gave...”",
+        "reference": "Galatians 2:18",
+        "explanation": "Galatians 2:18 records: 'For if I put up again those things which I gave to destruction, I am seen to be a wrongdoer.'."
+      }
+    ],
+    "3": [
+      {
+        "id": "gal-3-q1",
+        "questionNumber": 1,
+        "question": "According to Galatians 3:1, what is the opening statement or setting of this chapter?",
+        "options": [
+          "It records: “O foolish Galatians, by what strange powers have you been tricked...”",
+          "It begins with a prayer of thanksgiving for deliverance in Galatians",
+          "It opens with a formal census and counting of the congregation",
+          "It records a severe judgment pronounced against neighboring nations"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "It records: “O foolish Galatians, by what strange powers have you been tricked...”",
+        "reference": "Galatians 3:1",
+        "explanation": "The chapter begins directly with the statement: 'O foolish Galatians, by what strange powers have you been tricked, to whom it was made clear that Jesus Christ was put to death on the cross?'."
+      },
+      {
+        "id": "gal-3-q2",
+        "questionNumber": 2,
+        "question": "What key instruction, event, or declaration is set forth in Galatians 3:2?",
+        "options": [
+          "“He who gives you the Spirit, and does works...”",
+          "“Give me an answer to this one question, Did the Spirit...”",
+          "“So then those who are of faith have a...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“Give me an answer to this one question, Did the Spirit...”",
+        "reference": "Galatians 3:2",
+        "explanation": "Galatians 3:2 records: 'Give me an answer to this one question, Did the Spirit come to you through the works of the law, or by the hearing of faith?'."
+      },
+      {
+        "id": "gal-3-q3",
+        "questionNumber": 3,
+        "question": "What significant action or revelation occurs in Galatians 3:4?",
+        "options": [
+          "“Be certain, then, that those who are of faith,...”",
+          "“Now that no man gets righteousness by the law...”",
+          "“Did you undergo such a number of things to no purpose?...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“Did you undergo such a number of things to no purpose?...”",
+        "reference": "Galatians 3:4",
+        "explanation": "Galatians 3:4 records: 'Did you undergo such a number of things to no purpose? if it is in fact to no purpose.'."
+      },
+      {
+        "id": "gal-3-q4",
+        "questionNumber": 4,
+        "question": "What truth or description is highlighted in Galatians 3:6?",
+        "options": [
+          "“So then those who are of faith have a...”",
+          "“Christ has made us free from the curse of...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“Even as Abraham had faith in God, and it was put...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“Even as Abraham had faith in God, and it was put...”",
+        "reference": "Galatians 3:6",
+        "explanation": "Galatians 3:6 records: 'Even as Abraham had faith in God, and it was put to his account as righteousness.'."
+      },
+      {
+        "id": "gal-3-q5",
+        "questionNumber": 5,
+        "question": "According to the text, what happened or was commanded in Galatians 3:8?",
+        "options": [
+          "“And the holy Writings, seeing before the event that God would...”",
+          "“Now that no man gets righteousness by the law...”",
+          "“Brothers, as men would say, even a man's agreement,...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“And the holy Writings, seeing before the event that God would...”",
+        "reference": "Galatians 3:8",
+        "explanation": "Galatians 3:8 records: 'And the holy Writings, seeing before the event that God would give the Gentiles righteousness by faith, gave the good news before to Abraham, saying, In you will all the nations have a blessing.'."
+      },
+      {
+        "id": "gal-3-q6",
+        "questionNumber": 6,
+        "question": "What central message or instruction is delivered in Galatians 3:10?",
+        "options": [
+          "“Christ has made us free from the curse of...”",
+          "“For all who are of the works of the law are...”",
+          "“Now this I say: The law, which came four...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“For all who are of the works of the law are...”",
+        "reference": "Galatians 3:10",
+        "explanation": "Galatians 3:10 records: 'For all who are of the works of the law are under a curse: because it is said in the Writings, A curse is on everyone who does not keep on doing all the things which are ordered in the book of the law.'."
+      },
+      {
+        "id": "gal-3-q7",
+        "questionNumber": 7,
+        "question": "What detail regarding God's work, covenant, or people is given in Galatians 3:12?",
+        "options": [
+          "“Brothers, as men would say, even a man's agreement,...”",
+          "“What then is the law? It was an addition...”",
+          "“And the law is not of faith; but, He who does...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“And the law is not of faith; but, He who does...”",
+        "reference": "Galatians 3:12",
+        "explanation": "Galatians 3:12 records: 'And the law is not of faith; but, He who does them will have life by them.'."
+      },
+      {
+        "id": "gal-3-q8",
+        "questionNumber": 8,
+        "question": "What phrase or account is recorded in Galatians 3:14?",
+        "options": [
+          "“Now this I say: The law, which came four...”",
+          "“Is the law then against the words of God?...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“So that on the Gentiles might come the blessing of Abraham...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“So that on the Gentiles might come the blessing of Abraham...”",
+        "reference": "Galatians 3:14",
+        "explanation": "Galatians 3:14 records: 'So that on the Gentiles might come the blessing of Abraham in Christ Jesus; in order that we through faith might have the Spirit which God had undertaken to give.'."
+      },
+      {
+        "id": "gal-3-q9",
+        "questionNumber": 9,
+        "question": "How does the passage describe the circumstances or people in Galatians 3:16?",
+        "options": [
+          "“Now to Abraham were the undertakings given, and to his seed....”",
+          "“What then is the law? It was an addition...”",
+          "“But before faith came, we were kept in prison...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“Now to Abraham were the undertakings given, and to his seed....”",
+        "reference": "Galatians 3:16",
+        "explanation": "Galatians 3:16 records: 'Now to Abraham were the undertakings given, and to his seed. He says not, And to seeds, as of a great number; but as of one, he says, And to your seed, which is Christ.'."
+      },
+      {
+        "id": "gal-3-q10",
+        "questionNumber": 10,
+        "question": "In the concluding portion of the chapter, what takes place in Galatians 3:18?",
+        "options": [
+          "“Is the law then against the words of God?...”",
+          "“Because if the heritage is by the law, it is no...”",
+          "“But now that faith is come, we are no...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“Because if the heritage is by the law, it is no...”",
+        "reference": "Galatians 3:18",
+        "explanation": "Galatians 3:18 records: 'Because if the heritage is by the law, it is no longer dependent on the word of God; but God gave it to Abraham by his word.'."
+      }
+    ],
+    "4": [
+      {
+        "id": "gal-4-q1",
+        "questionNumber": 1,
+        "question": "According to Galatians 4:1, what is the opening statement or setting of this chapter?",
+        "options": [
+          "It records: “But I say that as long as the son is a child, he is in no way dif...”",
+          "It begins with a prayer of thanksgiving for deliverance in Galatians",
+          "It opens with a formal census and counting of the congregation",
+          "It records a severe judgment pronounced against neighboring nations"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "It records: “But I say that as long as the son is a child, he is in no way dif...”",
+        "reference": "Galatians 4:1",
+        "explanation": "The chapter begins directly with the statement: 'But I say that as long as the son is a child, he is in no way different from a servant, though he is lord of all;'."
+      },
+      {
+        "id": "gal-4-q2",
+        "questionNumber": 2,
+        "question": "What key instruction, event, or declaration is set forth in Galatians 4:3?",
+        "options": [
+          "“And because you are sons, God has sent out...”",
+          "“So we, when we were young, were kept under the first...”",
+          "“You keep days, and months, and fixed times, and...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“So we, when we were young, were kept under the first...”",
+        "reference": "Galatians 4:3",
+        "explanation": "Galatians 4:3 records: 'So we, when we were young, were kept under the first rules of the world;'."
+      },
+      {
+        "id": "gal-4-q3",
+        "questionNumber": 3,
+        "question": "What significant action or revelation occurs in Galatians 4:6?",
+        "options": [
+          "“But now that you have come to have knowledge...”",
+          "“But you have knowledge that with a feeble body...”",
+          "“And because you are sons, God has sent out the Spirit...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“And because you are sons, God has sent out the Spirit...”",
+        "reference": "Galatians 4:6",
+        "explanation": "Galatians 4:6 records: 'And because you are sons, God has sent out the Spirit of his Son into our hearts, saying, Abba, Father.'."
+      },
+      {
+        "id": "gal-4-q4",
+        "questionNumber": 4,
+        "question": "What truth or description is highlighted in Galatians 4:9?",
+        "options": [
+          "“My desire for you, brothers, is that you may...”",
+          "“So then am I no longer your friend, because...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“But now that you have come to have knowledge of God,...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“But now that you have come to have knowledge of God,...”",
+        "reference": "Galatians 4:9",
+        "explanation": "Galatians 4:9 records: 'But now that you have come to have knowledge of God, or more truly, God has knowledge of you, how is it that you go back again to the poor and feeble first things, desiring to be servants to them again?'."
+      },
+      {
+        "id": "gal-4-q5",
+        "questionNumber": 5,
+        "question": "According to the text, what happened or was commanded in Galatians 4:12?",
+        "options": [
+          "“My desire for you, brothers, is that you may be as...”",
+          "“Where then is that happy condition of yours? because...”",
+          "“My children, of whom I am again in birth-pains...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“My desire for you, brothers, is that you may be as...”",
+        "reference": "Galatians 4:12",
+        "explanation": "Galatians 4:12 records: 'My desire for you, brothers, is that you may be as I am, because I am as you are. You have done me no wrong;'."
+      },
+      {
+        "id": "gal-4-q6",
+        "questionNumber": 6,
+        "question": "What central message or instruction is delivered in Galatians 4:15?",
+        "options": [
+          "“But it is good to have an interest in...”",
+          "“Where then is that happy condition of yours? because I give...”",
+          "“Because it is in the Writings, that Abraham had...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“Where then is that happy condition of yours? because I give...”",
+        "reference": "Galatians 4:15",
+        "explanation": "Galatians 4:15 records: 'Where then is that happy condition of yours? because I give you witness, that, if possible, you would have taken out your eyes and given them to me.'."
+      },
+      {
+        "id": "gal-4-q7",
+        "questionNumber": 7,
+        "question": "What detail regarding God's work, covenant, or people is given in Galatians 4:18?",
+        "options": [
+          "“Say, you whose desire it is to be under...”",
+          "“Now this Hagar is the mountain Sinai in Arabia,...”",
+          "“But it is good to have an interest in a good...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“But it is good to have an interest in a good...”",
+        "reference": "Galatians 4:18",
+        "explanation": "Galatians 4:18 records: 'But it is good to have an interest in a good cause at all times, and not only when I am present with you.'."
+      },
+      {
+        "id": "gal-4-q8",
+        "questionNumber": 8,
+        "question": "What phrase or account is recorded in Galatians 4:21?",
+        "options": [
+          "“Which things have a secret sense; because these women...”",
+          "“Now we, brothers, as Isaac was, are the children...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“Say, you whose desire it is to be under the law,...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“Say, you whose desire it is to be under the law,...”",
+        "reference": "Galatians 4:21",
+        "explanation": "Galatians 4:21 records: 'Say, you whose desire it is to be under the law, do you not give ear to the law?'."
+      },
+      {
+        "id": "gal-4-q9",
+        "questionNumber": 9,
+        "question": "How does the passage describe the circumstances or people in Galatians 4:24?",
+        "options": [
+          "“Which things have a secret sense; because these women are the...”",
+          "“For it is in the Writings, You who have...”",
+          "“But I say that as long as the son...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“Which things have a secret sense; because these women are the...”",
+        "reference": "Galatians 4:24",
+        "explanation": "Galatians 4:24 records: 'Which things have a secret sense; because these women are the two agreements; one from the mountain of Sinai, giving birth to servants, which is Hagar.'."
+      },
+      {
+        "id": "gal-4-q10",
+        "questionNumber": 10,
+        "question": "In the concluding portion of the chapter, what takes place in Galatians 4:27?",
+        "options": [
+          "“What then do the Writings say? Send away the...”",
+          "“For it is in the Writings, You who have never given...”",
+          "“So we, when we were young, were kept under...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“For it is in the Writings, You who have never given...”",
+        "reference": "Galatians 4:27",
+        "explanation": "Galatians 4:27 records: 'For it is in the Writings, You who have never given birth, be glad; give cries of joy, you who have had no birth-pains; for the children of her who has been given up by her husband are more than those of the woman who has a husband.'."
+      }
+    ],
+    "5": [
+      {
+        "id": "gal-5-q1",
+        "questionNumber": 1,
+        "question": "According to Galatians 5:1, what is the opening statement or setting of this chapter?",
+        "options": [
+          "It records: “Christ has truly made us free: then keep your free condition and ...”",
+          "It begins with a prayer of thanksgiving for deliverance in Galatians",
+          "It opens with a formal census and counting of the congregation",
+          "It records a severe judgment pronounced against neighboring nations"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "It records: “Christ has truly made us free: then keep your free condition and ...”",
+        "reference": "Galatians 5:1",
+        "explanation": "The chapter begins directly with the statement: 'Christ has truly made us free: then keep your free condition and let no man put a yoke on you again.'."
+      },
+      {
+        "id": "gal-5-q2",
+        "questionNumber": 2,
+        "question": "What key instruction, event, or declaration is set forth in Galatians 5:2?",
+        "options": [
+          "“For we through the Spirit by faith are waiting...”",
+          "“See, I Paul say to you, that if you undergo circumcision,...”",
+          "“A little leaven makes a change in all the...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“See, I Paul say to you, that if you undergo circumcision,...”",
+        "reference": "Galatians 5:2",
+        "explanation": "Galatians 5:2 records: 'See, I Paul say to you, that if you undergo circumcision, Christ will be of no use to you.'."
+      },
+      {
+        "id": "gal-5-q3",
+        "questionNumber": 3,
+        "question": "What significant action or revelation occurs in Galatians 5:4?",
+        "options": [
+          "“You were going on well; who was the cause...”",
+          "“But I, brothers, if I am still preaching circumcision,...”",
+          "“You are cut off from Christ, you who would have righteousness...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“You are cut off from Christ, you who would have righteousness...”",
+        "reference": "Galatians 5:4",
+        "explanation": "Galatians 5:4 records: 'You are cut off from Christ, you who would have righteousness by the law; you are turned away from grace.'."
+      },
+      {
+        "id": "gal-5-q4",
+        "questionNumber": 4,
+        "question": "What truth or description is highlighted in Galatians 5:6?",
+        "options": [
+          "“A little leaven makes a change in all the...”",
+          "“Because you, brothers, were marked out to be free;...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“Because in Christ Jesus, having circumcision or not having circumcision are...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“Because in Christ Jesus, having circumcision or not having circumcision are...”",
+        "reference": "Galatians 5:6",
+        "explanation": "Galatians 5:6 records: 'Because in Christ Jesus, having circumcision or not having circumcision are equally of no profit; but only faith working through love.'."
+      },
+      {
+        "id": "gal-5-q5",
+        "questionNumber": 5,
+        "question": "According to the text, what happened or was commanded in Galatians 5:8?",
+        "options": [
+          "“This ready belief did not come from him who had made...”",
+          "“But I, brothers, if I am still preaching circumcision,...”",
+          "“But if you are given to fighting with one...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“This ready belief did not come from him who had made...”",
+        "reference": "Galatians 5:8",
+        "explanation": "Galatians 5:8 records: 'This ready belief did not come from him who had made you his.'."
+      },
+      {
+        "id": "gal-5-q6",
+        "questionNumber": 6,
+        "question": "What central message or instruction is delivered in Galatians 5:10?",
+        "options": [
+          "“Because you, brothers, were marked out to be free;...”",
+          "“I am certain about you in the Lord, that you will...”",
+          "“For the flesh has desires against the Spirit, and...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“I am certain about you in the Lord, that you will...”",
+        "reference": "Galatians 5:10",
+        "explanation": "Galatians 5:10 records: 'I am certain about you in the Lord, that you will be of no other mind; but he who is troubling you will have his punishment, whoever he is.'."
+      },
+      {
+        "id": "gal-5-q7",
+        "questionNumber": 7,
+        "question": "What detail regarding God's work, covenant, or people is given in Galatians 5:12?",
+        "options": [
+          "“But if you are given to fighting with one...”",
+          "“Now the works of the flesh are clear, which...”",
+          "“My desire is that they who give you trouble might even...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“My desire is that they who give you trouble might even...”",
+        "reference": "Galatians 5:12",
+        "explanation": "Galatians 5:12 records: 'My desire is that they who give you trouble might even be cut off themselves.'."
+      },
+      {
+        "id": "gal-5-q8",
+        "questionNumber": 8,
+        "question": "What phrase or account is recorded in Galatians 5:14?",
+        "options": [
+          "“For the flesh has desires against the Spirit, and...”",
+          "“Envy, uncontrolled drinking and feasting, and such things: of...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“For all the law is made complete in one word, even...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“For all the law is made complete in one word, even...”",
+        "reference": "Galatians 5:14",
+        "explanation": "Galatians 5:14 records: 'For all the law is made complete in one word, even in this, Have love for your neighbour as for yourself.'."
+      },
+      {
+        "id": "gal-5-q9",
+        "questionNumber": 9,
+        "question": "How does the passage describe the circumstances or people in Galatians 5:16?",
+        "options": [
+          "“But I say, Go on in the Spirit, and you will...”",
+          "“Now the works of the flesh are clear, which...”",
+          "“Gentle behaviour, control over desires: against such there is...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“But I say, Go on in the Spirit, and you will...”",
+        "reference": "Galatians 5:16",
+        "explanation": "Galatians 5:16 records: 'But I say, Go on in the Spirit, and you will not come under the rule of the evil desires of the flesh.'."
+      },
+      {
+        "id": "gal-5-q10",
+        "questionNumber": 10,
+        "question": "In the concluding portion of the chapter, what takes place in Galatians 5:18?",
+        "options": [
+          "“Envy, uncontrolled drinking and feasting, and such things: of...”",
+          "“But if you are guided by the Spirit, you are not...”",
+          "“If we are living by the Spirit, by the...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“But if you are guided by the Spirit, you are not...”",
+        "reference": "Galatians 5:18",
+        "explanation": "Galatians 5:18 records: 'But if you are guided by the Spirit, you are not under the law.'."
+      }
+    ],
+    "6": [
+      {
+        "id": "gal-6-q1",
+        "questionNumber": 1,
+        "question": "According to Galatians 6:1, what is the opening statement or setting of this chapter?",
+        "options": [
+          "It records: “Brothers, if a man is taken in any wrongdoing, you who are of the...”",
+          "It begins with a prayer of thanksgiving for deliverance in Galatians",
+          "It opens with a formal census and counting of the congregation",
+          "It records a severe judgment pronounced against neighboring nations"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "It records: “Brothers, if a man is taken in any wrongdoing, you who are of the...”",
+        "reference": "Galatians 6:1",
+        "explanation": "The chapter begins directly with the statement: 'Brothers, if a man is taken in any wrongdoing, you who are of the Spirit will put such a one right in a spirit of love; keeping watch on yourself, for fear that you yourself may be tested.'."
+      },
+      {
+        "id": "gal-6-q2",
+        "questionNumber": 2,
+        "question": "What key instruction, event, or declaration is set forth in Galatians 6:2?",
+        "options": [
+          "“Because every man is responsible for his part of...”",
+          "“Take on yourselves one another's troubles, and so keep the law...”",
+          "“And let us not get tired of well-doing; for...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“Take on yourselves one another's troubles, and so keep the law...”",
+        "reference": "Galatians 6:2",
+        "explanation": "Galatians 6:2 records: 'Take on yourselves one another's troubles, and so keep the law of Christ.'."
+      },
+      {
+        "id": "gal-6-q3",
+        "questionNumber": 3,
+        "question": "What significant action or revelation occurs in Galatians 6:3?",
+        "options": [
+          "“But let him who gets teaching in the word...”",
+          "“So then, as we have the chance, let us...”",
+          "“For if a man has an idea that he is something...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“For if a man has an idea that he is something...”",
+        "reference": "Galatians 6:3",
+        "explanation": "Galatians 6:3 records: 'For if a man has an idea that he is something when he is nothing, he is tricked by himself.'."
+      },
+      {
+        "id": "gal-6-q4",
+        "questionNumber": 4,
+        "question": "What truth or description is highlighted in Galatians 6:4?",
+        "options": [
+          "“Be not tricked; God is not made sport of:...”",
+          "“See the size of the handwriting which I myself...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“But let every man make test of his work, and then...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“But let every man make test of his work, and then...”",
+        "reference": "Galatians 6:4",
+        "explanation": "Galatians 6:4 records: 'But let every man make test of his work, and then will his cause for glory be in himself only, and not in his neighbour.'."
+      },
+      {
+        "id": "gal-6-q5",
+        "questionNumber": 5,
+        "question": "According to the text, what happened or was commanded in Galatians 6:5?",
+        "options": [
+          "“Because every man is responsible for his part of the work.”",
+          "“Because he who puts in the seed of the...”",
+          "“Those who have the desire to seem important in...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“Because every man is responsible for his part of the work.”",
+        "reference": "Galatians 6:5",
+        "explanation": "Galatians 6:5 records: 'Because every man is responsible for his part of the work.'."
+      },
+      {
+        "id": "gal-6-q6",
+        "questionNumber": 6,
+        "question": "What central message or instruction is delivered in Galatians 6:6?",
+        "options": [
+          "“And let us not get tired of well-doing; for...”",
+          "“But let him who gets teaching in the word give a...”",
+          "“Because even those who undergo circumcision do not themselves...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“But let him who gets teaching in the word give a...”",
+        "reference": "Galatians 6:6",
+        "explanation": "Galatians 6:6 records: 'But let him who gets teaching in the word give a part in all good things to his teacher.'."
+      },
+      {
+        "id": "gal-6-q7",
+        "questionNumber": 7,
+        "question": "What detail regarding God's work, covenant, or people is given in Galatians 6:7?",
+        "options": [
+          "“So then, as we have the chance, let us...”",
+          "“But far be it from me to have glory...”",
+          "“Be not tricked; God is not made sport of: for whatever...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“Be not tricked; God is not made sport of: for whatever...”",
+        "reference": "Galatians 6:7",
+        "explanation": "Galatians 6:7 records: 'Be not tricked; God is not made sport of: for whatever seed a man puts in, that will he get back as grain.'."
+      },
+      {
+        "id": "gal-6-q8",
+        "questionNumber": 8,
+        "question": "What phrase or account is recorded in Galatians 6:8?",
+        "options": [
+          "“See the size of the handwriting which I myself...”",
+          "“For having circumcision is nothing, and not having circumcision...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“Because he who puts in the seed of the flesh will...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“Because he who puts in the seed of the flesh will...”",
+        "reference": "Galatians 6:8",
+        "explanation": "Galatians 6:8 records: 'Because he who puts in the seed of the flesh will of the flesh get the reward of death; but he who puts in the seed of the Spirit will of the Spirit get the reward of eternal life.'."
+      },
+      {
+        "id": "gal-6-q9",
+        "questionNumber": 9,
+        "question": "How does the passage describe the circumstances or people in Galatians 6:9?",
+        "options": [
+          "“And let us not get tired of well-doing; for at the...”",
+          "“Those who have the desire to seem important in...”",
+          "“And on all who are guided by this rule...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“And let us not get tired of well-doing; for at the...”",
+        "reference": "Galatians 6:9",
+        "explanation": "Galatians 6:9 records: 'And let us not get tired of well-doing; for at the right time we will get in the grain, if we do not give way to weariness.'."
+      },
+      {
+        "id": "gal-6-q10",
+        "questionNumber": 10,
+        "question": "In the concluding portion of the chapter, what takes place in Galatians 6:10?",
+        "options": [
+          "“Because even those who undergo circumcision do not themselves...”",
+          "“So then, as we have the chance, let us do good...”",
+          "“From this time on let no man be a...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“So then, as we have the chance, let us do good...”",
+        "reference": "Galatians 6:10",
+        "explanation": "Galatians 6:10 records: 'So then, as we have the chance, let us do good to all men, and specially to those who are of the family of the faith.'."
+      }
+    ]
+  }
+}

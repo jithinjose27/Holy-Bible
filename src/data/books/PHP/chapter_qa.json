@@ -1,0 +1,617 @@
+{
+  "book": "Philippians",
+  "bookId": "PHP",
+  "totalChapters": 4,
+  "totalQuestions": 40,
+  "questionsPerChapter": 10,
+  "chapters": {
+    "1": [
+      {
+        "id": "php-1-q1",
+        "questionNumber": 1,
+        "question": "According to Philippians 1:1, what is the opening statement or setting of this chapter?",
+        "options": [
+          "It records: “Paul and Timothy, servants of Jesus Christ, to all the saints in ...”",
+          "It begins with a prayer of thanksgiving for deliverance in Philippians",
+          "It opens with a formal census and counting of the congregation",
+          "It records a severe judgment pronounced against neighboring nations"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "It records: “Paul and Timothy, servants of Jesus Christ, to all the saints in ...”",
+        "reference": "Philippians 1:1",
+        "explanation": "The chapter begins directly with the statement: 'Paul and Timothy, servants of Jesus Christ, to all the saints in Christ Jesus at Philippi, with the Bishops and Deacons of the church:'."
+      },
+      {
+        "id": "php-1-q2",
+        "questionNumber": 2,
+        "question": "What key instruction, event, or declaration is set forth in Philippians 1:3?",
+        "options": [
+          "“For I am certain of this very thing, that...”",
+          "“I give praise to my God at every memory of you,”",
+          "“So that you may give your approval to the...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“I give praise to my God at every memory of you,”",
+        "reference": "Philippians 1:3",
+        "explanation": "Philippians 1:3 records: 'I give praise to my God at every memory of you,'."
+      },
+      {
+        "id": "php-1-q3",
+        "questionNumber": 3,
+        "question": "What significant action or revelation occurs in Philippians 1:6?",
+        "options": [
+          "“And my prayer is that you may be increased...”",
+          "“So that it became clear through all the Praetorium,...”",
+          "“For I am certain of this very thing, that he by...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“For I am certain of this very thing, that he by...”",
+        "reference": "Philippians 1:6",
+        "explanation": "Philippians 1:6 records: 'For I am certain of this very thing, that he by whom the good work was started in you will make it complete till the day of Jesus Christ:'."
+      },
+      {
+        "id": "php-1-q4",
+        "questionNumber": 4,
+        "question": "What truth or description is highlighted in Philippians 1:9?",
+        "options": [
+          "“Now it is my purpose to make clear to...”",
+          "“These do it from love, conscious that I am...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“And my prayer is that you may be increased more and...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“And my prayer is that you may be increased more and...”",
+        "reference": "Philippians 1:9",
+        "explanation": "Philippians 1:9 records: 'And my prayer is that you may be increased more and more in knowledge and experience;'."
+      },
+      {
+        "id": "php-1-q5",
+        "questionNumber": 5,
+        "question": "According to the text, what happened or was commanded in Philippians 1:12?",
+        "options": [
+          "“Now it is my purpose to make clear to you, brothers,...”",
+          "“Though some are preaching Christ out of envy and...”",
+          "“For I am conscious that this will be for...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“Now it is my purpose to make clear to you, brothers,...”",
+        "reference": "Philippians 1:12",
+        "explanation": "Philippians 1:12 records: 'Now it is my purpose to make clear to you, brothers, that the cause of the good news has been helped by my experiences;'."
+      },
+      {
+        "id": "php-1-q6",
+        "questionNumber": 6,
+        "question": "What central message or instruction is delivered in Philippians 1:15?",
+        "options": [
+          "“What then? only that in every way, falsely or...”",
+          "“Though some are preaching Christ out of envy and competition, others...”",
+          "“But if I go on living in the flesh--if...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“Though some are preaching Christ out of envy and competition, others...”",
+        "reference": "Philippians 1:15",
+        "explanation": "Philippians 1:15 records: 'Though some are preaching Christ out of envy and competition, others do it out of a good heart:'."
+      },
+      {
+        "id": "php-1-q7",
+        "questionNumber": 7,
+        "question": "What detail regarding God's work, covenant, or people is given in Philippians 1:18?",
+        "options": [
+          "“For to me life is Christ and death is...”",
+          "“And being certain of this, I am conscious that...”",
+          "“What then? only that in every way, falsely or truly, the...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“What then? only that in every way, falsely or truly, the...”",
+        "reference": "Philippians 1:18",
+        "explanation": "Philippians 1:18 records: 'What then? only that in every way, falsely or truly, the preaching of Christ goes on; and in this I am glad, and will be glad.'."
+      },
+      {
+        "id": "php-1-q8",
+        "questionNumber": 8,
+        "question": "What phrase or account is recorded in Philippians 1:21?",
+        "options": [
+          "“Still, to go on in the flesh is more...”",
+          "“Having no fear of those who are against you;...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“For to me life is Christ and death is profit.”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“For to me life is Christ and death is profit.”",
+        "reference": "Philippians 1:21",
+        "explanation": "Philippians 1:21 records: 'For to me life is Christ and death is profit.'."
+      },
+      {
+        "id": "php-1-q9",
+        "questionNumber": 9,
+        "question": "How does the passage describe the circumstances or people in Philippians 1:24?",
+        "options": [
+          "“Still, to go on in the flesh is more necessary because...”",
+          "“Only let your behaviour do credit to the good...”",
+          "“Paul and Timothy, servants of Jesus Christ, to all...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“Still, to go on in the flesh is more necessary because...”",
+        "reference": "Philippians 1:24",
+        "explanation": "Philippians 1:24 records: 'Still, to go on in the flesh is more necessary because of you.'."
+      },
+      {
+        "id": "php-1-q10",
+        "questionNumber": 10,
+        "question": "In the concluding portion of the chapter, what takes place in Philippians 1:27?",
+        "options": [
+          "“Paul and Timothy, servants of Jesus Christ, to all...”",
+          "“Only let your behaviour do credit to the good news of...”",
+          "“And in all my prayers for you all, making...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“Only let your behaviour do credit to the good news of...”",
+        "reference": "Philippians 1:27",
+        "explanation": "Philippians 1:27 records: 'Only let your behaviour do credit to the good news of Christ, so that if I come and see you or if I am away from you, I may have news of you that you are strong in one spirit, working together with one soul for the faith of the good news;'."
+      }
+    ],
+    "2": [
+      {
+        "id": "php-2-q1",
+        "questionNumber": 1,
+        "question": "According to Philippians 2:1, what is the opening statement or setting of this chapter?",
+        "options": [
+          "It records: “If then there is any comfort in Christ, any help given by love, a...”",
+          "It begins with a prayer of thanksgiving for deliverance in Philippians",
+          "It opens with a formal census and counting of the congregation",
+          "It records a severe judgment pronounced against neighboring nations"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "It records: “If then there is any comfort in Christ, any help given by love, a...”",
+        "reference": "Philippians 2:1",
+        "explanation": "The chapter begins directly with the statement: 'If then there is any comfort in Christ, any help given by love, any uniting of hearts in the Spirit, any loving mercies and pity,'."
+      },
+      {
+        "id": "php-2-q2",
+        "questionNumber": 2,
+        "question": "What key instruction, event, or declaration is set forth in Philippians 2:3?",
+        "options": [
+          "“To whom, though himself in the form of God,...”",
+          "“Doing nothing through envy or through pride, but with low thoughts...”",
+          "“So that at the name of Jesus every knee...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“Doing nothing through envy or through pride, but with low thoughts...”",
+        "reference": "Philippians 2:3",
+        "explanation": "Philippians 2:3 records: 'Doing nothing through envy or through pride, but with low thoughts of self let everyone take others to be better than himself;'."
+      },
+      {
+        "id": "php-2-q3",
+        "questionNumber": 3,
+        "question": "What significant action or revelation occurs in Philippians 2:6?",
+        "options": [
+          "“For this reason God has put him in the...”",
+          "“For it is God who is the cause of...”",
+          "“To whom, though himself in the form of God, it did...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“To whom, though himself in the form of God, it did...”",
+        "reference": "Philippians 2:6",
+        "explanation": "Philippians 2:6 records: 'To whom, though himself in the form of God, it did not seem that to take for oneself was to be like God;'."
+      },
+      {
+        "id": "php-2-q4",
+        "questionNumber": 4,
+        "question": "What truth or description is highlighted in Philippians 2:9?",
+        "options": [
+          "“So then, my loved ones, as you have at...”",
+          "“Offering the word of life; so that I may...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“For this reason God has put him in the highest place...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“For this reason God has put him in the highest place...”",
+        "reference": "Philippians 2:9",
+        "explanation": "Philippians 2:9 records: 'For this reason God has put him in the highest place and has given to him the name which is greater than every name;'."
+      },
+      {
+        "id": "php-2-q5",
+        "questionNumber": 5,
+        "question": "According to the text, what happened or was commanded in Philippians 2:12?",
+        "options": [
+          "“So then, my loved ones, as you have at all times...”",
+          "“So that you may be holy and gentle, children...”",
+          "“But I am hoping in the Lord Jesus to...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“So then, my loved ones, as you have at all times...”",
+        "reference": "Philippians 2:12",
+        "explanation": "Philippians 2:12 records: 'So then, my loved ones, as you have at all times done what I say, not only when I am present, but now much more when I am not with you, give yourselves to working out your salvation with fear in your hearts;'."
+      },
+      {
+        "id": "php-2-q6",
+        "questionNumber": 6,
+        "question": "What central message or instruction is delivered in Philippians 2:15?",
+        "options": [
+          "“And in the same way do you be glad...”",
+          "“So that you may be holy and gentle, children of God...”",
+          "“But his quality is clear to you; how, as...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“So that you may be holy and gentle, children of God...”",
+        "reference": "Philippians 2:15",
+        "explanation": "Philippians 2:15 records: 'So that you may be holy and gentle, children of God without sin in a twisted and foolish generation, among whom you are seen as lights in the world,'."
+      },
+      {
+        "id": "php-2-q7",
+        "questionNumber": 7,
+        "question": "What detail regarding God's work, covenant, or people is given in Philippians 2:18?",
+        "options": [
+          "“For they all go after what is theirs, not...”",
+          "“But it seemed to me necessary to send to...”",
+          "“And in the same way do you be glad and have...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“And in the same way do you be glad and have...”",
+        "reference": "Philippians 2:18",
+        "explanation": "Philippians 2:18 records: 'And in the same way do you be glad and have a part in my joy.'."
+      },
+      {
+        "id": "php-2-q8",
+        "questionNumber": 8,
+        "question": "What phrase or account is recorded in Philippians 2:21?",
+        "options": [
+          "“But I have faith in the Lord that I...”",
+          "“I have sent him, then, the more gladly, so...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“For they all go after what is theirs, not after the...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“For they all go after what is theirs, not after the...”",
+        "reference": "Philippians 2:21",
+        "explanation": "Philippians 2:21 records: 'For they all go after what is theirs, not after the things of Christ.'."
+      },
+      {
+        "id": "php-2-q9",
+        "questionNumber": 9,
+        "question": "How does the passage describe the circumstances or people in Philippians 2:24?",
+        "options": [
+          "“But I have faith in the Lord that I myself will...”",
+          "“For in fact he was ill almost to death:...”",
+          "“If then there is any comfort in Christ, any...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“But I have faith in the Lord that I myself will...”",
+        "reference": "Philippians 2:24",
+        "explanation": "Philippians 2:24 records: 'But I have faith in the Lord that I myself will come before long.'."
+      },
+      {
+        "id": "php-2-q10",
+        "questionNumber": 10,
+        "question": "In the concluding portion of the chapter, what takes place in Philippians 2:27?",
+        "options": [
+          "“If then there is any comfort in Christ, any...”",
+          "“For in fact he was ill almost to death: but God...”",
+          "“Not looking everyone to his private good, but keeping...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“For in fact he was ill almost to death: but God...”",
+        "reference": "Philippians 2:27",
+        "explanation": "Philippians 2:27 records: 'For in fact he was ill almost to death: but God had mercy on him; and not only on him but on me, so that I might not have grief on grief.'."
+      }
+    ],
+    "3": [
+      {
+        "id": "php-3-q1",
+        "questionNumber": 1,
+        "question": "According to Philippians 3:1, what is the opening statement or setting of this chapter?",
+        "options": [
+          "It records: “For the rest, my brothers, be glad in the Lord. Writing the same ...”",
+          "It begins with a prayer of thanksgiving for deliverance in Philippians",
+          "It opens with a formal census and counting of the congregation",
+          "It records a severe judgment pronounced against neighboring nations"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "It records: “For the rest, my brothers, be glad in the Lord. Writing the same ...”",
+        "reference": "Philippians 3:1",
+        "explanation": "The chapter begins directly with the statement: 'For the rest, my brothers, be glad in the Lord. Writing the same things to you is no trouble to me, and for you it is safe.'."
+      },
+      {
+        "id": "php-3-q2",
+        "questionNumber": 2,
+        "question": "What key instruction, event, or declaration is set forth in Philippians 3:2?",
+        "options": [
+          "“Being given circumcision on the eighth day, of the...”",
+          "“Be on the watch against dogs, against the workers of evil,...”",
+          "“And be seen in him, not having my righteousness...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“Be on the watch against dogs, against the workers of evil,...”",
+        "reference": "Philippians 3:2",
+        "explanation": "Philippians 3:2 records: 'Be on the watch against dogs, against the workers of evil, against those of the circumcision:'."
+      },
+      {
+        "id": "php-3-q3",
+        "questionNumber": 3,
+        "question": "What significant action or revelation occurs in Philippians 3:4?",
+        "options": [
+          "“But those things which were profit to me, I...”",
+          "“If in any way I may have the reward...”",
+          "“Even though I myself might have faith in the flesh: if...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“Even though I myself might have faith in the flesh: if...”",
+        "reference": "Philippians 3:4",
+        "explanation": "Philippians 3:4 records: 'Even though I myself might have faith in the flesh: if any other man has reason to have faith in the flesh, I have more:'."
+      },
+      {
+        "id": "php-3-q4",
+        "questionNumber": 4,
+        "question": "What truth or description is highlighted in Philippians 3:6?",
+        "options": [
+          "“And be seen in him, not having my righteousness...”",
+          "“Brothers, it is clear to me that I have...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“In bitter hate I was cruel to the church; I kept...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“In bitter hate I was cruel to the church; I kept...”",
+        "reference": "Philippians 3:6",
+        "explanation": "Philippians 3:6 records: 'In bitter hate I was cruel to the church; I kept all the righteousness of the law to the last detail.'."
+      },
+      {
+        "id": "php-3-q5",
+        "questionNumber": 5,
+        "question": "According to the text, what happened or was commanded in Philippians 3:8?",
+        "options": [
+          "“Yes truly, and I am ready to give up all things...”",
+          "“If in any way I may have the reward...”",
+          "“Then let us all, who have come to full...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“Yes truly, and I am ready to give up all things...”",
+        "reference": "Philippians 3:8",
+        "explanation": "Philippians 3:8 records: 'Yes truly, and I am ready to give up all things for the knowledge of Christ Jesus my Lord, which is more than all: for whom I have undergone the loss of all things, and to me they are less than nothing, so that I may have Christ as my reward,'."
+      },
+      {
+        "id": "php-3-q6",
+        "questionNumber": 6,
+        "question": "What central message or instruction is delivered in Philippians 3:10?",
+        "options": [
+          "“Brothers, it is clear to me that I have...”",
+          "“That I may have knowledge of him, and of the power...”",
+          "“Brothers, take me as your example, and take note...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“That I may have knowledge of him, and of the power...”",
+        "reference": "Philippians 3:10",
+        "explanation": "Philippians 3:10 records: 'That I may have knowledge of him, and of the power of his coming back from the dead, and a part with him in his pains, becoming like him in his death;'."
+      },
+      {
+        "id": "php-3-q7",
+        "questionNumber": 7,
+        "question": "What detail regarding God's work, covenant, or people is given in Philippians 3:12?",
+        "options": [
+          "“Then let us all, who have come to full...”",
+          "“Whose end is destruction, whose god is the stomach,...”",
+          "“Not as if I had even now got the reward or...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“Not as if I had even now got the reward or...”",
+        "reference": "Philippians 3:12",
+        "explanation": "Philippians 3:12 records: 'Not as if I had even now got the reward or been made complete: but I go on in the hope that I may come to the knowledge of that for which I was made the servant of Christ Jesus.'."
+      },
+      {
+        "id": "php-3-q8",
+        "questionNumber": 8,
+        "question": "What phrase or account is recorded in Philippians 3:14?",
+        "options": [
+          "“Brothers, take me as your example, and take note...”",
+          "“For the rest, my brothers, be glad in the...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“I go forward to the mark, even the reward of the...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“I go forward to the mark, even the reward of the...”",
+        "reference": "Philippians 3:14",
+        "explanation": "Philippians 3:14 records: 'I go forward to the mark, even the reward of the high purpose of God in Christ Jesus.'."
+      },
+      {
+        "id": "php-3-q9",
+        "questionNumber": 9,
+        "question": "How does the passage describe the circumstances or people in Philippians 3:16?",
+        "options": [
+          "“Only, as far as we have got, let us be guided...”",
+          "“Whose end is destruction, whose god is the stomach,...”",
+          "“Be on the watch against dogs, against the workers...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“Only, as far as we have got, let us be guided...”",
+        "reference": "Philippians 3:16",
+        "explanation": "Philippians 3:16 records: 'Only, as far as we have got, let us be guided by the same rule.'."
+      },
+      {
+        "id": "php-3-q10",
+        "questionNumber": 10,
+        "question": "In the concluding portion of the chapter, what takes place in Philippians 3:18?",
+        "options": [
+          "“For the rest, my brothers, be glad in the...”",
+          "“For there are those, of whom I have given you word...”",
+          "“Even though I myself might have faith in the...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“For there are those, of whom I have given you word...”",
+        "reference": "Philippians 3:18",
+        "explanation": "Philippians 3:18 records: 'For there are those, of whom I have given you word before, and do so now with sorrow, who are haters of the cross of Christ;'."
+      }
+    ],
+    "4": [
+      {
+        "id": "php-4-q1",
+        "questionNumber": 1,
+        "question": "According to Philippians 4:1, what is the opening statement or setting of this chapter?",
+        "options": [
+          "It records: “So my brothers, well loved and very dear to me, my joy and crown,...”",
+          "It begins with a prayer of thanksgiving for deliverance in Philippians",
+          "It opens with a formal census and counting of the congregation",
+          "It records a severe judgment pronounced against neighboring nations"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "It records: “So my brothers, well loved and very dear to me, my joy and crown,...”",
+        "reference": "Philippians 4:1",
+        "explanation": "The chapter begins directly with the statement: 'So my brothers, well loved and very dear to me, my joy and crown, be strong in the Lord, my loved ones.'."
+      },
+      {
+        "id": "php-4-q2",
+        "questionNumber": 2,
+        "question": "What key instruction, event, or declaration is set forth in Philippians 4:2?",
+        "options": [
+          "“Let your gentle behaviour be clear to all men....”",
+          "“I make request to Euodias and Syntyche to be of the...”",
+          "“The things which came to you by my teaching...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“I make request to Euodias and Syntyche to be of the...”",
+        "reference": "Philippians 4:2",
+        "explanation": "Philippians 4:2 records: 'I make request to Euodias and Syntyche to be of the same mind in the Lord.'."
+      },
+      {
+        "id": "php-4-q3",
+        "questionNumber": 3,
+        "question": "What significant action or revelation occurs in Philippians 4:4?",
+        "options": [
+          "“And the peace of God, which is deeper than...”",
+          "“But I will not say anything about my needs,...”",
+          "“Be glad in the Lord at all times: again I say,...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“Be glad in the Lord at all times: again I say,...”",
+        "reference": "Philippians 4:4",
+        "explanation": "Philippians 4:4 records: 'Be glad in the Lord at all times: again I say, Be glad.'."
+      },
+      {
+        "id": "php-4-q4",
+        "questionNumber": 4,
+        "question": "What truth or description is highlighted in Philippians 4:6?",
+        "options": [
+          "“The things which came to you by my teaching...”",
+          "“I am able to do all things through him...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“Have no cares; but in everything with prayer and praise put...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“Have no cares; but in everything with prayer and praise put...”",
+        "reference": "Philippians 4:6",
+        "explanation": "Philippians 4:6 records: 'Have no cares; but in everything with prayer and praise put your requests before God.'."
+      },
+      {
+        "id": "php-4-q5",
+        "questionNumber": 5,
+        "question": "According to the text, what happened or was commanded in Philippians 4:8?",
+        "options": [
+          "“For the rest, my brothers, whatever things are true, whatever things...”",
+          "“But I will not say anything about my needs,...”",
+          "“And you have knowledge, Philippians, that when the good...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“For the rest, my brothers, whatever things are true, whatever things...”",
+        "reference": "Philippians 4:8",
+        "explanation": "Philippians 4:8 records: 'For the rest, my brothers, whatever things are true, whatever things have honour, whatever things are upright, whatever things are holy, whatever things are beautiful, whatever things are of value, if there is any virtue and if there is any praise, give thought to these things.'."
+      },
+      {
+        "id": "php-4-q6",
+        "questionNumber": 6,
+        "question": "What central message or instruction is delivered in Philippians 4:10?",
+        "options": [
+          "“I am able to do all things through him...”",
+          "“But I am very glad in the Lord that your care...”",
+          "“Not that I am looking for an offering, but...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“But I am very glad in the Lord that your care...”",
+        "reference": "Philippians 4:10",
+        "explanation": "Philippians 4:10 records: 'But I am very glad in the Lord that your care for me has come to life again; though you did in fact take thought for me, but you were not able to give effect to it.'."
+      },
+      {
+        "id": "php-4-q7",
+        "questionNumber": 7,
+        "question": "What detail regarding God's work, covenant, or people is given in Philippians 4:12?",
+        "options": [
+          "“And you have knowledge, Philippians, that when the good...”",
+          "“And my God will give you all you have...”",
+          "“It is the same to me if I am looked down...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“It is the same to me if I am looked down...”",
+        "reference": "Philippians 4:12",
+        "explanation": "Philippians 4:12 records: 'It is the same to me if I am looked down on or honoured; everywhere and in all things I have the secret of how to be full and how to go without food; how to have wealth and how to be in need.'."
+      },
+      {
+        "id": "php-4-q8",
+        "questionNumber": 8,
+        "question": "What phrase or account is recorded in Philippians 4:14?",
+        "options": [
+          "“Not that I am looking for an offering, but...”",
+          "“Give words of love to every saint in Christ...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“But you did well to have care for me in my need.”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“But you did well to have care for me in my need.”",
+        "reference": "Philippians 4:14",
+        "explanation": "Philippians 4:14 records: 'But you did well to have care for me in my need.'."
+      },
+      {
+        "id": "php-4-q9",
+        "questionNumber": 9,
+        "question": "How does the passage describe the circumstances or people in Philippians 4:16?",
+        "options": [
+          "“Because even in Thessalonica you sent once and again to me...”",
+          "“And my God will give you all you have...”",
+          "“So my brothers, well loved and very dear to...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“Because even in Thessalonica you sent once and again to me...”",
+        "reference": "Philippians 4:16",
+        "explanation": "Philippians 4:16 records: 'Because even in Thessalonica you sent once and again to me in my need.'."
+      },
+      {
+        "id": "php-4-q10",
+        "questionNumber": 10,
+        "question": "In the concluding portion of the chapter, what takes place in Philippians 4:18?",
+        "options": [
+          "“Give words of love to every saint in Christ...”",
+          "“I have all things and more than enough: I am made...”",
+          "“I make request to Euodias and Syntyche to be...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“I have all things and more than enough: I am made...”",
+        "reference": "Philippians 4:18",
+        "explanation": "Philippians 4:18 records: 'I have all things and more than enough: I am made full, having had from Epaphroditus the things which came from you, a perfume of a sweet smell, an offering well pleasing to God.'."
+      }
+    ]
+  }
+}

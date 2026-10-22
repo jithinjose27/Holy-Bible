@@ -1,0 +1,1225 @@
+{
+  "book": "Song of Songs",
+  "bookId": "SNG",
+  "totalChapters": 8,
+  "totalQuestions": 80,
+  "questionsPerChapter": 10,
+  "chapters": {
+    "1": [
+      {
+        "id": "sng-1-q1",
+        "questionNumber": 1,
+        "question": "According to Song of Songs 1:1, what is the opening statement or setting of this chapter?",
+        "options": [
+          "It records: “The song of Songs, which is Solomon's.”",
+          "It begins with a prayer of thanksgiving for deliverance in Song of Songs",
+          "It opens with a formal census and counting of the congregation",
+          "It records a severe judgment pronounced against neighboring nations"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "It records: “The song of Songs, which is Solomon's.”",
+        "reference": "Song of Songs 1:1",
+        "explanation": "The chapter begins directly with the statement: 'The song of Songs, which is Solomon's.'."
+      },
+      {
+        "id": "sng-1-q2",
+        "questionNumber": 2,
+        "question": "What key instruction, event, or declaration is set forth in Song of Songs 1:2?",
+        "options": [
+          "“I am dark, but fair of form, O daughters...”",
+          "“Let him give me the kisses of his mouth: for his...”",
+          "“I have made a comparison of you, O my...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“Let him give me the kisses of his mouth: for his...”",
+        "reference": "Song of Songs 1:2",
+        "explanation": "Song of Songs 1:2 records: 'Let him give me the kisses of his mouth: for his love is better than wine.'."
+      },
+      {
+        "id": "sng-1-q3",
+        "questionNumber": 3,
+        "question": "What significant action or revelation occurs in Song of Songs 1:3?",
+        "options": [
+          "“Let not your eyes be turned on me, because...”",
+          "“Your face is a delight with rings of hair,...”",
+          "“Sweet is the smell of your perfumes; your name is as...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“Sweet is the smell of your perfumes; your name is as...”",
+        "reference": "Song of Songs 1:3",
+        "explanation": "Song of Songs 1:3 records: 'Sweet is the smell of your perfumes; your name is as perfume running out; so the young girls give you their love.'."
+      },
+      {
+        "id": "sng-1-q4",
+        "questionNumber": 4,
+        "question": "What truth or description is highlighted in Song of Songs 1:4?",
+        "options": [
+          "“Say, O love of my soul, where you give...”",
+          "“We will make you chains of gold with ornaments...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“Take me to you, and we will go after you: the...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“Take me to you, and we will go after you: the...”",
+        "reference": "Song of Songs 1:4",
+        "explanation": "Song of Songs 1:4 records: 'Take me to you, and we will go after you: the king has taken me into his house. We will be glad and full of joy in you, we will give more thought to your love than to wine: rightly are they your lovers.'."
+      },
+      {
+        "id": "sng-1-q5",
+        "questionNumber": 5,
+        "question": "According to the text, what happened or was commanded in Song of Songs 1:5?",
+        "options": [
+          "“I am dark, but fair of form, O daughters of Jerusalem,...”",
+          "“If you have not knowledge, O most beautiful among...”",
+          "“While the king is seated at his table, my...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“I am dark, but fair of form, O daughters of Jerusalem,...”",
+        "reference": "Song of Songs 1:5",
+        "explanation": "Song of Songs 1:5 records: 'I am dark, but fair of form, O daughters of Jerusalem, as the tents of Kedar, as the curtains of Solomon.'."
+      },
+      {
+        "id": "sng-1-q6",
+        "questionNumber": 6,
+        "question": "What central message or instruction is delivered in Song of Songs 1:6?",
+        "options": [
+          "“I have made a comparison of you, O my...”",
+          "“Let not your eyes be turned on me, because I am...”",
+          "“As a bag of myrrh is my well-loved one...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“Let not your eyes be turned on me, because I am...”",
+        "reference": "Song of Songs 1:6",
+        "explanation": "Song of Songs 1:6 records: 'Let not your eyes be turned on me, because I am dark, because I was looked on by the sun; my mother's children were angry with me; they made me the keeper of the vine-gardens; but my vine-garden I have not kept.'."
+      },
+      {
+        "id": "sng-1-q7",
+        "questionNumber": 7,
+        "question": "What detail regarding God's work, covenant, or people is given in Song of Songs 1:7?",
+        "options": [
+          "“Your face is a delight with rings of hair,...”",
+          "“My love is to me as a branch of...”",
+          "“Say, O love of my soul, where you give food to...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“Say, O love of my soul, where you give food to...”",
+        "reference": "Song of Songs 1:7",
+        "explanation": "Song of Songs 1:7 records: 'Say, O love of my soul, where you give food to your flock, and where you make them take their rest in the heat of the day; why have I to be as one wandering by the flocks of your friends?'."
+      },
+      {
+        "id": "sng-1-q8",
+        "questionNumber": 8,
+        "question": "What phrase or account is recorded in Song of Songs 1:8?",
+        "options": [
+          "“We will make you chains of gold with ornaments...”",
+          "“See, you are fair, my love, you are fair;...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“If you have not knowledge, O most beautiful among women, go...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“If you have not knowledge, O most beautiful among women, go...”",
+        "reference": "Song of Songs 1:8",
+        "explanation": "Song of Songs 1:8 records: 'If you have not knowledge, O most beautiful among women, go on your way in the footsteps of the flock, and give your young goats food by the tents of the keepers.'."
+      },
+      {
+        "id": "sng-1-q9",
+        "questionNumber": 9,
+        "question": "How does the passage describe the circumstances or people in Song of Songs 1:9?",
+        "options": [
+          "“I have made a comparison of you, O my love, to...”",
+          "“While the king is seated at his table, my...”",
+          "“See, you are fair, my loved one, and a...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“I have made a comparison of you, O my love, to...”",
+        "reference": "Song of Songs 1:9",
+        "explanation": "Song of Songs 1:9 records: 'I have made a comparison of you, O my love, to a horse in Pharaoh's carriages.'."
+      },
+      {
+        "id": "sng-1-q10",
+        "questionNumber": 10,
+        "question": "In the concluding portion of the chapter, what takes place in Song of Songs 1:10?",
+        "options": [
+          "“As a bag of myrrh is my well-loved one...”",
+          "“Your face is a delight with rings of hair, your neck...”",
+          "“The song of Songs, which is Solomon's.”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“Your face is a delight with rings of hair, your neck...”",
+        "reference": "Song of Songs 1:10",
+        "explanation": "Song of Songs 1:10 records: 'Your face is a delight with rings of hair, your neck with chains of jewels.'."
+      }
+    ],
+    "2": [
+      {
+        "id": "sng-2-q1",
+        "questionNumber": 1,
+        "question": "According to Song of Songs 2:1, what is the opening statement or setting of this chapter?",
+        "options": [
+          "It records: “I am a rose of Sharon, a flower of the valleys.”",
+          "It begins with a prayer of thanksgiving for deliverance in Song of Songs",
+          "It opens with a formal census and counting of the congregation",
+          "It records a severe judgment pronounced against neighboring nations"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "It records: “I am a rose of Sharon, a flower of the valleys.”",
+        "reference": "Song of Songs 2:1",
+        "explanation": "The chapter begins directly with the statement: 'I am a rose of Sharon, a flower of the valleys.'."
+      },
+      {
+        "id": "sng-2-q2",
+        "questionNumber": 2,
+        "question": "What key instruction, event, or declaration is set forth in Song of Songs 2:2?",
+        "options": [
+          "“Make me strong with wine-cakes, let me be comforted...”",
+          "“As the lily-flower among the thorns of the waste, so is...”",
+          "“My loved one is like a roe; see, he...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“As the lily-flower among the thorns of the waste, so is...”",
+        "reference": "Song of Songs 2:2",
+        "explanation": "Song of Songs 2:2 records: 'As the lily-flower among the thorns of the waste, so is my love among the daughters.'."
+      },
+      {
+        "id": "sng-2-q3",
+        "questionNumber": 3,
+        "question": "What significant action or revelation occurs in Song of Songs 2:3?",
+        "options": [
+          "“His left hand is under my head, and his...”",
+          "“My loved one said to me, Get up, my...”",
+          "“As the apple-tree among the trees of the wood, so is...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“As the apple-tree among the trees of the wood, so is...”",
+        "reference": "Song of Songs 2:3",
+        "explanation": "Song of Songs 2:3 records: 'As the apple-tree among the trees of the wood, so is my loved one among the sons. I took my rest under his shade with great delight, and his fruit was sweet to my taste.'."
+      },
+      {
+        "id": "sng-2-q4",
+        "questionNumber": 4,
+        "question": "What truth or description is highlighted in Song of Songs 2:4?",
+        "options": [
+          "“I say to you, O daughters of Jerusalem, by...”",
+          "“For, see, the winter is past, the rain is...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“He took me to the house of wine, and his flag...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“He took me to the house of wine, and his flag...”",
+        "reference": "Song of Songs 2:4",
+        "explanation": "Song of Songs 2:4 records: 'He took me to the house of wine, and his flag over me was love.'."
+      },
+      {
+        "id": "sng-2-q5",
+        "questionNumber": 5,
+        "question": "According to the text, what happened or was commanded in Song of Songs 2:5?",
+        "options": [
+          "“Make me strong with wine-cakes, let me be comforted with apples;...”",
+          "“The voice of my loved one! See, he comes...”",
+          "“The flowers are come on the earth; the time...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“Make me strong with wine-cakes, let me be comforted with apples;...”",
+        "reference": "Song of Songs 2:5",
+        "explanation": "Song of Songs 2:5 records: 'Make me strong with wine-cakes, let me be comforted with apples; I am overcome with love.'."
+      },
+      {
+        "id": "sng-2-q6",
+        "questionNumber": 6,
+        "question": "What central message or instruction is delivered in Song of Songs 2:6?",
+        "options": [
+          "“My loved one is like a roe; see, he...”",
+          "“His left hand is under my head, and his right hand...”",
+          "“The fig-tree puts out her green fruit and the...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“His left hand is under my head, and his right hand...”",
+        "reference": "Song of Songs 2:6",
+        "explanation": "Song of Songs 2:6 records: 'His left hand is under my head, and his right hand is round about me.'."
+      },
+      {
+        "id": "sng-2-q7",
+        "questionNumber": 7,
+        "question": "What detail regarding God's work, covenant, or people is given in Song of Songs 2:7?",
+        "options": [
+          "“My loved one said to me, Get up, my...”",
+          "“O my dove, you are in the holes of...”",
+          "“I say to you, O daughters of Jerusalem, by the roes...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“I say to you, O daughters of Jerusalem, by the roes...”",
+        "reference": "Song of Songs 2:7",
+        "explanation": "Song of Songs 2:7 records: 'I say to you, O daughters of Jerusalem, by the roes of the field, do not let love be moved till it is ready.'."
+      },
+      {
+        "id": "sng-2-q8",
+        "questionNumber": 8,
+        "question": "What phrase or account is recorded in Song of Songs 2:8?",
+        "options": [
+          "“For, see, the winter is past, the rain is...”",
+          "“Take for us the foxes, the little foxes, which...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“The voice of my loved one! See, he comes dancing on...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“The voice of my loved one! See, he comes dancing on...”",
+        "reference": "Song of Songs 2:8",
+        "explanation": "Song of Songs 2:8 records: 'The voice of my loved one! See, he comes dancing on the mountains, stepping quickly on the hills.'."
+      },
+      {
+        "id": "sng-2-q9",
+        "questionNumber": 9,
+        "question": "How does the passage describe the circumstances or people in Song of Songs 2:9?",
+        "options": [
+          "“My loved one is like a roe; see, he is on...”",
+          "“The flowers are come on the earth; the time...”",
+          "“My loved one is mine, and I am his:...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“My loved one is like a roe; see, he is on...”",
+        "reference": "Song of Songs 2:9",
+        "explanation": "Song of Songs 2:9 records: 'My loved one is like a roe; see, he is on the other side of our wall, he is looking in at the windows, letting himself be seen through the spaces.'."
+      },
+      {
+        "id": "sng-2-q10",
+        "questionNumber": 10,
+        "question": "In the concluding portion of the chapter, what takes place in Song of Songs 2:10?",
+        "options": [
+          "“The fig-tree puts out her green fruit and the...”",
+          "“My loved one said to me, Get up, my love, my...”",
+          "“I am a rose of Sharon, a flower of...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“My loved one said to me, Get up, my love, my...”",
+        "reference": "Song of Songs 2:10",
+        "explanation": "Song of Songs 2:10 records: 'My loved one said to me, Get up, my love, my fair one, and come away.'."
+      }
+    ],
+    "3": [
+      {
+        "id": "sng-3-q1",
+        "questionNumber": 1,
+        "question": "According to Song of Songs 3:1, what is the opening statement or setting of this chapter?",
+        "options": [
+          "It records: “By night on my bed I was looking for him who is the love of my so...”",
+          "It begins with a prayer of thanksgiving for deliverance in Song of Songs",
+          "It opens with a formal census and counting of the congregation",
+          "It records a severe judgment pronounced against neighboring nations"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "It records: “By night on my bed I was looking for him who is the love of my so...”",
+        "reference": "Song of Songs 3:1",
+        "explanation": "The chapter begins directly with the statement: 'By night on my bed I was looking for him who is the love of my soul: I was looking for him, but I did not see him.'."
+      },
+      {
+        "id": "sng-3-q2",
+        "questionNumber": 2,
+        "question": "What key instruction, event, or declaration is set forth in Song of Songs 3:2?",
+        "options": [
+          "“I say to you, O daughters of Jerusalem, by...”",
+          "“I will get up now and go about the town, in...”",
+          "“King Solomon made himself a bed of the wood...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“I will get up now and go about the town, in...”",
+        "reference": "Song of Songs 3:2",
+        "explanation": "Song of Songs 3:2 records: 'I will get up now and go about the town, in the streets and in the wide ways I will go after him who is the love of my soul: I went after him, but I did not see him.'."
+      },
+      {
+        "id": "sng-3-q3",
+        "questionNumber": 3,
+        "question": "What significant action or revelation occurs in Song of Songs 3:3?",
+        "options": [
+          "“Who is this coming out of the waste places...”",
+          "“He made its pillars of silver, its base of...”",
+          "“The watchmen who go about the town came by me; to...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“The watchmen who go about the town came by me; to...”",
+        "reference": "Song of Songs 3:3",
+        "explanation": "Song of Songs 3:3 records: 'The watchmen who go about the town came by me; to them I said, Have you seen him who is my heart's desire?'."
+      },
+      {
+        "id": "sng-3-q4",
+        "questionNumber": 4,
+        "question": "What truth or description is highlighted in Song of Songs 3:4?",
+        "options": [
+          "“See, it is the bed of Solomon; sixty men...”",
+          "“By night on my bed I was looking for...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“I was but a little way from them, when I came...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“I was but a little way from them, when I came...”",
+        "reference": "Song of Songs 3:4",
+        "explanation": "Song of Songs 3:4 records: 'I was but a little way from them, when I came face to face with him who is the love of my soul. I took him by the hands, and did not let him go, till I had taken him into my mother's house, and into the room of her who gave me birth.'."
+      },
+      {
+        "id": "sng-3-q5",
+        "questionNumber": 5,
+        "question": "According to the text, what happened or was commanded in Song of Songs 3:5?",
+        "options": [
+          "“I say to you, O daughters of Jerusalem, by the roes...”",
+          "“All of them armed with swords, trained in war;...”",
+          "“By night on my bed I was looking for...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“I say to you, O daughters of Jerusalem, by the roes...”",
+        "reference": "Song of Songs 3:5",
+        "explanation": "Song of Songs 3:5 records: 'I say to you, O daughters of Jerusalem, by the roes of the field, let not love be moved till it is ready.'."
+      },
+      {
+        "id": "sng-3-q6",
+        "questionNumber": 6,
+        "question": "What central message or instruction is delivered in Song of Songs 3:6?",
+        "options": [
+          "“King Solomon made himself a bed of the wood...”",
+          "“Who is this coming out of the waste places like pillars...”",
+          "“I will get up now and go about the...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“Who is this coming out of the waste places like pillars...”",
+        "reference": "Song of Songs 3:6",
+        "explanation": "Song of Songs 3:6 records: 'Who is this coming out of the waste places like pillars of smoke, perfumed with sweet spices, with all the spices of the trader?'."
+      },
+      {
+        "id": "sng-3-q7",
+        "questionNumber": 7,
+        "question": "What detail regarding God's work, covenant, or people is given in Song of Songs 3:7?",
+        "options": [
+          "“He made its pillars of silver, its base of...”",
+          "“The watchmen who go about the town came by...”",
+          "“See, it is the bed of Solomon; sixty men of war...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“See, it is the bed of Solomon; sixty men of war...”",
+        "reference": "Song of Songs 3:7",
+        "explanation": "Song of Songs 3:7 records: 'See, it is the bed of Solomon; sixty men of war are about it, of the army of Israel,'."
+      },
+      {
+        "id": "sng-3-q8",
+        "questionNumber": 8,
+        "question": "What phrase or account is recorded in Song of Songs 3:8?",
+        "options": [
+          "“By night on my bed I was looking for...”",
+          "“I was but a little way from them, when...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“All of them armed with swords, trained in war; every man...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“All of them armed with swords, trained in war; every man...”",
+        "reference": "Song of Songs 3:8",
+        "explanation": "Song of Songs 3:8 records: 'All of them armed with swords, trained in war; every man has his sword at his side, because of fear in the night.'."
+      },
+      {
+        "id": "sng-3-q9",
+        "questionNumber": 9,
+        "question": "How does the passage describe the circumstances or people in Song of Songs 3:9?",
+        "options": [
+          "“King Solomon made himself a bed of the wood of Lebanon.”",
+          "“By night on my bed I was looking for...”",
+          "“I say to you, O daughters of Jerusalem, by...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“King Solomon made himself a bed of the wood of Lebanon.”",
+        "reference": "Song of Songs 3:9",
+        "explanation": "Song of Songs 3:9 records: 'King Solomon made himself a bed of the wood of Lebanon.'."
+      },
+      {
+        "id": "sng-3-q10",
+        "questionNumber": 10,
+        "question": "In the concluding portion of the chapter, what takes place in Song of Songs 3:10?",
+        "options": [
+          "“I will get up now and go about the...”",
+          "“He made its pillars of silver, its base of gold, its...”",
+          "“Who is this coming out of the waste places...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“He made its pillars of silver, its base of gold, its...”",
+        "reference": "Song of Songs 3:10",
+        "explanation": "Song of Songs 3:10 records: 'He made its pillars of silver, its base of gold, its seat of purple, the middle of it of ebony.'."
+      }
+    ],
+    "4": [
+      {
+        "id": "sng-4-q1",
+        "questionNumber": 1,
+        "question": "According to Song of Songs 4:1, what is the opening statement or setting of this chapter?",
+        "options": [
+          "It records: “See, you are fair, my love, you are fair; you have the eyes of a ...”",
+          "It begins with a prayer of thanksgiving for deliverance in Song of Songs",
+          "It opens with a formal census and counting of the congregation",
+          "It records a severe judgment pronounced against neighboring nations"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "It records: “See, you are fair, my love, you are fair; you have the eyes of a ...”",
+        "reference": "Song of Songs 4:1",
+        "explanation": "The chapter begins directly with the statement: 'See, you are fair, my love, you are fair; you have the eyes of a dove; your hair is as a flock of goats, which take their rest on the side of Gilead.'."
+      },
+      {
+        "id": "sng-4-q2",
+        "questionNumber": 2,
+        "question": "What key instruction, event, or declaration is set forth in Song of Songs 4:2?",
+        "options": [
+          "“Your two breasts are like two young roes of...”",
+          "“Your teeth are like a flock of sheep whose wool is...”",
+          "“You have taken away my heart, my sister, my...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“Your teeth are like a flock of sheep whose wool is...”",
+        "reference": "Song of Songs 4:2",
+        "explanation": "Song of Songs 4:2 records: 'Your teeth are like a flock of sheep whose wool is newly cut, which come up from the washing; every one has two lambs, and there is not one without young.'."
+      },
+      {
+        "id": "sng-4-q3",
+        "questionNumber": 3,
+        "question": "What significant action or revelation occurs in Song of Songs 4:3?",
+        "options": [
+          "“Till the evening comes, and the sky slowly becomes...”",
+          "“How fair is your love, my sister! How much...”",
+          "“Your red lips are like a bright thread, and your mouth...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“Your red lips are like a bright thread, and your mouth...”",
+        "reference": "Song of Songs 4:3",
+        "explanation": "Song of Songs 4:3 records: 'Your red lips are like a bright thread, and your mouth is fair of form; the sides of your head are like pomegranate fruit under your veil.'."
+      },
+      {
+        "id": "sng-4-q4",
+        "questionNumber": 4,
+        "question": "What truth or description is highlighted in Song of Songs 4:4?",
+        "options": [
+          "“You are all fair, my love; there is no...”",
+          "“Your lips are dropping honey; honey and milk are...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“Your neck is like the tower of David made for a...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“Your neck is like the tower of David made for a...”",
+        "reference": "Song of Songs 4:4",
+        "explanation": "Song of Songs 4:4 records: 'Your neck is like the tower of David made for a store-house of arms, in which a thousand breastplates are hanging, breastplates for fighting-men.'."
+      },
+      {
+        "id": "sng-4-q5",
+        "questionNumber": 5,
+        "question": "According to the text, what happened or was commanded in Song of Songs 4:5?",
+        "options": [
+          "“Your two breasts are like two young roes of the same...”",
+          "“Come with me from Lebanon, my bride, with me...”",
+          "“A garden walled-in is my sister, my bride; a...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“Your two breasts are like two young roes of the same...”",
+        "reference": "Song of Songs 4:5",
+        "explanation": "Song of Songs 4:5 records: 'Your two breasts are like two young roes of the same birth, which take their food among the lilies.'."
+      },
+      {
+        "id": "sng-4-q6",
+        "questionNumber": 6,
+        "question": "What central message or instruction is delivered in Song of Songs 4:6?",
+        "options": [
+          "“You have taken away my heart, my sister, my...”",
+          "“Till the evening comes, and the sky slowly becomes dark, I...”",
+          "“The produce of the garden is pomegranates; with all...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“Till the evening comes, and the sky slowly becomes dark, I...”",
+        "reference": "Song of Songs 4:6",
+        "explanation": "Song of Songs 4:6 records: 'Till the evening comes, and the sky slowly becomes dark, I will go to the mountain of myrrh, and to the hill of frankincense.'."
+      },
+      {
+        "id": "sng-4-q7",
+        "questionNumber": 7,
+        "question": "What detail regarding God's work, covenant, or people is given in Song of Songs 4:7?",
+        "options": [
+          "“How fair is your love, my sister! How much...”",
+          "“Spikenard and safron; calamus and cinnamon, with all trees...”",
+          "“You are all fair, my love; there is no mark on you.”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“You are all fair, my love; there is no mark on you.”",
+        "reference": "Song of Songs 4:7",
+        "explanation": "Song of Songs 4:7 records: 'You are all fair, my love; there is no mark on you.'."
+      },
+      {
+        "id": "sng-4-q8",
+        "questionNumber": 8,
+        "question": "What phrase or account is recorded in Song of Songs 4:8?",
+        "options": [
+          "“Your lips are dropping honey; honey and milk are...”",
+          "“You are a fountain of gardens, a spring of...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“Come with me from Lebanon, my bride, with me from Lebanon;...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“Come with me from Lebanon, my bride, with me from Lebanon;...”",
+        "reference": "Song of Songs 4:8",
+        "explanation": "Song of Songs 4:8 records: 'Come with me from Lebanon, my bride, with me from Lebanon; see from the top of Amana, from the top of Senir and Hermon, from the places of the lions, from the mountains of the leopards.'."
+      },
+      {
+        "id": "sng-4-q9",
+        "questionNumber": 9,
+        "question": "How does the passage describe the circumstances or people in Song of Songs 4:9?",
+        "options": [
+          "“You have taken away my heart, my sister, my bride; you...”",
+          "“A garden walled-in is my sister, my bride; a...”",
+          "“See, you are fair, my love, you are fair;...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“You have taken away my heart, my sister, my bride; you...”",
+        "reference": "Song of Songs 4:9",
+        "explanation": "Song of Songs 4:9 records: 'You have taken away my heart, my sister, my bride; you have taken away my heart, with one look you have taken it, with one chain of your neck!'."
+      },
+      {
+        "id": "sng-4-q10",
+        "questionNumber": 10,
+        "question": "In the concluding portion of the chapter, what takes place in Song of Songs 4:10?",
+        "options": [
+          "“The produce of the garden is pomegranates; with all...”",
+          "“How fair is your love, my sister! How much better is...”",
+          "“See, you are fair, my love, you are fair;...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“How fair is your love, my sister! How much better is...”",
+        "reference": "Song of Songs 4:10",
+        "explanation": "Song of Songs 4:10 records: 'How fair is your love, my sister! How much better is your love than wine, and the smell of your oils than any perfume!'."
+      }
+    ],
+    "5": [
+      {
+        "id": "sng-5-q1",
+        "questionNumber": 1,
+        "question": "According to Song of Songs 5:1, what is the opening statement or setting of this chapter?",
+        "options": [
+          "It records: “I have come into my garden, my sister, my bride; to take my myrrh...”",
+          "It begins with a prayer of thanksgiving for deliverance in Song of Songs",
+          "It opens with a formal census and counting of the congregation",
+          "It records a severe judgment pronounced against neighboring nations"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "It records: “I have come into my garden, my sister, my bride; to take my myrrh...”",
+        "reference": "Song of Songs 5:1",
+        "explanation": "The chapter begins directly with the statement: 'I have come into my garden, my sister, my bride; to take my myrrh with my spice; my wax with my honey; my wine with my milk. Take meat, O friends; take wine, yes, be overcome with love.'."
+      },
+      {
+        "id": "sng-5-q2",
+        "questionNumber": 2,
+        "question": "What key instruction, event, or declaration is set forth in Song of Songs 5:2?",
+        "options": [
+          "“I got up to let my loved one in;...”",
+          "“I am sleeping, but my heart is awake; it is the...”",
+          "“What is your loved one more than another, O...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“I am sleeping, but my heart is awake; it is the...”",
+        "reference": "Song of Songs 5:2",
+        "explanation": "Song of Songs 5:2 records: 'I am sleeping, but my heart is awake; it is the sound of my loved one at the door, saying, Be open to me, my sister, my love, my dove, my very beautiful one; my head is wet with dew, and my hair with the drops of the night.'."
+      },
+      {
+        "id": "sng-5-q3",
+        "questionNumber": 3,
+        "question": "What significant action or revelation occurs in Song of Songs 5:3?",
+        "options": [
+          "“I made the door open to my loved one;...”",
+          "“My loved one is white and red, the chief...”",
+          "“I have put off my coat; how may I put it...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“I have put off my coat; how may I put it...”",
+        "reference": "Song of Songs 5:3",
+        "explanation": "Song of Songs 5:3 records: 'I have put off my coat; how may I put it on? My feet are washed; how may I make them unclean?'."
+      },
+      {
+        "id": "sng-5-q4",
+        "questionNumber": 4,
+        "question": "What truth or description is highlighted in Song of Songs 5:4?",
+        "options": [
+          "“The keepers who go about the town overtook me;...”",
+          "“His head is as the most delicate gold; his...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“My loved one put his hand on the door, and my...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“My loved one put his hand on the door, and my...”",
+        "reference": "Song of Songs 5:4",
+        "explanation": "Song of Songs 5:4 records: 'My loved one put his hand on the door, and my heart was moved for him.'."
+      },
+      {
+        "id": "sng-5-q5",
+        "questionNumber": 5,
+        "question": "According to the text, what happened or was commanded in Song of Songs 5:5?",
+        "options": [
+          "“I got up to let my loved one in; and my...”",
+          "“I say to you, O daughters of Jerusalem, if...”",
+          "“His eyes are as the eyes of doves by...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“I got up to let my loved one in; and my...”",
+        "reference": "Song of Songs 5:5",
+        "explanation": "Song of Songs 5:5 records: 'I got up to let my loved one in; and my hands were dropping with myrrh, and my fingers with liquid myrrh, on the lock of the door.'."
+      },
+      {
+        "id": "sng-5-q6",
+        "questionNumber": 6,
+        "question": "What central message or instruction is delivered in Song of Songs 5:6?",
+        "options": [
+          "“What is your loved one more than another, O...”",
+          "“I made the door open to my loved one; but my...”",
+          "“His face is as beds of spices, giving out...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“I made the door open to my loved one; but my...”",
+        "reference": "Song of Songs 5:6",
+        "explanation": "Song of Songs 5:6 records: 'I made the door open to my loved one; but my loved one had taken himself away, and was gone, my soul was feeble when his back was turned on me; I went after him, but I did not come near him; I said his name, but he gave me no answer.'."
+      },
+      {
+        "id": "sng-5-q7",
+        "questionNumber": 7,
+        "question": "What detail regarding God's work, covenant, or people is given in Song of Songs 5:7?",
+        "options": [
+          "“My loved one is white and red, the chief...”",
+          "“His hands are as rings of gold ornamented with...”",
+          "“The keepers who go about the town overtook me; they gave...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“The keepers who go about the town overtook me; they gave...”",
+        "reference": "Song of Songs 5:7",
+        "explanation": "Song of Songs 5:7 records: 'The keepers who go about the town overtook me; they gave me blows and wounds; the keepers of the walls took away my veil from me.'."
+      },
+      {
+        "id": "sng-5-q8",
+        "questionNumber": 8,
+        "question": "What phrase or account is recorded in Song of Songs 5:8?",
+        "options": [
+          "“His head is as the most delicate gold; his...”",
+          "“His legs are as pillars of stone on a...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“I say to you, O daughters of Jerusalem, if you see...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“I say to you, O daughters of Jerusalem, if you see...”",
+        "reference": "Song of Songs 5:8",
+        "explanation": "Song of Songs 5:8 records: 'I say to you, O daughters of Jerusalem, if you see my loved one, what will you say to him? That I am overcome with love.'."
+      },
+      {
+        "id": "sng-5-q9",
+        "questionNumber": 9,
+        "question": "How does the passage describe the circumstances or people in Song of Songs 5:9?",
+        "options": [
+          "“What is your loved one more than another, O fairest among...”",
+          "“His eyes are as the eyes of doves by...”",
+          "“I have come into my garden, my sister, my...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“What is your loved one more than another, O fairest among...”",
+        "reference": "Song of Songs 5:9",
+        "explanation": "Song of Songs 5:9 records: 'What is your loved one more than another, O fairest among women? What is your loved one more than another, that you say this to us?'."
+      },
+      {
+        "id": "sng-5-q10",
+        "questionNumber": 10,
+        "question": "In the concluding portion of the chapter, what takes place in Song of Songs 5:10?",
+        "options": [
+          "“His face is as beds of spices, giving out...”",
+          "“My loved one is white and red, the chief among ten thousand.”",
+          "“I have come into my garden, my sister, my...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“My loved one is white and red, the chief among ten thousand.”",
+        "reference": "Song of Songs 5:10",
+        "explanation": "Song of Songs 5:10 records: 'My loved one is white and red, the chief among ten thousand.'."
+      }
+    ],
+    "6": [
+      {
+        "id": "sng-6-q1",
+        "questionNumber": 1,
+        "question": "According to Song of Songs 6:1, what is the opening statement or setting of this chapter?",
+        "options": [
+          "It records: “Where is your loved one gone, O most fair among women? Where is y...”",
+          "It begins with a prayer of thanksgiving for deliverance in Song of Songs",
+          "It opens with a formal census and counting of the congregation",
+          "It records a severe judgment pronounced against neighboring nations"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "It records: “Where is your loved one gone, O most fair among women? Where is y...”",
+        "reference": "Song of Songs 6:1",
+        "explanation": "The chapter begins directly with the statement: 'Where is your loved one gone, O most fair among women? Where is your loved one turned away, that we may go looking for him with you?'."
+      },
+      {
+        "id": "sng-6-q2",
+        "questionNumber": 2,
+        "question": "What key instruction, event, or declaration is set forth in Song of Songs 6:2?",
+        "options": [
+          "“Let your eyes be turned away from me; see,...”",
+          "“My loved one is gone down into his garden, to the...”",
+          "“My dove, my very beautiful one, is but one;...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“My loved one is gone down into his garden, to the...”",
+        "reference": "Song of Songs 6:2",
+        "explanation": "Song of Songs 6:2 records: 'My loved one is gone down into his garden, to the beds of spices, to take food in the gardens, and to get lilies.'."
+      },
+      {
+        "id": "sng-6-q3",
+        "questionNumber": 3,
+        "question": "What significant action or revelation occurs in Song of Songs 6:3?",
+        "options": [
+          "“Your teeth are like a flock of sheep which...”",
+          "“Who is she, looking down as the morning light,...”",
+          "“I am for my loved one, and my loved one is...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“I am for my loved one, and my loved one is...”",
+        "reference": "Song of Songs 6:3",
+        "explanation": "Song of Songs 6:3 records: 'I am for my loved one, and my loved one is for me; he takes food among the lilies.'."
+      },
+      {
+        "id": "sng-6-q4",
+        "questionNumber": 4,
+        "question": "What truth or description is highlighted in Song of Songs 6:4?",
+        "options": [
+          "“Like pomegranate fruit are the sides of your head...”",
+          "“I went down into the garden of nuts to...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“You are beautiful, O my love, as Tirzah, as fair as...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“You are beautiful, O my love, as Tirzah, as fair as...”",
+        "reference": "Song of Songs 6:4",
+        "explanation": "Song of Songs 6:4 records: 'You are beautiful, O my love, as Tirzah, as fair as Jerusalem; you are to be feared like an army with flags.'."
+      },
+      {
+        "id": "sng-6-q5",
+        "questionNumber": 5,
+        "question": "According to the text, what happened or was commanded in Song of Songs 6:5?",
+        "options": [
+          "“Let your eyes be turned away from me; see, they have...”",
+          "“There are sixty queens, and eighty servant-wives, and young...”",
+          "“Before I was conscious of it, ...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“Let your eyes be turned away from me; see, they have...”",
+        "reference": "Song of Songs 6:5",
+        "explanation": "Song of Songs 6:5 records: 'Let your eyes be turned away from me; see, they have overcome me; your hair is as a flock of goats which take their rest on the side of Gilead.'."
+      },
+      {
+        "id": "sng-6-q6",
+        "questionNumber": 6,
+        "question": "What central message or instruction is delivered in Song of Songs 6:6?",
+        "options": [
+          "“My dove, my very beautiful one, is but one;...”",
+          "“Your teeth are like a flock of sheep which come up...”",
+          "“Where is your loved one gone, O most fair...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“Your teeth are like a flock of sheep which come up...”",
+        "reference": "Song of Songs 6:6",
+        "explanation": "Song of Songs 6:6 records: 'Your teeth are like a flock of sheep which come up from the washing; every one has two lambs, and there is not one without young.'."
+      },
+      {
+        "id": "sng-6-q7",
+        "questionNumber": 7,
+        "question": "What detail regarding God's work, covenant, or people is given in Song of Songs 6:7?",
+        "options": [
+          "“Who is she, looking down as the morning light,...”",
+          "“Where is your loved one gone, O most fair...”",
+          "“Like pomegranate fruit are the sides of your head under your veil.”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“Like pomegranate fruit are the sides of your head under your veil.”",
+        "reference": "Song of Songs 6:7",
+        "explanation": "Song of Songs 6:7 records: 'Like pomegranate fruit are the sides of your head under your veil.'."
+      },
+      {
+        "id": "sng-6-q8",
+        "questionNumber": 8,
+        "question": "What phrase or account is recorded in Song of Songs 6:8?",
+        "options": [
+          "“I went down into the garden of nuts to...”",
+          "“My loved one is gone down into his garden,...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“There are sixty queens, and eighty servant-wives, and young girls without number.”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“There are sixty queens, and eighty servant-wives, and young girls without number.”",
+        "reference": "Song of Songs 6:8",
+        "explanation": "Song of Songs 6:8 records: 'There are sixty queens, and eighty servant-wives, and young girls without number.'."
+      },
+      {
+        "id": "sng-6-q9",
+        "questionNumber": 9,
+        "question": "How does the passage describe the circumstances or people in Song of Songs 6:9?",
+        "options": [
+          "“My dove, my very beautiful one, is but one; she is...”",
+          "“Before I was conscious of it, ...”",
+          "“I am for my loved one, and my loved...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“My dove, my very beautiful one, is but one; she is...”",
+        "reference": "Song of Songs 6:9",
+        "explanation": "Song of Songs 6:9 records: 'My dove, my very beautiful one, is but one; she is the only one of her mother, she is the dearest one of her who gave her birth. The daughters saw her, and gave her a blessing; yes, the queens and the servant-wives, and they gave her praises.'."
+      },
+      {
+        "id": "sng-6-q10",
+        "questionNumber": 10,
+        "question": "In the concluding portion of the chapter, what takes place in Song of Songs 6:10?",
+        "options": [
+          "“Where is your loved one gone, O most fair...”",
+          "“Who is she, looking down as the morning light, fair as...”",
+          "“You are beautiful, O my love, as Tirzah, as...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“Who is she, looking down as the morning light, fair as...”",
+        "reference": "Song of Songs 6:10",
+        "explanation": "Song of Songs 6:10 records: 'Who is she, looking down as the morning light, fair as the moon, clear as the sun, who is to be feared like an army with flags?'."
+      }
+    ],
+    "7": [
+      {
+        "id": "sng-7-q1",
+        "questionNumber": 1,
+        "question": "According to Song of Songs 7:1, what is the opening statement or setting of this chapter?",
+        "options": [
+          "It records: “How beautiful are your feet in their shoes, O king's daughter! Th...”",
+          "It begins with a prayer of thanksgiving for deliverance in Song of Songs",
+          "It opens with a formal census and counting of the congregation",
+          "It records a severe judgment pronounced against neighboring nations"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "It records: “How beautiful are your feet in their shoes, O king's daughter! Th...”",
+        "reference": "Song of Songs 7:1",
+        "explanation": "The chapter begins directly with the statement: 'How beautiful are your feet in their shoes, O king's daughter! The curves of your legs are like jewels, the work of the hands of a good workman:'."
+      },
+      {
+        "id": "sng-7-q2",
+        "questionNumber": 2,
+        "question": "What key instruction, event, or declaration is set forth in Song of Songs 7:2?",
+        "options": [
+          "“Your head is like Carmel, and the hair of...”",
+          "“Your stomach is a store of grain with lilies round it,...”",
+          "“And the roof of your mouth like good wine...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“Your stomach is a store of grain with lilies round it,...”",
+        "reference": "Song of Songs 7:2",
+        "explanation": "Song of Songs 7:2 records: 'Your stomach is a store of grain with lilies round it, and in the middle a round cup full of wine.'."
+      },
+      {
+        "id": "sng-7-q3",
+        "questionNumber": 3,
+        "question": "What significant action or revelation occurs in Song of Songs 7:3?",
+        "options": [
+          "“How beautiful and how sweet you are, O love,...”",
+          "“I am for my loved one, and his desire...”",
+          "“Your two breasts are like two young roes of the same birth.”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“Your two breasts are like two young roes of the same birth.”",
+        "reference": "Song of Songs 7:3",
+        "explanation": "Song of Songs 7:3 records: 'Your two breasts are like two young roes of the same birth.'."
+      },
+      {
+        "id": "sng-7-q4",
+        "questionNumber": 4,
+        "question": "What truth or description is highlighted in Song of Songs 7:4?",
+        "options": [
+          "“You are tall like a palm-tree, and your breasts...”",
+          "“Come, my loved one, let us go out into...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“Your neck is as a tower of ivory; your eyes like...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“Your neck is as a tower of ivory; your eyes like...”",
+        "reference": "Song of Songs 7:4",
+        "explanation": "Song of Songs 7:4 records: 'Your neck is as a tower of ivory; your eyes like the waters in Heshbon, by the doorway of Bath-rabbim; your nose is as the tower on Lebanon looking over Damascus:'."
+      },
+      {
+        "id": "sng-7-q5",
+        "questionNumber": 5,
+        "question": "According to the text, what happened or was commanded in Song of Songs 7:5?",
+        "options": [
+          "“Your head is like Carmel, and the hair of your head...”",
+          "“I said, Let me go up the palm-tree, and...”",
+          "“Let us go out early to the vine-gardens; let...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“Your head is like Carmel, and the hair of your head...”",
+        "reference": "Song of Songs 7:5",
+        "explanation": "Song of Songs 7:5 records: 'Your head is like Carmel, and the hair of your head is like purple, in whose net the king is prisoner.'."
+      },
+      {
+        "id": "sng-7-q6",
+        "questionNumber": 6,
+        "question": "What central message or instruction is delivered in Song of Songs 7:6?",
+        "options": [
+          "“And the roof of your mouth like good wine...”",
+          "“How beautiful and how sweet you are, O love, for delight.”",
+          "“How beautiful are your feet in their shoes, O...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“How beautiful and how sweet you are, O love, for delight.”",
+        "reference": "Song of Songs 7:6",
+        "explanation": "Song of Songs 7:6 records: 'How beautiful and how sweet you are, O love, for delight.'."
+      },
+      {
+        "id": "sng-7-q7",
+        "questionNumber": 7,
+        "question": "What detail regarding God's work, covenant, or people is given in Song of Songs 7:7?",
+        "options": [
+          "“I am for my loved one, and his desire...”",
+          "“How beautiful are your feet in their shoes, O...”",
+          "“You are tall like a palm-tree, and your breasts are like...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“You are tall like a palm-tree, and your breasts are like...”",
+        "reference": "Song of Songs 7:7",
+        "explanation": "Song of Songs 7:7 records: 'You are tall like a palm-tree, and your breasts are like the fruit of the vine.'."
+      },
+      {
+        "id": "sng-7-q8",
+        "questionNumber": 8,
+        "question": "What phrase or account is recorded in Song of Songs 7:8?",
+        "options": [
+          "“Come, my loved one, let us go out into...”",
+          "“Your stomach is a store of grain with lilies...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“I said, Let me go up the palm-tree, and let me...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“I said, Let me go up the palm-tree, and let me...”",
+        "reference": "Song of Songs 7:8",
+        "explanation": "Song of Songs 7:8 records: 'I said, Let me go up the palm-tree, and let me take its branches in my hands: your breasts will be as the fruit of the vine, and the smell of your breath like apples;'."
+      },
+      {
+        "id": "sng-7-q9",
+        "questionNumber": 9,
+        "question": "How does the passage describe the circumstances or people in Song of Songs 7:9?",
+        "options": [
+          "“And the roof of your mouth like good wine flowing down...”",
+          "“Let us go out early to the vine-gardens; let...”",
+          "“Your two breasts are like two young roes of...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“And the roof of your mouth like good wine flowing down...”",
+        "reference": "Song of Songs 7:9",
+        "explanation": "Song of Songs 7:9 records: 'And the roof of your mouth like good wine flowing down smoothly for my loved one, moving gently over my lips and my teeth.'."
+      },
+      {
+        "id": "sng-7-q10",
+        "questionNumber": 10,
+        "question": "In the concluding portion of the chapter, what takes place in Song of Songs 7:10?",
+        "options": [
+          "“How beautiful are your feet in their shoes, O...”",
+          "“I am for my loved one, and his desire is for me.”",
+          "“Your neck is as a tower of ivory; your...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“I am for my loved one, and his desire is for me.”",
+        "reference": "Song of Songs 7:10",
+        "explanation": "Song of Songs 7:10 records: 'I am for my loved one, and his desire is for me.'."
+      }
+    ],
+    "8": [
+      {
+        "id": "sng-8-q1",
+        "questionNumber": 1,
+        "question": "According to Song of Songs 8:1, what is the opening statement or setting of this chapter?",
+        "options": [
+          "It records: “Oh that you were my brother, who took milk from my mother's breas...”",
+          "It begins with a prayer of thanksgiving for deliverance in Song of Songs",
+          "It opens with a formal census and counting of the congregation",
+          "It records a severe judgment pronounced against neighboring nations"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "It records: “Oh that you were my brother, who took milk from my mother's breas...”",
+        "reference": "Song of Songs 8:1",
+        "explanation": "The chapter begins directly with the statement: 'Oh that you were my brother, who took milk from my mother's breasts! When I came to you in the street, I would give you kisses; yes, I would not be looked down on.'."
+      },
+      {
+        "id": "sng-8-q2",
+        "questionNumber": 2,
+        "question": "What key instruction, event, or declaration is set forth in Song of Songs 8:2?",
+        "options": [
+          "“Who is this, who comes up from the waste...”",
+          "“I would take you by the hand into my mother's house,...”",
+          "“If she is a wall, we will make on...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“I would take you by the hand into my mother's house,...”",
+        "reference": "Song of Songs 8:2",
+        "explanation": "Song of Songs 8:2 records: 'I would take you by the hand into my mother's house, and she would be my teacher. I would give you drink of spiced wine, drink of the pomegranate.'."
+      },
+      {
+        "id": "sng-8-q3",
+        "questionNumber": 3,
+        "question": "What significant action or revelation occurs in Song of Songs 8:3?",
+        "options": [
+          "“Put me as a sign on your heart, as...”",
+          "“I am a wall, and my breasts are like...”",
+          "“His left hand would be under my head, and his right...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“His left hand would be under my head, and his right...”",
+        "reference": "Song of Songs 8:3",
+        "explanation": "Song of Songs 8:3 records: 'His left hand would be under my head, and his right hand about me.'."
+      },
+      {
+        "id": "sng-8-q4",
+        "questionNumber": 4,
+        "question": "What truth or description is highlighted in Song of Songs 8:4?",
+        "options": [
+          "“Much water may not put out love, or the...”",
+          "“Solomon had a vine-garden at Baal-hamon; he let out...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“I say to you, O daughters of Jerusalem, do not let...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“I say to you, O daughters of Jerusalem, do not let...”",
+        "reference": "Song of Songs 8:4",
+        "explanation": "Song of Songs 8:4 records: 'I say to you, O daughters of Jerusalem, do not let love be moved till it is ready.'."
+      },
+      {
+        "id": "sng-8-q5",
+        "questionNumber": 5,
+        "question": "According to the text, what happened or was commanded in Song of Songs 8:5?",
+        "options": [
+          "“Who is this, who comes up from the waste places, resting...”",
+          "“We have a young sister, and she has no...”",
+          "“My vine-garden, which is mine, is before me: you,...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“Who is this, who comes up from the waste places, resting...”",
+        "reference": "Song of Songs 8:5",
+        "explanation": "Song of Songs 8:5 records: 'Who is this, who comes up from the waste places, resting on her loved one? It was I who made you awake under the apple-tree, where your mother gave you birth; there she was in pain at your birth.'."
+      },
+      {
+        "id": "sng-8-q6",
+        "questionNumber": 6,
+        "question": "What central message or instruction is delivered in Song of Songs 8:6?",
+        "options": [
+          "“If she is a wall, we will make on...”",
+          "“Put me as a sign on your heart, as a sign...”",
+          "“You who have your resting-place in the gardens, the...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“Put me as a sign on your heart, as a sign...”",
+        "reference": "Song of Songs 8:6",
+        "explanation": "Song of Songs 8:6 records: 'Put me as a sign on your heart, as a sign on your arm; love is strong as death, and wrath bitter as the underworld: its coals are coals of fire; violent are its flames.'."
+      },
+      {
+        "id": "sng-8-q7",
+        "questionNumber": 7,
+        "question": "What detail regarding God's work, covenant, or people is given in Song of Songs 8:7?",
+        "options": [
+          "“I am a wall, and my breasts are like...”",
+          "“Oh that you were my brother, who took milk...”",
+          "“Much water may not put out love, or the deep waters...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“Much water may not put out love, or the deep waters...”",
+        "reference": "Song of Songs 8:7",
+        "explanation": "Song of Songs 8:7 records: 'Much water may not put out love, or the deep waters overcome it: if a man would give all the substance of his house for love, it would be judged a price not great enough.'."
+      },
+      {
+        "id": "sng-8-q8",
+        "questionNumber": 8,
+        "question": "What phrase or account is recorded in Song of Songs 8:8?",
+        "options": [
+          "“Solomon had a vine-garden at Baal-hamon; he let out...”",
+          "“Oh that you were my brother, who took milk...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“We have a young sister, and she has no breasts; what...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“We have a young sister, and she has no breasts; what...”",
+        "reference": "Song of Songs 8:8",
+        "explanation": "Song of Songs 8:8 records: 'We have a young sister, and she has no breasts; what are we to do for our sister in the day when she is given to a man?'."
+      },
+      {
+        "id": "sng-8-q9",
+        "questionNumber": 9,
+        "question": "How does the passage describe the circumstances or people in Song of Songs 8:9?",
+        "options": [
+          "“If she is a wall, we will make on her a...”",
+          "“My vine-garden, which is mine, is before me: you,...”",
+          "“I would take you by the hand into my...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“If she is a wall, we will make on her a...”",
+        "reference": "Song of Songs 8:9",
+        "explanation": "Song of Songs 8:9 records: 'If she is a wall, we will make on her a strong base of silver; and if she is a door, we will let her be shut up with cedar-wood.'."
+      },
+      {
+        "id": "sng-8-q10",
+        "questionNumber": 10,
+        "question": "In the concluding portion of the chapter, what takes place in Song of Songs 8:10?",
+        "options": [
+          "“You who have your resting-place in the gardens, the...”",
+          "“I am a wall, and my breasts are like towers; then...”",
+          "“His left hand would be under my head, and...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“I am a wall, and my breasts are like towers; then...”",
+        "reference": "Song of Songs 8:10",
+        "explanation": "Song of Songs 8:10 records: 'I am a wall, and my breasts are like towers; then was I in his eyes as one to whom good chance had come.'."
+      }
+    ]
+  }
+}

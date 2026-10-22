@@ -5,25 +5,67 @@ import SearchModal from './components/SearchModal';
 import BookmarksDrawer from './components/BookmarksDrawer';
 import AboutCopyrightModal from './components/AboutCopyrightModal';
 import InstallAppModal from './components/InstallAppModal';
+import BookReviewModal from './components/BookReviewModal';
 import { CheckCircle2, WifiOff } from 'lucide-react';
 
-import bibleData from './data/genesis_bible_text.json';
+import { 
+  getBookMeta, 
+  getAllBooks, 
+  getAdjacentBooks, 
+  loadBookText, 
+  loadBookKjv, 
+  loadBookChapterQA 
+} from './services/bibleService';
 
 export default function App() {
-  // Restore last-read chapter from URL or localStorage
+  // Determine initial book from URL (?book=GEN) or localStorage
+  const [currentBookId, setCurrentBookId] = useState(() => {
+    try {
+      const urlParams = new URLSearchParams(window.location.search);
+      const bookParam = urlParams.get('book');
+      if (bookParam) {
+        const meta = getBookMeta(bookParam);
+        if (meta) return meta.id;
+      }
+      const savedBook = localStorage.getItem('holy_bible_current_book');
+      if (savedBook) {
+        const meta = getBookMeta(savedBook);
+        if (meta) return meta.id;
+      }
+    } catch {}
+    return 'GEN';
+  });
+
+  const currentBookMeta = getBookMeta(currentBookId) || {
+    id: 'GEN',
+    name: 'Genesis',
+    slug: 'genesis',
+    chapters: 50
+  };
+
+  // Determine initial chapter from URL (?ch=1) or localStorage
   const [currentChapter, setCurrentChapter] = useState(() => {
     try {
       const urlParams = new URLSearchParams(window.location.search);
       const chParam = parseInt(urlParams.get('ch'), 10);
-      if (chParam && chParam >= 1 && chParam <= 50) return chParam;
+      const meta = getBookMeta(urlParams.get('book') || localStorage.getItem('holy_bible_current_book') || 'GEN');
+      const maxCh = meta ? meta.chapters : 50;
+      if (chParam && chParam >= 1 && chParam <= maxCh) return chParam;
       const saved = localStorage.getItem('holy_bible_last_chapter');
-      return saved ? parseInt(saved, 10) : 1;
+      const savedInt = saved ? parseInt(saved, 10) : 1;
+      return savedInt <= maxCh ? savedInt : 1;
     } catch {
       return 1;
     }
   });
 
   const [targetVerse, setTargetVerse] = useState(null);
+
+  // Dynamic loaded book data state
+  const [bookText, setBookText] = useState(null);
+  const [kjvBookData, setKjvBookData] = useState(null);
+  const [chapterQaData, setChapterQaData] = useState(null);
+  const [isLoadingBook, setIsLoadingBook] = useState(true);
 
   // Persistent settings in localStorage (with query param override support)
   const [theme, setTheme] = useState(() => {
@@ -36,9 +78,11 @@ export default function App() {
     } catch {}
     return localStorage.getItem('holy_bible_theme') || 'paper';
   });
+
   const [fontSize, setFontSize] = useState(() => {
     return localStorage.getItem('holy_bible_font_size') || 'medium';
   });
+
   const [bookmarks, setBookmarks] = useState(() => {
     try {
       const saved = localStorage.getItem('holy_bible_bookmarks');
@@ -47,6 +91,7 @@ export default function App() {
       return [];
     }
   });
+
   const [highlights, setHighlights] = useState(() => {
     try {
       const saved = localStorage.getItem('holy_bible_highlights');
@@ -65,6 +110,10 @@ export default function App() {
     const urlParams = new URLSearchParams(window.location.search);
     return urlParams.get('action') === 'bookmarks';
   });
+  const [isBookReviewOpen, setIsBookReviewOpen] = useState(() => {
+    const urlParams = new URLSearchParams(window.location.search);
+    return urlParams.get('action') === 'review';
+  });
   const [isCopyrightOpen, setIsCopyrightOpen] = useState(false);
   const [isInstallModalOpen, setIsInstallModalOpen] = useState(false);
 
@@ -82,10 +131,52 @@ export default function App() {
   });
   const [showInstallToast, setShowInstallToast] = useState(false);
 
-  // Sync currentChapter to localStorage
+  // Load Book Content when currentBookId changes
   useEffect(() => {
+    let isMounted = true;
+
+    async function loadData() {
+      setIsLoadingBook(true);
+      try {
+        const [textData, kjvData, qaData] = await Promise.all([
+          loadBookText(currentBookId),
+          loadBookKjv(currentBookId),
+          loadBookChapterQA(currentBookId)
+        ]);
+
+        if (isMounted) {
+          setBookText(textData);
+          setKjvBookData(kjvData);
+          setChapterQaData(qaData);
+        }
+      } catch (err) {
+        console.error('Error loading book assets:', err);
+      } finally {
+        if (isMounted) {
+          setIsLoadingBook(false);
+        }
+      }
+    }
+
+    loadData();
+
+    return () => {
+      isMounted = false;
+    };
+  }, [currentBookId]);
+
+  // Sync currentBookId and currentChapter to localStorage and URL params
+  useEffect(() => {
+    localStorage.setItem('holy_bible_current_book', currentBookId);
     localStorage.setItem('holy_bible_last_chapter', String(currentChapter));
-  }, [currentChapter]);
+
+    try {
+      const url = new URL(window.location.href);
+      url.searchParams.set('book', currentBookId);
+      url.searchParams.set('ch', String(currentChapter));
+      window.history.replaceState({}, '', url.toString());
+    } catch {}
+  }, [currentBookId, currentChapter]);
 
   // Sync settings with localStorage and document styling
   useEffect(() => {
@@ -150,7 +241,6 @@ export default function App() {
   // PWA BeforeInstallPrompt and AppInstalled Event Handlers
   useEffect(() => {
     const handleBeforeInstall = (e) => {
-      // Prevent automatic browser mini-infobar on mobile
       e.preventDefault();
       setDeferredPrompt(e);
     };
@@ -184,14 +274,33 @@ export default function App() {
         }
       }
     } catch {}
-  }, [currentChapter]);
+  }, [currentBookId, currentChapter]);
 
-  // Chapter data retrieval
-  const currentBibleChapter = bibleData.chapters.find((c) => c.chapter === currentChapter) || bibleData.chapters[0];
+  // Current Chapter Data retrieval
+  const currentBibleChapter = bookText?.chapters?.find((c) => c.chapter === currentChapter) || 
+    bookText?.chapters?.[0] || 
+    null;
+
+  // Current Chapter QA retrieval
+  const currentChapterQA = chapterQaData?.chapters?.[String(currentChapter)] || null;
+
+  // Adjacent Books
+  const adjacentBooks = getAdjacentBooks(currentBookId);
 
   // Navigation Handlers
+  const handleSelectBook = (newBookId) => {
+    const meta = getBookMeta(newBookId);
+    if (meta) {
+      setCurrentBookId(meta.id);
+      setCurrentChapter(1);
+      setTargetVerse(null);
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    }
+  };
+
   const handleSelectChapter = (ch) => {
-    if (ch >= 1 && ch <= 50) {
+    const maxCh = currentBookMeta.chapters || 50;
+    if (ch >= 1 && ch <= maxCh) {
       setCurrentChapter(ch);
       setTargetVerse(null);
       window.scrollTo({ top: 0, behavior: 'smooth' });
@@ -201,48 +310,74 @@ export default function App() {
   const handlePrevChapter = () => {
     if (currentChapter > 1) {
       handleSelectChapter(currentChapter - 1);
+    } else if (adjacentBooks.prev) {
+      handleSelectBook(adjacentBooks.prev.id);
     }
   };
 
   const handleNextChapter = () => {
-    if (currentChapter < 50) {
+    const maxCh = currentBookMeta.chapters || 50;
+    if (currentChapter < maxCh) {
       handleSelectChapter(currentChapter + 1);
+    } else if (adjacentBooks.next) {
+      handleSelectBook(adjacentBooks.next.id);
+    }
+  };
+
+  const handleNextBook = () => {
+    if (adjacentBooks.next) {
+      handleSelectBook(adjacentBooks.next.id);
     }
   };
 
   const handleToggleBookmark = (ch, verseNum, text) => {
     setBookmarks((prev) => {
-      const exists = prev.some((b) => b.chapter === ch && b.verse === verseNum);
+      const exists = prev.some((b) => (b.bookId || 'GEN') === currentBookId && b.chapter === ch && b.verse === verseNum);
       if (exists) {
-        return prev.filter((b) => !(b.chapter === ch && b.verse === verseNum));
+        return prev.filter((b) => !((b.bookId || 'GEN') === currentBookId && b.chapter === ch && b.verse === verseNum));
       } else {
-        return [...prev, { chapter: ch, verse: verseNum, text, date: new Date().toISOString() }];
+        return [
+          ...prev, 
+          { 
+            bookId: currentBookId, 
+            bookName: currentBookMeta.name, 
+            chapter: ch, 
+            verse: verseNum, 
+            text, 
+            date: new Date().toISOString() 
+          }
+        ];
       }
     });
   };
 
-  const handleRemoveBookmark = (ch, verseNum) => {
-    setBookmarks((prev) => prev.filter((b) => !(b.chapter === ch && b.verse === verseNum)));
+  const handleRemoveBookmark = (ch, verseNum, bId) => {
+    const targetBookId = bId || currentBookId;
+    setBookmarks((prev) => prev.filter((b) => !((b.bookId || 'GEN') === targetBookId && b.chapter === ch && b.verse === verseNum)));
   };
 
   const handleSetHighlight = (verseKey, color) => {
+    const scopedKey = `${currentBookId}-${verseKey}`;
     setHighlights((prev) => {
       const updated = { ...prev };
       if (!color) {
-        delete updated[verseKey];
+        delete updated[scopedKey];
       } else {
-        updated[verseKey] = color;
+        updated[scopedKey] = color;
       }
       return updated;
     });
   };
 
-  const handleSelectVerseFromSearchOrBookmark = (ch, verseNum) => {
+  const handleSelectVerseFromSearchOrBookmark = (ch, verseNum, bId) => {
+    if (bId && bId !== currentBookId) {
+      setCurrentBookId(bId);
+    }
     setCurrentChapter(ch);
     setTargetVerse(verseNum);
   };
 
-  // Font size classes with optimal reading sizes (17-19px standard) and comfortable leading
+  // Font size classes
   const fontSizeMap = {
     small: 'text-[15px] sm:text-[16px] leading-[1.75]',
     medium: 'text-[17px] sm:text-[18px] md:text-[19px] leading-[1.8] sm:leading-[1.85]',
@@ -254,9 +389,11 @@ export default function App() {
     <div className={`min-h-screen theme-${theme} ${theme === 'dark' || theme === 'midnight' ? 'dark' : ''} transition-colors duration-200 flex flex-col pt-safe pb-safe pl-safe pr-safe touch-pan-y`}>
       {/* Top Navbar */}
       <Navbar
-        currentBook="Genesis"
+        currentBookId={currentBookId}
+        currentBook={currentBookMeta.name}
         currentChapter={currentChapter}
-        totalChapters={50}
+        totalChapters={currentBookMeta.chapters}
+        onSelectBook={handleSelectBook}
         onSelectChapter={handleSelectChapter}
         onPrevChapter={handlePrevChapter}
         onNextChapter={handleNextChapter}
@@ -268,6 +405,7 @@ export default function App() {
         onOpenBookmarks={() => setIsBookmarksOpen(true)}
         onOpenCopyright={() => setIsCopyrightOpen(true)}
         onOpenInstall={() => setIsInstallModalOpen(true)}
+        onOpenBookReview={() => setIsBookReviewOpen(true)}
         isInstalled={isInstalled}
         isOnline={isOnline}
         bookmarkCount={bookmarks.length}
@@ -275,25 +413,49 @@ export default function App() {
 
       {/* Main View: Dedicated Bible Reader */}
       <main className="flex-1 w-full touch-pan-y">
-        <BibleReader
-          chapterData={currentBibleChapter}
-          onPrevChapter={handlePrevChapter}
-          onNextChapter={handleNextChapter}
-          fontSizeClass={fontSizeMap[fontSize] || 'text-base'}
-          bookmarks={bookmarks}
-          onToggleBookmark={handleToggleBookmark}
-          targetVerse={targetVerse}
-          clearTargetVerse={() => setTargetVerse(null)}
-          highlights={highlights}
-          onSetHighlight={handleSetHighlight}
-        />
+        {isLoadingBook ? (
+          <div className="py-24 text-center text-stone-500 font-sans">
+            <div className="w-8 h-8 mx-auto mb-3 border-2 border-amber-700 border-t-transparent rounded-full animate-spin" />
+            Loading {currentBookMeta.name}...
+          </div>
+        ) : (
+          <BibleReader
+            chapterData={currentBibleChapter}
+            bookMeta={currentBookMeta}
+            kjvBookData={kjvBookData}
+            chapterQA={currentChapterQA}
+            onPrevChapter={handlePrevChapter}
+            onNextChapter={handleNextChapter}
+            onOpenBookReview={() => setIsBookReviewOpen(true)}
+            onNextBook={adjacentBooks.next ? handleNextBook : null}
+            nextBookMeta={adjacentBooks.next}
+            fontSizeClass={fontSizeMap[fontSize] || 'text-base'}
+            bookmarks={bookmarks}
+            onToggleBookmark={handleToggleBookmark}
+            targetVerse={targetVerse}
+            clearTargetVerse={() => setTargetVerse(null)}
+            highlights={highlights}
+            onSetHighlight={handleSetHighlight}
+          />
+        )}
       </main>
+
+      {/* 50-Question Comprehensive Book Review Assessment Modal */}
+      <BookReviewModal
+        isOpen={isBookReviewOpen}
+        onClose={() => setIsBookReviewOpen(false)}
+        bookId={currentBookId}
+        bookName={currentBookMeta.name}
+      />
 
       {/* Modals & Overlays */}
       <SearchModal
         isOpen={isSearchOpen}
         onClose={() => setIsSearchOpen(false)}
         onSelectVerse={handleSelectVerseFromSearchOrBookmark}
+        currentBookText={bookText}
+        bookName={currentBookMeta.name}
+        bookId={currentBookId}
       />
 
       <BookmarksDrawer
@@ -303,7 +465,9 @@ export default function App() {
         onRemoveBookmark={handleRemoveBookmark}
         onSelectVerse={handleSelectVerseFromSearchOrBookmark}
         currentChapter={currentChapter}
-        totalChapters={50}
+        totalChapters={currentBookMeta.chapters}
+        bookName={currentBookMeta.name}
+        bookId={currentBookId}
       />
 
       <AboutCopyrightModal

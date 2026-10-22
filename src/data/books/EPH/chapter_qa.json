@@ -1,0 +1,921 @@
+{
+  "book": "Ephesians",
+  "bookId": "EPH",
+  "totalChapters": 6,
+  "totalQuestions": 60,
+  "questionsPerChapter": 10,
+  "chapters": {
+    "1": [
+      {
+        "id": "eph-1-q1",
+        "questionNumber": 1,
+        "question": "According to Ephesians 1:1, what is the opening statement or setting of this chapter?",
+        "options": [
+          "It records: “Paul, an Apostle of Christ Jesus by the purpose of God, to the sa...”",
+          "It begins with a prayer of thanksgiving for deliverance in Ephesians",
+          "It opens with a formal census and counting of the congregation",
+          "It records a severe judgment pronounced against neighboring nations"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "It records: “Paul, an Apostle of Christ Jesus by the purpose of God, to the sa...”",
+        "reference": "Ephesians 1:1",
+        "explanation": "The chapter begins directly with the statement: 'Paul, an Apostle of Christ Jesus by the purpose of God, to the saints who are at Ephesus, and those who have faith in Christ Jesus:'."
+      },
+      {
+        "id": "eph-1-q2",
+        "questionNumber": 2,
+        "question": "What key instruction, event, or declaration is set forth in Ephesians 1:2?",
+        "options": [
+          "“As we were designed before by him for the...”",
+          "“Grace to you and peace from God our Father and the...”",
+          "“Having made clear to us the secret of his...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“Grace to you and peace from God our Father and the...”",
+        "reference": "Ephesians 1:2",
+        "explanation": "Ephesians 1:2 records: 'Grace to you and peace from God our Father and the Lord Jesus Christ.'."
+      },
+      {
+        "id": "eph-1-q3",
+        "questionNumber": 3,
+        "question": "What significant action or revelation occurs in Ephesians 1:4?",
+        "options": [
+          "“In whom we have salvation through his blood, the...”",
+          "“In whom we have a heritage, being marked out...”",
+          "“Even as he made selection of us in him from the...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“Even as he made selection of us in him from the...”",
+        "reference": "Ephesians 1:4",
+        "explanation": "Ephesians 1:4 records: 'Even as he made selection of us in him from the first, so that we might be holy and free from all evil before him in love:'."
+      },
+      {
+        "id": "eph-1-q4",
+        "questionNumber": 4,
+        "question": "What truth or description is highlighted in Ephesians 1:6?",
+        "options": [
+          "“Having made clear to us the secret of his...”",
+          "“In whom you, having been given the true word,...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“To the praise of the glory of his grace, which he...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“To the praise of the glory of his grace, which he...”",
+        "reference": "Ephesians 1:6",
+        "explanation": "Ephesians 1:6 records: 'To the praise of the glory of his grace, which he freely gave to us in the Loved One:'."
+      },
+      {
+        "id": "eph-1-q5",
+        "questionNumber": 5,
+        "question": "According to the text, what happened or was commanded in Ephesians 1:8?",
+        "options": [
+          "“Which he gave us in full measure in all wisdom and care;”",
+          "“In whom we have a heritage, being marked out...”",
+          "“For this cause I, having had news of the...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“Which he gave us in full measure in all wisdom and care;”",
+        "reference": "Ephesians 1:8",
+        "explanation": "Ephesians 1:8 records: 'Which he gave us in full measure in all wisdom and care;'."
+      },
+      {
+        "id": "eph-1-q6",
+        "questionNumber": 6,
+        "question": "What central message or instruction is delivered in Ephesians 1:10?",
+        "options": [
+          "“In whom you, having been given the true word,...”",
+          "“The ordering of the times when they are complete, so that...”",
+          "“That the God of our Lord Jesus Christ, the...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“The ordering of the times when they are complete, so that...”",
+        "reference": "Ephesians 1:10",
+        "explanation": "Ephesians 1:10 records: 'The ordering of the times when they are complete, so that all things might come to a head in Christ, the things in heaven and the things on the earth; in him, I say,'."
+      },
+      {
+        "id": "eph-1-q7",
+        "questionNumber": 7,
+        "question": "What detail regarding God's work, covenant, or people is given in Ephesians 1:12?",
+        "options": [
+          "“For this cause I, having had news of the...”",
+          "“And how unlimited is his power to us who...”",
+          "“So that his glory might have praise through us who first...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“So that his glory might have praise through us who first...”",
+        "reference": "Ephesians 1:12",
+        "explanation": "Ephesians 1:12 records: 'So that his glory might have praise through us who first had hope in Christ:'."
+      },
+      {
+        "id": "eph-1-q8",
+        "questionNumber": 8,
+        "question": "What phrase or account is recorded in Ephesians 1:14?",
+        "options": [
+          "“That the God of our Lord Jesus Christ, the...”",
+          "“Far over all rule and authority and power and...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“Which is the first-fruit of our heritage, till God gets back...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“Which is the first-fruit of our heritage, till God gets back...”",
+        "reference": "Ephesians 1:14",
+        "explanation": "Ephesians 1:14 records: 'Which is the first-fruit of our heritage, till God gets back that which is his, to the praise of his glory.'."
+      },
+      {
+        "id": "eph-1-q9",
+        "questionNumber": 9,
+        "question": "How does the passage describe the circumstances or people in Ephesians 1:16?",
+        "options": [
+          "“Give praise without end for you, keeping you in mind in...”",
+          "“And how unlimited is his power to us who...”",
+          "“Paul, an Apostle of Christ Jesus by the purpose...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“Give praise without end for you, keeping you in mind in...”",
+        "reference": "Ephesians 1:16",
+        "explanation": "Ephesians 1:16 records: 'Give praise without end for you, keeping you in mind in my prayers;'."
+      },
+      {
+        "id": "eph-1-q10",
+        "questionNumber": 10,
+        "question": "In the concluding portion of the chapter, what takes place in Ephesians 1:18?",
+        "options": [
+          "“Far over all rule and authority and power and...”",
+          "“And that having the eyes of your heart full of light,...”",
+          "“Grace to you and peace from God our Father...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“And that having the eyes of your heart full of light,...”",
+        "reference": "Ephesians 1:18",
+        "explanation": "Ephesians 1:18 records: 'And that having the eyes of your heart full of light, you may have knowledge of what is the hope of his purpose, what is the wealth of the glory of his heritage in the saints,'."
+      }
+    ],
+    "2": [
+      {
+        "id": "eph-2-q1",
+        "questionNumber": 1,
+        "question": "According to Ephesians 2:1, what is the opening statement or setting of this chapter?",
+        "options": [
+          "It records: “And to you did he give life, when you were dead through your wron...”",
+          "It begins with a prayer of thanksgiving for deliverance in Ephesians",
+          "It opens with a formal census and counting of the congregation",
+          "It records a severe judgment pronounced against neighboring nations"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "It records: “And to you did he give life, when you were dead through your wron...”",
+        "reference": "Ephesians 2:1",
+        "explanation": "The chapter begins directly with the statement: 'And to you did he give life, when you were dead through your wrongdoing and sins,'."
+      },
+      {
+        "id": "eph-2-q2",
+        "questionNumber": 2,
+        "question": "What key instruction, event, or declaration is set forth in Ephesians 2:2?",
+        "options": [
+          "“Even when we were dead through our sins, gave...”",
+          "“In which you were living in the past, after the ways...”",
+          "“Not by works, so that no man may take...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“In which you were living in the past, after the ways...”",
+        "reference": "Ephesians 2:2",
+        "explanation": "Ephesians 2:2 records: 'In which you were living in the past, after the ways of this present world, doing the pleasure of the lord of the power of the air, the spirit who is now working in those who go against the purpose of God;'."
+      },
+      {
+        "id": "eph-2-q3",
+        "questionNumber": 3,
+        "question": "What significant action or revelation occurs in Ephesians 2:4?",
+        "options": [
+          "“That in the time to come he might make...”",
+          "“For this reason keep it in mind that in...”",
+          "“But God, being full of mercy, through the great love which...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“But God, being full of mercy, through the great love which...”",
+        "reference": "Ephesians 2:4",
+        "explanation": "Ephesians 2:4 records: 'But God, being full of mercy, through the great love which he had for us,'."
+      },
+      {
+        "id": "eph-2-q4",
+        "questionNumber": 4,
+        "question": "What truth or description is highlighted in Ephesians 2:6?",
+        "options": [
+          "“Not by works, so that no man may take...”",
+          "“But now in Christ Jesus you who at one...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“So that we came back from death with him, and are...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“So that we came back from death with him, and are...”",
+        "reference": "Ephesians 2:6",
+        "explanation": "Ephesians 2:6 records: 'So that we came back from death with him, and are seated with him in the heavens, in Christ Jesus;'."
+      },
+      {
+        "id": "eph-2-q5",
+        "questionNumber": 5,
+        "question": "According to the text, what happened or was commanded in Ephesians 2:8?",
+        "options": [
+          "“Because by grace you have salvation through faith; and that not...”",
+          "“For this reason keep it in mind that in...”",
+          "“Having in his flesh put an end to that...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“Because by grace you have salvation through faith; and that not...”",
+        "reference": "Ephesians 2:8",
+        "explanation": "Ephesians 2:8 records: 'Because by grace you have salvation through faith; and that not of yourselves: it is given by God:'."
+      },
+      {
+        "id": "eph-2-q6",
+        "questionNumber": 6,
+        "question": "What central message or instruction is delivered in Ephesians 2:10?",
+        "options": [
+          "“But now in Christ Jesus you who at one...”",
+          "“For by his act we were given existence in Christ Jesus...”",
+          "“And he came preaching peace to you who were...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“For by his act we were given existence in Christ Jesus...”",
+        "reference": "Ephesians 2:10",
+        "explanation": "Ephesians 2:10 records: 'For by his act we were given existence in Christ Jesus to do those good works which God before made ready for us so that we might do them.'."
+      },
+      {
+        "id": "eph-2-q7",
+        "questionNumber": 7,
+        "question": "What detail regarding God's work, covenant, or people is given in Ephesians 2:12?",
+        "options": [
+          "“Having in his flesh put an end to that...”",
+          "“So then you are no longer as those who...”",
+          "“That you were at that time without Christ, being cut off...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“That you were at that time without Christ, being cut off...”",
+        "reference": "Ephesians 2:12",
+        "explanation": "Ephesians 2:12 records: 'That you were at that time without Christ, being cut off from any part in Israel's rights as a nation, having no part in God's agreement, having no hope, and without God in the world.'."
+      },
+      {
+        "id": "eph-2-q8",
+        "questionNumber": 8,
+        "question": "What phrase or account is recorded in Ephesians 2:14?",
+        "options": [
+          "“And he came preaching peace to you who were...”",
+          "“In whom all the building, rightly joined together, comes...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“For he is our peace, who has made the two into...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“For he is our peace, who has made the two into...”",
+        "reference": "Ephesians 2:14",
+        "explanation": "Ephesians 2:14 records: 'For he is our peace, who has made the two into one, and by whom the middle wall of division has been broken down,'."
+      },
+      {
+        "id": "eph-2-q9",
+        "questionNumber": 9,
+        "question": "How does the passage describe the circumstances or people in Ephesians 2:16?",
+        "options": [
+          "“And that the two might come into agreement with God in...”",
+          "“So then you are no longer as those who...”",
+          "“And to you did he give life, when you...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“And that the two might come into agreement with God in...”",
+        "reference": "Ephesians 2:16",
+        "explanation": "Ephesians 2:16 records: 'And that the two might come into agreement with God in one body through the cross, so putting an end to that division.'."
+      },
+      {
+        "id": "eph-2-q10",
+        "questionNumber": 10,
+        "question": "In the concluding portion of the chapter, what takes place in Ephesians 2:18?",
+        "options": [
+          "“In whom all the building, rightly joined together, comes...”",
+          "“Because through him the two of us are able to come...”",
+          "“Among whom we all at one time were living...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“Because through him the two of us are able to come...”",
+        "reference": "Ephesians 2:18",
+        "explanation": "Ephesians 2:18 records: 'Because through him the two of us are able to come near in one Spirit to the Father.'."
+      }
+    ],
+    "3": [
+      {
+        "id": "eph-3-q1",
+        "questionNumber": 1,
+        "question": "According to Ephesians 3:1, what is the opening statement or setting of this chapter?",
+        "options": [
+          "It records: “For this cause I Paul, the prisoner of Christ Jesus for you Genti...”",
+          "It begins with a prayer of thanksgiving for deliverance in Ephesians",
+          "It opens with a formal census and counting of the congregation",
+          "It records a severe judgment pronounced against neighboring nations"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "It records: “For this cause I Paul, the prisoner of Christ Jesus for you Genti...”",
+        "reference": "Ephesians 3:1",
+        "explanation": "The chapter begins directly with the statement: 'For this cause I Paul, the prisoner of Christ Jesus for you Gentiles,'."
+      },
+      {
+        "id": "eph-3-q2",
+        "questionNumber": 2,
+        "question": "What key instruction, event, or declaration is set forth in Ephesians 3:2?",
+        "options": [
+          "“Which in other generations was not given to the...”",
+          "“If that ordering of the grace of God has come to...”",
+          "“And make all men see what is the ordering...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“If that ordering of the grace of God has come to...”",
+        "reference": "Ephesians 3:2",
+        "explanation": "Ephesians 3:2 records: 'If that ordering of the grace of God has come to your knowledge, which was given to me for you,'."
+      },
+      {
+        "id": "eph-3-q3",
+        "questionNumber": 3,
+        "question": "What significant action or revelation occurs in Ephesians 3:4?",
+        "options": [
+          "“Of which I was made a preacher, through that...”",
+          "“Which is seen in his eternal purpose in Christ...”",
+          "“By the reading of which you will be clear about my...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“By the reading of which you will be clear about my...”",
+        "reference": "Ephesians 3:4",
+        "explanation": "Ephesians 3:4 records: 'By the reading of which you will be clear about my knowledge of the secret of Christ;'."
+      },
+      {
+        "id": "eph-3-q4",
+        "questionNumber": 4,
+        "question": "What truth or description is highlighted in Ephesians 3:6?",
+        "options": [
+          "“And make all men see what is the ordering...”",
+          "“For this reason it is my prayer that you...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“Which is that the Gentiles have a part in the heritage,...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“Which is that the Gentiles have a part in the heritage,...”",
+        "reference": "Ephesians 3:6",
+        "explanation": "Ephesians 3:6 records: 'Which is that the Gentiles have a part in the heritage, and in the same body, and in the same hope in Christ through the good news,'."
+      },
+      {
+        "id": "eph-3-q5",
+        "questionNumber": 5,
+        "question": "According to the text, what happened or was commanded in Ephesians 3:8?",
+        "options": [
+          "“To me, who am less than the least of all the...”",
+          "“Which is seen in his eternal purpose in Christ...”",
+          "“From whom every family in heaven and on earth...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“To me, who am less than the least of all the...”",
+        "reference": "Ephesians 3:8",
+        "explanation": "Ephesians 3:8 records: 'To me, who am less than the least of all the saints, was this grace given, so that I might make clear to the Gentiles the good news of the unending wealth of Christ:'."
+      },
+      {
+        "id": "eph-3-q6",
+        "questionNumber": 6,
+        "question": "What central message or instruction is delivered in Ephesians 3:10?",
+        "options": [
+          "“For this reason it is my prayer that you...”",
+          "“So that now to the rulers and the authorities in the...”",
+          "“So that Christ may have his place in your...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“So that now to the rulers and the authorities in the...”",
+        "reference": "Ephesians 3:10",
+        "explanation": "Ephesians 3:10 records: 'So that now to the rulers and the authorities in the heavens might be made clear through the church the wide-shining wisdom of God,'."
+      },
+      {
+        "id": "eph-3-q7",
+        "questionNumber": 7,
+        "question": "What detail regarding God's work, covenant, or people is given in Ephesians 3:12?",
+        "options": [
+          "“From whom every family in heaven and on earth...”",
+          "“And to have knowledge of the love of Christ...”",
+          "“By whom we come near to God without fear through faith...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“By whom we come near to God without fear through faith...”",
+        "reference": "Ephesians 3:12",
+        "explanation": "Ephesians 3:12 records: 'By whom we come near to God without fear through faith in him.'."
+      },
+      {
+        "id": "eph-3-q8",
+        "questionNumber": 8,
+        "question": "What phrase or account is recorded in Ephesians 3:14?",
+        "options": [
+          "“So that Christ may have his place in your...”",
+          "“For this cause I Paul, the prisoner of Christ...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“For this cause I go down on my knees before the Father,”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“For this cause I go down on my knees before the Father,”",
+        "reference": "Ephesians 3:14",
+        "explanation": "Ephesians 3:14 records: 'For this cause I go down on my knees before the Father,'."
+      },
+      {
+        "id": "eph-3-q9",
+        "questionNumber": 9,
+        "question": "How does the passage describe the circumstances or people in Ephesians 3:16?",
+        "options": [
+          "“That in the wealth of his glory he would make you...”",
+          "“And to have knowledge of the love of Christ...”",
+          "“If that ordering of the grace of God has...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“That in the wealth of his glory he would make you...”",
+        "reference": "Ephesians 3:16",
+        "explanation": "Ephesians 3:16 records: 'That in the wealth of his glory he would make you strong with power through his Spirit in your hearts;'."
+      },
+      {
+        "id": "eph-3-q10",
+        "questionNumber": 10,
+        "question": "In the concluding portion of the chapter, what takes place in Ephesians 3:18?",
+        "options": [
+          "“For this cause I Paul, the prisoner of Christ...”",
+          "“May have strength to see with all the saints how wide...”",
+          "“By the reading of which you will be clear...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“May have strength to see with all the saints how wide...”",
+        "reference": "Ephesians 3:18",
+        "explanation": "Ephesians 3:18 records: 'May have strength to see with all the saints how wide and long and high and deep it is,'."
+      }
+    ],
+    "4": [
+      {
+        "id": "eph-4-q1",
+        "questionNumber": 1,
+        "question": "According to Ephesians 4:1, what is the opening statement or setting of this chapter?",
+        "options": [
+          "It records: “I then, the prisoner in the Lord, make this request from my heart...”",
+          "It begins with a prayer of thanksgiving for deliverance in Ephesians",
+          "It opens with a formal census and counting of the congregation",
+          "It records a severe judgment pronounced against neighboring nations"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "It records: “I then, the prisoner in the Lord, make this request from my heart...”",
+        "reference": "Ephesians 4:1",
+        "explanation": "The chapter begins directly with the statement: 'I then, the prisoner in the Lord, make this request from my heart, that you will see that your behaviour is a credit to the position which God's purpose has given you,'."
+      },
+      {
+        "id": "eph-4-q2",
+        "questionNumber": 2,
+        "question": "What key instruction, event, or declaration is set forth in Ephesians 4:3?",
+        "options": [
+          "“One God and Father of all, who is over...”",
+          "“Taking care to keep the harmony of the Spirit in the...”",
+          "“He who went down is the same who went...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“Taking care to keep the harmony of the Spirit in the...”",
+        "reference": "Ephesians 4:3",
+        "explanation": "Ephesians 4:3 records: 'Taking care to keep the harmony of the Spirit in the yoke of peace.'."
+      },
+      {
+        "id": "eph-4-q3",
+        "questionNumber": 3,
+        "question": "What significant action or revelation occurs in Ephesians 4:6?",
+        "options": [
+          "“(Now this, He went up, what is it but...”",
+          "“Till we all come to the harmony of the...”",
+          "“One God and Father of all, who is over all, and...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“One God and Father of all, who is over all, and...”",
+        "reference": "Ephesians 4:6",
+        "explanation": "Ephesians 4:6 records: 'One God and Father of all, who is over all, and through all, and in all.'."
+      },
+      {
+        "id": "eph-4-q4",
+        "questionNumber": 4,
+        "question": "What truth or description is highlighted in Ephesians 4:9?",
+        "options": [
+          "“For the training of the saints as servants in...”",
+          "“Through whom all the body, being rightly formed and...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“(Now this, He went up, what is it but that he...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“(Now this, He went up, what is it but that he...”",
+        "reference": "Ephesians 4:9",
+        "explanation": "Ephesians 4:9 records: '(Now this, He went up, what is it but that he first went down into the lower parts of the earth?'."
+      },
+      {
+        "id": "eph-4-q5",
+        "questionNumber": 5,
+        "question": "According to the text, what happened or was commanded in Ephesians 4:12?",
+        "options": [
+          "“For the training of the saints as servants in the church,...”",
+          "“But saying true words in love, may come to...”",
+          "“Who having no more power of feeling, have given...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“For the training of the saints as servants in the church,...”",
+        "reference": "Ephesians 4:12",
+        "explanation": "Ephesians 4:12 records: 'For the training of the saints as servants in the church, for the building up of the body of Christ:'."
+      },
+      {
+        "id": "eph-4-q6",
+        "questionNumber": 6,
+        "question": "What central message or instruction is delivered in Ephesians 4:15?",
+        "options": [
+          "“Whose thoughts are dark, to whom the life of...”",
+          "“But saying true words in love, may come to full growth...”",
+          "“That you are to put away, in relation to...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“But saying true words in love, may come to full growth...”",
+        "reference": "Ephesians 4:15",
+        "explanation": "Ephesians 4:15 records: 'But saying true words in love, may come to full growth in him, who is the head, even Christ;'."
+      },
+      {
+        "id": "eph-4-q7",
+        "questionNumber": 7,
+        "question": "What detail regarding God's work, covenant, or people is given in Ephesians 4:18?",
+        "options": [
+          "“If in fact you gave ear to him, and...”",
+          "“And so, putting away false words, let everyone say...”",
+          "“Whose thoughts are dark, to whom the life of God is...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“Whose thoughts are dark, to whom the life of God is...”",
+        "reference": "Ephesians 4:18",
+        "explanation": "Ephesians 4:18 records: 'Whose thoughts are dark, to whom the life of God is strange because they are without knowledge, and their hearts have been made hard;'."
+      },
+      {
+        "id": "eph-4-q8",
+        "questionNumber": 8,
+        "question": "What phrase or account is recorded in Ephesians 4:21?",
+        "options": [
+          "“And put on the new man, to which God...”",
+          "“Let him who was a thief be so no...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“If in fact you gave ear to him, and were given...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“If in fact you gave ear to him, and were given...”",
+        "reference": "Ephesians 4:21",
+        "explanation": "Ephesians 4:21 records: 'If in fact you gave ear to him, and were given teaching in him, even as what is true is made clear in Jesus:'."
+      },
+      {
+        "id": "eph-4-q9",
+        "questionNumber": 9,
+        "question": "How does the passage describe the circumstances or people in Ephesians 4:24?",
+        "options": [
+          "“And put on the new man, to which God has given...”",
+          "“And do not give way to the Evil One.”",
+          "“Let all bitter, sharp and angry feeling, and noise,...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“And put on the new man, to which God has given...”",
+        "reference": "Ephesians 4:24",
+        "explanation": "Ephesians 4:24 records: 'And put on the new man, to which God has given life, in righteousness and a true and holy way of living.'."
+      },
+      {
+        "id": "eph-4-q10",
+        "questionNumber": 10,
+        "question": "In the concluding portion of the chapter, what takes place in Ephesians 4:27?",
+        "options": [
+          "“And do not give grief to the Holy Spirit...”",
+          "“And do not give way to the Evil One.”",
+          "“With all gentle and quiet behaviour, taking whatever comes,...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“And do not give way to the Evil One.”",
+        "reference": "Ephesians 4:27",
+        "explanation": "Ephesians 4:27 records: 'And do not give way to the Evil One.'."
+      }
+    ],
+    "5": [
+      {
+        "id": "eph-5-q1",
+        "questionNumber": 1,
+        "question": "According to Ephesians 5:1, what is the opening statement or setting of this chapter?",
+        "options": [
+          "It records: “Let it then be your desire to be like God, as well-loved children...”",
+          "It begins with a prayer of thanksgiving for deliverance in Ephesians",
+          "It opens with a formal census and counting of the congregation",
+          "It records a severe judgment pronounced against neighboring nations"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "It records: “Let it then be your desire to be like God, as well-loved children...”",
+        "reference": "Ephesians 5:1",
+        "explanation": "The chapter begins directly with the statement: 'Let it then be your desire to be like God, as well-loved children;'."
+      },
+      {
+        "id": "eph-5-q2",
+        "questionNumber": 2,
+        "question": "What key instruction, event, or declaration is set forth in Ephesians 5:3?",
+        "options": [
+          "“Do not be turned from the right way by...”",
+          "“But evil acts of the flesh and all unclean things, or...”",
+          "“Testing by experience what is well-pleasing to the Lord;”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“But evil acts of the flesh and all unclean things, or...”",
+        "reference": "Ephesians 5:3",
+        "explanation": "Ephesians 5:3 records: 'But evil acts of the flesh and all unclean things, or desire for others' property, let it not even be named among you, as is right for saints;'."
+      },
+      {
+        "id": "eph-5-q3",
+        "questionNumber": 3,
+        "question": "What significant action or revelation occurs in Ephesians 5:6?",
+        "options": [
+          "“(Because the fruit of the light is in all...”",
+          "“But all things, when their true quality is seen,...”",
+          "“Do not be turned from the right way by foolish words;...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“Do not be turned from the right way by foolish words;...”",
+        "reference": "Ephesians 5:6",
+        "explanation": "Ephesians 5:6 records: 'Do not be turned from the right way by foolish words; for because of these things the punishment of God comes on those who do not put themselves under him.'."
+      },
+      {
+        "id": "eph-5-q4",
+        "questionNumber": 4,
+        "question": "What truth or description is highlighted in Ephesians 5:9?",
+        "options": [
+          "“For the things which are done by them in...”",
+          "“Making good use of the time, because the days...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“(Because the fruit of the light is in all righteousness and...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“(Because the fruit of the light is in all righteousness and...”",
+        "reference": "Ephesians 5:9",
+        "explanation": "Ephesians 5:9 records: '(Because the fruit of the light is in all righteousness and in everything which is good and true),'."
+      },
+      {
+        "id": "eph-5-q5",
+        "questionNumber": 5,
+        "question": "According to the text, what happened or was commanded in Ephesians 5:12?",
+        "options": [
+          "“For the things which are done by them in secret it...”",
+          "“Take care then how you are living, not as...”",
+          "“Joining with one another in holy songs of praise...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“For the things which are done by them in secret it...”",
+        "reference": "Ephesians 5:12",
+        "explanation": "Ephesians 5:12 records: 'For the things which are done by them in secret it is shame even to put into words.'."
+      },
+      {
+        "id": "eph-5-q6",
+        "questionNumber": 6,
+        "question": "What central message or instruction is delivered in Ephesians 5:15?",
+        "options": [
+          "“And do not take overmuch wine by which one...”",
+          "“Take care then how you are living, not as unwise, but...”",
+          "“Wives, be under the authority of your husbands, as...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“Take care then how you are living, not as unwise, but...”",
+        "reference": "Ephesians 5:15",
+        "explanation": "Ephesians 5:15 records: 'Take care then how you are living, not as unwise, but as wise;'."
+      },
+      {
+        "id": "eph-5-q7",
+        "questionNumber": 7,
+        "question": "What detail regarding God's work, covenant, or people is given in Ephesians 5:18?",
+        "options": [
+          "“Letting yourselves be ruled by one another in the...”",
+          "“Husbands, have love for your wives, even as Christ...”",
+          "“And do not take overmuch wine by which one may be...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“And do not take overmuch wine by which one may be...”",
+        "reference": "Ephesians 5:18",
+        "explanation": "Ephesians 5:18 records: 'And do not take overmuch wine by which one may be overcome, but be full of the Spirit;'."
+      },
+      {
+        "id": "eph-5-q8",
+        "questionNumber": 8,
+        "question": "What phrase or account is recorded in Ephesians 5:21?",
+        "options": [
+          "“And as the church is under Christ's authority, so...”",
+          "“Even so it is right for husbands to have...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“Letting yourselves be ruled by one another in the fear of Christ.”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“Letting yourselves be ruled by one another in the fear of Christ.”",
+        "reference": "Ephesians 5:21",
+        "explanation": "Ephesians 5:21 records: 'Letting yourselves be ruled by one another in the fear of Christ.'."
+      },
+      {
+        "id": "eph-5-q9",
+        "questionNumber": 9,
+        "question": "How does the passage describe the circumstances or people in Ephesians 5:24?",
+        "options": [
+          "“And as the church is under Christ's authority, so let wives...”",
+          "“And might take it for himself, a church full...”",
+          "“For this cause will a man go away from...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“And as the church is under Christ's authority, so let wives...”",
+        "reference": "Ephesians 5:24",
+        "explanation": "Ephesians 5:24 records: 'And as the church is under Christ's authority, so let wives be under the rule of their husbands in all things.'."
+      },
+      {
+        "id": "eph-5-q10",
+        "questionNumber": 10,
+        "question": "In the concluding portion of the chapter, what takes place in Ephesians 5:27?",
+        "options": [
+          "“Because we are parts of his body.”",
+          "“And might take it for himself, a church full of glory,...”",
+          "“Let it then be your desire to be like...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“And might take it for himself, a church full of glory,...”",
+        "reference": "Ephesians 5:27",
+        "explanation": "Ephesians 5:27 records: 'And might take it for himself, a church full of glory, not having one mark or fold or any such thing; but that it might be holy and complete.'."
+      }
+    ],
+    "6": [
+      {
+        "id": "eph-6-q1",
+        "questionNumber": 1,
+        "question": "According to Ephesians 6:1, what is the opening statement or setting of this chapter?",
+        "options": [
+          "It records: “Children, do what is ordered by your fathers and mothers in the L...”",
+          "It begins with a prayer of thanksgiving for deliverance in Ephesians",
+          "It opens with a formal census and counting of the congregation",
+          "It records a severe judgment pronounced against neighboring nations"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "It records: “Children, do what is ordered by your fathers and mothers in the L...”",
+        "reference": "Ephesians 6:1",
+        "explanation": "The chapter begins directly with the statement: 'Children, do what is ordered by your fathers and mothers in the Lord: for this is right.'."
+      },
+      {
+        "id": "eph-6-q2",
+        "questionNumber": 2,
+        "question": "What key instruction, event, or declaration is set forth in Ephesians 6:2?",
+        "options": [
+          "“Servants, do what is ordered by those who are...”",
+          "“Give honour to your father and mother (which is the first...”",
+          "“And, you masters, do the same things to them,...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“Give honour to your father and mother (which is the first...”",
+        "reference": "Ephesians 6:2",
+        "explanation": "Ephesians 6:2 records: 'Give honour to your father and mother (which is the first rule having a reward),'."
+      },
+      {
+        "id": "eph-6-q3",
+        "questionNumber": 3,
+        "question": "What significant action or revelation occurs in Ephesians 6:4?",
+        "options": [
+          "“Doing your work readily, as to the Lord, and...”",
+          "“Take up God's instruments of war, so that you...”",
+          "“And, you fathers, do not make your children angry: but give...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“And, you fathers, do not make your children angry: but give...”",
+        "reference": "Ephesians 6:4",
+        "explanation": "Ephesians 6:4 records: 'And, you fathers, do not make your children angry: but give them training in the teaching and fear of the Lord.'."
+      },
+      {
+        "id": "eph-6-q4",
+        "questionNumber": 4,
+        "question": "What truth or description is highlighted in Ephesians 6:6?",
+        "options": [
+          "“And, you masters, do the same things to them,...”",
+          "“For this reason take up all the arms of...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“Not only under your master's eye, as pleasers of men; but...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“Not only under your master's eye, as pleasers of men; but...”",
+        "reference": "Ephesians 6:6",
+        "explanation": "Ephesians 6:6 records: 'Not only under your master's eye, as pleasers of men; but as servants of Christ, doing the pleasure of God from the heart;'."
+      },
+      {
+        "id": "eph-6-q5",
+        "questionNumber": 5,
+        "question": "According to the text, what happened or was commanded in Ephesians 6:8?",
+        "options": [
+          "“In the knowledge that for every good thing anyone does, he...”",
+          "“Take up God's instruments of war, so that you...”",
+          "“Be ready with the good news of peace as...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“In the knowledge that for every good thing anyone does, he...”",
+        "reference": "Ephesians 6:8",
+        "explanation": "Ephesians 6:8 records: 'In the knowledge that for every good thing anyone does, he will have his reward from the Lord, If he is a servant or if he is free.'."
+      },
+      {
+        "id": "eph-6-q6",
+        "questionNumber": 6,
+        "question": "What central message or instruction is delivered in Ephesians 6:10?",
+        "options": [
+          "“For this reason take up all the arms of...”",
+          "“Lastly, be strong in the Lord, and in the strength of...”",
+          "“And take salvation for your head-dress and the sword...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“Lastly, be strong in the Lord, and in the strength of...”",
+        "reference": "Ephesians 6:10",
+        "explanation": "Ephesians 6:10 records: 'Lastly, be strong in the Lord, and in the strength of his power.'."
+      },
+      {
+        "id": "eph-6-q7",
+        "questionNumber": 7,
+        "question": "What detail regarding God's work, covenant, or people is given in Ephesians 6:12?",
+        "options": [
+          "“Be ready with the good news of peace as...”",
+          "“And for me, that words may be given to...”",
+          "“For our fight is not against flesh and blood, but against...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“For our fight is not against flesh and blood, but against...”",
+        "reference": "Ephesians 6:12",
+        "explanation": "Ephesians 6:12 records: 'For our fight is not against flesh and blood, but against authorities and powers, against the world-rulers of this dark night, against the spirits of evil in the heavens.'."
+      },
+      {
+        "id": "eph-6-q8",
+        "questionNumber": 8,
+        "question": "What phrase or account is recorded in Ephesians 6:14?",
+        "options": [
+          "“And take salvation for your head-dress and the sword...”",
+          "“But so that you may have knowledge of my...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“Take your place, then, having your body clothed with the true...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“Take your place, then, having your body clothed with the true...”",
+        "reference": "Ephesians 6:14",
+        "explanation": "Ephesians 6:14 records: 'Take your place, then, having your body clothed with the true word, and having put on the breastplate of righteousness;'."
+      },
+      {
+        "id": "eph-6-q9",
+        "questionNumber": 9,
+        "question": "How does the passage describe the circumstances or people in Ephesians 6:16?",
+        "options": [
+          "“And most of all, using faith as a cover to keep...”",
+          "“And for me, that words may be given to...”",
+          "“Peace be to the brothers, and love with faith,...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“And most of all, using faith as a cover to keep...”",
+        "reference": "Ephesians 6:16",
+        "explanation": "Ephesians 6:16 records: 'And most of all, using faith as a cover to keep off all the flaming arrows of the Evil One.'."
+      },
+      {
+        "id": "eph-6-q10",
+        "questionNumber": 10,
+        "question": "In the concluding portion of the chapter, what takes place in Ephesians 6:18?",
+        "options": [
+          "“But so that you may have knowledge of my...”",
+          "“With prayers and deep desires, making requests at all times in...”",
+          "“Children, do what is ordered by your fathers and...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“With prayers and deep desires, making requests at all times in...”",
+        "reference": "Ephesians 6:18",
+        "explanation": "Ephesians 6:18 records: 'With prayers and deep desires, making requests at all times in the Spirit, and keeping watch, with strong purpose, in prayer for all the saints,'."
+      }
+    ]
+  }
+}

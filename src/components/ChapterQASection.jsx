@@ -16,13 +16,17 @@ import {
   Layers,
   Trophy
 } from 'lucide-react';
-import qaDataset from '../data/genesis_qa.json';
 
-export default function ChapterQASection({ chapter = 1 }) {
+export default function ChapterQASection({ 
+  chapter = 1,
+  bookId = 'GEN',
+  bookName = 'Genesis',
+  questions = null
+}) {
   const [activeTab, setActiveTab] = useState('practice'); // 'practice' | 'study'
 
-  // Questions for this specific chapter
-  const chapterQuestions = qaDataset?.chapters?.[String(chapter)] || [];
+  // Questions for this specific chapter: use passed questions or empty array
+  const chapterQuestions = questions || [];
 
   // Practice Mode State
   const [currentIndex, setCurrentIndex] = useState(0);
@@ -36,11 +40,13 @@ export default function ChapterQASection({ chapter = 1 }) {
   // Study Mode State
   const [expandedAnswers, setExpandedAnswers] = useState({}); // { [qId]: boolean }
 
+  const scoreKey = `${bookId}_ch_${chapter}`;
+
   // Load best score from local storage
   const loadBestScore = () => {
     try {
       const saved = JSON.parse(localStorage.getItem('holy_bible_quiz_scores') || '{}');
-      setBestScore(saved[String(chapter)] || null);
+      setBestScore(saved[scoreKey] || (bookId === 'GEN' ? saved[String(chapter)] : null) || null);
     } catch {
       setBestScore(null);
     }
@@ -50,7 +56,7 @@ export default function ChapterQASection({ chapter = 1 }) {
   const saveQuizScore = (finalScore) => {
     try {
       const saved = JSON.parse(localStorage.getItem('holy_bible_quiz_scores') || '{}');
-      const prev = saved[String(chapter)];
+      const prev = saved[scoreKey] || (bookId === 'GEN' ? saved[String(chapter)] : null);
       if (!prev || finalScore >= prev.score) {
         const record = {
           score: finalScore,
@@ -58,7 +64,10 @@ export default function ChapterQASection({ chapter = 1 }) {
           percentage: Math.round((finalScore / chapterQuestions.length) * 100),
           updatedAt: new Date().toISOString()
         };
-        saved[String(chapter)] = record;
+        saved[scoreKey] = record;
+        if (bookId === 'GEN') {
+          saved[String(chapter)] = record;
+        }
         localStorage.setItem('holy_bible_quiz_scores', JSON.stringify(saved));
         setBestScore(record);
       }
@@ -77,7 +86,7 @@ export default function ChapterQASection({ chapter = 1 }) {
     setQuizFinished(false);
     setExpandedAnswers({});
     loadBestScore();
-  }, [chapter]);
+  }, [chapter, bookId, questions]);
 
   if (!chapterQuestions || chapterQuestions.length === 0) {
     return null;

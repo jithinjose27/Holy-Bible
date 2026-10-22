@@ -1,0 +1,2441 @@
+{
+  "book": "1 Corinthians",
+  "bookId": "1CO",
+  "totalChapters": 16,
+  "totalQuestions": 160,
+  "questionsPerChapter": 10,
+  "chapters": {
+    "1": [
+      {
+        "id": "1co-1-q1",
+        "questionNumber": 1,
+        "question": "According to 1 Corinthians 1:1, what is the opening statement or setting of this chapter?",
+        "options": [
+          "It records: “Paul, an Apostle of Jesus Christ by the purpose of God, and Sosth...”",
+          "It begins with a prayer of thanksgiving for deliverance in 1 Corinthians",
+          "It opens with a formal census and counting of the congregation",
+          "It records a severe judgment pronounced against neighboring nations"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "It records: “Paul, an Apostle of Jesus Christ by the purpose of God, and Sosth...”",
+        "reference": "1 Corinthians 1:1",
+        "explanation": "The chapter begins directly with the statement: 'Paul, an Apostle of Jesus Christ by the purpose of God, and Sosthenes the brother,'."
+      },
+      {
+        "id": "1co-1-q2",
+        "questionNumber": 2,
+        "question": "What key instruction, event, or declaration is set forth in 1 Corinthians 1:3?",
+        "options": [
+          "“Even as the witness of the Christ has been...”",
+          "“Grace to you and peace from God our Father and the...”",
+          "“Now I make request to you, my brothers, in...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“Grace to you and peace from God our Father and the...”",
+        "reference": "1 Corinthians 1:3",
+        "explanation": "1 Corinthians 1:3 records: 'Grace to you and peace from God our Father and the Lord Jesus Christ.'."
+      },
+      {
+        "id": "1co-1-q3",
+        "questionNumber": 3,
+        "question": "What significant action or revelation occurs in 1 Corinthians 1:6?",
+        "options": [
+          "“God is true, through whom you have been given...”",
+          "“Is there a division in Christ? was Paul nailed...”",
+          "“Even as the witness of the Christ has been made certain...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“Even as the witness of the Christ has been made certain...”",
+        "reference": "1 Corinthians 1:6",
+        "explanation": "1 Corinthians 1:6 records: 'Even as the witness of the Christ has been made certain among you:'."
+      },
+      {
+        "id": "1co-1-q4",
+        "questionNumber": 4,
+        "question": "What truth or description is highlighted in 1 Corinthians 1:9?",
+        "options": [
+          "“That is, that some of you say, I am...”",
+          "“And I gave baptism to the house of Stephanas;...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“God is true, through whom you have been given a part...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“God is true, through whom you have been given a part...”",
+        "reference": "1 Corinthians 1:9",
+        "explanation": "1 Corinthians 1:9 records: 'God is true, through whom you have been given a part with his Son, Jesus Christ our Lord.'."
+      },
+      {
+        "id": "1co-1-q5",
+        "questionNumber": 5,
+        "question": "According to the text, what happened or was commanded in 1 Corinthians 1:12?",
+        "options": [
+          "“That is, that some of you say, I am of Paul;...”",
+          "“So that no one may be able to say...”",
+          "“As it says in the holy Writings, I will...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“That is, that some of you say, I am of Paul;...”",
+        "reference": "1 Corinthians 1:12",
+        "explanation": "1 Corinthians 1:12 records: 'That is, that some of you say, I am of Paul; some say, I am of Apollos; some say, I am of Cephas; and some say, I am Christ's.'."
+      },
+      {
+        "id": "1co-1-q6",
+        "questionNumber": 6,
+        "question": "What central message or instruction is delivered in 1 Corinthians 1:15?",
+        "options": [
+          "“For the word of the cross seems foolish to...”",
+          "“So that no one may be able to say that you...”",
+          "“Seeing that the Jews make request for signs, and...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“So that no one may be able to say that you...”",
+        "reference": "1 Corinthians 1:15",
+        "explanation": "1 Corinthians 1:15 records: 'So that no one may be able to say that you had baptism in my name.'."
+      },
+      {
+        "id": "1co-1-q7",
+        "questionNumber": 7,
+        "question": "What detail regarding God's work, covenant, or people is given in 1 Corinthians 1:18?",
+        "options": [
+          "“For because, by the purpose of God, the world,...”",
+          "“Because what seems foolish in God is wiser than...”",
+          "“For the word of the cross seems foolish to those who...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“For the word of the cross seems foolish to those who...”",
+        "reference": "1 Corinthians 1:18",
+        "explanation": "1 Corinthians 1:18 records: 'For the word of the cross seems foolish to those who are on the way to destruction; but to us who are on the way to salvation it is the power of God.'."
+      },
+      {
+        "id": "1co-1-q8",
+        "questionNumber": 8,
+        "question": "What phrase or account is recorded in 1 Corinthians 1:21?",
+        "options": [
+          "“But to those of God's selection, Jews and Greeks,...”",
+          "“And the low things of the world, and the...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“For because, by the purpose of God, the world, with all...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“For because, by the purpose of God, the world, with all...”",
+        "reference": "1 Corinthians 1:21",
+        "explanation": "1 Corinthians 1:21 records: 'For because, by the purpose of God, the world, with all its wisdom, had not the knowledge of God, it was God's pleasure, by so foolish a thing as preaching, to give salvation to those who had faith in him.'."
+      },
+      {
+        "id": "1co-1-q9",
+        "questionNumber": 9,
+        "question": "How does the passage describe the circumstances or people in 1 Corinthians 1:24?",
+        "options": [
+          "“But to those of God's selection, Jews and Greeks, Christ is...”",
+          "“But God made selection of the foolish things of...”",
+          "“Paul, an Apostle of Jesus Christ by the purpose...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“But to those of God's selection, Jews and Greeks, Christ is...”",
+        "reference": "1 Corinthians 1:24",
+        "explanation": "1 Corinthians 1:24 records: 'But to those of God's selection, Jews and Greeks, Christ is the power and the wisdom of God.'."
+      },
+      {
+        "id": "1co-1-q10",
+        "questionNumber": 10,
+        "question": "In the concluding portion of the chapter, what takes place in 1 Corinthians 1:27?",
+        "options": [
+          "“But God has given you a place in Christ...”",
+          "“But God made selection of the foolish things of this world...”",
+          "“Grace to you and peace from God our Father...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“But God made selection of the foolish things of this world...”",
+        "reference": "1 Corinthians 1:27",
+        "explanation": "1 Corinthians 1:27 records: 'But God made selection of the foolish things of this world so that he might put the wise to shame; and the feeble things that he might put to shame the strong;'."
+      }
+    ],
+    "2": [
+      {
+        "id": "1co-2-q1",
+        "questionNumber": 1,
+        "question": "According to 1 Corinthians 2:1, what is the opening statement or setting of this chapter?",
+        "options": [
+          "It records: “And when I came to you, my brothers, I did not come with wise wor...”",
+          "It begins with a prayer of thanksgiving for deliverance in 1 Corinthians",
+          "It opens with a formal census and counting of the congregation",
+          "It records a severe judgment pronounced against neighboring nations"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "It records: “And when I came to you, my brothers, I did not come with wise wor...”",
+        "reference": "1 Corinthians 2:1",
+        "explanation": "The chapter begins directly with the statement: 'And when I came to you, my brothers, I did not come with wise words of knowledge, putting before you the secret of God.'."
+      },
+      {
+        "id": "1co-2-q2",
+        "questionNumber": 2,
+        "question": "What key instruction, event, or declaration is set forth in 1 Corinthians 2:2?",
+        "options": [
+          "“So that your faith might be based not on...”",
+          "“For I had made the decision to have knowledge of nothing...”",
+          "“But as it says in the holy Writings, Things...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“For I had made the decision to have knowledge of nothing...”",
+        "reference": "1 Corinthians 2:2",
+        "explanation": "1 Corinthians 2:2 records: 'For I had made the decision to have knowledge of nothing among you but only of Jesus Christ on the cross.'."
+      },
+      {
+        "id": "1co-2-q3",
+        "questionNumber": 3,
+        "question": "What significant action or revelation occurs in 1 Corinthians 2:3?",
+        "options": [
+          "“But still we have wisdom for those who are...”",
+          "“But God has given us the revelation of these...”",
+          "“And I was with you without strength, in fear and in doubt.”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“And I was with you without strength, in fear and in doubt.”",
+        "reference": "1 Corinthians 2:3",
+        "explanation": "1 Corinthians 2:3 records: 'And I was with you without strength, in fear and in doubt.'."
+      },
+      {
+        "id": "1co-2-q4",
+        "questionNumber": 4,
+        "question": "What truth or description is highlighted in 1 Corinthians 2:4?",
+        "options": [
+          "“But we give the news of the secret wisdom...”",
+          "“For who has knowledge of the things of a...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“And in my preaching there were no honeyed words of wisdom,...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“And in my preaching there were no honeyed words of wisdom,...”",
+        "reference": "1 Corinthians 2:4",
+        "explanation": "1 Corinthians 2:4 records: 'And in my preaching there were no honeyed words of wisdom, but I was dependent on the power of the Spirit to make it clear to you:'."
+      },
+      {
+        "id": "1co-2-q5",
+        "questionNumber": 5,
+        "question": "According to the text, what happened or was commanded in 1 Corinthians 2:5?",
+        "options": [
+          "“So that your faith might be based not on man's wisdom...”",
+          "“Of which not one of the rulers of this...”",
+          "“But we have not the spirit of the world,...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“So that your faith might be based not on man's wisdom...”",
+        "reference": "1 Corinthians 2:5",
+        "explanation": "1 Corinthians 2:5 records: 'So that your faith might be based not on man's wisdom but on the power of God.'."
+      },
+      {
+        "id": "1co-2-q6",
+        "questionNumber": 6,
+        "question": "What central message or instruction is delivered in 1 Corinthians 2:6?",
+        "options": [
+          "“But as it says in the holy Writings, Things...”",
+          "“But still we have wisdom for those who are complete in...”",
+          "“And these are the things which we say, not...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“But still we have wisdom for those who are complete in...”",
+        "reference": "1 Corinthians 2:6",
+        "explanation": "1 Corinthians 2:6 records: 'But still we have wisdom for those who are complete in knowledge, though not the wisdom of this world, and not of the rulers of this world, who are coming to nothing:'."
+      },
+      {
+        "id": "1co-2-q7",
+        "questionNumber": 7,
+        "question": "What detail regarding God's work, covenant, or people is given in 1 Corinthians 2:7?",
+        "options": [
+          "“But God has given us the revelation of these...”",
+          "“For the natural man is not able to take...”",
+          "“But we give the news of the secret wisdom of God,...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“But we give the news of the secret wisdom of God,...”",
+        "reference": "1 Corinthians 2:7",
+        "explanation": "1 Corinthians 2:7 records: 'But we give the news of the secret wisdom of God, which he had kept in store before the world came into existence, for our glory;'."
+      },
+      {
+        "id": "1co-2-q8",
+        "questionNumber": 8,
+        "question": "What phrase or account is recorded in 1 Corinthians 2:8?",
+        "options": [
+          "“For who has knowledge of the things of a...”",
+          "“But he who has the Spirit, though judging all...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“Of which not one of the rulers of this world had...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“Of which not one of the rulers of this world had...”",
+        "reference": "1 Corinthians 2:8",
+        "explanation": "1 Corinthians 2:8 records: 'Of which not one of the rulers of this world had knowledge: for if they had, they would not have put the Lord of glory on the cross:'."
+      },
+      {
+        "id": "1co-2-q9",
+        "questionNumber": 9,
+        "question": "How does the passage describe the circumstances or people in 1 Corinthians 2:9?",
+        "options": [
+          "“But as it says in the holy Writings, Things which the...”",
+          "“But we have not the spirit of the world,...”",
+          "“And when I came to you, my brothers, I...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“But as it says in the holy Writings, Things which the...”",
+        "reference": "1 Corinthians 2:9",
+        "explanation": "1 Corinthians 2:9 records: 'But as it says in the holy Writings, Things which the eye saw not, and which had not come to the ears or into the heart of man, such things as God has made ready for those who have love for him.'."
+      },
+      {
+        "id": "1co-2-q10",
+        "questionNumber": 10,
+        "question": "In the concluding portion of the chapter, what takes place in 1 Corinthians 2:10?",
+        "options": [
+          "“And these are the things which we say, not...”",
+          "“But God has given us the revelation of these things through...”",
+          "“And when I came to you, my brothers, I...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“But God has given us the revelation of these things through...”",
+        "reference": "1 Corinthians 2:10",
+        "explanation": "1 Corinthians 2:10 records: 'But God has given us the revelation of these things through his Spirit, for the Spirit makes search into all things, even the deep things of God.'."
+      }
+    ],
+    "3": [
+      {
+        "id": "1co-3-q1",
+        "questionNumber": 1,
+        "question": "According to 1 Corinthians 3:1, what is the opening statement or setting of this chapter?",
+        "options": [
+          "It records: “And the teaching I gave you, my brothers, was such as I was able ...”",
+          "It begins with a prayer of thanksgiving for deliverance in 1 Corinthians",
+          "It opens with a formal census and counting of the congregation",
+          "It records a severe judgment pronounced against neighboring nations"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "It records: “And the teaching I gave you, my brothers, was such as I was able ...”",
+        "reference": "1 Corinthians 3:1",
+        "explanation": "The chapter begins directly with the statement: 'And the teaching I gave you, my brothers, was such as I was able to give, not to those who have the Spirit, but to those who are still in the flesh, even to children in Christ.'."
+      },
+      {
+        "id": "1co-3-q2",
+        "questionNumber": 2,
+        "question": "What key instruction, event, or declaration is set forth in 1 Corinthians 3:2?",
+        "options": [
+          "“What then is Apollos? and what is Paul? They...”",
+          "“I gave you milk and not meat, because you were, then,...”",
+          "“For we are workers with God: you are God's...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“I gave you milk and not meat, because you were, then,...”",
+        "reference": "1 Corinthians 3:2",
+        "explanation": "1 Corinthians 3:2 records: 'I gave you milk and not meat, because you were, then, unable to take it, and even now you are not able;'."
+      },
+      {
+        "id": "1co-3-q3",
+        "questionNumber": 3,
+        "question": "What significant action or revelation occurs in 1 Corinthians 3:4?",
+        "options": [
+          "“So then the planter is nothing, and the waterer...”",
+          "“For there is no other base for the building...”",
+          "“For when one says, I am of Paul; and another says,...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“For when one says, I am of Paul; and another says,...”",
+        "reference": "1 Corinthians 3:4",
+        "explanation": "1 Corinthians 3:4 records: 'For when one says, I am of Paul; and another says, I am of Apollos; are you not talking like natural men?'."
+      },
+      {
+        "id": "1co-3-q4",
+        "questionNumber": 4,
+        "question": "What truth or description is highlighted in 1 Corinthians 3:6?",
+        "options": [
+          "“For we are workers with God: you are God's...”",
+          "“Every man's work will be made clear in that...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“I did the planting, Apollos did the watering, but God gave...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“I did the planting, Apollos did the watering, but God gave...”",
+        "reference": "1 Corinthians 3:6",
+        "explanation": "1 Corinthians 3:6 records: 'I did the planting, Apollos did the watering, but God gave the increase.'."
+      },
+      {
+        "id": "1co-3-q5",
+        "questionNumber": 5,
+        "question": "According to the text, what happened or was commanded in 1 Corinthians 3:8?",
+        "options": [
+          "“Now the planter and the waterer are working for the same...”",
+          "“For there is no other base for the building...”",
+          "“If the fire puts an end to any man's...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“Now the planter and the waterer are working for the same...”",
+        "reference": "1 Corinthians 3:8",
+        "explanation": "1 Corinthians 3:8 records: 'Now the planter and the waterer are working for the same end: but they will have their separate rewards in the measure of their work.'."
+      },
+      {
+        "id": "1co-3-q6",
+        "questionNumber": 6,
+        "question": "What central message or instruction is delivered in 1 Corinthians 3:10?",
+        "options": [
+          "“Every man's work will be made clear in that...”",
+          "“In the measure of the grace given to me, I, as...”",
+          "“If anyone makes the house of God unclean, God...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“In the measure of the grace given to me, I, as...”",
+        "reference": "1 Corinthians 3:10",
+        "explanation": "1 Corinthians 3:10 records: 'In the measure of the grace given to me, I, as a wise master-builder, have put the base in position, and another goes on building on it. But let every man take care what he puts on it.'."
+      },
+      {
+        "id": "1co-3-q7",
+        "questionNumber": 7,
+        "question": "What detail regarding God's work, covenant, or people is given in 1 Corinthians 3:12?",
+        "options": [
+          "“If the fire puts an end to any man's...”",
+          "“For the wisdom of this world is foolish before...”",
+          "“But on the base a man may put gold, silver, stones...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“But on the base a man may put gold, silver, stones...”",
+        "reference": "1 Corinthians 3:12",
+        "explanation": "1 Corinthians 3:12 records: 'But on the base a man may put gold, silver, stones of great price, wood, dry grass, cut stems;'."
+      },
+      {
+        "id": "1co-3-q8",
+        "questionNumber": 8,
+        "question": "What phrase or account is recorded in 1 Corinthians 3:14?",
+        "options": [
+          "“If anyone makes the house of God unclean, God...”",
+          "“So let no one take pride in men. For...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“If any man's work comes through the test, he will have...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“If any man's work comes through the test, he will have...”",
+        "reference": "1 Corinthians 3:14",
+        "explanation": "1 Corinthians 3:14 records: 'If any man's work comes through the test, he will have a reward.'."
+      },
+      {
+        "id": "1co-3-q9",
+        "questionNumber": 9,
+        "question": "How does the passage describe the circumstances or people in 1 Corinthians 3:16?",
+        "options": [
+          "“Do you not see that you are God's holy house, and...”",
+          "“For the wisdom of this world is foolish before...”",
+          "“And the teaching I gave you, my brothers, was...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“Do you not see that you are God's holy house, and...”",
+        "reference": "1 Corinthians 3:16",
+        "explanation": "1 Corinthians 3:16 records: 'Do you not see that you are God's holy house, and that the Spirit of God has his place in you?'."
+      },
+      {
+        "id": "1co-3-q10",
+        "questionNumber": 10,
+        "question": "In the concluding portion of the chapter, what takes place in 1 Corinthians 3:18?",
+        "options": [
+          "“So let no one take pride in men. For...”",
+          "“Let no man have a false idea. If any man seems...”",
+          "“I gave you milk and not meat, because you...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“Let no man have a false idea. If any man seems...”",
+        "reference": "1 Corinthians 3:18",
+        "explanation": "1 Corinthians 3:18 records: 'Let no man have a false idea. If any man seems to himself to be wise among you, let him become foolish, so that he may be wise.'."
+      }
+    ],
+    "4": [
+      {
+        "id": "1co-4-q1",
+        "questionNumber": 1,
+        "question": "According to 1 Corinthians 4:1, what is the opening statement or setting of this chapter?",
+        "options": [
+          "It records: “Let us be judged as servants of Christ, and as those who are resp...”",
+          "It begins with a prayer of thanksgiving for deliverance in 1 Corinthians",
+          "It opens with a formal census and counting of the congregation",
+          "It records a severe judgment pronounced against neighboring nations"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "It records: “Let us be judged as servants of Christ, and as those who are resp...”",
+        "reference": "1 Corinthians 4:1",
+        "explanation": "The chapter begins directly with the statement: 'Let us be judged as servants of Christ, and as those who are responsible for the secret things of God.'."
+      },
+      {
+        "id": "1co-4-q2",
+        "questionNumber": 2,
+        "question": "What key instruction, event, or declaration is set forth in 1 Corinthians 4:2?",
+        "options": [
+          "“For this reason let there be no judging before...”",
+          "“And it is right for such servants to be safe persons.”",
+          "“For it seems to me that God has put...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“And it is right for such servants to be safe persons.”",
+        "reference": "1 Corinthians 4:2",
+        "explanation": "1 Corinthians 4:2 records: 'And it is right for such servants to be safe persons.'."
+      },
+      {
+        "id": "1co-4-q3",
+        "questionNumber": 3,
+        "question": "What significant action or revelation occurs in 1 Corinthians 4:4?",
+        "options": [
+          "“For who made you better than your brother? or...”",
+          "“Even to this hour we are without food, drink,...”",
+          "“For I am not conscious of any wrong in myself; but...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“For I am not conscious of any wrong in myself; but...”",
+        "reference": "1 Corinthians 4:4",
+        "explanation": "1 Corinthians 4:4 records: 'For I am not conscious of any wrong in myself; but this does not make me clear, for it is the Lord who is my judge.'."
+      },
+      {
+        "id": "1co-4-q4",
+        "questionNumber": 4,
+        "question": "What truth or description is highlighted in 1 Corinthians 4:6?",
+        "options": [
+          "“For it seems to me that God has put...”",
+          "“When evil things are said about us we give...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“My brothers, it is because of you that I have taken...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“My brothers, it is because of you that I have taken...”",
+        "reference": "1 Corinthians 4:6",
+        "explanation": "1 Corinthians 4:6 records: 'My brothers, it is because of you that I have taken Apollos and myself as examples of these things, so that in us you might see that it is not wise to go farther than what is in the holy Writings, so that no one of you may be lifted up against his brother.'."
+      },
+      {
+        "id": "1co-4-q5",
+        "questionNumber": 5,
+        "question": "According to the text, what happened or was commanded in 1 Corinthians 4:8?",
+        "options": [
+          "“For even now you are full, even now you have wealth,...”",
+          "“Even to this hour we are without food, drink,...”",
+          "“For even if you had ten thousand teachers in...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“For even now you are full, even now you have wealth,...”",
+        "reference": "1 Corinthians 4:8",
+        "explanation": "1 Corinthians 4:8 records: 'For even now you are full, even now you have wealth, you have been made kings without us: truly, I would be glad if you were kings, so that we might be kings with you.'."
+      },
+      {
+        "id": "1co-4-q6",
+        "questionNumber": 6,
+        "question": "What central message or instruction is delivered in 1 Corinthians 4:10?",
+        "options": [
+          "“When evil things are said about us we give...”",
+          "“We are made to seem foolish for Christ, but you are...”",
+          "“For this cause I have sent Timothy to you,...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“We are made to seem foolish for Christ, but you are...”",
+        "reference": "1 Corinthians 4:10",
+        "explanation": "1 Corinthians 4:10 records: 'We are made to seem foolish for Christ, but you are wise in Christ; we are feeble, but you are strong; you have glory, but we have shame.'."
+      },
+      {
+        "id": "1co-4-q7",
+        "questionNumber": 7,
+        "question": "What detail regarding God's work, covenant, or people is given in 1 Corinthians 4:12?",
+        "options": [
+          "“For even if you had ten thousand teachers in...”",
+          "“But I will come to you in a short...”",
+          "“And with our hands we do the hardest work: when they...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“And with our hands we do the hardest work: when they...”",
+        "reference": "1 Corinthians 4:12",
+        "explanation": "1 Corinthians 4:12 records: 'And with our hands we do the hardest work: when they give us curses we give blessings, when we undergo punishment we take it quietly;'."
+      },
+      {
+        "id": "1co-4-q8",
+        "questionNumber": 8,
+        "question": "What phrase or account is recorded in 1 Corinthians 4:14?",
+        "options": [
+          "“For this cause I have sent Timothy to you,...”",
+          "“Let us be judged as servants of Christ, and...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“I am not saying these things to put you to shame,...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“I am not saying these things to put you to shame,...”",
+        "reference": "1 Corinthians 4:14",
+        "explanation": "1 Corinthians 4:14 records: 'I am not saying these things to put you to shame, but so that, as my dear children, you may see what is right.'."
+      },
+      {
+        "id": "1co-4-q9",
+        "questionNumber": 9,
+        "question": "How does the passage describe the circumstances or people in 1 Corinthians 4:16?",
+        "options": [
+          "“So my desire is that you take me as your example.”",
+          "“But I will come to you in a short...”",
+          "“And it is right for such servants to be...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“So my desire is that you take me as your example.”",
+        "reference": "1 Corinthians 4:16",
+        "explanation": "1 Corinthians 4:16 records: 'So my desire is that you take me as your example.'."
+      },
+      {
+        "id": "1co-4-q10",
+        "questionNumber": 10,
+        "question": "In the concluding portion of the chapter, what takes place in 1 Corinthians 4:18?",
+        "options": [
+          "“Let us be judged as servants of Christ, and...”",
+          "“Now some are full of pride, as if I was not...”",
+          "“For I am not conscious of any wrong in...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“Now some are full of pride, as if I was not...”",
+        "reference": "1 Corinthians 4:18",
+        "explanation": "1 Corinthians 4:18 records: 'Now some are full of pride, as if I was not coming to you.'."
+      }
+    ],
+    "5": [
+      {
+        "id": "1co-5-q1",
+        "questionNumber": 1,
+        "question": "According to 1 Corinthians 5:1, what is the opening statement or setting of this chapter?",
+        "options": [
+          "It records: “It is said, in fact, that there is among you a sin of the flesh, ...”",
+          "It begins with a prayer of thanksgiving for deliverance in 1 Corinthians",
+          "It opens with a formal census and counting of the congregation",
+          "It records a severe judgment pronounced against neighboring nations"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "It records: “It is said, in fact, that there is among you a sin of the flesh, ...”",
+        "reference": "1 Corinthians 5:1",
+        "explanation": "The chapter begins directly with the statement: 'It is said, in fact, that there is among you a sin of the flesh, such as is not seen even among the Gentiles, that one of you has his father's wife.'."
+      },
+      {
+        "id": "1co-5-q2",
+        "questionNumber": 2,
+        "question": "What key instruction, event, or declaration is set forth in 1 Corinthians 5:2?",
+        "options": [
+          "“That this man is to be handed over to...”",
+          "“And in place of feeling sorrow, you are pleased with yourselves,...”",
+          "“In my letter I said to you that you...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“And in place of feeling sorrow, you are pleased with yourselves,...”",
+        "reference": "1 Corinthians 5:2",
+        "explanation": "1 Corinthians 5:2 records: 'And in place of feeling sorrow, you are pleased with yourselves, so that he who has done this thing has not been sent away from among you.'."
+      },
+      {
+        "id": "1co-5-q3",
+        "questionNumber": 3,
+        "question": "What significant action or revelation occurs in 1 Corinthians 5:3?",
+        "options": [
+          "“This pride of yours is not good. Do you...”",
+          "“But I had not in mind the sinners who...”",
+          "“For I myself, being present in spirit though not in body,...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“For I myself, being present in spirit though not in body,...”",
+        "reference": "1 Corinthians 5:3",
+        "explanation": "1 Corinthians 5:3 records: 'For I myself, being present in spirit though not in body, have come to a decision about him who has done this thing;'."
+      },
+      {
+        "id": "1co-5-q4",
+        "questionNumber": 4,
+        "question": "What truth or description is highlighted in 1 Corinthians 5:4?",
+        "options": [
+          "“Take away, then, the old leaven, so that you...”",
+          "“But the sense of my letter was that if...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“In the name of our Lord Jesus, when you have come...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“In the name of our Lord Jesus, when you have come...”",
+        "reference": "1 Corinthians 5:4",
+        "explanation": "1 Corinthians 5:4 records: 'In the name of our Lord Jesus, when you have come together with my spirit, with the power of our Lord Jesus,'."
+      },
+      {
+        "id": "1co-5-q5",
+        "questionNumber": 5,
+        "question": "According to the text, what happened or was commanded in 1 Corinthians 5:5?",
+        "options": [
+          "“That this man is to be handed over to Satan for...”",
+          "“Let us then keep the feast, not with old...”",
+          "“For it is no business of mine to be...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“That this man is to be handed over to Satan for...”",
+        "reference": "1 Corinthians 5:5",
+        "explanation": "1 Corinthians 5:5 records: 'That this man is to be handed over to Satan for the destruction of the flesh, so that his spirit may have forgiveness in the day of the Lord Jesus.'."
+      },
+      {
+        "id": "1co-5-q6",
+        "questionNumber": 6,
+        "question": "What central message or instruction is delivered in 1 Corinthians 5:6?",
+        "options": [
+          "“In my letter I said to you that you...”",
+          "“This pride of yours is not good. Do you not see...”",
+          "“It is said, in fact, that there is among...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“This pride of yours is not good. Do you not see...”",
+        "reference": "1 Corinthians 5:6",
+        "explanation": "1 Corinthians 5:6 records: 'This pride of yours is not good. Do you not see that a little leaven makes a change in all the mass?'."
+      },
+      {
+        "id": "1co-5-q7",
+        "questionNumber": 7,
+        "question": "What detail regarding God's work, covenant, or people is given in 1 Corinthians 5:7?",
+        "options": [
+          "“But I had not in mind the sinners who...”",
+          "“It is said, in fact, that there is among...”",
+          "“Take away, then, the old leaven, so that you may be...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“Take away, then, the old leaven, so that you may be...”",
+        "reference": "1 Corinthians 5:7",
+        "explanation": "1 Corinthians 5:7 records: 'Take away, then, the old leaven, so that you may be a new mass, even as you are without leaven. For Christ has been put to death as our Passover.'."
+      },
+      {
+        "id": "1co-5-q8",
+        "questionNumber": 8,
+        "question": "What phrase or account is recorded in 1 Corinthians 5:8?",
+        "options": [
+          "“But the sense of my letter was that if...”",
+          "“And in place of feeling sorrow, you are pleased...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“Let us then keep the feast, not with old leaven, and...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“Let us then keep the feast, not with old leaven, and...”",
+        "reference": "1 Corinthians 5:8",
+        "explanation": "1 Corinthians 5:8 records: 'Let us then keep the feast, not with old leaven, and not with the leaven of evil thoughts and acts, but with the unleavened bread of true thoughts and right feelings.'."
+      },
+      {
+        "id": "1co-5-q9",
+        "questionNumber": 9,
+        "question": "How does the passage describe the circumstances or people in 1 Corinthians 5:9?",
+        "options": [
+          "“In my letter I said to you that you were not...”",
+          "“For it is no business of mine to be...”",
+          "“For I myself, being present in spirit though not...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“In my letter I said to you that you were not...”",
+        "reference": "1 Corinthians 5:9",
+        "explanation": "1 Corinthians 5:9 records: 'In my letter I said to you that you were not to keep company with those who go after the desires of the flesh;'."
+      },
+      {
+        "id": "1co-5-q10",
+        "questionNumber": 10,
+        "question": "In the concluding portion of the chapter, what takes place in 1 Corinthians 5:10?",
+        "options": [
+          "“It is said, in fact, that there is among...”",
+          "“But I had not in mind the sinners who are outside...”",
+          "“In the name of our Lord Jesus, when you...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“But I had not in mind the sinners who are outside...”",
+        "reference": "1 Corinthians 5:10",
+        "explanation": "1 Corinthians 5:10 records: 'But I had not in mind the sinners who are outside the church, or those who have a desire for and take the property of others, or those who give worship to images; for it is not possible to keep away from such people without going out of the world completely:'."
+      }
+    ],
+    "6": [
+      {
+        "id": "1co-6-q1",
+        "questionNumber": 1,
+        "question": "According to 1 Corinthians 6:1, what is the opening statement or setting of this chapter?",
+        "options": [
+          "It records: “How is it, that if any one of you has a cause at law against anot...”",
+          "It begins with a prayer of thanksgiving for deliverance in 1 Corinthians",
+          "It opens with a formal census and counting of the congregation",
+          "It records a severe judgment pronounced against neighboring nations"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "It records: “How is it, that if any one of you has a cause at law against anot...”",
+        "reference": "1 Corinthians 6:1",
+        "explanation": "The chapter begins directly with the statement: 'How is it, that if any one of you has a cause at law against another, he takes it before a Gentile judge and not before the saints?'."
+      },
+      {
+        "id": "1co-6-q2",
+        "questionNumber": 2,
+        "question": "What key instruction, event, or declaration is set forth in 1 Corinthians 6:2?",
+        "options": [
+          "“I say this to put you to shame. Is...”",
+          "“Is it not certain that the saints will be the judges...”",
+          "“Have you not knowledge that evil-doers will have no...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“Is it not certain that the saints will be the judges...”",
+        "reference": "1 Corinthians 6:2",
+        "explanation": "1 Corinthians 6:2 records: 'Is it not certain that the saints will be the judges of the world? if then the world will be judged by you, are you unable to give a decision about the smallest things?'."
+      },
+      {
+        "id": "1co-6-q3",
+        "questionNumber": 3,
+        "question": "What significant action or revelation occurs in 1 Corinthians 6:4?",
+        "options": [
+          "“More than this, it is not to your credit...”",
+          "“And such were some of you; but you have...”",
+          "“If then there are questions to be judged in connection with...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“If then there are questions to be judged in connection with...”",
+        "reference": "1 Corinthians 6:4",
+        "explanation": "1 Corinthians 6:4 records: 'If then there are questions to be judged in connection with the things of this life, why do you put them in the hands of those who have no position in the church?'."
+      },
+      {
+        "id": "1co-6-q4",
+        "questionNumber": 4,
+        "question": "What truth or description is highlighted in 1 Corinthians 6:6?",
+        "options": [
+          "“Have you not knowledge that evil-doers will have no...”",
+          "“Food is for the stomach and the stomach for...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“But a brother who has a cause at law against another...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“But a brother who has a cause at law against another...”",
+        "reference": "1 Corinthians 6:6",
+        "explanation": "1 Corinthians 6:6 records: 'But a brother who has a cause at law against another takes it before Gentile judges.'."
+      },
+      {
+        "id": "1co-6-q5",
+        "questionNumber": 5,
+        "question": "According to the text, what happened or was commanded in 1 Corinthians 6:8?",
+        "options": [
+          "“So far from doing this, you yourselves do wrong and take...”",
+          "“And such were some of you; but you have...”",
+          "“Do you not see that your bodies are part...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“So far from doing this, you yourselves do wrong and take...”",
+        "reference": "1 Corinthians 6:8",
+        "explanation": "1 Corinthians 6:8 records: 'So far from doing this, you yourselves do wrong and take your brothers' property.'."
+      },
+      {
+        "id": "1co-6-q6",
+        "questionNumber": 6,
+        "question": "What central message or instruction is delivered in 1 Corinthians 6:10?",
+        "options": [
+          "“Food is for the stomach and the stomach for...”",
+          "“Or is a thief, or the worse for drink, or makes...”",
+          "“But he who is united to the Lord is...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“Or is a thief, or the worse for drink, or makes...”",
+        "reference": "1 Corinthians 6:10",
+        "explanation": "1 Corinthians 6:10 records: 'Or is a thief, or the worse for drink, or makes use of strong language, or takes by force what is not his, will have any part in the kingdom of God.'."
+      },
+      {
+        "id": "1co-6-q7",
+        "questionNumber": 7,
+        "question": "What detail regarding God's work, covenant, or people is given in 1 Corinthians 6:12?",
+        "options": [
+          "“Do you not see that your bodies are part...”",
+          "“Or are you not conscious that your body is...”",
+          "“I am free to do all things; but not all things...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“I am free to do all things; but not all things...”",
+        "reference": "1 Corinthians 6:12",
+        "explanation": "1 Corinthians 6:12 records: 'I am free to do all things; but not all things are wise. I am free to do all things; but I will not let myself come under the power of any.'."
+      },
+      {
+        "id": "1co-6-q8",
+        "questionNumber": 8,
+        "question": "What phrase or account is recorded in 1 Corinthians 6:14?",
+        "options": [
+          "“But he who is united to the Lord is...”",
+          "“How is it, that if any one of you...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“And God who made the Lord Jesus come back from the...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“And God who made the Lord Jesus come back from the...”",
+        "reference": "1 Corinthians 6:14",
+        "explanation": "1 Corinthians 6:14 records: 'And God who made the Lord Jesus come back from the dead will do the same for us by his power.'."
+      },
+      {
+        "id": "1co-6-q9",
+        "questionNumber": 9,
+        "question": "How does the passage describe the circumstances or people in 1 Corinthians 6:16?",
+        "options": [
+          "“Or do you not see that he who is joined to...”",
+          "“Or are you not conscious that your body is...”",
+          "“Is it not certain that we are to be...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“Or do you not see that he who is joined to...”",
+        "reference": "1 Corinthians 6:16",
+        "explanation": "1 Corinthians 6:16 records: 'Or do you not see that he who is joined to a loose woman is one body with her? for God has said, The two of them will become one flesh.'."
+      },
+      {
+        "id": "1co-6-q10",
+        "questionNumber": 10,
+        "question": "In the concluding portion of the chapter, what takes place in 1 Corinthians 6:18?",
+        "options": [
+          "“How is it, that if any one of you...”",
+          "“Keep away from the desires of the flesh. Every sin which...”",
+          "“I say this to put you to shame. Is...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“Keep away from the desires of the flesh. Every sin which...”",
+        "reference": "1 Corinthians 6:18",
+        "explanation": "1 Corinthians 6:18 records: 'Keep away from the desires of the flesh. Every sin which a man does is outside of the body; but he who goes after the desires of the flesh does evil to his body.'."
+      }
+    ],
+    "7": [
+      {
+        "id": "1co-7-q1",
+        "questionNumber": 1,
+        "question": "According to 1 Corinthians 7:1, what is the opening statement or setting of this chapter?",
+        "options": [
+          "It records: “Now, as to the things in your letter to me: It is good for a man ...”",
+          "It begins with a prayer of thanksgiving for deliverance in 1 Corinthians",
+          "It opens with a formal census and counting of the congregation",
+          "It records a severe judgment pronounced against neighboring nations"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "It records: “Now, as to the things in your letter to me: It is good for a man ...”",
+        "reference": "1 Corinthians 7:1",
+        "explanation": "The chapter begins directly with the statement: 'Now, as to the things in your letter to me: It is good for a man to have nothing to do with a woman.'."
+      },
+      {
+        "id": "1co-7-q2",
+        "questionNumber": 2,
+        "question": "What key instruction, event, or declaration is set forth in 1 Corinthians 7:4?",
+        "options": [
+          "“It is my desire that all men might be...”",
+          "“The wife has not power over her body, but the husband;...”",
+          "“(Or if she goes away from him, let her...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“The wife has not power over her body, but the husband;...”",
+        "reference": "1 Corinthians 7:4",
+        "explanation": "1 Corinthians 7:4 records: 'The wife has not power over her body, but the husband; and in the same way the husband has not power over his body, but the wife.'."
+      },
+      {
+        "id": "1co-7-q3",
+        "questionNumber": 3,
+        "question": "What significant action or revelation occurs in 1 Corinthians 7:8?",
+        "options": [
+          "“(Or if she goes away from him, let her...”",
+          "“But if the one who is not a Christian...”",
+          "“But I say to the unmarried and to the widows, It...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“But I say to the unmarried and to the widows, It...”",
+        "reference": "1 Corinthians 7:8",
+        "explanation": "1 Corinthians 7:8 records: 'But I say to the unmarried and to the widows, It is good for them to be even as I am.'."
+      },
+      {
+        "id": "1co-7-q4",
+        "questionNumber": 4,
+        "question": "What truth or description is highlighted in 1 Corinthians 7:12?",
+        "options": [
+          "“But if the one who is not a Christian...”",
+          "“Circumcision is nothing, and its opposite is nothing, but...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“But to the rest I say, and not the Lord; If...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“But to the rest I say, and not the Lord; If...”",
+        "reference": "1 Corinthians 7:12",
+        "explanation": "1 Corinthians 7:12 records: 'But to the rest I say, and not the Lord; If a brother has a wife who is not a Christian, and it is her desire to go on living with him, let him not go away from her.'."
+      },
+      {
+        "id": "1co-7-q5",
+        "questionNumber": 5,
+        "question": "According to the text, what happened or was commanded in 1 Corinthians 7:16?",
+        "options": [
+          "“For how may you be certain, O wife, that you will...”",
+          "“Circumcision is nothing, and its opposite is nothing, but...”",
+          "“It is the Lord who has made payment for...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“For how may you be certain, O wife, that you will...”",
+        "reference": "1 Corinthians 7:16",
+        "explanation": "1 Corinthians 7:16 records: 'For how may you be certain, O wife, that you will not be the cause of salvation to your husband? or you, O husband, that you may not do the same for your wife?'."
+      },
+      {
+        "id": "1co-7-q6",
+        "questionNumber": 6,
+        "question": "What central message or instruction is delivered in 1 Corinthians 7:20?",
+        "options": [
+          "“It is the Lord who has made payment for...”",
+          "“Let every man keep the position in which he has been...”",
+          "“If you are married to a wife, make no...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“Let every man keep the position in which he has been...”",
+        "reference": "1 Corinthians 7:20",
+        "explanation": "1 Corinthians 7:20 records: 'Let every man keep the position in which he has been placed by God.'."
+      },
+      {
+        "id": "1co-7-q7",
+        "questionNumber": 7,
+        "question": "What detail regarding God's work, covenant, or people is given in 1 Corinthians 7:24?",
+        "options": [
+          "“If you are married to a wife, make no...”",
+          "“And for those who make use of the world,...”",
+          "“My brothers, let every man keep in that condition which is...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“My brothers, let every man keep in that condition which is...”",
+        "reference": "1 Corinthians 7:24",
+        "explanation": "1 Corinthians 7:24 records: 'My brothers, let every man keep in that condition which is the purpose of God for him.'."
+      },
+      {
+        "id": "1co-7-q8",
+        "questionNumber": 8,
+        "question": "What phrase or account is recorded in 1 Corinthians 7:28?",
+        "options": [
+          "“And for those who make use of the world,...”",
+          "“Now I say this for your profit; not to...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“If you get married it is not a sin; and if...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“If you get married it is not a sin; and if...”",
+        "reference": "1 Corinthians 7:28",
+        "explanation": "1 Corinthians 7:28 records: 'If you get married it is not a sin; and if an unmarried woman gets married it is not a sin. But those who do so will have trouble in the flesh. But I will not be hard on you.'."
+      },
+      {
+        "id": "1co-7-q9",
+        "questionNumber": 9,
+        "question": "How does the passage describe the circumstances or people in 1 Corinthians 7:32?",
+        "options": [
+          "“But it is my desire for you to be free from...”",
+          "“Now I say this for your profit; not to...”",
+          "“It is right for a wife to be with...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“But it is my desire for you to be free from...”",
+        "reference": "1 Corinthians 7:32",
+        "explanation": "1 Corinthians 7:32 records: 'But it is my desire for you to be free from cares. The unmarried man gives his mind to the things of the Lord, how he may give pleasure to the Lord:'."
+      },
+      {
+        "id": "1co-7-q10",
+        "questionNumber": 10,
+        "question": "In the concluding portion of the chapter, what takes place in 1 Corinthians 7:36?",
+        "options": [
+          "“It is right for a wife to be with...”",
+          "“But if, in any man's opinion, he is not doing what...”",
+          "“Let the husband give to the wife what is...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“But if, in any man's opinion, he is not doing what...”",
+        "reference": "1 Corinthians 7:36",
+        "explanation": "1 Corinthians 7:36 records: 'But if, in any man's opinion, he is not doing what is right for his virgin, if she is past her best years, and there is need for it, let him do what seems right to him; it is no sin; let them be married.'."
+      }
+    ],
+    "8": [
+      {
+        "id": "1co-8-q1",
+        "questionNumber": 1,
+        "question": "According to 1 Corinthians 8:1, what is the opening statement or setting of this chapter?",
+        "options": [
+          "It records: “Now about things offered to images: we all seem to ourselves to h...”",
+          "It begins with a prayer of thanksgiving for deliverance in 1 Corinthians",
+          "It opens with a formal census and counting of the congregation",
+          "It records a severe judgment pronounced against neighboring nations"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "It records: “Now about things offered to images: we all seem to ourselves to h...”",
+        "reference": "1 Corinthians 8:1",
+        "explanation": "The chapter begins directly with the statement: 'Now about things offered to images: we all seem to ourselves to have knowledge. Knowledge gives pride, but love gives true strength.'."
+      },
+      {
+        "id": "1co-8-q2",
+        "questionNumber": 2,
+        "question": "What key instruction, event, or declaration is set forth in 1 Corinthians 8:2?",
+        "options": [
+          "“For though there are those who have the name...”",
+          "“If anyone seems to himself to have knowledge, so far he...”",
+          "“But take care that this power of yours does...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“If anyone seems to himself to have knowledge, so far he...”",
+        "reference": "1 Corinthians 8:2",
+        "explanation": "1 Corinthians 8:2 records: 'If anyone seems to himself to have knowledge, so far he has not the right sort of knowledge about anything;'."
+      },
+      {
+        "id": "1co-8-q3",
+        "questionNumber": 3,
+        "question": "What significant action or revelation occurs in 1 Corinthians 8:3?",
+        "options": [
+          "“There is for us only one God, the Father,...”",
+          "“For if a man sees you, who have knowledge,...”",
+          "“But if anyone has love for God, God has knowledge of him.”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“But if anyone has love for God, God has knowledge of him.”",
+        "reference": "1 Corinthians 8:3",
+        "explanation": "1 Corinthians 8:3 records: 'But if anyone has love for God, God has knowledge of him.'."
+      },
+      {
+        "id": "1co-8-q4",
+        "questionNumber": 4,
+        "question": "What truth or description is highlighted in 1 Corinthians 8:4?",
+        "options": [
+          "“Still, all men have not that knowledge: but some,...”",
+          "“And so, through your knowledge, you are the cause...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“So, then, as to the question of taking food offered to...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“So, then, as to the question of taking food offered to...”",
+        "reference": "1 Corinthians 8:4",
+        "explanation": "1 Corinthians 8:4 records: 'So, then, as to the question of taking food offered to images, we are certain that an image is nothing in the world, and that there is no God but one.'."
+      },
+      {
+        "id": "1co-8-q5",
+        "questionNumber": 5,
+        "question": "According to the text, what happened or was commanded in 1 Corinthians 8:5?",
+        "options": [
+          "“For though there are those who have the name of gods,...”",
+          "“But God's approval of us is not based on...”",
+          "“And in this way, doing evil to the brothers,...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“For though there are those who have the name of gods,...”",
+        "reference": "1 Corinthians 8:5",
+        "explanation": "1 Corinthians 8:5 records: 'For though there are those who have the name of gods, in heaven or on earth, as there are a number of gods and a number of lords,'."
+      },
+      {
+        "id": "1co-8-q6",
+        "questionNumber": 6,
+        "question": "What central message or instruction is delivered in 1 Corinthians 8:6?",
+        "options": [
+          "“But take care that this power of yours does...”",
+          "“There is for us only one God, the Father, of whom...”",
+          "“Now about things offered to images: we all seem...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“There is for us only one God, the Father, of whom...”",
+        "reference": "1 Corinthians 8:6",
+        "explanation": "1 Corinthians 8:6 records: 'There is for us only one God, the Father, of whom are all things, and we are for him; and one Lord, Jesus Christ, through whom are all things, and we have our being through him.'."
+      },
+      {
+        "id": "1co-8-q7",
+        "questionNumber": 7,
+        "question": "What detail regarding God's work, covenant, or people is given in 1 Corinthians 8:7?",
+        "options": [
+          "“For if a man sees you, who have knowledge,...”",
+          "“Now about things offered to images: we all seem...”",
+          "“Still, all men have not that knowledge: but some, being used...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“Still, all men have not that knowledge: but some, being used...”",
+        "reference": "1 Corinthians 8:7",
+        "explanation": "1 Corinthians 8:7 records: 'Still, all men have not that knowledge: but some, being used till now to the image, are conscious that they are taking food which has been offered to the image; and because they are not strong in the faith, their minds are troubled.'."
+      },
+      {
+        "id": "1co-8-q8",
+        "questionNumber": 8,
+        "question": "What phrase or account is recorded in 1 Corinthians 8:8?",
+        "options": [
+          "“And so, through your knowledge, you are the cause...”",
+          "“If anyone seems to himself to have knowledge, so...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“But God's approval of us is not based on the food...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“But God's approval of us is not based on the food...”",
+        "reference": "1 Corinthians 8:8",
+        "explanation": "1 Corinthians 8:8 records: 'But God's approval of us is not based on the food we take: if we do not take it we are no worse for it; and if we take it we are no better.'."
+      },
+      {
+        "id": "1co-8-q9",
+        "questionNumber": 9,
+        "question": "How does the passage describe the circumstances or people in 1 Corinthians 8:9?",
+        "options": [
+          "“But take care that this power of yours does not give...”",
+          "“And in this way, doing evil to the brothers,...”",
+          "“But if anyone has love for God, God has...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“But take care that this power of yours does not give...”",
+        "reference": "1 Corinthians 8:9",
+        "explanation": "1 Corinthians 8:9 records: 'But take care that this power of yours does not give cause for trouble to the feeble.'."
+      },
+      {
+        "id": "1co-8-q10",
+        "questionNumber": 10,
+        "question": "In the concluding portion of the chapter, what takes place in 1 Corinthians 8:10?",
+        "options": [
+          "“Now about things offered to images: we all seem...”",
+          "“For if a man sees you, who have knowledge, taking food...”",
+          "“So, then, as to the question of taking food...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“For if a man sees you, who have knowledge, taking food...”",
+        "reference": "1 Corinthians 8:10",
+        "explanation": "1 Corinthians 8:10 records: 'For if a man sees you, who have knowledge, taking food as a guest in the house of an image, will it not give him, if he is feeble, the idea that he may take food offered to images?'."
+      }
+    ],
+    "9": [
+      {
+        "id": "1co-9-q1",
+        "questionNumber": 1,
+        "question": "According to 1 Corinthians 9:1, what is the opening statement or setting of this chapter?",
+        "options": [
+          "It records: “Am I not free? am I not an Apostle? have I not seen Jesus our Lor...”",
+          "It begins with a prayer of thanksgiving for deliverance in 1 Corinthians",
+          "It opens with a formal census and counting of the congregation",
+          "It records a severe judgment pronounced against neighboring nations"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "It records: “Am I not free? am I not an Apostle? have I not seen Jesus our Lor...”",
+        "reference": "1 Corinthians 9:1",
+        "explanation": "The chapter begins directly with the statement: 'Am I not free? am I not an Apostle? have I not seen Jesus our Lord? are you not my work in the Lord?'."
+      },
+      {
+        "id": "1co-9-q2",
+        "questionNumber": 2,
+        "question": "What key instruction, event, or declaration is set forth in 1 Corinthians 9:2?",
+        "options": [
+          "“Have we no right to take about with us...”",
+          "“If to others I am not an Apostle, at least I...”",
+          "“For it says in the law of Moses, It...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“If to others I am not an Apostle, at least I...”",
+        "reference": "1 Corinthians 9:2",
+        "explanation": "1 Corinthians 9:2 records: 'If to others I am not an Apostle, at least I am one to you: for the fact that you are Christians is the sign that I am an Apostle.'."
+      },
+      {
+        "id": "1co-9-q3",
+        "questionNumber": 3,
+        "question": "What significant action or revelation occurs in 1 Corinthians 9:4?",
+        "options": [
+          "“Who ever goes to war without looking to someone...”",
+          "“If we have been planting the things of the...”",
+          "“Have we no right to take food and drink?”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“Have we no right to take food and drink?”",
+        "reference": "1 Corinthians 9:4",
+        "explanation": "1 Corinthians 9:4 records: 'Have we no right to take food and drink?'."
+      },
+      {
+        "id": "1co-9-q4",
+        "questionNumber": 4,
+        "question": "What truth or description is highlighted in 1 Corinthians 9:6?",
+        "options": [
+          "“For it says in the law of Moses, It...”",
+          "“Do you not see that the servants of the...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“Or I only and Barnabas, have we no right to take...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“Or I only and Barnabas, have we no right to take...”",
+        "reference": "1 Corinthians 9:6",
+        "explanation": "1 Corinthians 9:6 records: 'Or I only and Barnabas, have we no right to take a rest from work?'."
+      },
+      {
+        "id": "1co-9-q5",
+        "questionNumber": 5,
+        "question": "According to the text, what happened or was commanded in 1 Corinthians 9:8?",
+        "options": [
+          "“Am I talking as a man? does not the law say...”",
+          "“If we have been planting the things of the...”",
+          "“But I have not made use of any of...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“Am I talking as a man? does not the law say...”",
+        "reference": "1 Corinthians 9:8",
+        "explanation": "1 Corinthians 9:8 records: 'Am I talking as a man? does not the law say the same?'."
+      },
+      {
+        "id": "1co-9-q6",
+        "questionNumber": 6,
+        "question": "What central message or instruction is delivered in 1 Corinthians 9:10?",
+        "options": [
+          "“Do you not see that the servants of the...”",
+          "“Or has he us in mind? Yes, it was said for...”",
+          "“But if I do it gladly, I have a...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“Or has he us in mind? Yes, it was said for...”",
+        "reference": "1 Corinthians 9:10",
+        "explanation": "1 Corinthians 9:10 records: 'Or has he us in mind? Yes, it was said for us; because it is right for the ploughman to do his ploughing in hope, and for him who is crushing the grain to do his work hoping for a part in the fruits of it.'."
+      },
+      {
+        "id": "1co-9-q7",
+        "questionNumber": 7,
+        "question": "What detail regarding God's work, covenant, or people is given in 1 Corinthians 9:12?",
+        "options": [
+          "“But I have not made use of any of...”",
+          "“For though I was free from all men, I...”",
+          "“If others have a part in this right over you, have...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“If others have a part in this right over you, have...”",
+        "reference": "1 Corinthians 9:12",
+        "explanation": "1 Corinthians 9:12 records: 'If others have a part in this right over you, have we not even more? But we did not make use of our right, so that we might put nothing in the way of the good news of Christ.'."
+      },
+      {
+        "id": "1co-9-q8",
+        "questionNumber": 8,
+        "question": "What phrase or account is recorded in 1 Corinthians 9:14?",
+        "options": [
+          "“But if I do it gladly, I have a...”",
+          "“To those without the law I was as one...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“Even so did the Lord give orders that the preachers of...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“Even so did the Lord give orders that the preachers of...”",
+        "reference": "1 Corinthians 9:14",
+        "explanation": "1 Corinthians 9:14 records: 'Even so did the Lord give orders that the preachers of the good news might get their living from the good news.'."
+      },
+      {
+        "id": "1co-9-q9",
+        "questionNumber": 9,
+        "question": "How does the passage describe the circumstances or people in 1 Corinthians 9:16?",
+        "options": [
+          "“For if I am a preacher of the good news, I...”",
+          "“For though I was free from all men, I...”",
+          "“And I do all things for the cause of...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“For if I am a preacher of the good news, I...”",
+        "reference": "1 Corinthians 9:16",
+        "explanation": "1 Corinthians 9:16 records: 'For if I am a preacher of the good news, I have no cause for pride in this; because I am forced to do so, for a curse is on me if I do not.'."
+      },
+      {
+        "id": "1co-9-q10",
+        "questionNumber": 10,
+        "question": "In the concluding portion of the chapter, what takes place in 1 Corinthians 9:18?",
+        "options": [
+          "“To those without the law I was as one...”",
+          "“What then is my reward? This, that when I am giving...”",
+          "“And every man who takes part in the sports...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“What then is my reward? This, that when I am giving...”",
+        "reference": "1 Corinthians 9:18",
+        "explanation": "1 Corinthians 9:18 records: 'What then is my reward? This, that when I am giving the good news, I may give it without payment, not making use of my rights as a preacher of the good news.'."
+      }
+    ],
+    "10": [
+      {
+        "id": "1co-10-q1",
+        "questionNumber": 1,
+        "question": "According to 1 Corinthians 10:1, what is the opening statement or setting of this chapter?",
+        "options": [
+          "It records: “For it is my desire, my brothers, that you may keep in mind how a...”",
+          "It begins with a prayer of thanksgiving for deliverance in 1 Corinthians",
+          "It opens with a formal census and counting of the congregation",
+          "It records a severe judgment pronounced against neighboring nations"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "It records: “For it is my desire, my brothers, that you may keep in mind how a...”",
+        "reference": "1 Corinthians 10:1",
+        "explanation": "The chapter begins directly with the statement: 'For it is my desire, my brothers, that you may keep in mind how all our fathers were under the cloud, and they all went through the sea;'."
+      },
+      {
+        "id": "1co-10-q2",
+        "questionNumber": 2,
+        "question": "What key instruction, event, or declaration is set forth in 1 Corinthians 10:3?",
+        "options": [
+          "“Now these things were for an example to us,...”",
+          "“And they all took the same holy food;”",
+          "“And do not say evil things against the Lord,...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“And they all took the same holy food;”",
+        "reference": "1 Corinthians 10:3",
+        "explanation": "1 Corinthians 10:3 records: 'And they all took the same holy food;'."
+      },
+      {
+        "id": "1co-10-q3",
+        "questionNumber": 3,
+        "question": "What significant action or revelation occurs in 1 Corinthians 10:6?",
+        "options": [
+          "“And let us not put the Lord to the...”",
+          "“You have been put to no test but such...”",
+          "“Now these things were for an example to us, so that...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“Now these things were for an example to us, so that...”",
+        "reference": "1 Corinthians 10:6",
+        "explanation": "1 Corinthians 10:6 records: 'Now these things were for an example to us, so that our hearts might not go after evil things, as they did.'."
+      },
+      {
+        "id": "1co-10-q4",
+        "questionNumber": 4,
+        "question": "What truth or description is highlighted in 1 Corinthians 10:9?",
+        "options": [
+          "“So let him who seems to himself to be...”",
+          "“The cup of blessing which we take, does it...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“And let us not put the Lord to the test, as...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“And let us not put the Lord to the test, as...”",
+        "reference": "1 Corinthians 10:9",
+        "explanation": "1 Corinthians 10:9 records: 'And let us not put the Lord to the test, as some of them did, and came to their death by snakes.'."
+      },
+      {
+        "id": "1co-10-q5",
+        "questionNumber": 5,
+        "question": "According to the text, what happened or was commanded in 1 Corinthians 10:12?",
+        "options": [
+          "“So let him who seems to himself to be safe go...”",
+          "“What I am saying is for wise men, do...”",
+          "“Do I say, then, that what is offered to...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“So let him who seems to himself to be safe go...”",
+        "reference": "1 Corinthians 10:12",
+        "explanation": "1 Corinthians 10:12 records: 'So let him who seems to himself to be safe go in fear of a fall.'."
+      },
+      {
+        "id": "1co-10-q6",
+        "questionNumber": 6,
+        "question": "What central message or instruction is delivered in 1 Corinthians 10:15?",
+        "options": [
+          "“See Israel after the flesh: do not those who...”",
+          "“What I am saying is for wise men, do you be...”",
+          "“Or may we be the cause of envy to...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“What I am saying is for wise men, do you be...”",
+        "reference": "1 Corinthians 10:15",
+        "explanation": "1 Corinthians 10:15 records: 'What I am saying is for wise men, do you be the judges of it.'."
+      },
+      {
+        "id": "1co-10-q7",
+        "questionNumber": 7,
+        "question": "What detail regarding God's work, covenant, or people is given in 1 Corinthians 10:18?",
+        "options": [
+          "“It is not possible for you, at the same...”",
+          "“Whatever meat may be had at the public market,...”",
+          "“See Israel after the flesh: do not those who take as...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“See Israel after the flesh: do not those who take as...”",
+        "reference": "1 Corinthians 10:18",
+        "explanation": "1 Corinthians 10:18 records: 'See Israel after the flesh: do not those who take as food the offerings of the altar take a part in the altar?'."
+      },
+      {
+        "id": "1co-10-q8",
+        "questionNumber": 8,
+        "question": "What phrase or account is recorded in 1 Corinthians 10:21?",
+        "options": [
+          "“Let a man give attention not only to what...”",
+          "“But if anyone says to you, This food has...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“It is not possible for you, at the same time, to...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“It is not possible for you, at the same time, to...”",
+        "reference": "1 Corinthians 10:21",
+        "explanation": "1 Corinthians 10:21 records: 'It is not possible for you, at the same time, to take the cup of the Lord and the cup of evil spirits; you may not take part in the table of the Lord and the table of evil spirits.'."
+      },
+      {
+        "id": "1co-10-q9",
+        "questionNumber": 9,
+        "question": "How does the passage describe the circumstances or people in 1 Corinthians 10:24?",
+        "options": [
+          "“Let a man give attention not only to what is good...”",
+          "“If a Gentile makes a feast for you, and...”",
+          "“So then, if it is a question of food...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“Let a man give attention not only to what is good...”",
+        "reference": "1 Corinthians 10:24",
+        "explanation": "1 Corinthians 10:24 records: 'Let a man give attention not only to what is good for himself, but equally to his neighbour's good.'."
+      },
+      {
+        "id": "1co-10-q10",
+        "questionNumber": 10,
+        "question": "In the concluding portion of the chapter, what takes place in 1 Corinthians 10:27?",
+        "options": [
+          "“But if I give praise to God for the...”",
+          "“If a Gentile makes a feast for you, and you are...”",
+          "“For it is my desire, my brothers, that you...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“If a Gentile makes a feast for you, and you are...”",
+        "reference": "1 Corinthians 10:27",
+        "explanation": "1 Corinthians 10:27 records: 'If a Gentile makes a feast for you, and you are pleased to go as a guest, take whatever is put before you, without question of right or wrong.'."
+      }
+    ],
+    "11": [
+      {
+        "id": "1co-11-q1",
+        "questionNumber": 1,
+        "question": "According to 1 Corinthians 11:1, what is the opening statement or setting of this chapter?",
+        "options": [
+          "It records: “So take me for your example, even as I take Christ for mine.”",
+          "It begins with a prayer of thanksgiving for deliverance in 1 Corinthians",
+          "It opens with a formal census and counting of the congregation",
+          "It records a severe judgment pronounced against neighboring nations"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "It records: “So take me for your example, even as I take Christ for mine.”",
+        "reference": "1 Corinthians 11:1",
+        "explanation": "The chapter begins directly with the statement: 'So take me for your example, even as I take Christ for mine.'."
+      },
+      {
+        "id": "1co-11-q2",
+        "questionNumber": 2,
+        "question": "What key instruction, event, or declaration is set forth in 1 Corinthians 11:3?",
+        "options": [
+          "“For if a woman is not veiled, let her...”",
+          "“But it is important for you to keep this fact in...”",
+          "“For this reason it is right for the woman...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“But it is important for you to keep this fact in...”",
+        "reference": "1 Corinthians 11:3",
+        "explanation": "1 Corinthians 11:3 records: 'But it is important for you to keep this fact in mind, that the head of every man is Christ; and the head of the woman is the man, and the head of Christ is God.'."
+      },
+      {
+        "id": "1co-11-q3",
+        "questionNumber": 3,
+        "question": "What significant action or revelation occurs in 1 Corinthians 11:6?",
+        "options": [
+          "“And the man was not made for the woman,...”",
+          "“Be judges yourselves of the question: does it seem...”",
+          "“For if a woman is not veiled, let her hair be...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“For if a woman is not veiled, let her hair be...”",
+        "reference": "1 Corinthians 11:6",
+        "explanation": "1 Corinthians 11:6 records: 'For if a woman is not veiled, let her hair be cut off; but if it is a shame to a woman to have her hair cut off, let her be veiled.'."
+      },
+      {
+        "id": "1co-11-q4",
+        "questionNumber": 4,
+        "question": "What truth or description is highlighted in 1 Corinthians 11:9?",
+        "options": [
+          "“For as the woman is from the man, so...”",
+          "“But if any man will not be ruled in...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“And the man was not made for the woman, but the...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“And the man was not made for the woman, but the...”",
+        "reference": "1 Corinthians 11:9",
+        "explanation": "1 Corinthians 11:9 records: 'And the man was not made for the woman, but the woman for the man.'."
+      },
+      {
+        "id": "1co-11-q5",
+        "questionNumber": 5,
+        "question": "According to the text, what happened or was commanded in 1 Corinthians 11:12?",
+        "options": [
+          "“For as the woman is from the man, so the man...”",
+          "“But if a woman has long hair, it is...”",
+          "“For divisions are necessary among you, in order that...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“For as the woman is from the man, so the man...”",
+        "reference": "1 Corinthians 11:12",
+        "explanation": "1 Corinthians 11:12 records: 'For as the woman is from the man, so the man is through the woman; but all things are from God.'."
+      },
+      {
+        "id": "1co-11-q6",
+        "questionNumber": 6,
+        "question": "What central message or instruction is delivered in 1 Corinthians 11:15?",
+        "options": [
+          "“For first of all, it has come to my...”",
+          "“But if a woman has long hair, it is a glory...”",
+          "“What? have you not houses to take your meals...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“But if a woman has long hair, it is a glory...”",
+        "reference": "1 Corinthians 11:15",
+        "explanation": "1 Corinthians 11:15 records: 'But if a woman has long hair, it is a glory to her: for her hair is given to her for a covering.'."
+      },
+      {
+        "id": "1co-11-q7",
+        "questionNumber": 7,
+        "question": "What detail regarding God's work, covenant, or people is given in 1 Corinthians 11:18?",
+        "options": [
+          "“For when you take your food, everyone takes his...”",
+          "“In the same way, with the cup, after the...”",
+          "“For first of all, it has come to my ears that...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“For first of all, it has come to my ears that...”",
+        "reference": "1 Corinthians 11:18",
+        "explanation": "1 Corinthians 11:18 records: 'For first of all, it has come to my ears that when you come together in the church, there are divisions among you, and I take the statement to be true in part.'."
+      },
+      {
+        "id": "1co-11-q8",
+        "questionNumber": 8,
+        "question": "What phrase or account is recorded in 1 Corinthians 11:21?",
+        "options": [
+          "“And when it had been broken with an act...”",
+          "“But let no man take of the bread and...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“For when you take your food, everyone takes his meal before...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“For when you take your food, everyone takes his meal before...”",
+        "reference": "1 Corinthians 11:21",
+        "explanation": "1 Corinthians 11:21 records: 'For when you take your food, everyone takes his meal before the other; and one has not enough food, and another is the worse for drink.'."
+      },
+      {
+        "id": "1co-11-q9",
+        "questionNumber": 9,
+        "question": "How does the passage describe the circumstances or people in 1 Corinthians 11:24?",
+        "options": [
+          "“And when it had been broken with an act of praise,...”",
+          "“If, then, anyone takes the bread or the cup...”",
+          "“But if we were true judges of ourselves, punishment...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“And when it had been broken with an act of praise,...”",
+        "reference": "1 Corinthians 11:24",
+        "explanation": "1 Corinthians 11:24 records: 'And when it had been broken with an act of praise, he said, This is my body which is for you: do this in memory of me.'."
+      },
+      {
+        "id": "1co-11-q10",
+        "questionNumber": 10,
+        "question": "In the concluding portion of the chapter, what takes place in 1 Corinthians 11:27?",
+        "options": [
+          "“For this cause a number of you are feeble...”",
+          "“If, then, anyone takes the bread or the cup of the...”",
+          "“So take me for your example, even as I...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“If, then, anyone takes the bread or the cup of the...”",
+        "reference": "1 Corinthians 11:27",
+        "explanation": "1 Corinthians 11:27 records: 'If, then, anyone takes the bread or the cup of the Lord in the wrong spirit, he will be responsible for the body and blood of the Lord.'."
+      }
+    ],
+    "12": [
+      {
+        "id": "1co-12-q1",
+        "questionNumber": 1,
+        "question": "According to 1 Corinthians 12:1, what is the opening statement or setting of this chapter?",
+        "options": [
+          "It records: “But about the things of the spirit, my brothers, it is not right ...”",
+          "It begins with a prayer of thanksgiving for deliverance in 1 Corinthians",
+          "It opens with a formal census and counting of the congregation",
+          "It records a severe judgment pronounced against neighboring nations"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "It records: “But about the things of the spirit, my brothers, it is not right ...”",
+        "reference": "1 Corinthians 12:1",
+        "explanation": "The chapter begins directly with the statement: 'But about the things of the spirit, my brothers, it is not right for you to be without teaching.'."
+      },
+      {
+        "id": "1co-12-q2",
+        "questionNumber": 2,
+        "question": "What key instruction, event, or declaration is set forth in 1 Corinthians 12:3?",
+        "options": [
+          "“And there are different operations, but the same God,...”",
+          "“So it is my desire for you to be clear about...”",
+          "“And to another the power of working wonders; and...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“So it is my desire for you to be clear about...”",
+        "reference": "1 Corinthians 12:3",
+        "explanation": "1 Corinthians 12:3 records: 'So it is my desire for you to be clear about this; that no one is able to say by the Spirit of God that Jesus is cursed; and no one is able to say that Jesus is Lord, but by the Holy Spirit.'."
+      },
+      {
+        "id": "1co-12-q3",
+        "questionNumber": 3,
+        "question": "What significant action or revelation occurs in 1 Corinthians 12:6?",
+        "options": [
+          "“To another faith in the same Spirit; and to...”",
+          "“For through the baptism of the one Spirit we...”",
+          "“And there are different operations, but the same God, who is...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“And there are different operations, but the same God, who is...”",
+        "reference": "1 Corinthians 12:6",
+        "explanation": "1 Corinthians 12:6 records: 'And there are different operations, but the same God, who is working all things in all.'."
+      },
+      {
+        "id": "1co-12-q4",
+        "questionNumber": 4,
+        "question": "What truth or description is highlighted in 1 Corinthians 12:9?",
+        "options": [
+          "“For as the body is one, and has a...”",
+          "“And if the ear says, Because I am not...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“To another faith in the same Spirit; and to another the...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“To another faith in the same Spirit; and to another the...”",
+        "reference": "1 Corinthians 12:9",
+        "explanation": "1 Corinthians 12:9 records: 'To another faith in the same Spirit; and to another the power of taking away disease, by the one Spirit;'."
+      },
+      {
+        "id": "1co-12-q5",
+        "questionNumber": 5,
+        "question": "According to the text, what happened or was commanded in 1 Corinthians 12:12?",
+        "options": [
+          "“For as the body is one, and has a number of...”",
+          "“If the foot says, Because I am not the...”",
+          "“And if they were all one part, where would...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“For as the body is one, and has a number of...”",
+        "reference": "1 Corinthians 12:12",
+        "explanation": "1 Corinthians 12:12 records: 'For as the body is one, and has a number of parts, and all the parts make one body, so is Christ.'."
+      },
+      {
+        "id": "1co-12-q6",
+        "questionNumber": 6,
+        "question": "What central message or instruction is delivered in 1 Corinthians 12:15?",
+        "options": [
+          "“But now God has put every one of the...”",
+          "“If the foot says, Because I am not the hand, I...”",
+          "“No, those parts which seem to be feeble are...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“If the foot says, Because I am not the hand, I...”",
+        "reference": "1 Corinthians 12:15",
+        "explanation": "1 Corinthians 12:15 records: 'If the foot says, Because I am not the hand, I am not a part of the body; it is no less a part of the body.'."
+      },
+      {
+        "id": "1co-12-q7",
+        "questionNumber": 7,
+        "question": "What detail regarding God's work, covenant, or people is given in 1 Corinthians 12:18?",
+        "options": [
+          "“And the eye may not say to the hand,...”",
+          "“So that there might be no division in the...”",
+          "“But now God has put every one of the parts in...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“But now God has put every one of the parts in...”",
+        "reference": "1 Corinthians 12:18",
+        "explanation": "1 Corinthians 12:18 records: 'But now God has put every one of the parts in the body as it was pleasing to him.'."
+      },
+      {
+        "id": "1co-12-q8",
+        "questionNumber": 8,
+        "question": "What phrase or account is recorded in 1 Corinthians 12:21?",
+        "options": [
+          "“But those parts of the body which are beautiful...”",
+          "“And God has put some in the church, first,...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“And the eye may not say to the hand, I have...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“And the eye may not say to the hand, I have...”",
+        "reference": "1 Corinthians 12:21",
+        "explanation": "1 Corinthians 12:21 records: 'And the eye may not say to the hand, I have no need of you: or again the head to the feet, I have no need of you.'."
+      },
+      {
+        "id": "1co-12-q9",
+        "questionNumber": 9,
+        "question": "How does the passage describe the circumstances or people in 1 Corinthians 12:24?",
+        "options": [
+          "“But those parts of the body which are beautiful have no...”",
+          "“Now you are the body of Christ, and every...”",
+          "“But about the things of the spirit, my brothers,...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“But those parts of the body which are beautiful have no...”",
+        "reference": "1 Corinthians 12:24",
+        "explanation": "1 Corinthians 12:24 records: 'But those parts of the body which are beautiful have no need of such care: and so the body has been joined together by God in such a way as to give more honour to those parts which had need of it;'."
+      },
+      {
+        "id": "1co-12-q10",
+        "questionNumber": 10,
+        "question": "In the concluding portion of the chapter, what takes place in 1 Corinthians 12:27?",
+        "options": [
+          "“Are all able to take away disease? have all...”",
+          "“Now you are the body of Christ, and every one of...”",
+          "“So it is my desire for you to be...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“Now you are the body of Christ, and every one of...”",
+        "reference": "1 Corinthians 12:27",
+        "explanation": "1 Corinthians 12:27 records: 'Now you are the body of Christ, and every one of you the separate parts of it.'."
+      }
+    ],
+    "13": [
+      {
+        "id": "1co-13-q1",
+        "questionNumber": 1,
+        "question": "According to 1 Corinthians 13:1, what is the opening statement or setting of this chapter?",
+        "options": [
+          "It records: “If I make use of the tongues of men and of angels, and have not l...”",
+          "It begins with a prayer of thanksgiving for deliverance in 1 Corinthians",
+          "It opens with a formal census and counting of the congregation",
+          "It records a severe judgment pronounced against neighboring nations"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "It records: “If I make use of the tongues of men and of angels, and have not l...”",
+        "reference": "1 Corinthians 13:1",
+        "explanation": "The chapter begins directly with the statement: 'If I make use of the tongues of men and of angels, and have not love, I am like sounding brass, or a loud-tongued bell.'."
+      },
+      {
+        "id": "1co-13-q2",
+        "questionNumber": 2,
+        "question": "What key instruction, event, or declaration is set forth in 1 Corinthians 13:2?",
+        "options": [
+          "“Love's ways are ever fair, it takes no thought...”",
+          "“And if I have a prophet's power, and have knowledge of...”",
+          "“For our knowledge is only in part, and the...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“And if I have a prophet's power, and have knowledge of...”",
+        "reference": "1 Corinthians 13:2",
+        "explanation": "1 Corinthians 13:2 records: 'And if I have a prophet's power, and have knowledge of all secret things; and if I have all faith, by which mountains may be moved from their place, but have not love, I am nothing.'."
+      },
+      {
+        "id": "1co-13-q3",
+        "questionNumber": 3,
+        "question": "What significant action or revelation occurs in 1 Corinthians 13:3?",
+        "options": [
+          "“It takes no pleasure in wrongdoing, but has joy...”",
+          "“But when that which is complete is come, then...”",
+          "“And if I give all my goods to the poor, and...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“And if I give all my goods to the poor, and...”",
+        "reference": "1 Corinthians 13:3",
+        "explanation": "1 Corinthians 13:3 records: 'And if I give all my goods to the poor, and if I give my body to be burned, but have not love, it is of no profit to me.'."
+      },
+      {
+        "id": "1co-13-q4",
+        "questionNumber": 4,
+        "question": "What truth or description is highlighted in 1 Corinthians 13:4?",
+        "options": [
+          "“Love has the power of undergoing all things, having...”",
+          "“When I was a child, I made use of...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“Love is never tired of waiting; love is kind; love has...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“Love is never tired of waiting; love is kind; love has...”",
+        "reference": "1 Corinthians 13:4",
+        "explanation": "1 Corinthians 13:4 records: 'Love is never tired of waiting; love is kind; love has no envy; love has no high opinion of itself, love has no pride;'."
+      },
+      {
+        "id": "1co-13-q5",
+        "questionNumber": 5,
+        "question": "According to the text, what happened or was commanded in 1 Corinthians 13:5?",
+        "options": [
+          "“Love's ways are ever fair, it takes no thought for itself;...”",
+          "“Though the prophet's word may come to an end,...”",
+          "“For now we see things in a glass, darkly;...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“Love's ways are ever fair, it takes no thought for itself;...”",
+        "reference": "1 Corinthians 13:5",
+        "explanation": "1 Corinthians 13:5 records: 'Love's ways are ever fair, it takes no thought for itself; it is not quickly made angry, it takes no account of evil;'."
+      },
+      {
+        "id": "1co-13-q6",
+        "questionNumber": 6,
+        "question": "What central message or instruction is delivered in 1 Corinthians 13:6?",
+        "options": [
+          "“For our knowledge is only in part, and the...”",
+          "“It takes no pleasure in wrongdoing, but has joy in what...”",
+          "“If I make use of the tongues of men...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“It takes no pleasure in wrongdoing, but has joy in what...”",
+        "reference": "1 Corinthians 13:6",
+        "explanation": "1 Corinthians 13:6 records: 'It takes no pleasure in wrongdoing, but has joy in what is true;'."
+      },
+      {
+        "id": "1co-13-q7",
+        "questionNumber": 7,
+        "question": "What detail regarding God's work, covenant, or people is given in 1 Corinthians 13:7?",
+        "options": [
+          "“But when that which is complete is come, then...”",
+          "“If I make use of the tongues of men...”",
+          "“Love has the power of undergoing all things, having faith in...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“Love has the power of undergoing all things, having faith in...”",
+        "reference": "1 Corinthians 13:7",
+        "explanation": "1 Corinthians 13:7 records: 'Love has the power of undergoing all things, having faith in all things, hoping all things.'."
+      },
+      {
+        "id": "1co-13-q8",
+        "questionNumber": 8,
+        "question": "What phrase or account is recorded in 1 Corinthians 13:8?",
+        "options": [
+          "“When I was a child, I made use of...”",
+          "“And if I have a prophet's power, and have...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“Though the prophet's word may come to an end, tongues come...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“Though the prophet's word may come to an end, tongues come...”",
+        "reference": "1 Corinthians 13:8",
+        "explanation": "1 Corinthians 13:8 records: 'Though the prophet's word may come to an end, tongues come to nothing, and knowledge have no more value, love has no end.'."
+      },
+      {
+        "id": "1co-13-q9",
+        "questionNumber": 9,
+        "question": "How does the passage describe the circumstances or people in 1 Corinthians 13:9?",
+        "options": [
+          "“For our knowledge is only in part, and the prophet's word...”",
+          "“For now we see things in a glass, darkly;...”",
+          "“And if I give all my goods to the...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“For our knowledge is only in part, and the prophet's word...”",
+        "reference": "1 Corinthians 13:9",
+        "explanation": "1 Corinthians 13:9 records: 'For our knowledge is only in part, and the prophet's word gives only a part of what is true:'."
+      },
+      {
+        "id": "1co-13-q10",
+        "questionNumber": 10,
+        "question": "In the concluding portion of the chapter, what takes place in 1 Corinthians 13:10?",
+        "options": [
+          "“If I make use of the tongues of men...”",
+          "“But when that which is complete is come, then that which...”",
+          "“Love is never tired of waiting; love is kind;...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“But when that which is complete is come, then that which...”",
+        "reference": "1 Corinthians 13:10",
+        "explanation": "1 Corinthians 13:10 records: 'But when that which is complete is come, then that which is in part will be no longer necessary.'."
+      }
+    ],
+    "14": [
+      {
+        "id": "1co-14-q1",
+        "questionNumber": 1,
+        "question": "According to 1 Corinthians 14:1, what is the opening statement or setting of this chapter?",
+        "options": [
+          "It records: “Go after love; still desiring to have the things which the Spirit...”",
+          "It begins with a prayer of thanksgiving for deliverance in 1 Corinthians",
+          "It opens with a formal census and counting of the congregation",
+          "It records a severe judgment pronounced against neighboring nations"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "It records: “Go after love; still desiring to have the things which the Spirit...”",
+        "reference": "1 Corinthians 14:1",
+        "explanation": "The chapter begins directly with the statement: 'Go after love; still desiring to have the things which the Spirit gives, but most of all that you may have the prophet's power.'."
+      },
+      {
+        "id": "1co-14-q2",
+        "questionNumber": 2,
+        "question": "What key instruction, event, or declaration is set forth in 1 Corinthians 14:4?",
+        "options": [
+          "“Even things without life, having a voice, such as...”",
+          "“He who makes use of tongues may do good to himself;...”",
+          "“But if the sense of the voice is not...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“He who makes use of tongues may do good to himself;...”",
+        "reference": "1 Corinthians 14:4",
+        "explanation": "1 Corinthians 14:4 records: 'He who makes use of tongues may do good to himself; but he who gives the prophet's word does good to the church.'."
+      },
+      {
+        "id": "1co-14-q3",
+        "questionNumber": 3,
+        "question": "What significant action or revelation occurs in 1 Corinthians 14:8?",
+        "options": [
+          "“But if the sense of the voice is not...”",
+          "“What then? let my prayer be from the spirit,...”",
+          "“For if the war-horn gives out an uncertain note, who will...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“For if the war-horn gives out an uncertain note, who will...”",
+        "reference": "1 Corinthians 14:8",
+        "explanation": "1 Corinthians 14:8 records: 'For if the war-horn gives out an uncertain note, who will get ready for the fight?'."
+      },
+      {
+        "id": "1co-14-q4",
+        "questionNumber": 4,
+        "question": "What truth or description is highlighted in 1 Corinthians 14:12?",
+        "options": [
+          "“What then? let my prayer be from the spirit,...”",
+          "“But in the church it would be better for...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“So if you are desiring the things which the Spirit gives,...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“So if you are desiring the things which the Spirit gives,...”",
+        "reference": "1 Corinthians 14:12",
+        "explanation": "1 Corinthians 14:12 records: 'So if you are desiring the things which the Spirit gives, let your minds be turned first to the things which are for the good of the church.'."
+      },
+      {
+        "id": "1co-14-q5",
+        "questionNumber": 5,
+        "question": "According to the text, what happened or was commanded in 1 Corinthians 14:16?",
+        "options": [
+          "“For if you give a blessing with the spirit, how will...”",
+          "“But in the church it would be better for...”",
+          "“If, then, the church has come together, and all...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“For if you give a blessing with the spirit, how will...”",
+        "reference": "1 Corinthians 14:16",
+        "explanation": "1 Corinthians 14:16 records: 'For if you give a blessing with the spirit, how will the man who has no knowledge say, So be it, after your prayer, seeing that he has not taken in what you are saying?'."
+      },
+      {
+        "id": "1co-14-q6",
+        "questionNumber": 6,
+        "question": "What central message or instruction is delivered in 1 Corinthians 14:20?",
+        "options": [
+          "“If, then, the church has come together, and all...”",
+          "“My brothers, do not be children in mind: in evil be...”",
+          "“If any man makes use of a tongue, let...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“My brothers, do not be children in mind: in evil be...”",
+        "reference": "1 Corinthians 14:20",
+        "explanation": "1 Corinthians 14:20 records: 'My brothers, do not be children in mind: in evil be as little children, but in mind be of full growth.'."
+      },
+      {
+        "id": "1co-14-q7",
+        "questionNumber": 7,
+        "question": "What detail regarding God's work, covenant, or people is given in 1 Corinthians 14:24?",
+        "options": [
+          "“If any man makes use of a tongue, let...”",
+          "“For you may all be prophets in turn so...”",
+          "“But if all are teaching as prophets, and a man without...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“But if all are teaching as prophets, and a man without...”",
+        "reference": "1 Corinthians 14:24",
+        "explanation": "1 Corinthians 14:24 records: 'But if all are teaching as prophets, and a man without faith or knowledge comes in, he is tested by all, he is judged by all;'."
+      },
+      {
+        "id": "1co-14-q8",
+        "questionNumber": 8,
+        "question": "What phrase or account is recorded in 1 Corinthians 14:28?",
+        "options": [
+          "“For you may all be prophets in turn so...”",
+          "“And if they have a desire for knowledge about...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“But if there is no one to give the sense, let...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“But if there is no one to give the sense, let...”",
+        "reference": "1 Corinthians 14:28",
+        "explanation": "1 Corinthians 14:28 records: 'But if there is no one to give the sense, let him keep quiet in the church; and let his words be to himself and to God.'."
+      },
+      {
+        "id": "1co-14-q9",
+        "questionNumber": 9,
+        "question": "How does the passage describe the circumstances or people in 1 Corinthians 14:32?",
+        "options": [
+          "“And the spirits of the prophets are controlled by the prophets;”",
+          "“And if they have a desire for knowledge about...”",
+          "“So then, my brothers, let it be your chief...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“And the spirits of the prophets are controlled by the prophets;”",
+        "reference": "1 Corinthians 14:32",
+        "explanation": "1 Corinthians 14:32 records: 'And the spirits of the prophets are controlled by the prophets;'."
+      },
+      {
+        "id": "1co-14-q10",
+        "questionNumber": 10,
+        "question": "In the concluding portion of the chapter, what takes place in 1 Corinthians 14:36?",
+        "options": [
+          "“So then, my brothers, let it be your chief...”",
+          "“What? was it from you that the word of God went...”",
+          "“But the word of the prophet gives men knowledge...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“What? was it from you that the word of God went...”",
+        "reference": "1 Corinthians 14:36",
+        "explanation": "1 Corinthians 14:36 records: 'What? was it from you that the word of God went out? or did it only come in to you?'."
+      }
+    ],
+    "15": [
+      {
+        "id": "1co-15-q1",
+        "questionNumber": 1,
+        "question": "According to 1 Corinthians 15:1, what is the opening statement or setting of this chapter?",
+        "options": [
+          "It records: “Now I am going to make clear to you, my brothers, what the good n...”",
+          "It begins with a prayer of thanksgiving for deliverance in 1 Corinthians",
+          "It opens with a formal census and counting of the congregation",
+          "It records a severe judgment pronounced against neighboring nations"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "It records: “Now I am going to make clear to you, my brothers, what the good n...”",
+        "reference": "1 Corinthians 15:1",
+        "explanation": "The chapter begins directly with the statement: 'Now I am going to make clear to you, my brothers, what the good news was which I gave to you, and which you took, and on which your faith is based,'."
+      },
+      {
+        "id": "1co-15-q2",
+        "questionNumber": 2,
+        "question": "What key instruction, event, or declaration is set forth in 1 Corinthians 15:5?",
+        "options": [
+          "“And last of all, as by one whose birth...”",
+          "“And he was seen by Cephas; then by the twelve;”",
+          "“Now if the good news says that Christ came...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“And he was seen by Cephas; then by the twelve;”",
+        "reference": "1 Corinthians 15:5",
+        "explanation": "1 Corinthians 15:5 records: 'And he was seen by Cephas; then by the twelve;'."
+      },
+      {
+        "id": "1co-15-q3",
+        "questionNumber": 3,
+        "question": "What significant action or revelation occurs in 1 Corinthians 15:10?",
+        "options": [
+          "“But if there is no coming back from the...”",
+          "“And if that is so, your faith is of...”",
+          "“But by the grace of God, I am what I am:...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“But by the grace of God, I am what I am:...”",
+        "reference": "1 Corinthians 15:10",
+        "explanation": "1 Corinthians 15:10 records: 'But by the grace of God, I am what I am: and his grace which was given to me has not been for nothing; for I did more work than all of them; though not I, but the grace of God which was with me.'."
+      },
+      {
+        "id": "1co-15-q4",
+        "questionNumber": 4,
+        "question": "What truth or description is highlighted in 1 Corinthians 15:15?",
+        "options": [
+          "“And, in addition, the dead in Christ have gone...”",
+          "“For as in Adam death comes to all, so...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“Yes, and we are seen to be false witnesses of God;...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“Yes, and we are seen to be false witnesses of God;...”",
+        "reference": "1 Corinthians 15:15",
+        "explanation": "1 Corinthians 15:15 records: 'Yes, and we are seen to be false witnesses of God; because we gave witness of God that by his power Christ came again from the dead: which is not true if there is no coming back from the dead.'."
+      },
+      {
+        "id": "1co-15-q5",
+        "questionNumber": 5,
+        "question": "According to the text, what happened or was commanded in 1 Corinthians 15:20?",
+        "options": [
+          "“But now Christ has truly come back from the dead, the...”",
+          "“But every man in his right order: Christ the...”",
+          "“For, as it says, He has put all things...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“But now Christ has truly come back from the dead, the...”",
+        "reference": "1 Corinthians 15:20",
+        "explanation": "1 Corinthians 15:20 records: 'But now Christ has truly come back from the dead, the first-fruits of those who are sleeping.'."
+      },
+      {
+        "id": "1co-15-q6",
+        "questionNumber": 6,
+        "question": "What central message or instruction is delivered in 1 Corinthians 15:25?",
+        "options": [
+          "“And when all things have been put under him,...”",
+          "“For his rule will go on till he has put all...”",
+          "“If, after the way of men, I was fighting...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“For his rule will go on till he has put all...”",
+        "reference": "1 Corinthians 15:25",
+        "explanation": "1 Corinthians 15:25 records: 'For his rule will go on till he has put all those who are against him under his feet.'."
+      },
+      {
+        "id": "1co-15-q7",
+        "questionNumber": 7,
+        "question": "What detail regarding God's work, covenant, or people is given in 1 Corinthians 15:30?",
+        "options": [
+          "“Do not be tricked by false words: evil company...”",
+          "“And when you put it into the earth, you...”",
+          "“And why are we in danger every hour?”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“And why are we in danger every hour?”",
+        "reference": "1 Corinthians 15:30",
+        "explanation": "1 Corinthians 15:30 records: 'And why are we in danger every hour?'."
+      },
+      {
+        "id": "1co-15-q8",
+        "questionNumber": 8,
+        "question": "What phrase or account is recorded in 1 Corinthians 15:35?",
+        "options": [
+          "“But God gives it a body, as it is...”",
+          "“So is it with the coming back from the...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“But someone will say, How do the dead come back? and...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“But someone will say, How do the dead come back? and...”",
+        "reference": "1 Corinthians 15:35",
+        "explanation": "1 Corinthians 15:35 records: 'But someone will say, How do the dead come back? and with what sort of body do they come?'."
+      },
+      {
+        "id": "1co-15-q9",
+        "questionNumber": 9,
+        "question": "How does the passage describe the circumstances or people in 1 Corinthians 15:40?",
+        "options": [
+          "“And there are bodies of heaven and bodies of earth, but...”",
+          "“It is planted in shame; it comes again in...”",
+          "“The first man is from the earth, and of...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“And there are bodies of heaven and bodies of earth, but...”",
+        "reference": "1 Corinthians 15:40",
+        "explanation": "1 Corinthians 15:40 records: 'And there are bodies of heaven and bodies of earth, but the glory of the one is different from that of the other.'."
+      },
+      {
+        "id": "1co-15-q10",
+        "questionNumber": 10,
+        "question": "In the concluding portion of the chapter, what takes place in 1 Corinthians 15:45?",
+        "options": [
+          "“Those who are of the earth are like the...”",
+          "“And so it is said, The first man Adam was a...”",
+          "“In a second, in the shutting of an eye,...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“And so it is said, The first man Adam was a...”",
+        "reference": "1 Corinthians 15:45",
+        "explanation": "1 Corinthians 15:45 records: 'And so it is said, The first man Adam was a living soul. The last Adam is a life-giving spirit.'."
+      }
+    ],
+    "16": [
+      {
+        "id": "1co-16-q1",
+        "questionNumber": 1,
+        "question": "According to 1 Corinthians 16:1, what is the opening statement or setting of this chapter?",
+        "options": [
+          "It records: “Now about the giving of money for the saints, as I gave orders to...”",
+          "It begins with a prayer of thanksgiving for deliverance in 1 Corinthians",
+          "It opens with a formal census and counting of the congregation",
+          "It records a severe judgment pronounced against neighboring nations"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "It records: “Now about the giving of money for the saints, as I gave orders to...”",
+        "reference": "1 Corinthians 16:1",
+        "explanation": "The chapter begins directly with the statement: 'Now about the giving of money for the saints, as I gave orders to the churches of Galatia, so do you.'."
+      },
+      {
+        "id": "1co-16-q2",
+        "questionNumber": 2,
+        "question": "What key instruction, event, or declaration is set forth in 1 Corinthians 16:2?",
+        "options": [
+          "“But I will come to you after I have...”",
+          "“On the first day of the week, let every one of...”",
+          "“For a great and important door there is open...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“On the first day of the week, let every one of...”",
+        "reference": "1 Corinthians 16:2",
+        "explanation": "1 Corinthians 16:2 records: 'On the first day of the week, let every one of you put by him in store, in measure as he has done well in business, so that it may not be necessary to get money together when I come.'."
+      },
+      {
+        "id": "1co-16-q3",
+        "questionNumber": 3,
+        "question": "What significant action or revelation occurs in 1 Corinthians 16:4?",
+        "options": [
+          "“For it is not my desire to see you...”",
+          "“See then that he has the honour which is...”",
+          "“And if it is possible for me to go there, they...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“And if it is possible for me to go there, they...”",
+        "reference": "1 Corinthians 16:4",
+        "explanation": "1 Corinthians 16:4 records: 'And if it is possible for me to go there, they will go with me.'."
+      },
+      {
+        "id": "1co-16-q4",
+        "questionNumber": 4,
+        "question": "What truth or description is highlighted in 1 Corinthians 16:6?",
+        "options": [
+          "“For a great and important door there is open...”",
+          "“Be on the watch, unmoved in the faith, and...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“But I may be with you for a time, or even...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“But I may be with you for a time, or even...”",
+        "reference": "1 Corinthians 16:6",
+        "explanation": "1 Corinthians 16:6 records: 'But I may be with you for a time, or even for the winter, so that you may see me on my way, wherever I go.'."
+      },
+      {
+        "id": "1co-16-q5",
+        "questionNumber": 5,
+        "question": "According to the text, what happened or was commanded in 1 Corinthians 16:8?",
+        "options": [
+          "“But I will be at Ephesus till Pentecost;”",
+          "“See then that he has the honour which is...”",
+          "“Now I make my request to you, my brothers,...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“But I will be at Ephesus till Pentecost;”",
+        "reference": "1 Corinthians 16:8",
+        "explanation": "1 Corinthians 16:8 records: 'But I will be at Ephesus till Pentecost;'."
+      },
+      {
+        "id": "1co-16-q6",
+        "questionNumber": 6,
+        "question": "What central message or instruction is delivered in 1 Corinthians 16:10?",
+        "options": [
+          "“Be on the watch, unmoved in the faith, and...”",
+          "“Now if Timothy comes, see that he is with you without...”",
+          "“And I am glad of the coming of Stephanas...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“Now if Timothy comes, see that he is with you without...”",
+        "reference": "1 Corinthians 16:10",
+        "explanation": "1 Corinthians 16:10 records: 'Now if Timothy comes, see that he is with you without fear; because he is doing the Lord's work, even as I am:'."
+      },
+      {
+        "id": "1co-16-q7",
+        "questionNumber": 7,
+        "question": "What detail regarding God's work, covenant, or people is given in 1 Corinthians 16:12?",
+        "options": [
+          "“Now I make my request to you, my brothers,...”",
+          "“The churches of Asia send their love to you....”",
+          "“But as for Apollos, the brother, I had a great desire...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“But as for Apollos, the brother, I had a great desire...”",
+        "reference": "1 Corinthians 16:12",
+        "explanation": "1 Corinthians 16:12 records: 'But as for Apollos, the brother, I had a great desire for him to come to you with the brothers, but it was not his pleasure to come now; but he will come when he has a chance.'."
+      },
+      {
+        "id": "1co-16-q8",
+        "questionNumber": 8,
+        "question": "What phrase or account is recorded in 1 Corinthians 16:14?",
+        "options": [
+          "“And I am glad of the coming of Stephanas...”",
+          "“I, Paul, send you these words of love in...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“Let all you do be done in love.”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“Let all you do be done in love.”",
+        "reference": "1 Corinthians 16:14",
+        "explanation": "1 Corinthians 16:14 records: 'Let all you do be done in love.'."
+      },
+      {
+        "id": "1co-16-q9",
+        "questionNumber": 9,
+        "question": "How does the passage describe the circumstances or people in 1 Corinthians 16:16?",
+        "options": [
+          "“That you put yourselves under such, and under everyone who is...”",
+          "“The churches of Asia send their love to you....”",
+          "“The grace of our Lord Jesus Christ be with...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“That you put yourselves under such, and under everyone who is...”",
+        "reference": "1 Corinthians 16:16",
+        "explanation": "1 Corinthians 16:16 records: 'That you put yourselves under such, and under everyone who is helping the Lord's work.'."
+      },
+      {
+        "id": "1co-16-q10",
+        "questionNumber": 10,
+        "question": "In the concluding portion of the chapter, what takes place in 1 Corinthians 16:18?",
+        "options": [
+          "“I, Paul, send you these words of love in...”",
+          "“For they gave comfort to my spirit and to yours: for...”",
+          "“Now about the giving of money for the saints,...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“For they gave comfort to my spirit and to yours: for...”",
+        "reference": "1 Corinthians 16:18",
+        "explanation": "1 Corinthians 16:18 records: 'For they gave comfort to my spirit and to yours: for which cause give respect to such people.'."
+      }
+    ]
+  }
+}

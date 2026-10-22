@@ -34,11 +34,11 @@
 }
 
 .font-serif-bible {
-  font-family: 'Lora', Georgia, 'Times New Roman', serif;
+  font-family: 'Lora', Georgia, Cambria, 'Times New Roman', 'DejaVu Serif', serif;
 }
 
 .font-cinzel {
-  font-family: 'Cinzel', Georgia, 'Times New Roman', serif;
+  font-family: 'Cinzel', Georgia, Cambria, 'Times New Roman', 'DejaVu Serif', serif;
 }
 
 /* Custom Reading Theme Backgrounds with High-Contrast Text Colors */

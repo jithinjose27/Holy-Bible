@@ -1,0 +1,617 @@
+{
+  "book": "Ruth",
+  "bookId": "RUT",
+  "totalChapters": 4,
+  "totalQuestions": 40,
+  "questionsPerChapter": 10,
+  "chapters": {
+    "1": [
+      {
+        "id": "rut-1-q1",
+        "questionNumber": 1,
+        "question": "According to Ruth 1:1, what is the opening statement or setting of this chapter?",
+        "options": [
+          "It records: “Now there came a time, in the days of the judges, when there was ...”",
+          "It begins with a prayer of thanksgiving for deliverance in Ruth",
+          "It opens with a formal census and counting of the congregation",
+          "It records a severe judgment pronounced against neighboring nations"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "It records: “Now there came a time, in the days of the judges, when there was ...”",
+        "reference": "Ruth 1:1",
+        "explanation": "The chapter begins directly with the statement: 'Now there came a time, in the days of the judges, when there was no food in the land. And a certain man went from Beth-lehem-judah, he and his wife and his two sons, to make a living-place in the country of Moab.'."
+      },
+      {
+        "id": "rut-1-q2",
+        "questionNumber": 2,
+        "question": "What key instruction, event, or declaration is set forth in Ruth 1:2?",
+        "options": [
+          "“And Mahlon and Chilion came to their end; and...”",
+          "“And the name of the man was Elimelech, and the name...”",
+          "“May the Lord give you rest in the houses...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“And the name of the man was Elimelech, and the name...”",
+        "reference": "Ruth 1:2",
+        "explanation": "Ruth 1:2 records: 'And the name of the man was Elimelech, and the name of his wife Naomi, and the name of his two sons Mahlon and Chilion, Ephrathites of Beth-lehem-judah. And they came into the country of Moab, and were there for some time.'."
+      },
+      {
+        "id": "rut-1-q3",
+        "questionNumber": 3,
+        "question": "What significant action or revelation occurs in Ruth 1:4?",
+        "options": [
+          "“And she went out of the place where she...”",
+          "“But Naomi said, Go back, my daughters; why will...”",
+          "“And they took two women of Moab as their wives: the...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“And they took two women of Moab as their wives: the...”",
+        "reference": "Ruth 1:4",
+        "explanation": "Ruth 1:4 records: 'And they took two women of Moab as their wives: the name of the one was Orpah, and the name of the other Ruth; and they went on living there for about ten years.'."
+      },
+      {
+        "id": "rut-1-q4",
+        "questionNumber": 4,
+        "question": "What truth or description is highlighted in Ruth 1:6?",
+        "options": [
+          "“May the Lord give you rest in the houses...”",
+          "“Would you keep yourselves till they were old enough?...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“So she and her daughters-in-law got ready to go back from...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“So she and her daughters-in-law got ready to go back from...”",
+        "reference": "Ruth 1:6",
+        "explanation": "Ruth 1:6 records: 'So she and her daughters-in-law got ready to go back from the country of Moab, for news had come to her in the country of Moab that the Lord, in mercy for his people, had given them food.'."
+      },
+      {
+        "id": "rut-1-q5",
+        "questionNumber": 5,
+        "question": "According to the text, what happened or was commanded in Ruth 1:8?",
+        "options": [
+          "“And Naomi said to her two daughters-in-law, Go back to your...”",
+          "“But Naomi said, Go back, my daughters; why will...”",
+          "“And Naomi said, See, your sister-in-law has gone back...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“And Naomi said to her two daughters-in-law, Go back to your...”",
+        "reference": "Ruth 1:8",
+        "explanation": "Ruth 1:8 records: 'And Naomi said to her two daughters-in-law, Go back to your mothers' houses: may the Lord be good to you as you have been good to the dead and to me:'."
+      },
+      {
+        "id": "rut-1-q6",
+        "questionNumber": 6,
+        "question": "What central message or instruction is delivered in Ruth 1:10?",
+        "options": [
+          "“Would you keep yourselves till they were old enough?...”",
+          "“And they said to her, No, but we will go back...”",
+          "“Wherever death comes to you, death will come to...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“And they said to her, No, but we will go back...”",
+        "reference": "Ruth 1:10",
+        "explanation": "Ruth 1:10 records: 'And they said to her, No, but we will go back with you to your people.'."
+      },
+      {
+        "id": "rut-1-q7",
+        "questionNumber": 7,
+        "question": "What detail regarding God's work, covenant, or people is given in Ruth 1:12?",
+        "options": [
+          "“And Naomi said, See, your sister-in-law has gone back...”",
+          "“So the two of them went on till they...”",
+          "“Go back, my daughters, and go on your way; I am...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“Go back, my daughters, and go on your way; I am...”",
+        "reference": "Ruth 1:12",
+        "explanation": "Ruth 1:12 records: 'Go back, my daughters, and go on your way; I am so old now that I may not have another husband. If I said, I have hopes, if I had a husband tonight, and might have sons,'."
+      },
+      {
+        "id": "rut-1-q8",
+        "questionNumber": 8,
+        "question": "What phrase or account is recorded in Ruth 1:14?",
+        "options": [
+          "“Wherever death comes to you, death will come to...”",
+          "“I went out full, and the Lord has sent...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“Then again they were weeping; and Orpah gave her mother-in-law a...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“Then again they were weeping; and Orpah gave her mother-in-law a...”",
+        "reference": "Ruth 1:14",
+        "explanation": "Ruth 1:14 records: 'Then again they were weeping; and Orpah gave her mother-in-law a kiss, but Ruth would not be parted from her.'."
+      },
+      {
+        "id": "rut-1-q9",
+        "questionNumber": 9,
+        "question": "How does the passage describe the circumstances or people in Ruth 1:16?",
+        "options": [
+          "“But Ruth said, Give up requesting me to go away from...”",
+          "“So the two of them went on till they...”",
+          "“Now there came a time, in the days of...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“But Ruth said, Give up requesting me to go away from...”",
+        "reference": "Ruth 1:16",
+        "explanation": "Ruth 1:16 records: 'But Ruth said, Give up requesting me to go away from you, or to go back without you: for where you go I will go; and where you take your rest I will take my rest; your people will be my people, and your God my God.'."
+      },
+      {
+        "id": "rut-1-q10",
+        "questionNumber": 10,
+        "question": "In the concluding portion of the chapter, what takes place in Ruth 1:18?",
+        "options": [
+          "“I went out full, and the Lord has sent...”",
+          "“And when she saw that Ruth was strong in her purpose...”",
+          "“And Elimelech, Naomi's husband, came to his end; and...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“And when she saw that Ruth was strong in her purpose...”",
+        "reference": "Ruth 1:18",
+        "explanation": "Ruth 1:18 records: 'And when she saw that Ruth was strong in her purpose to go with her she said no more.'."
+      }
+    ],
+    "2": [
+      {
+        "id": "rut-2-q1",
+        "questionNumber": 1,
+        "question": "According to Ruth 2:1, what is the opening statement or setting of this chapter?",
+        "options": [
+          "It records: “And Naomi had a relation of her husband, a man of wealth, of the ...”",
+          "It begins with a prayer of thanksgiving for deliverance in Ruth",
+          "It opens with a formal census and counting of the congregation",
+          "It records a severe judgment pronounced against neighboring nations"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "It records: “And Naomi had a relation of her husband, a man of wealth, of the ...”",
+        "reference": "Ruth 2:1",
+        "explanation": "The chapter begins directly with the statement: 'And Naomi had a relation of her husband, a man of wealth, of the family of Elimelech; and his name was Boaz.'."
+      },
+      {
+        "id": "rut-2-q2",
+        "questionNumber": 2,
+        "question": "What key instruction, event, or declaration is set forth in Ruth 2:2?",
+        "options": [
+          "“Then Boaz said to his servant who was in...”",
+          "“And Ruth the Moabitess said to Naomi, Now let me go...”",
+          "“Keep your eyes on the field they are cutting,...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“And Ruth the Moabitess said to Naomi, Now let me go...”",
+        "reference": "Ruth 2:2",
+        "explanation": "Ruth 2:2 records: 'And Ruth the Moabitess said to Naomi, Now let me go into the field and take up the heads of grain after him in whose eyes I may have grace. And she said to her, Go, my daughter.'."
+      },
+      {
+        "id": "rut-2-q3",
+        "questionNumber": 3,
+        "question": "What significant action or revelation occurs in Ruth 2:4?",
+        "options": [
+          "“And she said to me, Let me come into...”",
+          "“And Boaz answering said to her, I have had...”",
+          "“And Boaz came from Beth-lehem, and said to the grain-cutters, The...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“And Boaz came from Beth-lehem, and said to the grain-cutters, The...”",
+        "reference": "Ruth 2:4",
+        "explanation": "Ruth 2:4 records: 'And Boaz came from Beth-lehem, and said to the grain-cutters, The Lord be with you. And they made answer, The Lord give you his blessing.'."
+      },
+      {
+        "id": "rut-2-q4",
+        "questionNumber": 4,
+        "question": "What truth or description is highlighted in Ruth 2:6?",
+        "options": [
+          "“Keep your eyes on the field they are cutting,...”",
+          "“Then she said, May I have grace in your...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“And the servant who was in authority over the cutters said,...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“And the servant who was in authority over the cutters said,...”",
+        "reference": "Ruth 2:6",
+        "explanation": "Ruth 2:6 records: 'And the servant who was in authority over the cutters said, It is a Moabite girl who came back with Naomi out of the country of Moab;'."
+      },
+      {
+        "id": "rut-2-q5",
+        "questionNumber": 5,
+        "question": "According to the text, what happened or was commanded in Ruth 2:8?",
+        "options": [
+          "“Then said Boaz to Ruth, Give ear to me, my daughter:...”",
+          "“And Boaz answering said to her, I have had...”",
+          "“And when she got ready to take up the...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“Then said Boaz to Ruth, Give ear to me, my daughter:...”",
+        "reference": "Ruth 2:8",
+        "explanation": "Ruth 2:8 records: 'Then said Boaz to Ruth, Give ear to me, my daughter: do not go to take up the grain in another field, or go away from here, but keep here by my young women:'."
+      },
+      {
+        "id": "rut-2-q6",
+        "questionNumber": 6,
+        "question": "What central message or instruction is delivered in Ruth 2:10?",
+        "options": [
+          "“Then she said, May I have grace in your...”",
+          "“Then she went down on her face to the earth, and...”",
+          "“So she went on getting together the heads of...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“Then she went down on her face to the earth, and...”",
+        "reference": "Ruth 2:10",
+        "explanation": "Ruth 2:10 records: 'Then she went down on her face to the earth, and said to him, Why have I grace in your eyes, that you give attention to me, seeing I am from a strange people?'."
+      },
+      {
+        "id": "rut-2-q7",
+        "questionNumber": 7,
+        "question": "What detail regarding God's work, covenant, or people is given in Ruth 2:12?",
+        "options": [
+          "“And when she got ready to take up the...”",
+          "“And her mother-in-law said to her, Where did you...”",
+          "“The Lord give you a reward for what you have done,...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“The Lord give you a reward for what you have done,...”",
+        "reference": "Ruth 2:12",
+        "explanation": "Ruth 2:12 records: 'The Lord give you a reward for what you have done, and may a full reward be given to you by the Lord, the God of Israel, under whose wings you have come to take cover.'."
+      },
+      {
+        "id": "rut-2-q8",
+        "questionNumber": 8,
+        "question": "What phrase or account is recorded in Ruth 2:14?",
+        "options": [
+          "“So she went on getting together the heads of...”",
+          "“And Ruth the Moabitess said, Truly, he said to...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“And at meal-time Boaz said to her, Come here, and take...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“And at meal-time Boaz said to her, Come here, and take...”",
+        "reference": "Ruth 2:14",
+        "explanation": "Ruth 2:14 records: 'And at meal-time Boaz said to her, Come here, and take some of the bread, and put your bit into the wine. And she took her seat among the grain-cutters: and he gave her dry grain, and she took it, and there was more than enough for her meal.'."
+      },
+      {
+        "id": "rut-2-q9",
+        "questionNumber": 9,
+        "question": "How does the passage describe the circumstances or people in Ruth 2:16?",
+        "options": [
+          "“And let some heads of grain be pulled out of what...”",
+          "“And her mother-in-law said to her, Where did you...”",
+          "“And Naomi had a relation of her husband, a...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“And let some heads of grain be pulled out of what...”",
+        "reference": "Ruth 2:16",
+        "explanation": "Ruth 2:16 records: 'And let some heads of grain be pulled out of what has been corded up, and dropped for her to take, and let no sharp word be said to her.'."
+      },
+      {
+        "id": "rut-2-q10",
+        "questionNumber": 10,
+        "question": "In the concluding portion of the chapter, what takes place in Ruth 2:18?",
+        "options": [
+          "“And Ruth the Moabitess said, Truly, he said to...”",
+          "“And she took it up and went into the town; and...”",
+          "“And Ruth the Moabitess said to Naomi, Now let...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“And she took it up and went into the town; and...”",
+        "reference": "Ruth 2:18",
+        "explanation": "Ruth 2:18 records: 'And she took it up and went into the town; and she let her mother-in-law see what she had got, and after taking enough for herself she gave her the rest.'."
+      }
+    ],
+    "3": [
+      {
+        "id": "rut-3-q1",
+        "questionNumber": 1,
+        "question": "According to Ruth 3:1, what is the opening statement or setting of this chapter?",
+        "options": [
+          "It records: “And Naomi, her mother-in-law, said to her, My daughter, am I not ...”",
+          "It begins with a prayer of thanksgiving for deliverance in Ruth",
+          "It opens with a formal census and counting of the congregation",
+          "It records a severe judgment pronounced against neighboring nations"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "It records: “And Naomi, her mother-in-law, said to her, My daughter, am I not ...”",
+        "reference": "Ruth 3:1",
+        "explanation": "The chapter begins directly with the statement: 'And Naomi, her mother-in-law, said to her, My daughter, am I not to get you a resting-place where you may be in comfort?'."
+      },
+      {
+        "id": "rut-3-q2",
+        "questionNumber": 2,
+        "question": "What key instruction, event, or declaration is set forth in Ruth 3:2?",
+        "options": [
+          "“And she said, I will do all you say.”",
+          "“And now, is there not Boaz, our relation, with whose young...”",
+          "“And he said, Who are you? And she answering...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“And now, is there not Boaz, our relation, with whose young...”",
+        "reference": "Ruth 3:2",
+        "explanation": "Ruth 3:2 records: 'And now, is there not Boaz, our relation, with whose young women you were? See, tonight he is separating the grain from the waste in his grain-floor.'."
+      },
+      {
+        "id": "rut-3-q3",
+        "questionNumber": 3,
+        "question": "What significant action or revelation occurs in Ruth 3:3?",
+        "options": [
+          "“So she went down to the grain-floor and did...”",
+          "“And he said, May the Lord give you his...”",
+          "“So take a bath, and, after rubbing your body with sweet...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“So take a bath, and, after rubbing your body with sweet...”",
+        "reference": "Ruth 3:3",
+        "explanation": "Ruth 3:3 records: 'So take a bath, and, after rubbing your body with sweet oil, put on your best robe, and go down to the grain-floor; but do not let him see you till he has come to the end of his meal.'."
+      },
+      {
+        "id": "rut-3-q4",
+        "questionNumber": 4,
+        "question": "What truth or description is highlighted in Ruth 3:4?",
+        "options": [
+          "“Now when Boaz had taken meat and drink, and...”",
+          "“And now, my daughter, have no fear; I will...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“But see to it, when he goes to rest, that you...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“But see to it, when he goes to rest, that you...”",
+        "reference": "Ruth 3:4",
+        "explanation": "Ruth 3:4 records: 'But see to it, when he goes to rest, that you take note of the place where he is sleeping, and go in there, and, uncovering his feet, take your place by him; and he will say what you are to do.'."
+      },
+      {
+        "id": "rut-3-q5",
+        "questionNumber": 5,
+        "question": "According to the text, what happened or was commanded in Ruth 3:5?",
+        "options": [
+          "“And she said, I will do all you say.”",
+          "“Now in the middle of the night, the man...”",
+          "“Now it is true that I am a near...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“And she said, I will do all you say.”",
+        "reference": "Ruth 3:5",
+        "explanation": "Ruth 3:5 records: 'And she said, I will do all you say.'."
+      },
+      {
+        "id": "rut-3-q6",
+        "questionNumber": 6,
+        "question": "What central message or instruction is delivered in Ruth 3:6?",
+        "options": [
+          "“And he said, Who are you? And she answering...”",
+          "“So she went down to the grain-floor and did all her...”",
+          "“Take your rest here tonight; and in the morning,...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“So she went down to the grain-floor and did all her...”",
+        "reference": "Ruth 3:6",
+        "explanation": "Ruth 3:6 records: 'So she went down to the grain-floor and did all her mother-in-law had said to her.'."
+      },
+      {
+        "id": "rut-3-q7",
+        "questionNumber": 7,
+        "question": "What detail regarding God's work, covenant, or people is given in Ruth 3:7?",
+        "options": [
+          "“And he said, May the Lord give you his...”",
+          "“And she took her rest at his feet till...”",
+          "“Now when Boaz had taken meat and drink, and his heart...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“Now when Boaz had taken meat and drink, and his heart...”",
+        "reference": "Ruth 3:7",
+        "explanation": "Ruth 3:7 records: 'Now when Boaz had taken meat and drink, and his heart was glad, he went to take his rest at the end of the mass of grain; then she came softly and, uncovering his feet, went to rest.'."
+      },
+      {
+        "id": "rut-3-q8",
+        "questionNumber": 8,
+        "question": "What phrase or account is recorded in Ruth 3:8?",
+        "options": [
+          "“And now, my daughter, have no fear; I will...”",
+          "“And he said, Take your robe, stretching it out...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“Now in the middle of the night, the man awaking from...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“Now in the middle of the night, the man awaking from...”",
+        "reference": "Ruth 3:8",
+        "explanation": "Ruth 3:8 records: 'Now in the middle of the night, the man awaking from his sleep in fear, and lifting himself up, saw a woman stretched at his feet.'."
+      },
+      {
+        "id": "rut-3-q9",
+        "questionNumber": 9,
+        "question": "How does the passage describe the circumstances or people in Ruth 3:9?",
+        "options": [
+          "“And he said, Who are you? And she answering said, I...”",
+          "“Now it is true that I am a near...”",
+          "“And when she came back her mother-in-law said to...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“And he said, Who are you? And she answering said, I...”",
+        "reference": "Ruth 3:9",
+        "explanation": "Ruth 3:9 records: 'And he said, Who are you? And she answering said, I am your servant Ruth: take your servant as wife, for you are a near relation.'."
+      },
+      {
+        "id": "rut-3-q10",
+        "questionNumber": 10,
+        "question": "In the concluding portion of the chapter, what takes place in Ruth 3:10?",
+        "options": [
+          "“Take your rest here tonight; and in the morning,...”",
+          "“And he said, May the Lord give you his blessing, my...”",
+          "“And she said, He gave me these six measures...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“And he said, May the Lord give you his blessing, my...”",
+        "reference": "Ruth 3:10",
+        "explanation": "Ruth 3:10 records: 'And he said, May the Lord give you his blessing, my daughter: even better than what you did at the first is this last kind act you have done, in not going after young men, with or without wealth.'."
+      }
+    ],
+    "4": [
+      {
+        "id": "rut-4-q1",
+        "questionNumber": 1,
+        "question": "According to Ruth 4:1, what is the opening statement or setting of this chapter?",
+        "options": [
+          "It records: “And Boaz went up to the public place of the town, and took his se...”",
+          "It begins with a prayer of thanksgiving for deliverance in Ruth",
+          "It opens with a formal census and counting of the congregation",
+          "It records a severe judgment pronounced against neighboring nations"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "It records: “And Boaz went up to the public place of the town, and took his se...”",
+        "reference": "Ruth 4:1",
+        "explanation": "The chapter begins directly with the statement: 'And Boaz went up to the public place of the town, and took his seat there: and the near relation of whom he had been talking came by; and Boaz, crying out to him by name, said, Come and be seated here. And he came and was seated.'."
+      },
+      {
+        "id": "rut-4-q2",
+        "questionNumber": 2,
+        "question": "What key instruction, event, or declaration is set forth in Ruth 4:2?",
+        "options": [
+          "“Then Boaz said, On the day when you take...”",
+          "“Then he got ten of the responsible men of the town,...”",
+          "“Then Boaz said to the responsible men and to...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“Then he got ten of the responsible men of the town,...”",
+        "reference": "Ruth 4:2",
+        "explanation": "Ruth 4:2 records: 'Then he got ten of the responsible men of the town, and said, Be seated here. And they took their seats.'."
+      },
+      {
+        "id": "rut-4-q3",
+        "questionNumber": 3,
+        "question": "What significant action or revelation occurs in Ruth 4:4?",
+        "options": [
+          "“Now, in earlier times this was the way in...”",
+          "“And all the people who were in the public...”",
+          "“And it was in my mind to give you the chance...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“And it was in my mind to give you the chance...”",
+        "reference": "Ruth 4:4",
+        "explanation": "Ruth 4:4 records: 'And it was in my mind to give you the chance of taking it, with the approval of those seated here and of the responsible men of my people. If you are ready to do what it is right for a relation to do, then do it: but if you will not do it, say so to me now; for there is no one who has the right to do it but you, and after you myself. And he said, I will do it.'."
+      },
+      {
+        "id": "rut-4-q4",
+        "questionNumber": 4,
+        "question": "What truth or description is highlighted in Ruth 4:6?",
+        "options": [
+          "“Then Boaz said to the responsible men and to...”",
+          "“So Boaz took Ruth and she became his wife;...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“And the near relation said, I am not able to do...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“And the near relation said, I am not able to do...”",
+        "reference": "Ruth 4:6",
+        "explanation": "Ruth 4:6 records: 'And the near relation said, I am not able to do the relation's part, for fear of damaging the heritage I have: you may do it in my place, for I am not able to do it myself.'."
+      },
+      {
+        "id": "rut-4-q5",
+        "questionNumber": 5,
+        "question": "According to the text, what happened or was commanded in Ruth 4:8?",
+        "options": [
+          "“So the near relation said to Boaz, Take it for yourself....”",
+          "“And all the people who were in the public...”",
+          "“He will be a giver of new life to...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“So the near relation said to Boaz, Take it for yourself....”",
+        "reference": "Ruth 4:8",
+        "explanation": "Ruth 4:8 records: 'So the near relation said to Boaz, Take it for yourself. And he took off his shoe.'."
+      },
+      {
+        "id": "rut-4-q6",
+        "questionNumber": 6,
+        "question": "What central message or instruction is delivered in Ruth 4:10?",
+        "options": [
+          "“So Boaz took Ruth and she became his wife;...”",
+          "“And, further, I have taken Ruth, the Moabitess, who was the...”",
+          "“And the women who were her neighbours gave it...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“And, further, I have taken Ruth, the Moabitess, who was the...”",
+        "reference": "Ruth 4:10",
+        "explanation": "Ruth 4:10 records: 'And, further, I have taken Ruth, the Moabitess, who was the wife of Mahlon, to be my wife, to keep the name of the dead man living in his heritage, so that his name may not be cut off from among his countrymen, and from the memory of his town: you are witnesses this day.'."
+      },
+      {
+        "id": "rut-4-q7",
+        "questionNumber": 7,
+        "question": "What detail regarding God's work, covenant, or people is given in Ruth 4:12?",
+        "options": [
+          "“He will be a giver of new life to...”",
+          "“And Hezron became the father of Ram, and Ram...”",
+          "“May your family be like the family of Perez, the son...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“May your family be like the family of Perez, the son...”",
+        "reference": "Ruth 4:12",
+        "explanation": "Ruth 4:12 records: 'May your family be like the family of Perez, the son whom Tamar gave to Judah, from the offspring which the Lord may give you by this young woman.'."
+      },
+      {
+        "id": "rut-4-q8",
+        "questionNumber": 8,
+        "question": "What phrase or account is recorded in Ruth 4:14?",
+        "options": [
+          "“And the women who were her neighbours gave it...”",
+          "“And Salmon became the father of Boaz, and Boaz...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“And the women said to Naomi, A blessing on the Lord,...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“And the women said to Naomi, A blessing on the Lord,...”",
+        "reference": "Ruth 4:14",
+        "explanation": "Ruth 4:14 records: 'And the women said to Naomi, A blessing on the Lord, who has not let you be this day without a near relation, and may his name be great in Israel.'."
+      },
+      {
+        "id": "rut-4-q9",
+        "questionNumber": 9,
+        "question": "How does the passage describe the circumstances or people in Ruth 4:16?",
+        "options": [
+          "“And Naomi took the child and put her arms round it,...”",
+          "“And Hezron became the father of Ram, and Ram...”",
+          "“And Boaz went up to the public place of...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“And Naomi took the child and put her arms round it,...”",
+        "reference": "Ruth 4:16",
+        "explanation": "Ruth 4:16 records: 'And Naomi took the child and put her arms round it, and she took care of it.'."
+      },
+      {
+        "id": "rut-4-q10",
+        "questionNumber": 10,
+        "question": "In the concluding portion of the chapter, what takes place in Ruth 4:18?",
+        "options": [
+          "“And Salmon became the father of Boaz, and Boaz...”",
+          "“Now these are the generations of Perez: Perez became the father...”",
+          "“Then he said to the near relation, Naomi, who...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“Now these are the generations of Perez: Perez became the father...”",
+        "reference": "Ruth 4:18",
+        "explanation": "Ruth 4:18 records: 'Now these are the generations of Perez: Perez became the father of Hezron;'."
+      }
+    ]
+  }
+}

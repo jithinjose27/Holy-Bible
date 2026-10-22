@@ -1,0 +1,161 @@
+{
+  "book": "Philemon",
+  "bookId": "PHM",
+  "totalChapters": 1,
+  "totalQuestions": 10,
+  "questionsPerChapter": 10,
+  "chapters": {
+    "1": [
+      {
+        "id": "phm-1-q1",
+        "questionNumber": 1,
+        "question": "According to Philemon 1:1, what is the opening statement or setting of this chapter?",
+        "options": [
+          "It records: “Paul, a prisoner of Jesus Christ, and Timothy our brother, to Phi...”",
+          "It begins with a prayer of thanksgiving for deliverance in Philemon",
+          "It opens with a formal census and counting of the congregation",
+          "It records a severe judgment pronounced against neighboring nations"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "It records: “Paul, a prisoner of Jesus Christ, and Timothy our brother, to Phi...”",
+        "reference": "Philemon 1:1",
+        "explanation": "The chapter begins directly with the statement: 'Paul, a prisoner of Jesus Christ, and Timothy our brother, to Philemon, our dear helper in the faith,'."
+      },
+      {
+        "id": "phm-1-q2",
+        "questionNumber": 2,
+        "question": "What key instruction, event, or declaration is set forth in Philemon 1:2?",
+        "options": [
+          "“Hearing of the love and the faith which you...”",
+          "“And to Apphia, our sister, and to Archippus, our brother in...”",
+          "“Still, because of love, in place of an order,...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“And to Apphia, our sister, and to Archippus, our brother in...”",
+        "reference": "Philemon 1:2",
+        "explanation": "Philemon 1:2 records: 'And to Apphia, our sister, and to Archippus, our brother in God's army, and to the church in your house:'."
+      },
+      {
+        "id": "phm-1-q3",
+        "questionNumber": 3,
+        "question": "What significant action or revelation occurs in Philemon 1:4?",
+        "options": [
+          "“For I had great joy and comfort in your...”",
+          "“Who in the past was of no profit to...”",
+          "“I give praise to God at all times and make prayer...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“I give praise to God at all times and make prayer...”",
+        "reference": "Philemon 1:4",
+        "explanation": "Philemon 1:4 records: 'I give praise to God at all times and make prayer for you,'."
+      },
+      {
+        "id": "phm-1-q4",
+        "questionNumber": 4,
+        "question": "What truth or description is highlighted in Philemon 1:6?",
+        "options": [
+          "“Still, because of love, in place of an order,...”",
+          "“Though my desire was to keep him with me,...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“That the faith which you have in common with them may...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“That the faith which you have in common with them may...”",
+        "reference": "Philemon 1:6",
+        "explanation": "Philemon 1:6 records: 'That the faith which you have in common with them may be working with power, in the knowledge of every good thing in you, for Christ.'."
+      },
+      {
+        "id": "phm-1-q5",
+        "questionNumber": 5,
+        "question": "According to the text, what happened or was commanded in Philemon 1:8?",
+        "options": [
+          "“And so, though I might, in the name of Christ, give...”",
+          "“Who in the past was of no profit to...”",
+          "“For it is possible that for this reason he...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“And so, though I might, in the name of Christ, give...”",
+        "reference": "Philemon 1:8",
+        "explanation": "Philemon 1:8 records: 'And so, though I might, in the name of Christ, give you orders to do what is right,'."
+      },
+      {
+        "id": "phm-1-q6",
+        "questionNumber": 6,
+        "question": "What central message or instruction is delivered in Philemon 1:10?",
+        "options": [
+          "“Though my desire was to keep him with me,...”",
+          "“My request is for my child Onesimus, the child of my chains,”",
+          "“If then you take me to be your friend...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“My request is for my child Onesimus, the child of my chains,”",
+        "reference": "Philemon 1:10",
+        "explanation": "Philemon 1:10 records: 'My request is for my child Onesimus, the child of my chains,'."
+      },
+      {
+        "id": "phm-1-q7",
+        "questionNumber": 7,
+        "question": "What detail regarding God's work, covenant, or people is given in Philemon 1:12?",
+        "options": [
+          "“For it is possible that for this reason he...”",
+          "“I, Paul, writing this myself, say, I will make...”",
+          "“Whom I have sent back to you, him who is my...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“Whom I have sent back to you, him who is my...”",
+        "reference": "Philemon 1:12",
+        "explanation": "Philemon 1:12 records: 'Whom I have sent back to you, him who is my very heart:'."
+      },
+      {
+        "id": "phm-1-q8",
+        "questionNumber": 8,
+        "question": "What phrase or account is recorded in Philemon 1:14?",
+        "options": [
+          "“If then you take me to be your friend...”",
+          "“Being certain that you will do my desire, I...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“But without your approval I would do nothing; so that your...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“But without your approval I would do nothing; so that your...”",
+        "reference": "Philemon 1:14",
+        "explanation": "Philemon 1:14 records: 'But without your approval I would do nothing; so that your good works might not be forced, but done freely from your heart.'."
+      },
+      {
+        "id": "phm-1-q9",
+        "questionNumber": 9,
+        "question": "How does the passage describe the circumstances or people in Philemon 1:16?",
+        "options": [
+          "“No longer as a servant, but more than a servant, a...”",
+          "“I, Paul, writing this myself, say, I will make...”",
+          "“Epaphras, my brother-prisoner in Christ Jesus, sends you his...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“No longer as a servant, but more than a servant, a...”",
+        "reference": "Philemon 1:16",
+        "explanation": "Philemon 1:16 records: 'No longer as a servant, but more than a servant, a brother, very dear to me specially, but much more to you, in the flesh as well as in the Lord.'."
+      },
+      {
+        "id": "phm-1-q10",
+        "questionNumber": 10,
+        "question": "In the concluding portion of the chapter, what takes place in Philemon 1:18?",
+        "options": [
+          "“Being certain that you will do my desire, I...”",
+          "“If he has done you any wrong or is in debt...”",
+          "“Paul, a prisoner of Jesus Christ, and Timothy our...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“If he has done you any wrong or is in debt...”",
+        "reference": "Philemon 1:18",
+        "explanation": "Philemon 1:18 records: 'If he has done you any wrong or is in debt to you for anything, put it to my account.'."
+      }
+    ]
+  }
+}

@@ -1,0 +1,3657 @@
+{
+  "book": "Luke",
+  "bookId": "LUK",
+  "totalChapters": 24,
+  "totalQuestions": 240,
+  "questionsPerChapter": 10,
+  "chapters": {
+    "1": [
+      {
+        "id": "luk-1-q1",
+        "questionNumber": 1,
+        "question": "According to Luke 1:1, what is the opening statement or setting of this chapter?",
+        "options": [
+          "It records: “As a number of attempts have been made to put together in order a...”",
+          "It begins with a prayer of thanksgiving for deliverance in Luke",
+          "It opens with a formal census and counting of the congregation",
+          "It records a severe judgment pronounced against neighboring nations"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "It records: “As a number of attempts have been made to put together in order a...”",
+        "reference": "Luke 1:1",
+        "explanation": "The chapter begins directly with the statement: 'As a number of attempts have been made to put together in order an account of those events which took place among us,'."
+      },
+      {
+        "id": "luk-1-q2",
+        "questionNumber": 2,
+        "question": "What key instruction, event, or declaration is set forth in Luke 1:8?",
+        "options": [
+          "“And he saw an angel of the Lord in...”",
+          "“Now it came about that in his turn he was acting...”",
+          "“For he will be great in the eyes of...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“Now it came about that in his turn he was acting...”",
+        "reference": "Luke 1:8",
+        "explanation": "Luke 1:8 records: 'Now it came about that in his turn he was acting as priest before God,'."
+      },
+      {
+        "id": "luk-1-q3",
+        "questionNumber": 3,
+        "question": "What significant action or revelation occurs in Luke 1:16?",
+        "options": [
+          "“And the angel, answering, said, I am Gabriel, whose...”",
+          "“And when the days of his work in the...”",
+          "“And through him great numbers of the children of Israel will...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“And through him great numbers of the children of Israel will...”",
+        "reference": "Luke 1:16",
+        "explanation": "Luke 1:16 records: 'And through him great numbers of the children of Israel will be turned to the Lord their God.'."
+      },
+      {
+        "id": "luk-1-q4",
+        "questionNumber": 4,
+        "question": "What truth or description is highlighted in Luke 1:24?",
+        "options": [
+          "“To a virgin who was to be married to...”",
+          "“And see, you will give birth to a son,...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“After that time, Elisabeth, being certain that she was to become...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“After that time, Elisabeth, being certain that she was to become...”",
+        "reference": "Luke 1:24",
+        "explanation": "Luke 1:24 records: 'After that time, Elisabeth, being certain that she was to become a mother, kept herself from men's eyes for five months, saying,'."
+      },
+      {
+        "id": "luk-1-q5",
+        "questionNumber": 5,
+        "question": "According to the text, what happened or was commanded in Luke 1:32?",
+        "options": [
+          "“He will be great, and will be named the Son of...”",
+          "“And the angel in answer said to her, The...”",
+          "“Then Mary got up and went quickly into the...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“He will be great, and will be named the Son of...”",
+        "reference": "Luke 1:32",
+        "explanation": "Luke 1:32 records: 'He will be great, and will be named the Son of the Most High: and the Lord God will give him the kingdom of David, his father:'."
+      },
+      {
+        "id": "luk-1-q6",
+        "questionNumber": 6,
+        "question": "What central message or instruction is delivered in Luke 1:40?",
+        "options": [
+          "“How is it that the mother of my Lord...”",
+          "“And went into the house of Zacharias and took Elisabeth in...”",
+          "“My spirit is glad in God my Saviour.”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“And went into the house of Zacharias and took Elisabeth in...”",
+        "reference": "Luke 1:40",
+        "explanation": "Luke 1:40 records: 'And went into the house of Zacharias and took Elisabeth in her arms.'."
+      },
+      {
+        "id": "luk-1-q7",
+        "questionNumber": 7,
+        "question": "What detail regarding God's work, covenant, or people is given in Luke 1:48?",
+        "options": [
+          "“With his arm he has done acts of power;...”",
+          "“As he gave his word to our fathers.”",
+          "“For he has had pity on his servant, though she is...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“For he has had pity on his servant, though she is...”",
+        "reference": "Luke 1:48",
+        "explanation": "Luke 1:48 records: 'For he has had pity on his servant, though she is poor and lowly placed: and from this hour will all generations give witness to the blessing which has come to me.'."
+      },
+      {
+        "id": "luk-1-q8",
+        "questionNumber": 8,
+        "question": "What phrase or account is recorded in Luke 1:56?",
+        "options": [
+          "“And on the eighth day they came to see...”",
+          "“And he sent for writing materials and put down:...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“And Mary was with her for about three months and then...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“And Mary was with her for about three months and then...”",
+        "reference": "Luke 1:56",
+        "explanation": "Luke 1:56 records: 'And Mary was with her for about three months and then went back to her house.'."
+      },
+      {
+        "id": "luk-1-q9",
+        "questionNumber": 9,
+        "question": "How does the passage describe the circumstances or people in Luke 1:64?",
+        "options": [
+          "“And straight away his mouth was open and his tongue was...”",
+          "“And his father, Zacharias, was full of the Holy...”",
+          "“Salvation from those who are against us, and from...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“And straight away his mouth was open and his tongue was...”",
+        "reference": "Luke 1:64",
+        "explanation": "Luke 1:64 records: 'And straight away his mouth was open and his tongue was free and he gave praise to God.'."
+      },
+      {
+        "id": "luk-1-q10",
+        "questionNumber": 10,
+        "question": "In the concluding portion of the chapter, what takes place in Luke 1:72?",
+        "options": [
+          "“In righteousness and holy living before him all our...”",
+          "“To do acts of mercy to our fathers and to keep...”",
+          "“To give light to those in dark places, and...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“To do acts of mercy to our fathers and to keep...”",
+        "reference": "Luke 1:72",
+        "explanation": "Luke 1:72 records: 'To do acts of mercy to our fathers and to keep in mind his holy word,'."
+      }
+    ],
+    "2": [
+      {
+        "id": "luk-2-q1",
+        "questionNumber": 1,
+        "question": "According to Luke 2:1, what is the opening statement or setting of this chapter?",
+        "options": [
+          "It records: “Now it came about in those days that an order went out from Caesa...”",
+          "It begins with a prayer of thanksgiving for deliverance in Luke",
+          "It opens with a formal census and counting of the congregation",
+          "It records a severe judgment pronounced against neighboring nations"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "It records: “Now it came about in those days that an order went out from Caesa...”",
+        "reference": "Luke 2:1",
+        "explanation": "The chapter begins directly with the statement: 'Now it came about in those days that an order went out from Caesar Augustus that there was to be a numbering of all the world.'."
+      },
+      {
+        "id": "luk-2-q2",
+        "questionNumber": 2,
+        "question": "What key instruction, event, or declaration is set forth in Luke 2:5?",
+        "options": [
+          "“And in the same country there were keepers of...”",
+          "“To be put on the list with Mary, his future wife,...”",
+          "“And this is the sign to you: you will...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“To be put on the list with Mary, his future wife,...”",
+        "reference": "Luke 2:5",
+        "explanation": "Luke 2:5 records: 'To be put on the list with Mary, his future wife, who was about to become a mother.'."
+      },
+      {
+        "id": "luk-2-q3",
+        "questionNumber": 3,
+        "question": "What significant action or revelation occurs in Luke 2:10?",
+        "options": [
+          "“And suddenly there was with the angel a great...”",
+          "“And when they saw it, they gave them an...”",
+          "“And the angel said, Have no fear; for truly, I give...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“And the angel said, Have no fear; for truly, I give...”",
+        "reference": "Luke 2:10",
+        "explanation": "Luke 2:10 records: 'And the angel said, Have no fear; for truly, I give you good news of great joy which will be for all the people:'."
+      },
+      {
+        "id": "luk-2-q4",
+        "questionNumber": 4,
+        "question": "What truth or description is highlighted in Luke 2:15?",
+        "options": [
+          "“And all those to whose ears it came were...”",
+          "“And when the necessary days for making them clean...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“And when the angels had gone away from them into heaven,...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“And when the angels had gone away from them into heaven,...”",
+        "reference": "Luke 2:15",
+        "explanation": "Luke 2:15 records: 'And when the angels had gone away from them into heaven, the keepers of the sheep said to one another, Let us go now to Beth-lehem, and see this thing which has come about, which the Lord has made clear to us.'."
+      },
+      {
+        "id": "luk-2-q5",
+        "questionNumber": 5,
+        "question": "According to the text, what happened or was commanded in Luke 2:20?",
+        "options": [
+          "“Then the keepers of the sheep went back, giving glory and...”",
+          "“(As it says in the law of the Lord,...”",
+          "“And full of the Spirit he came into the...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“Then the keepers of the sheep went back, giving glory and...”",
+        "reference": "Luke 2:20",
+        "explanation": "Luke 2:20 records: 'Then the keepers of the sheep went back, giving glory and praise to God for all the things which had come to their ears and which they had seen, as it had been said to them.'."
+      },
+      {
+        "id": "luk-2-q6",
+        "questionNumber": 6,
+        "question": "What central message or instruction is delivered in Luke 2:25?",
+        "options": [
+          "“Then he took him in his arms and gave...”",
+          "“And there was then in Jerusalem a man whose name was...”",
+          "“A light of revelation to the Gentiles, and the...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“And there was then in Jerusalem a man whose name was...”",
+        "reference": "Luke 2:25",
+        "explanation": "Luke 2:25 records: 'And there was then in Jerusalem a man whose name was Simeon; and he was an upright man, fearing God and waiting for the comfort of Israel: and the Holy Spirit was on him.'."
+      },
+      {
+        "id": "luk-2-q7",
+        "questionNumber": 7,
+        "question": "What detail regarding God's work, covenant, or people is given in Luke 2:30?",
+        "options": [
+          "“And his father and mother were full of wonder...”",
+          "“She had been a widow for eighty-four years); she...”",
+          "“For my eyes have seen your salvation,”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“For my eyes have seen your salvation,”",
+        "reference": "Luke 2:30",
+        "explanation": "Luke 2:30 records: 'For my eyes have seen your salvation,'."
+      },
+      {
+        "id": "luk-2-q8",
+        "questionNumber": 8,
+        "question": "What phrase or account is recorded in Luke 2:35?",
+        "options": [
+          "“And coming up at that time, she gave praise...”",
+          "“And when he was twelve years old, they went...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“(And a sword will go through your heart;) so that the...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“(And a sword will go through your heart;) so that the...”",
+        "reference": "Luke 2:35",
+        "explanation": "Luke 2:35 records: '(And a sword will go through your heart;) so that the secret thoughts of men may come to light.'."
+      },
+      {
+        "id": "luk-2-q9",
+        "questionNumber": 9,
+        "question": "How does the passage describe the circumstances or people in Luke 2:40?",
+        "options": [
+          "“And the child became tall and strong and full of wisdom,...”",
+          "“And when the days of the feast came to...”",
+          "“And all to whose ears it came were full...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“And the child became tall and strong and full of wisdom,...”",
+        "reference": "Luke 2:40",
+        "explanation": "Luke 2:40 records: 'And the child became tall and strong and full of wisdom, and the grace of God was on him.'."
+      },
+      {
+        "id": "luk-2-q10",
+        "questionNumber": 10,
+        "question": "In the concluding portion of the chapter, what takes place in Luke 2:45?",
+        "options": [
+          "“And when they saw him they were surprised, and...”",
+          "“And seeing that he was not there, they went back to...”",
+          "“Now it came about in those days that an...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“And seeing that he was not there, they went back to...”",
+        "reference": "Luke 2:45",
+        "explanation": "Luke 2:45 records: 'And seeing that he was not there, they went back to Jerusalem, to make search for him.'."
+      }
+    ],
+    "3": [
+      {
+        "id": "luk-3-q1",
+        "questionNumber": 1,
+        "question": "According to Luke 3:1, what is the opening statement or setting of this chapter?",
+        "options": [
+          "It records: “Now in the fifteenth year of the rule of Tiberius Caesar, Pontius...”",
+          "It begins with a prayer of thanksgiving for deliverance in Luke",
+          "It opens with a formal census and counting of the congregation",
+          "It records a severe judgment pronounced against neighboring nations"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "It records: “Now in the fifteenth year of the rule of Tiberius Caesar, Pontius...”",
+        "reference": "Luke 3:1",
+        "explanation": "The chapter begins directly with the statement: 'Now in the fifteenth year of the rule of Tiberius Caesar, Pontius Pilate being ruler of Judaea, and Herod being king of Galilee, his brother Philip king of the country of Ituraea and Trachonitis, and Lysanias king of Abilene,'."
+      },
+      {
+        "id": "luk-3-q2",
+        "questionNumber": 2,
+        "question": "What key instruction, event, or declaration is set forth in Luke 3:3?",
+        "options": [
+          "“And all flesh will see the salvation of God.”",
+          "“And he came into all the country round about Jordan, preaching...”",
+          "“And the people put questions to him, saying, What...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“And he came into all the country round about Jordan, preaching...”",
+        "reference": "Luke 3:3",
+        "explanation": "Luke 3:3 records: 'And he came into all the country round about Jordan, preaching baptism as a sign of forgiveness of sin for those whose hearts were changed.'."
+      },
+      {
+        "id": "luk-3-q3",
+        "questionNumber": 3,
+        "question": "What significant action or revelation occurs in Luke 3:6?",
+        "options": [
+          "“And even now the axe is put to the...”",
+          "“And he said to them, Do not make an...”",
+          "“And all flesh will see the salvation of God.”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“And all flesh will see the salvation of God.”",
+        "reference": "Luke 3:6",
+        "explanation": "Luke 3:6 records: 'And all flesh will see the salvation of God.'."
+      },
+      {
+        "id": "luk-3-q4",
+        "questionNumber": 4,
+        "question": "What truth or description is highlighted in Luke 3:9?",
+        "options": [
+          "“Then tax-farmers came to him for baptism and said...”",
+          "“John made answer, saying to them all, Truly, I...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“And even now the axe is put to the root of...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“And even now the axe is put to the root of...”",
+        "reference": "Luke 3:9",
+        "explanation": "Luke 3:9 records: 'And even now the axe is put to the root of the trees; and every tree which does not have good fruit will be cut down and put into the fire.'."
+      },
+      {
+        "id": "luk-3-q5",
+        "questionNumber": 5,
+        "question": "According to the text, what happened or was commanded in Luke 3:12?",
+        "options": [
+          "“Then tax-farmers came to him for baptism and said to him,...”",
+          "“And while the people were waiting, and all men...”",
+          "“But Herod the king, because John had made a...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“Then tax-farmers came to him for baptism and said to him,...”",
+        "reference": "Luke 3:12",
+        "explanation": "Luke 3:12 records: 'Then tax-farmers came to him for baptism and said to him, Master, what have we to do?'."
+      },
+      {
+        "id": "luk-3-q6",
+        "questionNumber": 6,
+        "question": "What central message or instruction is delivered in Luke 3:15?",
+        "options": [
+          "“And so comforting them with these and other words,...”",
+          "“And while the people were waiting, and all men were questioning...”",
+          "“The Holy Spirit came down in the form of...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“And while the people were waiting, and all men were questioning...”",
+        "reference": "Luke 3:15",
+        "explanation": "Luke 3:15 records: 'And while the people were waiting, and all men were questioning in their hearts about John, if he was the Christ or not,'."
+      },
+      {
+        "id": "luk-3-q7",
+        "questionNumber": 7,
+        "question": "What detail regarding God's work, covenant, or people is given in Luke 3:18?",
+        "options": [
+          "“Now it came about that when all the people...”",
+          "“The son of Mattathias, the son of Amos, the...”",
+          "“And so comforting them with these and other words, he gave...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“And so comforting them with these and other words, he gave...”",
+        "reference": "Luke 3:18",
+        "explanation": "Luke 3:18 records: 'And so comforting them with these and other words, he gave the good news to the people;'."
+      },
+      {
+        "id": "luk-3-q8",
+        "questionNumber": 8,
+        "question": "What phrase or account is recorded in Luke 3:21?",
+        "options": [
+          "“The son of Matthat, the son of Levi, the...”",
+          "“The son of Melchi, the son of Addi, the...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“Now it came about that when all the people had been...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“Now it came about that when all the people had been...”",
+        "reference": "Luke 3:21",
+        "explanation": "Luke 3:21 records: 'Now it came about that when all the people had been given baptism, Jesus, having had baptism with them, was in prayer, when, the heaven being open,'."
+      },
+      {
+        "id": "luk-3-q9",
+        "questionNumber": 9,
+        "question": "How does the passage describe the circumstances or people in Luke 3:24?",
+        "options": [
+          "“The son of Matthat, the son of Levi, the son of...”",
+          "“The son of Joanan, the son of Rhesa, the...”",
+          "“The son of Melea, the son of Menna, the...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“The son of Matthat, the son of Levi, the son of...”",
+        "reference": "Luke 3:24",
+        "explanation": "Luke 3:24 records: 'The son of Matthat, the son of Levi, the son of Melchi, the son of Jannai, the son of Joseph,'."
+      },
+      {
+        "id": "luk-3-q10",
+        "questionNumber": 10,
+        "question": "In the concluding portion of the chapter, what takes place in Luke 3:27?",
+        "options": [
+          "“The son of Symeon, the son of Judas, the...”",
+          "“The son of Joanan, the son of Rhesa, the son of...”",
+          "“The son of Jacob, the son of Isaac, the...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“The son of Joanan, the son of Rhesa, the son of...”",
+        "reference": "Luke 3:27",
+        "explanation": "Luke 3:27 records: 'The son of Joanan, the son of Rhesa, the son of Zerubbabel, the son of Shealtiel, the son of Neri,'."
+      }
+    ],
+    "4": [
+      {
+        "id": "luk-4-q1",
+        "questionNumber": 1,
+        "question": "According to Luke 4:1, what is the opening statement or setting of this chapter?",
+        "options": [
+          "It records: “And Jesus, full of the Holy Spirit, came back from the Jordan, an...”",
+          "It begins with a prayer of thanksgiving for deliverance in Luke",
+          "It opens with a formal census and counting of the congregation",
+          "It records a severe judgment pronounced against neighboring nations"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "It records: “And Jesus, full of the Holy Spirit, came back from the Jordan, an...”",
+        "reference": "Luke 4:1",
+        "explanation": "The chapter begins directly with the statement: 'And Jesus, full of the Holy Spirit, came back from the Jordan, and was guided by the Spirit in the waste land'."
+      },
+      {
+        "id": "luk-4-q2",
+        "questionNumber": 2,
+        "question": "What key instruction, event, or declaration is set forth in Luke 4:4?",
+        "options": [
+          "“If then you will give worship to me, it...”",
+          "“And Jesus made answer to him, It has been said in...”",
+          "“And, In their hands they will keep you up,...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“And Jesus made answer to him, It has been said in...”",
+        "reference": "Luke 4:4",
+        "explanation": "Luke 4:4 records: 'And Jesus made answer to him, It has been said in the Writings, Bread is not man's only need.'."
+      },
+      {
+        "id": "luk-4-q3",
+        "questionNumber": 3,
+        "question": "What significant action or revelation occurs in Luke 4:8?",
+        "options": [
+          "“And, In their hands they will keep you up,...”",
+          "“And he was teaching in their Synagogues and all...”",
+          "“And Jesus in answer said to him, It has been said...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“And Jesus in answer said to him, It has been said...”",
+        "reference": "Luke 4:8",
+        "explanation": "Luke 4:8 records: 'And Jesus in answer said to him, It has been said in the Writings, Give worship to the Lord your God, and be his servant only.'."
+      },
+      {
+        "id": "luk-4-q4",
+        "questionNumber": 4,
+        "question": "What truth or description is highlighted in Luke 4:12?",
+        "options": [
+          "“And he was teaching in their Synagogues and all...”",
+          "“To give knowledge that the year of the Lord's...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“And Jesus made answer and said to him, It is said...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“And Jesus made answer and said to him, It is said...”",
+        "reference": "Luke 4:12",
+        "explanation": "Luke 4:12 records: 'And Jesus made answer and said to him, It is said in the Writings, You may not put the Lord your God to the test.'."
+      },
+      {
+        "id": "luk-4-q5",
+        "questionNumber": 5,
+        "question": "According to the text, what happened or was commanded in Luke 4:16?",
+        "options": [
+          "“And he came to Nazareth, where he had been as a...”",
+          "“To give knowledge that the year of the Lord's...”",
+          "“And he said to them, Without doubt you will...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“And he came to Nazareth, where he had been as a...”",
+        "reference": "Luke 4:16",
+        "explanation": "Luke 4:16 records: 'And he came to Nazareth, where he had been as a child, and he went, as his way was, into the Synagogue on the Sabbath, and got up to give a reading.'."
+      },
+      {
+        "id": "luk-4-q6",
+        "questionNumber": 6,
+        "question": "What central message or instruction is delivered in Luke 4:20?",
+        "options": [
+          "“And he said to them, Without doubt you will...”",
+          "“And shutting the book he gave it back to the servant...”",
+          "“And there were a number of lepers in Israel...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“And shutting the book he gave it back to the servant...”",
+        "reference": "Luke 4:20",
+        "explanation": "Luke 4:20 records: 'And shutting the book he gave it back to the servant and took his seat: and the eyes of all in the Synagogue were fixed on him.'."
+      },
+      {
+        "id": "luk-4-q7",
+        "questionNumber": 7,
+        "question": "What detail regarding God's work, covenant, or people is given in Luke 4:24?",
+        "options": [
+          "“And there were a number of lepers in Israel...”",
+          "“And he came down to Capernaum, a town of...”",
+          "“And he said to them, Truly I say to you, No...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“And he said to them, Truly I say to you, No...”",
+        "reference": "Luke 4:24",
+        "explanation": "Luke 4:24 records: 'And he said to them, Truly I say to you, No prophet is honoured in his country.'."
+      },
+      {
+        "id": "luk-4-q8",
+        "questionNumber": 8,
+        "question": "What phrase or account is recorded in Luke 4:28?",
+        "options": [
+          "“And he came down to Capernaum, a town of...”",
+          "“And Jesus said to him, Be quiet, and come...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“And all who were in the Synagogue were very angry when...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“And all who were in the Synagogue were very angry when...”",
+        "reference": "Luke 4:28",
+        "explanation": "Luke 4:28 records: 'And all who were in the Synagogue were very angry when these things were said to them.'."
+      },
+      {
+        "id": "luk-4-q9",
+        "questionNumber": 9,
+        "question": "How does the passage describe the circumstances or people in Luke 4:32?",
+        "options": [
+          "“And they were surprised at his teaching, for his word was...”",
+          "“And Jesus said to him, Be quiet, and come...”",
+          "“He went near her, and with a sharp word...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“And they were surprised at his teaching, for his word was...”",
+        "reference": "Luke 4:32",
+        "explanation": "Luke 4:32 records: 'And they were surprised at his teaching, for his word was with authority.'."
+      },
+      {
+        "id": "luk-4-q10",
+        "questionNumber": 10,
+        "question": "In the concluding portion of the chapter, what takes place in Luke 4:36?",
+        "options": [
+          "“He went near her, and with a sharp word...”",
+          "“And wonder came on them all and they said to one...”",
+          "“But he said to them, I have to give...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“And wonder came on them all and they said to one...”",
+        "reference": "Luke 4:36",
+        "explanation": "Luke 4:36 records: 'And wonder came on them all and they said to one another, What are these words? for with authority and power he gives orders to the evil spirits and they come out.'."
+      }
+    ],
+    "5": [
+      {
+        "id": "luk-5-q1",
+        "questionNumber": 1,
+        "question": "According to Luke 5:1, what is the opening statement or setting of this chapter?",
+        "options": [
+          "It records: “Now it came about that while the people came pushing to be near h...”",
+          "It begins with a prayer of thanksgiving for deliverance in Luke",
+          "It opens with a formal census and counting of the congregation",
+          "It records a severe judgment pronounced against neighboring nations"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "It records: “Now it came about that while the people came pushing to be near h...”",
+        "reference": "Luke 5:1",
+        "explanation": "The chapter begins directly with the statement: 'Now it came about that while the people came pushing to be near him, and to have knowledge of the word of God, he was by a wide stretch of water named Gennesaret;'."
+      },
+      {
+        "id": "luk-5-q2",
+        "questionNumber": 2,
+        "question": "What key instruction, event, or declaration is set forth in Luke 5:3?",
+        "options": [
+          "“And when they had done this, they got such...”",
+          "“And he got into one of the boats, the property of...”",
+          "“And so were James and John, the sons of...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“And he got into one of the boats, the property of...”",
+        "reference": "Luke 5:3",
+        "explanation": "Luke 5:3 records: 'And he got into one of the boats, the property of Simon, and made a request to him to go a little way out from the land. And being seated he gave the people teaching from the boat.'."
+      },
+      {
+        "id": "luk-5-q3",
+        "questionNumber": 3,
+        "question": "What significant action or revelation occurs in Luke 5:6?",
+        "options": [
+          "“For he was full of wonder and so were...”",
+          "“And he put out his hand to him and...”",
+          "“And when they had done this, they got such a great...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“And when they had done this, they got such a great...”",
+        "reference": "Luke 5:6",
+        "explanation": "Luke 5:6 records: 'And when they had done this, they got such a great number of fish that it seemed as if their nets would be broken;'."
+      },
+      {
+        "id": "luk-5-q4",
+        "questionNumber": 4,
+        "question": "What truth or description is highlighted in Luke 5:9?",
+        "options": [
+          "“And it came about that while he was in...”",
+          "“But he went away by himself to a waste...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“For he was full of wonder and so were all those...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“For he was full of wonder and so were all those...”",
+        "reference": "Luke 5:9",
+        "explanation": "Luke 5:9 records: 'For he was full of wonder and so were all those who were with him, at the number of fish which they had taken;'."
+      },
+      {
+        "id": "luk-5-q5",
+        "questionNumber": 5,
+        "question": "According to the text, what happened or was commanded in Luke 5:12?",
+        "options": [
+          "“And it came about that while he was in one of...”",
+          "“But news of him went out all the more,...”",
+          "“And because of the mass of people, there was...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“And it came about that while he was in one of...”",
+        "reference": "Luke 5:12",
+        "explanation": "Luke 5:12 records: 'And it came about that while he was in one of the towns, there was a leper there: and when he saw Jesus he went down on his face in prayer to him, saying, Lord, if it is your pleasure, you have power to make me clean.'."
+      },
+      {
+        "id": "luk-5-q6",
+        "questionNumber": 6,
+        "question": "What central message or instruction is delivered in Luke 5:15?",
+        "options": [
+          "“And some men had with them, on a bed,...”",
+          "“But news of him went out all the more, in every...”",
+          "“But Jesus, who had knowledge of their thoughts, said...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“But news of him went out all the more, in every...”",
+        "reference": "Luke 5:15",
+        "explanation": "Luke 5:15 records: 'But news of him went out all the more, in every direction, and great numbers of people came together to give hearing to his words and to be made well from their diseases.'."
+      },
+      {
+        "id": "luk-5-q7",
+        "questionNumber": 7,
+        "question": "What detail regarding God's work, covenant, or people is given in Luke 5:18?",
+        "options": [
+          "“And the scribes and Pharisees were having an argument,...”",
+          "“And straight away he got up before them, and...”",
+          "“And some men had with them, on a bed, a man...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“And some men had with them, on a bed, a man...”",
+        "reference": "Luke 5:18",
+        "explanation": "Luke 5:18 records: 'And some men had with them, on a bed, a man who was ill, without power of moving; and they made attempts to get him in and put him before Jesus.'."
+      },
+      {
+        "id": "luk-5-q8",
+        "questionNumber": 8,
+        "question": "What phrase or account is recorded in Luke 5:21?",
+        "options": [
+          "“But so that you may see that on earth...”",
+          "“And giving up his business, he got up and...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“And the scribes and Pharisees were having an argument, saying, Who...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“And the scribes and Pharisees were having an argument, saying, Who...”",
+        "reference": "Luke 5:21",
+        "explanation": "Luke 5:21 records: 'And the scribes and Pharisees were having an argument, saying, Who is this, who has no respect for God? who is able to give forgiveness for sins, but God only?'."
+      },
+      {
+        "id": "luk-5-q9",
+        "questionNumber": 9,
+        "question": "How does the passage describe the circumstances or people in Luke 5:24?",
+        "options": [
+          "“But so that you may see that on earth the Son...”",
+          "“And after these things he went out, and saw...”",
+          "“And Jesus, answering, said to them, Those who are...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“But so that you may see that on earth the Son...”",
+        "reference": "Luke 5:24",
+        "explanation": "Luke 5:24 records: 'But so that you may see that on earth the Son of man has authority for the forgiveness of sins, (he said to the man who was ill,) I say to you, Get up, and take up your bed, and go into your house.'."
+      },
+      {
+        "id": "luk-5-q10",
+        "questionNumber": 10,
+        "question": "In the concluding portion of the chapter, what takes place in Luke 5:27?",
+        "options": [
+          "“And the Pharisees and their scribes made protests against...”",
+          "“And after these things he went out, and saw Levi, a...”",
+          "“And Jesus said, Are you able to make the...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“And after these things he went out, and saw Levi, a...”",
+        "reference": "Luke 5:27",
+        "explanation": "Luke 5:27 records: 'And after these things he went out, and saw Levi, a tax-farmer, seated at the place where taxes were taken, and said to him, Come after me.'."
+      }
+    ],
+    "6": [
+      {
+        "id": "luk-6-q1",
+        "questionNumber": 1,
+        "question": "According to Luke 6:1, what is the opening statement or setting of this chapter?",
+        "options": [
+          "It records: “Now it came about that on the Sabbath he was going through the fi...”",
+          "It begins with a prayer of thanksgiving for deliverance in Luke",
+          "It opens with a formal census and counting of the congregation",
+          "It records a severe judgment pronounced against neighboring nations"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "It records: “Now it came about that on the Sabbath he was going through the fi...”",
+        "reference": "Luke 6:1",
+        "explanation": "The chapter begins directly with the statement: 'Now it came about that on the Sabbath he was going through the fields of grain, and his disciples took the heads of the grain for food, crushing them in their hands.'."
+      },
+      {
+        "id": "luk-6-q2",
+        "questionNumber": 2,
+        "question": "What key instruction, event, or declaration is set forth in Luke 6:4?",
+        "options": [
+          "“And the scribes and Pharisees were watching him to...”",
+          "“How he went into the house of God and took for...”",
+          "“But they were full of wrath, and were talking...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“How he went into the house of God and took for...”",
+        "reference": "Luke 6:4",
+        "explanation": "Luke 6:4 records: 'How he went into the house of God and took for food the holy bread, which only the priests may take, and gave it to those who were with him?'."
+      },
+      {
+        "id": "luk-6-q3",
+        "questionNumber": 3,
+        "question": "What significant action or revelation occurs in Luke 6:8?",
+        "options": [
+          "“But they were full of wrath, and were talking...”",
+          "“And Matthew and Thomas and James, the son of...”",
+          "“But he had knowledge of their thoughts; and he said to...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“But he had knowledge of their thoughts; and he said to...”",
+        "reference": "Luke 6:8",
+        "explanation": "Luke 6:8 records: 'But he had knowledge of their thoughts; and he said to the man whose hand was dead, Get up and come into the middle. And he got up and came forward.'."
+      },
+      {
+        "id": "luk-6-q4",
+        "questionNumber": 4,
+        "question": "What truth or description is highlighted in Luke 6:12?",
+        "options": [
+          "“And Matthew and Thomas and James, the son of...”",
+          "“And all the people were desiring to be touched...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“And it came about in those days that he went out...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“And it came about in those days that he went out...”",
+        "reference": "Luke 6:12",
+        "explanation": "Luke 6:12 records: 'And it came about in those days that he went out to the mountain for prayer; and he was all night in prayer to God.'."
+      },
+      {
+        "id": "luk-6-q5",
+        "questionNumber": 5,
+        "question": "According to the text, what happened or was commanded in Luke 6:16?",
+        "options": [
+          "“And Judas, the son of James, and Judas Iscariot, he who...”",
+          "“And all the people were desiring to be touched...”",
+          "“Be glad in that day, and be lifted up...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“And Judas, the son of James, and Judas Iscariot, he who...”",
+        "reference": "Luke 6:16",
+        "explanation": "Luke 6:16 records: 'And Judas, the son of James, and Judas Iscariot, he who was false to him.'."
+      },
+      {
+        "id": "luk-6-q6",
+        "questionNumber": 6,
+        "question": "What central message or instruction is delivered in Luke 6:20?",
+        "options": [
+          "“Be glad in that day, and be lifted up...”",
+          "“And turning his eyes to his disciples he said, Happy are...”",
+          "“But I say to you who give ear to...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“And turning his eyes to his disciples he said, Happy are...”",
+        "reference": "Luke 6:20",
+        "explanation": "Luke 6:20 records: 'And turning his eyes to his disciples he said, Happy are you who are poor: for the kingdom of God is yours.'."
+      },
+      {
+        "id": "luk-6-q7",
+        "questionNumber": 7,
+        "question": "What detail regarding God's work, covenant, or people is given in Luke 6:24?",
+        "options": [
+          "“But I say to you who give ear to...”",
+          "“Do to others as you would have them do...”",
+          "“But unhappy are you who have wealth: for you have been...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“But unhappy are you who have wealth: for you have been...”",
+        "reference": "Luke 6:24",
+        "explanation": "Luke 6:24 records: 'But unhappy are you who have wealth: for you have been comforted now.'."
+      },
+      {
+        "id": "luk-6-q8",
+        "questionNumber": 8,
+        "question": "What phrase or account is recorded in Luke 6:28?",
+        "options": [
+          "“Do to others as you would have them do...”",
+          "“But be loving to those who are against you...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“Give blessing to those who give you curses, say prayers for...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“Give blessing to those who give you curses, say prayers for...”",
+        "reference": "Luke 6:28",
+        "explanation": "Luke 6:28 records: 'Give blessing to those who give you curses, say prayers for those who are cruel to you.'."
+      },
+      {
+        "id": "luk-6-q9",
+        "questionNumber": 9,
+        "question": "How does the passage describe the circumstances or people in Luke 6:32?",
+        "options": [
+          "“If you have love for those who have love for you,...”",
+          "“But be loving to those who are against you...”",
+          "“And he gave them teaching in the form of...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“If you have love for those who have love for you,...”",
+        "reference": "Luke 6:32",
+        "explanation": "Luke 6:32 records: 'If you have love for those who have love for you, what credit is it to you? for even sinners have love for those who have love for them.'."
+      },
+      {
+        "id": "luk-6-q10",
+        "questionNumber": 10,
+        "question": "In the concluding portion of the chapter, what takes place in Luke 6:36?",
+        "options": [
+          "“And he gave them teaching in the form of...”",
+          "“Be full of pity, even as your Father is full of pity.”",
+          "“For no good tree gives bad fruit, and no...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“Be full of pity, even as your Father is full of pity.”",
+        "reference": "Luke 6:36",
+        "explanation": "Luke 6:36 records: 'Be full of pity, even as your Father is full of pity.'."
+      }
+    ],
+    "7": [
+      {
+        "id": "luk-7-q1",
+        "questionNumber": 1,
+        "question": "According to Luke 7:1, what is the opening statement or setting of this chapter?",
+        "options": [
+          "It records: “After he had come to the end of all his words in the hearing of t...”",
+          "It begins with a prayer of thanksgiving for deliverance in Luke",
+          "It opens with a formal census and counting of the congregation",
+          "It records a severe judgment pronounced against neighboring nations"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "It records: “After he had come to the end of all his words in the hearing of t...”",
+        "reference": "Luke 7:1",
+        "explanation": "The chapter begins directly with the statement: 'After he had come to the end of all his words in the hearing of the people, he went into Capernaum.'."
+      },
+      {
+        "id": "luk-7-q2",
+        "questionNumber": 2,
+        "question": "What key instruction, event, or declaration is set forth in Luke 7:5?",
+        "options": [
+          "“For I, myself, am a man under authority, having...”",
+          "“It is right for you to do this for him, because...”",
+          "“Now when he came near the door of the...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“It is right for you to do this for him, because...”",
+        "reference": "Luke 7:5",
+        "explanation": "Luke 7:5 records: 'It is right for you to do this for him, because he is a friend to our nation, and himself has put up a Synagogue for us.'."
+      },
+      {
+        "id": "luk-7-q3",
+        "questionNumber": 3,
+        "question": "What significant action or revelation occurs in Luke 7:10?",
+        "options": [
+          "“And when the Lord saw her, he had pity...”",
+          "“And this story about him went through all Judaea...”",
+          "“And when those who were sent came back to the house...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“And when those who were sent came back to the house...”",
+        "reference": "Luke 7:10",
+        "explanation": "Luke 7:10 records: 'And when those who were sent came back to the house they saw that the servant was well.'."
+      },
+      {
+        "id": "luk-7-q4",
+        "questionNumber": 4,
+        "question": "What truth or description is highlighted in Luke 7:15?",
+        "options": [
+          "“And the disciples of John gave him an account...”",
+          "“And answering them he said, Go back and give...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“And the dead man got up, and words came from his...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“And the dead man got up, and words came from his...”",
+        "reference": "Luke 7:15",
+        "explanation": "Luke 7:15 records: 'And the dead man got up, and words came from his lips. And he gave him to his mother.'."
+      },
+      {
+        "id": "luk-7-q5",
+        "questionNumber": 5,
+        "question": "According to the text, what happened or was commanded in Luke 7:20?",
+        "options": [
+          "“And when the men came to him they said, John the...”",
+          "“And a blessing will be on him who has...”",
+          "“This is he of whom it has been said,...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“And when the men came to him they said, John the...”",
+        "reference": "Luke 7:20",
+        "explanation": "Luke 7:20 records: 'And when the men came to him they said, John the Baptist has sent us to you, saying, Are you he who is to come, or are we waiting for another?'."
+      },
+      {
+        "id": "luk-7-q6",
+        "questionNumber": 6,
+        "question": "What central message or instruction is delivered in Luke 7:25?",
+        "options": [
+          "“I say to you, Among all the sons of...”",
+          "“But what did you go out to see? a man in...”",
+          "“They are like children who are seated in the...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“But what did you go out to see? a man in...”",
+        "reference": "Luke 7:25",
+        "explanation": "Luke 7:25 records: 'But what did you go out to see? a man in soft clothing? See now, those who have beautiful clothing and delicate food are in kings' houses.'."
+      },
+      {
+        "id": "luk-7-q7",
+        "questionNumber": 7,
+        "question": "What detail regarding God's work, covenant, or people is given in Luke 7:30?",
+        "options": [
+          "“For John the Baptist came, taking no food or...”",
+          "“And there was a woman in the town who...”",
+          "“But the Pharisees and the teachers of the law were against...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“But the Pharisees and the teachers of the law were against...”",
+        "reference": "Luke 7:30",
+        "explanation": "Luke 7:30 records: 'But the Pharisees and the teachers of the law were against the purpose of God for themselves, not having had his baptism.)'."
+      },
+      {
+        "id": "luk-7-q8",
+        "questionNumber": 8,
+        "question": "What phrase or account is recorded in Luke 7:35?",
+        "options": [
+          "“And went in and took her place at the...”",
+          "“When they were unable to make payment, he made...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“But wisdom is judged to be right by all her children.”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“But wisdom is judged to be right by all her children.”",
+        "reference": "Luke 7:35",
+        "explanation": "Luke 7:35 records: 'But wisdom is judged to be right by all her children.'."
+      },
+      {
+        "id": "luk-7-q9",
+        "questionNumber": 9,
+        "question": "How does the passage describe the circumstances or people in Luke 7:40?",
+        "options": [
+          "“And Jesus, answering, said, Simon, I have something to say to...”",
+          "“Simon, in answer, said, It seems he whose debt...”",
+          "“And so I say to you, She will have...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“And Jesus, answering, said, Simon, I have something to say to...”",
+        "reference": "Luke 7:40",
+        "explanation": "Luke 7:40 records: 'And Jesus, answering, said, Simon, I have something to say to you. And he said, Master, say on.'."
+      },
+      {
+        "id": "luk-7-q10",
+        "questionNumber": 10,
+        "question": "In the concluding portion of the chapter, what takes place in Luke 7:45?",
+        "options": [
+          "“And he said to her, You have forgiveness for...”",
+          "“You did not give me a kiss: but she, from the...”",
+          "“And a certain captain had a servant who was...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“You did not give me a kiss: but she, from the...”",
+        "reference": "Luke 7:45",
+        "explanation": "Luke 7:45 records: 'You did not give me a kiss: but she, from the time when I came in, has gone on kissing my feet.'."
+      }
+    ],
+    "8": [
+      {
+        "id": "luk-8-q1",
+        "questionNumber": 1,
+        "question": "According to Luke 8:1, what is the opening statement or setting of this chapter?",
+        "options": [
+          "It records: “And it came about, after a short time, that he went through town ...”",
+          "It begins with a prayer of thanksgiving for deliverance in Luke",
+          "It opens with a formal census and counting of the congregation",
+          "It records a severe judgment pronounced against neighboring nations"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "It records: “And it came about, after a short time, that he went through town ...”",
+        "reference": "Luke 8:1",
+        "explanation": "The chapter begins directly with the statement: 'And it came about, after a short time, that he went through town and country giving the good news of the kingdom of God, and with him were the twelve,'."
+      },
+      {
+        "id": "luk-8-q2",
+        "questionNumber": 2,
+        "question": "What key instruction, event, or declaration is set forth in Luke 8:5?",
+        "options": [
+          "“And some falling on good earth, came up and...”",
+          "“A man went out to put in seed, and while he...”",
+          "“Those by the side of the road are those...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“A man went out to put in seed, and while he...”",
+        "reference": "Luke 8:5",
+        "explanation": "Luke 8:5 records: 'A man went out to put in seed, and while he was doing it, some was dropped by the wayside and it was crushed under foot, and was taken by the birds of heaven.'."
+      },
+      {
+        "id": "luk-8-q3",
+        "questionNumber": 3,
+        "question": "What significant action or revelation occurs in Luke 8:10?",
+        "options": [
+          "“And those on the rock are those who with...”",
+          "“For nothing is put out of view which will...”",
+          "“And he said, To you is given knowledge of the secrets...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“And he said, To you is given knowledge of the secrets...”",
+        "reference": "Luke 8:10",
+        "explanation": "Luke 8:10 records: 'And he said, To you is given knowledge of the secrets of the kingdom of God; but to the others, they are given in stories, so that seeing, they may not see, and though they give hearing, the sense will not be clear to them.'."
+      },
+      {
+        "id": "luk-8-q4",
+        "questionNumber": 4,
+        "question": "What truth or description is highlighted in Luke 8:15?",
+        "options": [
+          "“So take care how you give hearing, for to...”",
+          "“Now it came about on one of those days...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“And those in the good earth are those who, having given...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“And those in the good earth are those who, having given...”",
+        "reference": "Luke 8:15",
+        "explanation": "Luke 8:15 records: 'And those in the good earth are those who, having given ear to the word, keep it with a good and true heart, and in quiet strength give fruit.'."
+      },
+      {
+        "id": "luk-8-q5",
+        "questionNumber": 5,
+        "question": "According to the text, what happened or was commanded in Luke 8:20?",
+        "options": [
+          "“And someone said to him, Your mother and your brothers are...”",
+          "“But while they were sailing he went to sleep:...”",
+          "“And when he had come to the land, there...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“And someone said to him, Your mother and your brothers are...”",
+        "reference": "Luke 8:20",
+        "explanation": "Luke 8:20 records: 'And someone said to him, Your mother and your brothers are outside desiring to see you.'."
+      },
+      {
+        "id": "luk-8-q6",
+        "questionNumber": 6,
+        "question": "What central message or instruction is delivered in Luke 8:25?",
+        "options": [
+          "“And when he saw Jesus, he gave a loud...”",
+          "“And he said to them, Where is your faith? And fear...”",
+          "“Now there was a great herd of pigs in...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“And he said to them, Where is your faith? And fear...”",
+        "reference": "Luke 8:25",
+        "explanation": "Luke 8:25 records: 'And he said to them, Where is your faith? And fear and wonder overcame them, and they said to one another, Who then is this, who gives orders even to the winds and the water and they do what he says?'."
+      },
+      {
+        "id": "luk-8-q7",
+        "questionNumber": 7,
+        "question": "What detail regarding God's work, covenant, or people is given in Luke 8:30?",
+        "options": [
+          "“And the evil spirits came out of the man...”",
+          "“And all the people of the country of the...”",
+          "“And Jesus said to him, What is your name? And he...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“And Jesus said to him, What is your name? And he...”",
+        "reference": "Luke 8:30",
+        "explanation": "Luke 8:30 records: 'And Jesus said to him, What is your name? And he said, Legion; for a number of spirits had gone into him.'."
+      },
+      {
+        "id": "luk-8-q8",
+        "questionNumber": 8,
+        "question": "What phrase or account is recorded in Luke 8:35?",
+        "options": [
+          "“But the man from whom the evil spirits had...”",
+          "“For he had an only daughter, about twelve years...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“And they went out to see what had taken place, and...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“And they went out to see what had taken place, and...”",
+        "reference": "Luke 8:35",
+        "explanation": "Luke 8:35 records: 'And they went out to see what had taken place, and they came to Jesus and saw the man out of whom the evil spirits had gone, seated, clothed and with full use of his senses, at the feet of Jesus; and fear came on them.'."
+      },
+      {
+        "id": "luk-8-q9",
+        "questionNumber": 9,
+        "question": "How does the passage describe the circumstances or people in Luke 8:40?",
+        "options": [
+          "“And when Jesus went back, the people were glad to see...”",
+          "“And a woman, who had had a flow of...”",
+          "“And when the woman saw that she was not...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“And when Jesus went back, the people were glad to see...”",
+        "reference": "Luke 8:40",
+        "explanation": "Luke 8:40 records: 'And when Jesus went back, the people were glad to see him, for they were all waiting for him.'."
+      },
+      {
+        "id": "luk-8-q10",
+        "questionNumber": 10,
+        "question": "In the concluding portion of the chapter, what takes place in Luke 8:45?",
+        "options": [
+          "“And he said to her, Daughter, your faith has...”",
+          "“And Jesus said, Who was touching me? And when they all...”",
+          "“And all the people were weeping and crying for...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“And Jesus said, Who was touching me? And when they all...”",
+        "reference": "Luke 8:45",
+        "explanation": "Luke 8:45 records: 'And Jesus said, Who was touching me? And when they all said, It is not I, Peter and those who were with him said, Master, the people are pushing round you on every side.'."
+      }
+    ],
+    "9": [
+      {
+        "id": "luk-9-q1",
+        "questionNumber": 1,
+        "question": "According to Luke 9:1, what is the opening statement or setting of this chapter?",
+        "options": [
+          "It records: “And getting the twelve together, he gave them power and authority...”",
+          "It begins with a prayer of thanksgiving for deliverance in Luke",
+          "It opens with a formal census and counting of the congregation",
+          "It records a severe judgment pronounced against neighboring nations"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "It records: “And getting the twelve together, he gave them power and authority...”",
+        "reference": "Luke 9:1",
+        "explanation": "The chapter begins directly with the statement: 'And getting the twelve together, he gave them power and authority over all evil spirits and over diseases, to make them well.'."
+      },
+      {
+        "id": "luk-9-q2",
+        "questionNumber": 2,
+        "question": "What key instruction, event, or declaration is set forth in Luke 9:6?",
+        "options": [
+          "“And Herod said, I put John to death: but...”",
+          "“And they went away, journeying through all the towns, preaching the...”",
+          "“But he said, Give them food yourselves. And they...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“And they went away, journeying through all the towns, preaching the...”",
+        "reference": "Luke 9:6",
+        "explanation": "Luke 9:6 records: 'And they went away, journeying through all the towns, preaching the good news and making people free from diseases in all places.'."
+      },
+      {
+        "id": "luk-9-q3",
+        "questionNumber": 3,
+        "question": "What significant action or revelation occurs in Luke 9:12?",
+        "options": [
+          "“And they did so, and made them all be...”",
+          "“And they, answering, said, John the Baptist; but others...”",
+          "“And the day went on; and the twelve came to him...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“And the day went on; and the twelve came to him...”",
+        "reference": "Luke 9:12",
+        "explanation": "Luke 9:12 records: 'And the day went on; and the twelve came to him and said, Send these people away so that they may go into the towns and the country round about and get resting-places and food for themselves, for we are in a waste place.'."
+      },
+      {
+        "id": "luk-9-q4",
+        "questionNumber": 4,
+        "question": "What truth or description is highlighted in Luke 9:18?",
+        "options": [
+          "“But he gave them special orders, not to say...”",
+          "“For what profit will a man have if he...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“And it came about that when he was in prayer, by...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“And it came about that when he was in prayer, by...”",
+        "reference": "Luke 9:18",
+        "explanation": "Luke 9:18 records: 'And it came about that when he was in prayer, by himself, and the disciples were with him, he put a question to them, saying, Who do the people say I am?'."
+      },
+      {
+        "id": "luk-9-q5",
+        "questionNumber": 5,
+        "question": "According to the text, what happened or was commanded in Luke 9:24?",
+        "options": [
+          "“For whoever has a desire to keep his life will have...”",
+          "“But truly I say to you, Some of those...”",
+          "“Who were seen in glory and were talking of...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“For whoever has a desire to keep his life will have...”",
+        "reference": "Luke 9:24",
+        "explanation": "Luke 9:24 records: 'For whoever has a desire to keep his life will have it taken from him, but whoever gives up his life because of me, will keep it.'."
+      },
+      {
+        "id": "luk-9-q6",
+        "questionNumber": 6,
+        "question": "What central message or instruction is delivered in Luke 9:30?",
+        "options": [
+          "“And when they were about to go away from...”",
+          "“And two men, Moses and Elijah, were talking with him;”",
+          "“And on the day after, when they came down...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“And two men, Moses and Elijah, were talking with him;”",
+        "reference": "Luke 9:30",
+        "explanation": "Luke 9:30 records: 'And two men, Moses and Elijah, were talking with him;'."
+      },
+      {
+        "id": "luk-9-q7",
+        "questionNumber": 7,
+        "question": "What detail regarding God's work, covenant, or people is given in Luke 9:36?",
+        "options": [
+          "“And see, a spirit takes him, and suddenly he...”",
+          "“And they were full of wonder at the great...”",
+          "“And after the voice was gone they saw that Jesus was...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“And after the voice was gone they saw that Jesus was...”",
+        "reference": "Luke 9:36",
+        "explanation": "Luke 9:36 records: 'And after the voice was gone they saw that Jesus was by himself. And they kept quiet, and said nothing at that time to anyone of the things which they had seen.'."
+      },
+      {
+        "id": "luk-9-q8",
+        "questionNumber": 8,
+        "question": "What phrase or account is recorded in Luke 9:42?",
+        "options": [
+          "“But this saying was not clear to them and...”",
+          "“And John, answering, said, Master, we saw a man...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“And while he was coming, he was pushed violently down and...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“And while he was coming, he was pushed violently down and...”",
+        "reference": "Luke 9:42",
+        "explanation": "Luke 9:42 records: 'And while he was coming, he was pushed violently down and twisted by the evil spirit. But Jesus gave sharp orders to the unclean spirit, and made the boy well, and gave him back to his father.'."
+      },
+      {
+        "id": "luk-9-q9",
+        "questionNumber": 9,
+        "question": "How does the passage describe the circumstances or people in Luke 9:48?",
+        "options": [
+          "“And said to them, Whoever gives honour to this child in...”",
+          "“And it came about that when the days were...”",
+          "“But turning round he said sharp words to them.”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“And said to them, Whoever gives honour to this child in...”",
+        "reference": "Luke 9:48",
+        "explanation": "Luke 9:48 records: 'And said to them, Whoever gives honour to this child in my name, gives honour to me: and whoever gives honour to me, gives honour to him who sent me: for whoever is least among you all, that man is great.'."
+      },
+      {
+        "id": "luk-9-q10",
+        "questionNumber": 10,
+        "question": "In the concluding portion of the chapter, what takes place in Luke 9:54?",
+        "options": [
+          "“And when they were on the way, a certain...”",
+          "“And when his disciples, James and John, saw this, they said,...”",
+          "“And another man said, I will come with you,...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“And when his disciples, James and John, saw this, they said,...”",
+        "reference": "Luke 9:54",
+        "explanation": "Luke 9:54 records: 'And when his disciples, James and John, saw this, they said, Lord, may we send fire from heaven and put an end to them?'."
+      }
+    ],
+    "10": [
+      {
+        "id": "luk-10-q1",
+        "questionNumber": 1,
+        "question": "According to Luke 10:1, what is the opening statement or setting of this chapter?",
+        "options": [
+          "It records: “Now after these things, the Lord made selection of seventy others...”",
+          "It begins with a prayer of thanksgiving for deliverance in Luke",
+          "It opens with a formal census and counting of the congregation",
+          "It records a severe judgment pronounced against neighboring nations"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "It records: “Now after these things, the Lord made selection of seventy others...”",
+        "reference": "Luke 10:1",
+        "explanation": "The chapter begins directly with the statement: 'Now after these things, the Lord made selection of seventy others and sent them before him, two together, into every town and place where he himself was about to come.'."
+      },
+      {
+        "id": "luk-10-q2",
+        "questionNumber": 2,
+        "question": "What key instruction, event, or declaration is set forth in Luke 10:4?",
+        "options": [
+          "“And keep in that same house, taking what food...”",
+          "“Take no bag for money or for food, and no shoes;...”",
+          "“Even the dust of your town, which is on...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“Take no bag for money or for food, and no shoes;...”",
+        "reference": "Luke 10:4",
+        "explanation": "Luke 10:4 records: 'Take no bag for money or for food, and no shoes; say no word to any man on the way.'."
+      },
+      {
+        "id": "luk-10-q3",
+        "questionNumber": 3,
+        "question": "What significant action or revelation occurs in Luke 10:8?",
+        "options": [
+          "“Even the dust of your town, which is on...”",
+          "“And you, Capernaum, were you not lifted up to...”",
+          "“And into whatever town you go, if they take you in,...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“And into whatever town you go, if they take you in,...”",
+        "reference": "Luke 10:8",
+        "explanation": "Luke 10:8 records: 'And into whatever town you go, if they take you in, take whatever food is given to you:'."
+      },
+      {
+        "id": "luk-10-q4",
+        "questionNumber": 4,
+        "question": "What truth or description is highlighted in Luke 10:12?",
+        "options": [
+          "“And you, Capernaum, were you not lifted up to...”",
+          "“See, I have given you power to put your...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“I say to you, It will be better in that day...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“I say to you, It will be better in that day...”",
+        "reference": "Luke 10:12",
+        "explanation": "Luke 10:12 records: 'I say to you, It will be better in that day for Sodom than for that town.'."
+      },
+      {
+        "id": "luk-10-q5",
+        "questionNumber": 5,
+        "question": "According to the text, what happened or was commanded in Luke 10:16?",
+        "options": [
+          "“Whoever gives ear to you, gives ear to me; and whoever...”",
+          "“See, I have given you power to put your...”",
+          "“And, turning to the disciples, he said privately, Happy...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“Whoever gives ear to you, gives ear to me; and whoever...”",
+        "reference": "Luke 10:16",
+        "explanation": "Luke 10:16 records: 'Whoever gives ear to you, gives ear to me; and whoever is against you, is against me; and whoever is against me, is against him who sent me.'."
+      },
+      {
+        "id": "luk-10-q6",
+        "questionNumber": 6,
+        "question": "What central message or instruction is delivered in Luke 10:20?",
+        "options": [
+          "“And, turning to the disciples, he said privately, Happy...”",
+          "“Do not be glad, however, because you have power over spirits,...”",
+          "“And he, answering, said, Have love for the Lord...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“Do not be glad, however, because you have power over spirits,...”",
+        "reference": "Luke 10:20",
+        "explanation": "Luke 10:20 records: 'Do not be glad, however, because you have power over spirits, but because your names are recorded in heaven.'."
+      },
+      {
+        "id": "luk-10-q7",
+        "questionNumber": 7,
+        "question": "What detail regarding God's work, covenant, or people is given in Luke 10:24?",
+        "options": [
+          "“And he, answering, said, Have love for the Lord...”",
+          "“And by chance a certain priest was going down...”",
+          "“For I say to you that numbers of prophets and kings...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“For I say to you that numbers of prophets and kings...”",
+        "reference": "Luke 10:24",
+        "explanation": "Luke 10:24 records: 'For I say to you that numbers of prophets and kings have had a desire to see the things which you see, and have not seen them, and to have knowledge of the things which have come to your ears, and they had it not.'."
+      },
+      {
+        "id": "luk-10-q8",
+        "questionNumber": 8,
+        "question": "What phrase or account is recorded in Luke 10:28?",
+        "options": [
+          "“And by chance a certain priest was going down...”",
+          "“And the day after he took two pennies and...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“And he said, You have given the right answer: do this...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“And he said, You have given the right answer: do this...”",
+        "reference": "Luke 10:28",
+        "explanation": "Luke 10:28 records: 'And he said, You have given the right answer: do this and you will have life.'."
+      },
+      {
+        "id": "luk-10-q9",
+        "questionNumber": 9,
+        "question": "How does the passage describe the circumstances or people in Luke 10:32?",
+        "options": [
+          "“And in the same way, a Levite, when he came to...”",
+          "“And the day after he took two pennies and...”",
+          "“And she had a sister, by name Mary, who...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“And in the same way, a Levite, when he came to...”",
+        "reference": "Luke 10:32",
+        "explanation": "Luke 10:32 records: 'And in the same way, a Levite, when he came to the place and saw him, went by on the other side.'."
+      },
+      {
+        "id": "luk-10-q10",
+        "questionNumber": 10,
+        "question": "In the concluding portion of the chapter, what takes place in Luke 10:36?",
+        "options": [
+          "“And she had a sister, by name Mary, who...”",
+          "“Which of these three men, in your opinion, was neighbour to...”",
+          "“Now after these things, the Lord made selection of...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“Which of these three men, in your opinion, was neighbour to...”",
+        "reference": "Luke 10:36",
+        "explanation": "Luke 10:36 records: 'Which of these three men, in your opinion, was neighbour to the man who came into the hands of thieves?'."
+      }
+    ],
+    "11": [
+      {
+        "id": "luk-11-q1",
+        "questionNumber": 1,
+        "question": "According to Luke 11:1, what is the opening statement or setting of this chapter?",
+        "options": [
+          "It records: “And it came about that he was in prayer in a certain place, and w...”",
+          "It begins with a prayer of thanksgiving for deliverance in Luke",
+          "It opens with a formal census and counting of the congregation",
+          "It records a severe judgment pronounced against neighboring nations"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "It records: “And it came about that he was in prayer in a certain place, and w...”",
+        "reference": "Luke 11:1",
+        "explanation": "The chapter begins directly with the statement: 'And it came about that he was in prayer in a certain place, and when he came to an end, one of his disciples said to him, Lord, will you give us teaching about prayer, as John did to his disciples?'."
+      },
+      {
+        "id": "luk-11-q2",
+        "questionNumber": 2,
+        "question": "What key instruction, event, or declaration is set forth in Luke 11:5?",
+        "options": [
+          "“I say to you, Though he will not get...”",
+          "“And he said to them, Which of you, having a friend,...”",
+          "“Or for an egg, will give him a scorpion?”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“And he said to them, Which of you, having a friend,...”",
+        "reference": "Luke 11:5",
+        "explanation": "Luke 11:5 records: 'And he said to them, Which of you, having a friend, would go to him in the middle of the night and say to him, Friend, let me have three cakes of bread;'."
+      },
+      {
+        "id": "luk-11-q3",
+        "questionNumber": 3,
+        "question": "What significant action or revelation occurs in Luke 11:10?",
+        "options": [
+          "“If, then, you who are evil are able to...”",
+          "“But he, having knowledge of their thoughts, said to...”",
+          "“For to everyone who makes a request, it will be given;...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“For to everyone who makes a request, it will be given;...”",
+        "reference": "Luke 11:10",
+        "explanation": "Luke 11:10 records: 'For to everyone who makes a request, it will be given; and he who is searching will get his desire; and to him who gives the sign, the door will be open.'."
+      },
+      {
+        "id": "luk-11-q4",
+        "questionNumber": 4,
+        "question": "What truth or description is highlighted in Luke 11:15?",
+        "options": [
+          "“If, then, Satan is at war with himself, how...”",
+          "“But when one who is stronger makes an attack...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“But some of them said, He sends out evil spirits by...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“But some of them said, He sends out evil spirits by...”",
+        "reference": "Luke 11:15",
+        "explanation": "Luke 11:15 records: 'But some of them said, He sends out evil spirits by Beelzebul, the ruler of evil spirits.'."
+      },
+      {
+        "id": "luk-11-q5",
+        "questionNumber": 5,
+        "question": "According to the text, what happened or was commanded in Luke 11:20?",
+        "options": [
+          "“But if I, by the finger of God, send out evil...”",
+          "“He who is not with me is against me,...”",
+          "“And it came about that when he said these...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“But if I, by the finger of God, send out evil...”",
+        "reference": "Luke 11:20",
+        "explanation": "Luke 11:20 records: 'But if I, by the finger of God, send out evil spirits, then the kingdom of God has overtaken you.'."
+      },
+      {
+        "id": "luk-11-q6",
+        "questionNumber": 6,
+        "question": "What central message or instruction is delivered in Luke 11:25?",
+        "options": [
+          "“But he said, More happy are they who give...”",
+          "“And when he comes, he sees that it has been made...”",
+          "“The men of Nineveh will come up in the...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“And when he comes, he sees that it has been made...”",
+        "reference": "Luke 11:25",
+        "explanation": "Luke 11:25 records: 'And when he comes, he sees that it has been made fair and clean.'."
+      },
+      {
+        "id": "luk-11-q7",
+        "questionNumber": 7,
+        "question": "What detail regarding God's work, covenant, or people is given in Luke 11:30?",
+        "options": [
+          "“No man, when the light has been lighted, puts...”",
+          "“Now, while he was talking, a Pharisee made a...”",
+          "“For even as Jonah became a sign to the Ninevites, so...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“For even as Jonah became a sign to the Ninevites, so...”",
+        "reference": "Luke 11:30",
+        "explanation": "Luke 11:30 records: 'For even as Jonah became a sign to the Ninevites, so will the Son of man be to this generation.'."
+      },
+      {
+        "id": "luk-11-q8",
+        "questionNumber": 8,
+        "question": "What phrase or account is recorded in Luke 11:35?",
+        "options": [
+          "“And when the Pharisee saw it, he was surprised...”",
+          "“But a curse is on you, Pharisees! for you...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“So take care that the light which is in you is...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“So take care that the light which is in you is...”",
+        "reference": "Luke 11:35",
+        "explanation": "Luke 11:35 records: 'So take care that the light which is in you is not dark.'."
+      },
+      {
+        "id": "luk-11-q9",
+        "questionNumber": 9,
+        "question": "How does the passage describe the circumstances or people in Luke 11:40?",
+        "options": [
+          "“O you foolish ones! did not he who made the outside...”",
+          "“A curse is on you, Pharisees! for your desires...”",
+          "“A curse is on you! for you make resting-places...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“O you foolish ones! did not he who made the outside...”",
+        "reference": "Luke 11:40",
+        "explanation": "Luke 11:40 records: 'O you foolish ones! did not he who made the outside in the same way make the inside?'."
+      },
+      {
+        "id": "luk-11-q10",
+        "questionNumber": 10,
+        "question": "In the concluding portion of the chapter, what takes place in Luke 11:45?",
+        "options": [
+          "“So you are witnesses and give approval to the...”",
+          "“And one of the teachers of the law, answering, said to...”",
+          "“A curse is on you, teachers of the law!...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“And one of the teachers of the law, answering, said to...”",
+        "reference": "Luke 11:45",
+        "explanation": "Luke 11:45 records: 'And one of the teachers of the law, answering, said to him, Master, in saying this, you give a bad name to us as to them.'."
+      }
+    ],
+    "12": [
+      {
+        "id": "luk-12-q1",
+        "questionNumber": 1,
+        "question": "According to Luke 12:1, what is the opening statement or setting of this chapter?",
+        "options": [
+          "It records: “At that time, when thousands of the people had come together, in ...”",
+          "It begins with a prayer of thanksgiving for deliverance in Luke",
+          "It opens with a formal census and counting of the congregation",
+          "It records a severe judgment pronounced against neighboring nations"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "It records: “At that time, when thousands of the people had come together, in ...”",
+        "reference": "Luke 12:1",
+        "explanation": "The chapter begins directly with the statement: 'At that time, when thousands of the people had come together, in such numbers that they were crushing one another, he said first to his disciples, Have nothing to do with the leaven of the Pharisees, which is deceit.'."
+      },
+      {
+        "id": "luk-12-q2",
+        "questionNumber": 2,
+        "question": "What key instruction, event, or declaration is set forth in Luke 12:5?",
+        "options": [
+          "“And I say to you that to everyone who...”",
+          "“But I will make clear to you of whom you are...”",
+          "“For the Holy Spirit will make clear to you...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“But I will make clear to you of whom you are...”",
+        "reference": "Luke 12:5",
+        "explanation": "Luke 12:5 records: 'But I will make clear to you of whom you are to be in fear: of him who after death has power to send you to hell; yes, truly I say, Have fear of him.'."
+      },
+      {
+        "id": "luk-12-q3",
+        "questionNumber": 3,
+        "question": "What significant action or revelation occurs in Luke 12:10?",
+        "options": [
+          "“And one of the people said to him, Master,...”",
+          "“And he said to himself, What is to be...”",
+          "“And if anyone says a word against the Son of man,...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“And if anyone says a word against the Son of man,...”",
+        "reference": "Luke 12:10",
+        "explanation": "Luke 12:10 records: 'And if anyone says a word against the Son of man, he will have forgiveness: but for him who says evil words against the Holy Spirit, there will be no forgiveness.'."
+      },
+      {
+        "id": "luk-12-q4",
+        "questionNumber": 4,
+        "question": "What truth or description is highlighted in Luke 12:15?",
+        "options": [
+          "“And he said, This I will do: I will...”",
+          "“And he said to his disciples, For this reason...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“And he said to them, Take care to keep yourselves free...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“And he said to them, Take care to keep yourselves free...”",
+        "reference": "Luke 12:15",
+        "explanation": "Luke 12:15 records: 'And he said to them, Take care to keep yourselves free from the desire for property; for a man's life is not made up of the number of things which he has.'."
+      },
+      {
+        "id": "luk-12-q5",
+        "questionNumber": 5,
+        "question": "According to the text, what happened or was commanded in Luke 12:20?",
+        "options": [
+          "“But God said to him, You foolish one, tonight I will...”",
+          "“Is not life more than food, and the body...”",
+          "“Give thought to the flowers: they do no work,...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“But God said to him, You foolish one, tonight I will...”",
+        "reference": "Luke 12:20",
+        "explanation": "Luke 12:20 records: 'But God said to him, You foolish one, tonight I will take your soul from you, and who then will be the owner of all the things which you have got together?'."
+      },
+      {
+        "id": "luk-12-q6",
+        "questionNumber": 6,
+        "question": "What central message or instruction is delivered in Luke 12:25?",
+        "options": [
+          "“But if God gives such clothing to the grass...”",
+          "“And which of you by taking thought is able to make...”",
+          "“Have no fear, little flock, for it is your...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“And which of you by taking thought is able to make...”",
+        "reference": "Luke 12:25",
+        "explanation": "Luke 12:25 records: 'And which of you by taking thought is able to make himself any taller?'."
+      },
+      {
+        "id": "luk-12-q7",
+        "questionNumber": 7,
+        "question": "What detail regarding God's work, covenant, or people is given in Luke 12:30?",
+        "options": [
+          "“Give what property you have in exchange for money,...”",
+          "“Happy are those servants who are watching when the...”",
+          "“For the nations of the world go in search of all...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“For the nations of the world go in search of all...”",
+        "reference": "Luke 12:30",
+        "explanation": "Luke 12:30 records: 'For the nations of the world go in search of all these things: but your Father has knowledge that you have need of them.'."
+      },
+      {
+        "id": "luk-12-q8",
+        "questionNumber": 8,
+        "question": "What phrase or account is recorded in Luke 12:35?",
+        "options": [
+          "“And if he comes in the second division of...”",
+          "“And the Lord said, Who then is the wise...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“Be ready, dressed as for a journey, with your lights burning.”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“Be ready, dressed as for a journey, with your lights burning.”",
+        "reference": "Luke 12:35",
+        "explanation": "Luke 12:35 records: 'Be ready, dressed as for a journey, with your lights burning.'."
+      },
+      {
+        "id": "luk-12-q9",
+        "questionNumber": 9,
+        "question": "How does the passage describe the circumstances or people in Luke 12:40?",
+        "options": [
+          "“So be ready: for the Son of man is coming at...”",
+          "“Happy is that servant who, when his lord comes,...”",
+          "“And the servant who had knowledge of his lord's...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“So be ready: for the Son of man is coming at...”",
+        "reference": "Luke 12:40",
+        "explanation": "Luke 12:40 records: 'So be ready: for the Son of man is coming at a time when you are not looking for him.'."
+      },
+      {
+        "id": "luk-12-q10",
+        "questionNumber": 10,
+        "question": "In the concluding portion of the chapter, what takes place in Luke 12:45?",
+        "options": [
+          "“But he who, without knowledge, did things for which...”",
+          "“But if that servant says to himself, My lord is a...”",
+          "“For from this time, a family of five in...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“But if that servant says to himself, My lord is a...”",
+        "reference": "Luke 12:45",
+        "explanation": "Luke 12:45 records: 'But if that servant says to himself, My lord is a long time coming; and goes about giving blows to the men-servants and the women-servants, feasting and taking overmuch wine;'."
+      }
+    ],
+    "13": [
+      {
+        "id": "luk-13-q1",
+        "questionNumber": 1,
+        "question": "According to Luke 13:1, what is the opening statement or setting of this chapter?",
+        "options": [
+          "It records: “Now some people who were there at that time, gave him an account ...”",
+          "It begins with a prayer of thanksgiving for deliverance in Luke",
+          "It opens with a formal census and counting of the congregation",
+          "It records a severe judgment pronounced against neighboring nations"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "It records: “Now some people who were there at that time, gave him an account ...”",
+        "reference": "Luke 13:1",
+        "explanation": "The chapter begins directly with the statement: 'Now some people who were there at that time, gave him an account of how the blood of some Galilaeans had been mixed by Pilate with their offerings.'."
+      },
+      {
+        "id": "luk-13-q2",
+        "questionNumber": 2,
+        "question": "What key instruction, event, or declaration is set forth in Luke 13:3?",
+        "options": [
+          "“And he made up this story for them: A...”",
+          "“I say to you, It is not so: but if your...”",
+          "“And he was teaching in one of the Synagogues...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“I say to you, It is not so: but if your...”",
+        "reference": "Luke 13:3",
+        "explanation": "Luke 13:3 records: 'I say to you, It is not so: but if your hearts are not changed, you will all come to the same end.'."
+      },
+      {
+        "id": "luk-13-q3",
+        "questionNumber": 3,
+        "question": "What significant action or revelation occurs in Luke 13:6?",
+        "options": [
+          "“And if, after that, it has fruit, it is...”",
+          "“And he put his hands on her, and she...”",
+          "“And he made up this story for them: A certain man...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“And he made up this story for them: A certain man...”",
+        "reference": "Luke 13:6",
+        "explanation": "Luke 13:6 records: 'And he made up this story for them: A certain man had a fig-tree in his garden, and he came to get fruit from it, and there was no fruit.'."
+      },
+      {
+        "id": "luk-13-q4",
+        "questionNumber": 4,
+        "question": "What truth or description is highlighted in Luke 13:9?",
+        "options": [
+          "“And when Jesus saw her, he said to her,...”",
+          "“And is it not right for this daughter of...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“And if, after that, it has fruit, it is well; if...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“And if, after that, it has fruit, it is well; if...”",
+        "reference": "Luke 13:9",
+        "explanation": "Luke 13:9 records: 'And if, after that, it has fruit, it is well; if not, let it be cut down.'."
+      },
+      {
+        "id": "luk-13-q5",
+        "questionNumber": 5,
+        "question": "According to the text, what happened or was commanded in Luke 13:12?",
+        "options": [
+          "“And when Jesus saw her, he said to her, Woman, you...”",
+          "“But the Lord gave him an answer and said,...”",
+          "“It is like a grain of mustard seed which...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“And when Jesus saw her, he said to her, Woman, you...”",
+        "reference": "Luke 13:12",
+        "explanation": "Luke 13:12 records: 'And when Jesus saw her, he said to her, Woman, you are made free from your disease.'."
+      },
+      {
+        "id": "luk-13-q6",
+        "questionNumber": 6,
+        "question": "What central message or instruction is delivered in Luke 13:15?",
+        "options": [
+          "“Then he said, What is the kingdom of God...”",
+          "“But the Lord gave him an answer and said, O you...”",
+          "“And he went on his way, through towns and...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“But the Lord gave him an answer and said, O you...”",
+        "reference": "Luke 13:15",
+        "explanation": "Luke 13:15 records: 'But the Lord gave him an answer and said, O you false men! do you not, every one of you, on the Sabbath, let loose his ox and his ass and take it to the water?'."
+      },
+      {
+        "id": "luk-13-q7",
+        "questionNumber": 7,
+        "question": "What detail regarding God's work, covenant, or people is given in Luke 13:18?",
+        "options": [
+          "“It is like leaven, which a woman put into...”",
+          "“When the master of the house has got up,...”",
+          "“Then he said, What is the kingdom of God like? what...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“Then he said, What is the kingdom of God like? what...”",
+        "reference": "Luke 13:18",
+        "explanation": "Luke 13:18 records: 'Then he said, What is the kingdom of God like? what comparison may I make of it?'."
+      },
+      {
+        "id": "luk-13-q8",
+        "questionNumber": 8,
+        "question": "What phrase or account is recorded in Luke 13:21?",
+        "options": [
+          "“Do your best to go in by the narrow...”",
+          "“There will be weeping and cries of sorrow when...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“It is like leaven, which a woman put into three measures...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“It is like leaven, which a woman put into three measures...”",
+        "reference": "Luke 13:21",
+        "explanation": "Luke 13:21 records: 'It is like leaven, which a woman put into three measures of meal, and it was all leavened.'."
+      },
+      {
+        "id": "luk-13-q9",
+        "questionNumber": 9,
+        "question": "How does the passage describe the circumstances or people in Luke 13:24?",
+        "options": [
+          "“Do your best to go in by the narrow door, for...”",
+          "“But he will say, Truly, I have no knowledge...”",
+          "“At that time, certain Pharisees came to him and...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“Do your best to go in by the narrow door, for...”",
+        "reference": "Luke 13:24",
+        "explanation": "Luke 13:24 records: 'Do your best to go in by the narrow door, for I say to you, A number will make the attempt to go in, but will not be able to do so.'."
+      },
+      {
+        "id": "luk-13-q10",
+        "questionNumber": 10,
+        "question": "In the concluding portion of the chapter, what takes place in Luke 13:27?",
+        "options": [
+          "“And the last will be first, and the first...”",
+          "“But he will say, Truly, I have no knowledge of you...”",
+          "“O Jerusalem, Jerusalem, putting to death the prophets, and...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“But he will say, Truly, I have no knowledge of you...”",
+        "reference": "Luke 13:27",
+        "explanation": "Luke 13:27 records: 'But he will say, Truly, I have no knowledge of you or where you come from; go away from me, you workers of evil.'."
+      }
+    ],
+    "14": [
+      {
+        "id": "luk-14-q1",
+        "questionNumber": 1,
+        "question": "According to Luke 14:1, what is the opening statement or setting of this chapter?",
+        "options": [
+          "It records: “And it came about that when he went into the house of one of the ...”",
+          "It begins with a prayer of thanksgiving for deliverance in Luke",
+          "It opens with a formal census and counting of the congregation",
+          "It records a severe judgment pronounced against neighboring nations"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "It records: “And it came about that when he went into the house of one of the ...”",
+        "reference": "Luke 14:1",
+        "explanation": "The chapter begins directly with the statement: 'And it came about that when he went into the house of one of the chief Pharisees on the Sabbath, to have a meal, they were watching him.'."
+      },
+      {
+        "id": "luk-14-q2",
+        "questionNumber": 2,
+        "question": "What key instruction, event, or declaration is set forth in Luke 14:3?",
+        "options": [
+          "“And they had no answer to that question.”",
+          "“And Jesus, answering, said to the scribes and Pharisees, Is it...”",
+          "“But when you come, go and take the lowest...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“And Jesus, answering, said to the scribes and Pharisees, Is it...”",
+        "reference": "Luke 14:3",
+        "explanation": "Luke 14:3 records: 'And Jesus, answering, said to the scribes and Pharisees, Is it right to make people well on the Sabbath or not?'."
+      },
+      {
+        "id": "luk-14-q3",
+        "questionNumber": 3,
+        "question": "What significant action or revelation occurs in Luke 14:6?",
+        "options": [
+          "“And then the giver of the feast will come...”",
+          "“But when you give a feast, send for the...”",
+          "“And they had no answer to that question.”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“And they had no answer to that question.”",
+        "reference": "Luke 14:6",
+        "explanation": "Luke 14:6 records: 'And they had no answer to that question.'."
+      },
+      {
+        "id": "luk-14-q4",
+        "questionNumber": 4,
+        "question": "What truth or description is highlighted in Luke 14:9?",
+        "options": [
+          "“And he said to the master of the house,...”",
+          "“And he said to them, A certain man gave...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“And then the giver of the feast will come to you...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“And then the giver of the feast will come to you...”",
+        "reference": "Luke 14:9",
+        "explanation": "Luke 14:9 records: 'And then the giver of the feast will come to you and say, Give your place to this man; and you, with shame, will have to take the lowest seat.'."
+      },
+      {
+        "id": "luk-14-q5",
+        "questionNumber": 5,
+        "question": "According to the text, what happened or was commanded in Luke 14:12?",
+        "options": [
+          "“And he said to the master of the house, When you...”",
+          "“And, hearing these words, one of those who were...”",
+          "“And another said, I have got some cattle, and...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“And he said to the master of the house, When you...”",
+        "reference": "Luke 14:12",
+        "explanation": "Luke 14:12 records: 'And he said to the master of the house, When you give a feast, do not send for your friends and your brothers and your family or your neighbours who have wealth, for they may give a feast for you, and so you will get a reward.'."
+      },
+      {
+        "id": "luk-14-q6",
+        "questionNumber": 6,
+        "question": "What central message or instruction is delivered in Luke 14:15?",
+        "options": [
+          "“And they all gave reasons why they were not...”",
+          "“And, hearing these words, one of those who were at table...”",
+          "“And the servant said, Lord, your orders have been...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“And, hearing these words, one of those who were at table...”",
+        "reference": "Luke 14:15",
+        "explanation": "Luke 14:15 records: 'And, hearing these words, one of those who were at table with him said to him, Happy is the man who will be a guest in the kingdom of God.'."
+      },
+      {
+        "id": "luk-14-q7",
+        "questionNumber": 7,
+        "question": "What detail regarding God's work, covenant, or people is given in Luke 14:18?",
+        "options": [
+          "“And the servant came back and gave his master...”",
+          "“Now a great number of people went with him.”",
+          "“And they all gave reasons why they were not able to...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“And they all gave reasons why they were not able to...”",
+        "reference": "Luke 14:18",
+        "explanation": "Luke 14:18 records: 'And they all gave reasons why they were not able to come. The first said to him, I have got a new field, and it is necessary for me to go and see it: I am full of regret that I am unable to come.'."
+      },
+      {
+        "id": "luk-14-q8",
+        "questionNumber": 8,
+        "question": "What phrase or account is recorded in Luke 14:21?",
+        "options": [
+          "“For I say to you that not one of...”",
+          "“For which of you, desiring to put up a...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“And the servant came back and gave his master an account...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“And the servant came back and gave his master an account...”",
+        "reference": "Luke 14:21",
+        "explanation": "Luke 14:21 records: 'And the servant came back and gave his master an account of these things. Then the master of the house was angry and said to the servant, Go out quickly into the streets of the town and get the poor, the blind, and those who are broken in body.'."
+      },
+      {
+        "id": "luk-14-q9",
+        "questionNumber": 9,
+        "question": "How does the passage describe the circumstances or people in Luke 14:24?",
+        "options": [
+          "“For I say to you that not one of those who...”",
+          "“Whoever does not take up his cross and come...”",
+          "“Or what king, going to war with another king,...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“For I say to you that not one of those who...”",
+        "reference": "Luke 14:24",
+        "explanation": "Luke 14:24 records: 'For I say to you that not one of those who were requested to come will have a taste of my feast.'."
+      },
+      {
+        "id": "luk-14-q10",
+        "questionNumber": 10,
+        "question": "In the concluding portion of the chapter, what takes place in Luke 14:27?",
+        "options": [
+          "“And saying, This man made a start at building...”",
+          "“Whoever does not take up his cross and come after me...”",
+          "“For salt is good, but if the taste goes...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“Whoever does not take up his cross and come after me...”",
+        "reference": "Luke 14:27",
+        "explanation": "Luke 14:27 records: 'Whoever does not take up his cross and come after me may not be my disciple.'."
+      }
+    ],
+    "15": [
+      {
+        "id": "luk-15-q1",
+        "questionNumber": 1,
+        "question": "According to Luke 15:1, what is the opening statement or setting of this chapter?",
+        "options": [
+          "It records: “Now all the tax-farmers and sinners came near to give ear to him.”",
+          "It begins with a prayer of thanksgiving for deliverance in Luke",
+          "It opens with a formal census and counting of the congregation",
+          "It records a severe judgment pronounced against neighboring nations"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "It records: “Now all the tax-farmers and sinners came near to give ear to him.”",
+        "reference": "Luke 15:1",
+        "explanation": "The chapter begins directly with the statement: 'Now all the tax-farmers and sinners came near to give ear to him.'."
+      },
+      {
+        "id": "luk-15-q2",
+        "questionNumber": 2,
+        "question": "What key instruction, event, or declaration is set forth in Luke 15:3?",
+        "options": [
+          "“And when he gets back to his house, he...”",
+          "“And he made a story for them, saying,”",
+          "“Even so, I say to you, There is joy...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“And he made a story for them, saying,”",
+        "reference": "Luke 15:3",
+        "explanation": "Luke 15:3 records: 'And he made a story for them, saying,'."
+      },
+      {
+        "id": "luk-15-q3",
+        "questionNumber": 3,
+        "question": "What significant action or revelation occurs in Luke 15:6?",
+        "options": [
+          "“And when she has it again, she gets her...”",
+          "“And not long after, the younger son got together...”",
+          "“And when he gets back to his house, he sends for...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“And when he gets back to his house, he sends for...”",
+        "reference": "Luke 15:6",
+        "explanation": "Luke 15:6 records: 'And when he gets back to his house, he sends for his neighbours and friends, saying to them, Be glad with me, for I have got back my sheep which had gone away.'."
+      },
+      {
+        "id": "luk-15-q4",
+        "questionNumber": 4,
+        "question": "What truth or description is highlighted in Luke 15:9?",
+        "options": [
+          "“And the younger of them said to his father,...”",
+          "“And so great was his need that he would...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“And when she has it again, she gets her friends and...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“And when she has it again, she gets her friends and...”",
+        "reference": "Luke 15:9",
+        "explanation": "Luke 15:9 records: 'And when she has it again, she gets her friends and neighbours together, saying, Be glad with me, for I have got back the bit of silver which had gone from me.'."
+      },
+      {
+        "id": "luk-15-q5",
+        "questionNumber": 5,
+        "question": "According to the text, what happened or was commanded in Luke 15:12?",
+        "options": [
+          "“And the younger of them said to his father, Father, give...”",
+          "“And he went and put himself into the hands...”",
+          "“I am no longer good enough to be named...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“And the younger of them said to his father, Father, give...”",
+        "reference": "Luke 15:12",
+        "explanation": "Luke 15:12 records: 'And the younger of them said to his father, Father, give me that part of your property which will be mine. And he made division of his goods between them.'."
+      },
+      {
+        "id": "luk-15-q6",
+        "questionNumber": 6,
+        "question": "What central message or instruction is delivered in Luke 15:15?",
+        "options": [
+          "“I will get up and go to my father,...”",
+          "“And he went and put himself into the hands of one...”",
+          "“But the father said to his servants, Get out...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“And he went and put himself into the hands of one...”",
+        "reference": "Luke 15:15",
+        "explanation": "Luke 15:15 records: 'And he went and put himself into the hands of one of the people of that country, and he sent him into his fields to give the pigs their food.'."
+      },
+      {
+        "id": "luk-15-q7",
+        "questionNumber": 7,
+        "question": "What detail regarding God's work, covenant, or people is given in Luke 15:18?",
+        "options": [
+          "“And his son said to him, Father, I have...”",
+          "“Now the older son was in the field: and...”",
+          "“I will get up and go to my father, and will...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“I will get up and go to my father, and will...”",
+        "reference": "Luke 15:18",
+        "explanation": "Luke 15:18 records: 'I will get up and go to my father, and will say to him, Father, I have done wrong, against heaven and in your eyes:'."
+      },
+      {
+        "id": "luk-15-q8",
+        "questionNumber": 8,
+        "question": "What phrase or account is recorded in Luke 15:21?",
+        "options": [
+          "“For this, my son, who was dead, is living...”",
+          "“But he was angry and would not go in;...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“And his son said to him, Father, I have done wrong,...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“And his son said to him, Father, I have done wrong,...”",
+        "reference": "Luke 15:21",
+        "explanation": "Luke 15:21 records: 'And his son said to him, Father, I have done wrong, against heaven and in your eyes: I am no longer good enough to be named your son.'."
+      },
+      {
+        "id": "luk-15-q9",
+        "questionNumber": 9,
+        "question": "How does the passage describe the circumstances or people in Luke 15:24?",
+        "options": [
+          "“For this, my son, who was dead, is living again; he...”",
+          "“And he said to him, Your brother has come;...”",
+          "“And he said to him, Son, you are with...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“For this, my son, who was dead, is living again; he...”",
+        "reference": "Luke 15:24",
+        "explanation": "Luke 15:24 records: 'For this, my son, who was dead, is living again; he had gone away from me, and has come back. And they were full of joy.'."
+      },
+      {
+        "id": "luk-15-q10",
+        "questionNumber": 10,
+        "question": "In the concluding portion of the chapter, what takes place in Luke 15:27?",
+        "options": [
+          "“But when this your son came, who has been...”",
+          "“And he said to him, Your brother has come; and your...”",
+          "“And the Pharisees and scribes were angry, saying, This...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“And he said to him, Your brother has come; and your...”",
+        "reference": "Luke 15:27",
+        "explanation": "Luke 15:27 records: 'And he said to him, Your brother has come; and your father has had the young ox put to death because he has come back safely.'."
+      }
+    ],
+    "16": [
+      {
+        "id": "luk-16-q1",
+        "questionNumber": 1,
+        "question": "According to Luke 16:1, what is the opening statement or setting of this chapter?",
+        "options": [
+          "It records: “And another time he said to the disciples, There was a certain ma...”",
+          "It begins with a prayer of thanksgiving for deliverance in Luke",
+          "It opens with a formal census and counting of the congregation",
+          "It records a severe judgment pronounced against neighboring nations"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "It records: “And another time he said to the disciples, There was a certain ma...”",
+        "reference": "Luke 16:1",
+        "explanation": "The chapter begins directly with the statement: 'And another time he said to the disciples, There was a certain man of great wealth who had a servant; and it was said to him that this servant was wasting his goods.'."
+      },
+      {
+        "id": "luk-16-q2",
+        "questionNumber": 2,
+        "question": "What key instruction, event, or declaration is set forth in Luke 16:3?",
+        "options": [
+          "“And he said, A hundred measures of oil. And...”",
+          "“And the servant said to himself, What am I to do...”",
+          "“He who is true in a little, is true...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“And the servant said to himself, What am I to do...”",
+        "reference": "Luke 16:3",
+        "explanation": "Luke 16:3 records: 'And the servant said to himself, What am I to do now that my lord takes away my position? I have not enough strength for working in the fields, and I would be shamed if I made requests for money from people in the streets.'."
+      },
+      {
+        "id": "luk-16-q3",
+        "questionNumber": 3,
+        "question": "What significant action or revelation occurs in Luke 16:6?",
+        "options": [
+          "“And I say to you, Make friends for yourselves...”",
+          "“No man may be a servant to two masters:...”",
+          "“And he said, A hundred measures of oil. And he said,...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“And he said, A hundred measures of oil. And he said,...”",
+        "reference": "Luke 16:6",
+        "explanation": "Luke 16:6 records: 'And he said, A hundred measures of oil. And he said, Take your account straight away and put down fifty.'."
+      },
+      {
+        "id": "luk-16-q4",
+        "questionNumber": 4,
+        "question": "What truth or description is highlighted in Luke 16:9?",
+        "options": [
+          "“And if you have not been true in your...”",
+          "“The law and the prophets were till John: but...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“And I say to you, Make friends for yourselves through the...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“And I say to you, Make friends for yourselves through the...”",
+        "reference": "Luke 16:9",
+        "explanation": "Luke 16:9 records: 'And I say to you, Make friends for yourselves through the wealth of this life, so that when it comes to an end, you may be taken into the eternal resting-places.'."
+      },
+      {
+        "id": "luk-16-q5",
+        "questionNumber": 5,
+        "question": "According to the text, what happened or was commanded in Luke 16:12?",
+        "options": [
+          "“And if you have not been true in your care of...”",
+          "“And he said, You take care to seem right...”",
+          "“Now there was a certain man of great wealth,...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“And if you have not been true in your care of...”",
+        "reference": "Luke 16:12",
+        "explanation": "Luke 16:12 records: 'And if you have not been true in your care of the property of other people, who will give you that which is yours?'."
+      },
+      {
+        "id": "luk-16-q6",
+        "questionNumber": 6,
+        "question": "What central message or instruction is delivered in Luke 16:15?",
+        "options": [
+          "“Everyone who puts away his wife and takes another,...”",
+          "“And he said, You take care to seem right in the...”",
+          "“And in time the poor man came to his...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“And he said, You take care to seem right in the...”",
+        "reference": "Luke 16:15",
+        "explanation": "Luke 16:15 records: 'And he said, You take care to seem right in the eyes of men, but God sees your hearts: and those things which are important in the opinion of men, are evil in the eyes of God.'."
+      },
+      {
+        "id": "luk-16-q7",
+        "questionNumber": 7,
+        "question": "What detail regarding God's work, covenant, or people is given in Luke 16:18?",
+        "options": [
+          "“Desiring the broken bits of food which came from...”",
+          "“But Abraham said, Keep in mind, my son, that...”",
+          "“Everyone who puts away his wife and takes another, is a...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“Everyone who puts away his wife and takes another, is a...”",
+        "reference": "Luke 16:18",
+        "explanation": "Luke 16:18 records: 'Everyone who puts away his wife and takes another, is a false husband: and he who is married to a woman whose husband has put her away, is no true husband to her.'."
+      },
+      {
+        "id": "luk-16-q8",
+        "questionNumber": 8,
+        "question": "What phrase or account is recorded in Luke 16:21?",
+        "options": [
+          "“And he gave a cry and said, Father Abraham,...”",
+          "“For I have five brothers; and let him give...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“Desiring the broken bits of food which came from the table...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“Desiring the broken bits of food which came from the table...”",
+        "reference": "Luke 16:21",
+        "explanation": "Luke 16:21 records: 'Desiring the broken bits of food which came from the table of the man of wealth; and even the dogs came and put their tongues on his wounds.'."
+      },
+      {
+        "id": "luk-16-q9",
+        "questionNumber": 9,
+        "question": "How does the passage describe the circumstances or people in Luke 16:24?",
+        "options": [
+          "“And he gave a cry and said, Father Abraham, have mercy...”",
+          "“And he said, Father, it is my request that...”",
+          "“And another time he said to the disciples, There...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“And he gave a cry and said, Father Abraham, have mercy...”",
+        "reference": "Luke 16:24",
+        "explanation": "Luke 16:24 records: 'And he gave a cry and said, Father Abraham, have mercy on me and send Lazarus, so that he may put the end of his finger in water and put it on my tongue, for I am cruelly burning in this flame.'."
+      },
+      {
+        "id": "luk-16-q10",
+        "questionNumber": 10,
+        "question": "In the concluding portion of the chapter, what takes place in Luke 16:27?",
+        "options": [
+          "“And he said, No, father Abraham, but if someone...”",
+          "“And he said, Father, it is my request that you will...”",
+          "“And the servant said to himself, What am I...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“And he said, Father, it is my request that you will...”",
+        "reference": "Luke 16:27",
+        "explanation": "Luke 16:27 records: 'And he said, Father, it is my request that you will send him to my father's house;'."
+      }
+    ],
+    "17": [
+      {
+        "id": "luk-17-q1",
+        "questionNumber": 1,
+        "question": "According to Luke 17:1, what is the opening statement or setting of this chapter?",
+        "options": [
+          "It records: “And he said to his disciples, It is necessary for causes of troub...”",
+          "It begins with a prayer of thanksgiving for deliverance in Luke",
+          "It opens with a formal census and counting of the congregation",
+          "It records a severe judgment pronounced against neighboring nations"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "It records: “And he said to his disciples, It is necessary for causes of troub...”",
+        "reference": "Luke 17:1",
+        "explanation": "The chapter begins directly with the statement: 'And he said to his disciples, It is necessary for causes of trouble to come about, but unhappy is he by whom they come.'."
+      },
+      {
+        "id": "luk-17-q2",
+        "questionNumber": 2,
+        "question": "What key instruction, event, or declaration is set forth in Luke 17:3?",
+        "options": [
+          "“And the Lord said, If your faith was only...”",
+          "“Give attention to yourselves: if your brother does wrong, say a...”",
+          "“In the same way, when you have done all...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“Give attention to yourselves: if your brother does wrong, say a...”",
+        "reference": "Luke 17:3",
+        "explanation": "Luke 17:3 records: 'Give attention to yourselves: if your brother does wrong, say a sharp word to him; and if he has sorrow for his sin, let him have forgiveness.'."
+      },
+      {
+        "id": "luk-17-q3",
+        "questionNumber": 3,
+        "question": "What significant action or revelation occurs in Luke 17:6?",
+        "options": [
+          "“Does he give praise to the servant because he...”",
+          "“Said, in loud voices, Jesus, Master, have mercy on...”",
+          "“And the Lord said, If your faith was only as great...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“And the Lord said, If your faith was only as great...”",
+        "reference": "Luke 17:6",
+        "explanation": "Luke 17:6 records: 'And the Lord said, If your faith was only as great as a grain of mustard seed, you might say to this tree, Be rooted up and planted in the sea; and it would be done.'."
+      },
+      {
+        "id": "luk-17-q4",
+        "questionNumber": 4,
+        "question": "What truth or description is highlighted in Luke 17:9?",
+        "options": [
+          "“And when he went into a certain small town...”",
+          "“And, falling down on his face at the feet...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“Does he give praise to the servant because he did what...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“Does he give praise to the servant because he did what...”",
+        "reference": "Luke 17:9",
+        "explanation": "Luke 17:9 records: 'Does he give praise to the servant because he did what was ordered?'."
+      },
+      {
+        "id": "luk-17-q5",
+        "questionNumber": 5,
+        "question": "According to the text, what happened or was commanded in Luke 17:12?",
+        "options": [
+          "“And when he went into a certain small town he came...”",
+          "“And one of them, when he saw that he...”",
+          "“And he said to him, Get up, and go...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“And when he went into a certain small town he came...”",
+        "reference": "Luke 17:12",
+        "explanation": "Luke 17:12 records: 'And when he went into a certain small town he came across ten men who were lepers, and they, keeping themselves at a distance,'."
+      },
+      {
+        "id": "luk-17-q6",
+        "questionNumber": 6,
+        "question": "What central message or instruction is delivered in Luke 17:15?",
+        "options": [
+          "“Have not any of them come back to give...”",
+          "“And one of them, when he saw that he was clean,...”",
+          "“And he said to his disciples, The time will...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“And one of them, when he saw that he was clean,...”",
+        "reference": "Luke 17:15",
+        "explanation": "Luke 17:15 records: 'And one of them, when he saw that he was clean, turning back, gave praise to God in a loud voice;'."
+      },
+      {
+        "id": "luk-17-q7",
+        "questionNumber": 7,
+        "question": "What detail regarding God's work, covenant, or people is given in Luke 17:18?",
+        "options": [
+          "“And men will not say, See, it is here!...”",
+          "“But first, he will have to undergo much and...”",
+          "“Have not any of them come back to give glory to...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“Have not any of them come back to give glory to...”",
+        "reference": "Luke 17:18",
+        "explanation": "Luke 17:18 records: 'Have not any of them come back to give glory to God, but only this one from a strange land?'."
+      },
+      {
+        "id": "luk-17-q8",
+        "questionNumber": 8,
+        "question": "What phrase or account is recorded in Luke 17:21?",
+        "options": [
+          "“For as in a thunderstorm the bright light is...”",
+          "“In the same way, in the days of Lot;...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“And men will not say, See, it is here! or, There!...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“And men will not say, See, it is here! or, There!...”",
+        "reference": "Luke 17:21",
+        "explanation": "Luke 17:21 records: 'And men will not say, See, it is here! or, There! for the kingdom of God is among you.'."
+      },
+      {
+        "id": "luk-17-q9",
+        "questionNumber": 9,
+        "question": "How does the passage describe the circumstances or people in Luke 17:24?",
+        "options": [
+          "“For as in a thunderstorm the bright light is seen from...”",
+          "“They were feasting and taking wives and getting married,...”",
+          "“On that day, if anyone is on the roof...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“For as in a thunderstorm the bright light is seen from...”",
+        "reference": "Luke 17:24",
+        "explanation": "Luke 17:24 records: 'For as in a thunderstorm the bright light is seen from one end of the sky to the other, so will the Son of man be when his time comes.'."
+      },
+      {
+        "id": "luk-17-q10",
+        "questionNumber": 10,
+        "question": "In the concluding portion of the chapter, what takes place in Luke 17:27?",
+        "options": [
+          "“So will it be in the day of the...”",
+          "“They were feasting and taking wives and getting married, till the...”",
+          "“I say to you, In that night there will...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“They were feasting and taking wives and getting married, till the...”",
+        "reference": "Luke 17:27",
+        "explanation": "Luke 17:27 records: 'They were feasting and taking wives and getting married, till the day of the overflowing of the waters, when Noah went into the ark, and they all came to destruction.'."
+      }
+    ],
+    "18": [
+      {
+        "id": "luk-18-q1",
+        "questionNumber": 1,
+        "question": "According to Luke 18:1, what is the opening statement or setting of this chapter?",
+        "options": [
+          "It records: “And he made a story for them, the point of which was that men wer...”",
+          "It begins with a prayer of thanksgiving for deliverance in Luke",
+          "It opens with a formal census and counting of the congregation",
+          "It records a severe judgment pronounced against neighboring nations"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "It records: “And he made a story for them, the point of which was that men wer...”",
+        "reference": "Luke 18:1",
+        "explanation": "The chapter begins directly with the statement: 'And he made a story for them, the point of which was that men were to go on making prayer and not get tired;'."
+      },
+      {
+        "id": "luk-18-q2",
+        "questionNumber": 2,
+        "question": "What key instruction, event, or declaration is set forth in Luke 18:4?",
+        "options": [
+          "“And will not God do right in the cause...”",
+          "“And for a time he would not: but later, he said...”",
+          "“The Pharisee, taking up his position, said to himself...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“And for a time he would not: but later, he said...”",
+        "reference": "Luke 18:4",
+        "explanation": "Luke 18:4 records: 'And for a time he would not: but later, he said to himself, Though I have no fear of God or respect for man,'."
+      },
+      {
+        "id": "luk-18-q3",
+        "questionNumber": 3,
+        "question": "What significant action or revelation occurs in Luke 18:8?",
+        "options": [
+          "“The Pharisee, taking up his position, said to himself...”",
+          "“And they took their children to him, so that...”",
+          "“I say to you that he will quickly do right in...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“I say to you that he will quickly do right in...”",
+        "reference": "Luke 18:8",
+        "explanation": "Luke 18:8 records: 'I say to you that he will quickly do right in their cause. But when the Son of man comes, will there be any faith on earth?'."
+      },
+      {
+        "id": "luk-18-q4",
+        "questionNumber": 4,
+        "question": "What truth or description is highlighted in Luke 18:12?",
+        "options": [
+          "“And they took their children to him, so that...”",
+          "“And Jesus said to him, Why do you say...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“Twice in the week I go without food; I give a...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“Twice in the week I go without food; I give a...”",
+        "reference": "Luke 18:12",
+        "explanation": "Luke 18:12 records: 'Twice in the week I go without food; I give a tenth of all I have.'."
+      },
+      {
+        "id": "luk-18-q5",
+        "questionNumber": 5,
+        "question": "According to the text, what happened or was commanded in Luke 18:16?",
+        "options": [
+          "“But Jesus sent for them, saying, Let the children come to...”",
+          "“And Jesus said to him, Why do you say...”",
+          "“But at these words he became very sad, for...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“But Jesus sent for them, saying, Let the children come to...”",
+        "reference": "Luke 18:16",
+        "explanation": "Luke 18:16 records: 'But Jesus sent for them, saying, Let the children come to me, and do not keep them away, for of such is the kingdom of heaven.'."
+      },
+      {
+        "id": "luk-18-q6",
+        "questionNumber": 6,
+        "question": "What central message or instruction is delivered in Luke 18:20?",
+        "options": [
+          "“But at these words he became very sad, for...”",
+          "“You have knowledge of what the law says: Do not be...”",
+          "“But he said, Things which are not possible with...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“You have knowledge of what the law says: Do not be...”",
+        "reference": "Luke 18:20",
+        "explanation": "Luke 18:20 records: 'You have knowledge of what the law says: Do not be untrue to your wife, Do not put anyone to death, Do not take what is not yours, Do not give false witness, Give honour to your father and mother.'."
+      },
+      {
+        "id": "luk-18-q7",
+        "questionNumber": 7,
+        "question": "What detail regarding God's work, covenant, or people is given in Luke 18:24?",
+        "options": [
+          "“But he said, Things which are not possible with...”",
+          "“And he took with him the twelve and said...”",
+          "“And Jesus, looking at him, said, How hard it is for...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“And Jesus, looking at him, said, How hard it is for...”",
+        "reference": "Luke 18:24",
+        "explanation": "Luke 18:24 records: 'And Jesus, looking at him, said, How hard it is for those who have wealth to get into the kingdom of God!'."
+      },
+      {
+        "id": "luk-18-q8",
+        "questionNumber": 8,
+        "question": "What phrase or account is recorded in Luke 18:28?",
+        "options": [
+          "“And he took with him the twelve and said...”",
+          "“And it came about that when he got near...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“And Peter said, See, we have given up what is ours...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“And Peter said, See, we have given up what is ours...”",
+        "reference": "Luke 18:28",
+        "explanation": "Luke 18:28 records: 'And Peter said, See, we have given up what is ours to come after you.'."
+      },
+      {
+        "id": "luk-18-q9",
+        "questionNumber": 9,
+        "question": "How does the passage describe the circumstances or people in Luke 18:32?",
+        "options": [
+          "“For he will be given up to the Gentiles, and will...”",
+          "“And it came about that when he got near...”",
+          "“And those who were in front made protests and...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“For he will be given up to the Gentiles, and will...”",
+        "reference": "Luke 18:32",
+        "explanation": "Luke 18:32 records: 'For he will be given up to the Gentiles, and will be made sport of and put to shame:'."
+      },
+      {
+        "id": "luk-18-q10",
+        "questionNumber": 10,
+        "question": "In the concluding portion of the chapter, what takes place in Luke 18:36?",
+        "options": [
+          "“And those who were in front made protests and...”",
+          "“And hearing the sound of a great number of people going...”",
+          "“And he made a story for them, the point...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“And hearing the sound of a great number of people going...”",
+        "reference": "Luke 18:36",
+        "explanation": "Luke 18:36 records: 'And hearing the sound of a great number of people going by, he said, What is this?'."
+      }
+    ],
+    "19": [
+      {
+        "id": "luk-19-q1",
+        "questionNumber": 1,
+        "question": "According to Luke 19:1, what is the opening statement or setting of this chapter?",
+        "options": [
+          "It records: “And he went into Jericho, and when he was going through it,”",
+          "It begins with a prayer of thanksgiving for deliverance in Luke",
+          "It opens with a formal census and counting of the congregation",
+          "It records a severe judgment pronounced against neighboring nations"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "It records: “And he went into Jericho, and when he was going through it,”",
+        "reference": "Luke 19:1",
+        "explanation": "The chapter begins directly with the statement: 'And he went into Jericho, and when he was going through it,'."
+      },
+      {
+        "id": "luk-19-q2",
+        "questionNumber": 2,
+        "question": "What key instruction, event, or declaration is set forth in Luke 19:4?",
+        "options": [
+          "“And when they saw it, they were all angry,...”",
+          "“And he went quickly in front of them and got up...”",
+          "“And while they were giving ear to these words,...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“And he went quickly in front of them and got up...”",
+        "reference": "Luke 19:4",
+        "explanation": "Luke 19:4 records: 'And he went quickly in front of them and got up into a tree to see him, for he was going that way.'."
+      },
+      {
+        "id": "luk-19-q3",
+        "questionNumber": 3,
+        "question": "What significant action or revelation occurs in Luke 19:8?",
+        "options": [
+          "“And while they were giving ear to these words,...”",
+          "“And when he came back again, having got his...”",
+          "“And Zacchaeus, waiting before him, said to the Lord, See, Lord,...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“And Zacchaeus, waiting before him, said to the Lord, See, Lord,...”",
+        "reference": "Luke 19:8",
+        "explanation": "Luke 19:8 records: 'And Zacchaeus, waiting before him, said to the Lord, See, Lord, half of my goods I give to the poor, and if I have taken anything from anyone wrongly, I give him back four times as much.'."
+      },
+      {
+        "id": "luk-19-q4",
+        "questionNumber": 4,
+        "question": "What truth or description is highlighted in Luke 19:12?",
+        "options": [
+          "“And when he came back again, having got his...”",
+          "“And he said, You will be ruler over five...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“So he said, A certain man of high birth went into...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“So he said, A certain man of high birth went into...”",
+        "reference": "Luke 19:12",
+        "explanation": "Luke 19:12 records: 'So he said, A certain man of high birth went into a far-away country to get a kingdom for himself, and to come back.'."
+      },
+      {
+        "id": "luk-19-q5",
+        "questionNumber": 5,
+        "question": "According to the text, what happened or was commanded in Luke 19:16?",
+        "options": [
+          "“And the first came before him, saying, Lord, your pound has...”",
+          "“And he said, You will be ruler over five...”",
+          "“Why then did you not put my money in...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“And the first came before him, saying, Lord, your pound has...”",
+        "reference": "Luke 19:16",
+        "explanation": "Luke 19:16 records: 'And the first came before him, saying, Lord, your pound has made ten pounds.'."
+      },
+      {
+        "id": "luk-19-q6",
+        "questionNumber": 6,
+        "question": "What central message or instruction is delivered in Luke 19:20?",
+        "options": [
+          "“Why then did you not put my money in...”",
+          "“And another came, saying, Lord, here is your pound, which I...”",
+          "“And as for those who were against me, who...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“And another came, saying, Lord, here is your pound, which I...”",
+        "reference": "Luke 19:20",
+        "explanation": "Luke 19:20 records: 'And another came, saying, Lord, here is your pound, which I put away in a cloth;'."
+      },
+      {
+        "id": "luk-19-q7",
+        "questionNumber": 7,
+        "question": "What detail regarding God's work, covenant, or people is given in Luke 19:24?",
+        "options": [
+          "“And as for those who were against me, who...”",
+          "“And if anyone says to you, Why are you...”",
+          "“And he said to the others who were near, Take the...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“And he said to the others who were near, Take the...”",
+        "reference": "Luke 19:24",
+        "explanation": "Luke 19:24 records: 'And he said to the others who were near, Take the pound away from him, and give it to the man who has ten.'."
+      },
+      {
+        "id": "luk-19-q8",
+        "questionNumber": 8,
+        "question": "What phrase or account is recorded in Luke 19:28?",
+        "options": [
+          "“And if anyone says to you, Why are you...”",
+          "“And they took him to Jesus, and they put...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“And when he had said this, he went on in front...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“And when he had said this, he went on in front...”",
+        "reference": "Luke 19:28",
+        "explanation": "Luke 19:28 records: 'And when he had said this, he went on in front of them, going up to Jerusalem.'."
+      },
+      {
+        "id": "luk-19-q9",
+        "questionNumber": 9,
+        "question": "How does the passage describe the circumstances or people in Luke 19:32?",
+        "options": [
+          "“And those whom he sent went away, and it was as...”",
+          "“And they took him to Jesus, and they put...”",
+          "“And some of the Pharisees among the people said...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“And those whom he sent went away, and it was as...”",
+        "reference": "Luke 19:32",
+        "explanation": "Luke 19:32 records: 'And those whom he sent went away, and it was as he said.'."
+      },
+      {
+        "id": "luk-19-q10",
+        "questionNumber": 10,
+        "question": "In the concluding portion of the chapter, what takes place in Luke 19:36?",
+        "options": [
+          "“And some of the Pharisees among the people said...”",
+          "“And while he went on his way they put their clothing...”",
+          "“For the time will come when your attackers will...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“And while he went on his way they put their clothing...”",
+        "reference": "Luke 19:36",
+        "explanation": "Luke 19:36 records: 'And while he went on his way they put their clothing down on the road in front of him.'."
+      }
+    ],
+    "20": [
+      {
+        "id": "luk-20-q1",
+        "questionNumber": 1,
+        "question": "According to Luke 20:1, what is the opening statement or setting of this chapter?",
+        "options": [
+          "It records: “And it came about on one of those days, when he was teaching the ...”",
+          "It begins with a prayer of thanksgiving for deliverance in Luke",
+          "It opens with a formal census and counting of the congregation",
+          "It records a severe judgment pronounced against neighboring nations"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "It records: “And it came about on one of those days, when he was teaching the ...”",
+        "reference": "Luke 20:1",
+        "explanation": "The chapter begins directly with the statement: 'And it came about on one of those days, when he was teaching the people in the Temple and preaching the good news,'."
+      },
+      {
+        "id": "luk-20-q2",
+        "questionNumber": 2,
+        "question": "What key instruction, event, or declaration is set forth in Luke 20:4?",
+        "options": [
+          "“And they made answer that they had no idea...”",
+          "“The baptism of John, was it from heaven or of men?”",
+          "“And he sent another servant, and they gave blows...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“The baptism of John, was it from heaven or of men?”",
+        "reference": "Luke 20:4",
+        "explanation": "Luke 20:4 records: 'The baptism of John, was it from heaven or of men?'."
+      },
+      {
+        "id": "luk-20-q3",
+        "questionNumber": 3,
+        "question": "What significant action or revelation occurs in Luke 20:8?",
+        "options": [
+          "“And he sent another servant, and they gave blows...”",
+          "“And driving him out of the garden they put...”",
+          "“And Jesus said, And I will not make clear to you...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“And Jesus said, And I will not make clear to you...”",
+        "reference": "Luke 20:8",
+        "explanation": "Luke 20:8 records: 'And Jesus said, And I will not make clear to you by what authority I do these things.'."
+      },
+      {
+        "id": "luk-20-q4",
+        "questionNumber": 4,
+        "question": "What truth or description is highlighted in Luke 20:12?",
+        "options": [
+          "“And driving him out of the garden they put...”",
+          "“And the chief priests and the scribes made attempts...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“And he sent a third, and they gave him wounds and...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“And he sent a third, and they gave him wounds and...”",
+        "reference": "Luke 20:12",
+        "explanation": "Luke 20:12 records: 'And he sent a third, and they gave him wounds and put him out.'."
+      },
+      {
+        "id": "luk-20-q5",
+        "questionNumber": 5,
+        "question": "According to the text, what happened or was commanded in Luke 20:16?",
+        "options": [
+          "“He will come and put them to destruction and give the...”",
+          "“And the chief priests and the scribes made attempts...”",
+          "“But he saw through their trick and said to...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“He will come and put them to destruction and give the...”",
+        "reference": "Luke 20:16",
+        "explanation": "Luke 20:16 records: 'He will come and put them to destruction and give the garden to others. And when he said this, they said, May it not be so.'."
+      },
+      {
+        "id": "luk-20-q6",
+        "questionNumber": 6,
+        "question": "What central message or instruction is delivered in Luke 20:20?",
+        "options": [
+          "“But he saw through their trick and said to...”",
+          "“And they kept watch on him, and sent out secret representatives,...”",
+          "“And some of the Sadducees came to him, who...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“And they kept watch on him, and sent out secret representatives,...”",
+        "reference": "Luke 20:20",
+        "explanation": "Luke 20:20 records: 'And they kept watch on him, and sent out secret representatives, who were acting the part of good men, in order that they might get something from his words, on account of which they might give him up to the government and into the power of the ruler.'."
+      },
+      {
+        "id": "luk-20-q7",
+        "questionNumber": 7,
+        "question": "What detail regarding God's work, covenant, or people is given in Luke 20:24?",
+        "options": [
+          "“And some of the Sadducees came to him, who...”",
+          "“And the third took her; and in the same...”",
+          "“Let me see a penny. Whose image and name are on...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“Let me see a penny. Whose image and name are on...”",
+        "reference": "Luke 20:24",
+        "explanation": "Luke 20:24 records: 'Let me see a penny. Whose image and name are on it? And they said, Caesar's.'."
+      },
+      {
+        "id": "luk-20-q8",
+        "questionNumber": 8,
+        "question": "What phrase or account is recorded in Luke 20:28?",
+        "options": [
+          "“And the third took her; and in the same...”",
+          "“But those to whom is given the reward of...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“Master, Moses said that if a man's brother comes to his...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“Master, Moses said that if a man's brother comes to his...”",
+        "reference": "Luke 20:28",
+        "explanation": "Luke 20:28 records: 'Master, Moses said that if a man's brother comes to his end, having a wife, but no children, his brother is to take the wife, and get a family for his brother.'."
+      },
+      {
+        "id": "luk-20-q9",
+        "questionNumber": 9,
+        "question": "How does the passage describe the circumstances or people in Luke 20:32?",
+        "options": [
+          "“And last of all, the woman came to her end.”",
+          "“But those to whom is given the reward of...”",
+          "“And some of the scribes, in answer to this,...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“And last of all, the woman came to her end.”",
+        "reference": "Luke 20:32",
+        "explanation": "Luke 20:32 records: 'And last of all, the woman came to her end.'."
+      },
+      {
+        "id": "luk-20-q10",
+        "questionNumber": 10,
+        "question": "In the concluding portion of the chapter, what takes place in Luke 20:36?",
+        "options": [
+          "“And some of the scribes, in answer to this,...”",
+          "“And death has no more power over them, for they are...”",
+          "“Till I put under your feet all those who...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“And death has no more power over them, for they are...”",
+        "reference": "Luke 20:36",
+        "explanation": "Luke 20:36 records: 'And death has no more power over them, for they are equal to the angels, and are sons of God, being of those who will come back from the dead.'."
+      }
+    ],
+    "21": [
+      {
+        "id": "luk-21-q1",
+        "questionNumber": 1,
+        "question": "According to Luke 21:1, what is the opening statement or setting of this chapter?",
+        "options": [
+          "It records: “And looking up, he saw the men of wealth putting their offerings ...”",
+          "It begins with a prayer of thanksgiving for deliverance in Luke",
+          "It opens with a formal census and counting of the congregation",
+          "It records a severe judgment pronounced against neighboring nations"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "It records: “And looking up, he saw the men of wealth putting their offerings ...”",
+        "reference": "Luke 21:1",
+        "explanation": "The chapter begins directly with the statement: 'And looking up, he saw the men of wealth putting their offerings in the money-box.'."
+      },
+      {
+        "id": "luk-21-q2",
+        "questionNumber": 2,
+        "question": "What key instruction, event, or declaration is set forth in Luke 21:3?",
+        "options": [
+          "“As for these things which you see, the days...”",
+          "“And he said, Truly I say to you, This poor widow...”",
+          "“Then he said to them, Nation will be moved...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“And he said, Truly I say to you, This poor widow...”",
+        "reference": "Luke 21:3",
+        "explanation": "Luke 21:3 records: 'And he said, Truly I say to you, This poor widow has given more than all of them:'."
+      },
+      {
+        "id": "luk-21-q3",
+        "questionNumber": 3,
+        "question": "What significant action or revelation occurs in Luke 21:6?",
+        "options": [
+          "“And when news of wars and troubled times comes...”",
+          "“And it will be turned to a witness for...”",
+          "“As for these things which you see, the days will come...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“As for these things which you see, the days will come...”",
+        "reference": "Luke 21:6",
+        "explanation": "Luke 21:6 records: 'As for these things which you see, the days will come when not one stone will be resting on another, but all will be broken down.'."
+      },
+      {
+        "id": "luk-21-q4",
+        "questionNumber": 4,
+        "question": "What truth or description is highlighted in Luke 21:9?",
+        "options": [
+          "“But before all this, they will take you and...”",
+          "“But you will be given up even by your...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“And when news of wars and troubled times comes to your...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“And when news of wars and troubled times comes to your...”",
+        "reference": "Luke 21:9",
+        "explanation": "Luke 21:9 records: 'And when news of wars and troubled times comes to your ears, have no fear; for these things have to be, but the end will not be now.'."
+      },
+      {
+        "id": "luk-21-q5",
+        "questionNumber": 5,
+        "question": "According to the text, what happened or was commanded in Luke 21:12?",
+        "options": [
+          "“But before all this, they will take you and be very...”",
+          "“For I will give you words and wisdom, so...”",
+          "“By going through all these things, you will keep...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“But before all this, they will take you and be very...”",
+        "reference": "Luke 21:12",
+        "explanation": "Luke 21:12 records: 'But before all this, they will take you and be very cruel to you, giving you up to the Synagogues and to prisons, taking you before kings and rulers, because of my name.'."
+      },
+      {
+        "id": "luk-21-q6",
+        "questionNumber": 6,
+        "question": "What central message or instruction is delivered in Luke 21:15?",
+        "options": [
+          "“But not a hair of your head will come...”",
+          "“For I will give you words and wisdom, so that not...”",
+          "“For these are the days of punishment, in which...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“For I will give you words and wisdom, so that not...”",
+        "reference": "Luke 21:15",
+        "explanation": "Luke 21:15 records: 'For I will give you words and wisdom, so that not one of those who are against you will be able to get the better of you, or to put you in the wrong.'."
+      },
+      {
+        "id": "luk-21-q7",
+        "questionNumber": 7,
+        "question": "What detail regarding God's work, covenant, or people is given in Luke 21:18?",
+        "options": [
+          "“Then let those who are in Judaea go in...”",
+          "“And there will be signs in the sun and...”",
+          "“But not a hair of your head will come to destruction.”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“But not a hair of your head will come to destruction.”",
+        "reference": "Luke 21:18",
+        "explanation": "Luke 21:18 records: 'But not a hair of your head will come to destruction.'."
+      },
+      {
+        "id": "luk-21-q8",
+        "questionNumber": 8,
+        "question": "What phrase or account is recorded in Luke 21:21?",
+        "options": [
+          "“And they will be put to death with the...”",
+          "“But when these things come about, let your heads...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“Then let those who are in Judaea go in flight to...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“Then let those who are in Judaea go in flight to...”",
+        "reference": "Luke 21:21",
+        "explanation": "Luke 21:21 records: 'Then let those who are in Judaea go in flight to the mountains; and those who are in the middle of the town go out; and let not those who are in the country come in.'."
+      },
+      {
+        "id": "luk-21-q9",
+        "questionNumber": 9,
+        "question": "How does the passage describe the circumstances or people in Luke 21:24?",
+        "options": [
+          "“And they will be put to death with the sword, and...”",
+          "“And then they will see the Son of man...”",
+          "“In the same way, when you see these things...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“And they will be put to death with the sword, and...”",
+        "reference": "Luke 21:24",
+        "explanation": "Luke 21:24 records: 'And they will be put to death with the sword, and will be taken as prisoners into all the nations; and Jerusalem will be crushed under the feet of the Gentiles, till the times of the Gentiles are complete.'."
+      },
+      {
+        "id": "luk-21-q10",
+        "questionNumber": 10,
+        "question": "In the concluding portion of the chapter, what takes place in Luke 21:27?",
+        "options": [
+          "“When they put out their young leaves, you take...”",
+          "“And then they will see the Son of man coming in...”",
+          "“But give attention to yourselves, for fear that your...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“And then they will see the Son of man coming in...”",
+        "reference": "Luke 21:27",
+        "explanation": "Luke 21:27 records: 'And then they will see the Son of man coming in a cloud, with power and great glory.'."
+      }
+    ],
+    "22": [
+      {
+        "id": "luk-22-q1",
+        "questionNumber": 1,
+        "question": "According to Luke 22:1, what is the opening statement or setting of this chapter?",
+        "options": [
+          "It records: “Now the feast of unleavened bread was near, which is called the P...”",
+          "It begins with a prayer of thanksgiving for deliverance in Luke",
+          "It opens with a formal census and counting of the congregation",
+          "It records a severe judgment pronounced against neighboring nations"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "It records: “Now the feast of unleavened bread was near, which is called the P...”",
+        "reference": "Luke 22:1",
+        "explanation": "The chapter begins directly with the statement: 'Now the feast of unleavened bread was near, which is called the Passover.'."
+      },
+      {
+        "id": "luk-22-q2",
+        "questionNumber": 2,
+        "question": "What key instruction, event, or declaration is set forth in Luke 22:7?",
+        "options": [
+          "“And he said to them, When you go into...”",
+          "“And the day of unleavened bread came, when the Passover lamb...”",
+          "“And when the time had come, he took his...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“And the day of unleavened bread came, when the Passover lamb...”",
+        "reference": "Luke 22:7",
+        "explanation": "Luke 22:7 records: 'And the day of unleavened bread came, when the Passover lamb is put to death.'."
+      },
+      {
+        "id": "luk-22-q3",
+        "questionNumber": 3,
+        "question": "What significant action or revelation occurs in Luke 22:14?",
+        "options": [
+          "“And he took a cup and, having given praise,...”",
+          "“But the hand of him who is false to...”",
+          "“And when the time had come, he took his seat, and...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“And when the time had come, he took his seat, and...”",
+        "reference": "Luke 22:14",
+        "explanation": "Luke 22:14 records: 'And when the time had come, he took his seat, and the Apostles with him.'."
+      },
+      {
+        "id": "luk-22-q4",
+        "questionNumber": 4,
+        "question": "What truth or description is highlighted in Luke 22:21?",
+        "options": [
+          "“And there was an argument among them about which...”",
+          "“But you are those who have kept with me...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“But the hand of him who is false to me is...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“But the hand of him who is false to me is...”",
+        "reference": "Luke 22:21",
+        "explanation": "Luke 22:21 records: 'But the hand of him who is false to me is with me at the table.'."
+      },
+      {
+        "id": "luk-22-q5",
+        "questionNumber": 5,
+        "question": "According to the text, what happened or was commanded in Luke 22:28?",
+        "options": [
+          "“But you are those who have kept with me through my troubles;”",
+          "“Simon, Simon, Satan has made a request to have...”",
+          "“And he said to them, When I sent you...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“But you are those who have kept with me through my troubles;”",
+        "reference": "Luke 22:28",
+        "explanation": "Luke 22:28 records: 'But you are those who have kept with me through my troubles;'."
+      },
+      {
+        "id": "luk-22-q6",
+        "questionNumber": 6,
+        "question": "What central message or instruction is delivered in Luke 22:35?",
+        "options": [
+          "“And they said, Lord, here are two swords. And...”",
+          "“And he said to them, When I sent you out without...”",
+          "“Father, if it is your pleasure, take this cup...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“And he said to them, When I sent you out without...”",
+        "reference": "Luke 22:35",
+        "explanation": "Luke 22:35 records: 'And he said to them, When I sent you out without money or bag or shoes, were you in need of anything? And they said, Nothing.'."
+      },
+      {
+        "id": "luk-22-q7",
+        "questionNumber": 7,
+        "question": "What detail regarding God's work, covenant, or people is given in Luke 22:42?",
+        "options": [
+          "“And, getting up from prayer, he came to the...”",
+          "“And when those who were with him saw what...”",
+          "“Father, if it is your pleasure, take this cup from me:...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“Father, if it is your pleasure, take this cup from me:...”",
+        "reference": "Luke 22:42",
+        "explanation": "Luke 22:42 records: 'Father, if it is your pleasure, take this cup from me: but still, let your pleasure, not mine, be done.'."
+      },
+      {
+        "id": "luk-22-q8",
+        "questionNumber": 8,
+        "question": "What phrase or account is recorded in Luke 22:49?",
+        "options": [
+          "“And Jesus said to the chief priests and the...”",
+          "“And a certain woman-servant, seeing him in the light...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“And when those who were with him saw what was coming,...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“And when those who were with him saw what was coming,...”",
+        "reference": "Luke 22:49",
+        "explanation": "Luke 22:49 records: 'And when those who were with him saw what was coming, they said, Lord, may we not make use of our swords?'."
+      },
+      {
+        "id": "luk-22-q9",
+        "questionNumber": 9,
+        "question": "How does the passage describe the circumstances or people in Luke 22:56?",
+        "options": [
+          "“And a certain woman-servant, seeing him in the light of the...”",
+          "“And after about an hour, another man said, with...”",
+          "“And the men in whose hands Jesus was, made...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“And a certain woman-servant, seeing him in the light of the...”",
+        "reference": "Luke 22:56",
+        "explanation": "Luke 22:56 records: 'And a certain woman-servant, seeing him in the light of the fire, and looking at him with attention, said, This man was with him.'."
+      },
+      {
+        "id": "luk-22-q10",
+        "questionNumber": 10,
+        "question": "In the concluding portion of the chapter, what takes place in Luke 22:63?",
+        "options": [
+          "“And when it was day, the rulers of the...”",
+          "“And the men in whose hands Jesus was, made sport of...”",
+          "“And they all said, Are you then the Son...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“And the men in whose hands Jesus was, made sport of...”",
+        "reference": "Luke 22:63",
+        "explanation": "Luke 22:63 records: 'And the men in whose hands Jesus was, made sport of him and gave him blows.'."
+      }
+    ],
+    "23": [
+      {
+        "id": "luk-23-q1",
+        "questionNumber": 1,
+        "question": "According to Luke 23:1, what is the opening statement or setting of this chapter?",
+        "options": [
+          "It records: “And they all went and took him before Pilate.”",
+          "It begins with a prayer of thanksgiving for deliverance in Luke",
+          "It opens with a formal census and counting of the congregation",
+          "It records a severe judgment pronounced against neighboring nations"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "It records: “And they all went and took him before Pilate.”",
+        "reference": "Luke 23:1",
+        "explanation": "The chapter begins directly with the statement: 'And they all went and took him before Pilate.'."
+      },
+      {
+        "id": "luk-23-q2",
+        "questionNumber": 2,
+        "question": "What key instruction, event, or declaration is set forth in Luke 23:5?",
+        "options": [
+          "“Now when Herod saw Jesus he was very glad,...”",
+          "“But they became more violent than before, saying, He has made...”",
+          "“And that day Herod and Pilate became friends with...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“But they became more violent than before, saying, He has made...”",
+        "reference": "Luke 23:5",
+        "explanation": "Luke 23:5 records: 'But they became more violent than before, saying, He has made trouble among the people, teaching through all Judaea from Galilee to this place.'."
+      },
+      {
+        "id": "luk-23-q3",
+        "questionNumber": 3,
+        "question": "What significant action or revelation occurs in Luke 23:10?",
+        "options": [
+          "“And Pilate sent for the chief priests and the...”",
+          "“[]”",
+          "“And the chief priests and the scribes were there, making statements...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“And the chief priests and the scribes were there, making statements...”",
+        "reference": "Luke 23:10",
+        "explanation": "Luke 23:10 records: 'And the chief priests and the scribes were there, making statements against him violently.'."
+      },
+      {
+        "id": "luk-23-q4",
+        "questionNumber": 4,
+        "question": "What truth or description is highlighted in Luke 23:15?",
+        "options": [
+          "“But with loud voices they said all together, Put...”",
+          "“And he said to them a third time, Why,...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“And Herod is of the same opinion, for he has sent...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“And Herod is of the same opinion, for he has sent...”",
+        "reference": "Luke 23:15",
+        "explanation": "Luke 23:15 records: 'And Herod is of the same opinion, for he has sent him back to us; for, you see, he has done nothing for which I might put him to death.'."
+      },
+      {
+        "id": "luk-23-q5",
+        "questionNumber": 5,
+        "question": "According to the text, what happened or was commanded in Luke 23:20?",
+        "options": [
+          "“And Pilate again said to them that it was his desire...”",
+          "“But they went on crying out loudly, Let him...”",
+          "“And a great band of people went after him,...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“And Pilate again said to them that it was his desire...”",
+        "reference": "Luke 23:20",
+        "explanation": "Luke 23:20 records: 'And Pilate again said to them that it was his desire to let Jesus go free.'."
+      },
+      {
+        "id": "luk-23-q6",
+        "questionNumber": 6,
+        "question": "What central message or instruction is delivered in Luke 23:25?",
+        "options": [
+          "“But Jesus, turning to them, said, Daughters of Jerusalem,...”",
+          "“And in answer to their request, he let that man go...”",
+          "“And two others, evil-doers, were taken with him to...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“And in answer to their request, he let that man go...”",
+        "reference": "Luke 23:25",
+        "explanation": "Luke 23:25 records: 'And in answer to their request, he let that man go free who had been in prison for acting against the government and causing death, and Jesus he gave up to their pleasure.'."
+      },
+      {
+        "id": "luk-23-q7",
+        "questionNumber": 7,
+        "question": "What detail regarding God's work, covenant, or people is given in Luke 23:30?",
+        "options": [
+          "“And when they came to the place which is...”",
+          "“And saying, If you are the King of the...”",
+          "“And they will say to the mountains, Come down on us,...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“And they will say to the mountains, Come down on us,...”",
+        "reference": "Luke 23:30",
+        "explanation": "Luke 23:30 records: 'And they will say to the mountains, Come down on us, and to the hills, Be a cover over us.'."
+      },
+      {
+        "id": "luk-23-q8",
+        "questionNumber": 8,
+        "question": "What phrase or account is recorded in Luke 23:35?",
+        "options": [
+          "“And these words were put in writing over him,...”",
+          "“And he said, Jesus, keep me in mind when...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“And the people were looking on. And the rulers made sport...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“And the people were looking on. And the rulers made sport...”",
+        "reference": "Luke 23:35",
+        "explanation": "Luke 23:35 records: 'And the people were looking on. And the rulers made sport of him, saying, He was a saviour of others; let him do something for himself, if he is the Christ, the man of God's selection.'."
+      },
+      {
+        "id": "luk-23-q9",
+        "questionNumber": 9,
+        "question": "How does the passage describe the circumstances or people in Luke 23:40?",
+        "options": [
+          "“But the other, protesting, said, Have you no fear of God?...”",
+          "“And he said to him, Truly I say to...”",
+          "“And when the captain saw what was done, he...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“But the other, protesting, said, Have you no fear of God?...”",
+        "reference": "Luke 23:40",
+        "explanation": "Luke 23:40 records: 'But the other, protesting, said, Have you no fear of God? for you have a part in the same punishment,'."
+      },
+      {
+        "id": "luk-23-q10",
+        "questionNumber": 10,
+        "question": "In the concluding portion of the chapter, what takes place in Luke 23:45?",
+        "options": [
+          "“And all the people who had come together to...”",
+          "“The light of the sun went out, and the curtain in...”",
+          "“This man went to Pilate and made a request...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“The light of the sun went out, and the curtain in...”",
+        "reference": "Luke 23:45",
+        "explanation": "Luke 23:45 records: 'The light of the sun went out, and the curtain in the Temple was parted in two.'."
+      }
+    ],
+    "24": [
+      {
+        "id": "luk-24-q1",
+        "questionNumber": 1,
+        "question": "According to Luke 24:1, what is the opening statement or setting of this chapter?",
+        "options": [
+          "It records: “But on the first day of the week, at dawn, they came to the place...”",
+          "It begins with a prayer of thanksgiving for deliverance in Luke",
+          "It opens with a formal census and counting of the congregation",
+          "It records a severe judgment pronounced against neighboring nations"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "It records: “But on the first day of the week, at dawn, they came to the place...”",
+        "reference": "Luke 24:1",
+        "explanation": "The chapter begins directly with the statement: 'But on the first day of the week, at dawn, they came to the place where his body had been put, taking the spices which they had got ready.'."
+      },
+      {
+        "id": "luk-24-q2",
+        "questionNumber": 2,
+        "question": "What key instruction, event, or declaration is set forth in Luke 24:5?",
+        "options": [
+          "“And his words came back into their minds,”",
+          "“And while their faces were bent down to the earth in...”",
+          "“But Peter got up and went to the place...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“And while their faces were bent down to the earth in...”",
+        "reference": "Luke 24:5",
+        "explanation": "Luke 24:5 records: 'And while their faces were bent down to the earth in fear, these said to them, Why are you looking for the living among the dead?'."
+      },
+      {
+        "id": "luk-24-q3",
+        "questionNumber": 3,
+        "question": "What significant action or revelation occurs in Luke 24:10?",
+        "options": [
+          "“And then, two of them, on that very day,...”",
+          "“And he said to them, What are you talking...”",
+          "“Now they were Mary Magdalene, and Joanna, and Mary, the mother...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“Now they were Mary Magdalene, and Joanna, and Mary, the mother...”",
+        "reference": "Luke 24:10",
+        "explanation": "Luke 24:10 records: 'Now they were Mary Magdalene, and Joanna, and Mary, the mother of James: and the other women with them said these things to the Apostles.'."
+      },
+      {
+        "id": "luk-24-q4",
+        "questionNumber": 4,
+        "question": "What truth or description is highlighted in Luke 24:15?",
+        "options": [
+          "“Then stopping, and looking sadly at him, one of...”",
+          "“And certain women among us gave us cause for...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“And while they were talking and questioning together, Jesus himself came...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“And while they were talking and questioning together, Jesus himself came...”",
+        "reference": "Luke 24:15",
+        "explanation": "Luke 24:15 records: 'And while they were talking and questioning together, Jesus himself came near and went with them.'."
+      },
+      {
+        "id": "luk-24-q5",
+        "questionNumber": 5,
+        "question": "According to the text, what happened or was commanded in Luke 24:20?",
+        "options": [
+          "“And how the chief priests and our rulers gave him up...”",
+          "“And it was not there; then they came saying...”",
+          "“And he made clear to them all the things...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“And how the chief priests and our rulers gave him up...”",
+        "reference": "Luke 24:20",
+        "explanation": "Luke 24:20 records: 'And how the chief priests and our rulers gave him up to be put to death on the cross.'."
+      },
+      {
+        "id": "luk-24-q6",
+        "questionNumber": 6,
+        "question": "What central message or instruction is delivered in Luke 24:25?",
+        "options": [
+          "“And they came near the town to which they...”",
+          "“And he said, O foolish men! how slow you are to...”",
+          "“And they said to one another, Were not our...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“And he said, O foolish men! how slow you are to...”",
+        "reference": "Luke 24:25",
+        "explanation": "Luke 24:25 records: 'And he said, O foolish men! how slow you are to give belief to what the prophets have said.'."
+      },
+      {
+        "id": "luk-24-q7",
+        "questionNumber": 7,
+        "question": "What detail regarding God's work, covenant, or people is given in Luke 24:30?",
+        "options": [
+          "“And that very hour they got up and went...”",
+          "“But they were full of fear, being of the...”",
+          "“And when he was seated with them at table, he took...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 2,
+        "correctAnswer": "“And when he was seated with them at table, he took...”",
+        "reference": "Luke 24:30",
+        "explanation": "Luke 24:30 records: 'And when he was seated with them at table, he took the bread, and said words of blessing and, making division of it, he gave it to them.'."
+      },
+      {
+        "id": "luk-24-q8",
+        "questionNumber": 8,
+        "question": "What phrase or account is recorded in Luke 24:35?",
+        "options": [
+          "“And he said to them, Why are you troubled,...”",
+          "“And they gave him a bit of cooked fish.”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary",
+          "“And they gave an account of the things which had taken...”"
+        ],
+        "correctAnswerIndex": 3,
+        "correctAnswer": "“And they gave an account of the things which had taken...”",
+        "reference": "Luke 24:35",
+        "explanation": "Luke 24:35 records: 'And they gave an account of the things which had taken place on the way, and how, when he gave them bread, they had knowledge of him.'."
+      },
+      {
+        "id": "luk-24-q9",
+        "questionNumber": 9,
+        "question": "How does the passage describe the circumstances or people in Luke 24:40?",
+        "options": [
+          "“And when he had said this, he let them see his...”",
+          "“And before their eyes he took a meal.”",
+          "“And that teaching about a change of heart and...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 0,
+        "correctAnswer": "“And when he had said this, he let them see his...”",
+        "reference": "Luke 24:40",
+        "explanation": "Luke 24:40 records: 'And when he had said this, he let them see his hands and his feet.'."
+      },
+      {
+        "id": "luk-24-q10",
+        "questionNumber": 10,
+        "question": "In the concluding portion of the chapter, what takes place in Luke 24:45?",
+        "options": [
+          "“You are witnesses of these things.”",
+          "“Then he made the holy Writings clear to their minds.”",
+          "“And they gave him worship and went back to...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
+        ],
+        "correctAnswerIndex": 1,
+        "correctAnswer": "“Then he made the holy Writings clear to their minds.”",
+        "reference": "Luke 24:45",
+        "explanation": "Luke 24:45 records: 'Then he made the holy Writings clear to their minds.'."
+      }
+    ]
+  }
+}
