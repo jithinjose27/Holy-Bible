@@ -10,12 +10,11 @@ import {
   Check,
   Plus,
   Minus,
-  Quote,
-  Palette,
   BookOpen,
   ChevronDown,
   ChevronUp
 } from 'lucide-react';
+import kjvData from '../data/genesis_kjv_text.json';
 
 export default function BibleReader({
   chapterData,
@@ -33,7 +32,7 @@ export default function BibleReader({
   const verseRefs = useRef({});
   const [copiedVerse, setCopiedVerse] = useState(null);
   const [expandedVerses, setExpandedVerses] = useState({}); // { [verseNum]: boolean }
-  const [showOverview, setShowOverview] = useState(true);
+  const [showOverview, setShowOverview] = useState(false);
 
   // Reset expanded verses when changing chapter
   useEffect(() => {
@@ -74,18 +73,18 @@ export default function BibleReader({
     }));
   };
 
-  const handleCopyVerse = (verseNum, text) => {
-    const quote = `Genesis ${chapterData.chapter}:${verseNum} – “${text}” (EasyEnglish Bible Copyright © MissionAssist)`;
-    navigator.clipboard?.writeText(quote);
-    setCopiedVerse(verseNum);
-    setTimeout(() => setCopiedVerse(null), 2500);
+  // Retrieve exact KJV text for Genesis {chapter}:{verse} from WordProject dataset
+  const getKjvVerseText = (chapterNum, verseNum) => {
+    const chKey = String(chapterNum);
+    const vKey = String(verseNum);
+    return kjvData.chapters?.[chKey]?.[vKey] || null;
   };
 
-  // Find footnote for a verse if any
-  const getFootnoteForVerse = (vNum) => {
-    if (!chapterData.footnotes) return null;
-    const refPrefix = `${chapterData.chapter}:${vNum}`;
-    return chapterData.footnotes.find((fn) => fn.ref === refPrefix || fn.ref?.startsWith(refPrefix));
+  const handleCopyKjvVerse = (verseNum, text) => {
+    const quote = `Genesis ${chapterData.chapter}:${verseNum} – “${text}” (King James Version - KJV, WordProject)`;
+    navigator.clipboard?.writeText(quote);
+    setCopiedVerse(`kjv-${verseNum}`);
+    setTimeout(() => setCopiedVerse(null), 2500);
   };
 
   // Highlight color map
@@ -121,7 +120,7 @@ export default function BibleReader({
             <button
               onClick={() => onOpenStoryMode(chapterData.chapter)}
               className="group relative inline-flex items-center gap-2 px-4 py-2.5 rounded-xl bg-gradient-to-r from-purple-700 via-indigo-700 to-amber-700 hover:from-purple-800 hover:to-amber-800 text-white font-medium text-xs sm:text-sm shadow-md hover:shadow-lg transition-all transform hover:-translate-y-0.5 active:translate-y-0 cursor-pointer"
-              title="Open illustrated comic / manhwa story mode for Genesis"
+              title="Open photorealistic comic / manhwa story mode for Genesis"
             >
               <Sparkles className="w-4 h-4 text-amber-300 group-hover:rotate-12 transition-transform" />
               <span className="font-semibold tracking-wide">🎨 Read as Comic</span>
@@ -150,8 +149,9 @@ export default function BibleReader({
                 <strong className="font-sans font-semibold text-stone-900 dark:text-stone-100">Summary: </strong>
                 {chapterData.subtitle || `The narrative of Genesis Chapter ${chapterData.chapter}`}. Contains {chapterData.totalVerses} verses divided into {chapterData.sections.length} thematic sections.
               </p>
-              <p className="text-xs text-stone-500 dark:text-stone-400">
-                Tip: Click the <Quote className="w-3 h-3 inline text-amber-600" /> icon beside any verse to reveal its authorized original text, study notes, and color highlighting.
+              <p className="text-xs text-stone-500 dark:text-stone-400 font-sans">
+                💡 <strong className="font-semibold text-stone-700 dark:text-stone-300">Feature: </strong> 
+                Click the <Plus className="w-3 h-3 inline text-amber-700 dark:text-amber-400 font-bold" /> icon beside any verse number to reveal the corresponding <strong>King James Version (KJV)</strong> text from WordProject.
               </p>
             </div>
           )}
@@ -160,9 +160,9 @@ export default function BibleReader({
         {/* Translation Attribution Bar */}
         <div className="mt-4 pt-3 border-t border-stone-100 dark:border-stone-800/60 flex items-center justify-between text-xs text-stone-500 dark:text-stone-400">
           <div className="flex items-center gap-2">
-            <span>EasyEnglish Bible (EASY)</span>
+            <span>Main Translation: EasyEnglish Bible</span>
             <span>•</span>
-            <span>{chapterData.totalVerses} Verses</span>
+            <span>Expandable: King James Version (KJV)</span>
           </div>
           <a
             href={chapterData.sourceUrl || `https://www.easyenglish.bible/bible/easy/genesis/${chapterData.chapter}/`}
@@ -176,7 +176,7 @@ export default function BibleReader({
         </div>
       </div>
 
-      {/* Main Scripture Text Body with Collapsible Original Verse Controls */}
+      {/* Main Scripture Text Body with Collapsible KJV Verse Controls */}
       <div className={`space-y-6 font-serif-bible ${fontSizeClass} leading-relaxed text-stone-800 dark:text-stone-200`}>
         {chapterData.sections.map((section, sIdx) => (
           <section key={sIdx} className="space-y-4">
@@ -213,7 +213,7 @@ export default function BibleReader({
                               : ''
                           }`}
                         >
-                          {/* Verse Number & Collapsible Original Text Control */}
+                          {/* Verse Number & Collapsible KJV Control */}
                           {!verseItem.isContinuation && (
                             <span className="inline-flex items-center gap-0.5 select-none align-baseline mr-1.5">
                               {/* Clickable Verse Number (Bookmark Toggle) */}
@@ -229,13 +229,13 @@ export default function BibleReader({
                                 {vNum}
                               </button>
 
-                              {/* Unobtrusive Collapsible Original Verse Control Icon */}
+                              {/* Unobtrusive Collapsible KJV Control Icon */}
                               <button
                                 onClick={() => toggleVerseExpand(vNum)}
-                                aria-label={isExpanded ? `Hide original text for Genesis ${chapterData.chapter}:${vNum}` : `Show original text for Genesis ${chapterData.chapter}:${vNum}`}
-                                title={isExpanded ? "Hide original verse text" : "Reveal original EasyEnglish verse text and study notes"}
+                                aria-label={isExpanded ? `Hide KJV text for Genesis ${chapterData.chapter}:${vNum}` : `Show KJV text for Genesis ${chapterData.chapter}:${vNum}`}
+                                title={isExpanded ? "Hide King James Version text" : "Click to view exact King James Version (KJV) verse text from WordProject"}
                                 className={`p-0.5 rounded transition cursor-pointer text-stone-400 hover:text-amber-800 dark:hover:text-amber-300 ${
-                                  isExpanded ? 'text-amber-700 dark:text-amber-400 bg-amber-100 dark:bg-amber-950/60' : 'hover:bg-stone-200/60 dark:hover:bg-stone-800'
+                                  isExpanded ? 'text-amber-800 dark:text-amber-300 bg-amber-200/70 dark:bg-amber-950 font-bold' : 'hover:bg-stone-200/60 dark:hover:bg-stone-800'
                                 }`}
                               >
                                 {isExpanded ? (
@@ -247,61 +247,70 @@ export default function BibleReader({
                             </span>
                           )}
 
-                          {/* Verse Text */}
+                          {/* Verse Text in Main Translation (EasyEnglish) */}
                           <span>{verseItem.text} </span>
                         </span>
                       );
                     })}
                   </p>
 
-                  {/* Inline Expandable Original Verse Sections */}
+                  {/* Inline Expandable King James Version (KJV) Sections */}
                   {paragraph.map((verseItem) => {
                     const vNum = verseItem.verse;
                     const isExpanded = expandedVerses[vNum];
                     if (!isExpanded) return null;
 
-                    const fn = getFootnoteForVerse(vNum);
+                    const kjvVerseText = getKjvVerseText(chapterData.chapter, vNum);
                     const hlKey = `${chapterData.chapter}-${vNum}`;
                     const currentHl = highlights?.[hlKey];
 
                     return (
                       <div 
                         key={`expand-${vNum}`}
-                        className="my-3 p-4 bg-amber-50/90 dark:bg-stone-900 border-l-4 border-amber-600 rounded-r-xl shadow-md space-y-3 font-sans text-xs sm:text-sm animate-fade-in"
+                        className="my-3 p-4 bg-amber-50/95 dark:bg-stone-900 border-l-4 border-amber-600 rounded-r-xl shadow-md space-y-3 font-sans text-xs sm:text-sm animate-fade-in"
                       >
+                        {/* Header clearly labeling translation as King James Version (KJV) */}
                         <div className="flex items-center justify-between border-b border-amber-200/60 dark:border-stone-800 pb-2">
                           <div className="flex items-center gap-2">
-                            <Quote className="w-4 h-4 text-amber-700 dark:text-amber-400" />
-                            <span className="font-bold text-amber-900 dark:text-amber-300">
-                              Genesis {chapterData.chapter}:{vNum} • Authorized EasyEnglish Text
+                            <BookOpen className="w-4 h-4 text-amber-700 dark:text-amber-400" />
+                            <span className="font-bold text-amber-950 dark:text-amber-300">
+                              King James Version (KJV) • Genesis {chapterData.chapter}:{vNum}
                             </span>
                           </div>
-                          <button
-                            onClick={() => toggleVerseExpand(vNum)}
-                            className="text-xs text-stone-400 hover:text-stone-700 dark:hover:text-stone-200"
-                          >
-                            Hide
-                          </button>
-                        </div>
-
-                        {/* Exact Original Verse Source Text */}
-                        <div className="p-3 bg-white dark:bg-stone-950 rounded-lg border border-amber-200/40 dark:border-stone-800">
-                          <p className="font-serif italic text-stone-900 dark:text-stone-100 leading-relaxed text-sm">
-                            “{verseItem.text}”
-                          </p>
-                        </div>
-
-                        {/* Associated Study Notes if available */}
-                        {fn && (
-                          <div className="p-2.5 bg-stone-100 dark:bg-stone-800/60 rounded-md text-xs text-stone-600 dark:text-stone-300 space-y-1">
-                            <span className="font-bold text-amber-700 dark:text-amber-400 flex items-center gap-1">
-                              <Info className="w-3.5 h-3.5" /> Note ({fn.ref}):
-                            </span>
-                            <p>{fn.text}</p>
+                          <div className="flex items-center gap-2">
+                            <a
+                              href={`https://www.wordproject.org/bibles/kj/01/${chapterData.chapter}.htm`}
+                              target="_blank"
+                              rel="noopener noreferrer"
+                              className="text-[11px] text-amber-700 dark:text-amber-400 hover:underline flex items-center gap-1 font-medium"
+                            >
+                              <span>WordProject source</span>
+                              <ExternalLink className="w-3 h-3" />
+                            </a>
+                            <button
+                              onClick={() => toggleVerseExpand(vNum)}
+                              className="text-xs text-stone-400 hover:text-stone-700 dark:hover:text-stone-200 ml-2"
+                              aria-label={`Collapse Genesis ${chapterData.chapter}:${vNum}`}
+                            >
+                              Collapse
+                            </button>
                           </div>
-                        )}
+                        </div>
 
-                        {/* Inline Actions: Highlighter & Copy */}
+                        {/* Exact KJV Scripture Text from WordProject */}
+                        <div className="p-3.5 bg-white dark:bg-stone-950 rounded-lg border border-amber-200/50 dark:border-stone-800">
+                          {kjvVerseText ? (
+                            <p className="font-serif italic text-stone-900 dark:text-stone-100 leading-relaxed text-sm sm:text-base">
+                              “{kjvVerseText}”
+                            </p>
+                          ) : (
+                            <p className="text-xs text-rose-500 italic">
+                              KJV verse text is currently unavailable for Genesis {chapterData.chapter}:{vNum}.
+                            </p>
+                          )}
+                        </div>
+
+                        {/* Translation Contrast & Copy Citation */}
                         <div className="flex flex-wrap items-center justify-between gap-3 pt-1 text-xs">
                           {/* Color Highlighter Palette */}
                           <div className="flex items-center gap-1.5">
@@ -329,23 +338,25 @@ export default function BibleReader({
                             )}
                           </div>
 
-                          {/* Copy Action */}
-                          <button
-                            onClick={() => handleCopyVerse(vNum, verseItem.text)}
-                            className="inline-flex items-center gap-1 px-2.5 py-1 rounded bg-stone-200/80 dark:bg-stone-800 hover:bg-stone-300 text-stone-700 dark:text-stone-300 transition font-medium"
-                          >
-                            {copiedVerse === vNum ? (
-                              <>
-                                <Check className="w-3.5 h-3.5 text-emerald-600" />
-                                <span>Copied!</span>
-                              </>
-                            ) : (
-                              <>
-                                <Share2 className="w-3.5 h-3.5" />
-                                <span>Copy Citation</span>
-                              </>
-                            )}
-                          </button>
+                          {/* Copy KJV Citation Action */}
+                          {kjvVerseText && (
+                            <button
+                              onClick={() => handleCopyKjvVerse(vNum, kjvVerseText)}
+                              className="inline-flex items-center gap-1 px-2.5 py-1 rounded bg-stone-200/80 dark:bg-stone-800 hover:bg-stone-300 text-stone-700 dark:text-stone-300 transition font-medium"
+                            >
+                              {copiedVerse === `kjv-${vNum}` ? (
+                                <>
+                                  <Check className="w-3.5 h-3.5 text-emerald-600" />
+                                  <span>Copied KJV!</span>
+                                </>
+                              ) : (
+                                <>
+                                  <Share2 className="w-3.5 h-3.5" />
+                                  <span>Copy KJV</span>
+                                </>
+                              )}
+                            </button>
+                          )}
                         </div>
                       </div>
                     );
@@ -357,7 +368,7 @@ export default function BibleReader({
         ))}
       </div>
 
-      {/* Chapter Footnotes / Study Notes section at bottom */}
+      {/* Chapter Footnotes section at bottom */}
       {chapterData.footnotes && chapterData.footnotes.length > 0 && (
         <div className="mt-12 p-5 bg-stone-100/70 dark:bg-stone-900/60 border border-stone-200 dark:border-stone-800 rounded-xl space-y-2 text-xs text-stone-600 dark:text-stone-400 font-sans">
           <div className="font-bold text-stone-800 dark:text-stone-200 flex items-center gap-1.5 uppercase tracking-wider text-[11px]">
@@ -406,9 +417,10 @@ export default function BibleReader({
         </button>
       </div>
 
-      {/* Official EasyEnglish Notice */}
-      <footer className="mt-8 text-center text-xs text-stone-500 dark:text-stone-400">
-        <p>Scripture quotations are from the EasyEnglish Bible Copyright © MissionAssist 2018, 2024. Used by permission.</p>
+      {/* Translation & Attribution Notice */}
+      <footer className="mt-8 text-center text-xs text-stone-500 dark:text-stone-400 space-y-1">
+        <p>Main Scripture quotations are from the EasyEnglish Bible Copyright © MissionAssist 2018, 2024. Used by permission.</p>
+        <p className="text-[11px] text-stone-400">Expandable verses are from the King James Version (KJV) sourced from WordProject (wordproject.org).</p>
       </footer>
     </article>
   );
