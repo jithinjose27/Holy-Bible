@@ -1,0 +1,1746 @@
+{
+  "version": "2.0.0",
+  "book": "Genesis",
+  "totalChapters": 50,
+  "totalPanels": 95,
+  "uniqueImageFiles": 95,
+  "uniqueImageHashes": 29,
+  "chapters": [
+    {
+      "chapter": 1,
+      "title": "Genesis 1: The Beginning",
+      "subtitle": "Creation of the Cosmos, Earth, and Life",
+      "totalPanels": 8,
+      "panels": [
+        {
+          "id": "gen-1-1",
+          "scene": 1,
+          "verses": "Genesis 1:1\u20132",
+          "event": "Cosmic waters in darkness with radiant Spirit of God hovering above the deep",
+          "characters": [
+            "Narrator"
+          ],
+          "image": "/assets/genesis/1/panel-1.jpg",
+          "imageSize": 339085,
+          "imageHash": "4bba36686ae1075db4c98d3d0d4014e1cf3299b73eacdef61b64b126d6e5dc87",
+          "dialogueCount": 0,
+          "narrationCount": 1
+        },
+        {
+          "id": "gen-1-2",
+          "scene": 2,
+          "verses": "Genesis 1:3\u20135",
+          "event": "Divine dawn breaking across the cosmic expanse, piercing through primeval darkness",
+          "characters": [
+            "Narrator"
+          ],
+          "image": "/assets/genesis/1/panel-2.jpg",
+          "imageSize": 304653,
+          "imageHash": "a0a5681544c440bafa1cdc03556b862a8cefad5110ec3d4ba8ebf89cb207517e",
+          "dialogueCount": 1,
+          "narrationCount": 1
+        },
+        {
+          "id": "gen-1-3",
+          "scene": 3,
+          "verses": "Genesis 1:6\u20138",
+          "event": "Atmospheric sky expanse parting cosmic waters with azure twilight horizons",
+          "characters": [
+            "Narrator"
+          ],
+          "image": "/assets/genesis/1/panel-3.jpg",
+          "imageSize": 100041,
+          "imageHash": "d6864ebceef569edec8ec3ec2596fe32e9f33c4a7a938d37518a696299dcbab8",
+          "dialogueCount": 1,
+          "narrationCount": 1
+        },
+        {
+          "id": "gen-1-4",
+          "scene": 4,
+          "verses": "Genesis 1:9\u201313",
+          "event": "Verdant emerald continents emerging from azure oceans with lush plants and blooming trees",
+          "characters": [
+            "Narrator"
+          ],
+          "image": "/assets/genesis/1/panel-4.jpg",
+          "imageSize": 258579,
+          "imageHash": "66dee6e5855629fdb31e9183328b3adc6445661ebe7f7d932c04d930979faf9d",
+          "dialogueCount": 1,
+          "narrationCount": 1
+        },
+        {
+          "id": "gen-1-5",
+          "scene": 5,
+          "verses": "Genesis 1:14\u201319",
+          "event": "Golden sun, silver moon, and swirling galaxies illuminating the celestial heavens",
+          "characters": [
+            "Narrator"
+          ],
+          "image": "/assets/genesis/1/panel-5.jpg",
+          "imageSize": 186673,
+          "imageHash": "aec55557b2dee85de29ffe2692b3e981617e68c15340fd50f3f2553fe260eff8",
+          "dialogueCount": 0,
+          "narrationCount": 1
+        },
+        {
+          "id": "gen-1-6",
+          "scene": 6,
+          "verses": "Genesis 1:20\u201323",
+          "event": "Whales and schools of fish leaping through sapphire waves while birds soar through clouds",
+          "characters": [
+            "Narrator"
+          ],
+          "image": "/assets/genesis/1/panel-6.jpg",
+          "imageSize": 327870,
+          "imageHash": "62f6c2ec9a067fae3cf132da7c6a16eb21488aaac308b2f13acc024750d6d0ca",
+          "dialogueCount": 0,
+          "narrationCount": 1
+        },
+        {
+          "id": "gen-1-7",
+          "scene": 7,
+          "verses": "Genesis 1:24\u201325",
+          "event": "Magnificent lions, deer, and creatures grazing peacefully across sunny plains",
+          "characters": [
+            "Narrator"
+          ],
+          "image": "/assets/genesis/1/panel-7.jpg",
+          "imageSize": 524203,
+          "imageHash": "d2801741fc28907c0900cd6ed490da9aae313aef74d7321c4f9728239cc874ff",
+          "dialogueCount": 0,
+          "narrationCount": 1
+        },
+        {
+          "id": "gen-1-8",
+          "scene": 8,
+          "verses": "Genesis 1:26\u201331",
+          "event": "Silhouettes of man and woman standing atop a sunlit ridge looking over the magnificent creation",
+          "characters": [
+            "Narrator"
+          ],
+          "image": "/assets/genesis/1/panel-8.jpg",
+          "imageSize": 339708,
+          "imageHash": "2dc16e23de66b7bd8c057265d70f2d341cd9bd4833feafdb744ea1b17f38f7a3",
+          "dialogueCount": 1,
+          "narrationCount": 1
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "title": "Genesis 2: The Garden of Eden & The First Union",
+      "subtitle": "The Sabbath rest, the formation of Adam, the planting of Eden, and the creation of woman",
+      "totalPanels": 8,
+      "panels": [
+        {
+          "id": "genesis-02-scene-01",
+          "scene": 1,
+          "verses": "Genesis 2:1\u20133",
+          "event": "The Seventh Day of Rest & Blessing of the Sabbath",
+          "characters": [
+            "Finished Creation",
+            "Divine Presence"
+          ],
+          "image": "/assets/genesis/2/panel-1.jpg",
+          "imageSize": 202472,
+          "imageHash": "f555f9fa636201b50b7df03d7b843d87a31c236f82b938521ca748c79946dbeb",
+          "dialogueCount": 0,
+          "narrationCount": 1
+        },
+        {
+          "id": "genesis-02-scene-02",
+          "scene": 2,
+          "verses": "Genesis 2:4\u20137",
+          "event": "The Formation of Man from the Dust of the Earth",
+          "characters": [
+            "Adam"
+          ],
+          "image": "/assets/genesis/2/panel-2.jpg",
+          "imageSize": 997182,
+          "imageHash": "6556796ac4beee81a1fde1247a4e8b0edb26f79e91d728cc91c746586c5fbf0b",
+          "dialogueCount": 0,
+          "narrationCount": 1
+        },
+        {
+          "id": "genesis-02-scene-03",
+          "scene": 3,
+          "verses": "Genesis 2:8\u201314",
+          "event": "The Planting of Eden and the Four Rivers",
+          "characters": [
+            "Adam"
+          ],
+          "image": "/assets/genesis/2/panel-3.jpg",
+          "imageSize": 956958,
+          "imageHash": "ea4af5a0f72038eef587224a3e21bd0c2cc3dd378dd4bf6535a0b448b9362328",
+          "dialogueCount": 0,
+          "narrationCount": 1
+        },
+        {
+          "id": "genesis-02-scene-04",
+          "scene": 4,
+          "verses": "Genesis 2:15\u201317",
+          "event": "The Stewardship Commission & Divine Commandment",
+          "characters": [
+            "Adam",
+            "The Lord God"
+          ],
+          "image": "/assets/genesis/2/panel-4.jpg",
+          "imageSize": 229246,
+          "imageHash": "7e8318dd7a4cc84ed36a8fe9322b26b11d96b826a4b63d4f41fb32545f4e9a70",
+          "dialogueCount": 1,
+          "narrationCount": 1
+        },
+        {
+          "id": "genesis-02-scene-05",
+          "scene": 5,
+          "verses": "Genesis 2:18\u201320",
+          "event": "Adam Naming the Animals (Adam visibly interacting with creatures)",
+          "characters": [
+            "Adam",
+            "Animals"
+          ],
+          "image": "/assets/genesis/2/panel-5.jpg",
+          "imageSize": 184344,
+          "imageHash": "11a634708563ed6b1cbf866f5fb9a82f1f7c2f8db166b50ad66c3bb1960397dd",
+          "dialogueCount": 1,
+          "narrationCount": 1
+        },
+        {
+          "id": "genesis-02-scene-06",
+          "scene": 6,
+          "verses": "Genesis 2:21\u201322",
+          "event": "The Deep Sleep of Adam & Creation of the Woman",
+          "characters": [
+            "Adam",
+            "The Woman"
+          ],
+          "image": "/assets/genesis/2/panel-6.jpg",
+          "imageSize": 555068,
+          "imageHash": "397775381bd0cbe7f25e2312b0ef014ed05290384012fd6b28c1e0deb43b9c06",
+          "dialogueCount": 0,
+          "narrationCount": 1
+        },
+        {
+          "id": "genesis-02-scene-07",
+          "scene": 7,
+          "verses": "Genesis 2:23",
+          "event": "Adam Meets the Woman and Joyfully Speaks",
+          "characters": [
+            "Adam",
+            "The Woman"
+          ],
+          "image": "/assets/genesis/2/panel-7.jpg",
+          "imageSize": 286510,
+          "imageHash": "e90ffdc9ad6f94e203033689ae5494612a1dd211256ab8337f2c92244155fdd1",
+          "dialogueCount": 1,
+          "narrationCount": 1
+        },
+        {
+          "id": "genesis-02-scene-08",
+          "scene": 8,
+          "verses": "Genesis 2:24\u201325",
+          "event": "The Covenant of Marriage & Innocent Harmony in Eden",
+          "characters": [
+            "Adam",
+            "The Woman (Eve)"
+          ],
+          "image": "/assets/genesis/2/panel-8.jpg",
+          "imageSize": 173250,
+          "imageHash": "7357e822354560052c956149eb586fdba61513d6f19c57ab1af985c6f930491b",
+          "dialogueCount": 0,
+          "narrationCount": 1
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "title": "Genesis 3: The Fall of Humanity",
+      "subtitle": "The Serpent's Deception and Expulsion from Paradise",
+      "totalPanels": 3,
+      "panels": [
+        {
+          "id": "gen-3-1",
+          "scene": 1,
+          "verses": "Genesis 3:1\u20136",
+          "event": "The mysterious serpent coiled around the Tree of Knowledge, whispering softly in the shadows",
+          "characters": [
+            "Narrator"
+          ],
+          "image": "/assets/genesis/3/panel-1.jpg",
+          "imageSize": 400942,
+          "imageHash": "b97d150198052848e86e7ff1f7b6a6541d34ebc965766442ee50c5b89f942e4b",
+          "dialogueCount": 0,
+          "narrationCount": 1
+        },
+        {
+          "id": "gen-3-2",
+          "scene": 2,
+          "verses": "Genesis 3:8\u201313",
+          "event": "Adam and Eve crouching in the shadows of tangled thickets under dramatic rays of divine light",
+          "characters": [
+            "Narrator"
+          ],
+          "image": "/assets/genesis/3/panel-2.jpg",
+          "imageSize": 258579,
+          "imageHash": "66dee6e5855629fdb31e9183328b3adc6445661ebe7f7d932c04d930979faf9d",
+          "dialogueCount": 1,
+          "narrationCount": 1
+        },
+        {
+          "id": "gen-3-3",
+          "scene": 3,
+          "verses": "Genesis 3:21\u201324",
+          "event": "The blazing fiery sword of the Cherubim guarding the golden gates of Eden as travelers journey east",
+          "characters": [
+            "Narrator"
+          ],
+          "image": "/assets/genesis/3/panel-3.jpg",
+          "imageSize": 304653,
+          "imageHash": "a0a5681544c440bafa1cdc03556b862a8cefad5110ec3d4ba8ebf89cb207517e",
+          "dialogueCount": 0,
+          "narrationCount": 1
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "title": "Genesis 4: Cain and Abel",
+      "subtitle": "The Two Offerings, Envy, and The First Murder",
+      "totalPanels": 2,
+      "panels": [
+        {
+          "id": "gen-4-1",
+          "scene": 1,
+          "verses": "Genesis 4:1\u20135",
+          "event": "Two stone altars: one offering smoking cleanly toward heaven, the other heavy with dark smoldering ash",
+          "characters": [
+            "Narrator"
+          ],
+          "image": "/assets/genesis/4/panel-1.jpg",
+          "imageSize": 181817,
+          "imageHash": "df4121ed3b54ecfa4df16c8eb6b747d3443b9ccf79b482b3ca9d2f13ff87ccc3",
+          "dialogueCount": 0,
+          "narrationCount": 1
+        },
+        {
+          "id": "gen-4-2",
+          "scene": 2,
+          "verses": "Genesis 4:8\u201312",
+          "event": "Cain standing alone in a barren windswept field under an ominous crimson sunset",
+          "characters": [
+            "Narrator"
+          ],
+          "image": "/assets/genesis/4/panel-2.jpg",
+          "imageSize": 365650,
+          "imageHash": "cabd41d15f7dd4a82b3015305eeb0787a36c80bdaa7efd693a898aa47a43025e",
+          "dialogueCount": 1,
+          "narrationCount": 1
+        }
+      ]
+    },
+    {
+      "chapter": 5,
+      "title": "Genesis 5: The Generations of Adam",
+      "subtitle": "The Genealogy of the Patriarchs and Enoch Who Walked with God",
+      "totalPanels": 2,
+      "panels": [
+        {
+          "id": "gen-5-1",
+          "scene": 1,
+          "verses": "Genesis 5:21\u201324",
+          "event": "Enoch ascending peacefully along a glowing stairway of starlight into the celestial heights",
+          "characters": [
+            "Narrator"
+          ],
+          "image": "/assets/genesis/5/panel-1.jpg",
+          "imageSize": 304653,
+          "imageHash": "a0a5681544c440bafa1cdc03556b862a8cefad5110ec3d4ba8ebf89cb207517e",
+          "dialogueCount": 0,
+          "narrationCount": 1
+        },
+        {
+          "id": "gen-5-2",
+          "scene": 2,
+          "verses": "Genesis 5:28\u201332",
+          "event": "Patriarch holding the newborn infant Noah against the backdrop of ancient timber forests",
+          "characters": [
+            "Narrator"
+          ],
+          "image": "/assets/genesis/5/panel-2.jpg",
+          "imageSize": 204607,
+          "imageHash": "db2e563163d4aed763038f0cee126f581138c69d0b856ba68e96d54caac1ff2d",
+          "dialogueCount": 0,
+          "narrationCount": 1
+        }
+      ]
+    },
+    {
+      "chapter": 6,
+      "title": "Genesis 6: The Ark of Noah",
+      "subtitle": "Human Wickedness and The Heavenly Blueprint",
+      "totalPanels": 2,
+      "panels": [
+        {
+          "id": "gen-6-1",
+          "scene": 1,
+          "verses": "Genesis 6:5\u20138",
+          "event": "Noah standing in contemplative prayer on a hillside as dark storm clouds gather on the horizon",
+          "characters": [
+            "Narrator"
+          ],
+          "image": "/assets/genesis/6/panel-1.jpg",
+          "imageSize": 250387,
+          "imageHash": "7bea29ba4dc6b1c50a1d439bd6467a9b3c95e750b76d7cf2219a21a7343190a2",
+          "dialogueCount": 0,
+          "narrationCount": 1
+        },
+        {
+          "id": "gen-6-2",
+          "scene": 2,
+          "verses": "Genesis 6:13\u201322",
+          "event": "The colossal wooden ribs of Noah's Ark rising against the forest hills under purposeful construction",
+          "characters": [
+            "Narrator"
+          ],
+          "image": "/assets/genesis/6/panel-2.jpg",
+          "imageSize": 258579,
+          "imageHash": "66dee6e5855629fdb31e9183328b3adc6445661ebe7f7d932c04d930979faf9d",
+          "dialogueCount": 1,
+          "narrationCount": 1
+        }
+      ]
+    },
+    {
+      "chapter": 7,
+      "title": "Genesis 7: The Great Deluge",
+      "subtitle": "The Fountains of the Deep Burst and Rain Floods the Earth",
+      "totalPanels": 2,
+      "panels": [
+        {
+          "id": "gen-7-1",
+          "scene": 1,
+          "verses": "Genesis 7:1\u201316",
+          "event": "Pairs of animals boarding the great ramp of the Ark as the heavy timber door seals shut",
+          "characters": [
+            "Narrator"
+          ],
+          "image": "/assets/genesis/7/panel-1.jpg",
+          "imageSize": 528206,
+          "imageHash": "ff236574b8322ba1b0dec172f9377bcab052c399151010d9fdb118aeb1a5316a",
+          "dialogueCount": 0,
+          "narrationCount": 1
+        },
+        {
+          "id": "gen-7-2",
+          "scene": 2,
+          "verses": "Genesis 7:17\u201324",
+          "event": "The Ark riding majestically atop churning ocean waves beneath torrential rain and lightning",
+          "characters": [
+            "Narrator"
+          ],
+          "image": "/assets/genesis/7/panel-2.jpg",
+          "imageSize": 339085,
+          "imageHash": "4bba36686ae1075db4c98d3d0d4014e1cf3299b73eacdef61b64b126d6e5dc87",
+          "dialogueCount": 0,
+          "narrationCount": 1
+        }
+      ]
+    },
+    {
+      "chapter": 8,
+      "title": "Genesis 8: The Waters Recede",
+      "subtitle": "The Raven, The Dove with the Olive Leaf, and The Altar",
+      "totalPanels": 2,
+      "panels": [
+        {
+          "id": "gen-8-1",
+          "scene": 1,
+          "verses": "Genesis 8:6\u201312",
+          "event": "A white dove with a green olive leaf flying toward Noah's hand at the Ark's window as sun rays pierce clouds",
+          "characters": [
+            "Narrator"
+          ],
+          "image": "/assets/genesis/8/panel-1.jpg",
+          "imageSize": 100041,
+          "imageHash": "d6864ebceef569edec8ec3ec2596fe32e9f33c4a7a938d37518a696299dcbab8",
+          "dialogueCount": 0,
+          "narrationCount": 1
+        },
+        {
+          "id": "gen-8-2",
+          "scene": 2,
+          "verses": "Genesis 8:18\u201322",
+          "event": "Noah and his family standing in reverence by a stone altar atop Mount Ararat as the waters gleam below",
+          "characters": [
+            "Narrator"
+          ],
+          "image": "/assets/genesis/8/panel-2.jpg",
+          "imageSize": 304653,
+          "imageHash": "a0a5681544c440bafa1cdc03556b862a8cefad5110ec3d4ba8ebf89cb207517e",
+          "dialogueCount": 1,
+          "narrationCount": 1
+        }
+      ]
+    },
+    {
+      "chapter": 9,
+      "title": "Genesis 9: The Rainbow Covenant",
+      "subtitle": "God's Everlasting Promise to Every Living Creature",
+      "totalPanels": 1,
+      "panels": [
+        {
+          "id": "gen-9-1",
+          "scene": 1,
+          "verses": "Genesis 9:11\u201317",
+          "event": "A luminous, vibrant double rainbow spanning across a golden post-flood mountain valley",
+          "characters": [
+            "Narrator"
+          ],
+          "image": "/assets/genesis/9/panel-1.jpg",
+          "imageSize": 159444,
+          "imageHash": "1bebc8d6c88778cc2aaa5930d28aa0e283b08268e93a21112812b7764d9abb2b",
+          "dialogueCount": 1,
+          "narrationCount": 1
+        }
+      ]
+    },
+    {
+      "chapter": 10,
+      "title": "Genesis 10: The Table of Nations",
+      "subtitle": "The Descendants of Shem, Ham, and Japheth",
+      "totalPanels": 1,
+      "panels": [
+        {
+          "id": "gen-10-1",
+          "scene": 1,
+          "verses": "Genesis 10:1\u201332",
+          "event": "An ancient parchment map showing sea routes and migrations across the Mediterranean and Euphrates",
+          "characters": [
+            "Narrator"
+          ],
+          "image": "/assets/genesis/10/panel-1.jpg",
+          "imageSize": 163355,
+          "imageHash": "e9f29153e5aea1f8d6b43c8f81508aad9359d0300caea67a4ba39af47c1b4116",
+          "dialogueCount": 0,
+          "narrationCount": 1
+        }
+      ]
+    },
+    {
+      "chapter": 11,
+      "title": "Genesis 11: The Tower of Babel",
+      "subtitle": "Human Ambition and The Confusion of Tongues",
+      "totalPanels": 2,
+      "panels": [
+        {
+          "id": "gen-11-1",
+          "scene": 1,
+          "verses": "Genesis 11:1\u20134",
+          "event": "The monumental spiraling ziggurat tower rising into the clouds amidst bustling workers and kilns",
+          "characters": [
+            "Narrator"
+          ],
+          "image": "/assets/genesis/11/panel-1.jpg",
+          "imageSize": 154475,
+          "imageHash": "960339e143f81b16ab4be8af0f120a62f30ca3fd6cc45567260c72b56024da0c",
+          "dialogueCount": 0,
+          "narrationCount": 1
+        },
+        {
+          "id": "gen-11-2",
+          "scene": 2,
+          "verses": "Genesis 11:5\u20139",
+          "event": "Scattered caravans and peoples departing in different directions away from the unfinished tower at sunset",
+          "characters": [
+            "Narrator"
+          ],
+          "image": "/assets/genesis/11/panel-2.jpg",
+          "imageSize": 365650,
+          "imageHash": "cabd41d15f7dd4a82b3015305eeb0787a36c80bdaa7efd693a898aa47a43025e",
+          "dialogueCount": 0,
+          "narrationCount": 1
+        }
+      ]
+    },
+    {
+      "chapter": 12,
+      "title": "Genesis 12: The Call of Abram",
+      "subtitle": "Go to the Land I Will Show You",
+      "totalPanels": 2,
+      "panels": [
+        {
+          "id": "gen-12-1",
+          "scene": 1,
+          "verses": "Genesis 12:1\u20134",
+          "event": "Abram holding his staff looking toward the open desert horizons as his caravan prepares to journey",
+          "characters": [
+            "Narrator"
+          ],
+          "image": "/assets/genesis/12/panel-1.jpg",
+          "imageSize": 365650,
+          "imageHash": "cabd41d15f7dd4a82b3015305eeb0787a36c80bdaa7efd693a898aa47a43025e",
+          "dialogueCount": 1,
+          "narrationCount": 1
+        },
+        {
+          "id": "gen-12-2",
+          "scene": 2,
+          "verses": "Genesis 12:6\u20138",
+          "event": "Abram kneeling in prayer by an altar of uncut stones beneath the majestic oak tree of Moreh",
+          "characters": [
+            "Narrator"
+          ],
+          "image": "/assets/genesis/12/panel-2.jpg",
+          "imageSize": 379266,
+          "imageHash": "9f918faa623a2e436070120a8fa01557d2e5a68f8b2e33bfb150eaf105499196",
+          "dialogueCount": 0,
+          "narrationCount": 1
+        }
+      ]
+    },
+    {
+      "chapter": 13,
+      "title": "Genesis 13: Abram and Lot Separate",
+      "subtitle": "Generosity in Canaan and The Plain of the Jordan",
+      "totalPanels": 2,
+      "panels": [
+        {
+          "id": "gen-13-1",
+          "scene": 1,
+          "verses": "Genesis 13:8\u201312",
+          "event": "Abram and Lot overlooking the rolling hills of Canaan and the lush green Jordan valley below",
+          "characters": [
+            "Narrator"
+          ],
+          "image": "/assets/genesis/13/panel-1.jpg",
+          "imageSize": 320791,
+          "imageHash": "8d6131f2d2561549c1091a38e279d7e156e538f2b60f086e74f63cbc7c525d26",
+          "dialogueCount": 0,
+          "narrationCount": 1
+        },
+        {
+          "id": "gen-13-2",
+          "scene": 2,
+          "verses": "Genesis 13:14\u201318",
+          "event": "Abram with arms outstretched on a windswept plateau gazing across the Promised Land at dusk",
+          "characters": [
+            "Narrator"
+          ],
+          "image": "/assets/genesis/13/panel-2.jpg",
+          "imageSize": 339708,
+          "imageHash": "2dc16e23de66b7bd8c057265d70f2d341cd9bd4833feafdb744ea1b17f38f7a3",
+          "dialogueCount": 1,
+          "narrationCount": 1
+        }
+      ]
+    },
+    {
+      "chapter": 14,
+      "title": "Genesis 14: Abram Rescues Lot",
+      "subtitle": "The War of Kings and The Blessing of Melchizedek",
+      "totalPanels": 2,
+      "panels": [
+        {
+          "id": "gen-14-1",
+          "scene": 1,
+          "verses": "Genesis 14:14\u201316",
+          "event": "Abram's warriors riding through the moonlit valley of Dan in swift nighttime pursuit",
+          "characters": [
+            "Narrator"
+          ],
+          "image": "/assets/genesis/14/panel-1.jpg",
+          "imageSize": 365650,
+          "imageHash": "cabd41d15f7dd4a82b3015305eeb0787a36c80bdaa7efd693a898aa47a43025e",
+          "dialogueCount": 0,
+          "narrationCount": 1
+        },
+        {
+          "id": "gen-14-2",
+          "scene": 2,
+          "verses": "Genesis 14:18\u201320",
+          "event": "Melchizedek in royal priestly robes offering bread and wine to Abram in the Valley of Shaveh",
+          "characters": [
+            "Narrator"
+          ],
+          "image": "/assets/genesis/14/panel-2.jpg",
+          "imageSize": 181817,
+          "imageHash": "df4121ed3b54ecfa4df16c8eb6b747d3443b9ccf79b482b3ca9d2f13ff87ccc3",
+          "dialogueCount": 0,
+          "narrationCount": 1
+        }
+      ]
+    },
+    {
+      "chapter": 15,
+      "title": "Genesis 15: The Covenant of Stars",
+      "subtitle": "Count the Stars if You Can: Abram's Faith",
+      "totalPanels": 2,
+      "panels": [
+        {
+          "id": "gen-15-1",
+          "scene": 1,
+          "verses": "Genesis 15:1\u20136",
+          "event": "Abram standing in awe beneath a spectacular canopy of countless glittering desert stars",
+          "characters": [
+            "Narrator"
+          ],
+          "image": "/assets/genesis/15/panel-1.jpg",
+          "imageSize": 186673,
+          "imageHash": "aec55557b2dee85de29ffe2692b3e981617e68c15340fd50f3f2553fe260eff8",
+          "dialogueCount": 1,
+          "narrationCount": 1
+        },
+        {
+          "id": "gen-15-2",
+          "scene": 2,
+          "verses": "Genesis 15:12\u201318",
+          "event": "A mysterious blazing torch of divine fire moving between the covenant offerings in the night",
+          "characters": [
+            "Narrator"
+          ],
+          "image": "/assets/genesis/15/panel-2.jpg",
+          "imageSize": 339085,
+          "imageHash": "4bba36686ae1075db4c98d3d0d4014e1cf3299b73eacdef61b64b126d6e5dc87",
+          "dialogueCount": 0,
+          "narrationCount": 1
+        }
+      ]
+    },
+    {
+      "chapter": 16,
+      "title": "Genesis 16: Hagar and The God Who Sees",
+      "subtitle": "The Spring in the Desert and Ishmael's Birth",
+      "totalPanels": 1,
+      "panels": [
+        {
+          "id": "gen-16-1",
+          "scene": 1,
+          "verses": "Genesis 16:7\u201314",
+          "event": "Hagar kneeling beside a shimmering desert oasis spring as divine light comforts her",
+          "characters": [
+            "Narrator"
+          ],
+          "image": "/assets/genesis/16/panel-1.jpg",
+          "imageSize": 388687,
+          "imageHash": "8629580fcc816ffae2dd83ca6cee67d2094534ea4eb9ab9822238f00c3d4e053",
+          "dialogueCount": 0,
+          "narrationCount": 1
+        }
+      ]
+    },
+    {
+      "chapter": 17,
+      "title": "Genesis 17: Abraham & The Covenant of Circumcision",
+      "subtitle": "Father of Many Nations and Sarah's Promise",
+      "totalPanels": 1,
+      "panels": [
+        {
+          "id": "gen-17-1",
+          "scene": 1,
+          "verses": "Genesis 17:1\u20138",
+          "event": "Abraham falling facedown in reverent worship before the radiant presence of God Almighty",
+          "characters": [
+            "Narrator"
+          ],
+          "image": "/assets/genesis/17/panel-1.jpg",
+          "imageSize": 186673,
+          "imageHash": "aec55557b2dee85de29ffe2692b3e981617e68c15340fd50f3f2553fe260eff8",
+          "dialogueCount": 0,
+          "narrationCount": 1
+        }
+      ]
+    },
+    {
+      "chapter": 18,
+      "title": "Genesis 18: Three Heavenly Visitors",
+      "subtitle": "Laughter, Hospitality, and Abraham's Plea for Sodom",
+      "totalPanels": 2,
+      "panels": [
+        {
+          "id": "gen-18-1",
+          "scene": 1,
+          "verses": "Genesis 18:1\u201310",
+          "event": "Abraham serving three radiant celestial travelers seated beneath the shade of the great terebinth tree",
+          "characters": [
+            "Narrator"
+          ],
+          "image": "/assets/genesis/18/panel-1.jpg",
+          "imageSize": 379266,
+          "imageHash": "9f918faa623a2e436070120a8fa01557d2e5a68f8b2e33bfb150eaf105499196",
+          "dialogueCount": 0,
+          "narrationCount": 1
+        },
+        {
+          "id": "gen-18-2",
+          "scene": 2,
+          "verses": "Genesis 18:23\u201333",
+          "event": "Abraham standing on the precipice overlooking the Jordan valley, interceding with intense reverence",
+          "characters": [
+            "Narrator"
+          ],
+          "image": "/assets/genesis/18/panel-2.jpg",
+          "imageSize": 304653,
+          "imageHash": "a0a5681544c440bafa1cdc03556b862a8cefad5110ec3d4ba8ebf89cb207517e",
+          "dialogueCount": 0,
+          "narrationCount": 1
+        }
+      ]
+    },
+    {
+      "chapter": 19,
+      "title": "Genesis 19: The Fall of Sodom",
+      "subtitle": "Angels at the Gate and The Morning of Judgment",
+      "totalPanels": 1,
+      "panels": [
+        {
+          "id": "gen-19-1",
+          "scene": 1,
+          "verses": "Genesis 19:15\u201326",
+          "event": "Sulfur and crimson lightning falling upon the distant plains of Sodom as Lot flees up the mountain",
+          "characters": [
+            "Narrator"
+          ],
+          "image": "/assets/genesis/19/panel-1.jpg",
+          "imageSize": 250387,
+          "imageHash": "7bea29ba4dc6b1c50a1d439bd6467a9b3c95e750b76d7cf2219a21a7343190a2",
+          "dialogueCount": 0,
+          "narrationCount": 1
+        }
+      ]
+    },
+    {
+      "chapter": 20,
+      "title": "Genesis 20: Abraham and Abimelech",
+      "subtitle": "Integrity of Heart and Intercession at Gerar",
+      "totalPanels": 1,
+      "panels": [
+        {
+          "id": "gen-20-1",
+          "scene": 1,
+          "verses": "Genesis 20:1\u201317",
+          "event": "King Abimelech waking from his dream in the royal palace court, addressing Abraham with gifts",
+          "characters": [
+            "Narrator"
+          ],
+          "image": "/assets/genesis/20/panel-1.jpg",
+          "imageSize": 204607,
+          "imageHash": "db2e563163d4aed763038f0cee126f581138c69d0b856ba68e96d54caac1ff2d",
+          "dialogueCount": 0,
+          "narrationCount": 1
+        }
+      ]
+    },
+    {
+      "chapter": 21,
+      "title": "Genesis 21: The Birth of Isaac",
+      "subtitle": "Laughter Fulfilled and The Well of Beersheba",
+      "totalPanels": 2,
+      "panels": [
+        {
+          "id": "gen-21-1",
+          "scene": 1,
+          "verses": "Genesis 21:1\u20137",
+          "event": "Sarah smiling with radiant joy holding her newborn baby boy Isaac beside Abraham's tent",
+          "characters": [
+            "Narrator"
+          ],
+          "image": "/assets/genesis/21/panel-1.jpg",
+          "imageSize": 181817,
+          "imageHash": "df4121ed3b54ecfa4df16c8eb6b747d3443b9ccf79b482b3ca9d2f13ff87ccc3",
+          "dialogueCount": 0,
+          "narrationCount": 1
+        },
+        {
+          "id": "gen-21-2",
+          "scene": 2,
+          "verses": "Genesis 21:14\u201319",
+          "event": "A crystal spring of water appearing in the parched desert dunes before Hagar and young Ishmael",
+          "characters": [
+            "Narrator"
+          ],
+          "image": "/assets/genesis/21/panel-2.jpg",
+          "imageSize": 365650,
+          "imageHash": "cabd41d15f7dd4a82b3015305eeb0787a36c80bdaa7efd693a898aa47a43025e",
+          "dialogueCount": 1,
+          "narrationCount": 1
+        }
+      ]
+    },
+    {
+      "chapter": 22,
+      "title": "Genesis 22: The Test on Mount Moriah",
+      "subtitle": "The Lord Will Provide (Jehovah Jireh)",
+      "totalPanels": 2,
+      "panels": [
+        {
+          "id": "gen-22-1",
+          "scene": 1,
+          "verses": "Genesis 22:1\u20138",
+          "event": "Abraham and young Isaac walking up the rugged path of Mount Moriah carrying the wood and fire",
+          "characters": [
+            "Narrator"
+          ],
+          "image": "/assets/genesis/22/panel-1.jpg",
+          "imageSize": 304653,
+          "imageHash": "a0a5681544c440bafa1cdc03556b862a8cefad5110ec3d4ba8ebf89cb207517e",
+          "dialogueCount": 0,
+          "narrationCount": 1
+        },
+        {
+          "id": "gen-22-2",
+          "scene": 2,
+          "verses": "Genesis 22:9\u201314",
+          "event": "The ram caught in the thorny bushes by the stone altar as golden light breaks over Mount Moriah",
+          "characters": [
+            "Narrator"
+          ],
+          "image": "/assets/genesis/22/panel-2.jpg",
+          "imageSize": 181817,
+          "imageHash": "df4121ed3b54ecfa4df16c8eb6b747d3443b9ccf79b482b3ca9d2f13ff87ccc3",
+          "dialogueCount": 0,
+          "narrationCount": 1
+        }
+      ]
+    },
+    {
+      "chapter": 23,
+      "title": "Genesis 23: The Cave of Machpelah",
+      "subtitle": "Sarah's Death and Abraham Purchases a Burial Ground",
+      "totalPanels": 1,
+      "panels": [
+        {
+          "id": "gen-23-1",
+          "scene": 1,
+          "verses": "Genesis 23:16\u201320",
+          "event": "The solemn ancient cave tomb of Machpelah nestled among aged olive trees in the hills of Hebron",
+          "characters": [
+            "Narrator"
+          ],
+          "image": "/assets/genesis/23/panel-1.jpg",
+          "imageSize": 379266,
+          "imageHash": "9f918faa623a2e436070120a8fa01557d2e5a68f8b2e33bfb150eaf105499196",
+          "dialogueCount": 0,
+          "narrationCount": 1
+        }
+      ]
+    },
+    {
+      "chapter": 24,
+      "title": "Genesis 24: A Wife for Isaac",
+      "subtitle": "The Servant's Prayer and Rebekah at the Well",
+      "totalPanels": 2,
+      "panels": [
+        {
+          "id": "gen-24-1",
+          "scene": 1,
+          "verses": "Genesis 24:12\u201321",
+          "event": "Rebekah pouring cool water from her clay jar into a stone trough for thirsty kneeling camels at sunset",
+          "characters": [
+            "Narrator"
+          ],
+          "image": "/assets/genesis/24/panel-1.jpg",
+          "imageSize": 339085,
+          "imageHash": "4bba36686ae1075db4c98d3d0d4014e1cf3299b73eacdef61b64b126d6e5dc87",
+          "dialogueCount": 0,
+          "narrationCount": 1
+        },
+        {
+          "id": "gen-24-2",
+          "scene": 2,
+          "verses": "Genesis 24:62\u201367",
+          "event": "Isaac walking across a golden wheat field at dusk meeting Rebekah's arriving caravan",
+          "characters": [
+            "Narrator"
+          ],
+          "image": "/assets/genesis/24/panel-2.jpg",
+          "imageSize": 181817,
+          "imageHash": "df4121ed3b54ecfa4df16c8eb6b747d3443b9ccf79b482b3ca9d2f13ff87ccc3",
+          "dialogueCount": 0,
+          "narrationCount": 1
+        }
+      ]
+    },
+    {
+      "chapter": 25,
+      "title": "Genesis 25: Jacob and Esau",
+      "subtitle": "Two Nations in the Womb and The Red Stew",
+      "totalPanels": 2,
+      "panels": [
+        {
+          "id": "gen-25-1",
+          "scene": 1,
+          "verses": "Genesis 25:21\u201326",
+          "event": "Rebekah praying by her desert tent beneath the constellations concerning the twin infants",
+          "characters": [
+            "Narrator"
+          ],
+          "image": "/assets/genesis/25/panel-1.jpg",
+          "imageSize": 186673,
+          "imageHash": "aec55557b2dee85de29ffe2692b3e981617e68c15340fd50f3f2553fe260eff8",
+          "dialogueCount": 0,
+          "narrationCount": 1
+        },
+        {
+          "id": "gen-25-2",
+          "scene": 2,
+          "verses": "Genesis 25:29\u201334",
+          "event": "Jacob stirring an earthenware pot of steaming red lentil stew by the tent fire as Esau throws down his bow",
+          "characters": [
+            "Narrator"
+          ],
+          "image": "/assets/genesis/25/panel-2.jpg",
+          "imageSize": 365650,
+          "imageHash": "cabd41d15f7dd4a82b3015305eeb0787a36c80bdaa7efd693a898aa47a43025e",
+          "dialogueCount": 0,
+          "narrationCount": 1
+        }
+      ]
+    },
+    {
+      "chapter": 26,
+      "title": "Genesis 26: Isaac in Gerar",
+      "subtitle": "Reopening the Wells of Abraham",
+      "totalPanels": 1,
+      "panels": [
+        {
+          "id": "gen-26-1",
+          "scene": 1,
+          "verses": "Genesis 26:22\u201325",
+          "event": "Isaac's servants drawing fresh overflowing water from the stone-rimmed well of Rehoboth",
+          "characters": [
+            "Narrator"
+          ],
+          "image": "/assets/genesis/26/panel-1.jpg",
+          "imageSize": 388687,
+          "imageHash": "8629580fcc816ffae2dd83ca6cee67d2094534ea4eb9ab9822238f00c3d4e053",
+          "dialogueCount": 0,
+          "narrationCount": 1
+        }
+      ]
+    },
+    {
+      "chapter": 27,
+      "title": "Genesis 27: The Stolen Blessing",
+      "subtitle": "Deception, Sorrow, and The Broken Brotherhood",
+      "totalPanels": 2,
+      "panels": [
+        {
+          "id": "gen-27-1",
+          "scene": 1,
+          "verses": "Genesis 27:18\u201329",
+          "event": "Blind elderly Isaac trembling in his bed touching the disguised goatskin hands of Jacob",
+          "characters": [
+            "Narrator"
+          ],
+          "image": "/assets/genesis/27/panel-1.jpg",
+          "imageSize": 181817,
+          "imageHash": "df4121ed3b54ecfa4df16c8eb6b747d3443b9ccf79b482b3ca9d2f13ff87ccc3",
+          "dialogueCount": 0,
+          "narrationCount": 1
+        },
+        {
+          "id": "gen-27-2",
+          "scene": 2,
+          "verses": "Genesis 27:34\u201341",
+          "event": "Esau kneeling in agonizing tears before Isaac holding his hunting spear",
+          "characters": [
+            "Narrator"
+          ],
+          "image": "/assets/genesis/27/panel-2.jpg",
+          "imageSize": 304653,
+          "imageHash": "a0a5681544c440bafa1cdc03556b862a8cefad5110ec3d4ba8ebf89cb207517e",
+          "dialogueCount": 0,
+          "narrationCount": 1
+        }
+      ]
+    },
+    {
+      "chapter": 28,
+      "title": "Genesis 28: Jacob's Ladder at Bethel",
+      "subtitle": "The Stairway to Heaven and The House of God",
+      "totalPanels": 2,
+      "panels": [
+        {
+          "id": "gen-28-1",
+          "scene": 1,
+          "verses": "Genesis 28:10\u201315",
+          "event": "A radiant celestial stairway of incandescent light connecting heaven and earth with descending luminous angels",
+          "characters": [
+            "Narrator"
+          ],
+          "image": "/assets/genesis/28/panel-1.jpg",
+          "imageSize": 250387,
+          "imageHash": "7bea29ba4dc6b1c50a1d439bd6467a9b3c95e750b76d7cf2219a21a7343190a2",
+          "dialogueCount": 1,
+          "narrationCount": 1
+        },
+        {
+          "id": "gen-28-2",
+          "scene": 2,
+          "verses": "Genesis 28:16\u201322",
+          "event": "Jacob setting up his stone pillow as a sacred pillar, pouring fragrant oil upon its top at sunrise",
+          "characters": [
+            "Narrator"
+          ],
+          "image": "/assets/genesis/28/panel-2.jpg",
+          "imageSize": 304653,
+          "imageHash": "a0a5681544c440bafa1cdc03556b862a8cefad5110ec3d4ba8ebf89cb207517e",
+          "dialogueCount": 0,
+          "narrationCount": 1
+        }
+      ]
+    },
+    {
+      "chapter": 29,
+      "title": "Genesis 29: Leah and Rachel",
+      "subtitle": "Arrival in Haran and The Seven Years of Love",
+      "totalPanels": 2,
+      "panels": [
+        {
+          "id": "gen-29-1",
+          "scene": 1,
+          "verses": "Genesis 29:9\u201312",
+          "event": "Jacob rolling the massive stone from the mouth of the well as young shepherdess Rachel watches with wonder",
+          "characters": [
+            "Narrator"
+          ],
+          "image": "/assets/genesis/29/panel-1.jpg",
+          "imageSize": 388687,
+          "imageHash": "8629580fcc816ffae2dd83ca6cee67d2094534ea4eb9ab9822238f00c3d4e053",
+          "dialogueCount": 0,
+          "narrationCount": 1
+        },
+        {
+          "id": "gen-29-2",
+          "scene": 2,
+          "verses": "Genesis 29:18\u201320",
+          "event": "Jacob tending sheep under sunlit pastures, gazing toward Rachel by the tents of Haran",
+          "characters": [
+            "Narrator"
+          ],
+          "image": "/assets/genesis/29/panel-2.jpg",
+          "imageSize": 181817,
+          "imageHash": "df4121ed3b54ecfa4df16c8eb6b747d3443b9ccf79b482b3ca9d2f13ff87ccc3",
+          "dialogueCount": 0,
+          "narrationCount": 1
+        }
+      ]
+    },
+    {
+      "chapter": 30,
+      "title": "Genesis 30: Jacob's Flocks Flourish",
+      "subtitle": "The Birth of the Tribes and The Spotted Sheep",
+      "totalPanels": 2,
+      "panels": [
+        {
+          "id": "gen-30-1",
+          "scene": 1,
+          "verses": "Genesis 30:22\u201324",
+          "event": "Rachel weeping with joy while cradling the newborn infant Joseph in her tent",
+          "characters": [
+            "Narrator"
+          ],
+          "image": "/assets/genesis/30/panel-1.jpg",
+          "imageSize": 204607,
+          "imageHash": "db2e563163d4aed763038f0cee126f581138c69d0b856ba68e96d54caac1ff2d",
+          "dialogueCount": 0,
+          "narrationCount": 1
+        },
+        {
+          "id": "gen-30-2",
+          "scene": 2,
+          "verses": "Genesis 30:37\u201343",
+          "event": "Vast herds of speckled and spotted sheep drinking by fresh mountain streams under Jacob's watchful eye",
+          "characters": [
+            "Narrator"
+          ],
+          "image": "/assets/genesis/30/panel-2.jpg",
+          "imageSize": 956958,
+          "imageHash": "ea4af5a0f72038eef587224a3e21bd0c2cc3dd378dd4bf6535a0b448b9362328",
+          "dialogueCount": 0,
+          "narrationCount": 1
+        }
+      ]
+    },
+    {
+      "chapter": 31,
+      "title": "Genesis 31: Jacob Flees from Laban",
+      "subtitle": "The Departure and Covenant at Galeed",
+      "totalPanels": 1,
+      "panels": [
+        {
+          "id": "gen-31-1",
+          "scene": 1,
+          "verses": "Genesis 31:44\u201354",
+          "event": "Jacob and Laban standing before a memorial cairn of stones atop the misty mountains of Gilead",
+          "characters": [
+            "Narrator"
+          ],
+          "image": "/assets/genesis/31/panel-1.jpg",
+          "imageSize": 304653,
+          "imageHash": "a0a5681544c440bafa1cdc03556b862a8cefad5110ec3d4ba8ebf89cb207517e",
+          "dialogueCount": 0,
+          "narrationCount": 1
+        }
+      ]
+    },
+    {
+      "chapter": 32,
+      "title": "Genesis 32: Jacob Wrestles at Peniel",
+      "subtitle": "A New Name: Israel \u2013 Striving with God and Prevailing",
+      "totalPanels": 1,
+      "panels": [
+        {
+          "id": "gen-32-1",
+          "scene": 1,
+          "verses": "Genesis 32:22\u201332",
+          "event": "Jacob locked in an intense, mystical wrestling embrace with the radiant Angel at the misty ford of the Jabbok",
+          "characters": [
+            "Narrator"
+          ],
+          "image": "/assets/genesis/32/panel-1.jpg",
+          "imageSize": 388687,
+          "imageHash": "8629580fcc816ffae2dd83ca6cee67d2094534ea4eb9ab9822238f00c3d4e053",
+          "dialogueCount": 0,
+          "narrationCount": 1
+        }
+      ]
+    },
+    {
+      "chapter": 33,
+      "title": "Genesis 33: Jacob and Esau Reconcile",
+      "subtitle": "The Brothers Embrace in Tears of Forgiveness",
+      "totalPanels": 1,
+      "panels": [
+        {
+          "id": "gen-33-1",
+          "scene": 1,
+          "verses": "Genesis 33:1\u20134",
+          "event": "Esau embracing Jacob in a warm emotional reunion on the sunny plains of Succoth with camps looking on",
+          "characters": [
+            "Narrator"
+          ],
+          "image": "/assets/genesis/33/panel-1.jpg",
+          "imageSize": 365650,
+          "imageHash": "cabd41d15f7dd4a82b3015305eeb0787a36c80bdaa7efd693a898aa47a43025e",
+          "dialogueCount": 0,
+          "narrationCount": 1
+        }
+      ]
+    },
+    {
+      "chapter": 34,
+      "title": "Genesis 34: The Dinah Incident at Shechem",
+      "subtitle": "Grief, Deceit, and Vengeance",
+      "totalPanels": 1,
+      "panels": [
+        {
+          "id": "gen-34-1",
+          "scene": 1,
+          "verses": "Genesis 34:25\u201331",
+          "event": "The fortified gates of ancient Shechem under a dark, brooding sky as Jacob's sons stand armed",
+          "characters": [
+            "Narrator"
+          ],
+          "image": "/assets/genesis/34/panel-1.jpg",
+          "imageSize": 154475,
+          "imageHash": "960339e143f81b16ab4be8af0f120a62f30ca3fd6cc45567260c72b56024da0c",
+          "dialogueCount": 0,
+          "narrationCount": 1
+        }
+      ]
+    },
+    {
+      "chapter": 35,
+      "title": "Genesis 35: Jacob Returns to Bethel",
+      "subtitle": "Purifying the Household and The Passing of Rachel",
+      "totalPanels": 2,
+      "panels": [
+        {
+          "id": "gen-35-1",
+          "scene": 1,
+          "verses": "Genesis 35:1\u201315",
+          "event": "Jacob standing before the restored altar of Bethel bathed in celestial divine rays",
+          "characters": [
+            "Narrator"
+          ],
+          "image": "/assets/genesis/35/panel-1.jpg",
+          "imageSize": 250387,
+          "imageHash": "7bea29ba4dc6b1c50a1d439bd6467a9b3c95e750b76d7cf2219a21a7343190a2",
+          "dialogueCount": 1,
+          "narrationCount": 1
+        },
+        {
+          "id": "gen-35-2",
+          "scene": 2,
+          "verses": "Genesis 35:16\u201320",
+          "event": "Jacob weeping beside the stone memorial pillar on the roadside to Bethlehem as dusk falls",
+          "characters": [
+            "Narrator"
+          ],
+          "image": "/assets/genesis/35/panel-2.jpg",
+          "imageSize": 339708,
+          "imageHash": "2dc16e23de66b7bd8c057265d70f2d341cd9bd4833feafdb744ea1b17f38f7a3",
+          "dialogueCount": 0,
+          "narrationCount": 1
+        }
+      ]
+    },
+    {
+      "chapter": 36,
+      "title": "Genesis 36: The Lineage of Esau",
+      "subtitle": "The Chiefs and Kings of the Land of Edom",
+      "totalPanels": 1,
+      "panels": [
+        {
+          "id": "gen-36-1",
+          "scene": 1,
+          "verses": "Genesis 36:1\u201343",
+          "event": "The towering red rock canyon cliffs of Mount Seir and ancient Edomite watchtowers at sunrise",
+          "characters": [
+            "Narrator"
+          ],
+          "image": "/assets/genesis/36/panel-1.jpg",
+          "imageSize": 365650,
+          "imageHash": "cabd41d15f7dd4a82b3015305eeb0787a36c80bdaa7efd693a898aa47a43025e",
+          "dialogueCount": 0,
+          "narrationCount": 1
+        }
+      ]
+    },
+    {
+      "chapter": 37,
+      "title": "Genesis 37: Joseph's Dreams and The Tunic",
+      "subtitle": "The Robe of Many Colors, The Pit, and Midianite Traders",
+      "totalPanels": 2,
+      "panels": [
+        {
+          "id": "gen-37-1",
+          "scene": 1,
+          "verses": "Genesis 37:1\u201311",
+          "event": "Young Joseph proudly wearing his magnificent flowing multi-colored tunic among the flocks of Hebron",
+          "characters": [
+            "Narrator"
+          ],
+          "image": "/assets/genesis/37/panel-1.jpg",
+          "imageSize": 181817,
+          "imageHash": "df4121ed3b54ecfa4df16c8eb6b747d3443b9ccf79b482b3ca9d2f13ff87ccc3",
+          "dialogueCount": 0,
+          "narrationCount": 1
+        },
+        {
+          "id": "gen-37-2",
+          "scene": 2,
+          "verses": "Genesis 37:23\u201328",
+          "event": "Joseph being pulled out of the dark stone cistern as the merchant camel caravan heads toward Egypt",
+          "characters": [
+            "Narrator"
+          ],
+          "image": "/assets/genesis/37/panel-2.jpg",
+          "imageSize": 365650,
+          "imageHash": "cabd41d15f7dd4a82b3015305eeb0787a36c80bdaa7efd693a898aa47a43025e",
+          "dialogueCount": 0,
+          "narrationCount": 1
+        }
+      ]
+    },
+    {
+      "chapter": 38,
+      "title": "Genesis 38: Judah and Tamar",
+      "subtitle": "Unfaithfulness, Righteousness, and The Messianic Line",
+      "totalPanels": 1,
+      "panels": [
+        {
+          "id": "gen-38-1",
+          "scene": 1,
+          "verses": "Genesis 38:24\u201330",
+          "event": "Judah holding his signet seal and walking staff in solemn realization before the elders of the town",
+          "characters": [
+            "Narrator"
+          ],
+          "image": "/assets/genesis/38/panel-1.jpg",
+          "imageSize": 181817,
+          "imageHash": "df4121ed3b54ecfa4df16c8eb6b747d3443b9ccf79b482b3ca9d2f13ff87ccc3",
+          "dialogueCount": 0,
+          "narrationCount": 1
+        }
+      ]
+    },
+    {
+      "chapter": 39,
+      "title": "Genesis 39: Joseph in Potiphar's House",
+      "subtitle": "Integrity in Temptation and Favor in the Prison",
+      "totalPanels": 2,
+      "panels": [
+        {
+          "id": "gen-39-1",
+          "scene": 1,
+          "verses": "Genesis 39:1\u20139",
+          "event": "Joseph fleeing the ornate Egyptian chamber, maintaining his purity of heart and faith in God",
+          "characters": [
+            "Narrator"
+          ],
+          "image": "/assets/genesis/39/panel-1.jpg",
+          "imageSize": 271576,
+          "imageHash": "a62510d6229e0efa80654ccd1cba72f3a9681921e89d07ec478f1bd770859e5e",
+          "dialogueCount": 0,
+          "narrationCount": 1
+        },
+        {
+          "id": "gen-39-2",
+          "scene": 2,
+          "verses": "Genesis 39:20\u201323",
+          "event": "Joseph comforting fellow prisoners in the torch-lit stone arches of the royal Egyptian dungeon",
+          "characters": [
+            "Narrator"
+          ],
+          "image": "/assets/genesis/39/panel-2.jpg",
+          "imageSize": 154475,
+          "imageHash": "960339e143f81b16ab4be8af0f120a62f30ca3fd6cc45567260c72b56024da0c",
+          "dialogueCount": 0,
+          "narrationCount": 1
+        }
+      ]
+    },
+    {
+      "chapter": 40,
+      "title": "Genesis 40: The Cupbearer and The Baker",
+      "subtitle": "Dreams in the Dungeon: Do Not Interpretations Belong to God?",
+      "totalPanels": 1,
+      "panels": [
+        {
+          "id": "gen-40-1",
+          "scene": 1,
+          "verses": "Genesis 40:1\u201323",
+          "event": "Joseph listening attentively to the two Egyptian officials by the flickering torchlight of the prison cell",
+          "characters": [
+            "Narrator"
+          ],
+          "image": "/assets/genesis/40/panel-1.jpg",
+          "imageSize": 154475,
+          "imageHash": "960339e143f81b16ab4be8af0f120a62f30ca3fd6cc45567260c72b56024da0c",
+          "dialogueCount": 0,
+          "narrationCount": 1
+        }
+      ]
+    },
+    {
+      "chapter": 41,
+      "title": "Genesis 41: Pharaoh's Dreams and Joseph's Exaltation",
+      "subtitle": "Seven Years of Plenty and The Vizier of All Egypt",
+      "totalPanels": 2,
+      "panels": [
+        {
+          "id": "gen-41-1",
+          "scene": 1,
+          "verses": "Genesis 41:14\u201336",
+          "event": "Clean-shaven Joseph in simple white linen standing before Pharaoh's golden throne beneath towering painted Egyptian pillars",
+          "characters": [
+            "Narrator"
+          ],
+          "image": "/assets/genesis/41/panel-1.jpg",
+          "imageSize": 271576,
+          "imageHash": "a62510d6229e0efa80654ccd1cba72f3a9681921e89d07ec478f1bd770859e5e",
+          "dialogueCount": 0,
+          "narrationCount": 1
+        },
+        {
+          "id": "gen-41-2",
+          "scene": 2,
+          "verses": "Genesis 41:39\u201345",
+          "event": "Joseph riding in the second royal chariot of Egypt clothed in gold and fine white linen while people bow before him",
+          "characters": [
+            "Narrator"
+          ],
+          "image": "/assets/genesis/41/panel-2.jpg",
+          "imageSize": 181817,
+          "imageHash": "df4121ed3b54ecfa4df16c8eb6b747d3443b9ccf79b482b3ca9d2f13ff87ccc3",
+          "dialogueCount": 0,
+          "narrationCount": 1
+        }
+      ]
+    },
+    {
+      "chapter": 42,
+      "title": "Genesis 42: The First Journey to Egypt",
+      "subtitle": "Brothers Bow Down: The First Test",
+      "totalPanels": 1,
+      "panels": [
+        {
+          "id": "gen-42-1",
+          "scene": 1,
+          "verses": "Genesis 42:6\u20139",
+          "event": "The ten Hebrew brothers prostrate with their foreheads to the stone floor before the regal Egyptian Vizier",
+          "characters": [
+            "Narrator"
+          ],
+          "image": "/assets/genesis/42/panel-1.jpg",
+          "imageSize": 271576,
+          "imageHash": "a62510d6229e0efa80654ccd1cba72f3a9681921e89d07ec478f1bd770859e5e",
+          "dialogueCount": 0,
+          "narrationCount": 1
+        }
+      ]
+    },
+    {
+      "chapter": 43,
+      "title": "Genesis 43: The Second Journey \u2013 Benjamin in Egypt",
+      "subtitle": "Judah's Guarantee and The Feast at Joseph's House",
+      "totalPanels": 1,
+      "panels": [
+        {
+          "id": "gen-43-1",
+          "scene": 1,
+          "verses": "Genesis 43:29\u201334",
+          "event": "Joseph holding back tears of love looking upon his young brother Benjamin seated at the banquet table",
+          "characters": [
+            "Narrator"
+          ],
+          "image": "/assets/genesis/43/panel-1.jpg",
+          "imageSize": 271576,
+          "imageHash": "a62510d6229e0efa80654ccd1cba72f3a9681921e89d07ec478f1bd770859e5e",
+          "dialogueCount": 0,
+          "narrationCount": 1
+        }
+      ]
+    },
+    {
+      "chapter": 44,
+      "title": "Genesis 44: The Silver Cup and Judah's Plea",
+      "subtitle": "The Final Test and The Sacrifice of Love",
+      "totalPanels": 2,
+      "panels": [
+        {
+          "id": "gen-44-1",
+          "scene": 1,
+          "verses": "Genesis 44:11\u201317",
+          "event": "The gleaming silver cup pulled from the mouth of Benjamin's sack as the brothers tear their garments in anguish",
+          "characters": [
+            "Narrator"
+          ],
+          "image": "/assets/genesis/44/panel-1.jpg",
+          "imageSize": 365650,
+          "imageHash": "cabd41d15f7dd4a82b3015305eeb0787a36c80bdaa7efd693a898aa47a43025e",
+          "dialogueCount": 0,
+          "narrationCount": 1
+        },
+        {
+          "id": "gen-44-2",
+          "scene": 2,
+          "verses": "Genesis 44:18\u201334",
+          "event": "Judah kneeling with intense earnestness before Joseph, offering his own freedom to save Benjamin and his father",
+          "characters": [
+            "Narrator"
+          ],
+          "image": "/assets/genesis/44/panel-2.jpg",
+          "imageSize": 271576,
+          "imageHash": "a62510d6229e0efa80654ccd1cba72f3a9681921e89d07ec478f1bd770859e5e",
+          "dialogueCount": 0,
+          "narrationCount": 1
+        }
+      ]
+    },
+    {
+      "chapter": 45,
+      "title": "Genesis 45: Joseph Reveals Himself",
+      "subtitle": "I Am Joseph! God Sent Me Ahead to Save Lives",
+      "totalPanels": 2,
+      "panels": [
+        {
+          "id": "gen-45-1",
+          "scene": 1,
+          "verses": "Genesis 45:1\u20138",
+          "event": "Joseph weeping openly with tears streaming down his face, reaching out both arms to his stunned brothers",
+          "characters": [
+            "Narrator"
+          ],
+          "image": "/assets/genesis/45/panel-1.jpg",
+          "imageSize": 271576,
+          "imageHash": "a62510d6229e0efa80654ccd1cba72f3a9681921e89d07ec478f1bd770859e5e",
+          "dialogueCount": 0,
+          "narrationCount": 1
+        },
+        {
+          "id": "gen-45-2",
+          "scene": 2,
+          "verses": "Genesis 45:14\u201328",
+          "event": "Joseph and all his brothers embracing in tears of reconciliation and joy in the palace hall",
+          "characters": [
+            "Narrator"
+          ],
+          "image": "/assets/genesis/45/panel-2.jpg",
+          "imageSize": 339708,
+          "imageHash": "2dc16e23de66b7bd8c057265d70f2d341cd9bd4833feafdb744ea1b17f38f7a3",
+          "dialogueCount": 0,
+          "narrationCount": 1
+        }
+      ]
+    },
+    {
+      "chapter": 46,
+      "title": "Genesis 46: Jacob Goes to Egypt",
+      "subtitle": "Do Not Be Afraid to Go Down to Egypt",
+      "totalPanels": 2,
+      "panels": [
+        {
+          "id": "gen-46-1",
+          "scene": 1,
+          "verses": "Genesis 46:1\u20134",
+          "event": "Aged Jacob offering sacrifices at the altar of Beersheba under the starlit canopy of the desert",
+          "characters": [
+            "Narrator"
+          ],
+          "image": "/assets/genesis/46/panel-1.jpg",
+          "imageSize": 186673,
+          "imageHash": "aec55557b2dee85de29ffe2692b3e981617e68c15340fd50f3f2553fe260eff8",
+          "dialogueCount": 1,
+          "narrationCount": 1
+        },
+        {
+          "id": "gen-46-2",
+          "scene": 2,
+          "verses": "Genesis 46:28\u201330",
+          "event": "Joseph stepping down from his royal chariot in Goshen, weeping on the neck of his elderly father Jacob",
+          "characters": [
+            "Narrator"
+          ],
+          "image": "/assets/genesis/46/panel-2.jpg",
+          "imageSize": 181817,
+          "imageHash": "df4121ed3b54ecfa4df16c8eb6b747d3443b9ccf79b482b3ca9d2f13ff87ccc3",
+          "dialogueCount": 0,
+          "narrationCount": 1
+        }
+      ]
+    },
+    {
+      "chapter": 47,
+      "title": "Genesis 47: The Land of Goshen and Famine Wisdom",
+      "subtitle": "Jacob Blesses Pharaoh and Sells Grain in Famine",
+      "totalPanels": 1,
+      "panels": [
+        {
+          "id": "gen-47-1",
+          "scene": 1,
+          "verses": "Genesis 47:7\u201310",
+          "event": "The venerable patriarch Jacob placing his hands in blessing upon the seated Pharaoh of Egypt",
+          "characters": [
+            "Narrator"
+          ],
+          "image": "/assets/genesis/47/panel-1.jpg",
+          "imageSize": 271576,
+          "imageHash": "a62510d6229e0efa80654ccd1cba72f3a9681921e89d07ec478f1bd770859e5e",
+          "dialogueCount": 0,
+          "narrationCount": 1
+        }
+      ]
+    },
+    {
+      "chapter": 48,
+      "title": "Genesis 48: Jacob Blesses Joseph's Sons",
+      "subtitle": "The Crossing of Hands: Ephraim and Manasseh",
+      "totalPanels": 1,
+      "panels": [
+        {
+          "id": "gen-48-1",
+          "scene": 1,
+          "verses": "Genesis 48:13\u201320",
+          "event": "Elderly Jacob with crossed arms resting his hands on the heads of young Ephraim and Manasseh",
+          "characters": [
+            "Narrator"
+          ],
+          "image": "/assets/genesis/48/panel-1.jpg",
+          "imageSize": 181817,
+          "imageHash": "df4121ed3b54ecfa4df16c8eb6b747d3443b9ccf79b482b3ca9d2f13ff87ccc3",
+          "dialogueCount": 0,
+          "narrationCount": 1
+        }
+      ]
+    },
+    {
+      "chapter": 49,
+      "title": "Genesis 49: Jacob's Prophetic Blessing",
+      "subtitle": "The Scepter of Judah and The Twelve Tribes of Israel",
+      "totalPanels": 2,
+      "panels": [
+        {
+          "id": "gen-49-1",
+          "scene": 1,
+          "verses": "Genesis 49:8\u201310",
+          "event": "The silhouette of a majestic royal lion of Judah standing proudly beneath a blazing sunset horizon",
+          "characters": [
+            "Narrator"
+          ],
+          "image": "/assets/genesis/49/panel-1.jpg",
+          "imageSize": 524203,
+          "imageHash": "d2801741fc28907c0900cd6ed490da9aae313aef74d7321c4f9728239cc874ff",
+          "dialogueCount": 0,
+          "narrationCount": 1
+        },
+        {
+          "id": "gen-49-2",
+          "scene": 2,
+          "verses": "Genesis 49:28\u201333",
+          "event": "The twelve sons of Israel standing in solemn, reverent silence around their father's resting place",
+          "characters": [
+            "Narrator"
+          ],
+          "image": "/assets/genesis/49/panel-2.jpg",
+          "imageSize": 339708,
+          "imageHash": "2dc16e23de66b7bd8c057265d70f2d341cd9bd4833feafdb744ea1b17f38f7a3",
+          "dialogueCount": 0,
+          "narrationCount": 1
+        }
+      ]
+    },
+    {
+      "chapter": 50,
+      "title": "Genesis 50: Forgiveness and Legacy",
+      "subtitle": "God Meant It for Good: The Conclusion of Genesis",
+      "totalPanels": 3,
+      "panels": [
+        {
+          "id": "gen-50-1",
+          "scene": 1,
+          "verses": "Genesis 50:1\u201314",
+          "event": "A grand, dignified funeral procession of chariots and riders winding through the hills of Canaan toward Machpelah",
+          "characters": [
+            "Narrator"
+          ],
+          "image": "/assets/genesis/50/panel-1.jpg",
+          "imageSize": 365650,
+          "imageHash": "cabd41d15f7dd4a82b3015305eeb0787a36c80bdaa7efd693a898aa47a43025e",
+          "dialogueCount": 0,
+          "narrationCount": 1
+        },
+        {
+          "id": "gen-50-2",
+          "scene": 2,
+          "verses": "Genesis 50:15\u201321",
+          "event": "Joseph gently lifting his kneeling brothers with eyes full of tears and forgiveness under warm palace arches",
+          "characters": [
+            "Narrator"
+          ],
+          "image": "/assets/genesis/50/panel-2.jpg",
+          "imageSize": 271576,
+          "imageHash": "a62510d6229e0efa80654ccd1cba72f3a9681921e89d07ec478f1bd770859e5e",
+          "dialogueCount": 0,
+          "narrationCount": 1
+        },
+        {
+          "id": "gen-50-3",
+          "scene": 3,
+          "verses": "Genesis 50:24\u201326",
+          "event": "The coffin of Joseph in Egypt overlooking the distant eastern horizon pointing toward the Promised Land",
+          "characters": [
+            "Narrator"
+          ],
+          "image": "/assets/genesis/50/panel-3.jpg",
+          "imageSize": 365650,
+          "imageHash": "cabd41d15f7dd4a82b3015305eeb0787a36c80bdaa7efd693a898aa47a43025e",
+          "dialogueCount": 0,
+          "narrationCount": 1
+        }
+      ]
+    }
+  ]
+}
