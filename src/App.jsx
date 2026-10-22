@@ -25,8 +25,15 @@ export default function App() {
 
   const [targetVerse, setTargetVerse] = useState(null);
 
-  // Persistent settings in localStorage
+  // Persistent settings in localStorage (with query param override support)
   const [theme, setTheme] = useState(() => {
+    try {
+      const urlParams = new URLSearchParams(window.location.search);
+      const themeParam = urlParams.get('theme');
+      if (themeParam && ['paper', 'sepia', 'dark', 'midnight'].includes(themeParam)) {
+        return themeParam;
+      }
+    } catch {}
     return localStorage.getItem('holy_bible_theme') || 'paper';
   });
   const [fontSize, setFontSize] = useState(() => {
@@ -80,10 +87,26 @@ export default function App() {
     localStorage.setItem('holy_bible_last_chapter', String(currentChapter));
   }, [currentChapter]);
 
-  // Sync settings with localStorage
+  // Sync settings with localStorage and document styling
   useEffect(() => {
     localStorage.setItem('holy_bible_theme', theme);
-    document.documentElement.className = theme === 'dark' || theme === 'midnight' ? 'dark' : '';
+    const isDark = theme === 'dark' || theme === 'midnight';
+    document.documentElement.className = isDark ? 'dark' : '';
+    const themeBg = {
+      paper: '#fbf9f5',
+      sepia: '#f4ecd8',
+      dark: '#1c1917',
+      midnight: '#0b0f19',
+    }[theme] || '#fbf9f5';
+    const themeColor = {
+      paper: '#1c1917',
+      sepia: '#291e10',
+      dark: '#f5f5f4',
+      midnight: '#f8fafc',
+    }[theme] || '#1c1917';
+    document.documentElement.style.backgroundColor = themeBg;
+    document.body.style.backgroundColor = themeBg;
+    document.body.style.color = themeColor;
   }, [theme]);
 
   useEffect(() => {
@@ -205,16 +228,16 @@ export default function App() {
     setTargetVerse(verseNum);
   };
 
-  // Font size classes
+  // Font size classes with optimal reading sizes (17-19px standard) and comfortable leading
   const fontSizeMap = {
-    small: 'text-sm sm:text-base',
-    medium: 'text-base sm:text-lg',
-    large: 'text-lg sm:text-xl',
-    xlarge: 'text-xl sm:text-2xl'
+    small: 'text-[15px] sm:text-[16px] leading-[1.75]',
+    medium: 'text-[17px] sm:text-[18px] md:text-[19px] leading-[1.8] sm:leading-[1.85]',
+    large: 'text-[19px] sm:text-[21px] leading-[1.85] sm:leading-[1.9]',
+    xlarge: 'text-[22px] sm:text-[24px] leading-[1.9]'
   };
 
   return (
-    <div className={`min-h-screen theme-${theme} transition-colors duration-200 flex flex-col pt-safe pb-safe pl-safe pr-safe`}>
+    <div className={`min-h-screen theme-${theme} ${theme === 'dark' || theme === 'midnight' ? 'dark' : ''} transition-colors duration-200 flex flex-col pt-safe pb-safe pl-safe pr-safe`}>
       {/* Top Navbar */}
       <Navbar
         currentBook="Genesis"
