@@ -172,6 +172,20 @@ export default function App() {
     };
   }, []);
 
+  // Handle scroll position deep linking (e.g. ?scrollY=800)
+  useEffect(() => {
+    try {
+      const urlParams = new URLSearchParams(window.location.search);
+      const scrollYParam = urlParams.get('scrollY');
+      if (scrollYParam) {
+        const offset = parseInt(scrollYParam, 10);
+        if (!isNaN(offset)) {
+          window.scrollTo({ top: offset, behavior: 'instant' });
+        }
+      }
+    } catch {}
+  }, [currentChapter]);
+
   // Chapter data retrieval
   const currentBibleChapter = bibleData.chapters.find((c) => c.chapter === currentChapter) || bibleData.chapters[0];
 
@@ -237,7 +251,7 @@ export default function App() {
   };
 
   return (
-    <div className={`min-h-screen theme-${theme} ${theme === 'dark' || theme === 'midnight' ? 'dark' : ''} transition-colors duration-200 flex flex-col pt-safe pb-safe pl-safe pr-safe`}>
+    <div className={`min-h-screen theme-${theme} ${theme === 'dark' || theme === 'midnight' ? 'dark' : ''} transition-colors duration-200 flex flex-col pt-safe pb-safe pl-safe pr-safe touch-pan-y`}>
       {/* Top Navbar */}
       <Navbar
         currentBook="Genesis"
@@ -260,7 +274,7 @@ export default function App() {
       />
 
       {/* Main View: Dedicated Bible Reader */}
-      <main className="flex-1">
+      <main className="flex-1 w-full touch-pan-y">
         <BibleReader
           chapterData={currentBibleChapter}
           onPrevChapter={handlePrevChapter}

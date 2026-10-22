@@ -6,7 +6,7 @@
  * KJV side-by-side verses, 500 chapter review questions, bookmarks, and search.
  */
 
-const CACHE_VERSION = 'holy-bible-v1.0.0';
+const CACHE_VERSION = 'holy-bible-v1.0.1';
 const STATIC_CACHE = `holy-bible-static-${CACHE_VERSION}`;
 const RUNTIME_CACHE = `holy-bible-runtime-${CACHE_VERSION}`;
 const FONT_CACHE = `holy-bible-fonts-v1`;
