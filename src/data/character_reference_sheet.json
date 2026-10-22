@@ -1,0 +1,123 @@
+{
+  "title": "Genesis Visual Art Direction & Character Reference Sheet",
+  "artStyle": "Full-colour Digital Manhwa & Webtoon Graphic Novel",
+  "palettePhilosophy": "Atmospheric, rich, warm cinematic lighting rooted in ancient Near Eastern landscapes, transitioning from primordial cosmic indigo/gold to lush fertile greens, terracotta desert sands, and regal Egyptian lapis and gold.",
+  "characters": [
+    {
+      "name": "Adam & Eve",
+      "role": "First Created Humanity",
+      "visualFeatures": "Formed in divine dignity. In Eden: luminous natural grace, serene expressions, no artificial clothing. Post-Fall: rough, durable garments of skin, sorrowful yet persevering countenances.",
+      "colorMotifs": ["#10b981", "#d97706", "#78350f"],
+      "keyChapters": [1, 2, 3, 4]
+    },
+    {
+      "name": "Noah",
+      "role": "The Righteous Builder & Covenant Keeper",
+      "visualFeatures": "Sturdy, patient patriarch with weathered sun-bronzed skin, silver-streaked dark beard, cedar-dusted working apron and wool tunic. Calm, steadfast eyes holding hope against gathering tempests.",
+      "colorMotifs": ["#475569", "#0284c7", "#78350f"],
+      "keyChapters": [5, 6, 7, 8, 9]
+    },
+    {
+      "name": "Abraham (Abram)",
+      "role": "Father of Faith & Covenant Patriarch",
+      "visualFeatures": "Dignified, commanding yet gentle elder. Flowing mantle of desert-spun linen with indigo trim, silver beard, walking staff of aged olive wood, eyes accustomed to gazing into the starry heavens.",
+      "colorMotifs": ["#1e1b4b", "#d97706", "#f59e0b"],
+      "keyChapters": [12, 13, 14, 15, 17, 18, 20, 21, 22, 23, 25]
+    },
+    {
+      "name": "Sarah (Sarai)",
+      "role": "Mother of Nations",
+      "visualFeatures": "Regal beauty and enduring grace; woven amber headveil framing warm, expressive eyes. In youth: radiant noble bearing; in elder years: laughter and deep warmth holding infant Isaac.",
+      "colorMotifs": ["#f59e0b", "#fef3c7", "#b45309"],
+      "keyChapters": [12, 16, 17, 18, 20, 21, 23]
+    },
+    {
+      "name": "Hagar & Ishmael",
+      "role": "Egyptian Maidservant & Desert Archer",
+      "visualFeatures": "Hagar: Egyptian linen wrap, dark braided hair, resilient eyes of survival. Ishmael: wild and free desert youth with bow and quiver at his side.",
+      "colorMotifs": ["#0d9488", "#b45309"],
+      "keyChapters": [16, 21, 25]
+    },
+    {
+      "name": "Isaac",
+      "role": "Son of Promise & Peaceful Patriarch",
+      "visualFeatures": "Contemplative, peaceful countenance; deep-thinking gaze. Earth-toned shepherd robes of ochre and unbleached wool. In elder years, blind yet reverent with trembling hands.",
+      "colorMotifs": ["#ca8a04", "#78350f", "#0284c7"],
+      "keyChapters": [21, 22, 24, 25, 26, 27, 35]
+    },
+    {
+      "name": "Rebekah",
+      "role": "Spirited Matriarch of the Well",
+      "visualFeatures": "Energetic, courageous, and decisive. Crimson-embroidered headscarf, terracotta water amphora on shoulder, silver nose ring and bracelets from Abraham's servant.",
+      "colorMotifs": ["#0284c7", "#e11d48", "#fde047"],
+      "keyChapters": [24, 25, 26, 27, 28]
+    },
+    {
+      "name": "Esau (Edom)",
+      "role": "The Hunter of the Open Field",
+      "visualFeatures": "Broad-shouldered, robust, and athletic. Thick auburn/red hair and beard, hairy arms, rugged hunting leathers, bow and quiver, intensely emotional temperament.",
+      "colorMotifs": ["#dc2626", "#9a3412", "#7f1d1d"],
+      "keyChapters": [25, 27, 32, 33, 36]
+    },
+    {
+      "name": "Jacob (Israel)",
+      "role": "The Wrestler with God & Father of the 12 Tribes",
+      "visualFeatures": "Sharp, intense amber eyes, dark hair; quiet shepherd's tunic in youth. After Peniel: distinguished by a limp and an aura of spiritual gravity, leaning on his staff.",
+      "colorMotifs": ["#3730a3", "#4338ca", "#059669"],
+      "keyChapters": [25, 27, 28, 29, 30, 31, 32, 33, 35, 37, 46, 47, 48, 49]
+    },
+    {
+      "name": "Rachel & Leah",
+      "role": "Mothers of the Tribes of Israel",
+      "visualFeatures": "Leah: soft, gentle eyes, patient demeanour, draped in woven blue-indigo shawls. Rachel: vibrant beauty, graceful shepherdess of her father's sheep, draped in rose-coral wraps.",
+      "colorMotifs": ["#db2777", "#2563eb", "#f43f5e"],
+      "keyChapters": [29, 30, 31, 35]
+    },
+    {
+      "name": "Joseph",
+      "role": "The Dreamer & Vizier of Egypt (Zaphenath-Paneah)",
+      "visualFeatures": "Youth: bright-eyed dreamer wearing an ankle-length tunic with ornate woven sleeves of multi-coloured silks (crimson, gold, lapis, emerald). Egypt: clean-shaven in royal Egyptian style, heavy gold Wesekh collar, royal signet ring, fine white royal linen shendyt, eyes holding deep compassion and hidden tears.",
+      "colorMotifs": ["#7c3aed", "#eab308", "#2563eb", "#ffffff"],
+      "keyChapters": [30, 37, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 50]
+    },
+    {
+      "name": "Judah",
+      "role": "The Leader & Lion of the Brethren",
+      "visualFeatures": "Fierce, commanding presence with strong jaw and determined stride. Carries a signet ring, cord, and carved oak staff. Undergoes profound transformation from callous seller of Joseph to selfless intercessor willing to become a slave for Benjamin.",
+      "colorMotifs": ["#b45309", "#991b1b", "#78350f"],
+      "keyChapters": [37, 38, 43, 44, 46, 49]
+    },
+    {
+      "name": "Benjamin",
+      "role": "The Beloved Youngest Brother",
+      "visualFeatures": "Youthful, gentle features resembling his late mother Rachel. Modest wool tunic, cherished closely by elderly father Jacob and protected fiercely by his older brothers in Egypt.",
+      "colorMotifs": ["#6366f1", "#a855f7"],
+      "keyChapters": [35, 42, 43, 44, 45]
+    }
+  ],
+  "environments": [
+    {
+      "name": "Garden of Eden",
+      "palette": "Emerald green, crystal turquoise, luminous gold, blooming magenta",
+      "features": "Tree of Life with golden fruit, four branching crystal rivers, lush non-decaying flora"
+    },
+    {
+      "name": "The High Seas of the Deluge",
+      "palette": "Deep sapphire, slate charcoal, midnight indigo, electric lightning white",
+      "features": "Massive three-deck pitch-coated cypress Ark cresting giant swells"
+    },
+    {
+      "name": "Ur of the Chaldees & Haran",
+      "palette": "Mudbrick terracotta, baked brick, river reeds, ancient Mesopotamian ziggurats"
+    },
+    {
+      "name": "The Hills of Canaan (Bethel, Hebron, Shechem)",
+      "palette": "Olive grove greens, limestone white, terraced vineyards, rocky crags, open skies"
+    },
+    {
+      "name": "Imperial Egypt & The Nile Valley",
+      "palette": "Limestone white, gold leaf, lapis lazuli, turquoise, papyrus reed green, Nile blue",
+      "features": "Colonnaded palaces, hieroglyphic frescoes, massive grain storehouses, fertile black-soil delta of Goshen"
+    }
+  ]
+}

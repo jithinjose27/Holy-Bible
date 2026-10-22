@@ -1,0 +1,109 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    font-family: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+  }
+}
+
+.font-serif-bible {
+  font-family: 'Lora', Georgia, 'Times New Roman', serif;
+}
+
+.font-cinzel {
+  font-family: 'Cinzel', Georgia, serif;
+}
+
+.font-comic {
+  font-family: 'Bangers', 'Impact', sans-serif;
+  letter-spacing: 0.05em;
+}
+
+/* Custom Reading Theme Backgrounds */
+.theme-paper {
+  background-color: #fbf9f5;
+  color: #292524;
+}
+
+.theme-sepia {
+  background-color: #f4ecd8;
+  color: #382c1e;
+}
+
+.theme-dark {
+  background-color: #1c1917;
+  color: #e7e5e4;
+}
+
+.theme-midnight {
+  background-color: #0b0f19;
+  color: #f1f5f9;
+}
+
+/* Manhwa Panel and Speech Bubble Styles */
+.speech-bubble {
+  position: relative;
+  background: #ffffff;
+  border: 2px solid #1e293b;
+  border-radius: 14px;
+  box-shadow: 3px 3px 0px rgba(15, 23, 42, 0.9);
+}
+
+.speech-bubble::after {
+  content: '';
+  position: absolute;
+  bottom: -10px;
+  left: 28px;
+  border-width: 10px 10px 0;
+  border-style: solid;
+  border-color: #ffffff transparent;
+  display: block;
+  width: 0;
+}
+
+.speech-bubble::before {
+  content: '';
+  position: absolute;
+  bottom: -13px;
+  left: 26px;
+  border-width: 12px 12px 0;
+  border-style: solid;
+  border-color: #1e293b transparent;
+  display: block;
+  width: 0;
+}
+
+.narration-box {
+  background: rgba(255, 251, 235, 0.96);
+  border-left: 4px solid #d97706;
+  border-top: 1px solid rgba(217, 119, 6, 0.3);
+  border-right: 1px solid rgba(217, 119, 6, 0.3);
+  border-bottom: 1px solid rgba(217, 119, 6, 0.3);
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.08);
+}
+
+.dark .narration-box,
+.manhwa-dark .narration-box {
+  background: rgba(15, 23, 42, 0.94);
+  border-left: 4px solid #f59e0b;
+  border-top: 1px solid rgba(255, 255, 255, 0.1);
+  border-right: 1px solid rgba(255, 255, 255, 0.1);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+  color: #f8fafc;
+}
+
+/* Custom Scrollbar for Manhwa Continuous Scroll */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: rgba(168, 162, 158, 0.5);
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(120, 113, 108, 0.8);
+}
