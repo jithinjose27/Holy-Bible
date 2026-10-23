@@ -1,2056 +1,1854 @@
 {
-  "translation": "EasyEnglish Bible",
-  "book": "Zechariah",
-  "bookId": "ZEC",
+  "id": "ZEC",
+  "name": "Zechariah",
+  "slug": "zechariah",
+  "translation": "EasyEnglish Bible (EASY)",
+  "publisher": "MissionAssist UK",
+  "referenceUrl": "https://www.easyenglish.bible/bible/easy/zechariah/",
   "totalChapters": 14,
-  "copyrightNotice": "Scripture quotations are from the EasyEnglish Bible / Bible in Basic English. Public Domain.",
-  "officialSourceUrl": "https://www.easyenglish.bible/bible/easy/zechariah/1/",
+  "totalVerses": 211,
   "chapters": [
     {
-      "book": "Zechariah",
       "chapter": 1,
       "title": "Zechariah 1",
-      "subtitle": "Zechariah Chapter 1",
+      "subtitle": "",
+      "totalVerses": 21,
+      "sourceUrl": "https://www.easyenglish.bible/bible/easy/zechariah/1/",
       "sections": [
         {
-          "heading": "Zechariah Chapter 1",
+          "heading": "Zechariah tells the people to turn back to God",
           "items": [
             [
               {
                 "verse": 1,
-                "text": "In the eighth month, in the second year of Darius, the word of the Lord came to Zechariah, the son of Berechiah, the son of Iddo the prophet, saying,"
-              },
+                "text": "The Lord gave his message to the prophet Zechariah in the second year that Darius ruled Persia as king. It happened in the eighth month of that year. Zechariah was the son of Berekiah and the grandson of Iddo."
+              }
+            ],
+            [
               {
                 "verse": 2,
-                "text": "The Lord has been very angry with your fathers:"
+                "text": "This was the Lord's message:"
+              }
+            ],
+            [
+              {
+                "verse": 2,
+                "text": "I, the Lord, was very angry with your ancestors."
               },
               {
                 "verse": 3,
-                "text": "And you are to say to them, These are the words of the Lord of armies: Come back to me, says the Lord of armies, and I will come back to you."
+                "text": "So you must say to the people, ‘The Lord Almighty says, “You must turn back to me, and I will return to you.” That is the message from the Lord Almighty."
               },
               {
                 "verse": 4,
-                "text": "Be not like your fathers, to whom the voice of the earlier prophets came, saying, Be turned now from your evil ways and from your evil doings: but they did not give ear to me or take note, says the Lord."
+                "text": "He says, “Do not be like your ancestors. Many years ago the prophets told them, ‘Stop doing those evil and wicked things.’ But they refused to obey me."
               }
             ],
             [
               {
                 "verse": 5,
-                "text": "Your fathers, where are they? and the prophets, do they go on living for ever?"
+                "text": "Your ancestors have been dead for a long time. Those prophets also are no longer alive."
               },
               {
                 "verse": 6,
-                "text": "But my words and my orders, which I gave to my servants the prophets, have they not overtaken your fathers? and turning back they said, As it was the purpose of the Lord of armies to do to us, in reward for our ways and our doings, so has he done."
-              },
+                "text": "But my commands and my laws which the prophets spoke to the people are still true. I punished your ancestors, as I had warned them. Then they turned back to me. They said, ‘The Lord Almighty has punished us as we deserved for our sins. He has done as he said he would do.’ ” That is what the Lord says.’"
+              }
+            ]
+          ]
+        },
+        {
+          "heading": "Zechariah's vision of a man on a horse",
+          "items": [
+            [
               {
                 "verse": 7,
-                "text": "On the twenty-fourth day of the eleventh month, the month Shebat, in the second year of Darius, the word of the Lord came to Zechariah, the son of Berechiah, the son of Iddo the prophet, saying,"
-              },
+                "text": "On the 24th day of Shebat, the 11th month of the year, the Lord gave his message to the prophet Zechariah, the son of Berekiah and the grandson of Iddo. This happened in the second year that Darius ruled as king."
+              }
+            ],
+            [
               {
                 "verse": 8,
-                "text": "I saw in the night a man on a red horse, between the mountains in the valley, and at his back were horses, red, black, white, and of mixed colours."
+                "text": "During the night I had a vision. I saw a man who was sitting on a red horse. The horse was standing among some myrtle trees in a valley. Behind him there were red, brown and white horses."
               }
             ],
             [
               {
                 "verse": 9,
-                "text": "Then I said, O my lord, what are these? And the angel who was talking to me said to me, I will make clear to you what they are."
-              },
-              {
-                "verse": 10,
-                "text": "And the man who was between the mountains, answering me, said, These are those whom the Lord has sent to go up and down through the earth."
-              },
-              {
-                "verse": 11,
-                "text": "And the man who was between the mountains, answering, said to the angel of the Lord, We have gone up and down through the earth, and all the earth is quiet and at rest."
-              },
-              {
-                "verse": 12,
-                "text": "Then the angel of the Lord, answering, said, O Lord of armies, how long will it be before you have mercy on Jerusalem and on the towns of Judah against which your wrath has been burning for seventy years?"
+                "text": "I asked the angel who was talking with me, ‘Please sir, what is the meaning of these horses?’"
               }
             ],
             [
               {
-                "verse": 13,
-                "text": "And the Lord gave an answer in good and comforting words to the angel who was talking to me."
+                "verse": 9,
+                "text": "The angel said to me, ‘I will show you what they are.’"
+              }
+            ],
+            [
+              {
+                "verse": 10,
+                "text": "Then the man who was standing among the myrtle trees said, ‘The Lord has sent these horses to go and look in all the places on the earth.’"
+              }
+            ],
+            [
+              {
+                "verse": 11,
+                "text": "The men on the other horses agreed with the angel of the Lord who was standing among the myrtle trees. They said, ‘We have gone to look at things all over the earth. We have seen that everywhere is now resting in peace.’"
+              }
+            ],
+            [
+              {
+                "verse": 12,
+                "text": "Then the angel of the Lord said, ‘Lord Almighty, how long will you be angry with Jerusalem before you are kind to them? How long will you be angry with the cities of Judah? You have already been angry with them for 70 years.’"
               },
               {
+                "verse": 13,
+                "text": "The Lord answered the angel who was speaking to me. He spoke kind words to the angel."
+              }
+            ],
+            [
+              {
                 "verse": 14,
-                "text": "And the angel who was talking to me said to me, Let your voice be loud and say, These are the words of the Lord of armies: I am greatly moved about the fate of Jerusalem and of Zion."
+                "text": "The angel then spoke to me again. He said, ‘Give this message to the people. Tell them clearly that the Lord Almighty says, “I love Jerusalem and Mount Zion very much. It is my special place."
               },
               {
                 "verse": 15,
-                "text": "And I am very angry with the nations who are living untroubled: for when I was only a little angry, they made the evil worse."
-              },
+                "text": "I am very angry with the nations which think that they are safe. I was a little bit angry with my own people, but those nations caused my people to suffer too much.”"
+              }
+            ],
+            [
               {
                 "verse": 16,
-                "text": "So this is what the Lord has said: I have come back to Jerusalem with mercies; my house is to be put up in her, says the Lord of armies, and a line is to be stretched out over Jerusalem."
+                "text": "So this is what the Lord says: “Now I will return to Jerusalem and I will be kind to the people there. I will build my house there again.” That is what the Lord Almighty says. “Builders will measure the land in the city and they will build houses there again.”"
               }
             ],
             [
               {
                 "verse": 17,
-                "text": "And again let your voice be loud and say, This is what the Lord of armies has said: My towns will again be overflowing with good things, and again the Lord will give comfort to Zion and take Jerusalem for himself."
-              },
+                "text": "Tell the people clearly that the Lord Almighty says, “The towns where my people live will have great riches again. I will cause the people of Zion to live in peace. I will show that I have chosen Jerusalem as my own special city.” ’"
+              }
+            ]
+          ]
+        },
+        {
+          "heading": "Zechariah's vision of four horns",
+          "items": [
+            [
               {
                 "verse": 18,
-                "text": "And lifting up my eyes I saw four horns."
+                "text": "Then I looked up and I saw four horns."
               },
               {
                 "verse": 19,
-                "text": "And I said to the angel who was talking to me, What are these? And he said to me, These are the horns which have sent Judah, Israel, and Jerusalem in flight."
-              },
+                "text": "I asked the angel who was speaking with me, ‘What are these horns?’"
+              }
+            ],
+            [
+              {
+                "verse": 19,
+                "text": "The angel replied, ‘These are the powerful enemies that took away the people of Judah, the people of Israel and the people of Jerusalem.’"
+              }
+            ],
+            [
               {
                 "verse": 20,
-                "text": "And the Lord gave me a vision of four metal-workers."
+                "text": "Then the Lord showed me four workers with hammers."
+              },
+              {
+                "verse": 21,
+                "text": "I said, ‘What are these men coming to do?’"
               }
             ],
             [
               {
                 "verse": 21,
-                "text": "Then I said, What have these come to do? And he said, These are the horns which sent Judah in flight, and kept him from lifting up his head: but these men have come to send fear on them and to put down the nations who are lifting up their horns against the land of Judah to send it in flight."
+                "text": "The Lord answered, ‘The horns are the enemies that took away Judah's people so that they have become helpless. But the workers have come to frighten the nations that have attacked Judah. The workers will take away the power of those nations.’"
               }
             ]
           ]
         }
       ],
-      "verses": [
-        {
-          "verse": 1,
-          "text": "In the eighth month, in the second year of Darius, the word of the Lord came to Zechariah, the son of Berechiah, the son of Iddo the prophet, saying,"
-        },
-        {
-          "verse": 2,
-          "text": "The Lord has been very angry with your fathers:"
-        },
-        {
-          "verse": 3,
-          "text": "And you are to say to them, These are the words of the Lord of armies: Come back to me, says the Lord of armies, and I will come back to you."
-        },
-        {
-          "verse": 4,
-          "text": "Be not like your fathers, to whom the voice of the earlier prophets came, saying, Be turned now from your evil ways and from your evil doings: but they did not give ear to me or take note, says the Lord."
-        },
-        {
-          "verse": 5,
-          "text": "Your fathers, where are they? and the prophets, do they go on living for ever?"
-        },
-        {
-          "verse": 6,
-          "text": "But my words and my orders, which I gave to my servants the prophets, have they not overtaken your fathers? and turning back they said, As it was the purpose of the Lord of armies to do to us, in reward for our ways and our doings, so has he done."
-        },
-        {
-          "verse": 7,
-          "text": "On the twenty-fourth day of the eleventh month, the month Shebat, in the second year of Darius, the word of the Lord came to Zechariah, the son of Berechiah, the son of Iddo the prophet, saying,"
-        },
-        {
-          "verse": 8,
-          "text": "I saw in the night a man on a red horse, between the mountains in the valley, and at his back were horses, red, black, white, and of mixed colours."
-        },
-        {
-          "verse": 9,
-          "text": "Then I said, O my lord, what are these? And the angel who was talking to me said to me, I will make clear to you what they are."
-        },
-        {
-          "verse": 10,
-          "text": "And the man who was between the mountains, answering me, said, These are those whom the Lord has sent to go up and down through the earth."
-        },
-        {
-          "verse": 11,
-          "text": "And the man who was between the mountains, answering, said to the angel of the Lord, We have gone up and down through the earth, and all the earth is quiet and at rest."
-        },
-        {
-          "verse": 12,
-          "text": "Then the angel of the Lord, answering, said, O Lord of armies, how long will it be before you have mercy on Jerusalem and on the towns of Judah against which your wrath has been burning for seventy years?"
-        },
-        {
-          "verse": 13,
-          "text": "And the Lord gave an answer in good and comforting words to the angel who was talking to me."
-        },
-        {
-          "verse": 14,
-          "text": "And the angel who was talking to me said to me, Let your voice be loud and say, These are the words of the Lord of armies: I am greatly moved about the fate of Jerusalem and of Zion."
-        },
-        {
-          "verse": 15,
-          "text": "And I am very angry with the nations who are living untroubled: for when I was only a little angry, they made the evil worse."
-        },
-        {
-          "verse": 16,
-          "text": "So this is what the Lord has said: I have come back to Jerusalem with mercies; my house is to be put up in her, says the Lord of armies, and a line is to be stretched out over Jerusalem."
-        },
-        {
-          "verse": 17,
-          "text": "And again let your voice be loud and say, This is what the Lord of armies has said: My towns will again be overflowing with good things, and again the Lord will give comfort to Zion and take Jerusalem for himself."
-        },
-        {
-          "verse": 18,
-          "text": "And lifting up my eyes I saw four horns."
-        },
-        {
-          "verse": 19,
-          "text": "And I said to the angel who was talking to me, What are these? And he said to me, These are the horns which have sent Judah, Israel, and Jerusalem in flight."
-        },
-        {
-          "verse": 20,
-          "text": "And the Lord gave me a vision of four metal-workers."
-        },
-        {
-          "verse": 21,
-          "text": "Then I said, What have these come to do? And he said, These are the horns which sent Judah in flight, and kept him from lifting up his head: but these men have come to send fear on them and to put down the nations who are lifting up their horns against the land of Judah to send it in flight."
-        }
-      ],
-      "totalVerses": 21,
-      "footnotes": []
+      "notes": [
+        "When we writeLordlike this, it is a special name for God. Sometimes people write it as the Hebrew name ‘Yahweh’. It is God's own name that he told Moses. SeeExodus 3:14. It means ‘I am who I am’. This shows that God has always been there and he always will be there.",
+        "Shebat is the name of a Jewish month, which comes in January or February.",
+        "Judah was the land that belonged to the Israelitetribeof Judah. When thenationof Israeldividedinto twokingdoms, Judah was the name of the kingdom in the south.",
+        "In thisvision, ahornmeans a powerfulnation."
+      ]
     },
     {
-      "book": "Zechariah",
       "chapter": 2,
       "title": "Zechariah 2",
-      "subtitle": "Zechariah Chapter 2",
+      "subtitle": "",
+      "totalVerses": 13,
+      "sourceUrl": "https://www.easyenglish.bible/bible/easy/zechariah/2/",
       "sections": [
         {
-          "heading": "Zechariah Chapter 2",
+          "heading": "Zechariah's vision of a man who wants to measure Jerusalem",
           "items": [
             [
               {
                 "verse": 1,
-                "text": "And lifting up my eyes, I saw a man with a measuring-line in his hand."
+                "text": "Then I looked up and I saw a young man in front of me. He had a string in his hand that he could use to measure things."
               },
               {
                 "verse": 2,
-                "text": "And I said to him, Where are you going? And he said to me, To take the measure of Jerusalem, to see how wide and how long it is."
-              },
+                "text": "I asked the man, ‘Where are you going?’"
+              }
+            ],
+            [
+              {
+                "verse": 2,
+                "text": "He replied, ‘I am going to measure Jerusalem. I want to see how wide it is and how long it is.’"
+              }
+            ],
+            [
               {
                 "verse": 3,
-                "text": "And the angel who was talking to me went out, and another angel went out, and, meeting him,"
+                "text": "The angel who had been speaking with me now went away from me. Another angel came to meet him."
               },
               {
                 "verse": 4,
-                "text": "Said to him, Go quickly and say to this young man, Jerusalem will be an unwalled town, because of the great number of men and cattle in her."
-              }
-            ],
-            [
-              {
-                "verse": 5,
-                "text": "For I, says the Lord, will be a wall of fire round about her, and I will be the glory inside her."
+                "text": "The second angel said to the first angel, ‘Run to that young man. Tell him, “Jerusalem will no longer be a city that has walls around it. This is because there will be many people and many animals that live in it."
               },
               {
+                "verse": 5,
+                "text": "The Lord himself promises that he will protect Jerusalem. He will be like a wall of fire around the city. His own glory will shine inside the city.” ’"
+              }
+            ]
+          ]
+        },
+        {
+          "heading": "A message to tell God's people to return",
+          "items": [
+            [
+              {
                 "verse": 6,
-                "text": "Ho, ho! go in flight from the land of the north, says the Lord: for I have sent you far and wide to the four winds of heaven, says the Lord."
+                "text": "This is the Lord's message: ‘Run away! Escape from the country in the north where you have been prisoners. I sent you away in every direction, north, south, east and west."
               },
               {
                 "verse": 7,
-                "text": "Ho! Zion, go in flight from danger, you who are living with the daughter of Babylon."
-              },
-              {
-                "verse": 8,
-                "text": "For this is what the Lord of armies has said: In the way of glory he has sent me to the nations which have taken your goods: for anyone touching you is touching what is most dear to him."
+                "text": "Now escape, you people of Zion! Return home from Babylon where you have been living.’"
               }
             ],
             [
               {
-                "verse": 9,
-                "text": "For at the shaking of my hand over them, their goods will be taken by those who were their servants: and you will see that the Lord of armies has sent me."
+                "verse": 8,
+                "text": "Return home, because the Lord Almighty has sent me, Zechariah, with a message. He has sent me to warn the nations who have robbed you. He will use me to bring glory to himself. You are his special people. If anyone hurts you, it is the same as if they hurt God's own eye."
               },
               {
+                "verse": 9,
+                "text": "The Lord says, ‘I will use my power to punish your enemies. Even their own slaves will rob them.’ When that happens, you will know that the Lord Almighty has sent me to you."
+              }
+            ],
+            [
+              {
                 "verse": 10,
-                "text": "Give songs of joy, O daughter of Zion: for I come, and I will make my resting-place among you, says the Lord."
+                "text": "The Lord says, ‘Sing and be happy, you people of Zion. Yes, I am coming to you! I will live among you."
               },
               {
                 "verse": 11,
-                "text": "And a number of nations will be joined to the Lord in that day, and will become my people; and I will be living among you, and you will see that the Lord of armies has sent me to you."
-              },
-              {
-                "verse": 12,
-                "text": "And Judah will be the Lord's heritage in the holy land, and Jerusalem will again be his."
+                "text": "At that time, people will come from many nations to worship me, the Lord. They will become my people too. And I will make my home among you all.’ When that happens, you will know that the Lord Almighty has sent me to you."
               }
             ],
             [
               {
+                "verse": 12,
+                "text": "Judah will again belong to the Lord as his special place in his own land. He will choose Jerusalem as his own city."
+              },
+              {
                 "verse": 13,
-                "text": "Let all flesh be quiet and make no sound before the Lord: for he is awake and has come from his holy resting-place."
+                "text": "So be quiet now, people everywhere, as you stand in front of the Lord. He is ready to move from his holy home in heaven to do great things."
               }
             ]
           ]
         }
       ],
-      "verses": [
-        {
-          "verse": 1,
-          "text": "And lifting up my eyes, I saw a man with a measuring-line in his hand."
-        },
-        {
-          "verse": 2,
-          "text": "And I said to him, Where are you going? And he said to me, To take the measure of Jerusalem, to see how wide and how long it is."
-        },
-        {
-          "verse": 3,
-          "text": "And the angel who was talking to me went out, and another angel went out, and, meeting him,"
-        },
-        {
-          "verse": 4,
-          "text": "Said to him, Go quickly and say to this young man, Jerusalem will be an unwalled town, because of the great number of men and cattle in her."
-        },
-        {
-          "verse": 5,
-          "text": "For I, says the Lord, will be a wall of fire round about her, and I will be the glory inside her."
-        },
-        {
-          "verse": 6,
-          "text": "Ho, ho! go in flight from the land of the north, says the Lord: for I have sent you far and wide to the four winds of heaven, says the Lord."
-        },
-        {
-          "verse": 7,
-          "text": "Ho! Zion, go in flight from danger, you who are living with the daughter of Babylon."
-        },
-        {
-          "verse": 8,
-          "text": "For this is what the Lord of armies has said: In the way of glory he has sent me to the nations which have taken your goods: for anyone touching you is touching what is most dear to him."
-        },
-        {
-          "verse": 9,
-          "text": "For at the shaking of my hand over them, their goods will be taken by those who were their servants: and you will see that the Lord of armies has sent me."
-        },
-        {
-          "verse": 10,
-          "text": "Give songs of joy, O daughter of Zion: for I come, and I will make my resting-place among you, says the Lord."
-        },
-        {
-          "verse": 11,
-          "text": "And a number of nations will be joined to the Lord in that day, and will become my people; and I will be living among you, and you will see that the Lord of armies has sent me to you."
-        },
-        {
-          "verse": 12,
-          "text": "And Judah will be the Lord's heritage in the holy land, and Jerusalem will again be his."
-        },
-        {
-          "verse": 13,
-          "text": "Let all flesh be quiet and make no sound before the Lord: for he is awake and has come from his holy resting-place."
-        }
-      ],
-      "totalVerses": 13,
-      "footnotes": []
+      "notes": []
     },
     {
-      "book": "Zechariah",
       "chapter": 3,
       "title": "Zechariah 3",
-      "subtitle": "Zechariah Chapter 3",
+      "subtitle": "",
+      "totalVerses": 10,
+      "sourceUrl": "https://www.easyenglish.bible/bible/easy/zechariah/3/",
       "sections": [
         {
-          "heading": "Zechariah Chapter 3",
+          "heading": "Zechariah's vision of the leader of the priests",
           "items": [
             [
               {
                 "verse": 1,
-                "text": "And he let me see Joshua, the high priest, in his place before the angel of the Lord, and the Satan at his right hand ready to take up a cause against him."
+                "text": "In another vision I saw Joshua, the leader of the priests. He was standing in front of the angel of the Lord. Satan stood at the right side of Joshua. He was ready to say that Joshua had done bad things."
               },
               {
                 "verse": 2,
-                "text": "And the Lord said to the Satan, May the Lord's word be sharp against you, O Satan, the word of the Lord who has taken Jerusalem for himself: is this not a burning branch pulled out of the fire?"
-              },
+                "text": "The Lord said to Satan, ‘The Lord says that you are wrong, Satan. The Lord has chosen Jerusalem for himself. He says that you are wrong! Joshua is like a stick that someone pulls quickly out of the fire to keep it safe.’"
+              }
+            ],
+            [
               {
                 "verse": 3,
-                "text": "Now Joshua was clothed in unclean robes, and he was in his place before the angel."
+                "text": "Joshua was wearing very dirty clothes when he stood there, in front of the angel."
               },
               {
                 "verse": 4,
-                "text": "And he made answer and said to those who were there before him, Take the unclean robes off him, and let him be clothed in clean robes;"
+                "text": "The angel said to the people who stood around him, ‘Remove his dirty clothes.’ Then he said to Joshua, ‘See what I have done. I have taken away your sin. Now I will give you new clothes to wear.’"
               }
             ],
             [
               {
                 "verse": 5,
-                "text": "And let them put a clean head-dress on his head. So they put a clean head-dress on his head, clothing him with clean robes: and to him he said, See, I have taken your sin away from you."
-              },
-              {
-                "verse": 6,
-                "text": "And the angel of the Lord made a statement to Joshua, and said,"
-              },
-              {
-                "verse": 7,
-                "text": "These are the words of the Lord of armies: If you will go in my ways and keep what I have put in your care, then you will be judge over my Temple and have the care of my house, and I will give you the right to come in among those who are there."
-              },
-              {
-                "verse": 8,
-                "text": "Give ear now, O Joshua, the high priest, you and your friends who are seated before you; for these are men who are a sign: for see, I will let my servant the Branch be seen."
+                "text": "Then I said, ‘Put a clean hat on his head.’ So they put a clean hat on his head and they dressed him in new clothes. The angel of the Lord stood near to them while they did this."
               }
             ],
             [
               {
+                "verse": 6,
+                "text": "Then the angel of the Lord spoke seriously to Joshua."
+              },
+              {
+                "verse": 7,
+                "text": "He said, ‘The Lord Almighty says to you, “You must live in ways that please me. You must do the things that I tell you to do. If you do that, you will rule over my temple and all its yards. I will allow you to come with the angels who are standing around you."
+              }
+            ],
+            [
+              {
+                "verse": 8,
+                "text": "Joshua, leader of the priests, you and all the other priests who are sitting with you must listen carefully. You are all like a sign of what will happen in the future. Yes, I will bring my servant, who is called the Branch."
+              },
+              {
                 "verse": 9,
-                "text": "For see, the stone which I have put before Joshua; on one stone are seven eyes: see, the design cut on it will be my work, says the Lord of armies, and I will take away the sin of that land in one day."
+                "text": "Look! I have put a big stone in front of Joshua! It has seven sides. I will cut the words of a message in the stone. The message is that I will remove the sin of this guilty land in one day.” That is what the Lord Almighty says."
               },
               {
                 "verse": 10,
-                "text": "In that day, says the Lord of armies, you will be one another's guests under the vine and under the fig-tree."
+                "text": "He says, “On that day, you will all ask your friends to come and sit with you. They will sit safely with you under your own vines and fig trees.” ’"
               }
             ]
           ]
         }
       ],
-      "verses": [
-        {
-          "verse": 1,
-          "text": "And he let me see Joshua, the high priest, in his place before the angel of the Lord, and the Satan at his right hand ready to take up a cause against him."
-        },
-        {
-          "verse": 2,
-          "text": "And the Lord said to the Satan, May the Lord's word be sharp against you, O Satan, the word of the Lord who has taken Jerusalem for himself: is this not a burning branch pulled out of the fire?"
-        },
-        {
-          "verse": 3,
-          "text": "Now Joshua was clothed in unclean robes, and he was in his place before the angel."
-        },
-        {
-          "verse": 4,
-          "text": "And he made answer and said to those who were there before him, Take the unclean robes off him, and let him be clothed in clean robes;"
-        },
-        {
-          "verse": 5,
-          "text": "And let them put a clean head-dress on his head. So they put a clean head-dress on his head, clothing him with clean robes: and to him he said, See, I have taken your sin away from you."
-        },
-        {
-          "verse": 6,
-          "text": "And the angel of the Lord made a statement to Joshua, and said,"
-        },
-        {
-          "verse": 7,
-          "text": "These are the words of the Lord of armies: If you will go in my ways and keep what I have put in your care, then you will be judge over my Temple and have the care of my house, and I will give you the right to come in among those who are there."
-        },
-        {
-          "verse": 8,
-          "text": "Give ear now, O Joshua, the high priest, you and your friends who are seated before you; for these are men who are a sign: for see, I will let my servant the Branch be seen."
-        },
-        {
-          "verse": 9,
-          "text": "For see, the stone which I have put before Joshua; on one stone are seven eyes: see, the design cut on it will be my work, says the Lord of armies, and I will take away the sin of that land in one day."
-        },
-        {
-          "verse": 10,
-          "text": "In that day, says the Lord of armies, you will be one another's guests under the vine and under the fig-tree."
-        }
-      ],
-      "totalVerses": 10,
-      "footnotes": []
+      "notes": [
+        "‘The Branch’ is a name for God'sMessiah. SeeIsaiah 11:1-2;Jeremiah 23:5.",
+        "This shows a time when all the people will enjoy living safely inpeace."
+      ]
     },
     {
-      "book": "Zechariah",
       "chapter": 4,
       "title": "Zechariah 4",
-      "subtitle": "Zechariah Chapter 4",
+      "subtitle": "",
+      "totalVerses": 14,
+      "sourceUrl": "https://www.easyenglish.bible/bible/easy/zechariah/4/",
       "sections": [
         {
-          "heading": "Zechariah Chapter 4",
+          "heading": "Zechariah's vision of a lampstand",
           "items": [
             [
               {
                 "verse": 1,
-                "text": "And the angel who was talking to me came again, awaking me as a man out of his sleep."
+                "text": "Then the angel who had been speaking with me returned. He woke me up, like someone who had been asleep."
               },
               {
                 "verse": 2,
-                "text": "And he said to me, What do you see? And I said, I see a light-support, made all of gold, with its cup on the top of it and seven lights on it; and there are seven pipes to every one of the lights which are on the top of it;"
+                "text": "He asked me, ‘What do you see?’"
+              }
+            ],
+            [
+              {
+                "verse": 2,
+                "text": "I answered, ‘I see a lampstand that is made of gold. It has a bowl on top and there are seven lamps. There are seven pipes that take oil from the bowl to each lamp."
               },
               {
                 "verse": 3,
-                "text": "And two olive-trees by it, one on the right side of the cup and one on the left."
-              },
+                "text": "I also see two olive trees that are standing beside the lampstand. One tree is on the right side of the bowl and one tree is on the left side.’"
+              }
+            ],
+            [
               {
                 "verse": 4,
-                "text": "And I made answer and said to the angel who was talking to me, What are these, my lord?"
+                "text": "I asked the angel who was speaking with me, ‘What do these lamps mean, sir?’"
               }
             ],
             [
               {
                 "verse": 5,
-                "text": "Then the angel who was talking to me, answering me, said, Have you no knowledge of what these are? And I said, No, my lord."
-              },
-              {
-                "verse": 6,
-                "text": "This is the word of the Lord to Zerubbabel, saying, Not by force or by power, but by my spirit, says the Lord of armies."
-              },
-              {
-                "verse": 7,
-                "text": "Who are you, O great mountain? before Zerubbabel you will become level: and he will let all see the headstone, with cries of Grace, grace, to it."
-              },
-              {
-                "verse": 8,
-                "text": "Then the word of the Lord came to me, saying,"
+                "text": "He said, ‘Do you not know what these lamps are?’"
               }
             ],
             [
               {
-                "verse": 9,
-                "text": "The hands of Zerubbabel have put the base of this house in place, and his hands will make it complete; and it will be clear to you that the Lord of armies has sent me to you."
+                "verse": 5,
+                "text": "I said, ‘No, sir, I do not know.’"
+              }
+            ],
+            [
+              {
+                "verse": 6,
+                "text": "Then the angel said to me, ‘These lamps are a picture of the message that the Lord says to Zerubbabel: “Your own strength and your own power will not give you success. It is my Spirit that will give you success.” That is what the Lord Almighty says."
+              }
+            ],
+            [
+              {
+                "verse": 7,
+                "text": "It may seem that a great mountain stands in front of Zerubbabel. But it will become flat ground! One day, Zerubbabel will bring the last stone to finish the temple building. Then the people will shout, “God is kind! He will bless it!” ’"
+              }
+            ],
+            [
+              {
+                "verse": 8,
+                "text": "Then the Lord's message came to me again. He said,"
               },
+              {
+                "verse": 9,
+                "text": "‘Zerubbabel has built the foundation of the temple. He will also finish the building.’ When that happens, you will know that the Lord Almighty has sent me to you."
+              }
+            ],
+            [
               {
                 "verse": 10,
-                "text": "For who has had a poor opinion of the day of small things? for they will be glad when they see the weighted measuring-line in the hand of Zerubbabel. Then he said in answer to me, These seven lights are the eyes of the Lord which go quickly up and down through all the earth."
-              },
+                "text": "It may seem that only a little work has begun. But do not think that it is useless. The seven eyes of the Lord see everything that happens in the world. They will see Zerubbabel as he continues the work on the temple building. That will cause everyone to be happy."
+              }
+            ],
+            [
               {
                 "verse": 11,
-                "text": "And I made answer and said to him, What are these two olive-trees on the right side of the light-support and on the left?"
+                "text": "Then I asked the angel, ‘What are these two olive trees that stand on the right side and on the left side of the lampstand?’"
               },
               {
                 "verse": 12,
-                "text": "And answering a second time, I said to him, What are these two olive branches, through whose gold pipes the oil is drained out?"
+                "text": "I also asked him, ‘I see two branches of the olive trees that are pouring olive oil through the two gold pipes. What is the meaning of those branches?’"
               }
             ],
             [
               {
                 "verse": 13,
-                "text": "And he said in answer to me, Have you no knowledge what these are? And I said, No, my lord."
-              },
+                "text": "The angel replied, ‘Do you not know what they are?’"
+              }
+            ],
+            [
+              {
+                "verse": 13,
+                "text": "I said, ‘No, sir, I do not know.’"
+              }
+            ],
+            [
               {
                 "verse": 14,
-                "text": "And he said, These are the two sons of oil, whose place is by the Lord of all the earth."
+                "text": "So the angel said, ‘They are the two leaders that the Lord of the whole earth has chosen to serve him.’"
               }
             ]
           ]
         }
       ],
-      "verses": [
-        {
-          "verse": 1,
-          "text": "And the angel who was talking to me came again, awaking me as a man out of his sleep."
-        },
-        {
-          "verse": 2,
-          "text": "And he said to me, What do you see? And I said, I see a light-support, made all of gold, with its cup on the top of it and seven lights on it; and there are seven pipes to every one of the lights which are on the top of it;"
-        },
-        {
-          "verse": 3,
-          "text": "And two olive-trees by it, one on the right side of the cup and one on the left."
-        },
-        {
-          "verse": 4,
-          "text": "And I made answer and said to the angel who was talking to me, What are these, my lord?"
-        },
-        {
-          "verse": 5,
-          "text": "Then the angel who was talking to me, answering me, said, Have you no knowledge of what these are? And I said, No, my lord."
-        },
-        {
-          "verse": 6,
-          "text": "This is the word of the Lord to Zerubbabel, saying, Not by force or by power, but by my spirit, says the Lord of armies."
-        },
-        {
-          "verse": 7,
-          "text": "Who are you, O great mountain? before Zerubbabel you will become level: and he will let all see the headstone, with cries of Grace, grace, to it."
-        },
-        {
-          "verse": 8,
-          "text": "Then the word of the Lord came to me, saying,"
-        },
-        {
-          "verse": 9,
-          "text": "The hands of Zerubbabel have put the base of this house in place, and his hands will make it complete; and it will be clear to you that the Lord of armies has sent me to you."
-        },
-        {
-          "verse": 10,
-          "text": "For who has had a poor opinion of the day of small things? for they will be glad when they see the weighted measuring-line in the hand of Zerubbabel. Then he said in answer to me, These seven lights are the eyes of the Lord which go quickly up and down through all the earth."
-        },
-        {
-          "verse": 11,
-          "text": "And I made answer and said to him, What are these two olive-trees on the right side of the light-support and on the left?"
-        },
-        {
-          "verse": 12,
-          "text": "And answering a second time, I said to him, What are these two olive branches, through whose gold pipes the oil is drained out?"
-        },
-        {
-          "verse": 13,
-          "text": "And he said in answer to me, Have you no knowledge what these are? And I said, No, my lord."
-        },
-        {
-          "verse": 14,
-          "text": "And he said, These are the two sons of oil, whose place is by the Lord of all the earth."
-        }
-      ],
-      "totalVerses": 14,
-      "footnotes": []
+      "notes": [
+        "Zerubbabel was adescendantof King David. Israel's enemies took Zerubbabel's father as aprisonerto Babylon and Zerubbabel was born there. He came from Babylon to Jerusalem to build God'stemplethere.",
+        "These two men are Zerubbabel, the ruler in Jerusalem, and Joshua, the leader of thepriests. God had chosen them to rule on his behalf."
+      ]
     },
     {
-      "book": "Zechariah",
       "chapter": 5,
       "title": "Zechariah 5",
-      "subtitle": "Zechariah Chapter 5",
+      "subtitle": "",
+      "totalVerses": 11,
+      "sourceUrl": "https://www.easyenglish.bible/bible/easy/zechariah/5/",
       "sections": [
         {
-          "heading": "Zechariah Chapter 5",
+          "heading": "Zechariah's vision of a scroll",
           "items": [
             [
               {
                 "verse": 1,
-                "text": "Then again lifting up my eyes I saw a roll in flight through the air."
-              },
-              {
-                "verse": 2,
-                "text": "And he said to me, What do you see? And I said, A roll going through the air; it is twenty cubits long and ten cubits wide."
-              },
-              {
-                "verse": 3,
-                "text": "Then he said to me, This is the curse which goes out over the face of all the land: for long enough has every thief gone without punishment, and long enough has every taker of false oaths gone without punishment."
-              },
-              {
-                "verse": 4,
-                "text": "And I will send it out, says the Lord of armies, and it will go into the house of the thief and into the house of him who takes a false oath by my name: and it will be in his house, causing its complete destruction, with its woodwork and its stones."
+                "text": "I looked up again. I saw a scroll that was flying in the air."
               }
             ],
             [
               {
-                "verse": 5,
-                "text": "And the angel who was talking to me went out and said to me, Let your eyes be lifted up now, and see the ephah which is going out."
+                "verse": 2,
+                "text": "The angel asked me, ‘What do you see?’"
+              }
+            ],
+            [
+              {
+                "verse": 2,
+                "text": "I answered, ‘I see a scroll that is flying in the air. It is about 10 metres long and 5 metres wide.’"
+              }
+            ],
+            [
+              {
+                "verse": 3,
+                "text": "The angel said to me, ‘The words on the scroll are a curse that is going out over the whole land. The curse tells about punishment for people who rob other people. God will remove them from the land. God will also remove from the land those people who tell lies against other people."
               },
+              {
+                "verse": 4,
+                "text": "The Lord Almighty says, “I will send out this scroll to take a curse into the house of robbers. I will also send it into the house of people who use my name to tell lies. The curse will remain in their houses. It will completely destroy all the wood and the stones of their houses.” ’"
+              }
+            ]
+          ]
+        },
+        {
+          "heading": "Zechariah's vision of a woman in a basket",
+          "items": [
+            [
+              {
+                "verse": 5,
+                "text": "Then the angel who was speaking to me came forward. He said, ‘Look up. See the thing that has now appeared.’"
+              }
+            ],
+            [
               {
                 "verse": 6,
-                "text": "And I said, What is it? And he said, This is an ephah which is going out. And he said further, This is their evil-doing in all the land."
-              },
+                "text": "I asked, ‘What is it?’"
+              }
+            ],
+            [
+              {
+                "verse": 6,
+                "text": "He said, ‘It is a basket that people use to measure grain.’ He also said, ‘It shows the sin of all the people in the land.’"
+              }
+            ],
+            [
               {
                 "verse": 7,
-                "text": "And I saw a round cover of lead lifted up; and a woman was seated in the middle of the ephah."
-              },
+                "text": "There was a heavy metal lid that covered the basket. As I looked, the angel lifted up the lid. I could see a woman who was sitting in the basket."
+              }
+            ],
+            [
               {
                 "verse": 8,
-                "text": "And he said, This is Sin; and pushing her down into the ephah, he put the weight of lead on the mouth of it."
+                "text": "The angel said, ‘This woman shows what sin is.’ Then he pushed her down into the basket again. He put the heavy metal lid back on top of the basket."
               }
             ],
             [
               {
                 "verse": 9,
-                "text": "And lifting up my eyes I saw two women coming out, and the wind was in their wings; and they had wings like the wings of a stork: and they took the ephah, lifting it up between earth and heaven."
-              },
+                "text": "Then I looked up and I saw two women. They had strong wings, like the wings of a large bird. The wind carried them towards me. They lifted the big basket up high into the sky."
+              }
+            ],
+            [
               {
                 "verse": 10,
-                "text": "And I said to the angel who was talking to me, Where are they taking the ephah?"
-              },
+                "text": "I asked the angel who was speaking with me, ‘Where will these women take the basket?’"
+              }
+            ],
+            [
               {
                 "verse": 11,
-                "text": "And he said to me, To make a house for her in the land of Shinar: and they will make a place ready, and put her there in the place which is hers."
+                "text": "The angel said to me, ‘They will take it to the country of Babylon. They will build a temple for it there. When the temple is ready, they will put the basket in it. They will put it in a place of honour there.’"
               }
             ]
           ]
         }
       ],
-      "verses": [
-        {
-          "verse": 1,
-          "text": "Then again lifting up my eyes I saw a roll in flight through the air."
-        },
-        {
-          "verse": 2,
-          "text": "And he said to me, What do you see? And I said, A roll going through the air; it is twenty cubits long and ten cubits wide."
-        },
-        {
-          "verse": 3,
-          "text": "Then he said to me, This is the curse which goes out over the face of all the land: for long enough has every thief gone without punishment, and long enough has every taker of false oaths gone without punishment."
-        },
-        {
-          "verse": 4,
-          "text": "And I will send it out, says the Lord of armies, and it will go into the house of the thief and into the house of him who takes a false oath by my name: and it will be in his house, causing its complete destruction, with its woodwork and its stones."
-        },
-        {
-          "verse": 5,
-          "text": "And the angel who was talking to me went out and said to me, Let your eyes be lifted up now, and see the ephah which is going out."
-        },
-        {
-          "verse": 6,
-          "text": "And I said, What is it? And he said, This is an ephah which is going out. And he said further, This is their evil-doing in all the land."
-        },
-        {
-          "verse": 7,
-          "text": "And I saw a round cover of lead lifted up; and a woman was seated in the middle of the ephah."
-        },
-        {
-          "verse": 8,
-          "text": "And he said, This is Sin; and pushing her down into the ephah, he put the weight of lead on the mouth of it."
-        },
-        {
-          "verse": 9,
-          "text": "And lifting up my eyes I saw two women coming out, and the wind was in their wings; and they had wings like the wings of a stork: and they took the ephah, lifting it up between earth and heaven."
-        },
-        {
-          "verse": 10,
-          "text": "And I said to the angel who was talking to me, Where are they taking the ephah?"
-        },
-        {
-          "verse": 11,
-          "text": "And he said to me, To make a house for her in the land of Shinar: and they will make a place ready, and put her there in the place which is hers."
-        }
-      ],
-      "totalVerses": 11,
-      "footnotes": []
+      "notes": []
     },
     {
-      "book": "Zechariah",
       "chapter": 6,
       "title": "Zechariah 6",
-      "subtitle": "Zechariah Chapter 6",
+      "subtitle": "",
+      "totalVerses": 15,
+      "sourceUrl": "https://www.easyenglish.bible/bible/easy/zechariah/6/",
       "sections": [
         {
-          "heading": "Zechariah Chapter 6",
+          "heading": "Zechariah's vision of four chariots",
           "items": [
             [
               {
                 "verse": 1,
-                "text": "And again lifting up my eyes I saw four war-carriages coming out from between the two mountains; and the mountains were mountains of brass."
+                "text": "I looked up again and I saw four chariots. They came out from between two mountains that were made of bronze."
               },
               {
                 "verse": 2,
-                "text": "In the first war-carriage were red horses; and in the second, black horses;"
+                "text": "The first chariot had red horses to pull it. The second chariot had black horses."
               },
               {
                 "verse": 3,
-                "text": "And in the third, white horses; and in the fourth, horses of mixed colour."
+                "text": "The third chariot had white horses. The fourth chariot had grey horses. All the horses were strong."
               },
               {
                 "verse": 4,
-                "text": "And I made answer and said to the angel who was talking to me, What are these, my lord?"
+                "text": "Then I asked the angel who was speaking with me, ‘What are these chariots, sir?’"
               }
             ],
             [
               {
                 "verse": 5,
-                "text": "And the angel, answering, said to me, These go out to the four winds of heaven from their place before the Lord of all the earth."
+                "text": "The angel answered me, ‘These are the four spirits of heaven. They have come from the Lord of all the earth."
               },
               {
                 "verse": 6,
-                "text": "The carriage in which are the black horses goes in the direction of the north country; the white go to the west; and those of mixed colour go in the direction of the south country."
-              },
-              {
-                "verse": 7,
-                "text": "And the red ones go to the east; and they made request that they might go up and down through the earth: and he said, Go up and down through the earth. So they went up and down through the earth."
-              },
-              {
-                "verse": 8,
-                "text": "Then crying out to me, he said, See, those who are going to the north country have given rest to the spirit of the Lord in the north country."
+                "text": "The chariot with the black horses is going towards the north country. The chariot with the white horses is going after them. The chariot with the grey horses is going towards the south country.’"
               }
             ],
             [
               {
+                "verse": 7,
+                "text": "When these strong horses came out, they were in a hurry to leave. They wanted to travel everywhere on the earth. The Lord had told them, ‘Go and look everywhere in the whole earth.’ So that is what the horses did."
+              }
+            ],
+            [
+              {
+                "verse": 8,
+                "text": "Then the Lord called to me. He said, ‘Look! The horses that have gone to the north country have caused my Spirit to have peace. I am no longer angry about the north country.’"
+              }
+            ]
+          ]
+        },
+        {
+          "heading": "A crown for Joshua",
+          "items": [
+            [
+              {
                 "verse": 9,
-                "text": "And the word of the Lord came to me, saying,"
-              },
+                "text": "The Lord gave this message to me:"
+              }
+            ],
+            [
               {
                 "verse": 10,
-                "text": "Take the offerings of those who went away as prisoners, from Heldai, Tobijah, and Jedaiah, and from the family of Josiah, the son of Zephaniah, who have come from Babylon;"
-              },
+                "text": "‘Three men have come back from Babylon, where they were prisoners. Their names are Heldai, Tobijah and Jedaiah. Take the gifts that they have brought with them. Then go immediately to the house of Zephaniah's son, Josiah."
+              }
+            ],
+            [
               {
                 "verse": 11,
-                "text": "And take silver and gold and make a crown and put it on the head of Zerubbabel;"
+                "text": "Use some of the gold and silver to make a royal crown. Then put it on the head of Jehozadak's son, Joshua, the leader of the priests."
               },
               {
                 "verse": 12,
-                "text": "And say to him, These are the words of the Lord of armies: See, the man whose name is the Branch, under whom there will be fertile growth."
+                "text": "Say to Joshua, “The Lord Almighty says, ‘Here is the man whose name is the Branch. He will grow and become great in this place. He will build the Lord's temple."
               }
             ],
             [
               {
                 "verse": 13,
-                "text": "And he will be the builder of the Temple of the Lord; and the glory will be his, and he will take his place as ruler on the seat of power; and Joshua will be a priest at his right hand, and between them there will be a design of peace."
-              },
+                "text": "Yes, he is the one who will build the Lord's temple. He will wear royal clothes. He will sit on his throne and he will rule his people as their king. There will be a priest with him on his throne. They will both completely agree with each other as they work together.’ ”"
+              }
+            ],
+            [
               {
                 "verse": 14,
-                "text": "And the crown will be for grace to Heldai and Tobijah and Jedaiah and the son of Zephaniah, to keep their memory living in the house of the Lord."
-              },
+                "text": "They will put the crown in the Lord's temple. It will cause people to give honour to Heldai, Tobijah, Jedaiah and Zephaniah's son Josiah."
+              }
+            ],
+            [
               {
                 "verse": 15,
-                "text": "And those who are far away will come and be builders in the Temple of the Lord, and it will be clear to you that the Lord of armies has sent me to you."
+                "text": "People will come to Jerusalem from places that are far away. They will help to build the Lord's temple. When this happens, you will know that the Lord Almighty has sent me to you. It will happen if you remember to obey the commands of the Lord your God.’"
               }
             ]
           ]
         }
       ],
-      "verses": [
-        {
-          "verse": 1,
-          "text": "And again lifting up my eyes I saw four war-carriages coming out from between the two mountains; and the mountains were mountains of brass."
-        },
-        {
-          "verse": 2,
-          "text": "In the first war-carriage were red horses; and in the second, black horses;"
-        },
-        {
-          "verse": 3,
-          "text": "And in the third, white horses; and in the fourth, horses of mixed colour."
-        },
-        {
-          "verse": 4,
-          "text": "And I made answer and said to the angel who was talking to me, What are these, my lord?"
-        },
-        {
-          "verse": 5,
-          "text": "And the angel, answering, said to me, These go out to the four winds of heaven from their place before the Lord of all the earth."
-        },
-        {
-          "verse": 6,
-          "text": "The carriage in which are the black horses goes in the direction of the north country; the white go to the west; and those of mixed colour go in the direction of the south country."
-        },
-        {
-          "verse": 7,
-          "text": "And the red ones go to the east; and they made request that they might go up and down through the earth: and he said, Go up and down through the earth. So they went up and down through the earth."
-        },
-        {
-          "verse": 8,
-          "text": "Then crying out to me, he said, See, those who are going to the north country have given rest to the spirit of the Lord in the north country."
-        },
-        {
-          "verse": 9,
-          "text": "And the word of the Lord came to me, saying,"
-        },
-        {
-          "verse": 10,
-          "text": "Take the offerings of those who went away as prisoners, from Heldai, Tobijah, and Jedaiah, and from the family of Josiah, the son of Zephaniah, who have come from Babylon;"
-        },
-        {
-          "verse": 11,
-          "text": "And take silver and gold and make a crown and put it on the head of Zerubbabel;"
-        },
-        {
-          "verse": 12,
-          "text": "And say to him, These are the words of the Lord of armies: See, the man whose name is the Branch, under whom there will be fertile growth."
-        },
-        {
-          "verse": 13,
-          "text": "And he will be the builder of the Temple of the Lord; and the glory will be his, and he will take his place as ruler on the seat of power; and Joshua will be a priest at his right hand, and between them there will be a design of peace."
-        },
-        {
-          "verse": 14,
-          "text": "And the crown will be for grace to Heldai and Tobijah and Jedaiah and the son of Zephaniah, to keep their memory living in the house of the Lord."
-        },
-        {
-          "verse": 15,
-          "text": "And those who are far away will come and be builders in the Temple of the Lord, and it will be clear to you that the Lord of armies has sent me to you."
-        }
-      ],
-      "totalVerses": 15,
-      "footnotes": []
+      "notes": [
+        "‘The Branch’ is a name for God'sMessiah. SeeZechariah 3:8. Zerubbabel was leading the work to build thetemplein Jerusalem. He was asignof a future ruler and King, Jesus Christ.",
+        "Joshua was thepriestwho worked with Zerubbabel in Jerusalem. In the future, Jesus would rule his people as both a priest and a king. SeeHebrews 5:1-10;7:11-25."
+      ]
     },
     {
-      "book": "Zechariah",
       "chapter": 7,
       "title": "Zechariah 7",
-      "subtitle": "Zechariah Chapter 7",
+      "subtitle": "",
+      "totalVerses": 14,
+      "sourceUrl": "https://www.easyenglish.bible/bible/easy/zechariah/7/",
       "sections": [
         {
-          "heading": "Zechariah Chapter 7",
+          "heading": "God wants people to be fair and kind",
           "items": [
             [
               {
                 "verse": 1,
-                "text": "And it came about in the fourth year of King Darius, that the word of the Lord came to Zechariah on the fourth day of the ninth month, the month Chislev."
+                "text": "In the fourth year that Darius was king, the Lord spoke to Zechariah. It happened on the fourth day of the ninth month that is called Kislev."
               },
               {
                 "verse": 2,
-                "text": "Now they of Beth-el had sent Sharezer and Regem-melech to make a request for grace from the Lord,"
+                "text": "At that time, the people of Bethel had sent Sharezer and Regem-Melech and their men to Jerusalem. They came to ask the Lord to bless them."
               },
               {
                 "verse": 3,
-                "text": "And to say to the priests of the house of the Lord of armies and to the prophets, Am I to go on weeping in the fifth month, separating myself as I have done in past years?"
-              },
-              {
-                "verse": 4,
-                "text": "Then the word of the Lord of armies came to me, saying"
+                "text": "They came to the temple of the Lord Almighty to speak to the priests and to the prophets. They asked, ‘Should we continue to weep and to fast in the fifth month each year? We have done this for many years.’"
               }
             ],
             [
               {
+                "verse": 4,
+                "text": "The Lord Almighty then gave this message to me."
+              },
+              {
                 "verse": 5,
-                "text": "Say to all the people of the land and to the priests, When you went without food and gave yourselves to grief in the fifth and the seventh months for these seventy years, did you ever do it because of me?"
+                "text": "He said, ‘Speak to all the people in this land and to the priests. Tell them, “You were prisoners in another country for 70 years. At that time, you were sad and you fasted in the fifth month and in the seventh month of each year. But you did not really do this to give me honour."
               },
               {
                 "verse": 6,
-                "text": "And when you are feasting and drinking, are you not doing it only for yourselves?"
-              },
-              {
-                "verse": 7,
-                "text": "Are not these the words which the Lord said to you by the earlier prophets, when Jerusalem was full of people and wealth, and the towns round about her and the South and the Lowland were peopled?"
-              },
-              {
-                "verse": 8,
-                "text": "And the word of the Lord came to Zechariah, saying,"
+                "text": "Also, when you eat and you drink at special times, you do that to please yourselves.” ’"
               }
             ],
             [
               {
+                "verse": 7,
+                "text": "This is the same message from the Lord that the prophets spoke in past years. At that time, many people lived in Jerusalem and they were happy. Many people also lived in the towns around Jerusalem, in the Negev region and in the low hills in the west."
+              }
+            ],
+            [
+              {
+                "verse": 8,
+                "text": "The Lord spoke again to Zechariah."
+              },
+              {
                 "verse": 9,
-                "text": "This is what the Lord of armies has said: Let your judging be upright and done in good faith, let every man have mercy and pity for his brother:"
+                "text": "He said, ‘This is what the Lord Almighty says to the people: “Be sure that you do what is right and fair. Be kind and help each other."
               },
               {
                 "verse": 10,
-                "text": "Do not be hard on the widow, or the child without a father, on the man from a strange country, or on the poor; let there be no evil thought in your heart against your brother."
-              },
+                "text": "Do not be cruel to widows or to children who have no family. Do not cheat foreigners or poor people. Do not think of ways to do bad things to each other.” ’"
+              }
+            ],
+            [
               {
                 "verse": 11,
-                "text": "But they would not give attention, turning their backs and stopping their ears from hearing;"
+                "text": "But the people did not obey the Lord's commands. They turned away from him and they refused to listen to him."
               },
               {
                 "verse": 12,
-                "text": "And they made their hearts like the hardest stone, so that they might not give ear to the law and the words which the Lord of armies had said by the earlier prophets: and there came great wrath from the Lord of armies."
+                "text": "They were too proud to accept his laws. They would not obey the messages that the Lord Almighty used his prophets to speak to them in past times. It was God's Spirit that spoke those messages through the prophets. Because of that, the Lord Almighty was very angry with them."
               }
             ],
             [
               {
                 "verse": 13,
-                "text": "And it came about that as they would not give ear to his voice, so I would not give ear to their voice, says the Lord of armies:"
+                "text": "The Lord Almighty says, ‘When I called out to my people, they refused to listen to me. So when they called out to me, I refused to listen to them."
               },
               {
                 "verse": 14,
-                "text": "But with a storm-wind I sent them in flight among all the nations of whom they had no knowledge. So the land was waste after them, so that no man went through or came back: for they had made waste the desired land."
+                "text": "Instead, like a strong wind, I blew them away! I sent them to live among other nations that they did not know. The land that they left became an empty place where nobody lived. They caused a beautiful land to become like a desert.’"
               }
             ]
           ]
         }
       ],
-      "verses": [
-        {
-          "verse": 1,
-          "text": "And it came about in the fourth year of King Darius, that the word of the Lord came to Zechariah on the fourth day of the ninth month, the month Chislev."
-        },
-        {
-          "verse": 2,
-          "text": "Now they of Beth-el had sent Sharezer and Regem-melech to make a request for grace from the Lord,"
-        },
-        {
-          "verse": 3,
-          "text": "And to say to the priests of the house of the Lord of armies and to the prophets, Am I to go on weeping in the fifth month, separating myself as I have done in past years?"
-        },
-        {
-          "verse": 4,
-          "text": "Then the word of the Lord of armies came to me, saying"
-        },
-        {
-          "verse": 5,
-          "text": "Say to all the people of the land and to the priests, When you went without food and gave yourselves to grief in the fifth and the seventh months for these seventy years, did you ever do it because of me?"
-        },
-        {
-          "verse": 6,
-          "text": "And when you are feasting and drinking, are you not doing it only for yourselves?"
-        },
-        {
-          "verse": 7,
-          "text": "Are not these the words which the Lord said to you by the earlier prophets, when Jerusalem was full of people and wealth, and the towns round about her and the South and the Lowland were peopled?"
-        },
-        {
-          "verse": 8,
-          "text": "And the word of the Lord came to Zechariah, saying,"
-        },
-        {
-          "verse": 9,
-          "text": "This is what the Lord of armies has said: Let your judging be upright and done in good faith, let every man have mercy and pity for his brother:"
-        },
-        {
-          "verse": 10,
-          "text": "Do not be hard on the widow, or the child without a father, on the man from a strange country, or on the poor; let there be no evil thought in your heart against your brother."
-        },
-        {
-          "verse": 11,
-          "text": "But they would not give attention, turning their backs and stopping their ears from hearing;"
-        },
-        {
-          "verse": 12,
-          "text": "And they made their hearts like the hardest stone, so that they might not give ear to the law and the words which the Lord of armies had said by the earlier prophets: and there came great wrath from the Lord of armies."
-        },
-        {
-          "verse": 13,
-          "text": "And it came about that as they would not give ear to his voice, so I would not give ear to their voice, says the Lord of armies:"
-        },
-        {
-          "verse": 14,
-          "text": "But with a storm-wind I sent them in flight among all the nations of whom they had no knowledge. So the land was waste after them, so that no man went through or came back: for they had made waste the desired land."
-        }
-      ],
-      "totalVerses": 14,
-      "footnotes": []
+      "notes": [
+        "Bethel means ‘God's house’.",
+        "These people had beenprisonersin Babylon for 70 years. During that time, they were sad that they could not be in Jerusalem."
+      ]
     },
     {
-      "book": "Zechariah",
       "chapter": 8,
       "title": "Zechariah 8",
-      "subtitle": "Zechariah Chapter 8",
+      "subtitle": "",
+      "totalVerses": 23,
+      "sourceUrl": "https://www.easyenglish.bible/bible/easy/zechariah/8/",
       "sections": [
         {
-          "heading": "Zechariah Chapter 8",
+          "heading": "God promises to bless Jerusalem",
           "items": [
             [
               {
                 "verse": 1,
-                "text": "And the word of the Lord of armies came to me, saying,"
+                "text": "The Lord Almighty gave this message to me:"
               },
               {
                 "verse": 2,
-                "text": "These are the words of the Lord of armies: I am angry about the fate of Zion, I am angry about her with great wrath."
-              },
-              {
-                "verse": 3,
-                "text": "This is what the Lord has said: I have come back to Zion, and will make my living-place in Jerusalem: and Jerusalem will be named The town of good faith; and the mountain of the Lord of armies The holy mountain."
-              },
-              {
-                "verse": 4,
-                "text": "This is what the Lord of armies has said: There will again be old men and old women seated in the open spaces of Jerusalem, every man with his stick in his hand because he is so old."
+                "text": "‘I love Zion very much because it is my special place. I am very angry with anyone who hurts my people who live there.’ That is what the Lord Almighty says."
               }
             ],
             [
               {
-                "verse": 5,
-                "text": "And the open spaces of the town will be full of boys and girls playing in its open spaces."
+                "verse": 3,
+                "text": "The Lord says, ‘I will return to Zion and I will live in Jerusalem. Jerusalem will be called “City of Faithful People”. The mountain of the Lord Almighty will be called “God's Holy Mountain”.’"
+              }
+            ],
+            [
+              {
+                "verse": 4,
+                "text": "The Lord Almighty also says, ‘Old men and old women will walk in Jerusalem's streets with their walking sticks. They will sit and talk together in the public places."
               },
+              {
+                "verse": 5,
+                "text": "Many boys and girls will play in the city's streets.’"
+              }
+            ],
+            [
               {
                 "verse": 6,
-                "text": "This is what the Lord of armies has said: If this is a wonder to the rest of this people, is it a wonder to me? says the Lord of armies."
-              },
+                "text": "The Lord Almighty says, ‘For the few people who remain in those days, this may seem an impossible thing to happen. But it is not a difficult thing for me to do.’ That is what the Lord Almighty says."
+              }
+            ],
+            [
               {
                 "verse": 7,
-                "text": "This is what the Lord of armies has said: See, I will be the saviour of my people from the east country, and from the west country;"
+                "text": "The Lord Almighty says, ‘I will rescue my people from the countries in the east and in the west."
               },
               {
                 "verse": 8,
-                "text": "And I will make them come and be living in Jerusalem and they will be to me a people and I will be to them a God, in good faith and in righteousness."
+                "text": "I will bring them back to live in Jerusalem. They will be my people and I will be their God. I will rule them in a way that is faithful and right.’"
               }
             ],
             [
               {
                 "verse": 9,
-                "text": "This is what the Lord of armies has said: Let your hands be strong, you who are now hearing these words from the mouths of the prophets, that is to say, in the days when the base of the house of the Lord of armies has been put in place for the building of the house, that is the Temple."
+                "text": "The Lord Almighty also says, ‘You have heard the message that the prophets spoke when people were building the temple's foundation. So now be strong and brave! Finish building the house of the Lord Almighty."
               },
               {
                 "verse": 10,
-                "text": "For before those days there was no payment for a man's work, or for the use of a beast, and there was no peace for him who went out or him who came in, because of the attacker: for I had every man turned against his neighbour."
+                "text": "Before that time, there was not enough money to pay for work that men or animals did. People could not travel safely anywhere because of their enemies. I caused people to hate each other."
               },
               {
                 "verse": 11,
-                "text": "But now I will not be to the rest of this people as I was in the past, says the Lord of armies."
-              },
-              {
-                "verse": 12,
-                "text": "For I will let the seed of peace be planted; the vine will give her fruit and the land will give her increase and the heavens will give their dew; and I will give to the rest of this people all these things for their heritage."
+                "text": "But I will no longer do that to my people who remain. I will act differently from how I did in past times."
               }
             ],
             [
               {
-                "verse": 13,
-                "text": "And it will come about that, as you were a curse among the nations, O children of Judah and children of Israel, so I will give you salvation and you will be a blessing: have no fear and let your hands be strong."
+                "verse": 12,
+                "text": "My people will be able to plant seeds safely in their fields. Their vines will provide plenty of grapes. Crops will grow well in their fields. There will be plenty of rain. My people who remain will enjoy all these things for themselves."
               },
               {
+                "verse": 13,
+                "text": "People of Judah and Israel, in past times other nations used your names as a curse. So now I will save you. You will provide a blessing to other nations instead of a curse. Do not be afraid! Be brave and strong.’ That is what the Lord Almighty says."
+              }
+            ],
+            [
+              {
                 "verse": 14,
-                "text": "For this is what the Lord of armies has said: As it was my purpose to do evil to you when your fathers made me angry, says the Lord of armies, and my purpose was not changed:"
+                "text": "The Lord Almighty says, ‘When your ancestors made me angry, I decided to punish you. I would not change my mind about that."
               },
               {
                 "verse": 15,
-                "text": "So in these days it is again my purpose to do good to Jerusalem and to the children of Judah: have no fear."
+                "text": "But now I have decided to be kind to the people of Jerusalem and Judah. So do not be afraid!"
               },
               {
                 "verse": 16,
-                "text": "These are the things which you are to do: Let every man say what is true to his neighbour; and let your judging give peace in your towns."
+                "text": "These are the things that you must do. Each of you must speak true words to each other. In your courts, do what is right and fair."
+              },
+              {
+                "verse": 17,
+                "text": "Do not think of evil things that you can do to other people. Do not make false promises. All these things make me very angry.’ That is what the Lord Almighty says."
               }
             ],
             [
               {
-                "verse": 17,
-                "text": "Let no one have any evil thought in his heart against his neighbour; and have no love for false oaths: for all these things are hated by me, says the Lord."
-              },
-              {
                 "verse": 18,
-                "text": "And the word of the Lord of armies came to me, saying,"
+                "text": "The Lord Almighty gave me another message."
               },
               {
                 "verse": 19,
-                "text": "This is what the Lord of armies has said: The times of going without food in the fourth month and in the fifth and the seventh and the tenth months, will be for the people of Judah times of joy and happy meetings; so be lovers of good faith and of peace."
-              },
-              {
-                "verse": 20,
-                "text": "This is what the Lord of armies has said: It will again come about that when peoples and those living in great towns come,"
+                "text": "He said, ‘There are special times each year when you fast. Those times are in the fourth, fifth, seventh and tenth months. Those times will now become happy feasts that the people of Judah should enjoy. So you must love truth and peace.’ That is what the Lord Almighty says."
               }
             ],
             [
               {
+                "verse": 20,
+                "text": "The Lord Almighty also says, ‘One day, foreign people who live in many different cities will come to Jerusalem."
+              },
+              {
                 "verse": 21,
-                "text": "And the people of one town go to another and say, Let us certainly go with a request for grace from the Lord, and to give worship to the Lord of armies, then I will go with you."
+                "text": "The people of one city will go and speak to the people of another city. They will say, “Come with us to Jerusalem to ask the Lord to bless us. We will go and worship the Lord Almighty. I am going there, so come with me.”"
               },
               {
                 "verse": 22,
-                "text": "And great peoples and strong nations will come to give worship to the Lord of armies in Jerusalem and to make requests for grace from the Lord."
-              },
+                "text": "People from many places and from powerful nations will come to Jerusalem to worship the Lord Almighty. They will ask him to bless them.’"
+              }
+            ],
+            [
               {
                 "verse": 23,
-                "text": "This is what the Lord of armies has said: In those days, ten men from all the languages of the nations will put out their hands and take a grip of the skirt of him who is a Jew, saying, We will go with you, for it has come to our ears that God is with you."
+                "text": "The Lord Almighty says, ‘At that time, people who speak many different languages will come from all other nations. Ten of them will go to one Jew and they will take hold of his coat. They will say to him, “People have told us that God is with you. So please let us go with you to worship him.” ’"
               }
             ]
           ]
         }
       ],
-      "verses": [
-        {
-          "verse": 1,
-          "text": "And the word of the Lord of armies came to me, saying,"
-        },
-        {
-          "verse": 2,
-          "text": "These are the words of the Lord of armies: I am angry about the fate of Zion, I am angry about her with great wrath."
-        },
-        {
-          "verse": 3,
-          "text": "This is what the Lord has said: I have come back to Zion, and will make my living-place in Jerusalem: and Jerusalem will be named The town of good faith; and the mountain of the Lord of armies The holy mountain."
-        },
-        {
-          "verse": 4,
-          "text": "This is what the Lord of armies has said: There will again be old men and old women seated in the open spaces of Jerusalem, every man with his stick in his hand because he is so old."
-        },
-        {
-          "verse": 5,
-          "text": "And the open spaces of the town will be full of boys and girls playing in its open spaces."
-        },
-        {
-          "verse": 6,
-          "text": "This is what the Lord of armies has said: If this is a wonder to the rest of this people, is it a wonder to me? says the Lord of armies."
-        },
-        {
-          "verse": 7,
-          "text": "This is what the Lord of armies has said: See, I will be the saviour of my people from the east country, and from the west country;"
-        },
-        {
-          "verse": 8,
-          "text": "And I will make them come and be living in Jerusalem and they will be to me a people and I will be to them a God, in good faith and in righteousness."
-        },
-        {
-          "verse": 9,
-          "text": "This is what the Lord of armies has said: Let your hands be strong, you who are now hearing these words from the mouths of the prophets, that is to say, in the days when the base of the house of the Lord of armies has been put in place for the building of the house, that is the Temple."
-        },
-        {
-          "verse": 10,
-          "text": "For before those days there was no payment for a man's work, or for the use of a beast, and there was no peace for him who went out or him who came in, because of the attacker: for I had every man turned against his neighbour."
-        },
-        {
-          "verse": 11,
-          "text": "But now I will not be to the rest of this people as I was in the past, says the Lord of armies."
-        },
-        {
-          "verse": 12,
-          "text": "For I will let the seed of peace be planted; the vine will give her fruit and the land will give her increase and the heavens will give their dew; and I will give to the rest of this people all these things for their heritage."
-        },
-        {
-          "verse": 13,
-          "text": "And it will come about that, as you were a curse among the nations, O children of Judah and children of Israel, so I will give you salvation and you will be a blessing: have no fear and let your hands be strong."
-        },
-        {
-          "verse": 14,
-          "text": "For this is what the Lord of armies has said: As it was my purpose to do evil to you when your fathers made me angry, says the Lord of armies, and my purpose was not changed:"
-        },
-        {
-          "verse": 15,
-          "text": "So in these days it is again my purpose to do good to Jerusalem and to the children of Judah: have no fear."
-        },
-        {
-          "verse": 16,
-          "text": "These are the things which you are to do: Let every man say what is true to his neighbour; and let your judging give peace in your towns."
-        },
-        {
-          "verse": 17,
-          "text": "Let no one have any evil thought in his heart against his neighbour; and have no love for false oaths: for all these things are hated by me, says the Lord."
-        },
-        {
-          "verse": 18,
-          "text": "And the word of the Lord of armies came to me, saying,"
-        },
-        {
-          "verse": 19,
-          "text": "This is what the Lord of armies has said: The times of going without food in the fourth month and in the fifth and the seventh and the tenth months, will be for the people of Judah times of joy and happy meetings; so be lovers of good faith and of peace."
-        },
-        {
-          "verse": 20,
-          "text": "This is what the Lord of armies has said: It will again come about that when peoples and those living in great towns come,"
-        },
-        {
-          "verse": 21,
-          "text": "And the people of one town go to another and say, Let us certainly go with a request for grace from the Lord, and to give worship to the Lord of armies, then I will go with you."
-        },
-        {
-          "verse": 22,
-          "text": "And great peoples and strong nations will come to give worship to the Lord of armies in Jerusalem and to make requests for grace from the Lord."
-        },
-        {
-          "verse": 23,
-          "text": "This is what the Lord of armies has said: In those days, ten men from all the languages of the nations will put out their hands and take a grip of the skirt of him who is a Jew, saying, We will go with you, for it has come to our ears that God is with you."
-        }
-      ],
-      "totalVerses": 23,
-      "footnotes": []
+      "notes": []
     },
     {
-      "book": "Zechariah",
       "chapter": 9,
       "title": "Zechariah 9",
-      "subtitle": "Zechariah Chapter 9",
+      "subtitle": "",
+      "totalVerses": 17,
+      "sourceUrl": "https://www.easyenglish.bible/bible/easy/zechariah/9/",
       "sections": [
         {
-          "heading": "Zechariah Chapter 9",
+          "heading": "God will punish Israel's enemies",
           "items": [
             [
               {
                 "verse": 1,
-                "text": "A word of the Lord: The Lord has come to the land of Hadrach, and Damascus is his resting-place: for the towns of Aram are the Lord's,"
+                "text": "This is a message from the Lord against the land of Hadrach. It speaks about the city of Damascus."
+              }
+            ],
+            [
+              {
+                "verse": 1,
+                "text": "Everyone looks to see what the Lord will do, including all the tribes of Israel."
               },
               {
                 "verse": 2,
-                "text": "As well as Hamath, which is by its limit, and Tyre and Zidon, because they are very wise."
-              },
+                "text": "The people of Hamath, which is near Damascus, also wait to see what the Lord will do. The people in the cities of Tyre and Sidon also do this, even though they are very wise."
+              }
+            ],
+            [
               {
                 "verse": 3,
-                "text": "And Tyre made for herself a strong place, and got together silver like dust and the best gold like the earth of the streets."
+                "text": "Tyre's people have built strong walls around their city to keep it safe. They have stored a lot of silver and gold, as much as the dirt and mud in their streets!"
               },
               {
                 "verse": 4,
-                "text": "See, the Lord will take away her heritage, overturning her power in the sea; and she will be burned up with fire."
+                "text": "But now the Lord God will take away all Tyre's valuable things. He will throw all its power into the sea! Fire will destroy the whole city."
               }
             ],
             [
               {
                 "verse": 5,
-                "text": "Ashkelon will see it with fear, and Gaza, bent with pain; and Ekron, for her hope will be shamed: and the king will be cut off from Gaza, and Ashkelon will be unpeopled."
-              },
+                "text": "The people in Ashkelon will see what has happened to Tyre. They will be afraid. The people in Gaza will shake with fear. The people in Ekron will also be afraid. They will no longer hope for good things. The people of Gaza will no longer have a king. Ashkelon will become an empty place."
+              }
+            ],
+            [
               {
                 "verse": 6,
-                "text": "And a mixed people will be living in Ashdod, and I will have the pride of the Philistines cut off."
+                "text": "Foreign people will make Ashdod their home. I, the Lord, will cause the proud Philistine people to be ashamed."
               },
               {
                 "verse": 7,
-                "text": "And I will take away his blood from his mouth, and his disgusting things from between his teeth; and some of his people will be kept for our God: and he will be as a family in Judah, and Ekron as one living in Jerusalem."
-              },
+                "text": "I will remove from their mouths the meat of sacrifices that they have offered to their idols. Those Philistines who remain will become a group of people who belong to me. They will be like a clan in the tribe of Judah. The Philistines of Ekron will join the people of Judah, as the Jebusites did long ago."
+              }
+            ],
+            [
               {
                 "verse": 8,
-                "text": "And I will put my forces in position round my house, so that there may be no coming and going: and no cruel master will again go through them: for now I have seen his trouble."
+                "text": "Then I will keep my temple safe. I will protect it like a guard. I will not allow an enemy to attack my people any more. Now I am watching carefully and I will take care of them."
+              }
+            ]
+          ]
+        },
+        {
+          "heading": "The king of Zion comes to rule his people",
+          "items": [
+            [
+              {
+                "verse": 9,
+                "text": "Be happy and sing, people of Zion!"
               }
             ],
             [
               {
                 "verse": 9,
-                "text": "Be full of joy, O daughter of Zion; give a glad cry, O daughter of Jerusalem: see, your king comes to you: he is upright and has overcome; gentle and seated on an ass, on a young ass."
-              },
+                "text": "Shout with joy, people of Jerusalem!"
+              }
+            ],
+            [
+              {
+                "verse": 9,
+                "text": "Look! Your king is coming to you."
+              }
+            ],
+            [
+              {
+                "verse": 9,
+                "text": "He is righteous and he has won against his enemies."
+              }
+            ],
+            [
+              {
+                "verse": 9,
+                "text": "He is humble and he is riding on a donkey."
+              }
+            ],
+            [
+              {
+                "verse": 9,
+                "text": "Yes, he is riding on a young donkey."
+              }
+            ],
+            [
               {
                 "verse": 10,
-                "text": "And he will have the war-carriage cut off from Ephraim, and the horse from Jerusalem, and the bow of war will be cut off: and he will say words of peace to the nations: and his rule will be from sea to sea, and from the River to the ends of the earth."
-              },
+                "text": "I will remove the chariots from Ephraim."
+              }
+            ],
+            [
+              {
+                "verse": 10,
+                "text": "I will remove the soldiers' horses from Jerusalem,"
+              }
+            ],
+            [
+              {
+                "verse": 10,
+                "text": "and I will destroy their bows and their arrows."
+              }
+            ],
+            [
+              {
+                "verse": 10,
+                "text": "The king will tell the nations that they will live in peace."
+              }
+            ],
+            [
+              {
+                "verse": 10,
+                "text": "He will rule as king from the sea in the west to the sea in the east."
+              }
+            ],
+            [
+              {
+                "verse": 10,
+                "text": "He will rule everywhere, from the Euphrates River to the furthest places on the earth."
+              }
+            ],
+            [
+              {
+                "verse": 10,
+                "text": "11 I made a covenant with you, my people. The blood of sacrifices showed that you agreed with that covenant. Now some of you are prisoners. I will rescue those prisoners from dark places where there is no water. 12 Yes, you prisoners who now hope for better things, return home where you will be safe. I tell you this today: I will give back to you twice as much as you have lost.9:11 13 I will use Judah as my bow and Ephraim as my arrow to attack my enemies! I will use you, young men of Zion, to attack the soldiers of Greece. I will cause Zion to be like a soldier's sword in my hand. 14 Then the Lord will appear above his people.He will shoot his arrows like lightning in the sky.The Almighty Lord will make a loud noise with his trumpet.He will march into battle like a storm from the south. 15 The Lord Almighty will protect his people.They will attack their enemies with stones from their slingsand they will win the battle.They will drink and they will shout loudly,like men who are drunk.The blood of their enemies will make them full,as a priest's bowl is full of bloodwhen he pours it on the corners of the altar. 16 On that day, the Lord their God will rescue his people,as a shepherd rescues his sheep.They will live in his land,like bright jewels that shine in a crown. 17 It will all be very good and beautiful! Grain from the land will make the young men strong.The young women will become strongas they drink new wine."
+              }
+            ],
+            [
               {
                 "verse": 11,
-                "text": "And as for you, because of the blood of your agreement, I have sent out your prisoners from the deep hole in which there is no water."
+                "text": "I made a covenant with you, my people. The blood of sacrifices showed that you agreed with that covenant. Now some of you are prisoners. I will rescue those prisoners from dark places where there is no water."
               },
               {
                 "verse": 12,
-                "text": "And they will come back to you, O daughter of Zion, as prisoners of hope: today I say to you that I will give you back twice as much;"
+                "text": "Yes, you prisoners who now hope for better things, return home where you will be safe. I tell you this today: I will give back to you twice as much as you have lost."
               }
             ],
             [
               {
                 "verse": 13,
-                "text": "For I have made Judah a bow bent for my use, I have made Ephraim the arrows of the bow; I will make your sons, O Zion, take up arms against your sons, O Greece, and will make you like the sword of a man of war."
-              },
+                "text": "I will use Judah as my bow and Ephraim as my arrow to attack my enemies! I will use you, young men of Zion, to attack the soldiers of Greece. I will cause Zion to be like a soldier's sword in my hand."
+              }
+            ],
+            [
+              {
+                "verse": 13,
+                "text": "14 Then the Lord will appear above his people.He will shoot his arrows like lightning in the sky.The Almighty Lord will make a loud noise with his trumpet.He will march into battle like a storm from the south. 15 The Lord Almighty will protect his people.They will attack their enemies with stones from their slingsand they will win the battle.They will drink and they will shout loudly,like men who are drunk.The blood of their enemies will make them full,as a priest's bowl is full of bloodwhen he pours it on the corners of the altar. 16 On that day, the Lord their God will rescue his people,as a shepherd rescues his sheep.They will live in his land,like bright jewels that shine in a crown. 17 It will all be very good and beautiful! Grain from the land will make the young men strong.The young women will become strongas they drink new wine."
+              }
+            ],
+            [
               {
                 "verse": 14,
-                "text": "And the Lord will be seen over them, and his arrow will go out like the thunder-flame: and the Lord God, sounding the war-horn, will go in the storm-winds of the South."
-              },
+                "text": "Then the Lord will appear above his people."
+              }
+            ],
+            [
+              {
+                "verse": 14,
+                "text": "He will shoot his arrows like lightning in the sky."
+              }
+            ],
+            [
+              {
+                "verse": 14,
+                "text": "The Almighty Lord will make a loud noise with his trumpet."
+              }
+            ],
+            [
+              {
+                "verse": 14,
+                "text": "He will march into battle like a storm from the south."
+              }
+            ],
+            [
               {
                 "verse": 15,
-                "text": "The Lord of armies will be a cover for them; and they will overcome, crushing under foot the armed men; they will take their blood for drink like wine: they will be full like the sides of the altar."
-              },
+                "text": "The Lord Almighty will protect his people."
+              }
+            ],
+            [
+              {
+                "verse": 15,
+                "text": "They will attack their enemies with stones from their slings"
+              }
+            ],
+            [
+              {
+                "verse": 15,
+                "text": "and they will win the battle."
+              }
+            ],
+            [
+              {
+                "verse": 15,
+                "text": "They will drink and they will shout loudly,"
+              }
+            ],
+            [
+              {
+                "verse": 15,
+                "text": "like men who are drunk."
+              }
+            ],
+            [
+              {
+                "verse": 15,
+                "text": "The blood of their enemies will make them full,"
+              }
+            ],
+            [
+              {
+                "verse": 15,
+                "text": "as a priest's bowl is full of blood"
+              }
+            ],
+            [
+              {
+                "verse": 15,
+                "text": "when he pours it on the corners of the altar."
+              }
+            ],
+            [
               {
                 "verse": 16,
-                "text": "And the Lord their God will be their saviour in that day, giving them food like the flock of his people: for they will be like the jewels of a crown shining over his land."
+                "text": "On that day, the Lord their God will rescue his people,"
+              }
+            ],
+            [
+              {
+                "verse": 16,
+                "text": "as a shepherd rescues his sheep."
+              }
+            ],
+            [
+              {
+                "verse": 16,
+                "text": "They will live in his land,"
+              }
+            ],
+            [
+              {
+                "verse": 16,
+                "text": "like bright jewels that shine in a crown."
               }
             ],
             [
               {
                 "verse": 17,
-                "text": "For how good it is and how beautiful! grain will make the young men strong and new wine the virgins."
+                "text": "It will all be very good and beautiful!"
+              }
+            ],
+            [
+              {
+                "verse": 17,
+                "text": "Grain from the land will make the young men strong."
+              }
+            ],
+            [
+              {
+                "verse": 17,
+                "text": "The young women will become strong"
+              }
+            ],
+            [
+              {
+                "verse": 17,
+                "text": "as they drink new wine."
               }
             ]
           ]
         }
       ],
-      "verses": [
-        {
-          "verse": 1,
-          "text": "A word of the Lord: The Lord has come to the land of Hadrach, and Damascus is his resting-place: for the towns of Aram are the Lord's,"
-        },
-        {
-          "verse": 2,
-          "text": "As well as Hamath, which is by its limit, and Tyre and Zidon, because they are very wise."
-        },
-        {
-          "verse": 3,
-          "text": "And Tyre made for herself a strong place, and got together silver like dust and the best gold like the earth of the streets."
-        },
-        {
-          "verse": 4,
-          "text": "See, the Lord will take away her heritage, overturning her power in the sea; and she will be burned up with fire."
-        },
-        {
-          "verse": 5,
-          "text": "Ashkelon will see it with fear, and Gaza, bent with pain; and Ekron, for her hope will be shamed: and the king will be cut off from Gaza, and Ashkelon will be unpeopled."
-        },
-        {
-          "verse": 6,
-          "text": "And a mixed people will be living in Ashdod, and I will have the pride of the Philistines cut off."
-        },
-        {
-          "verse": 7,
-          "text": "And I will take away his blood from his mouth, and his disgusting things from between his teeth; and some of his people will be kept for our God: and he will be as a family in Judah, and Ekron as one living in Jerusalem."
-        },
-        {
-          "verse": 8,
-          "text": "And I will put my forces in position round my house, so that there may be no coming and going: and no cruel master will again go through them: for now I have seen his trouble."
-        },
-        {
-          "verse": 9,
-          "text": "Be full of joy, O daughter of Zion; give a glad cry, O daughter of Jerusalem: see, your king comes to you: he is upright and has overcome; gentle and seated on an ass, on a young ass."
-        },
-        {
-          "verse": 10,
-          "text": "And he will have the war-carriage cut off from Ephraim, and the horse from Jerusalem, and the bow of war will be cut off: and he will say words of peace to the nations: and his rule will be from sea to sea, and from the River to the ends of the earth."
-        },
-        {
-          "verse": 11,
-          "text": "And as for you, because of the blood of your agreement, I have sent out your prisoners from the deep hole in which there is no water."
-        },
-        {
-          "verse": 12,
-          "text": "And they will come back to you, O daughter of Zion, as prisoners of hope: today I say to you that I will give you back twice as much;"
-        },
-        {
-          "verse": 13,
-          "text": "For I have made Judah a bow bent for my use, I have made Ephraim the arrows of the bow; I will make your sons, O Zion, take up arms against your sons, O Greece, and will make you like the sword of a man of war."
-        },
-        {
-          "verse": 14,
-          "text": "And the Lord will be seen over them, and his arrow will go out like the thunder-flame: and the Lord God, sounding the war-horn, will go in the storm-winds of the South."
-        },
-        {
-          "verse": 15,
-          "text": "The Lord of armies will be a cover for them; and they will overcome, crushing under foot the armed men; they will take their blood for drink like wine: they will be full like the sides of the altar."
-        },
-        {
-          "verse": 16,
-          "text": "And the Lord their God will be their saviour in that day, giving them food like the flock of his people: for they will be like the jewels of a crown shining over his land."
-        },
-        {
-          "verse": 17,
-          "text": "For how good it is and how beautiful! grain will make the young men strong and new wine the virgins."
-        }
-      ],
-      "totalVerses": 17,
-      "footnotes": []
+      "notes": [
+        "Damascus was the capital city of Syria.",
+        "The Philistines were anationof people who were powerful enemies of Israel. They lived beside the sea on the west side of Israel.",
+        "Ephraim was a name for the northernkingdomof Israel.",
+        "This means from the Mediterranean Sea to the Salt Sea (Dead Sea).",
+        "SeeExodus 24:6-8."
+      ]
     },
     {
-      "book": "Zechariah",
       "chapter": 10,
       "title": "Zechariah 10",
-      "subtitle": "Zechariah Chapter 10",
+      "subtitle": "",
+      "totalVerses": 12,
+      "sourceUrl": "https://www.easyenglish.bible/bible/easy/zechariah/10/",
       "sections": [
         {
-          "heading": "Zechariah Chapter 10",
+          "heading": "God will take care of his people in Judah",
           "items": [
             [
               {
                 "verse": 1,
-                "text": "Make your request to the Lord for rain in the time of the spring rains, even to the Lord who makes the thunder-flames; and he will give them showers of rain, to every man grass in the field."
-              },
+                "text": "Ask the Lord for rain in spring. It is the Lord who makes the clouds that give us rain. He will provide rain for everyone, so that crops grow in the fields."
+              }
+            ],
+            [
               {
                 "verse": 2,
-                "text": "For the images have said what is not true, and the readers of signs have seen deceit; they have given accounts of false dreams, they give comfort to no purpose: so they go out of the way like sheep, they are troubled because they have no keeper."
-              },
+                "text": "When people ask their idols for help, the idols deceive them. People who use magic to know what will happen see false visions. People who explain the meaning of dreams tell lies. They cannot help anyone to be strong. As a result, people have nobody to show them the right way. They move around like sheep that have no shepherd to take care of them."
+              }
+            ],
+            [
               {
                 "verse": 3,
-                "text": "My wrath is burning against the keepers of the flock, and I will send punishment on the he-goats: for the Lord of armies takes care of his flock, the people of Judah, and will make them like the horse of his pride in the fight."
-              },
+                "text": "The Lord says, ‘I am very angry with the shepherds of my people. I will punish the leaders.’"
+              }
+            ],
+            [
+              {
+                "verse": 3,
+                "text": "Like a shepherd, the Lord Almighty takes care of his people. He will cause Judah's people to become strong, like horses that are ready to fight in a battle."
+              }
+            ],
+            [
               {
                 "verse": 4,
-                "text": "From him will come the keystone, from him the nail, from him the bow of war, from him will come every ruler;"
+                "text": "From among Judah's descendants a strong leader will appear."
+              }
+            ],
+            [
+              {
+                "verse": 4,
+                "text": "He is like the most important stone at the corner of a building."
+              }
+            ],
+            [
+              {
+                "verse": 4,
+                "text": "He is like a strong peg in a wall."
+              }
+            ],
+            [
+              {
+                "verse": 4,
+                "text": "He is like a bow that is ready to shoot arrows."
+              }
+            ],
+            [
+              {
+                "verse": 4,
+                "text": "Every strong ruler will come from Judah's descendants."
               }
             ],
             [
               {
                 "verse": 5,
-                "text": "Together they will be like men of war, crushing down their haters into the earth of the streets in the fight; they will make war because the Lord is with them: and the horsemen will be shamed."
-              },
+                "text": "Together they will be like brave soldiers who stamp on their enemies in the mud of the streets. The Lord is with them as they fight. They will pull down the enemy soldiers who ride on horses."
+              }
+            ],
+            [
               {
                 "verse": 6,
-                "text": "And I will make the children of Judah strong, and I will be the saviour of the children of Joseph, and I will make them come back again, for I have had mercy on them: they will be as if I had not given them up: for I am the Lord their God and I will give them an answer."
-              },
+                "text": "The Lord says, ‘I will make Judah's people strong. I will rescue Israel's people. I will bring them back home, because I am sorry for them. It will seem as if I had never turned away from them. I am the Lord, their God, so I will answer their prayers."
+              }
+            ],
+            [
               {
                 "verse": 7,
-                "text": "And Ephraim will be like a man of war, and their hearts will be glad as with wine; and their children will see it with joy; their hearts will be glad in the Lord."
-              },
+                "text": "Israel's people will be like brave soldiers. They will be as happy as men that have drunk wine. Their children will also see this and they will be happy too. They will sing with joy because of the things that the Lord has done."
+              }
+            ],
+            [
               {
                 "verse": 8,
-                "text": "With the sound of the pipe I will get them together; for I have given the price to make them free: and they will be increased as they were increased."
+                "text": "I will call out to my people to come home. I have done what is necessary to rescue them. They will grow in number to be as many people as they were before."
               }
             ],
             [
               {
                 "verse": 9,
-                "text": "Though I had them planted among the peoples, they will keep me in mind in far countries: and they will take care of their children and will come back."
-              },
+                "text": "I have sent them away to live among other nations. But they will remember me in those countries far away. They and their children will remain alive. They will return home together."
+              }
+            ],
+            [
               {
                 "verse": 10,
-                "text": "And I will make them come back out of the land of Egypt, and will get them together out of Assyria; and I will take them into the land of Gilead, and it will not be wide enough for them."
-              },
+                "text": "I will bring my people back from Egypt and from Assyria. I will bring them to live in Gilead and in Lebanon. Their own land will not be big enough for all of them."
+              }
+            ],
+            [
               {
                 "verse": 11,
-                "text": "And they will go through the sea of Egypt, and all the deep waters of the Nile will become dry: and the pride of Assyria will be made low, and the power of Egypt will be taken away."
-              },
+                "text": "When my people need to go across the sea of many troubles, I will cause its waves to stop. I will cause the deep water of the Nile River to become dry."
+              }
+            ],
+            [
+              {
+                "verse": 11,
+                "text": "Proud Assyria will become ashamed."
+              }
+            ],
+            [
+              {
+                "verse": 11,
+                "text": "Egypt will no longer have the power to rule other nations."
+              }
+            ],
+            [
               {
                 "verse": 12,
-                "text": "And their strength will be in the Lord; and their pride will be in his name, says the Lord."
+                "text": "I will use my power to make my people strong."
+              }
+            ],
+            [
+              {
+                "verse": 12,
+                "text": "They will give me honour wherever they go.’"
+              }
+            ],
+            [
+              {
+                "verse": 12,
+                "text": "That is what the Lord says."
               }
             ]
           ]
         }
       ],
-      "verses": [
-        {
-          "verse": 1,
-          "text": "Make your request to the Lord for rain in the time of the spring rains, even to the Lord who makes the thunder-flames; and he will give them showers of rain, to every man grass in the field."
-        },
-        {
-          "verse": 2,
-          "text": "For the images have said what is not true, and the readers of signs have seen deceit; they have given accounts of false dreams, they give comfort to no purpose: so they go out of the way like sheep, they are troubled because they have no keeper."
-        },
-        {
-          "verse": 3,
-          "text": "My wrath is burning against the keepers of the flock, and I will send punishment on the he-goats: for the Lord of armies takes care of his flock, the people of Judah, and will make them like the horse of his pride in the fight."
-        },
-        {
-          "verse": 4,
-          "text": "From him will come the keystone, from him the nail, from him the bow of war, from him will come every ruler;"
-        },
-        {
-          "verse": 5,
-          "text": "Together they will be like men of war, crushing down their haters into the earth of the streets in the fight; they will make war because the Lord is with them: and the horsemen will be shamed."
-        },
-        {
-          "verse": 6,
-          "text": "And I will make the children of Judah strong, and I will be the saviour of the children of Joseph, and I will make them come back again, for I have had mercy on them: they will be as if I had not given them up: for I am the Lord their God and I will give them an answer."
-        },
-        {
-          "verse": 7,
-          "text": "And Ephraim will be like a man of war, and their hearts will be glad as with wine; and their children will see it with joy; their hearts will be glad in the Lord."
-        },
-        {
-          "verse": 8,
-          "text": "With the sound of the pipe I will get them together; for I have given the price to make them free: and they will be increased as they were increased."
-        },
-        {
-          "verse": 9,
-          "text": "Though I had them planted among the peoples, they will keep me in mind in far countries: and they will take care of their children and will come back."
-        },
-        {
-          "verse": 10,
-          "text": "And I will make them come back out of the land of Egypt, and will get them together out of Assyria; and I will take them into the land of Gilead, and it will not be wide enough for them."
-        },
-        {
-          "verse": 11,
-          "text": "And they will go through the sea of Egypt, and all the deep waters of the Nile will become dry: and the pride of Assyria will be made low, and the power of Egypt will be taken away."
-        },
-        {
-          "verse": 12,
-          "text": "And their strength will be in the Lord; and their pride will be in his name, says the Lord."
-        }
-      ],
-      "totalVerses": 12,
-      "footnotes": []
+      "notes": [
+        "Assyria was a country that was north of Israel. It was in what are now called northern Iraq and south-east Turkey. The Assyrians were enemies of the Israelites. Egypt is a country in north Africa that was south of Israel."
+      ]
     },
     {
-      "book": "Zechariah",
       "chapter": 11,
       "title": "Zechariah 11",
-      "subtitle": "Zechariah Chapter 11",
+      "subtitle": "",
+      "totalVerses": 17,
+      "sourceUrl": "https://www.easyenglish.bible/bible/easy/zechariah/11/",
       "sections": [
         {
-          "heading": "Zechariah Chapter 11",
+          "heading": "Punishment for Lebanon",
           "items": [
             [
               {
                 "verse": 1,
-                "text": "Let your doors be open, O Lebanon, so that fire may be burning among your cedars."
-              },
+                "text": "Open the gates of your land, Lebanon,"
+              }
+            ],
+            [
+              {
+                "verse": 1,
+                "text": "so that the fire can destroy your cedar trees."
+              }
+            ],
+            [
               {
                 "verse": 2,
-                "text": "Give a cry of grief, O fir-tree, for the fall of the cedar, because the great ones have been made low: give cries of grief, O you oaks of Bashan, for the strong trees of the wood have come down."
-              },
+                "text": "Cry aloud, pine trees, because the cedar trees have fallen."
+              }
+            ],
+            [
+              {
+                "verse": 2,
+                "text": "The great trees are completely spoiled."
+              }
+            ],
+            [
+              {
+                "verse": 2,
+                "text": "Cry aloud, Bashan's oak trees."
+              }
+            ],
+            [
+              {
+                "verse": 2,
+                "text": "Enemies have cut down the whole forest."
+              }
+            ],
+            [
               {
                 "verse": 3,
-                "text": "The sound of the crying of the keepers of the flock! for their glory is made waste: the sound of the loud crying of the young lions! for the pride of Jordan is made waste."
-              },
+                "text": "Listen to the shepherds as they cry aloud!"
+              }
+            ],
+            [
+              {
+                "verse": 3,
+                "text": "Enemies have destroyed the fields where their sheep feed."
+              }
+            ],
+            [
+              {
+                "verse": 3,
+                "text": "Listen to the young lions as they roar!"
+              }
+            ],
+            [
+              {
+                "verse": 3,
+                "text": "The trees of the Jordan Valley are completely spoiled."
+              }
+            ]
+          ]
+        },
+        {
+          "heading": "God's message about good and bad shepherds",
+          "items": [
+            [
               {
                 "verse": 4,
-                "text": "This is what the Lord my God has said: Take care of the flock of death;"
+                "text": "The Lord my God said this:"
               }
             ],
             [
+              {
+                "verse": 4,
+                "text": "‘You must take care of my people, as a shepherd takes care of his sheep. My people are like sheep that people will soon kill."
+              },
               {
                 "verse": 5,
-                "text": "Whose owners put them to death and have no sense of sin; and those who get a price for them say, May the Lord be praised for I have much wealth: and the keepers of the flock have no pity for them."
-              },
-              {
-                "verse": 6,
-                "text": "For I will have no more pity for the people of the land, says the Lord; but I will give up everyone into his neighbour's hand and into the hand of his king: and they will make the land waste, and I will not keep them safe from their hands."
-              },
-              {
-                "verse": 7,
-                "text": "So I took care of the flock of death, for those who made profit out of the flock; and I took for myself two rods, naming one Beautiful, and the other Bands; and I took care of the flock."
-              },
-              {
-                "verse": 8,
-                "text": "And in one month I put an end to the three keepers of the flock; for my soul was tired of them, and their souls were disgusted with me."
+                "text": "The people who buy the sheep will kill them. But nobody will punish them for this. The people who sell the sheep are happy. They say, “ Praise the Lord! Now I am rich.” Even the shepherds do not feel sorry for their own sheep.’"
               }
             ],
             [
               {
-                "verse": 9,
-                "text": "And I said, I will not take care of you: If death comes to any, let death be its fate; if any is cut off, let it be cut off; and let the rest take one another's flesh for food."
+                "verse": 6,
+                "text": "The Lord says, ‘I myself will no longer feel sorry for the people of this land. I will put them under the power of other people. I will put them under the power of their own king. Those powerful people will destroy the land, and I will not rescue the people.’"
+              }
+            ],
+            [
+              {
+                "verse": 7,
+                "text": "So I became a shepherd for the sheep that people would soon kill. I took good care of the weakest sheep. Then I took two shepherd's sticks. I called one stick ‘Kind’ and I called the other stick ‘Together’. I took good care of the sheep."
+              }
+            ],
+            [
+              {
+                "verse": 8,
+                "text": "In one month, I removed the three other shepherds. I could not be patient with them and they hated me."
               },
               {
+                "verse": 9,
+                "text": "I said, ‘I will not be a shepherd for you any longer. If sheep are dying, I will allow them to die. If sheep are becoming lost, I will allow them to be lost. As for the sheep that still remain, they can destroy each other.’"
+              }
+            ],
+            [
+              {
                 "verse": 10,
-                "text": "And I took my rod Beautiful, cutting it in two, so that the Lord's agreement, which he had made with all the peoples, might be broken."
+                "text": "I took hold of my stick that was called ‘Kind’. I broke it into two pieces. This showed that I had caused my covenant to finish. That was the covenant that I had agreed with all the people."
               },
               {
                 "verse": 11,
-                "text": "And it was broken on that day: and the sheep-traders, who were watching me, were certain that it was the word of the Lord."
-              },
+                "text": "It was on that day that the covenant finished. The men who bought and sold sheep saw what I was doing. So they knew that it was a message from the Lord."
+              }
+            ],
+            [
               {
                 "verse": 12,
-                "text": "And I said to them, If it seems good to you, give me my payment; and if not, do not give it. So they gave me my payment by weight, thirty shekels of silver."
+                "text": "I said to them, ‘If you think it is right, you should pay me for my work. But do not pay me if you do not think it is right.’ So they decided to pay me 30 silver coins."
               }
             ],
             [
               {
                 "verse": 13,
-                "text": "And the Lord said to me, Put it into the store-house, the price at which I was valued by them. And I took the thirty shekels of silver and put them into the store-house in the house of the Lord."
-              },
+                "text": "The Lord said to me, ‘Throw the money to the potter! They think that I am worth only 30 silver coins!’ So I took the money and I threw them to the potter at the Lord's temple."
+              }
+            ],
+            [
               {
                 "verse": 14,
-                "text": "Then I took my other rod, the one named Bands, cutting it in two, so that the relation of brothers between Judah and Israel might be broken."
-              },
+                "text": "Then I broke the second stick into two pieces. That was the stick called ‘Together’. This showed that the kingdom of Judah would become separate from the kingdom of Israel."
+              }
+            ],
+            [
               {
                 "verse": 15,
-                "text": "And the Lord said to me, Take again the instruments of a foolish keeper of sheep."
+                "text": "Then the Lord said to me, ‘Take again the things that a foolish shepherd would use."
               },
               {
                 "verse": 16,
-                "text": "For see, I will put a sheep-keeper over the land, who will have no care for that which is cut off, and will not go in search of the wanderers, or make well what is broken, and he will not give food to that which is ill, but he will take for his food the flesh of the fat, and let their feet be broken."
+                "text": "I will now bring another shepherd to rule in this land. He will not help the sheep that will soon die. He will not look for the sheep that are becoming lost. He will not help the sick sheep to become well again. He will not even feed the sheep that are healthy. Instead, he will eat the meat of the fat sheep. He will even pull off their feet for himself."
               }
             ],
             [
               {
                 "verse": 17,
-                "text": "A curse on the foolish keeper who goes away from the flock! the sword will be on his arm and on his right eye: his arm will become quite dry and his eye will be made completely dark."
+                "text": "Terrible things will happen to the useless shepherd who leaves his sheep."
+              }
+            ],
+            [
+              {
+                "verse": 17,
+                "text": "His enemy's sword will cut his arm and his right eye."
+              }
+            ],
+            [
+              {
+                "verse": 17,
+                "text": "His arm will become weak and useless."
+              }
+            ],
+            [
+              {
+                "verse": 17,
+                "text": "His right eye will become completely blind.’"
               }
             ]
           ]
         }
       ],
-      "verses": [
-        {
-          "verse": 1,
-          "text": "Let your doors be open, O Lebanon, so that fire may be burning among your cedars."
-        },
-        {
-          "verse": 2,
-          "text": "Give a cry of grief, O fir-tree, for the fall of the cedar, because the great ones have been made low: give cries of grief, O you oaks of Bashan, for the strong trees of the wood have come down."
-        },
-        {
-          "verse": 3,
-          "text": "The sound of the crying of the keepers of the flock! for their glory is made waste: the sound of the loud crying of the young lions! for the pride of Jordan is made waste."
-        },
-        {
-          "verse": 4,
-          "text": "This is what the Lord my God has said: Take care of the flock of death;"
-        },
-        {
-          "verse": 5,
-          "text": "Whose owners put them to death and have no sense of sin; and those who get a price for them say, May the Lord be praised for I have much wealth: and the keepers of the flock have no pity for them."
-        },
-        {
-          "verse": 6,
-          "text": "For I will have no more pity for the people of the land, says the Lord; but I will give up everyone into his neighbour's hand and into the hand of his king: and they will make the land waste, and I will not keep them safe from their hands."
-        },
-        {
-          "verse": 7,
-          "text": "So I took care of the flock of death, for those who made profit out of the flock; and I took for myself two rods, naming one Beautiful, and the other Bands; and I took care of the flock."
-        },
-        {
-          "verse": 8,
-          "text": "And in one month I put an end to the three keepers of the flock; for my soul was tired of them, and their souls were disgusted with me."
-        },
-        {
-          "verse": 9,
-          "text": "And I said, I will not take care of you: If death comes to any, let death be its fate; if any is cut off, let it be cut off; and let the rest take one another's flesh for food."
-        },
-        {
-          "verse": 10,
-          "text": "And I took my rod Beautiful, cutting it in two, so that the Lord's agreement, which he had made with all the peoples, might be broken."
-        },
-        {
-          "verse": 11,
-          "text": "And it was broken on that day: and the sheep-traders, who were watching me, were certain that it was the word of the Lord."
-        },
-        {
-          "verse": 12,
-          "text": "And I said to them, If it seems good to you, give me my payment; and if not, do not give it. So they gave me my payment by weight, thirty shekels of silver."
-        },
-        {
-          "verse": 13,
-          "text": "And the Lord said to me, Put it into the store-house, the price at which I was valued by them. And I took the thirty shekels of silver and put them into the store-house in the house of the Lord."
-        },
-        {
-          "verse": 14,
-          "text": "Then I took my other rod, the one named Bands, cutting it in two, so that the relation of brothers between Judah and Israel might be broken."
-        },
-        {
-          "verse": 15,
-          "text": "And the Lord said to me, Take again the instruments of a foolish keeper of sheep."
-        },
-        {
-          "verse": 16,
-          "text": "For see, I will put a sheep-keeper over the land, who will have no care for that which is cut off, and will not go in search of the wanderers, or make well what is broken, and he will not give food to that which is ill, but he will take for his food the flesh of the fat, and let their feet be broken."
-        },
-        {
-          "verse": 17,
-          "text": "A curse on the foolish keeper who goes away from the flock! the sword will be on his arm and on his right eye: his arm will become quite dry and his eye will be made completely dark."
-        }
-      ],
-      "totalVerses": 17,
-      "footnotes": []
+      "notes": [
+        "The Jordan River went from Galilee in the north of Israel to the Salt Sea (Dead Sea) in the south.",
+        "After King Solomon died, thenationof Israel became twokingdoms. The kingdom in the north was called Israel. The kingdom in the south was called Judah."
+      ]
     },
     {
-      "book": "Zechariah",
       "chapter": 12,
       "title": "Zechariah 12",
-      "subtitle": "Zechariah Chapter 12",
+      "subtitle": "",
+      "totalVerses": 14,
+      "sourceUrl": "https://www.easyenglish.bible/bible/easy/zechariah/12/",
       "sections": [
         {
-          "heading": "Zechariah Chapter 12",
+          "heading": "God will destroy Jerusalem's enemies",
           "items": [
             [
               {
                 "verse": 1,
-                "text": "The word of the Lord about Israel. The Lord by whom the heavens are stretched out and the bases of the earth put in place, and the spirit of man formed inside him, has said:"
-              },
-              {
-                "verse": 2,
-                "text": "See, I will make Jerusalem a cup of shaking fear to all the peoples round about, when Jerusalem is shut in."
-              },
-              {
-                "verse": 3,
-                "text": "And it will come about in that day that I will make Jerusalem a stone of great weight for all the peoples; all those who take it up will be badly wounded; and all the nations of the earth will come together against it."
-              },
-              {
-                "verse": 4,
-                "text": "In that day, says the Lord, I will put fear into every horse and make every horseman go off his head: and my eyes will be open on the people of Judah, and I will make every horse of the peoples blind."
+                "text": "This is the Lord's message that he spoke about Israel. He is the Lord who made all the heavens and who created the whole earth. He is the one who gives life to men and women. He says:"
               }
             ],
             [
               {
-                "verse": 5,
-                "text": "And the families of Judah will say in their hearts, The people of Jerusalem have their strength in the Lord of armies, their God."
+                "verse": 2,
+                "text": "‘Look! I will cause Jerusalem to become like a bowl that is full of wine! The nations that are near will drink from it and they will become drunk. They will attack Jerusalem and the other cities of Judah."
+              }
+            ],
+            [
+              {
+                "verse": 3,
+                "text": "On that day, I will cause Jerusalem to be like a heavy rock. Any army that tries to move it will hurt themselves very much. But all the nations of the earth will come together to attack Jerusalem.’"
+              }
+            ],
+            [
+              {
+                "verse": 4,
+                "text": "The Lord says, ‘On that day, I will cause every horse to become confused. I will cause their riders to be crazy. I will take care of Judah's people. But I will make the horses of their enemies blind."
               },
               {
+                "verse": 5,
+                "text": "Then the leaders of Judah will say to themselves, “Jerusalem's people are strong because the Lord Almighty is their God.”"
+              }
+            ],
+            [
+              {
                 "verse": 6,
-                "text": "In that day I will make the families of Judah like a pot with fire in it among trees, and like a flaming stick among cut grain; they will send destruction on all the peoples round about, on the right hand and on the left: and Jerusalem will be living again in the place which is hers, that is, in Jerusalem."
+                "text": "On that day, I will make Judah's leaders like a flame that starts a fire in a heap of wood. They will be like a fire in a field of dry grass. They will destroy all the nations that are everywhere around them. Then the people of Jerusalem will live safely in the city."
               },
               {
                 "verse": 7,
-                "text": "And the Lord will give salvation to the tents of Judah first, so that the glory of the family of David and the glory of the people of Jerusalem may not be greater than that of Judah."
-              },
+                "text": "I, the Lord, will save the homes of Judah first, before I rescue Jerusalem's people. As a result, the descendants of King David and the people of Jerusalem will not receive greater honour than other places in Judah."
+              }
+            ],
+            [
               {
                 "verse": 8,
-                "text": "In that day the Lord will be a cover over the people of Jerusalem; and he who is feeble among them in that day will be as strong as David, and the family of David will be as God, as the angel of the Lord before them."
+                "text": "On that day, the Lord will save the people who live in Jerusalem. Even the people who are very weak will become strong again, like great King David. King David's descendants will rule the people, as if the angel of the Lord himself is leading them."
               }
             ],
             [
               {
                 "verse": 9,
-                "text": "And it will come about on that day that I will take in hand the destruction of all the nations who come against Jerusalem."
-              },
+                "text": "On that day, I will begin to destroy all the nations that attack Jerusalem."
+              }
+            ]
+          ]
+        },
+        {
+          "heading": "God's people will weep for the one that they killed",
+          "items": [
+            [
               {
                 "verse": 10,
-                "text": "And I will send down on the family of David and on the people of Jerusalem the spirit of grace and of prayer; and their eyes will be turned to the one who was wounded by their hands: and they will be weeping for him as for an only son, and their grief for him will be bitter, like the grief of one sorrowing for his oldest son."
+                "text": "I, the Lord, will pour a new spirit on David's descendants and on the people who live in Jerusalem. That spirit will cause them to be kind and to pray for help. So they will look towards me. They will see the one that they have pushed a spear into. They will be sad and weep, as parents weep after the death of their only son. They will weep loudly, as if their firstborn son has died."
               },
               {
                 "verse": 11,
-                "text": "In that day there will be a great weeping in Jerusalem, like the weeping of Hadad-rimmon in the valley of Megiddon."
-              },
-              {
-                "verse": 12,
-                "text": "And the land will give itself to weeping, every family separately; the family of David by themselves, and their wives by themselves; the family of Nathan by themselves, and their wives by themselves;"
+                "text": "On that day, the people in Jerusalem will weep very much. They will be as sad as the people were at Hadad-Rimmon, in the fields of Megiddo."
               }
             ],
             [
               {
+                "verse": 12,
+                "text": "All the people in the land of Judah will weep in separate groups. One group will be the clan of David's descendants. Their wives will weep in another group. The clan of Nathan's descendants will weep together as a group. Their wives will weep in a separate group."
+              },
+              {
                 "verse": 13,
-                "text": "The family of Levi by themselves, and their wives by themselves; the family of Shimei by themselves, and their wives by themselves;"
+                "text": "The clan of Levi's descendants will also weep as a group. And their wives will weep as a group. The clan of Shimei's descendants will weep as a group. And their wives will weep as a group."
               },
               {
                 "verse": 14,
-                "text": "And all the other families by themselves, and their wives by themselves."
+                "text": "All the other clans of Judah that still remain will also weep in groups, as well as their wives in separate groups.’"
               }
             ]
           ]
         }
       ],
-      "verses": [
-        {
-          "verse": 1,
-          "text": "The word of the Lord about Israel. The Lord by whom the heavens are stretched out and the bases of the earth put in place, and the spirit of man formed inside him, has said:"
-        },
-        {
-          "verse": 2,
-          "text": "See, I will make Jerusalem a cup of shaking fear to all the peoples round about, when Jerusalem is shut in."
-        },
-        {
-          "verse": 3,
-          "text": "And it will come about in that day that I will make Jerusalem a stone of great weight for all the peoples; all those who take it up will be badly wounded; and all the nations of the earth will come together against it."
-        },
-        {
-          "verse": 4,
-          "text": "In that day, says the Lord, I will put fear into every horse and make every horseman go off his head: and my eyes will be open on the people of Judah, and I will make every horse of the peoples blind."
-        },
-        {
-          "verse": 5,
-          "text": "And the families of Judah will say in their hearts, The people of Jerusalem have their strength in the Lord of armies, their God."
-        },
-        {
-          "verse": 6,
-          "text": "In that day I will make the families of Judah like a pot with fire in it among trees, and like a flaming stick among cut grain; they will send destruction on all the peoples round about, on the right hand and on the left: and Jerusalem will be living again in the place which is hers, that is, in Jerusalem."
-        },
-        {
-          "verse": 7,
-          "text": "And the Lord will give salvation to the tents of Judah first, so that the glory of the family of David and the glory of the people of Jerusalem may not be greater than that of Judah."
-        },
-        {
-          "verse": 8,
-          "text": "In that day the Lord will be a cover over the people of Jerusalem; and he who is feeble among them in that day will be as strong as David, and the family of David will be as God, as the angel of the Lord before them."
-        },
-        {
-          "verse": 9,
-          "text": "And it will come about on that day that I will take in hand the destruction of all the nations who come against Jerusalem."
-        },
-        {
-          "verse": 10,
-          "text": "And I will send down on the family of David and on the people of Jerusalem the spirit of grace and of prayer; and their eyes will be turned to the one who was wounded by their hands: and they will be weeping for him as for an only son, and their grief for him will be bitter, like the grief of one sorrowing for his oldest son."
-        },
-        {
-          "verse": 11,
-          "text": "In that day there will be a great weeping in Jerusalem, like the weeping of Hadad-rimmon in the valley of Megiddon."
-        },
-        {
-          "verse": 12,
-          "text": "And the land will give itself to weeping, every family separately; the family of David by themselves, and their wives by themselves; the family of Nathan by themselves, and their wives by themselves;"
-        },
-        {
-          "verse": 13,
-          "text": "The family of Levi by themselves, and their wives by themselves; the family of Shimei by themselves, and their wives by themselves;"
-        },
-        {
-          "verse": 14,
-          "text": "And all the other families by themselves, and their wives by themselves."
-        }
-      ],
-      "totalVerses": 14,
-      "footnotes": []
+      "notes": [
+        "King David ruled the wholenationof Israel.",
+        "SeeIsaiah 32:15.",
+        "See2 Chronicles 35:23-25."
+      ]
     },
     {
-      "book": "Zechariah",
       "chapter": 13,
       "title": "Zechariah 13",
-      "subtitle": "Zechariah Chapter 13",
+      "subtitle": "",
+      "totalVerses": 9,
+      "sourceUrl": "https://www.easyenglish.bible/bible/easy/zechariah/13/",
       "sections": [
         {
-          "heading": "Zechariah Chapter 13",
+          "heading": "God makes his people clean from their sins",
           "items": [
             [
               {
                 "verse": 1,
-                "text": "In that day there will be a fountain open to the family of David and to the people of Jerusalem, for sin and for that which is unclean."
-              },
-              {
-                "verse": 2,
-                "text": "And it will come about on that day, says the Lord of armies, that I will have the names of the images cut off out of the land, and there will be no more memory of them: and I will send all the prophets and the unclean spirit away from the land."
-              },
-              {
-                "verse": 3,
-                "text": "And if anyone goes on acting as a prophet, then his father and his mother who gave him life will say to him, You may not go on living, for you are saying what is false in the name of the Lord; and his father and his mother will put a sword through him when he does so."
-              },
-              {
-                "verse": 4,
-                "text": "And it will come about in that day that the prophets will be shamed, every man on account of his vision, when he is talking as a prophet; and they will not put on a robe of hair for purposes of deceit:"
+                "text": "‘On that day, water will start to pour from a fountain for King David's descendants and for Jerusalem's people. It will make them clean from their sins and the things that have made them unclean.’"
               }
             ],
             [
               {
+                "verse": 2,
+                "text": "The Lord Almighty says, ‘On that day, I will remove the names of idols from the land. Nobody will remember them any more. I will also remove from the land the false prophets and the bad spirit that deceives them."
+              },
+              {
+                "verse": 3,
+                "text": "Because of that, if anyone continues to prophesy, his own father and mother will say to him, “You must die. You say that you speak with the Lord's authority, but you tell lies.” Then his own parents will use a sword to kill him as he prophesies lies."
+              }
+            ],
+            [
+              {
+                "verse": 4,
+                "text": "On that day, every prophet will be ashamed of his visions. He will no longer wear a prophet's rough clothes to pretend that he is a prophet."
+              },
+              {
                 "verse": 5,
-                "text": "But he will say, I am no prophet, but a worker on the land; for I have been an owner of land from the time when I was young."
+                "text": "Instead, he will say, “Do not think that I am a prophet. No, I am a farmer. From the time that I was a boy, I have always worked on the land.”"
               },
               {
                 "verse": 6,
-                "text": "And if anyone says to him, What are these wounds between your hands? then he will say, Those with which I was wounded in the house of my friends."
-              },
+                "text": "People may ask him, “What caused those wounds on your body?” He will tell them, “I received those wounds when I was at the house of my friends.” ’"
+              }
+            ]
+          ]
+        },
+        {
+          "heading": "God's message about his shepherd and the sheep",
+          "items": [
+            [
               {
                 "verse": 7,
-                "text": "Awake! O sword, against the keeper of my flock, and against him who is with me, says the Lord of armies: put to death the keeper of the sheep, and the sheep will go in flight: and my hand will be turned against the little ones."
-              },
+                "text": "The Lord Almighty says,"
+              }
+            ],
+            [
+              {
+                "verse": 7,
+                "text": "‘Wake up, my sword!"
+              }
+            ],
+            [
+              {
+                "verse": 7,
+                "text": "Attack my shepherd, the man who is near to me."
+              }
+            ],
+            [
+              {
+                "verse": 7,
+                "text": "Kill the shepherd and the sheep will run away."
+              }
+            ],
+            [
+              {
+                "verse": 7,
+                "text": "I will attack the little sheep.’"
+              }
+            ],
+            [
               {
                 "verse": 8,
-                "text": "And it will come about that in all the land, says the Lord, two parts of it will be cut off and come to an end; but the third will be still living there."
+                "text": "The Lord says,"
+              }
+            ],
+            [
+              {
+                "verse": 8,
+                "text": "‘In the whole land, only one third of the people will remain alive."
+              }
+            ],
+            [
+              {
+                "verse": 8,
+                "text": "Two-thirds of the people will die."
               }
             ],
             [
               {
                 "verse": 9,
-                "text": "And I will make the third part go through the fire, cleaning them as silver is made clean, and testing them as gold is tested: and they will make their prayer to me and I will give them an answer: I will say, It is my people; and they will say, The Lord is my God."
+                "text": "I will use fire to test those people who remain."
+              }
+            ],
+            [
+              {
+                "verse": 9,
+                "text": "I will make them pure,"
+              }
+            ],
+            [
+              {
+                "verse": 9,
+                "text": "as men use fire to make gold and silver pure."
+              }
+            ],
+            [
+              {
+                "verse": 9,
+                "text": "They will call to me for help"
+              }
+            ],
+            [
+              {
+                "verse": 9,
+                "text": "and I will answer them."
+              }
+            ],
+            [
+              {
+                "verse": 9,
+                "text": "I will say, “These are my people.”"
+              }
+            ],
+            [
+              {
+                "verse": 9,
+                "text": "They will say, “The Lord is our God.” ’"
               }
             ]
           ]
         }
       ],
-      "verses": [
-        {
-          "verse": 1,
-          "text": "In that day there will be a fountain open to the family of David and to the people of Jerusalem, for sin and for that which is unclean."
-        },
-        {
-          "verse": 2,
-          "text": "And it will come about on that day, says the Lord of armies, that I will have the names of the images cut off out of the land, and there will be no more memory of them: and I will send all the prophets and the unclean spirit away from the land."
-        },
-        {
-          "verse": 3,
-          "text": "And if anyone goes on acting as a prophet, then his father and his mother who gave him life will say to him, You may not go on living, for you are saying what is false in the name of the Lord; and his father and his mother will put a sword through him when he does so."
-        },
-        {
-          "verse": 4,
-          "text": "And it will come about in that day that the prophets will be shamed, every man on account of his vision, when he is talking as a prophet; and they will not put on a robe of hair for purposes of deceit:"
-        },
-        {
-          "verse": 5,
-          "text": "But he will say, I am no prophet, but a worker on the land; for I have been an owner of land from the time when I was young."
-        },
-        {
-          "verse": 6,
-          "text": "And if anyone says to him, What are these wounds between your hands? then he will say, Those with which I was wounded in the house of my friends."
-        },
-        {
-          "verse": 7,
-          "text": "Awake! O sword, against the keeper of my flock, and against him who is with me, says the Lord of armies: put to death the keeper of the sheep, and the sheep will go in flight: and my hand will be turned against the little ones."
-        },
-        {
-          "verse": 8,
-          "text": "And it will come about that in all the land, says the Lord, two parts of it will be cut off and come to an end; but the third will be still living there."
-        },
-        {
-          "verse": 9,
-          "text": "And I will make the third part go through the fire, cleaning them as silver is made clean, and testing them as gold is tested: and they will make their prayer to me and I will give them an answer: I will say, It is my people; and they will say, The Lord is my God."
-        }
-      ],
-      "totalVerses": 9,
-      "footnotes": []
+      "notes": [
+        "Prophetswho served false gods often cut their own bodies. See1 Kings 18:28. But these prophets would nowpretendthat there were other reasons for theirwounds.",
+        "SeeHosea 2:23."
+      ]
     },
     {
-      "book": "Zechariah",
       "chapter": 14,
       "title": "Zechariah 14",
-      "subtitle": "Zechariah Chapter 14",
+      "subtitle": "",
+      "totalVerses": 21,
+      "sourceUrl": "https://www.easyenglish.bible/bible/easy/zechariah/14/",
       "sections": [
         {
-          "heading": "Zechariah Chapter 14",
+          "heading": "God will rule the whole earth",
           "items": [
             [
               {
                 "verse": 1,
-                "text": "See, a day of the Lord is coming when they will make division of your goods taken by force before your eyes."
+                "text": "Listen! A day will soon come when the Lord will judge people. At that time, Jerusalem's enemies will take your valuable things. They will share your things among themselves as you watch."
               },
               {
                 "verse": 2,
-                "text": "For I will get all the nations together to make war against Jerusalem; and the town will be overcome, and the goods taken from the houses, and the women taken by force: and half the town will go away as prisoners, and the rest of the people will not be cut off from the town."
-              },
+                "text": "I will bring all the other nations together to attack Jerusalem. They will take the city for themselves. They will rob the houses. They will take hold of the women to have sex with them. They will take half the people away to other countries as their prisoners. They will allow the other people to remain in Jerusalem."
+              }
+            ],
+            [
               {
                 "verse": 3,
-                "text": "Then the Lord will go out and make war against those nations, as he did in the day of the fight."
-              },
+                "text": "Then the Lord will prepare for battle. He will fight against the people of those nations, as he has fought battles in past times."
+              }
+            ],
+            [
               {
                 "verse": 4,
-                "text": "And in that day his feet will be on the Mount of Olives, which is opposite Jerusalem on the east, and the Mount of Olives will be parted in the middle to the east and to the west, forming a very great valley; and half the mountain will be moved to the north and half of it to the south."
+                "text": "On that day, the Lord's feet will stand on the Mount of Olives that is on the east side of Jerusalem. The Mount of Olives will break in two pieces. Half of the mountain will move north and half of the mountain will move south. There will be a great valley in the middle that goes from east to west."
+              },
+              {
+                "verse": 5,
+                "text": "The valley will reach as far as Azel. You will escape through the valley in the middle of the mountains. It will be like the time of the earthquake when your ancestors escaped. That happened when Uzziah was king of Judah."
               }
             ],
             [
               {
                 "verse": 5,
-                "text": "And the valley will be stopped ... and you will go in flight as you went in flight from the earth-shock in the days of Uzziah, king of Judah: and the Lord my God will come, and all his holy ones with him."
-              },
+                "text": "Then the Lord my God will appear. He will bring his holy angels with him."
+              }
+            ],
+            [
               {
                 "verse": 6,
-                "text": "And in that day there will be no heat or cold or ice;"
+                "text": "On that day, there will be no light, as the sun will not shine in the day."
               },
               {
                 "verse": 7,
-                "text": "And it will be unbroken day, such as the Lord has knowledge of, without change of day and night, and even at nightfall it will be light."
-              },
+                "text": "It will happen in one special day, a day that only the Lord knows. There will not be a normal day and a night. Instead, there will be light at evening time."
+              }
+            ],
+            [
               {
                 "verse": 8,
-                "text": "And on that day living waters will go out from Jerusalem; half of them flowing to the sea on the east and half to the sea on the west: in summer and in winter it will be so."
+                "text": "On that day, fresh water will pour out from Jerusalem. Half of this water will go towards the sea in the east. Half of it will go towards the sea in the west. This will happen during both summer and winter."
               }
             ],
             [
               {
                 "verse": 9,
-                "text": "And the Lord will be King over all the earth: in that day there will be one Lord and his name one."
-              },
-              {
-                "verse": 10,
-                "text": "And all the land will become like the Arabah, from Geba to Rimmon south of Jerusalem; and she will be lifted up and be living in her place; from the doorway of Benjamin to the place of the first doorway, to the doorway of the angle, and from the tower of Hananel to the king's wine-crushing places, men will be living in her."
-              },
-              {
-                "verse": 11,
-                "text": "And there will be no more curse; but Jerusalem will be living without fear of danger."
-              },
-              {
-                "verse": 12,
-                "text": "And this will be the disease which the Lord will send on all the peoples which have been warring against Jerusalem: their flesh will be wasted away while they are on their feet, their eyes will be wasted in their heads and their tongues in their mouths."
+                "text": "The Lord will then be king to rule over all the earth. On that day, there will be only one Lord. Everyone will know him by that one name."
               }
             ],
             [
               {
-                "verse": 13,
-                "text": "And it will be on that day that a great fear will be sent among them from the Lord; and everyone will take his neighbour's hand, and every man's hand will be lifted against his neighbour's."
+                "verse": 10,
+                "text": "All the land will change. From Geba to Rimmon, south of Jerusalem, the land will become flat. But Jerusalem itself will rise up high above the land around it. It will remain in its own place, from the Benjamin Gate to the First Gate and on to the Corner Gate, and from the Tower of Hananel as far as the royal winepresses."
               },
               {
+                "verse": 11,
+                "text": "People will make their homes in the city. They will never be afraid of God's punishment again. Jerusalem will be a safe place to live."
+              }
+            ],
+            [
+              {
+                "verse": 12,
+                "text": "But the Lord will punish the all nations that fought against Jerusalem. He will cause them to become very ill. Even as the people stand on their feet, their bodies will become weak and useless. Their eyes will become useless in their heads. Their tongues will become useless in their mouths."
+              },
+              {
+                "verse": 13,
+                "text": "On that day, the Lord will cause them to be afraid and confused. They will take hold of each other and fight against each other."
+              }
+            ],
+            [
+              {
                 "verse": 14,
-                "text": "And even Judah will be fighting against Jerusalem; and the wealth of all the nations round about will be massed together, a great store of gold and silver and clothing."
+                "text": "Judah's people will also go to Jerusalem to fight there. They will take for themselves the valuable things of all the nations around them. They will take gold and silver and lots of beautiful clothes."
               },
               {
                 "verse": 15,
-                "text": "And the horses and the transport beasts, the camels and the asses and all the beasts in those tents will be attacked by the same disease."
-              },
-              {
-                "verse": 16,
-                "text": "And it will come about that everyone who is still living, of all those nations who came against Jerusalem, will go up from year to year to give worship to the King, the Lord of armies, and to keep the feast of tents."
+                "text": "The animals that belong to those other nations will also become ill, like their people. Their horses, their mules, their camels, their donkeys and all their other animals will be very ill in the places where they have their camps."
               }
             ],
             [
               {
-                "verse": 17,
-                "text": "And it will be that if any one of all the families of the earth does not go up to Jerusalem to give worship to the King, the Lord of armies, on them there will be no rain."
+                "verse": 16,
+                "text": "After that, the people who are still alive from the nations that attacked Jerusalem will return there. They will go to Jerusalem each year during the Festival of Huts. They will go to worship the King, the Lord Almighty."
               },
               {
+                "verse": 17,
+                "text": "If the people of any nation on the earth refuse to go to Jerusalem, their land will have no rain. They must go there to worship the King, the Lord Almighty."
+              }
+            ],
+            [
+              {
                 "verse": 18,
-                "text": "And if the family of Egypt does not go up or come there, they will be attacked by the disease which the Lord will send on the nations:"
+                "text": "If the Egyptian people refuse to go, their land will have no rain. Instead, the Lord will cause them to become very ill. That is how he will punish the people of any nation who refuse to go to Jerusalem for the Festival of Huts."
               },
               {
                 "verse": 19,
-                "text": "This will be the punishment of Egypt, and the punishment of all the nations who do not go up to keep the feast of tents."
-              },
-              {
-                "verse": 20,
-                "text": "On that day all the bells of the horses will be holy to the Lord, and the pots in the Lord's house will be like the basins before the altar."
+                "text": "They must all go to worship the Lord during the Festival of Huts. The Egyptian people and the people of all the other nations will receive the same punishment if they do not do this."
               }
             ],
             [
               {
+                "verse": 20,
+                "text": "On that day, the words, ‘Holy for the Lord’ will be written on the bells of the horses. All the pots in the Lord's temple will be as holy as the bowls in front of the altar."
+              },
+              {
                 "verse": 21,
-                "text": "And every pot in Jerusalem and in Judah will be holy to the Lord of armies: and all those who make offerings will come and take them for boiling their offerings: in that day there will be no more traders in the house of the Lord of armies."
+                "text": "All the pots in Jerusalem and in the whole of Judah will be holy things for the Lord Almighty. The people who come to offer sacrifices may use any of the pots to cook the meat for their sacrifices. On that day, there will no longer be any traders who buy and sell things in the temple of the Lord Almighty."
               }
             ]
           ]
         }
       ],
-      "verses": [
-        {
-          "verse": 1,
-          "text": "See, a day of the Lord is coming when they will make division of your goods taken by force before your eyes."
-        },
-        {
-          "verse": 2,
-          "text": "For I will get all the nations together to make war against Jerusalem; and the town will be overcome, and the goods taken from the houses, and the women taken by force: and half the town will go away as prisoners, and the rest of the people will not be cut off from the town."
-        },
-        {
-          "verse": 3,
-          "text": "Then the Lord will go out and make war against those nations, as he did in the day of the fight."
-        },
-        {
-          "verse": 4,
-          "text": "And in that day his feet will be on the Mount of Olives, which is opposite Jerusalem on the east, and the Mount of Olives will be parted in the middle to the east and to the west, forming a very great valley; and half the mountain will be moved to the north and half of it to the south."
-        },
-        {
-          "verse": 5,
-          "text": "And the valley will be stopped ... and you will go in flight as you went in flight from the earth-shock in the days of Uzziah, king of Judah: and the Lord my God will come, and all his holy ones with him."
-        },
-        {
-          "verse": 6,
-          "text": "And in that day there will be no heat or cold or ice;"
-        },
-        {
-          "verse": 7,
-          "text": "And it will be unbroken day, such as the Lord has knowledge of, without change of day and night, and even at nightfall it will be light."
-        },
-        {
-          "verse": 8,
-          "text": "And on that day living waters will go out from Jerusalem; half of them flowing to the sea on the east and half to the sea on the west: in summer and in winter it will be so."
-        },
-        {
-          "verse": 9,
-          "text": "And the Lord will be King over all the earth: in that day there will be one Lord and his name one."
-        },
-        {
-          "verse": 10,
-          "text": "And all the land will become like the Arabah, from Geba to Rimmon south of Jerusalem; and she will be lifted up and be living in her place; from the doorway of Benjamin to the place of the first doorway, to the doorway of the angle, and from the tower of Hananel to the king's wine-crushing places, men will be living in her."
-        },
-        {
-          "verse": 11,
-          "text": "And there will be no more curse; but Jerusalem will be living without fear of danger."
-        },
-        {
-          "verse": 12,
-          "text": "And this will be the disease which the Lord will send on all the peoples which have been warring against Jerusalem: their flesh will be wasted away while they are on their feet, their eyes will be wasted in their heads and their tongues in their mouths."
-        },
-        {
-          "verse": 13,
-          "text": "And it will be on that day that a great fear will be sent among them from the Lord; and everyone will take his neighbour's hand, and every man's hand will be lifted against his neighbour's."
-        },
-        {
-          "verse": 14,
-          "text": "And even Judah will be fighting against Jerusalem; and the wealth of all the nations round about will be massed together, a great store of gold and silver and clothing."
-        },
-        {
-          "verse": 15,
-          "text": "And the horses and the transport beasts, the camels and the asses and all the beasts in those tents will be attacked by the same disease."
-        },
-        {
-          "verse": 16,
-          "text": "And it will come about that everyone who is still living, of all those nations who came against Jerusalem, will go up from year to year to give worship to the King, the Lord of armies, and to keep the feast of tents."
-        },
-        {
-          "verse": 17,
-          "text": "And it will be that if any one of all the families of the earth does not go up to Jerusalem to give worship to the King, the Lord of armies, on them there will be no rain."
-        },
-        {
-          "verse": 18,
-          "text": "And if the family of Egypt does not go up or come there, they will be attacked by the disease which the Lord will send on the nations:"
-        },
-        {
-          "verse": 19,
-          "text": "This will be the punishment of Egypt, and the punishment of all the nations who do not go up to keep the feast of tents."
-        },
-        {
-          "verse": 20,
-          "text": "On that day all the bells of the horses will be holy to the Lord, and the pots in the Lord's house will be like the basins before the altar."
-        },
-        {
-          "verse": 21,
-          "text": "And every pot in Jerusalem and in Judah will be holy to the Lord of armies: and all those who make offerings will come and take them for boiling their offerings: in that day there will be no more traders in the house of the Lord of armies."
-        }
-      ],
-      "totalVerses": 21,
-      "footnotes": []
+      "notes": [
+        "SeeLeviticus 23:33-36;Deuteronomy 16:13-15."
+      ]
     }
   ]
 }

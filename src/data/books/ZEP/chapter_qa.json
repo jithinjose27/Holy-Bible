@@ -1,9 +1,6 @@
 {
-  "book": "Zephaniah",
   "bookId": "ZEP",
-  "totalChapters": 3,
-  "totalQuestions": 30,
-  "questionsPerChapter": 10,
+  "bookName": "Zephaniah",
   "chapters": {
     "1": [
       {
@@ -11,150 +8,150 @@
         "questionNumber": 1,
         "question": "According to Zephaniah 1:1, what is the opening statement or setting of this chapter?",
         "options": [
-          "It records: “The word of the Lord which came to Zephaniah, the son of Cushi, t...”",
+          "It records: “This is the Lord's message, which he gave to Cushi's son, Zephani...”",
           "It begins with a prayer of thanksgiving for deliverance in Zephaniah",
           "It opens with a formal census and counting of the congregation",
           "It records a severe judgment pronounced against neighboring nations"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "It records: “The word of the Lord which came to Zephaniah, the son of Cushi, t...”",
+        "correctAnswer": "It records: “This is the Lord's message, which he gave to Cushi's son, Zephani...”",
         "reference": "Zephaniah 1:1",
-        "explanation": "The chapter begins directly with the statement: 'The word of the Lord which came to Zephaniah, the son of Cushi, the son of Gedaliah, the son of Amariah, the son of Hezekiah, in the days of Josiah, the son of Amon, king of Judah.'."
+        "explanation": "The chapter begins directly with the statement: 'This is the Lord's message, which he gave to Cushi's son, Zephaniah. Cushi was the son of Gedaliah. Gedaliah was the son of Amariah, and Amariah was the son of Hezekiah. The Lord gave this message to Zephaniah when Josiah ruled Judah as king. Josiah was the son of Amon, king of Judah.'."
       },
       {
         "id": "zep-1-q2",
         "questionNumber": 2,
         "question": "What key instruction, event, or declaration is set forth in Zephaniah 1:2?",
         "options": [
-          "“And the worshippers of the army of heaven on...”",
-          "“I will take away everything from the face of the earth,...”",
-          "“And in that day I will send punishment on...”",
+          "“I will destroy the people who worship the sun,...”",
+          "“The Lord says, ‘I will destroy everything that is on the earth.”",
+          "“At that time, I will also punish everyone who...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“I will take away everything from the face of the earth,...”",
+        "correctAnswer": "“The Lord says, ‘I will destroy everything that is on the earth.”",
         "reference": "Zephaniah 1:2",
-        "explanation": "Zephaniah 1:2 records: 'I will take away everything from the face of the earth, says the Lord.'."
+        "explanation": "Zephaniah 1:2 records: 'The Lord says, ‘I will destroy everything that is on the earth.'."
       },
       {
         "id": "zep-1-q3",
         "questionNumber": 3,
         "question": "What significant action or revelation occurs in Zephaniah 1:3?",
         "options": [
-          "“And those who are turned back from going after...”",
-          "“And in that day, says the Lord, there will...”",
-          "“I will take away man and beast; I will take away...”",
+          "“I will destroy those people who have turned away...”",
+          "“The Lord says, ‘On that day, you will hear...”",
+          "“I will destroy people and animals. I will destroy the birds...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“I will take away man and beast; I will take away...”",
+        "correctAnswer": "“I will destroy people and animals. I will destroy the birds...”",
         "reference": "Zephaniah 1:3",
-        "explanation": "Zephaniah 1:3 records: 'I will take away man and beast; I will take away the birds of the heaven and the fishes of the sea; causing the downfall of the evil-doers, and cutting man off from the face of the earth, says the Lord.'."
+        "explanation": "Zephaniah 1:3 records: 'I will destroy people and animals. I will destroy the birds in the sky. and the fish in the sea. I will remove all the wicked people who cause trouble. Yes, I will remove all the people who live on the earth. No one will remain.’ That is what the Lord says.'."
       },
       {
         "id": "zep-1-q4",
         "questionNumber": 4,
         "question": "What truth or description is highlighted in Zephaniah 1:4?",
         "options": [
-          "“Let there be no sound before the Lord God:...”",
-          "“Because of the downfall of all the people of...”",
+          "“Be quiet and listen to the Lord God! The...”",
+          "“Weep, you people who live near Jerusalem's market! All...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“And my hand will be stretched out on Judah and on...”"
+          "“‘I will attack Judah and the people who live in Jerusalem....”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“And my hand will be stretched out on Judah and on...”",
+        "correctAnswer": "“‘I will attack Judah and the people who live in Jerusalem....”",
         "reference": "Zephaniah 1:4",
-        "explanation": "Zephaniah 1:4 records: 'And my hand will be stretched out on Judah and on all the people of Jerusalem, cutting off the name of the Baal from this place, and the name of the false priests,'."
+        "explanation": "Zephaniah 1:4 records: '‘I will attack Judah and the people who live in Jerusalem. I will remove from these places everyone who serves the false god Baal. I will remove all Baal's priests. Nobody will remember them any more.'."
       },
       {
         "id": "zep-1-q5",
         "questionNumber": 5,
         "question": "According to the text, what happened or was commanded in Zephaniah 1:5?",
         "options": [
-          "“And the worshippers of the army of heaven on the house-tops,...”",
-          "“And it will come about in the day of...”",
-          "“And it will come about at that time, that...”",
+          "“I will destroy the people who worship the sun, the moon...”",
+          "“The Lord says, ‘When the day comes for me...”",
+          "“At that time, I will use lamps to find...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“And the worshippers of the army of heaven on the house-tops,...”",
+        "correctAnswer": "“I will destroy the people who worship the sun, the moon...”",
         "reference": "Zephaniah 1:5",
-        "explanation": "Zephaniah 1:5 records: 'And the worshippers of the army of heaven on the house-tops, and the Lord's worshippers who take oaths by Milcom,'."
+        "explanation": "Zephaniah 1:5 records: 'I will destroy the people who worship the sun, the moon and the stars. They stand on their roofs to do that. Some people promise to be faithful to me, but they also worship their god Molech. So I will destroy those people too.'."
       },
       {
         "id": "zep-1-q6",
         "questionNumber": 6,
         "question": "What central message or instruction is delivered in Zephaniah 1:6?",
         "options": [
-          "“And in that day I will send punishment on...”",
-          "“And those who are turned back from going after the Lord,...”",
-          "“And their wealth will be violently taken away, and...”",
+          "“At that time, I will also punish everyone who...”",
+          "“I will destroy those people who have turned away from me,...”",
+          "“But their enemies will take away their valuable things....”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“And those who are turned back from going after the Lord,...”",
+        "correctAnswer": "“I will destroy those people who have turned away from me,...”",
         "reference": "Zephaniah 1:6",
-        "explanation": "Zephaniah 1:6 records: 'And those who are turned back from going after the Lord, and those who have not made prayer to the Lord or got directions from him.'."
+        "explanation": "Zephaniah 1:6 records: 'I will destroy those people who have turned away from me, the Lord. They do not ask me for help or advice.’'."
       },
       {
         "id": "zep-1-q7",
         "questionNumber": 7,
         "question": "What detail regarding God's work, covenant, or people is given in Zephaniah 1:7?",
         "options": [
-          "“And in that day, says the Lord, there will...”",
-          "“The great day of the Lord is near, it...”",
-          "“Let there be no sound before the Lord God: for the...”",
+          "“The Lord says, ‘On that day, you will hear...”",
+          "“The great day of the Lord will soon be...”",
+          "“Be quiet and listen to the Lord God! The day of...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“Let there be no sound before the Lord God: for the...”",
+        "correctAnswer": "“Be quiet and listen to the Lord God! The day of...”",
         "reference": "Zephaniah 1:7",
-        "explanation": "Zephaniah 1:7 records: 'Let there be no sound before the Lord God: for the day of the Lord is near: for the Lord has made ready an offering, he has made his guests holy.'."
+        "explanation": "Zephaniah 1:7 records: 'Be quiet and listen to the Lord God! The day of the Lord will soon come. The Lord is ready to offer Judah's people as a sacrifice. He has chosen their enemies to do this.'."
       },
       {
         "id": "zep-1-q8",
         "questionNumber": 8,
         "question": "What phrase or account is recorded in Zephaniah 1:8?",
         "options": [
-          "“Because of the downfall of all the people of...”",
-          "“That day is a day of wrath, a day...”",
+          "“Weep, you people who live near Jerusalem's market! All...”",
+          "“It will be a day when God shows his...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“And it will come about in the day of the Lord's...”"
+          "“The Lord says, ‘When the day comes for me to offer...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“And it will come about in the day of the Lord's...”",
+        "correctAnswer": "“The Lord says, ‘When the day comes for me to offer...”",
         "reference": "Zephaniah 1:8",
-        "explanation": "Zephaniah 1:8 records: 'And it will come about in the day of the Lord's offering, that I will send punishment on the rulers and the king's sons and all who are clothed in robes from strange lands.'."
+        "explanation": "Zephaniah 1:8 records: 'The Lord says, ‘When the day comes for me to offer that sacrifice, I will punish Judah's leaders and the king's sons. I will punish everyone who wears the clothes of foreign people.'."
       },
       {
         "id": "zep-1-q9",
         "questionNumber": 9,
         "question": "How does the passage describe the circumstances or people in Zephaniah 1:9?",
         "options": [
-          "“And in that day I will send punishment on all those...”",
-          "“And it will come about at that time, that...”",
-          "“A day of sounding the horn and the war-cry...”",
+          "“At that time, I will also punish everyone who worships foreign...”",
+          "“At that time, I will use lamps to find...”",
+          "“There will be the loud noise of trumpets. Soldiers...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“And in that day I will send punishment on all those...”",
+        "correctAnswer": "“At that time, I will also punish everyone who worships foreign...”",
         "reference": "Zephaniah 1:9",
-        "explanation": "Zephaniah 1:9 records: 'And in that day I will send punishment on all those who come jumping over the doorstep and make their master's house full of violent behaviour and deceit.'."
+        "explanation": "Zephaniah 1:9 records: 'At that time, I will also punish everyone who worships foreign gods. I will punish those who rob other people to fill their master's house with valuable things. They are cruel people who tell lies.’'."
       },
       {
         "id": "zep-1-q10",
         "questionNumber": 10,
         "question": "In the concluding portion of the chapter, what takes place in Zephaniah 1:10?",
         "options": [
-          "“And their wealth will be violently taken away, and...”",
-          "“And in that day, says the Lord, there will be the...”",
-          "“And I will send trouble on men so that...”",
+          "“But their enemies will take away their valuable things....”",
+          "“The Lord says, ‘On that day, you will hear people at...”",
+          "“The Lord says, ‘I will cause people to suffer...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“And in that day, says the Lord, there will be the...”",
+        "correctAnswer": "“The Lord says, ‘On that day, you will hear people at...”",
         "reference": "Zephaniah 1:10",
-        "explanation": "Zephaniah 1:10 records: 'And in that day, says the Lord, there will be the sound of a cry from the fish doorway, and an outcry from the new town, and a great thundering from the hills, and cries of grief from the people of the Hollow;'."
+        "explanation": "Zephaniah 1:10 records: 'The Lord says, ‘On that day, you will hear people at the Fish Gate. They will be shouting because they are afraid. People will be crying loudly in the new part of Jerusalem. There will be loud noises in the hills around the city.'."
       }
     ],
     "2": [
@@ -163,150 +160,150 @@
         "questionNumber": 1,
         "question": "According to Zephaniah 2:1, what is the opening statement or setting of this chapter?",
         "options": [
-          "It records: “Come together, make everyone come together, O nation without sham...”",
+          "It records: “Come together! Yes, come together now! You are a nation of people...”",
           "It begins with a prayer of thanksgiving for deliverance in Zephaniah",
           "It opens with a formal census and counting of the congregation",
           "It records a severe judgment pronounced against neighboring nations"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "It records: “Come together, make everyone come together, O nation without sham...”",
+        "correctAnswer": "It records: “Come together! Yes, come together now! You are a nation of people...”",
         "reference": "Zephaniah 2:1",
-        "explanation": "The chapter begins directly with the statement: 'Come together, make everyone come together, O nation without shame;'."
+        "explanation": "The chapter begins directly with the statement: 'Come together! Yes, come together now! You are a nation of people who should be ashamed of yourselves.'."
       },
       {
         "id": "zep-2-q2",
         "questionNumber": 2,
         "question": "What key instruction, event, or declaration is set forth in Zephaniah 2:2?",
         "options": [
-          "“Sorrow to the people living by the sea, the...”",
-          "“Before the Lord sends you violently away in flight like the...”",
-          "“For this cause, by my life, says the Lord...”",
+          "“Terrible trouble will come to you people who came...”",
+          "“The Lord has decided the day for your punishment, so come...”",
+          "“The Lord Almighty, Israel's God, says, ‘I promise this,...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“Before the Lord sends you violently away in flight like the...”",
+        "correctAnswer": "“The Lord has decided the day for your punishment, so come...”",
         "reference": "Zephaniah 2:2",
-        "explanation": "Zephaniah 2:2 records: 'Before the Lord sends you violently away in flight like the waste from the grain; before the burning wrath of the Lord comes on you, before the day of the Lord's wrath comes on you.'."
+        "explanation": "Zephaniah 2:2 records: 'The Lord has decided the day for your punishment, so come together before it happens. It will happen very quickly, as wind blows away chaff. The Lord's great anger will suddenly hit you. Do something before that day arrives!'."
       },
       {
         "id": "zep-2-q3",
         "questionNumber": 3,
         "question": "What significant action or revelation occurs in Zephaniah 2:3?",
         "options": [
-          "“And the land by the sea will be grass-land,...”",
-          "“This will be their fate because of their pride,...”",
-          "“Make search for the Lord, all you quiet ones of the...”",
+          "“Your land beside the sea will become fields where...”",
+          "“God will punish the people of Moab and Ammon...”",
+          "“Turn to the Lord, all you humble people of Judah who...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“Make search for the Lord, all you quiet ones of the...”",
+        "correctAnswer": "“Turn to the Lord, all you humble people of Judah who...”",
         "reference": "Zephaniah 2:3",
-        "explanation": "Zephaniah 2:3 records: 'Make search for the Lord, all you quiet ones of the earth, who have done what is right in his eyes; make search for righteousness and a quiet heart: it may be that you will be safely covered in the day of the Lord's wrath.'."
+        "explanation": "Zephaniah 2:3 records: 'Turn to the Lord, all you humble people of Judah who obey his commands. Do things that are good and right and be humble. Then perhaps the Lord will protect you from his punishment, on the day of his great anger.'."
       },
       {
         "id": "zep-2-q4",
         "questionNumber": 4,
         "question": "What truth or description is highlighted in Zephaniah 2:4?",
         "options": [
-          "“The land by the sea will be for the...”",
-          "“The Lord will let himself be seen by them:...”",
+          "“The land will belong to the people of Judah's...”",
+          "“The Lord will cause them to be very afraid....”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“For Gaza will be given up and Ashkelon will become waste:...”"
+          "“No people will remain in Gaza. Ashkelon will become a heap...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“For Gaza will be given up and Ashkelon will become waste:...”",
+        "correctAnswer": "“No people will remain in Gaza. Ashkelon will become a heap...”",
         "reference": "Zephaniah 2:4",
-        "explanation": "Zephaniah 2:4 records: 'For Gaza will be given up and Ashkelon will become waste: they will send Ashdod out in the middle of the day, and Ekron will be uprooted.'."
+        "explanation": "Zephaniah 2:4 records: 'No people will remain in Gaza. Ashkelon will become a heap of stones. Enemies will chase out the people of Ashdod in one morning. They will also destroy Ekron.'."
       },
       {
         "id": "zep-2-q5",
         "questionNumber": 5,
         "question": "According to the text, what happened or was commanded in Zephaniah 2:5?",
         "options": [
-          "“Sorrow to the people living by the sea, the nation of...”",
-          "“My ears have been open to the bitter words...”",
-          "“And you Ethiopians will be put to death by...”",
+          "“Terrible trouble will come to you people who came from Crete,...”",
+          "“The Lord says, ‘I have heard the people of...”",
+          "“The Lord will also punish you people of Ethiopia....”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“Sorrow to the people living by the sea, the nation of...”",
+        "correctAnswer": "“Terrible trouble will come to you people who came from Crete,...”",
         "reference": "Zephaniah 2:5",
-        "explanation": "Zephaniah 2:5 records: 'Sorrow to the people living by the sea, the nation of the Cherethites! The word of the Lord is against you, O Canaan, the land of the Philistines; I will send destruction on you till there is no one living in you.'."
+        "explanation": "Zephaniah 2:5 records: 'Terrible trouble will come to you people who came from Crete, you people who live beside the sea! The Lord has spoken against you, Philistines who live in the land of Canaan! He says, ‘I will destroy everyone who lives there!’'."
       },
       {
         "id": "zep-2-q6",
         "questionNumber": 6,
         "question": "What central message or instruction is delivered in Zephaniah 2:6?",
         "options": [
-          "“For this cause, by my life, says the Lord...”",
-          "“And the land by the sea will be grass-land, with houses...”",
-          "“And his hand will be stretched out against the...”",
+          "“The Lord Almighty, Israel's God, says, ‘I promise this,...”",
+          "“Your land beside the sea will become fields where shepherds feed...”",
+          "“The Lord will attack the people who live in...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“And the land by the sea will be grass-land, with houses...”",
+        "correctAnswer": "“Your land beside the sea will become fields where shepherds feed...”",
         "reference": "Zephaniah 2:6",
-        "explanation": "Zephaniah 2:6 records: 'And the land by the sea will be grass-land, with houses for keepers of sheep and walled places for flocks.'."
+        "explanation": "Zephaniah 2:6 records: 'Your land beside the sea will become fields where shepherds feed their sheep. They will have safe places there for their sheep and goats.'."
       },
       {
         "id": "zep-2-q7",
         "questionNumber": 7,
         "question": "What detail regarding God's work, covenant, or people is given in Zephaniah 2:7?",
         "options": [
-          "“This will be their fate because of their pride,...”",
-          "“And herds will take their rest in the middle...”",
-          "“The land by the sea will be for the rest of...”",
+          "“God will punish the people of Moab and Ammon...”",
+          "“Sheep, goats and cows will lie down there, as...”",
+          "“The land will belong to the people of Judah's tribe who...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“The land by the sea will be for the rest of...”",
+        "correctAnswer": "“The land will belong to the people of Judah's tribe who...”",
         "reference": "Zephaniah 2:7",
-        "explanation": "Zephaniah 2:7 records: 'The land by the sea will be for the rest of the children of Judah; by the sea they will give their flocks food: in the houses of Ashkelon they will take their rest in the evening; for the Lord their God will take them in hand and their fate will be changed.'."
+        "explanation": "Zephaniah 2:7 records: 'The land will belong to the people of Judah's tribe who are still alive. They will live safely there. They will use the houses in Ashkelon as places to rest in the evening. The Lord, their God, will take care of them. He will give them success again.'."
       },
       {
         "id": "zep-2-q8",
         "questionNumber": 8,
         "question": "What phrase or account is recorded in Zephaniah 2:8?",
         "options": [
-          "“The Lord will let himself be seen by them:...”",
-          "“Come together, make everyone come together, O nation without...”",
+          "“The Lord will cause them to be very afraid....”",
+          "“Come together! Yes, come together now! You are a...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“My ears have been open to the bitter words of Moab...”"
+          "“The Lord says, ‘I have heard the people of Moab and...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“My ears have been open to the bitter words of Moab...”",
+        "correctAnswer": "“The Lord says, ‘I have heard the people of Moab and...”",
         "reference": "Zephaniah 2:8",
-        "explanation": "Zephaniah 2:8 records: 'My ears have been open to the bitter words of Moab and the words of shame of the children of Ammon, which they have said against my people, lifting themselves up against the limit of their land.'."
+        "explanation": "Zephaniah 2:8 records: 'The Lord says, ‘I have heard the people of Moab and the people of Ammon. They have insulted my people and they have laughed at them. They have boasted that they would attack my people's land and take it for themselves.’'."
       },
       {
         "id": "zep-2-q9",
         "questionNumber": 9,
         "question": "How does the passage describe the circumstances or people in Zephaniah 2:9?",
         "options": [
-          "“For this cause, by my life, says the Lord of armies,...”",
-          "“And you Ethiopians will be put to death by...”",
-          "“Come together, make everyone come together, O nation without...”",
+          "“The Lord Almighty, Israel's God, says, ‘I promise this, as surely...”",
+          "“The Lord will also punish you people of Ethiopia....”",
+          "“Come together! Yes, come together now! You are a...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“For this cause, by my life, says the Lord of armies,...”",
+        "correctAnswer": "“The Lord Almighty, Israel's God, says, ‘I promise this, as surely...”",
         "reference": "Zephaniah 2:9",
-        "explanation": "Zephaniah 2:9 records: 'For this cause, by my life, says the Lord of armies, the God of Israel, truly Moab will become like Sodom and the children of Ammon like Gomorrah, given up to waste plants and salt pools and unpeopled for ever: the rest of my people will take their property, the overflow of my nation will take their heritage.'."
+        "explanation": "Zephaniah 2:9 records: 'The Lord Almighty, Israel's God, says, ‘I promise this, as surely as I live. I will cause Moab and Ammon to become like the cities of Sodom and Gomorrah. Weeds will cover the land. People will dig salt out of the ground. It will become a wilderness for ever. My people who are still alive will take the land for themselves. They will keep all the valuable things.’ 10 God will punish the people of Moab and Ammon as they deserve.They have been very proud people.They have laughed at the people who belong to the Lord Almighty. 11 The Lord will cause them to be very afraid.He will destroy the power of all the earth's false gods.The people of all nations will worship the Lord.They will worship him in the places where they live.God will punish Ethiopia and Assyria2:12 12 The Lord will also punish you people of Ethiopia.He will cause you to die in battle. 13 The Lord will attack the people who live in the north.He will destroy the nation of Assyria.He will destroy its capital city, Nineveh.It will become a heap of stones where nobody lives.The land will be as dry as a desert. 14 Sheep, goats and cows will lie down there,as well as many wild animals. Hawks and owls will sleep on top of the pillars.They will call through the windows.Stones will lie on the ground in front of the buildings. Cedar beams will lie outside. 15 All this will happen to that proud city,the city where people were happy and safe.They thought, ‘We live in the best city of all!No other city is as great as our city!’But now that city will become a heap of stones.Only wild animals will have their homes there.Everyone who sees that place will laugh at it.They will shake their fists because it has lost its power.'."
       },
       {
         "id": "zep-2-q10",
         "questionNumber": 10,
         "question": "In the concluding portion of the chapter, what takes place in Zephaniah 2:10?",
         "options": [
-          "“And his hand will be stretched out against the...”",
-          "“This will be their fate because of their pride, because they...”",
-          "“Before the Lord sends you violently away in flight...”",
+          "“The Lord will attack the people who live in...”",
+          "“God will punish the people of Moab and Ammon as they...”",
+          "“The Lord has decided the day for your punishment,...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“This will be their fate because of their pride, because they...”",
+        "correctAnswer": "“God will punish the people of Moab and Ammon as they...”",
         "reference": "Zephaniah 2:10",
-        "explanation": "Zephaniah 2:10 records: 'This will be their fate because of their pride, because they have said evil, lifting themselves up against the people of the Lord of armies.'."
+        "explanation": "Zephaniah 2:10 records: 'God will punish the people of Moab and Ammon as they deserve. They have been very proud people. They have laughed at the people who belong to the Lord Almighty.'."
       }
     ],
     "3": [
@@ -315,150 +312,150 @@
         "questionNumber": 1,
         "question": "According to Zephaniah 3:1, what is the opening statement or setting of this chapter?",
         "options": [
-          "It records: “Sorrow to her who is uncontrolled and unclean, the cruel town!”",
+          "It records: “Terrible trouble will come to this city! It is a dirty, wicked pl...”",
           "It begins with a prayer of thanksgiving for deliverance in Zephaniah",
           "It opens with a formal census and counting of the congregation",
           "It records a severe judgment pronounced against neighboring nations"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "It records: “Sorrow to her who is uncontrolled and unclean, the cruel town!”",
+        "correctAnswer": "It records: “Terrible trouble will come to this city! It is a dirty, wicked pl...”",
         "reference": "Zephaniah 3:1",
-        "explanation": "The chapter begins directly with the statement: 'Sorrow to her who is uncontrolled and unclean, the cruel town!'."
+        "explanation": "The chapter begins directly with the statement: 'Terrible trouble will come to this city! It is a dirty, wicked place, full of cruel people.'."
       },
       {
         "id": "zep-3-q2",
         "questionNumber": 2,
         "question": "What key instruction, event, or declaration is set forth in Zephaniah 3:2?",
         "options": [
-          "“The Lord in her is upright; he will not...”",
-          "“She gave no attention to the voice, she had no use...”",
-          "“For then I will give the people a clean...”",
+          "“But the Lord is in the city and he...”",
+          "“The people of the city do not obey any laws. They...”",
+          "“‘At that time, I will change people so that...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“She gave no attention to the voice, she had no use...”",
+        "correctAnswer": "“The people of the city do not obey any laws. They...”",
         "reference": "Zephaniah 3:2",
-        "explanation": "Zephaniah 3:2 records: 'She gave no attention to the voice, she had no use for teaching, she put no faith in the Lord, she did not come near to her God.'."
+        "explanation": "Zephaniah 3:2 records: 'The people of the city do not obey any laws. They do not listen to advice. They do not trust in the Lord. They do not ask their God to help them.'."
       },
       {
         "id": "zep-3-q3",
         "questionNumber": 3,
         "question": "What significant action or revelation occurs in Zephaniah 3:4?",
         "options": [
-          "“I said, Certainly you will go in fear of...”",
-          "“In that day you will have no shame on...”",
-          "“Her prophets are good-for-nothing persons, full of deceit: her priests have...”",
+          "“I thought, “Now you people of Jerusalem will respect...”",
+          "“At that time, you people of Jerusalem will not...”",
+          "“The city's prophets are proud people that nobody can trust. Its...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“Her prophets are good-for-nothing persons, full of deceit: her priests have...”",
+        "correctAnswer": "“The city's prophets are proud people that nobody can trust. Its...”",
         "reference": "Zephaniah 3:4",
-        "explanation": "Zephaniah 3:4 records: 'Her prophets are good-for-nothing persons, full of deceit: her priests have made the holy place unclean and have gone violently against the law.'."
+        "explanation": "Zephaniah 3:4 records: 'The city's prophets are proud people that nobody can trust. Its priests do not obey God's laws. They cause God's temple to be an unclean place.'."
       },
       {
         "id": "zep-3-q4",
         "questionNumber": 4,
         "question": "What truth or description is highlighted in Zephaniah 3:6?",
         "options": [
-          "“For then I will give the people a clean...”",
-          "“The rest of Israel will do no evil and...”",
+          "“‘At that time, I will change people so that...”",
+          "“The Israelites who remain will be honest people. They...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“I have had the nations cut off, their towers are broken...”"
+          "“The Lord says, ‘I have destroyed nations. I have knocked down...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“I have had the nations cut off, their towers are broken...”",
+        "correctAnswer": "“The Lord says, ‘I have destroyed nations. I have knocked down...”",
         "reference": "Zephaniah 3:6",
-        "explanation": "Zephaniah 3:6 records: 'I have had the nations cut off, their towers are broken down; I have made their streets a waste so that no one goes through them: destruction has overtaken their towns, so that there is no man living in them.'."
+        "explanation": "Zephaniah 3:6 records: 'The Lord says, ‘I have destroyed nations. I have knocked down the strong walls and towers of their cities. I have caused their streets to be empty, with no people in them. Nobody lives in their cities any more.'."
       },
       {
         "id": "zep-3-q5",
         "questionNumber": 5,
         "question": "According to the text, what happened or was commanded in Zephaniah 3:8?",
         "options": [
-          "“For this reason, go on waiting for me, says the Lord,...”",
-          "“In that day you will have no shame on...”",
-          "“The Lord has taken away those who were judging...”",
+          "“So you must wait for me to act. Wait for the...”",
+          "“At that time, you people of Jerusalem will not...”",
+          "“The Lord has taken away the punishment that you...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“For this reason, go on waiting for me, says the Lord,...”",
+        "correctAnswer": "“So you must wait for me to act. Wait for the...”",
         "reference": "Zephaniah 3:8",
-        "explanation": "Zephaniah 3:8 records: 'For this reason, go on waiting for me, says the Lord, till the day when I come up as a witness: for my purpose is to send for the nations and to get the kingdoms together, so that I may let loose on them my passion, even all my burning wrath: for all the earth will be burned up in the fire of my bitter passion.'."
+        "explanation": "Zephaniah 3:8 records: 'So you must wait for me to act. Wait for the day when I will show who is right. I have decided to bring together nations and kingdoms. Then I will punish them with my great anger. I will be so angry that I destroy the whole earth, like a fire that destroys everything.’ That is what the Lord says.'."
       },
       {
         "id": "zep-3-q6",
         "questionNumber": 6,
         "question": "What central message or instruction is delivered in Zephaniah 3:10?",
         "options": [
-          "“The rest of Israel will do no evil and...”",
-          "“From over the rivers of Ethiopia, and from the sides of...”",
-          "“The Lord your God is among you, as a...”",
+          "“The Israelites who remain will be honest people. They...”",
+          "“My people who now live far away, beyond the rivers of...”",
+          "“The Lord, your God, is with you. He is...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“From over the rivers of Ethiopia, and from the sides of...”",
+        "correctAnswer": "“My people who now live far away, beyond the rivers of...”",
         "reference": "Zephaniah 3:10",
-        "explanation": "Zephaniah 3:10 records: 'From over the rivers of Ethiopia, and from the sides of the north, they will come to me with an offering.'."
+        "explanation": "Zephaniah 3:10 records: 'My people who now live far away, beyond the rivers of Ethiopia, will bring offerings to me.'."
       },
       {
         "id": "zep-3-q7",
         "questionNumber": 7,
         "question": "What detail regarding God's work, covenant, or people is given in Zephaniah 3:12?",
         "options": [
-          "“The Lord has taken away those who were judging...”",
-          "“See, at that time I will put an end...”",
-          "“But I will still have among you a quiet and poor...”",
+          "“The Lord has taken away the punishment that you...”",
+          "“Listen to me! At that time, I will punish...”",
+          "“But I will leave a group of poor and humble people...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“But I will still have among you a quiet and poor...”",
+        "correctAnswer": "“But I will leave a group of poor and humble people...”",
         "reference": "Zephaniah 3:12",
-        "explanation": "Zephaniah 3:12 records: 'But I will still have among you a quiet and poor people, and they will put their faith in the name of the Lord.'."
+        "explanation": "Zephaniah 3:12 records: 'But I will leave a group of poor and humble people among you. They will trust me, the Lord, to keep them safe.'."
       },
       {
         "id": "zep-3-q8",
         "questionNumber": 8,
         "question": "What phrase or account is recorded in Zephaniah 3:14?",
         "options": [
-          "“The Lord your God is among you, as a...”",
-          "“Sorrow to her who is uncontrolled and unclean, the...”",
+          "“The Lord, your God, is with you. He is...”",
+          "“Terrible trouble will come to this city! It is...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“Make melody, O daughter of Zion; give a loud cry, O...”"
+          "“Be happy and sing, you people of Zion! Yes, shout aloud,...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“Make melody, O daughter of Zion; give a loud cry, O...”",
+        "correctAnswer": "“Be happy and sing, you people of Zion! Yes, shout aloud,...”",
         "reference": "Zephaniah 3:14",
-        "explanation": "Zephaniah 3:14 records: 'Make melody, O daughter of Zion; give a loud cry, O Israel; be glad and let your heart be full of joy, O daughter of Jerusalem.'."
+        "explanation": "Zephaniah 3:14 records: 'Be happy and sing, you people of Zion! Yes, shout aloud, you people of Israel! People of Jerusalem, use everything in you to show how happy you are!'."
       },
       {
         "id": "zep-3-q9",
         "questionNumber": 9,
         "question": "How does the passage describe the circumstances or people in Zephaniah 3:16?",
         "options": [
-          "“In that day it will be said to Jerusalem, Have no...”",
-          "“See, at that time I will put an end...”",
-          "“Her rulers are like loud-voiced lions in her; her...”",
+          "“On that day, people will say to Jerusalem, ‘Do not be...”",
+          "“Listen to me! At that time, I will punish...”",
+          "“The city's rulers roar like lions to make people...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“In that day it will be said to Jerusalem, Have no...”",
+        "correctAnswer": "“On that day, people will say to Jerusalem, ‘Do not be...”",
         "reference": "Zephaniah 3:16",
-        "explanation": "Zephaniah 3:16 records: 'In that day it will be said to Jerusalem, Have no fear: O Zion, let not your hands be feeble.'."
+        "explanation": "Zephaniah 3:16 records: 'On that day, people will say to Jerusalem, ‘Do not be afraid, people of Zion! Do not let fear make you weak!'."
       },
       {
         "id": "zep-3-q10",
         "questionNumber": 10,
         "question": "In the concluding portion of the chapter, what takes place in Zephaniah 3:18?",
         "options": [
-          "“Sorrow to her who is uncontrolled and unclean, the...”",
-          "“I will take away your troubles, lifting up your shame from...”",
-          "“The Lord in her is upright; he will not...”",
+          "“Terrible trouble will come to this city! It is...”",
+          "“The Lord says, ‘I will bring together those people who were...”",
+          "“But the Lord is in the city and he...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“I will take away your troubles, lifting up your shame from...”",
+        "correctAnswer": "“The Lord says, ‘I will bring together those people who were...”",
         "reference": "Zephaniah 3:18",
-        "explanation": "Zephaniah 3:18 records: 'I will take away your troubles, lifting up your shame from off you.'."
+        "explanation": "Zephaniah 3:18 records: 'The Lord says, ‘I will bring together those people who were sad because they could not meet together at the festivals. I will take away the trouble that you have had, and you will no longer feel ashamed.'."
       }
     ]
   }

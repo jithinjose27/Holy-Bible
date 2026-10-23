@@ -1,1017 +1,666 @@
 {
-  "translation": "EasyEnglish Bible",
-  "book": "James",
-  "bookId": "JAS",
+  "id": "JAS",
+  "name": "James",
+  "slug": "james",
+  "translation": "EasyEnglish Bible (EASY)",
+  "publisher": "MissionAssist UK",
+  "referenceUrl": "https://www.easyenglish.bible/bible/easy/james/",
   "totalChapters": 5,
-  "copyrightNotice": "Scripture quotations are from the EasyEnglish Bible / Bible in Basic English. Public Domain.",
-  "officialSourceUrl": "https://www.easyenglish.bible/bible/easy/james/1/",
+  "totalVerses": 107,
   "chapters": [
     {
-      "book": "James",
       "chapter": 1,
       "title": "James 1",
-      "subtitle": "James Chapter 1",
+      "subtitle": "",
+      "totalVerses": 26,
+      "sourceUrl": "https://www.easyenglish.bible/bible/easy/james/1/",
       "sections": [
         {
-          "heading": "James Chapter 1",
+          "heading": "James writes to Christians in many different places",
           "items": [
             [
               {
                 "verse": 1,
-                "text": "James, a servant of God and of the Lord Jesus Christ, sends words of love to the twelve tribes of the Jews living in all parts of the earth."
-              },
+                "text": "This letter is from me, James. I am a servant of God and the Lord Jesus Christ."
+              }
+            ],
+            [
+              {
+                "verse": 1,
+                "text": "I am writing to the 12 tribes of God's people who live in many different parts of the world. I say ‘hello’ to all of you."
+              }
+            ]
+          ]
+        },
+        {
+          "heading": "Continue to trust God when you have trouble",
+          "items": [
+            [
               {
                 "verse": 2,
-                "text": "Let it be all joy to you, my brothers, when you undergo tests of every sort;"
+                "text": "My Christian friends, remember to be happy, even when many kinds of trouble happen to you. Troubles can help you."
               },
               {
                 "verse": 3,
-                "text": "Because you have the knowledge that the testing of your faith gives you the power of going on in hope;"
+                "text": "God wants to see if you really trust him. Your faith in God will become stronger as a result of these troubles."
               },
               {
                 "verse": 4,
-                "text": "But let this power have its full effect, so that you may be made complete, needing nothing."
+                "text": "So you should continue to trust God all the time. Then you will become stronger as a believer. You will become completely how you should be. You will not need anything more."
               }
             ],
             [
               {
                 "verse": 5,
-                "text": "But if any man among you is without wisdom, let him make his request to God, who gives freely to all without an unkind word, and it will be given to him."
+                "text": "But maybe you need to know how to be wise. Then ask God to help you. He is ready to give everyone what they need. And he never says that it is wrong to ask. So God will help you to be wise."
               },
               {
                 "verse": 6,
-                "text": "Let him make his request in faith, doubting nothing; for he who has doubt in his heart is like the waves of the sea, which are troubled by the driving of the wind."
+                "text": "But when you ask God for something, you must trust him completely. Do not have other ideas in your mind. People who are not sure that God will help them are like the waves in the sea. The wind blows the water one way and then it blows the water another way."
               },
               {
                 "verse": 7,
-                "text": "Let it not seem to such a man that he will get anything from the Lord;"
-              },
-              {
-                "verse": 8,
-                "text": "For there is a division in his mind, and he is uncertain in all his ways."
+                "text": "A person who is like that never knows what to do. He has many ideas in his mind. He should not think that he will receive anything from the Lord."
               }
             ],
             [
               {
                 "verse": 9,
-                "text": "But let the brother of low position be glad that he is lifted up;"
+                "text": "The believers in your group who are poor should be happy. Why? Because God says that they are valuable to him."
               },
               {
                 "verse": 10,
-                "text": "But the man of wealth, that he is made low; because like the flower of the grass he will come to his end."
+                "text": "And the believers who are rich should also be happy. Why? Because God has shown them that they are not so great. Rich people should remember that they will die, like a wild flower quickly dies."
               },
               {
                 "verse": 11,
-                "text": "For when the sun comes up with its burning heat, the grass gets dry and the grace of its form is gone with the falling flower; so the man of wealth comes to nothing in his ways."
-              },
+                "text": "When the sun rises, its heat causes plants to become dry. Their flowers fall to the ground. They are no longer beautiful. In the same way, rich people will die when they are busy in their work. Then they will have nothing."
+              }
+            ],
+            [
               {
                 "verse": 12,
-                "text": "There is a blessing on the man who undergoes testing; because, if he has God's approval, he will be given the crown of life, which the Lord has said he will give to those who have love for him."
+                "text": "Some people continue to trust God even when troubles happen. God will bless those people, if they show that they really trust him. He will give them the gift which is life with him. He has promised to give this gift to all people who love him."
               }
             ],
             [
               {
                 "verse": 13,
-                "text": "Let no man say when he is tested, I am tested by God; for it is not possible for God to be tested by evil, and he himself puts no man to such a test:"
+                "text": "When troubles happen to you, you may want to do something bad. But do not say, ‘God is causing me to do wrong things.’ Nothing can make God do anything bad. And God does not try to make anyone do a wrong thing."
               },
               {
                 "verse": 14,
-                "text": "But every man is tested when he is turned out of the right way by the attraction of his desire."
+                "text": "It is our own thoughts that make us do bad things. When we want to do something wrong, our thoughts lead us in a bad way."
               },
               {
                 "verse": 15,
-                "text": "Then when its time comes, desire gives birth to sin; and sin, when it is of full growth, gives birth to death."
-              },
-              {
-                "verse": 16,
-                "text": "Do not be turned from the right way, dear brothers."
+                "text": "We may agree to do what our bad thoughts tell us to do. When we do that, it becomes a sin. Then, we may not stop doing those bad things. If we continue to live like that, the result of our sins is death."
               }
             ],
             [
               {
+                "verse": 16,
+                "text": "My Christian friends, do not make a mistake."
+              },
+              {
                 "verse": 17,
-                "text": "Every good and true thing is given to us from heaven, coming from the Father of lights, with whom there is no change or any shade made by turning."
+                "text": "Remember that every good gift comes to us from God. He only does what will help us. He is our Father in heaven. He made everything in the sky that gives us light. Those things do not give us the same light all the time. They change, but God does not change."
               },
               {
                 "verse": 18,
-                "text": "Of his purpose he gave us being, by his true word, so that we might be, in a sense, the first-fruits of all the things which he had made."
-              },
+                "text": "He chose to make us his children. He used his true message to do that. Because of that, we are like the first special gift that belongs to him from among everything that he has made."
+              }
+            ]
+          ]
+        },
+        {
+          "heading": "Listen to God and do what he wants",
+          "items": [
+            [
               {
                 "verse": 19,
-                "text": "You have knowledge of this, dear brothers. But let every man be quick in hearing, slow in words, slow to get angry;"
+                "text": "Understand this, my Christian friends: We must all be careful to listen. We should not be too quick to speak. We should not get angry quickly."
               },
               {
                 "verse": 20,
-                "text": "For the righteousness of God does not come about by the wrath of man."
+                "text": "God wants us to do what is right. But when someone is angry, they do not do those right things."
+              },
+              {
+                "verse": 21,
+                "text": "So stop doing disgusting things. Stay away from the wicked things that are all around you. God has put his message deep inside you, and it can save you. So be humble and accept it as a true message."
               }
             ],
             [
               {
-                "verse": 21,
-                "text": "For this reason, putting away all dirty behaviour and the overweight of evil, take into your souls without pride the word which, being planted there, is able to give you salvation."
-              },
-              {
                 "verse": 22,
-                "text": "But be doers of the word, and not only hearers of it, blinding yourselves with false ideas."
+                "text": "But be careful to do what God says in his message. Do not only listen to it. Do not make that mistake!"
               },
               {
                 "verse": 23,
-                "text": "Because if any man is a hearer of the word and not a doer, he is like a man looking at his natural face in a glass;"
+                "text": "You must obey God's message. Do not be like a man who quickly looks at his face in a mirror."
               },
               {
                 "verse": 24,
-                "text": "For after looking at himself he goes away, and in a short time he has no memory of what he was like."
+                "text": "That man looks at himself, but then he goes away. He immediately forgets what he is really like."
+              },
+              {
+                "verse": 25,
+                "text": "So do not just listen to God's message and then forget it. It is a completely good message that makes people free. Look at it carefully and keep it in your mind. Do what it tells you to do. God will bless anyone who lives in that way."
               }
             ],
             [
               {
-                "verse": 25,
-                "text": "But he who goes on looking into the true law which makes him free, being not a hearer without memory but a doer putting it into effect, this man will have a blessing on his acts."
-              },
-              {
                 "verse": 26,
-                "text": "If a man seems to have religion and has no control over his tongue but lets himself be tricked by what is false, this man's religion is of no value."
+                "text": "Maybe some of you think that you are serving God well. But if you also say bad things about people, you do not serve God well at all. You are doing something bad even when you think you are doing good things."
               },
               {
                 "verse": 27,
-                "text": "The religion which is holy and free from evil in the eyes of our God and Father is this: to take care of children who have no fathers and of widows who are in trouble, and to keep oneself untouched by the world."
+                "text": "If you want to serve God in a completely good way, do things like this: Help children who have no parents and women who are widows. Help them in their troubles. If you serve God our Father like that, he will be pleased with you. Do not let the bad people in this world make you bad too."
               }
             ]
           ]
         }
       ],
-      "verses": [
-        {
-          "verse": 1,
-          "text": "James, a servant of God and of the Lord Jesus Christ, sends words of love to the twelve tribes of the Jews living in all parts of the earth."
-        },
-        {
-          "verse": 2,
-          "text": "Let it be all joy to you, my brothers, when you undergo tests of every sort;"
-        },
-        {
-          "verse": 3,
-          "text": "Because you have the knowledge that the testing of your faith gives you the power of going on in hope;"
-        },
-        {
-          "verse": 4,
-          "text": "But let this power have its full effect, so that you may be made complete, needing nothing."
-        },
-        {
-          "verse": 5,
-          "text": "But if any man among you is without wisdom, let him make his request to God, who gives freely to all without an unkind word, and it will be given to him."
-        },
-        {
-          "verse": 6,
-          "text": "Let him make his request in faith, doubting nothing; for he who has doubt in his heart is like the waves of the sea, which are troubled by the driving of the wind."
-        },
-        {
-          "verse": 7,
-          "text": "Let it not seem to such a man that he will get anything from the Lord;"
-        },
-        {
-          "verse": 8,
-          "text": "For there is a division in his mind, and he is uncertain in all his ways."
-        },
-        {
-          "verse": 9,
-          "text": "But let the brother of low position be glad that he is lifted up;"
-        },
-        {
-          "verse": 10,
-          "text": "But the man of wealth, that he is made low; because like the flower of the grass he will come to his end."
-        },
-        {
-          "verse": 11,
-          "text": "For when the sun comes up with its burning heat, the grass gets dry and the grace of its form is gone with the falling flower; so the man of wealth comes to nothing in his ways."
-        },
-        {
-          "verse": 12,
-          "text": "There is a blessing on the man who undergoes testing; because, if he has God's approval, he will be given the crown of life, which the Lord has said he will give to those who have love for him."
-        },
-        {
-          "verse": 13,
-          "text": "Let no man say when he is tested, I am tested by God; for it is not possible for God to be tested by evil, and he himself puts no man to such a test:"
-        },
-        {
-          "verse": 14,
-          "text": "But every man is tested when he is turned out of the right way by the attraction of his desire."
-        },
-        {
-          "verse": 15,
-          "text": "Then when its time comes, desire gives birth to sin; and sin, when it is of full growth, gives birth to death."
-        },
-        {
-          "verse": 16,
-          "text": "Do not be turned from the right way, dear brothers."
-        },
-        {
-          "verse": 17,
-          "text": "Every good and true thing is given to us from heaven, coming from the Father of lights, with whom there is no change or any shade made by turning."
-        },
-        {
-          "verse": 18,
-          "text": "Of his purpose he gave us being, by his true word, so that we might be, in a sense, the first-fruits of all the things which he had made."
-        },
-        {
-          "verse": 19,
-          "text": "You have knowledge of this, dear brothers. But let every man be quick in hearing, slow in words, slow to get angry;"
-        },
-        {
-          "verse": 20,
-          "text": "For the righteousness of God does not come about by the wrath of man."
-        },
-        {
-          "verse": 21,
-          "text": "For this reason, putting away all dirty behaviour and the overweight of evil, take into your souls without pride the word which, being planted there, is able to give you salvation."
-        },
-        {
-          "verse": 22,
-          "text": "But be doers of the word, and not only hearers of it, blinding yourselves with false ideas."
-        },
-        {
-          "verse": 23,
-          "text": "Because if any man is a hearer of the word and not a doer, he is like a man looking at his natural face in a glass;"
-        },
-        {
-          "verse": 24,
-          "text": "For after looking at himself he goes away, and in a short time he has no memory of what he was like."
-        },
-        {
-          "verse": 25,
-          "text": "But he who goes on looking into the true law which makes him free, being not a hearer without memory but a doer putting it into effect, this man will have a blessing on his acts."
-        },
-        {
-          "verse": 26,
-          "text": "If a man seems to have religion and has no control over his tongue but lets himself be tricked by what is false, this man's religion is of no value."
-        },
-        {
-          "verse": 27,
-          "text": "The religion which is holy and free from evil in the eyes of our God and Father is this: to take care of children who have no fathers and of widows who are in trouble, and to keep oneself untouched by the world."
-        }
-      ],
-      "totalVerses": 27,
-      "footnotes": []
+      "notes": [
+        "This may mean allbelievers, wherever they live. There were 12tribesof Israel in theOld Testament. They were God's people. Now all Christians are God's people.",
+        "‘Death’ here means that we no longer have life with God. We become separate from God."
+      ]
     },
     {
-      "book": "James",
       "chapter": 2,
       "title": "James 2",
-      "subtitle": "James Chapter 2",
+      "subtitle": "",
+      "totalVerses": 26,
+      "sourceUrl": "https://www.easyenglish.bible/bible/easy/james/2/",
       "sections": [
         {
-          "heading": "James Chapter 2",
+          "heading": "Be kind to all people, rich and poor",
           "items": [
             [
               {
                 "verse": 1,
-                "text": "My brothers, if you have the faith of our Lord Jesus Christ of glory, do not take a man's position into account."
-              },
+                "text": "My Christian friends, you must be kind to everyone. You trust the Lord Jesus Christ, who is great in heaven. So do not think that anyone is more valuable than any other person."
+              }
+            ],
+            [
               {
                 "verse": 2,
-                "text": "For if a man comes into your Synagogue in fair clothing and with a gold ring, and a poor man comes in with dirty clothing,"
+                "text": "When you are meeting together as believers, maybe two men will come to join with you. One of them is wearing beautiful clothes, and he has gold rings on his hands. The other man is poor, and he is wearing old clothes that are dirty."
               },
               {
                 "verse": 3,
-                "text": "And you do honour to the man in fair clothing and say, Come here and take this good place; and you say to the poor man, Take up your position there, or be seated at my feet;"
+                "text": "You are kind to the man who is wearing beautiful clothes. You say to him, ‘Please sit here in this good place.’ But you say to the poor man, ‘Go and stand over there.’ Or you might say to him, ‘Sit on the floor near my feet.’"
               },
               {
                 "verse": 4,
-                "text": "Is there not a division in your minds? have you not become judges with evil thoughts?"
+                "text": "If you do that, you are thinking bad thoughts. You have decided that one person among you is better than another person. You must not do that."
               }
             ],
             [
               {
                 "verse": 5,
-                "text": "Give ear, my dear brothers; are not those who are poor in the things of this world marked out by God to have faith as their wealth, and for their heritage the kingdom which he has said he will give to those who have love for him?"
+                "text": "My Christian friends, listen to me. God has chosen to bless people who are poor in this world. He has helped them to trust him. So really they are rich. God will give them a place in his kingdom. He has promised to do that for all people who love him."
               },
               {
                 "verse": 6,
-                "text": "But you have put the poor man to shame. Are not the men of wealth rulers over you? do they not take you by force before their judges?"
+                "text": "But you have not been kind to people who are poor. You have caused them to feel ashamed. Who causes you to have troubles? It is the rich people! They are the people who want the judges to punish you."
               },
               {
                 "verse": 7,
-                "text": "Do they not say evil of the holy name which was given to you?"
-              },
-              {
-                "verse": 8,
-                "text": "But if you keep the greatest law of all, as it is given in the holy Writings, Have love for your neighbour as for yourself, you do well:"
+                "text": "It is the rich people who say bad things against the good name of Jesus Christ. And you are called Christians because you belong to him."
               }
             ],
             [
               {
-                "verse": 9,
-                "text": "But if you take a man's position into account, you do evil, and are judged as evil-doers by the law."
+                "verse": 8,
+                "text": "But the message of God's kingdom is this: ‘Love other people as much as you love yourself.’ That is what the Bible says. If you really do that, you do well."
               },
               {
+                "verse": 9,
+                "text": "But if you are kind to some people and you are not kind to others, then you are doing a bad thing. God's Law shows that you are wrong."
+              }
+            ],
+            [
+              {
                 "verse": 10,
-                "text": "For anyone who keeps all the law, but makes a slip in one point, is judged to have gone against it all."
+                "text": "Even if you fail to obey only one rule in God's Law, it means that you are guilty. It is the same as if you fail to obey all God's Law."
               },
               {
                 "verse": 11,
-                "text": "For he who said, Do not be untrue in married life, is the same who said, Put no man to death. Now if you are not untrue in married life, but you put a man to death, the law is broken."
-              },
-              {
-                "verse": 12,
-                "text": "Let your words and your acts be those of men who are to be judged by the law which makes free."
+                "text": "For example, God has said in his Law, ‘You must not have sex with anyone who is not your husband or your wife.’ But God has also said, ‘Do not kill another person.’ Perhaps you do not have sex in a wrong way like that. But if you then murder someone, God's Law shows that you are still wrong."
               }
             ],
             [
               {
-                "verse": 13,
-                "text": "For the man who has had no mercy will be judged without mercy, but mercy takes pride in overcoming judging."
+                "verse": 12,
+                "text": "Remember that God will judge you one day. When he does that, he will use a law which makes us free. So remember this in everything that you say and in everything that you do."
               },
               {
+                "verse": 13,
+                "text": "God will not forgive anyone who has not forgiven other people. But God is kind! He judges us, but even more than that, he forgives us!"
+              }
+            ]
+          ]
+        },
+        {
+          "heading": "Christians show their faith by what they do",
+          "items": [
+            [
+              {
                 "verse": 14,
-                "text": "What use is it, my brothers, for a man to say that he has faith, if he does nothing? will such a faith give him salvation?"
+                "text": "My Christian friends, you say that you believe in God. Then you must show this in the things that you do. If not, your faith will not help you. It will not save you."
               },
               {
                 "verse": 15,
-                "text": "If a brother or a sister is without clothing and in need of the day's food,"
+                "text": "For example, maybe a believer does not have enough clothes to wear or enough food to eat."
               },
               {
                 "verse": 16,
-                "text": "And one of you says to them, Go in peace, be warm and full of food; but you do not give them the things of which their bodies have need, what profit is there in this?"
+                "text": "Then one of you might say to them, ‘Go with God's peace! I pray that you will be warm. I pray that you will eat well.’ But if you do not give them what they need, that does not help them at all."
+              },
+              {
+                "verse": 17,
+                "text": "How we believe in God is also like that. If our faith does not lead us to do good things, then it is not worth anything. It is dead!"
               }
             ],
             [
               {
-                "verse": 17,
-                "text": "Even so faith without works is dead."
-              },
-              {
                 "verse": 18,
-                "text": "But a man may say, You have faith and I have works; let me see your faith without your works, and I will make my faith clear to you by my works."
+                "text": "Someone might say, ‘Some people have faith to believe in God. Other people do good things to help people.’ Then I would say, ‘You cannot show me that you believe in God if you do not do good things. I do good things, and that shows that I really believe in God.’"
               },
               {
                 "verse": 19,
-                "text": "You have the belief that God is one, and you do well: the evil spirits have the same belief, shaking with fear."
-              },
-              {
-                "verse": 20,
-                "text": "Do you not see, O foolish man, that faith without works is of no use?"
+                "text": "You believe that there is only one God. That is good! But even the demons believe that! And it makes them very afraid."
               }
             ],
             [
               {
+                "verse": 20,
+                "text": "You fool! If someone's faith does not lead them to do good things, it is useless. You should know that!"
+              },
+              {
                 "verse": 21,
-                "text": "Was not the righteousness of Abraham our father judged by his works, when he made an offering of Isaac his son on the altar?"
+                "text": "Think about our ancestor Abraham. He offered his son Isaac on the altar as a gift to God. Because he did that good thing, God accepted him as right with himself."
               },
               {
                 "verse": 22,
-                "text": "You see that his faith was helping his works and was made complete by them;"
+                "text": "Abraham believed in God, and he did what God asked him to do. So you can see that both of these were necessary. When he did this good thing, he showed that he believed in God completely."
               },
               {
                 "verse": 23,
-                "text": "And the holy Writings were put into effect which said, And Abraham had faith in God and it was put to his account as righteousness; and he was named the friend of God."
-              },
+                "text": "The Bible tells us what happened. It says, ‘Abraham believed God. As a result, God accepted Abraham as right with him.’ God also called Abraham his friend."
+              }
+            ],
+            [
               {
                 "verse": 24,
-                "text": "You see that a man's righteousness is judged by his works and not by his faith only."
+                "text": "So you see how God accepts someone as right with himself. That person must not only believe in God. He must also do good things to show that he has faith."
               }
             ],
             [
               {
                 "verse": 25,
-                "text": "And in the same way, was not the righteousness of Rahab, the loose woman, judged by her works, when she took into her house those who were sent and let them go out by another way?"
+                "text": "It was the same with Rahab, long ago. She was a prostitute. She helped some of God's people who came to her house. She kept them safe from their enemies and she sent them away again by a different road. Because she did those good things, God accepted her as right with himself."
               },
               {
                 "verse": 26,
-                "text": "For as the body without the spirit is dead even so faith without works is dead."
+                "text": "If our bodies have no spirit, they are dead. In the same way, if our faith does not lead us to do good things, it is dead."
               }
             ]
           ]
         }
       ],
-      "verses": [
-        {
-          "verse": 1,
-          "text": "My brothers, if you have the faith of our Lord Jesus Christ of glory, do not take a man's position into account."
-        },
-        {
-          "verse": 2,
-          "text": "For if a man comes into your Synagogue in fair clothing and with a gold ring, and a poor man comes in with dirty clothing,"
-        },
-        {
-          "verse": 3,
-          "text": "And you do honour to the man in fair clothing and say, Come here and take this good place; and you say to the poor man, Take up your position there, or be seated at my feet;"
-        },
-        {
-          "verse": 4,
-          "text": "Is there not a division in your minds? have you not become judges with evil thoughts?"
-        },
-        {
-          "verse": 5,
-          "text": "Give ear, my dear brothers; are not those who are poor in the things of this world marked out by God to have faith as their wealth, and for their heritage the kingdom which he has said he will give to those who have love for him?"
-        },
-        {
-          "verse": 6,
-          "text": "But you have put the poor man to shame. Are not the men of wealth rulers over you? do they not take you by force before their judges?"
-        },
-        {
-          "verse": 7,
-          "text": "Do they not say evil of the holy name which was given to you?"
-        },
-        {
-          "verse": 8,
-          "text": "But if you keep the greatest law of all, as it is given in the holy Writings, Have love for your neighbour as for yourself, you do well:"
-        },
-        {
-          "verse": 9,
-          "text": "But if you take a man's position into account, you do evil, and are judged as evil-doers by the law."
-        },
-        {
-          "verse": 10,
-          "text": "For anyone who keeps all the law, but makes a slip in one point, is judged to have gone against it all."
-        },
-        {
-          "verse": 11,
-          "text": "For he who said, Do not be untrue in married life, is the same who said, Put no man to death. Now if you are not untrue in married life, but you put a man to death, the law is broken."
-        },
-        {
-          "verse": 12,
-          "text": "Let your words and your acts be those of men who are to be judged by the law which makes free."
-        },
-        {
-          "verse": 13,
-          "text": "For the man who has had no mercy will be judged without mercy, but mercy takes pride in overcoming judging."
-        },
-        {
-          "verse": 14,
-          "text": "What use is it, my brothers, for a man to say that he has faith, if he does nothing? will such a faith give him salvation?"
-        },
-        {
-          "verse": 15,
-          "text": "If a brother or a sister is without clothing and in need of the day's food,"
-        },
-        {
-          "verse": 16,
-          "text": "And one of you says to them, Go in peace, be warm and full of food; but you do not give them the things of which their bodies have need, what profit is there in this?"
-        },
-        {
-          "verse": 17,
-          "text": "Even so faith without works is dead."
-        },
-        {
-          "verse": 18,
-          "text": "But a man may say, You have faith and I have works; let me see your faith without your works, and I will make my faith clear to you by my works."
-        },
-        {
-          "verse": 19,
-          "text": "You have the belief that God is one, and you do well: the evil spirits have the same belief, shaking with fear."
-        },
-        {
-          "verse": 20,
-          "text": "Do you not see, O foolish man, that faith without works is of no use?"
-        },
-        {
-          "verse": 21,
-          "text": "Was not the righteousness of Abraham our father judged by his works, when he made an offering of Isaac his son on the altar?"
-        },
-        {
-          "verse": 22,
-          "text": "You see that his faith was helping his works and was made complete by them;"
-        },
-        {
-          "verse": 23,
-          "text": "And the holy Writings were put into effect which said, And Abraham had faith in God and it was put to his account as righteousness; and he was named the friend of God."
-        },
-        {
-          "verse": 24,
-          "text": "You see that a man's righteousness is judged by his works and not by his faith only."
-        },
-        {
-          "verse": 25,
-          "text": "And in the same way, was not the righteousness of Rahab, the loose woman, judged by her works, when she took into her house those who were sent and let them go out by another way?"
-        },
-        {
-          "verse": 26,
-          "text": "For as the body without the spirit is dead even so faith without works is dead."
-        }
-      ],
-      "totalVerses": 26,
-      "footnotes": []
+      "notes": [
+        "Abraham was the firstancestorof the Israelitenation. When he offered Isaac to God, God provided a sheep for him to kill as asacrificeinstead. SeeGenesis 22. Isaac later became the father of Jacob. God gave Jacob the name ‘Israel’.",
+        "SeeGenesis 15:6.",
+        "SeeJoshua 2:1-22;6:23."
+      ]
     },
     {
-      "book": "James",
       "chapter": 3,
       "title": "James 3",
-      "subtitle": "James Chapter 3",
+      "subtitle": "",
+      "totalVerses": 18,
+      "sourceUrl": "https://www.easyenglish.bible/bible/easy/james/3/",
       "sections": [
         {
-          "heading": "James Chapter 3",
+          "heading": "The words we speak have the power to hurt people",
           "items": [
             [
               {
                 "verse": 1,
-                "text": "Do not all be teachers, my brothers, because we teachers will be judged more hardly than others."
+                "text": "My Christian friends, not many of you should become teachers. We people who teach God's message must be very careful. When God judges everybody, he will demand more from us than from other people."
               },
               {
                 "verse": 2,
-                "text": "For we all go wrong in a number of things. If a man never makes a slip in his talk, then he is a complete man and able to keep all his body in control."
-              },
+                "text": "We all make many mistakes. So, if someone never says anything that is bad, that person is completely good. It shows that he has authority over his whole body."
+              }
+            ],
+            [
               {
                 "verse": 3,
-                "text": "Now if we put bits of iron into horses' mouths so that they may be guided by us, we have complete control of their bodies."
+                "text": "For example, think about how we make a horse go the right way. We put a small piece of metal in its mouth so that we can turn it. Then we can cause the horse's whole body to go where we want it to go."
               },
               {
                 "verse": 4,
-                "text": "And again ships, though they are so great and are moved by violent winds, are turned by a very small guiding-blade, at the impulse of the man who is using it."
+                "text": "Also, think about ships that sail on the sea. They are very large. Strong winds push them with great power. But we fix a piece of wood at the back of the ship. With this small piece of wood, the master can cause the ship to go anywhere that he wants it to go."
+              },
+              {
+                "verse": 5,
+                "text": "In the same way, our tongue is a very small part of our body. But it speaks as if it is very great."
               }
             ],
             [
               {
                 "verse": 5,
-                "text": "Even so the tongue is a small part of the body, but it takes credit for great things. How much wood may be lighted by a very little fire!"
+                "text": "Think about this. A very small fire can cause even a big forest to burn completely."
               },
               {
                 "verse": 6,
-                "text": "And the tongue is a fire; it is the power of evil placed in our bodies, making all the body unclean, putting the wheel of life on fire, and getting its fire from hell."
-              },
+                "text": "A person's tongue is like a fire. It has the power of everything in the world that is wrong. It is a small part of the body but it can spoil the whole person. Like a fire, it can destroy all of a person's life. It is a fire that comes from the fire of hell itself."
+              }
+            ],
+            [
               {
                 "verse": 7,
-                "text": "For every sort of beast and bird and every living thing on earth and in the sea has been controlled by man and is under his authority;"
+                "text": "Remember this. People can cause all kinds of things to do what they want them to do. They have done this with wild animals, birds, snakes and things that live in the sea."
               },
               {
                 "verse": 8,
-                "text": "But the tongue may not be controlled by man; it is an unresting evil, it is full of the poison of death."
+                "text": "But no person can rule his tongue. It continues to say bad things. It is like a bad poison that can cause death."
               }
             ],
             [
               {
                 "verse": 9,
-                "text": "With it we give praise to our Lord and Father; and with it we put a curse on men who are made in God's image."
+                "text": "We use our tongue to praise the Lord God who is our Father. But then we use it to curse other people. That is wrong, because God made those people to be like himself."
               },
               {
                 "verse": 10,
-                "text": "Out of the same mouth comes blessing and cursing. My brothers, it is not right for these things to be so."
+                "text": "This shows that we use the same mouth to praise and also to curse. My Christian friends, we should not do this."
               },
               {
                 "verse": 11,
-                "text": "Does the fountain send from the same outlet sweet and bitter water?"
+                "text": "Salty water and sweet water never come from the same spring."
               },
               {
                 "verse": 12,
-                "text": "Is a fig-tree able to give us olives, my brothers, or do we get figs from a vine, or sweet water from the salt sea?"
+                "text": "A fig tree cannot give olives, my friends. A vine for grapes cannot give figs. And a salty spring cannot give sweet water."
               }
-            ],
+            ]
+          ]
+        },
+        {
+          "heading": "How to be truly wise",
+          "items": [
             [
               {
                 "verse": 13,
-                "text": "Who has wisdom and good sense among you? let him make his works clear by a life of gentle wisdom."
+                "text": "Do some of you think that you are wise? Do you think that you are clever? If so, show that you are wise by the way that you live. Be kind to other people. Do things that are good. That is what it means to be wise."
               },
               {
                 "verse": 14,
-                "text": "But if you have bitter envy in your heart and the desire to get the better of others, have no pride in this, talking falsely against what is true."
+                "text": "But if you live in a bad way, do not think that you are wise. Are you jealous of other people so that you hate them? Do you want to make yourself important? If you live like that, do not say that you are great and wise. You are not saying what is true."
               },
               {
                 "verse": 15,
-                "text": "This wisdom is not from heaven, but is of the earth and the flesh and the Evil One."
+                "text": "You are not being wise in the way that God wants you to be wise. Instead, you are thinking like people who do not know God. Your thoughts do not come from God's Spirit. They come from demons."
               },
               {
                 "verse": 16,
-                "text": "For where envy is, and the desire to get the better of others, there is no order, but every sort of evil-doing."
+                "text": "If you are jealous of other people and you want to make yourself important, that will cause trouble. People will argue and fight against one another. They will do all kinds of bad things."
               }
             ],
             [
               {
                 "verse": 17,
-                "text": "But the wisdom which is from heaven is first holy, then gentle, readily giving way in argument, full of peace and mercy and good works, not doubting, not seeming other than it is."
-              },
+                "text": "But if God makes you really wise, you will live in a completely good way. That is the most important thing. Also, you will live in a way that brings peace. You will be kind to other people so that they become your friends. You will listen to them and not argue. You will forgive them and do many good things to help them. You will not choose between people. And you will not be a hypocrite."
+              }
+            ],
+            [
               {
                 "verse": 18,
-                "text": "And the fruit of righteousness is planted in peace for those who make peace."
+                "text": "Those who bring peace to other people help them to live together in peace. As a result, people choose to do what is right and good."
               }
             ]
           ]
         }
       ],
-      "verses": [
-        {
-          "verse": 1,
-          "text": "Do not all be teachers, my brothers, because we teachers will be judged more hardly than others."
-        },
-        {
-          "verse": 2,
-          "text": "For we all go wrong in a number of things. If a man never makes a slip in his talk, then he is a complete man and able to keep all his body in control."
-        },
-        {
-          "verse": 3,
-          "text": "Now if we put bits of iron into horses' mouths so that they may be guided by us, we have complete control of their bodies."
-        },
-        {
-          "verse": 4,
-          "text": "And again ships, though they are so great and are moved by violent winds, are turned by a very small guiding-blade, at the impulse of the man who is using it."
-        },
-        {
-          "verse": 5,
-          "text": "Even so the tongue is a small part of the body, but it takes credit for great things. How much wood may be lighted by a very little fire!"
-        },
-        {
-          "verse": 6,
-          "text": "And the tongue is a fire; it is the power of evil placed in our bodies, making all the body unclean, putting the wheel of life on fire, and getting its fire from hell."
-        },
-        {
-          "verse": 7,
-          "text": "For every sort of beast and bird and every living thing on earth and in the sea has been controlled by man and is under his authority;"
-        },
-        {
-          "verse": 8,
-          "text": "But the tongue may not be controlled by man; it is an unresting evil, it is full of the poison of death."
-        },
-        {
-          "verse": 9,
-          "text": "With it we give praise to our Lord and Father; and with it we put a curse on men who are made in God's image."
-        },
-        {
-          "verse": 10,
-          "text": "Out of the same mouth comes blessing and cursing. My brothers, it is not right for these things to be so."
-        },
-        {
-          "verse": 11,
-          "text": "Does the fountain send from the same outlet sweet and bitter water?"
-        },
-        {
-          "verse": 12,
-          "text": "Is a fig-tree able to give us olives, my brothers, or do we get figs from a vine, or sweet water from the salt sea?"
-        },
-        {
-          "verse": 13,
-          "text": "Who has wisdom and good sense among you? let him make his works clear by a life of gentle wisdom."
-        },
-        {
-          "verse": 14,
-          "text": "But if you have bitter envy in your heart and the desire to get the better of others, have no pride in this, talking falsely against what is true."
-        },
-        {
-          "verse": 15,
-          "text": "This wisdom is not from heaven, but is of the earth and the flesh and the Evil One."
-        },
-        {
-          "verse": 16,
-          "text": "For where envy is, and the desire to get the better of others, there is no order, but every sort of evil-doing."
-        },
-        {
-          "verse": 17,
-          "text": "But the wisdom which is from heaven is first holy, then gentle, readily giving way in argument, full of peace and mercy and good works, not doubting, not seeming other than it is."
-        },
-        {
-          "verse": 18,
-          "text": "And the fruit of righteousness is planted in peace for those who make peace."
-        }
-      ],
-      "totalVerses": 18,
-      "footnotes": []
+      "notes": []
     },
     {
-      "book": "James",
       "chapter": 4,
       "title": "James 4",
-      "subtitle": "James Chapter 4",
+      "subtitle": "",
+      "totalVerses": 17,
+      "sourceUrl": "https://www.easyenglish.bible/bible/easy/james/4/",
       "sections": [
         {
-          "heading": "James Chapter 4",
+          "heading": "Love God instead of other things",
           "items": [
             [
               {
                 "verse": 1,
-                "text": "What is the cause of wars and fighting among you? is it not in your desires which are at war in your bodies?"
+                "text": "You fight and argue among yourselves. Do you know why that happens? It is because of the troubles in your thoughts. You want to do bad things that you think will make you happy."
               },
               {
                 "verse": 2,
-                "text": "You are burning with desire, and have not your desire, so you put men to death; you are full of envy, and you are not able to get your desire, so you are fighting and making war; you have not your desire, because you do not make request for it."
+                "text": "You want to have something for yourself, but you do not get what you want. You even kill other people. You try to take things from other people. But you cannot get what you want. So you fight and you argue with each other. But you do not have these things because you do not ask God for them."
               },
               {
                 "verse": 3,
-                "text": "You make your request but you do not get it, because your request has been wrongly made, desiring the thing only so that you may make use of it for your pleasure."
-              },
-              {
-                "verse": 4,
-                "text": "O you who are false to God, do you not see that the friends of this world are not God's friends? Every man desiring to be a friend of this world makes himself a hater of God."
+                "text": "Even when you do ask God, you do not receive anything. That is because you ask for the wrong reason. You just want to use these things to make yourselves happy."
               }
             ],
             [
               {
+                "verse": 4,
+                "text": "You are turning away from God, like a woman who is not faithful to her husband. You choose to be friends with people who are against God. So you yourselves become enemies of God. You should know that!"
+              },
+              {
                 "verse": 5,
-                "text": "Or does it seem to you that it is for nothing that the holy Writings say, The spirit which God put into our hearts has a strong desire for us?"
+                "text": "The Bible says, ‘God has caused his Spirit to live in us. He wants very much to keep us for himself.’ Do you think that is not true?"
               },
               {
                 "verse": 6,
-                "text": "But he gives more grace. So that the Writings say, God is against the men of pride, but he gives grace to those who make themselves low before him."
-              },
+                "text": "But God will be very kind to us and he will help us. That is why the Bible says, ‘God is against those people who are proud. But he is kind to humble people.’"
+              }
+            ],
+            [
               {
                 "verse": 7,
-                "text": "For this cause be ruled by God; but make war on the Evil One and he will be put to flight before you."
+                "text": "So obey God's authority. Be strong against the devil and he will run away from you."
               },
               {
                 "verse": 8,
-                "text": "Come near to God and he will come near to you. Make your hands clean, you evil-doers; put away deceit from your hearts, you false in mind."
+                "text": "Come near to God and he will come near to you. Be clean in the way that you live. Stop doing wrong things. Make your minds clean. You cannot love sin and love God at the same time."
+              },
+              {
+                "verse": 9,
+                "text": "Be sorry about your sins and weep. Stop laughing and instead be sad. Do not be happy but be very upset."
               }
             ],
             [
               {
-                "verse": 9,
-                "text": "Be troubled, with sorrow and weeping; let your laughing be turned to sorrow and your joy to grief."
-              },
-              {
                 "verse": 10,
-                "text": "Make yourselves low in the eyes of the Lord and you will be lifted up by him."
-              },
+                "text": "Be humble in front of the Lord God. Then he will lift you up to a good place."
+              }
+            ]
+          ]
+        },
+        {
+          "heading": "Christians must not judge one another",
+          "items": [
+            [
               {
                 "verse": 11,
-                "text": "Do not say evil against one another, my brothers. He who says evil against his brother or makes himself his brother's judge, says evil against the law and is judging the law: and in judging the law you become, not a doer of the law but a judge."
+                "text": "My Christian friends, do not say bad things against each other. If you speak against another believer, you are really speaking against God's Law. If you judge another believer, then you are judging the Law too. When you do that, you are not obeying the Law. You are giving yourself authority to decide what the Law says."
               },
               {
                 "verse": 12,
-                "text": "There is only one judge and law-giver, even he who has the power of salvation and of destruction; but who are you to be your neighbour's judge?"
+                "text": "God is the one who gave his Law to people. Only he has the authority to judge whether people have done what is right. Only he can decide to save people or to destroy them. So you must not judge your friends. You do not have that authority."
+              }
+            ]
+          ]
+        },
+        {
+          "heading": "Do not boast about what you will do",
+          "items": [
+            [
+              {
+                "verse": 13,
+                "text": "Some of you say, ‘Today or tomorrow we will go to a certain city. We will stay there for a year. We will buy and sell things, and we will become rich.’ If you say things like that, listen to me!"
+              },
+              {
+                "verse": 14,
+                "text": "You do not know what will happen tomorrow. Your life is like a cloud which appears for a short time and then it quickly goes away."
               }
             ],
             [
               {
-                "verse": 13,
-                "text": "How foolish it is to say, Today or tomorrow we will go into this town, and be there for a year and do business there and get wealth:"
-              },
-              {
-                "verse": 14,
-                "text": "When you are not certain what will take place tomorrow. What is your life? It is a mist, which is seen for a little time and then is gone."
-              },
-              {
                 "verse": 15,
-                "text": "But the right thing to say would be, If it is the Lord's pleasure and if we are still living, we will do this and that."
+                "text": "So what you ought to say is, ‘If the Lord agrees and we are still alive, then we will do this or that.’"
               },
               {
                 "verse": 16,
-                "text": "But now you go on glorying in your pride: and all such glorying is evil."
+                "text": "But instead, you talk about what you have decided to do. You speak as if you have the power to make it happen. It is wrong to boast like that."
               }
             ],
             [
               {
                 "verse": 17,
-                "text": "The man who has knowledge of how to do good and does not do it, to him it is sin."
+                "text": "So you know the right thing that you ought to do. But if you know what is right and you do not do it, that is a sin for you."
               }
             ]
           ]
         }
       ],
-      "verses": [
-        {
-          "verse": 1,
-          "text": "What is the cause of wars and fighting among you? is it not in your desires which are at war in your bodies?"
-        },
-        {
-          "verse": 2,
-          "text": "You are burning with desire, and have not your desire, so you put men to death; you are full of envy, and you are not able to get your desire, so you are fighting and making war; you have not your desire, because you do not make request for it."
-        },
-        {
-          "verse": 3,
-          "text": "You make your request but you do not get it, because your request has been wrongly made, desiring the thing only so that you may make use of it for your pleasure."
-        },
-        {
-          "verse": 4,
-          "text": "O you who are false to God, do you not see that the friends of this world are not God's friends? Every man desiring to be a friend of this world makes himself a hater of God."
-        },
-        {
-          "verse": 5,
-          "text": "Or does it seem to you that it is for nothing that the holy Writings say, The spirit which God put into our hearts has a strong desire for us?"
-        },
-        {
-          "verse": 6,
-          "text": "But he gives more grace. So that the Writings say, God is against the men of pride, but he gives grace to those who make themselves low before him."
-        },
-        {
-          "verse": 7,
-          "text": "For this cause be ruled by God; but make war on the Evil One and he will be put to flight before you."
-        },
-        {
-          "verse": 8,
-          "text": "Come near to God and he will come near to you. Make your hands clean, you evil-doers; put away deceit from your hearts, you false in mind."
-        },
-        {
-          "verse": 9,
-          "text": "Be troubled, with sorrow and weeping; let your laughing be turned to sorrow and your joy to grief."
-        },
-        {
-          "verse": 10,
-          "text": "Make yourselves low in the eyes of the Lord and you will be lifted up by him."
-        },
-        {
-          "verse": 11,
-          "text": "Do not say evil against one another, my brothers. He who says evil against his brother or makes himself his brother's judge, says evil against the law and is judging the law: and in judging the law you become, not a doer of the law but a judge."
-        },
-        {
-          "verse": 12,
-          "text": "There is only one judge and law-giver, even he who has the power of salvation and of destruction; but who are you to be your neighbour's judge?"
-        },
-        {
-          "verse": 13,
-          "text": "How foolish it is to say, Today or tomorrow we will go into this town, and be there for a year and do business there and get wealth:"
-        },
-        {
-          "verse": 14,
-          "text": "When you are not certain what will take place tomorrow. What is your life? It is a mist, which is seen for a little time and then is gone."
-        },
-        {
-          "verse": 15,
-          "text": "But the right thing to say would be, If it is the Lord's pleasure and if we are still living, we will do this and that."
-        },
-        {
-          "verse": 16,
-          "text": "But now you go on glorying in your pride: and all such glorying is evil."
-        },
-        {
-          "verse": 17,
-          "text": "The man who has knowledge of how to do good and does not do it, to him it is sin."
-        }
-      ],
-      "totalVerses": 17,
-      "footnotes": []
+      "notes": [
+        "SeeProverbs 3:34."
+      ]
     },
     {
-      "book": "James",
       "chapter": 5,
       "title": "James 5",
-      "subtitle": "James Chapter 5",
+      "subtitle": "",
+      "totalVerses": 20,
+      "sourceUrl": "https://www.easyenglish.bible/bible/easy/james/5/",
       "sections": [
         {
-          "heading": "James Chapter 5",
+          "heading": "James warns rich people who cheat other people",
           "items": [
             [
               {
                 "verse": 1,
-                "text": "Come now, you men of wealth, give yourselves to weeping and crying because of the bitter troubles which are coming to you."
+                "text": "Now, listen to me, you rich people. Weep and cry aloud, because many troubles will soon happen to you."
               },
               {
                 "verse": 2,
-                "text": "Your wealth is unclean and insects have made holes in your clothing."
+                "text": "Your money no longer has any value. Insects have eaten your beautiful clothes and they have spoiled them."
               },
               {
                 "verse": 3,
-                "text": "Your gold and your silver are wasted and their waste will be a witness against you, burning into your flesh. You have put by your store in the last days."
+                "text": "You have stored silver and gold coins to spend for yourselves. But dirt has spoiled those coins. That dirt will show that you are guilty. It will become like fire that is burning your bodies. In the last days of this world you have stored all this money for yourselves."
               },
               {
                 "verse": 4,
-                "text": "See, the money which you falsely kept back from the workers cutting the grass in your field, is crying out against you; and the cries of those who took in your grain have come to the ears of the Lord of armies."
+                "text": "But you have not paid the workers in your fields the money that you should have paid them. You have cheated them. Now they are shouting against you. The Lord of great power has heard them when they cry to him for help."
               }
             ],
             [
               {
                 "verse": 5,
-                "text": "You have been living delicately on earth and have taken your pleasure; you have made your hearts fat for a day of destruction."
+                "text": "During your life here on this earth, you have had all that you wanted. You have lived like kings. You have eaten as much food as you want. So now you are like fat animals that are ready for men to kill."
               },
               {
                 "verse": 6,
-                "text": "You have given your decision against the upright man and have put him to death. He puts up no fight against you."
-              },
+                "text": "You say that a righteous person is guilty. You have even killed him and he could not stop you."
+              }
+            ]
+          ]
+        },
+        {
+          "heading": "Be patient until the Lord Jesus comes again",
+          "items": [
+            [
               {
                 "verse": 7,
-                "text": "Go on waiting calmly, my brothers, till the coming of the Lord, like the farmer waiting for the good fruit of the earth till the early and late rains have come."
+                "text": "So, my Christian friends, be patient until the Lord Jesus returns. Think about how a farmer is patient. He waits for the ground to give him valuable food to eat. He waits patiently for the rain to come in the autumn and in the spring."
               },
               {
                 "verse": 8,
-                "text": "Be as calm in your waiting; let your hearts be strong: because the coming of the Lord is near."
+                "text": "You also must be patient, because the Lord will return soon. Be strong as you continue to trust him."
               }
             ],
             [
               {
                 "verse": 9,
-                "text": "Say no hard things against one another, brothers, so that you will not be judged; see, the judge is waiting at the doors."
-              },
+                "text": "My Christian friends, do not complain against each other. If you do, God will punish you. So be careful! He is the Judge and he is ready now to judge people."
+              }
+            ],
+            [
               {
                 "verse": 10,
-                "text": "Take as an example of pain nobly undergone and of strength in trouble, the prophets who gave to men the words of the Lord."
+                "text": "Think about how God's prophets were also patient. They spoke messages on behalf of the Lord. Many troubles happened to them but they were patient. So, my Christian friends, you should copy their example."
               },
               {
                 "verse": 11,
-                "text": "We say that those men who have gone through pain are happy: you have the story of Job and the troubles through which he went and have seen that the Lord was full of pity and mercy in the end."
-              },
-              {
-                "verse": 12,
-                "text": "But most of all, my brothers, do not take oaths, not by the heaven, or by the earth, or by any other thing: but let your Yes be Yes, and your No be No: so that you may not be judged."
+                "text": "We know that God blessed people who were like that. They continued to trust God when trouble happened to them. You have heard about Job. He waited patiently for God to help him in his troubles. You know how the Lord helped him in the end. Because of that, we see that the Lord God is very kind and he helps us."
               }
             ],
+            [
+              {
+                "verse": 12,
+                "text": "Here is another important thing to remember, my Christian friends. When you want to make a strong promise, never use extra words. Do not say, ‘I promise by heaven,’ or ‘I promise by the earth.’ Do not use any extra words like that. When you say ‘yes,’ that should be enough. When you say ‘no,’ that should also be enough. If you say more than that, God will say that you are guilty."
+              }
+            ]
+          ]
+        },
+        {
+          "heading": "God works powerfully when you pray",
+          "items": [
             [
               {
                 "verse": 13,
-                "text": "Is anyone among you in trouble? let him say prayers. Is anyone glad? let him make a song of praise."
+                "text": "Is anyone among you in trouble? Then they should pray to God about it. Or, is anyone feeling happy? They should praise God with songs."
               },
               {
                 "verse": 14,
-                "text": "Is anyone among you ill? let him send for the rulers of the church; and let them say prayers over him, putting oil on him in the name of the Lord."
+                "text": "Is anyone ill? They should ask the leaders of the church to come and to pray for them. The leaders should put some olive oil on the sick person. They should pray for him with the authority of the Lord Jesus."
               },
               {
                 "verse": 15,
-                "text": "And by the prayer of faith the man who is ill will be made well, and he will be lifted up by the Lord, and for any sin which he has done he will have forgiveness."
-              },
-              {
-                "verse": 16,
-                "text": "So then, make a statement of your sins to one another, and say prayers for one another so that you may be made well. The prayer of a good man is full of power in its working."
+                "text": "If they pray in that way and they trust that God will answer them, the sick person will become well again. The Lord will cause him to become well. And God will forgive him if he has done any wrong things."
               }
             ],
             [
               {
+                "verse": 16,
+                "text": "So you should tell each other about any wrong things that you have done. Then you will be able to pray for each other, so that God makes you well again. When a good person prays to God, God does powerful things."
+              },
+              {
                 "verse": 17,
-                "text": "Elijah was a man of flesh and blood as we are, and he made a strong prayer that there might be no rain; and there was no rain on the earth for three years and six months."
+                "text": "For example, God's prophet Elijah was an ordinary person, as we are. He prayed to God that it would not rain. He continued to pray and it did not rain on the land for three years and six months."
               },
               {
                 "verse": 18,
-                "text": "And he made another prayer, and the heaven sent down rain and the earth gave her fruit."
-              },
+                "text": "After that time, he prayed to God to send rain again. After that, rain came down from the sky. The seeds that were in the ground began to grow and give food for people to eat."
+              }
+            ],
+            [
               {
                 "verse": 19,
-                "text": "My brothers, if one of you has gone out of the way of the true faith and another has made him see his error,"
+                "text": "My Christian friends, if anyone among you turns away from God's true message, you should help him. Try to bring him back to God."
               },
               {
                 "verse": 20,
-                "text": "Be certain that he through whom a sinner has been turned from the error of his way, keeps a soul from death and is the cause of forgiveness for sins without number."
+                "text": "Understand this: if you turn a person back from their bad ways, you will save them from death. And God will forgive them for many sins."
               }
             ]
           ]
         }
       ],
-      "verses": [
-        {
-          "verse": 1,
-          "text": "Come now, you men of wealth, give yourselves to weeping and crying because of the bitter troubles which are coming to you."
-        },
-        {
-          "verse": 2,
-          "text": "Your wealth is unclean and insects have made holes in your clothing."
-        },
-        {
-          "verse": 3,
-          "text": "Your gold and your silver are wasted and their waste will be a witness against you, burning into your flesh. You have put by your store in the last days."
-        },
-        {
-          "verse": 4,
-          "text": "See, the money which you falsely kept back from the workers cutting the grass in your field, is crying out against you; and the cries of those who took in your grain have come to the ears of the Lord of armies."
-        },
-        {
-          "verse": 5,
-          "text": "You have been living delicately on earth and have taken your pleasure; you have made your hearts fat for a day of destruction."
-        },
-        {
-          "verse": 6,
-          "text": "You have given your decision against the upright man and have put him to death. He puts up no fight against you."
-        },
-        {
-          "verse": 7,
-          "text": "Go on waiting calmly, my brothers, till the coming of the Lord, like the farmer waiting for the good fruit of the earth till the early and late rains have come."
-        },
-        {
-          "verse": 8,
-          "text": "Be as calm in your waiting; let your hearts be strong: because the coming of the Lord is near."
-        },
-        {
-          "verse": 9,
-          "text": "Say no hard things against one another, brothers, so that you will not be judged; see, the judge is waiting at the doors."
-        },
-        {
-          "verse": 10,
-          "text": "Take as an example of pain nobly undergone and of strength in trouble, the prophets who gave to men the words of the Lord."
-        },
-        {
-          "verse": 11,
-          "text": "We say that those men who have gone through pain are happy: you have the story of Job and the troubles through which he went and have seen that the Lord was full of pity and mercy in the end."
-        },
-        {
-          "verse": 12,
-          "text": "But most of all, my brothers, do not take oaths, not by the heaven, or by the earth, or by any other thing: but let your Yes be Yes, and your No be No: so that you may not be judged."
-        },
-        {
-          "verse": 13,
-          "text": "Is anyone among you in trouble? let him say prayers. Is anyone glad? let him make a song of praise."
-        },
-        {
-          "verse": 14,
-          "text": "Is anyone among you ill? let him send for the rulers of the church; and let them say prayers over him, putting oil on him in the name of the Lord."
-        },
-        {
-          "verse": 15,
-          "text": "And by the prayer of faith the man who is ill will be made well, and he will be lifted up by the Lord, and for any sin which he has done he will have forgiveness."
-        },
-        {
-          "verse": 16,
-          "text": "So then, make a statement of your sins to one another, and say prayers for one another so that you may be made well. The prayer of a good man is full of power in its working."
-        },
-        {
-          "verse": 17,
-          "text": "Elijah was a man of flesh and blood as we are, and he made a strong prayer that there might be no rain; and there was no rain on the earth for three years and six months."
-        },
-        {
-          "verse": 18,
-          "text": "And he made another prayer, and the heaven sent down rain and the earth gave her fruit."
-        },
-        {
-          "verse": 19,
-          "text": "My brothers, if one of you has gone out of the way of the true faith and another has made him see his error,"
-        },
-        {
-          "verse": 20,
-          "text": "Be certain that he through whom a sinner has been turned from the error of his way, keeps a soul from death and is the cause of forgiveness for sins without number."
-        }
-      ],
-      "totalVerses": 20,
-      "footnotes": []
+      "notes": []
     }
   ]
 }

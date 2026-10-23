@@ -1,966 +1,724 @@
 {
-  "translation": "EasyEnglish Bible",
-  "book": "Philippians",
-  "bookId": "PHP",
+  "id": "PHP",
+  "name": "Philippians",
+  "slug": "philippians",
+  "translation": "EasyEnglish Bible (EASY)",
+  "publisher": "MissionAssist UK",
+  "referenceUrl": "https://www.easyenglish.bible/bible/easy/philippians/",
   "totalChapters": 4,
-  "copyrightNotice": "Scripture quotations are from the EasyEnglish Bible / Bible in Basic English. Public Domain.",
-  "officialSourceUrl": "https://www.easyenglish.bible/bible/easy/philippians/1/",
+  "totalVerses": 104,
   "chapters": [
     {
-      "book": "Philippians",
       "chapter": 1,
       "title": "Philippians 1",
-      "subtitle": "Philippians Chapter 1",
+      "subtitle": "",
+      "totalVerses": 30,
+      "sourceUrl": "https://www.easyenglish.bible/bible/easy/philippians/1/",
       "sections": [
         {
-          "heading": "Philippians Chapter 1",
+          "heading": "Paul writes to Christians in Philippi",
           "items": [
             [
               {
                 "verse": 1,
-                "text": "Paul and Timothy, servants of Jesus Christ, to all the saints in Christ Jesus at Philippi, with the Bishops and Deacons of the church:"
-              },
-              {
-                "verse": 2,
-                "text": "Grace to you and peace from God our Father and the Lord Jesus Christ."
-              },
-              {
-                "verse": 3,
-                "text": "I give praise to my God at every memory of you,"
-              },
-              {
-                "verse": 4,
-                "text": "And in all my prayers for you all, making my request with joy,"
+                "text": "Paul and Timothy write this letter to you. We are servants of Christ Jesus."
               }
             ],
             [
               {
+                "verse": 1,
+                "text": "We are writing to you, God's own people who live in Philippi. You belong to God because you are united with Christ Jesus. We are writing to all of you. This includes the leaders and the deacons in the church there."
+              }
+            ],
+            [
+              {
+                "verse": 2,
+                "text": "We pray that God our Father and the Lord Jesus Christ will continue to help you. We pray that they will give you peace in your minds."
+              }
+            ]
+          ]
+        },
+        {
+          "heading": "Paul thanks God for the Christians in Philippi",
+          "items": [
+            [
+              {
+                "verse": 3,
+                "text": "Every time that I think about you, I thank my God because of you."
+              },
+              {
+                "verse": 4,
+                "text": "I am always praying for you. Every time that I pray for you, I feel very happy."
+              },
+              {
                 "verse": 5,
-                "text": "Because of your help in giving the good news from the first day till now;"
+                "text": "I am happy because together we tell people the good news about Christ. You have always helped me with that work, since the first day that you yourselves heard the good news."
               },
               {
                 "verse": 6,
-                "text": "For I am certain of this very thing, that he by whom the good work was started in you will make it complete till the day of Jesus Christ:"
-              },
+                "text": "I know that God has begun to do good things in you. And I am sure that he will continue to work in you. Then, on the day when Jesus Christ returns, his work in you will be finished."
+              }
+            ],
+            [
               {
                 "verse": 7,
-                "text": "So it is right for me to take thought for you all in this way, because I have you in my heart; for in my chains, and in my arguments before the judges in support of the good news, making clear that it is true, you all have your part with me in grace."
+                "text": "It is right for me to feel like this about all of you, because I love you very much. God has been very kind to all of us. Because you know that, you have continued to help me. You have helped me while I have been here in this prison. You also helped me when I was free and I could teach the good news. I explained to people why the good news is God's true message. Together, we have known how kind God is."
               },
               {
                 "verse": 8,
-                "text": "For God is my witness, how my love goes out to you all in the loving mercies of Christ Jesus."
+                "text": "God knows that I very much want to be with all of you. I love you very much, as Christ Jesus himself loves you."
               }
             ],
             [
               {
                 "verse": 9,
-                "text": "And my prayer is that you may be increased more and more in knowledge and experience;"
+                "text": "This is what I pray for you. I pray that you will continue to love each other more and more. I pray that you will know God better and better. I pray that you will understand all those things that are true."
               },
               {
                 "verse": 10,
-                "text": "So that you may give your approval to the best things; that you may be true and without wrongdoing till the day of Christ;"
+                "text": "Then you will be able to choose what is best in the way that you live. Then, on the day when Christ returns, you will be completely clean. You will not be guilty of any bad thing."
               },
               {
                 "verse": 11,
-                "text": "Being full of the fruits of righteousness, which are through Jesus Christ, to the glory and praise of God."
-              },
-              {
-                "verse": 12,
-                "text": "Now it is my purpose to make clear to you, brothers, that the cause of the good news has been helped by my experiences;"
+                "text": "Because of the work that Jesus Christ has done in you, you will be right with God. And your lives will be full of good things. As a result, people will praise God and they will say that he is very great."
               }
-            ],
+            ]
+          ]
+        },
+        {
+          "heading": "Paul serves God in prison",
+          "items": [
             [
               {
+                "verse": 12,
+                "text": "My friends, I want you to know this. The trouble that has happened to me has helped more people to know about God's good news."
+              },
+              {
                 "verse": 13,
-                "text": "So that it became clear through all the Praetorium, and to all the rest, that I was a prisoner on account of Christ;"
+                "text": "I am in prison because I am Christ's servant. The soldiers in the king's house and all the people here know that."
               },
               {
                 "verse": 14,
-                "text": "And most of the brothers in the Lord, taking heart because of my chains, are all the stronger to give the word of God without fear."
-              },
-              {
-                "verse": 15,
-                "text": "Though some are preaching Christ out of envy and competition, others do it out of a good heart:"
-              },
-              {
-                "verse": 16,
-                "text": "These do it from love, conscious that I am responsible for the cause of the good news:"
+                "text": "Also, because I am in prison, most of the other believers here trust the Lord even more. The Lord has made them brave, so that they are not afraid to speak God's message to people."
               }
             ],
             [
               {
+                "verse": 15,
+                "text": "It is true that some of these Christians are jealous of me. They want to cause trouble for me. That is why they tell people the message about Christ. But other Christians speak about Christ because they want to help me."
+              },
+              {
+                "verse": 16,
+                "text": "They tell people about him because they love me. They know that God has put me here in this prison. And he wants me to show people that the good news is true."
+              },
+              {
                 "verse": 17,
-                "text": "But those are preaching Christ in a spirit of competition, not from their hearts, but with the purpose of giving me pain in my prison."
+                "text": "Those other people speak about Christ because they want to seem important. They do not really want to help people. They just want to cause trouble for me while I am here in this prison."
               },
               {
                 "verse": 18,
-                "text": "What then? only that in every way, falsely or truly, the preaching of Christ goes on; and in this I am glad, and will be glad."
+                "text": "But it does not matter to me! All of them are telling people about Christ. That is the most important thing. Whether they speak because of wrong reasons or because of right reasons, they are speaking the message about Christ! Because of that, I am happy."
+              }
+            ],
+            [
+              {
+                "verse": 18,
+                "text": "Yes, I will continue to be happy."
               },
               {
                 "verse": 19,
-                "text": "For I am conscious that this will be for my salvation, through your prayer and the giving out of the stored wealth of the Spirit of Jesus Christ,"
+                "text": "You are praying for me and Jesus Christ's Spirit is helping me. So I know that what has happened to me will have a good result. Yes, God will rescue me."
               },
               {
                 "verse": 20,
-                "text": "In the measure of my strong hope and belief that in nothing will I be put to shame, but that without fear, as at all times, so now will Christ have glory in my body, by life or by death."
+                "text": "I never want to do anything that will cause me to be ashamed. I hope very much that I will never do that. I want to be brave now, as I always have been. In the way that I live, I want to show that Christ is very great. I want to do that if I continue to live. And I want to do that if I die."
               }
             ],
             [
               {
                 "verse": 21,
-                "text": "For to me life is Christ and death is profit."
+                "text": "Christ is everything that I live for. If I die, that will be even better for me."
               },
               {
                 "verse": 22,
-                "text": "But if I go on living in the flesh--if this is the fruit of my work--then I do not see what decision to make."
+                "text": "But if I continue to live, I will be able to do more good things to help people. I do not know whether it would be better to live or to die. I do not know which to choose."
               },
               {
                 "verse": 23,
-                "text": "I am in a hard position between the two, having a desire to go away and be with Christ, which is very much better:"
+                "text": "Both of them seem very good to me. I want to leave this world so that I can be with Christ. That is a much better thing."
               },
               {
                 "verse": 24,
-                "text": "Still, to go on in the flesh is more necessary because of you."
-              }
-            ],
-            [
+                "text": "But it is necessary for me to live here in this world so that I can help you."
+              },
               {
                 "verse": 25,
-                "text": "And being certain of this, I am conscious that I will go on, yes, and go on with you all, for your growth and joy in the faith;"
+                "text": "Yes, I am sure that you need me. For that reason, I know that I will continue to live among you. Then I will be able to help you to trust Christ even more. And that will make you even happier."
               },
               {
                 "verse": 26,
-                "text": "So that your pride in me may be increased in Christ Jesus through my being present with you again."
-              },
+                "text": "Then, when I am with you again, you will have an even better reason to thank Christ Jesus."
+              }
+            ]
+          ]
+        },
+        {
+          "heading": "Christians will suffer as they serve Christ",
+          "items": [
+            [
               {
                 "verse": 27,
-                "text": "Only let your behaviour do credit to the good news of Christ, so that if I come and see you or if I am away from you, I may have news of you that you are strong in one spirit, working together with one soul for the faith of the good news;"
-              },
-              {
-                "verse": 28,
-                "text": "Having no fear of those who are against you; which is a clear sign of their destruction, but of your salvation, and that from God;"
+                "text": "The most important thing is that you continue to live in a good way. Live in the way that the good news about Christ teaches. I want to know that you agree together about the good news. And that you work together to show others that the good news is true. Whether I come to visit you or not, I want to know that you all help one another like that."
               }
             ],
             [
               {
+                "verse": 28,
+                "text": "I also want to know that you are not afraid of the people who speak against you. If you are brave, that will be a sign from God. It will show your enemies that they will lose and you will win. God will punish them, but he will save you."
+              },
+              {
                 "verse": 29,
-                "text": "Because to you it has been given in the cause of Christ not only to have faith in him, but to undergo pain on his account:"
+                "text": "God is helping you to serve Christ well. This means that you believe in Christ. But it also means that you suffer on his behalf. Both of these things are gifts from God."
               },
               {
                 "verse": 30,
-                "text": "Fighting the same fight which you saw in me, and now have word of in me."
+                "text": "You are receiving the same kinds of trouble that I myself receive. You saw that when I was with you. Now you hear that it is still happening to me."
               }
             ]
           ]
         }
       ],
-      "verses": [
-        {
-          "verse": 1,
-          "text": "Paul and Timothy, servants of Jesus Christ, to all the saints in Christ Jesus at Philippi, with the Bishops and Deacons of the church:"
-        },
-        {
-          "verse": 2,
-          "text": "Grace to you and peace from God our Father and the Lord Jesus Christ."
-        },
-        {
-          "verse": 3,
-          "text": "I give praise to my God at every memory of you,"
-        },
-        {
-          "verse": 4,
-          "text": "And in all my prayers for you all, making my request with joy,"
-        },
-        {
-          "verse": 5,
-          "text": "Because of your help in giving the good news from the first day till now;"
-        },
-        {
-          "verse": 6,
-          "text": "For I am certain of this very thing, that he by whom the good work was started in you will make it complete till the day of Jesus Christ:"
-        },
-        {
-          "verse": 7,
-          "text": "So it is right for me to take thought for you all in this way, because I have you in my heart; for in my chains, and in my arguments before the judges in support of the good news, making clear that it is true, you all have your part with me in grace."
-        },
-        {
-          "verse": 8,
-          "text": "For God is my witness, how my love goes out to you all in the loving mercies of Christ Jesus."
-        },
-        {
-          "verse": 9,
-          "text": "And my prayer is that you may be increased more and more in knowledge and experience;"
-        },
-        {
-          "verse": 10,
-          "text": "So that you may give your approval to the best things; that you may be true and without wrongdoing till the day of Christ;"
-        },
-        {
-          "verse": 11,
-          "text": "Being full of the fruits of righteousness, which are through Jesus Christ, to the glory and praise of God."
-        },
-        {
-          "verse": 12,
-          "text": "Now it is my purpose to make clear to you, brothers, that the cause of the good news has been helped by my experiences;"
-        },
-        {
-          "verse": 13,
-          "text": "So that it became clear through all the Praetorium, and to all the rest, that I was a prisoner on account of Christ;"
-        },
-        {
-          "verse": 14,
-          "text": "And most of the brothers in the Lord, taking heart because of my chains, are all the stronger to give the word of God without fear."
-        },
-        {
-          "verse": 15,
-          "text": "Though some are preaching Christ out of envy and competition, others do it out of a good heart:"
-        },
-        {
-          "verse": 16,
-          "text": "These do it from love, conscious that I am responsible for the cause of the good news:"
-        },
-        {
-          "verse": 17,
-          "text": "But those are preaching Christ in a spirit of competition, not from their hearts, but with the purpose of giving me pain in my prison."
-        },
-        {
-          "verse": 18,
-          "text": "What then? only that in every way, falsely or truly, the preaching of Christ goes on; and in this I am glad, and will be glad."
-        },
-        {
-          "verse": 19,
-          "text": "For I am conscious that this will be for my salvation, through your prayer and the giving out of the stored wealth of the Spirit of Jesus Christ,"
-        },
-        {
-          "verse": 20,
-          "text": "In the measure of my strong hope and belief that in nothing will I be put to shame, but that without fear, as at all times, so now will Christ have glory in my body, by life or by death."
-        },
-        {
-          "verse": 21,
-          "text": "For to me life is Christ and death is profit."
-        },
-        {
-          "verse": 22,
-          "text": "But if I go on living in the flesh--if this is the fruit of my work--then I do not see what decision to make."
-        },
-        {
-          "verse": 23,
-          "text": "I am in a hard position between the two, having a desire to go away and be with Christ, which is very much better:"
-        },
-        {
-          "verse": 24,
-          "text": "Still, to go on in the flesh is more necessary because of you."
-        },
-        {
-          "verse": 25,
-          "text": "And being certain of this, I am conscious that I will go on, yes, and go on with you all, for your growth and joy in the faith;"
-        },
-        {
-          "verse": 26,
-          "text": "So that your pride in me may be increased in Christ Jesus through my being present with you again."
-        },
-        {
-          "verse": 27,
-          "text": "Only let your behaviour do credit to the good news of Christ, so that if I come and see you or if I am away from you, I may have news of you that you are strong in one spirit, working together with one soul for the faith of the good news;"
-        },
-        {
-          "verse": 28,
-          "text": "Having no fear of those who are against you; which is a clear sign of their destruction, but of your salvation, and that from God;"
-        },
-        {
-          "verse": 29,
-          "text": "Because to you it has been given in the cause of Christ not only to have faith in him, but to undergo pain on his account:"
-        },
-        {
-          "verse": 30,
-          "text": "Fighting the same fight which you saw in me, and now have word of in me."
-        }
-      ],
-      "totalVerses": 30,
-      "footnotes": []
+      "notes": [
+        "Paul wrote to Timothy about leaders and deacons in thechurches. A Deacons is a person who serves thechurchin a certain way. They help with jobs so that church leaders have time to lead the church. See1 Timothy 3:1-13.",
+        "Paul was in a prison in Rome when he was writing this letter."
+      ]
     },
     {
-      "book": "Philippians",
       "chapter": 2,
       "title": "Philippians 2",
-      "subtitle": "Philippians Chapter 2",
+      "subtitle": "",
+      "totalVerses": 30,
+      "sourceUrl": "https://www.easyenglish.bible/bible/easy/philippians/2/",
       "sections": [
         {
-          "heading": "Philippians Chapter 2",
+          "heading": "Christians should live in the way that Christ lived",
           "items": [
             [
               {
                 "verse": 1,
-                "text": "If then there is any comfort in Christ, any help given by love, any uniting of hearts in the Spirit, any loving mercies and pity,"
+                "text": "You belong to Christ and he helps you to be strong. His love comforts you. You are able to help one another because his Spirit is in you. You can be kind to each other, and you can forgive each other."
               },
               {
                 "verse": 2,
-                "text": "Make my joy complete by being of the same mind, having the same love, being in harmony and of one mind;"
+                "text": "Because of that, this is how you can make me completely happy: In your mind, think about things in the same way as each other. Love one another completely. In your spirit, agree with one another. Work together for the same purpose."
               },
               {
                 "verse": 3,
-                "text": "Doing nothing through envy or through pride, but with low thoughts of self let everyone take others to be better than himself;"
+                "text": "In the way that you live, do not just try to help yourself. Do not be proud. Instead, respect other people. Think about other people as more important than yourself."
               },
               {
                 "verse": 4,
-                "text": "Not looking everyone to his private good, but keeping in mind the things of others."
+                "text": "Do not think only about the things that you want to do for yourself. Each of you should think also about how you can help other people."
               }
             ],
             [
               {
                 "verse": 5,
-                "text": "Let this mind be in you which was in Christ Jesus,"
-              },
+                "text": "Think about things in the same way that Christ Jesus thought:"
+              }
+            ],
+            [
               {
                 "verse": 6,
-                "text": "To whom, though himself in the form of God, it did not seem that to take for oneself was to be like God;"
-              },
+                "text": "He had the same nature as God."
+              }
+            ],
+            [
+              {
+                "verse": 6,
+                "text": "He was completely equal with God."
+              }
+            ],
+            [
+              {
+                "verse": 6,
+                "text": "But he did not try to keep hold of that."
+              }
+            ],
+            [
               {
                 "verse": 7,
-                "text": "But he made himself as nothing, taking the form of a servant, being made like men;"
-              },
+                "text": "Instead, he chose to leave heaven."
+              }
+            ],
+            [
+              {
+                "verse": 7,
+                "text": "He took for himself the nature of a slave."
+              }
+            ],
+            [
+              {
+                "verse": 7,
+                "text": "He was born as a human."
+              }
+            ],
+            [
               {
                 "verse": 8,
-                "text": "And being seen in form as a man, he took the lowest place, and let himself be put to death, even the death of the cross."
+                "text": "And when he lived as a man,"
+              }
+            ],
+            [
+              {
+                "verse": 8,
+                "text": "he made himself even more humble."
+              }
+            ],
+            [
+              {
+                "verse": 8,
+                "text": "He obeyed God completely, so that he died."
+              }
+            ],
+            [
+              {
+                "verse": 8,
+                "text": "He even died on a cross!"
               }
             ],
             [
               {
                 "verse": 9,
-                "text": "For this reason God has put him in the highest place and has given to him the name which is greater than every name;"
-              },
-              {
-                "verse": 10,
-                "text": "So that at the name of Jesus every knee may be bent, of those in heaven and those on earth and those in the underworld,"
-              },
-              {
-                "verse": 11,
-                "text": "And that every tongue may give witness that Jesus Christ is Lord, to the glory of God the Father."
-              },
-              {
-                "verse": 12,
-                "text": "So then, my loved ones, as you have at all times done what I say, not only when I am present, but now much more when I am not with you, give yourselves to working out your salvation with fear in your hearts;"
+                "text": "Because of that, God raised Jesus Christ to the most important place."
               }
             ],
             [
               {
-                "verse": 13,
-                "text": "For it is God who is the cause of your desires and of your acts, for his good pleasure."
+                "verse": 9,
+                "text": "God gave him the name that is greater than every other name."
+              }
+            ],
+            [
+              {
+                "verse": 10,
+                "text": "As a result, when people hear Jesus' name,"
+              }
+            ],
+            [
+              {
+                "verse": 10,
+                "text": "they must worship him."
+              }
+            ],
+            [
+              {
+                "verse": 10,
+                "text": "Everyone will have to go down on their knees in front of him."
+              }
+            ],
+            [
+              {
+                "verse": 10,
+                "text": "That includes everything that is in heaven,"
+              }
+            ],
+            [
+              {
+                "verse": 10,
+                "text": "everything on the earth and everything under the earth."
+              }
+            ],
+            [
+              {
+                "verse": 11,
+                "text": "Everyone will say that Jesus Christ is Lord."
+              }
+            ],
+            [
+              {
+                "verse": 11,
+                "text": "This will give great honour to God the Father."
+              }
+            ]
+          ]
+        },
+        {
+          "heading": "Christians should be like lights in the world",
+          "items": [
+            [
+              {
+                "verse": 12,
+                "text": "So, my friends, you must continue to obey. When I was with you, you always obeyed. Now that I am not with you, that is even more important. God has saved you. You must always live in a way which shows that this is true. Respect God and remember his great power."
               },
               {
+                "verse": 13,
+                "text": "It is God himself who is working in you. Now you want to obey him, and he makes you able to do that. You do the things that make God very happy."
+              }
+            ],
+            [
+              {
                 "verse": 14,
-                "text": "Do all things without protests and arguments;"
+                "text": "Whatever you are doing, do not complain. And do not argue."
               },
               {
                 "verse": 15,
-                "text": "So that you may be holy and gentle, children of God without sin in a twisted and foolish generation, among whom you are seen as lights in the world,"
+                "text": "Then you will not be guilty of anything that is wrong. You will be clean inside yourselves. You will be living in a completely good way, as God's children should. In this world, you are living among bad people who have turned away from what is good. But you must bring light into this dark place, like stars that shine in the night."
               },
               {
                 "verse": 16,
-                "text": "Offering the word of life; so that I may have glory in you in the day of Christ, because my running was not for nothing and my work was not without effect."
+                "text": "Tell people the true message that can give them life with God. Then I will know that my work among you has had good results. Because of that, I will be very happy on the day when Christ returns."
               }
             ],
             [
               {
                 "verse": 17,
-                "text": "And even if I am offered like a drink offering, giving myself for the cause and work of your faith, I am glad and have joy with you all:"
+                "text": "You believe in Christ, and you are his servants. That is like you are offering yourselves as a sacrifice to God. Perhaps I will soon have to die. Then my blood would be like a drink offering that I am pouring on your sacrifice to please God. So, if I have to die now, I will be happy. And we should all be happy together."
               },
               {
                 "verse": 18,
-                "text": "And in the same way do you be glad and have a part in my joy."
-              },
+                "text": "Yes, it is right that you should be happy, and I will also be happy with you."
+              }
+            ]
+          ]
+        },
+        {
+          "heading": "Timothy and Epaphroditus are good examples",
+          "items": [
+            [
               {
                 "verse": 19,
-                "text": "But I am hoping in the Lord Jesus to send Timothy to you before long, so that I may be comforted when I have news of you."
+                "text": "I want to send Timothy to come to you soon. I hope that the Lord Jesus will let me do that. Then, when Timothy returns to me, he can tell me news about you. And that will make me happy."
               },
               {
                 "verse": 20,
-                "text": "For I have no man of like mind who will truly have care for you."
-              }
-            ],
-            [
+                "text": "Timothy really loves you, as I do. There is nobody else here with me like him."
+              },
               {
                 "verse": 21,
-                "text": "For they all go after what is theirs, not after the things of Christ."
+                "text": "Everyone else thinks only about themselves. They have no interest in the things that are important to Jesus Christ."
               },
               {
                 "verse": 22,
-                "text": "But his quality is clear to you; how, as a child is to its father, so he was a help to me in the work of the good news."
+                "text": "But you know what Timothy is like. He has worked with me like a son works to help his father. Together we have taught people God's good news."
               },
               {
                 "verse": 23,
-                "text": "Him then I am hoping to send as quickly as possible, when I am able to see how things will go for me:"
+                "text": "That is why I hope to send him to you soon. But first, I want to know what will happen to me here."
               },
               {
                 "verse": 24,
-                "text": "But I have faith in the Lord that I myself will come before long."
+                "text": "I trust the Lord that I will soon come to you myself."
               }
             ],
             [
               {
                 "verse": 25,
-                "text": "But it seemed to me necessary to send to you Epaphroditus, my brother, who has taken part with me in the work and in the fight, and your servant, sent by you for help in my need;"
+                "text": "But I think I must send Epaphroditus to come back to you. He is our true Christian brother. He has worked with me to serve God. We have worked hard, like soldiers. When I needed help, you sent him to me. He has helped me on your behalf."
               },
               {
                 "verse": 26,
-                "text": "Because his heart was with you all, and he was greatly troubled because you had news that he was ill:"
+                "text": "Now he wants very much to see all of you again. He became very sad, because you heard the message that he was ill."
               },
               {
                 "verse": 27,
-                "text": "For in fact he was ill almost to death: but God had mercy on him; and not only on him but on me, so that I might not have grief on grief."
+                "text": "Certainly, he was very ill and he almost died. But God was kind to him. And God was kind to me too. If Epaphroditus had died, I would have become even more sad."
               },
               {
                 "verse": 28,
-                "text": "I have sent him, then, the more gladly, so that when you see him again, you may be happy and I may have the less sorrow."
+                "text": "So I want even more to send him back to you. Then you can be really happy, and I will not feel sad any more."
               }
             ],
             [
               {
                 "verse": 29,
-                "text": "So take him to your hearts in the Lord with all joy, and give honour to such as he is:"
+                "text": "Be happy to welcome Epaphroditus when he comes. Like you, he belongs to the Lord's people. You should respect people like him and be kind to them."
               },
               {
                 "verse": 30,
-                "text": "Because for the work of Christ he was near to death, putting his life in danger to make your care for me complete."
+                "text": "He nearly died because he was working to serve Christ. He came to help me, because you could not help me yourselves. He was even ready to die so that he could do that on your behalf."
               }
             ]
           ]
         }
       ],
-      "verses": [
-        {
-          "verse": 1,
-          "text": "If then there is any comfort in Christ, any help given by love, any uniting of hearts in the Spirit, any loving mercies and pity,"
-        },
-        {
-          "verse": 2,
-          "text": "Make my joy complete by being of the same mind, having the same love, being in harmony and of one mind;"
-        },
-        {
-          "verse": 3,
-          "text": "Doing nothing through envy or through pride, but with low thoughts of self let everyone take others to be better than himself;"
-        },
-        {
-          "verse": 4,
-          "text": "Not looking everyone to his private good, but keeping in mind the things of others."
-        },
-        {
-          "verse": 5,
-          "text": "Let this mind be in you which was in Christ Jesus,"
-        },
-        {
-          "verse": 6,
-          "text": "To whom, though himself in the form of God, it did not seem that to take for oneself was to be like God;"
-        },
-        {
-          "verse": 7,
-          "text": "But he made himself as nothing, taking the form of a servant, being made like men;"
-        },
-        {
-          "verse": 8,
-          "text": "And being seen in form as a man, he took the lowest place, and let himself be put to death, even the death of the cross."
-        },
-        {
-          "verse": 9,
-          "text": "For this reason God has put him in the highest place and has given to him the name which is greater than every name;"
-        },
-        {
-          "verse": 10,
-          "text": "So that at the name of Jesus every knee may be bent, of those in heaven and those on earth and those in the underworld,"
-        },
-        {
-          "verse": 11,
-          "text": "And that every tongue may give witness that Jesus Christ is Lord, to the glory of God the Father."
-        },
-        {
-          "verse": 12,
-          "text": "So then, my loved ones, as you have at all times done what I say, not only when I am present, but now much more when I am not with you, give yourselves to working out your salvation with fear in your hearts;"
-        },
-        {
-          "verse": 13,
-          "text": "For it is God who is the cause of your desires and of your acts, for his good pleasure."
-        },
-        {
-          "verse": 14,
-          "text": "Do all things without protests and arguments;"
-        },
-        {
-          "verse": 15,
-          "text": "So that you may be holy and gentle, children of God without sin in a twisted and foolish generation, among whom you are seen as lights in the world,"
-        },
-        {
-          "verse": 16,
-          "text": "Offering the word of life; so that I may have glory in you in the day of Christ, because my running was not for nothing and my work was not without effect."
-        },
-        {
-          "verse": 17,
-          "text": "And even if I am offered like a drink offering, giving myself for the cause and work of your faith, I am glad and have joy with you all:"
-        },
-        {
-          "verse": 18,
-          "text": "And in the same way do you be glad and have a part in my joy."
-        },
-        {
-          "verse": 19,
-          "text": "But I am hoping in the Lord Jesus to send Timothy to you before long, so that I may be comforted when I have news of you."
-        },
-        {
-          "verse": 20,
-          "text": "For I have no man of like mind who will truly have care for you."
-        },
-        {
-          "verse": 21,
-          "text": "For they all go after what is theirs, not after the things of Christ."
-        },
-        {
-          "verse": 22,
-          "text": "But his quality is clear to you; how, as a child is to its father, so he was a help to me in the work of the good news."
-        },
-        {
-          "verse": 23,
-          "text": "Him then I am hoping to send as quickly as possible, when I am able to see how things will go for me:"
-        },
-        {
-          "verse": 24,
-          "text": "But I have faith in the Lord that I myself will come before long."
-        },
-        {
-          "verse": 25,
-          "text": "But it seemed to me necessary to send to you Epaphroditus, my brother, who has taken part with me in the work and in the fight, and your servant, sent by you for help in my need;"
-        },
-        {
-          "verse": 26,
-          "text": "Because his heart was with you all, and he was greatly troubled because you had news that he was ill:"
-        },
-        {
-          "verse": 27,
-          "text": "For in fact he was ill almost to death: but God had mercy on him; and not only on him but on me, so that I might not have grief on grief."
-        },
-        {
-          "verse": 28,
-          "text": "I have sent him, then, the more gladly, so that when you see him again, you may be happy and I may have the less sorrow."
-        },
-        {
-          "verse": 29,
-          "text": "So take him to your hearts in the Lord with all joy, and give honour to such as he is:"
-        },
-        {
-          "verse": 30,
-          "text": "Because for the work of Christ he was near to death, putting his life in danger to make your care for me complete."
-        }
-      ],
-      "totalVerses": 30,
-      "footnotes": []
+      "notes": [
+        "The Romans fixed someone to acrossto die when they wereguiltyof something very bad. Christ agreed to die like that, but he had not done any wrong thing.",
+        "Verses 6-11 may have been a song that Paul knew.",
+        "In the Bible, when people do not know thetruthabout God, it is like they are living in a dark place. God gives light so that people know the truth.",
+        "Epaphroditus belonged to the group of Christians at Philippi. They had sent him to Rome with their gifts to Paul. SeePhilippians 4:18."
+      ]
     },
     {
-      "book": "Philippians",
       "chapter": 3,
       "title": "Philippians 3",
-      "subtitle": "Philippians Chapter 3",
+      "subtitle": "",
+      "totalVerses": 21,
+      "sourceUrl": "https://www.easyenglish.bible/bible/easy/philippians/3/",
       "sections": [
         {
-          "heading": "Philippians Chapter 3",
+          "heading": "Christ is more important than anything",
           "items": [
             [
               {
                 "verse": 1,
-                "text": "For the rest, my brothers, be glad in the Lord. Writing the same things to you is no trouble to me, and for you it is safe."
-              },
+                "text": "My Christian friends, there are a few more things that I want to say. You belong to the Lord, so be happy! It is no trouble for me to write the same things to you again. And it will help to keep you safe."
+              }
+            ],
+            [
               {
                 "verse": 2,
-                "text": "Be on the watch against dogs, against the workers of evil, against those of the circumcision:"
+                "text": "Be very careful! Some people are teaching wicked ideas. They say that you must cut your bodies. They are like dangerous dogs. Do not believe them!"
               },
               {
                 "verse": 3,
-                "text": "For we are the circumcision, who give worship to God and have glory in Jesus Christ, and have no faith in the flesh:"
-              },
-              {
-                "verse": 4,
-                "text": "Even though I myself might have faith in the flesh: if any other man has reason to have faith in the flesh, I have more:"
+                "text": "But we are those who are truly God's people. And it is not because someone has circumcised us. It is God's own Spirit that leads us to worship God. We thank God because of what Christ Jesus has done for us. We know that it is not human ideas that can save us."
               }
             ],
             [
               {
+                "verse": 4,
+                "text": "I myself could have trusted those human ideas. Other people may think that they could trust in those things to save them. Then I would have an even better reason to trust in them."
+              },
+              {
                 "verse": 5,
-                "text": "Being given circumcision on the eighth day, of the nation of Israel, of the tribe of Benjamin, a Hebrew of Hebrews; in relation to the law, a Pharisee:"
+                "text": "I belong to Israel's people, to Benjamin's tribe. I am a true Jew. They circumcised me when I was eight days old. I was a Pharisee, and I obeyed the Jewish rules very carefully."
               },
               {
                 "verse": 6,
-                "text": "In bitter hate I was cruel to the church; I kept all the righteousness of the law to the last detail."
-              },
+                "text": "I tried very much to please God. So I caused the Christians to suffer. I obeyed the rules of God's Law, and nobody could say that I did anything wrong."
+              }
+            ],
+            [
               {
                 "verse": 7,
-                "text": "But those things which were profit to me, I gave up for Christ."
+                "text": "All those ideas seemed very important to me then. But now they are worth nothing to me, because I trust in Christ."
               },
               {
                 "verse": 8,
-                "text": "Yes truly, and I am ready to give up all things for the knowledge of Christ Jesus my Lord, which is more than all: for whom I have undergone the loss of all things, and to me they are less than nothing, so that I may have Christ as my reward,"
+                "text": "Yes, now that I know Christ Jesus as my Lord, that is the most valuable thing. Nothing else is important at all. I have thrown everything else away, so that I can know Christ. All those other things are like dirt to me. I think about them like that, so that I can know Christ better."
+              },
+              {
+                "verse": 9,
+                "text": "I want to be united with him. Because I believe in Christ, God accepts me as right with him. I know that I cannot become right in any other way, even if I obey all of God's Law. When I trust in Christ, God accepts me as right because of my faith."
               }
             ],
             [
               {
-                "verse": 9,
-                "text": "And be seen in him, not having my righteousness which is of the law, but that which is through faith in Christ, the righteousness which is of God by faith:"
-              },
-              {
                 "verse": 10,
-                "text": "That I may have knowledge of him, and of the power of his coming back from the dead, and a part with him in his pains, becoming like him in his death;"
+                "text": "Yes, I want to know Christ better and better. I want to know the power which God showed when Christ rose from death. I want to suffer in the way that Christ did. I want to obey God like he did in his death."
               },
               {
                 "verse": 11,
-                "text": "If in any way I may have the reward of life from the dead."
-              },
+                "text": "Then I hope that I also will become alive again after death."
+              }
+            ]
+          ]
+        },
+        {
+          "heading": "Christians have their home in heaven",
+          "items": [
+            [
               {
                 "verse": 12,
-                "text": "Not as if I had even now got the reward or been made complete: but I go on in the hope that I may come to the knowledge of that for which I was made the servant of Christ Jesus."
+                "text": "I am not saying that I have already reached that place in my life. I have not yet completely become the person that God wants me to be. But I am trying very hard to reach that place. That was Christ's purpose when he first chose me to belong to him."
+              },
+              {
+                "verse": 13,
+                "text": "My Christian friends, I do not think that I have reached that place yet. But this is what I do. I do not think about past things that have already happened. Instead, I try hard to reach the things that are still in front."
+              },
+              {
+                "verse": 14,
+                "text": "I am like a runner who wants to reach the end of the race. I run straight towards that place, so that I can win God's gift. Because I belong to Christ Jesus, God has called me to live with him in heaven. That is God's gift to me at the end of my life."
               }
             ],
             [
               {
-                "verse": 13,
-                "text": "Brothers, it is clear to me that I have not come to that knowledge; but one thing I do, letting go those things which are past, and stretching out to the things which are before,"
-              },
-              {
-                "verse": 14,
-                "text": "I go forward to the mark, even the reward of the high purpose of God in Christ Jesus."
-              },
-              {
                 "verse": 15,
-                "text": "Then let us all, who have come to full growth, be of this mind: and if in anything you are of a different mind, even this will God make clear to you:"
+                "text": "All of us should agree to live like that, if we properly understand God's message. If you think differently about some of these things, God will show you clearly what is right."
               },
               {
                 "verse": 16,
-                "text": "Only, as far as we have got, let us be guided by the same rule."
+                "text": "But we should continue to live in the way that we already know is right."
               }
             ],
             [
               {
                 "verse": 17,
-                "text": "Brothers, take me as your example, and take note of those who are walking after the example we have given."
+                "text": "My Christian friends, you should live in the way that I do. Carefully watch other people who live like that. We have shown you an example of what is right."
               },
               {
                 "verse": 18,
-                "text": "For there are those, of whom I have given you word before, and do so now with sorrow, who are haters of the cross of Christ;"
+                "text": "Many people live in a way that shows they do not agree with God's message. I have told you about these people many times before. And now I am crying when I tell you about them. I am very sad, because they hate Christ's death on the cross."
               },
               {
                 "verse": 19,
-                "text": "Whose end is destruction, whose god is the stomach, and whose glory is in their shame, whose minds are fixed on the things of the earth."
-              },
-              {
-                "verse": 20,
-                "text": "For our country is in heaven; from where the Saviour for whom we are waiting will come, even the Lord Jesus Christ:"
+                "text": "Finally, God will destroy them. Their stomach is what they worship. They are proud of things that should make them ashamed. Their thoughts are full of things that belong to this world."
               }
             ],
             [
               {
+                "verse": 20,
+                "text": "But as for us, the home where we belong is in heaven. We are waiting for the Lord Jesus Christ to come from there. He is the one who will come from heaven and save us."
+              },
+              {
                 "verse": 21,
-                "text": "By whom this poor body of ours will be changed into the image of the body of his glory, in the measure of the working by which he is able to put all things under himself."
+                "text": "He will change these weak bodies that we have now on this earth. He will make them become strong and beautiful, like his own body that he has in heaven. Christ will use his great power to do this. That is the power that he uses to rule over everything."
               }
             ]
           ]
         }
       ],
-      "verses": [
-        {
-          "verse": 1,
-          "text": "For the rest, my brothers, be glad in the Lord. Writing the same things to you is no trouble to me, and for you it is safe."
-        },
-        {
-          "verse": 2,
-          "text": "Be on the watch against dogs, against the workers of evil, against those of the circumcision:"
-        },
-        {
-          "verse": 3,
-          "text": "For we are the circumcision, who give worship to God and have glory in Jesus Christ, and have no faith in the flesh:"
-        },
-        {
-          "verse": 4,
-          "text": "Even though I myself might have faith in the flesh: if any other man has reason to have faith in the flesh, I have more:"
-        },
-        {
-          "verse": 5,
-          "text": "Being given circumcision on the eighth day, of the nation of Israel, of the tribe of Benjamin, a Hebrew of Hebrews; in relation to the law, a Pharisee:"
-        },
-        {
-          "verse": 6,
-          "text": "In bitter hate I was cruel to the church; I kept all the righteousness of the law to the last detail."
-        },
-        {
-          "verse": 7,
-          "text": "But those things which were profit to me, I gave up for Christ."
-        },
-        {
-          "verse": 8,
-          "text": "Yes truly, and I am ready to give up all things for the knowledge of Christ Jesus my Lord, which is more than all: for whom I have undergone the loss of all things, and to me they are less than nothing, so that I may have Christ as my reward,"
-        },
-        {
-          "verse": 9,
-          "text": "And be seen in him, not having my righteousness which is of the law, but that which is through faith in Christ, the righteousness which is of God by faith:"
-        },
-        {
-          "verse": 10,
-          "text": "That I may have knowledge of him, and of the power of his coming back from the dead, and a part with him in his pains, becoming like him in his death;"
-        },
-        {
-          "verse": 11,
-          "text": "If in any way I may have the reward of life from the dead."
-        },
-        {
-          "verse": 12,
-          "text": "Not as if I had even now got the reward or been made complete: but I go on in the hope that I may come to the knowledge of that for which I was made the servant of Christ Jesus."
-        },
-        {
-          "verse": 13,
-          "text": "Brothers, it is clear to me that I have not come to that knowledge; but one thing I do, letting go those things which are past, and stretching out to the things which are before,"
-        },
-        {
-          "verse": 14,
-          "text": "I go forward to the mark, even the reward of the high purpose of God in Christ Jesus."
-        },
-        {
-          "verse": 15,
-          "text": "Then let us all, who have come to full growth, be of this mind: and if in anything you are of a different mind, even this will God make clear to you:"
-        },
-        {
-          "verse": 16,
-          "text": "Only, as far as we have got, let us be guided by the same rule."
-        },
-        {
-          "verse": 17,
-          "text": "Brothers, take me as your example, and take note of those who are walking after the example we have given."
-        },
-        {
-          "verse": 18,
-          "text": "For there are those, of whom I have given you word before, and do so now with sorrow, who are haters of the cross of Christ;"
-        },
-        {
-          "verse": 19,
-          "text": "Whose end is destruction, whose god is the stomach, and whose glory is in their shame, whose minds are fixed on the things of the earth."
-        },
-        {
-          "verse": 20,
-          "text": "For our country is in heaven; from where the Saviour for whom we are waiting will come, even the Lord Jesus Christ:"
-        },
-        {
-          "verse": 21,
-          "text": "By whom this poor body of ours will be changed into the image of the body of his glory, in the measure of the working by which he is able to put all things under himself."
-        }
-      ],
-      "totalVerses": 21,
-      "footnotes": []
+      "notes": [
+        "Some Jewish teachers were saying that Christians had to becircumcisedto belong to God's people. Paul is telling the Christians that they must not believe these ideas.",
+        "A Jew was someone who belonged to the Israelitekingdomof Judah. The name was first used at the time of theirexilein Babylon. The people of Israel who still remain after that time are called Jews."
+      ]
     },
     {
-      "book": "Philippians",
       "chapter": 4,
       "title": "Philippians 4",
-      "subtitle": "Philippians Chapter 4",
+      "subtitle": "",
+      "totalVerses": 23,
+      "sourceUrl": "https://www.easyenglish.bible/bible/easy/philippians/4/",
       "sections": [
         {
-          "heading": "Philippians Chapter 4",
+          "heading": "Christians should live to please the Lord",
           "items": [
             [
               {
                 "verse": 1,
-                "text": "So my brothers, well loved and very dear to me, my joy and crown, be strong in the Lord, my loved ones."
-              },
+                "text": "My dear Christian friends, I love you very much. I want very much to see you again. You make me very happy. You show that my work among you had good results. Please continue to live in a way that pleases the Lord."
+              }
+            ],
+            [
               {
                 "verse": 2,
-                "text": "I make request to Euodias and Syntyche to be of the same mind in the Lord."
+                "text": "I say this to Euodia and to Syntyche: ‘You belong to the Lord, so please agree with each other. Stop arguing.’"
               },
               {
                 "verse": 3,
-                "text": "And I make request to you, true helper in my work, to see to the needs of those women who took part with me in the good news, with Clement and the rest of my brother-workers whose names are in the book of life."
-              },
-              {
-                "verse": 4,
-                "text": "Be glad in the Lord at all times: again I say, Be glad."
+                "text": "I ask you too, my true friend, please help these two women to agree together. They have worked with me to tell people the good news. They have worked very hard to help me. They worked together with Clement, and with the other people who helped me in the work. All these workers' names are written in God's book of life."
               }
-            ],
+            ]
+          ]
+        },
+        {
+          "heading": "Christians should trust God and should not worry",
+          "items": [
             [
               {
+                "verse": 4,
+                "text": "Always be happy because you belong to the Lord. I will say that again, ‘Be happy!’"
+              },
+              {
                 "verse": 5,
-                "text": "Let your gentle behaviour be clear to all men. The Lord is near."
+                "text": "Be kind and patient in a way that everyone can see. Remember that the Lord is near."
               },
               {
                 "verse": 6,
-                "text": "Have no cares; but in everything with prayer and praise put your requests before God."
+                "text": "Do not worry about anything. Instead, pray to God about everything. Ask him to help you with the things that you need. And thank him for his help."
               },
               {
                 "verse": 7,
-                "text": "And the peace of God, which is deeper than all knowledge, will keep your hearts and minds in Christ Jesus."
-              },
-              {
-                "verse": 8,
-                "text": "For the rest, my brothers, whatever things are true, whatever things have honour, whatever things are upright, whatever things are holy, whatever things are beautiful, whatever things are of value, if there is any virtue and if there is any praise, give thought to these things."
+                "text": "If you do that, God will give you peace in your minds. That peace is so great that nobody can completely understand it. You will not worry or be afraid, because you belong to Christ Jesus."
               }
             ],
             [
               {
-                "verse": 9,
-                "text": "The things which came to you by my teaching and preaching, and which you saw in me, these things do, and the God of peace will be with you."
+                "verse": 8,
+                "text": "Now my friends, I want to say this to you. Fill your minds with thoughts about good things. Think about things that are true, clean, right and lovely. Always think about things which people know are very good."
               },
               {
+                "verse": 9,
+                "text": "Remember what I have taught you. Remember the message that you heard from me. Remember what you saw when I lived among you. You also must do those same things. God is the one who gives us peace in our minds. He will be with you."
+              }
+            ]
+          ]
+        },
+        {
+          "heading": "Paul thanks the Christians in Philippi",
+          "items": [
+            [
+              {
                 "verse": 10,
-                "text": "But I am very glad in the Lord that your care for me has come to life again; though you did in fact take thought for me, but you were not able to give effect to it."
+                "text": "I am very happy that you want to help me again. I praise the Lord for that. I know that you already wanted to help me. But you have not had a chance to do anything until now."
               },
               {
                 "verse": 11,
-                "text": "But I will not say anything about my needs, for I am able, wherever I am, to be dependent on myself."
+                "text": "When I say this, it is not because I need anything. I have learned to be happy, whatever things may happen to me."
               },
               {
                 "verse": 12,
-                "text": "It is the same to me if I am looked down on or honoured; everywhere and in all things I have the secret of how to be full and how to go without food; how to have wealth and how to be in need."
+                "text": "I know how to be happy when I need things. I also know how to be happy when I have more than enough. I have learned this secret. I can be happy when I have enough food to eat, and also when I am hungry. I can be happy when I have plenty of things, and also when I have nothing."
+              },
+              {
+                "verse": 13,
+                "text": "I can do all these things because Christ makes me strong."
               }
             ],
             [
               {
-                "verse": 13,
-                "text": "I am able to do all things through him who gives me strength."
-              },
-              {
                 "verse": 14,
-                "text": "But you did well to have care for me in my need."
+                "text": "But certainly, you have been very kind to me. You have helped me while I have been in trouble."
               },
               {
                 "verse": 15,
-                "text": "And you have knowledge, Philippians, that when the good news first came to you, when I went away from Macedonia, no church took part with me in the business of giving to the saints, but you only;"
+                "text": "Also, you Christians in Philippi helped me at the time when I started to tell people God's good news. When I left Macedonia, you were the only group of Christians who helped me. We were able to help one another, as you know."
               },
               {
                 "verse": 16,
-                "text": "Because even in Thessalonica you sent once and again to me in my need."
+                "text": "Even when I was in Thessalonica, you helped me. More than once, you sent gifts to me because I needed things."
               }
             ],
             [
               {
                 "verse": 17,
-                "text": "Not that I am looking for an offering, but for fruit which may be put to your credit."
+                "text": "It is not your gifts themselves that I want. But I want you to do good things so that God will bless you in return."
               },
               {
                 "verse": 18,
-                "text": "I have all things and more than enough: I am made full, having had from Epaphroditus the things which came from you, a perfume of a sweet smell, an offering well pleasing to God."
+                "text": "Epaphroditus has brought the gifts that you sent to me. I have received those gifts, so that I no longer need anything. You have sent me more than enough. Your gifts are like a sacrifice with a nice smell that you have offered to God. God accepts that kind of sacrifice. It makes him very happy."
               },
               {
                 "verse": 19,
-                "text": "And my God will give you all you have need of from the wealth of his glory in Christ Jesus."
-              },
-              {
-                "verse": 20,
-                "text": "Now to God our Father be glory for ever and ever. So be it."
+                "text": "My Lord God in heaven has plenty of good and valuable things. Because you belong to Christ Jesus, God will give you everything that you need."
               }
             ],
             [
               {
+                "verse": 20,
+                "text": "Our Father God is very great! Praise him always and for ever! Amen."
+              }
+            ]
+          ]
+        },
+        {
+          "heading": "Paul finishes his letter",
+          "items": [
+            [
+              {
                 "verse": 21,
-                "text": "Give words of love to every saint in Christ Jesus. The brothers who are with me send you their love."
+                "text": "Say ‘hello’ on my behalf to all of God's people there who belong to Christ Jesus. The believers who are here with me say ‘hello’ to you."
               },
               {
                 "verse": 22,
-                "text": "All the saints send their love to you, specially those who are of Caesar's house."
-              },
+                "text": "All God's people here say ‘hello’ to you. The Christians who live in the king's house say a special ‘hello’ to you."
+              }
+            ],
+            [
               {
                 "verse": 23,
-                "text": "The grace of the Lord Jesus Christ be with your spirit."
+                "text": "We pray that the Lord Jesus Christ will continue to be kind to you, so that your spirits are strong."
               }
             ]
           ]
         }
       ],
-      "verses": [
-        {
-          "verse": 1,
-          "text": "So my brothers, well loved and very dear to me, my joy and crown, be strong in the Lord, my loved ones."
-        },
-        {
-          "verse": 2,
-          "text": "I make request to Euodias and Syntyche to be of the same mind in the Lord."
-        },
-        {
-          "verse": 3,
-          "text": "And I make request to you, true helper in my work, to see to the needs of those women who took part with me in the good news, with Clement and the rest of my brother-workers whose names are in the book of life."
-        },
-        {
-          "verse": 4,
-          "text": "Be glad in the Lord at all times: again I say, Be glad."
-        },
-        {
-          "verse": 5,
-          "text": "Let your gentle behaviour be clear to all men. The Lord is near."
-        },
-        {
-          "verse": 6,
-          "text": "Have no cares; but in everything with prayer and praise put your requests before God."
-        },
-        {
-          "verse": 7,
-          "text": "And the peace of God, which is deeper than all knowledge, will keep your hearts and minds in Christ Jesus."
-        },
-        {
-          "verse": 8,
-          "text": "For the rest, my brothers, whatever things are true, whatever things have honour, whatever things are upright, whatever things are holy, whatever things are beautiful, whatever things are of value, if there is any virtue and if there is any praise, give thought to these things."
-        },
-        {
-          "verse": 9,
-          "text": "The things which came to you by my teaching and preaching, and which you saw in me, these things do, and the God of peace will be with you."
-        },
-        {
-          "verse": 10,
-          "text": "But I am very glad in the Lord that your care for me has come to life again; though you did in fact take thought for me, but you were not able to give effect to it."
-        },
-        {
-          "verse": 11,
-          "text": "But I will not say anything about my needs, for I am able, wherever I am, to be dependent on myself."
-        },
-        {
-          "verse": 12,
-          "text": "It is the same to me if I am looked down on or honoured; everywhere and in all things I have the secret of how to be full and how to go without food; how to have wealth and how to be in need."
-        },
-        {
-          "verse": 13,
-          "text": "I am able to do all things through him who gives me strength."
-        },
-        {
-          "verse": 14,
-          "text": "But you did well to have care for me in my need."
-        },
-        {
-          "verse": 15,
-          "text": "And you have knowledge, Philippians, that when the good news first came to you, when I went away from Macedonia, no church took part with me in the business of giving to the saints, but you only;"
-        },
-        {
-          "verse": 16,
-          "text": "Because even in Thessalonica you sent once and again to me in my need."
-        },
-        {
-          "verse": 17,
-          "text": "Not that I am looking for an offering, but for fruit which may be put to your credit."
-        },
-        {
-          "verse": 18,
-          "text": "I have all things and more than enough: I am made full, having had from Epaphroditus the things which came from you, a perfume of a sweet smell, an offering well pleasing to God."
-        },
-        {
-          "verse": 19,
-          "text": "And my God will give you all you have need of from the wealth of his glory in Christ Jesus."
-        },
-        {
-          "verse": 20,
-          "text": "Now to God our Father be glory for ever and ever. So be it."
-        },
-        {
-          "verse": 21,
-          "text": "Give words of love to every saint in Christ Jesus. The brothers who are with me send you their love."
-        },
-        {
-          "verse": 22,
-          "text": "All the saints send their love to you, specially those who are of Caesar's house."
-        },
-        {
-          "verse": 23,
-          "text": "The grace of the Lord Jesus Christ be with your spirit."
-        }
-      ],
-      "totalVerses": 23,
-      "footnotes": []
+      "notes": [
+        "Paul is speaking to someone who is his special friend. He may have been a leader in thechurchat Philippi.",
+        "‘God's book of life’ has the names of people who will live with God for ever. SeeRevelation 3:5;20:12.",
+        "Macedonia included the north part of the country that we call Greece. It also included the south part of the country that we call North Macedonia. Philippi and Thessalonica were cities in Macedonia."
+      ]
     }
   ]
 }

@@ -1,9 +1,6 @@
 {
-  "book": "2 Timothy",
   "bookId": "2TI",
-  "totalChapters": 4,
-  "totalQuestions": 40,
-  "questionsPerChapter": 10,
+  "bookName": "2 Timothy",
   "chapters": {
     "1": [
       {
@@ -11,150 +8,150 @@
         "questionNumber": 1,
         "question": "According to 2 Timothy 1:1, what is the opening statement or setting of this chapter?",
         "options": [
-          "It records: “Paul, an Apostle of Jesus Christ by the purpose of God, in the ho...”",
+          "It records: “This letter is from me, Paul. God chose me to be an apostle of Ch...”",
           "It begins with a prayer of thanksgiving for deliverance in 2 Timothy",
           "It opens with a formal census and counting of the congregation",
           "It records a severe judgment pronounced against neighboring nations"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "It records: “Paul, an Apostle of Jesus Christ by the purpose of God, in the ho...”",
+        "correctAnswer": "It records: “This letter is from me, Paul. God chose me to be an apostle of Ch...”",
         "reference": "2 Timothy 1:1",
-        "explanation": "The chapter begins directly with the statement: 'Paul, an Apostle of Jesus Christ by the purpose of God, in the hope of the life which is in Christ Jesus,'."
+        "explanation": "The chapter begins directly with the statement: 'This letter is from me, Paul. God chose me to be an apostle of Christ Jesus. God sent me to tell people about the true life that he has promised us. We receive this life when we belong to Christ Jesus.'."
       },
       {
         "id": "2ti-1-q2",
         "questionNumber": 2,
         "question": "What key instruction, event, or declaration is set forth in 2 Timothy 1:2?",
         "options": [
-          "“Having in mind your true faith, which first was...”",
-          "“To Timothy, my well-loved child: Grace, mercy, peace, from God the...”",
-          "“Who gave us salvation, marking us out for his...”",
+          "“I also remember how you truly believe in Christ....”",
+          "“I am writing to you, Timothy. You are like my own...”",
+          "“God is the one who has saved us. He...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“To Timothy, my well-loved child: Grace, mercy, peace, from God the...”",
+        "correctAnswer": "“I am writing to you, Timothy. You are like my own...”",
         "reference": "2 Timothy 1:2",
-        "explanation": "2 Timothy 1:2 records: 'To Timothy, my well-loved child: Grace, mercy, peace, from God the Father and Christ Jesus our Lord.'."
+        "explanation": "2 Timothy 1:2 records: 'I am writing to you, Timothy. You are like my own child, and I love you very much. I pray that God the Father and Christ Jesus our Lord will continue to help you and be kind to you. I pray that they will give you peace in your mind.'."
       },
       {
         "id": "2ti-1-q3",
         "questionNumber": 3,
         "question": "What significant action or revelation occurs in 2 Timothy 1:3?",
         "options": [
-          "“For this reason I say to you, Let that...”",
-          "“But has now been made clear by the revelation...”",
-          "“I give praise to God, whose servant I have been, with...”",
+          "“For that reason, I want you to remember the...”",
+          "“Now Christ Jesus has come to save us, and...”",
+          "“Like my ancestors, I serve God in a good way, that...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“I give praise to God, whose servant I have been, with...”",
+        "correctAnswer": "“Like my ancestors, I serve God in a good way, that...”",
         "reference": "2 Timothy 1:3",
-        "explanation": "2 Timothy 1:3 records: 'I give praise to God, whose servant I have been, with a heart free from sin, from the time of my fathers, because in my prayers at all times the thought of you is with me, night and day'."
+        "explanation": "2 Timothy 1:3 records: 'Like my ancestors, I serve God in a good way, that I know is right. When I pray to God, at night and during the day, I always remember to pray for you. And I thank God for you.'."
       },
       {
         "id": "2ti-1-q4",
         "questionNumber": 4,
         "question": "What truth or description is highlighted in 2 Timothy 1:4?",
         "options": [
-          "“For God did not give us a spirit of...”",
-          "“Of which I was made a preacher and an...”",
+          "“Be strong, because God has given us his Spirit....”",
+          "“That is the same good news that God has...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“Desiring to see you, keeping in my memory your weeping, so...”"
+          "“I remember how you wept when I said ‘goodbye’ to you....”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“Desiring to see you, keeping in my memory your weeping, so...”",
+        "correctAnswer": "“I remember how you wept when I said ‘goodbye’ to you....”",
         "reference": "2 Timothy 1:4",
-        "explanation": "2 Timothy 1:4 records: 'Desiring to see you, keeping in my memory your weeping, so that I may be full of joy;'."
+        "explanation": "2 Timothy 1:4 records: 'I remember how you wept when I said ‘goodbye’ to you. I want to see you again very much, so that I may be completely happy.'."
       },
       {
         "id": "2ti-1-q5",
         "questionNumber": 5,
         "question": "According to the text, what happened or was commanded in 2 Timothy 1:5?",
         "options": [
-          "“Having in mind your true faith, which first was in your...”",
-          "“Have no feeling of shame, then, for the witness...”",
-          "“And for which I undergo these things: but I...”",
+          "“I also remember how you truly believe in Christ. Your grandmother,...”",
+          "“So do not be ashamed of the message about...”",
+          "“That is why I am suffering like this. But...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“Having in mind your true faith, which first was in your...”",
+        "correctAnswer": "“I also remember how you truly believe in Christ. Your grandmother,...”",
         "reference": "2 Timothy 1:5",
-        "explanation": "2 Timothy 1:5 records: 'Having in mind your true faith, which first was in your mother's mother Lois, and in your mother Eunice, and, I am certain, is now in you.'."
+        "explanation": "2 Timothy 1:5 records: 'I also remember how you truly believe in Christ. Your grandmother, Lois, and your mother, Eunice, already believed in Christ before you did. Now I am sure that you yourself also really trust him.'."
       },
       {
         "id": "2ti-1-q6",
         "questionNumber": 6,
         "question": "What central message or instruction is delivered in 2 Timothy 1:6?",
         "options": [
-          "“Who gave us salvation, marking us out for his...”",
-          "“For this reason I say to you, Let that grace of...”",
-          "“Keep the form of those true words which you...”",
+          "“God is the one who has saved us. He...”",
+          "“For that reason, I want you to remember the spiritual gift...”",
+          "“You have heard me tell you about God's true...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“For this reason I say to you, Let that grace of...”",
+        "correctAnswer": "“For that reason, I want you to remember the spiritual gift...”",
         "reference": "2 Timothy 1:6",
-        "explanation": "2 Timothy 1:6 records: 'For this reason I say to you, Let that grace of God which is in you, given to you by my hands, have living power.'."
+        "explanation": "2 Timothy 1:6 records: 'For that reason, I want you to remember the spiritual gift that God gave you when I put my hands on you. Use that gift more and more to serve God well.'."
       },
       {
         "id": "2ti-1-q7",
         "questionNumber": 7,
         "question": "What detail regarding God's work, covenant, or people is given in 2 Timothy 1:7?",
         "options": [
-          "“But has now been made clear by the revelation...”",
-          "“That good thing which was given to you keep...”",
-          "“For God did not give us a spirit of fear, but...”",
+          "“Now Christ Jesus has come to save us, and...”",
+          "“God has given you his good message to keep...”",
+          "“Be strong, because God has given us his Spirit. And his...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“For God did not give us a spirit of fear, but...”",
+        "correctAnswer": "“Be strong, because God has given us his Spirit. And his...”",
         "reference": "2 Timothy 1:7",
-        "explanation": "2 Timothy 1:7 records: 'For God did not give us a spirit of fear, but of power and of love and of self-control.'."
+        "explanation": "2 Timothy 1:7 records: 'Be strong, because God has given us his Spirit. And his Spirit does not cause us to be afraid. Instead, his Spirit causes us to be powerful to serve God. He helps us to love God and other people. And he helps us to control ourselves properly.'."
       },
       {
         "id": "2ti-1-q8",
         "questionNumber": 8,
         "question": "What phrase or account is recorded in 2 Timothy 1:8?",
         "options": [
-          "“Of which I was made a preacher and an...”",
-          "“You have had news that all those in Asia...”",
+          "“That is the same good news that God has...”",
+          "“You know that almost all the believers in Asia...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“Have no feeling of shame, then, for the witness of our...”"
+          "“So do not be ashamed of the message about our Lord...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“Have no feeling of shame, then, for the witness of our...”",
+        "correctAnswer": "“So do not be ashamed of the message about our Lord...”",
         "reference": "2 Timothy 1:8",
-        "explanation": "2 Timothy 1:8 records: 'Have no feeling of shame, then, for the witness of our Lord or for me, his prisoner: but undergo all things for the good news in the measure of the power of God;'."
+        "explanation": "2 Timothy 1:8 records: 'So do not be ashamed of the message about our Lord that we tell people. And do not be ashamed of me because I am in a prison. I am a prisoner because I serve Christ. You must understand that you will have trouble because you tell people the good news about Jesus Christ. So be ready to have the same kind of trouble as I have. Let God make you strong when you have trouble.'."
       },
       {
         "id": "2ti-1-q9",
         "questionNumber": 9,
         "question": "How does the passage describe the circumstances or people in 2 Timothy 1:9?",
         "options": [
-          "“Who gave us salvation, marking us out for his purpose, not...”",
-          "“And for which I undergo these things: but I...”",
-          "“May the Lord give mercy to the house of...”",
+          "“God is the one who has saved us. He has chosen...”",
+          "“That is why I am suffering like this. But...”",
+          "“But Onesiphorus has stayed to help me. I pray...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“Who gave us salvation, marking us out for his purpose, not...”",
+        "correctAnswer": "“God is the one who has saved us. He has chosen...”",
         "reference": "2 Timothy 1:9",
-        "explanation": "2 Timothy 1:9 records: 'Who gave us salvation, marking us out for his purpose, not on account of our works, but in the measure of his purpose and his grace, which was given to us in Christ Jesus before times eternal,'."
+        "explanation": "2 Timothy 1:9 records: 'God is the one who has saved us. He has chosen us to serve him with good, clean lives. He did not save us because of any good things that we have done. He chose to do it because he is very kind. He decided to do that before time began, because of what Christ Jesus would do for us.'."
       },
       {
         "id": "2ti-1-q10",
         "questionNumber": 10,
         "question": "In the concluding portion of the chapter, what takes place in 2 Timothy 1:10?",
         "options": [
-          "“Keep the form of those true words which you...”",
-          "“But has now been made clear by the revelation of our...”",
-          "“But when he was in Rome, he went in...”",
+          "“You have heard me tell you about God's true...”",
+          "“Now Christ Jesus has come to save us, and we have...”",
+          "“When he came here to Rome, he looked carefully...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“But has now been made clear by the revelation of our...”",
+        "correctAnswer": "“Now Christ Jesus has come to save us, and we have...”",
         "reference": "2 Timothy 1:10",
-        "explanation": "2 Timothy 1:10 records: 'But has now been made clear by the revelation of our Saviour Christ Jesus, who put an end to death and made life unending come to light through the good news,'."
+        "explanation": "2 Timothy 1:10 records: 'Now Christ Jesus has come to save us, and we have seen how kind God is. Christ has destroyed death's power over us. We have heard the good news that he brought to us. So now we understand about life with God for ever.'."
       }
     ],
     "2": [
@@ -163,150 +160,150 @@
         "questionNumber": 1,
         "question": "According to 2 Timothy 2:1, what is the opening statement or setting of this chapter?",
         "options": [
-          "It records: “So then, my child, be strong in the grace which is in Christ Jesu...”",
+          "It records: “Timothy, you are like my own child. Let God make you strong. He i...”",
           "It begins with a prayer of thanksgiving for deliverance in 2 Timothy",
           "It opens with a formal census and counting of the congregation",
           "It records a severe judgment pronounced against neighboring nations"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "It records: “So then, my child, be strong in the grace which is in Christ Jesu...”",
+        "correctAnswer": "It records: “Timothy, you are like my own child. Let God make you strong. He i...”",
         "reference": "2 Timothy 2:1",
-        "explanation": "The chapter begins directly with the statement: 'So then, my child, be strong in the grace which is in Christ Jesus.'."
+        "explanation": "The chapter begins directly with the statement: 'Timothy, you are like my own child. Let God make you strong. He is kind, so trust him to help you, because you belong to Christ Jesus.'."
       },
       {
         "id": "2ti-2-q2",
         "questionNumber": 2,
         "question": "What key instruction, event, or declaration is set forth in 2 Timothy 2:2?",
         "options": [
-          "“And if a man takes part in a competition...”",
-          "“And the things which I have said to you before a...”",
-          "“In which I put up with the hardest conditions,...”",
+          "“It is the same with an athlete who runs...”",
+          "“You have heard the message that I have taught. Many other...”",
+          "“And I have many troubles because I tell that...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“And the things which I have said to you before a...”",
+        "correctAnswer": "“You have heard the message that I have taught. Many other...”",
         "reference": "2 Timothy 2:2",
-        "explanation": "2 Timothy 2:2 records: 'And the things which I have said to you before a number of witnesses, give to those of the faith, so that they may be teachers of others.'."
+        "explanation": "2 Timothy 2:2 records: 'You have heard the message that I have taught. Many other people also heard it and they agree that it is true. Now you must tell the same message to other people who will be able to teach it to even more people. They should be people that you can trust as honest people and who can teach well.'."
       },
       {
         "id": "2ti-2-q3",
         "questionNumber": 3,
         "question": "What significant action or revelation occurs in 2 Timothy 2:4?",
         "options": [
-          "“Give thought to what I say; for the Lord...”",
-          "“This is a true saying: If we undergo death...”",
-          "“A fighting man, when he is with the army, keeps himself...”",
+          "“Think carefully about what I am saying to you....”",
+          "“We all know that this is true: ‘If we...”",
+          "“Any soldier who fights in a war does not become busy...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“A fighting man, when he is with the army, keeps himself...”",
+        "correctAnswer": "“Any soldier who fights in a war does not become busy...”",
         "reference": "2 Timothy 2:4",
-        "explanation": "2 Timothy 2:4 records: 'A fighting man, when he is with the army, keeps himself free from the business of this life so that he may be pleasing to him who has taken him into his army.'."
+        "explanation": "2 Timothy 2:4 records: 'Any soldier who fights in a war does not become busy with other things. He only wants to fight well to make his captain happy.'."
       },
       {
         "id": "2ti-2-q4",
         "questionNumber": 4,
         "question": "What truth or description is highlighted in 2 Timothy 2:6?",
         "options": [
-          "“In which I put up with the hardest conditions,...”",
-          "“If we are without faith, still he keeps faith,...”",
+          "“And I have many troubles because I tell that...”",
+          "“Even if we no longer trust him, he will...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“It is right for the worker in the fields to be...”"
+          "“A farmer works hard to grow plants for food. So he...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“It is right for the worker in the fields to be...”",
+        "correctAnswer": "“A farmer works hard to grow plants for food. So he...”",
         "reference": "2 Timothy 2:6",
-        "explanation": "2 Timothy 2:6 records: 'It is right for the worker in the fields to be the first to take of the fruit.'."
+        "explanation": "2 Timothy 2:6 records: 'A farmer works hard to grow plants for food. So he should be the first person to receive some of that food.'."
       },
       {
         "id": "2ti-2-q5",
         "questionNumber": 5,
         "question": "According to the text, what happened or was commanded in 2 Timothy 2:8?",
         "options": [
-          "“Keep in mind Jesus Christ, of the seed of David, who...”",
-          "“This is a true saying: If we undergo death...”",
-          "“Let it be your care to get the approval...”",
+          "“Jesus Christ is a descendant of King David. God caused Jesus...”",
+          "“We all know that this is true: ‘If we...”",
+          "“Always try very much to serve God in a...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“Keep in mind Jesus Christ, of the seed of David, who...”",
+        "correctAnswer": "“Jesus Christ is a descendant of King David. God caused Jesus...”",
         "reference": "2 Timothy 2:8",
-        "explanation": "2 Timothy 2:8 records: 'Keep in mind Jesus Christ, of the seed of David, who came back from the dead, as my good news gives witness:'."
+        "explanation": "2 Timothy 2:8 records: 'Jesus Christ is a descendant of King David. God caused Jesus to become alive again after his death. Remember that! These facts are part of the good news that I tell people.'."
       },
       {
         "id": "2ti-2-q6",
         "questionNumber": 6,
         "question": "What central message or instruction is delivered in 2 Timothy 2:10?",
         "options": [
-          "“If we are without faith, still he keeps faith,...”",
-          "“But I undergo all things for the saints, so that they...”",
-          "“And their words will be like poisoned wounds in...”",
+          "“Even if we no longer trust him, he will...”",
+          "“So I continue to be patient and brave during all these...”",
+          "“It causes people to become sick in their spirits....”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“But I undergo all things for the saints, so that they...”",
+        "correctAnswer": "“So I continue to be patient and brave during all these...”",
         "reference": "2 Timothy 2:10",
-        "explanation": "2 Timothy 2:10 records: 'But I undergo all things for the saints, so that they may have salvation in Christ Jesus with eternal glory.'."
+        "explanation": "2 Timothy 2:10 records: 'So I continue to be patient and brave during all these troubles. I do that so that I can help the people that God has chosen to belong to him. I want God to save them too, because of what Christ Jesus has done for them. As a result, they will live with God for ever, in the beautiful place where he lives.'."
       },
       {
         "id": "2ti-2-q7",
         "questionNumber": 7,
         "question": "What detail regarding God's work, covenant, or people is given in 2 Timothy 2:12?",
         "options": [
-          "“Let it be your care to get the approval...”",
-          "“But God's strong base is unchanging, having this sign,...”",
-          "“If we go on to the end, then we will be...”",
+          "“Always try very much to serve God in a...”",
+          "“But the group of true believers remains strong, like...”",
+          "“If we continue to be strong during troubles here, we will...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“If we go on to the end, then we will be...”",
+        "correctAnswer": "“If we continue to be strong during troubles here, we will...”",
         "reference": "2 Timothy 2:12",
-        "explanation": "2 Timothy 2:12 records: 'If we go on to the end, then we will be ruling with him: if we say we have no knowledge of him, then he will say he has no knowledge of us:'."
+        "explanation": "2 Timothy 2:12 records: 'If we continue to be strong during troubles here, we will also rule with him there in heaven. But if we say that we do not know Christ, he will also say that he does not know us.'."
       },
       {
         "id": "2ti-2-q8",
         "questionNumber": 8,
         "question": "What phrase or account is recorded in 2 Timothy 2:14?",
         "options": [
-          "“And their words will be like poisoned wounds in...”",
-          "“If a man makes himself clean from these, he...”",
+          "“It causes people to become sick in their spirits....”",
+          "“It is like that with people who serve God...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“Put these things before them, giving them orders in the name...”"
+          "“Continue to tell these things to God's people there, so that...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“Put these things before them, giving them orders in the name...”",
+        "correctAnswer": "“Continue to tell these things to God's people there, so that...”",
         "reference": "2 Timothy 2:14",
-        "explanation": "2 Timothy 2:14 records: 'Put these things before them, giving them orders in the name of the Lord to keep themselves from fighting about words, which is of no profit, only causing error in their hearers.'."
+        "explanation": "2 Timothy 2:14 records: 'Continue to tell these things to God's people there, so that they remember them. Use God's authority and warn them not to argue about words. To argue about little things does not help anyone. Instead, it destroys those people who listen.'."
       },
       {
         "id": "2ti-2-q9",
         "questionNumber": 9,
         "question": "How does the passage describe the circumstances or people in 2 Timothy 2:16?",
         "options": [
-          "“But take no part in wrong and foolish talk, for those...”",
-          "“But God's strong base is unchanging, having this sign,...”",
-          "“And put away foolish and uncontrolled questionings, seeing that...”",
+          "“But stay away from people who talk about silly things that...”",
+          "“But the group of true believers remains strong, like...”",
+          "“Do not join with people who want to argue...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“But take no part in wrong and foolish talk, for those...”",
+        "correctAnswer": "“But stay away from people who talk about silly things that...”",
         "reference": "2 Timothy 2:16",
-        "explanation": "2 Timothy 2:16 records: 'But take no part in wrong and foolish talk, for those who do so will go farther into evil,'."
+        "explanation": "2 Timothy 2:16 records: 'But stay away from people who talk about silly things that are not important to God. A message like that causes people to live more and more in a way that does not please God.'."
       },
       {
         "id": "2ti-2-q10",
         "questionNumber": 10,
         "question": "In the concluding portion of the chapter, what takes place in 2 Timothy 2:18?",
         "options": [
-          "“If a man makes himself clean from these, he...”",
-          "“Men whose ideas are all false, who say that the coming...”",
-          "“Gently guiding those who go against the teaching; if...”",
+          "“It is like that with people who serve God...”",
+          "“They no longer teach God's true message. They say that God...”",
+          "“When people speak against God's true message, teach them...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“Men whose ideas are all false, who say that the coming...”",
+        "correctAnswer": "“They no longer teach God's true message. They say that God...”",
         "reference": "2 Timothy 2:18",
-        "explanation": "2 Timothy 2:18 records: 'Men whose ideas are all false, who say that the coming back from the dead has even now taken place, overturning the faith of some.'."
+        "explanation": "2 Timothy 2:18 records: 'They no longer teach God's true message. They say that God will not raise dead people any more. They say that he has already given life to dead people. In this way they have confused the minds of some people, so that they no longer believe in Christ.'."
       }
     ],
     "3": [
@@ -315,150 +312,150 @@
         "questionNumber": 1,
         "question": "According to 2 Timothy 3:1, what is the opening statement or setting of this chapter?",
         "options": [
-          "It records: “But be certain of this, that in the last days times of trouble wi...”",
+          "It records: “Let me tell you this. During the last days of this world, there w...”",
           "It begins with a prayer of thanksgiving for deliverance in 2 Timothy",
           "It opens with a formal census and counting of the congregation",
           "It records a severe judgment pronounced against neighboring nations"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "It records: “But be certain of this, that in the last days times of trouble wi...”",
+        "correctAnswer": "It records: “Let me tell you this. During the last days of this world, there w...”",
         "reference": "2 Timothy 3:1",
-        "explanation": "The chapter begins directly with the statement: 'But be certain of this, that in the last days times of trouble will come.'."
+        "explanation": "The chapter begins directly with the statement: 'Let me tell you this. During the last days of this world, there will be times of great trouble.'."
       },
       {
         "id": "2ti-3-q2",
         "questionNumber": 2,
         "question": "What key instruction, event, or declaration is set forth in 2 Timothy 3:2?",
         "options": [
-          "“Having a form of religion, but turning their backs...”",
-          "“For men will be lovers of self, lovers of money, uplifted...”",
-          "“But they will go no farther: for their foolish...”",
+          "“Those people will seem to be serving God. But...”",
+          "“People will love only themselves, and they will want lots of...”",
+          "“But they will not continue to do many more...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“For men will be lovers of self, lovers of money, uplifted...”",
+        "correctAnswer": "“People will love only themselves, and they will want lots of...”",
         "reference": "2 Timothy 3:2",
-        "explanation": "2 Timothy 3:2 records: 'For men will be lovers of self, lovers of money, uplifted in pride, given to bitter words, going against the authority of their fathers, never giving praise, having no religion,'."
+        "explanation": "2 Timothy 3:2 records: 'People will love only themselves, and they will want lots of money for themselves. They will be proud and they will say how great they are. They will insult other people. They will not obey their parents. They will not thank anyone who helps them. They will not respect anything that is good.'."
       },
       {
         "id": "2ti-3-q3",
         "questionNumber": 3,
         "question": "What significant action or revelation occurs in 2 Timothy 3:3?",
         "options": [
-          "“For these are they who go secretly into houses,...”",
-          "“But you took as your example my teaching, behaviour,...”",
-          "“Without natural love, bitter haters, saying evil of others, violent and...”",
+          "“Among those people, there are some men who find...”",
+          "“But you, Timothy, have heard my message and you...”",
+          "“They will not be kind to other people, but they will...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“Without natural love, bitter haters, saying evil of others, violent and...”",
+        "correctAnswer": "“They will not be kind to other people, but they will...”",
         "reference": "2 Timothy 3:3",
-        "explanation": "2 Timothy 3:3 records: 'Without natural love, bitter haters, saying evil of others, violent and uncontrolled, hating all good,'."
+        "explanation": "2 Timothy 3:3 records: 'They will not be kind to other people, but they will like to argue. They will tell lies to hurt other people. They will be unable to control themselves properly. They will be cruel and they will hate anything that is good.'."
       },
       {
         "id": "2ti-3-q4",
         "questionNumber": 4,
         "question": "What truth or description is highlighted in 2 Timothy 3:4?",
         "options": [
-          "“Ever learning, and never coming to the knowledge of...”",
-          "“My punishments and pain; the things which came to...”",
+          "“They are always trying to learn new things, but...”",
+          "“You also know what happened to me in the...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“False to their friends, acting without thought, lifted up in mind,...”"
+          "“People will turn against their friends. They will do foolish things....”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“False to their friends, acting without thought, lifted up in mind,...”",
+        "correctAnswer": "“People will turn against their friends. They will do foolish things....”",
         "reference": "2 Timothy 3:4",
-        "explanation": "2 Timothy 3:4 records: 'False to their friends, acting without thought, lifted up in mind, loving pleasure more than God;'."
+        "explanation": "2 Timothy 3:4 records: 'People will turn against their friends. They will do foolish things. They will boast that they are very important. They will not love God, but instead they will only want to enjoy themselves.'."
       },
       {
         "id": "2ti-3-q5",
         "questionNumber": 5,
         "question": "According to the text, what happened or was commanded in 2 Timothy 3:5?",
         "options": [
-          "“Having a form of religion, but turning their backs on the...”",
-          "“And as James and Jambres went against Moses, so...”",
-          "“Yes, and all whose purpose is to be living...”",
+          "“Those people will seem to be serving God. But really they...”",
+          "“These are people who speak against God's true message,...”",
+          "“It is not only me. Every Christian who wants...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“Having a form of religion, but turning their backs on the...”",
+        "correctAnswer": "“Those people will seem to be serving God. But really they...”",
         "reference": "2 Timothy 3:5",
-        "explanation": "2 Timothy 3:5 records: 'Having a form of religion, but turning their backs on the power of it: go not with these.'."
+        "explanation": "2 Timothy 3:5 records: 'Those people will seem to be serving God. But really they refuse to accept God's power to help them. You must stay away from people like that.'."
       },
       {
         "id": "2ti-3-q6",
         "questionNumber": 6,
         "question": "What central message or instruction is delivered in 2 Timothy 3:6?",
         "options": [
-          "“But they will go no farther: for their foolish...”",
-          "“For these are they who go secretly into houses, making prisoners...”",
-          "“Evil and false men will become worse and worse,...”",
+          "“But they will not continue to do many more...”",
+          "“Among those people, there are some men who find a way...”",
+          "“Bad people like that will become even worse. Some...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“For these are they who go secretly into houses, making prisoners...”",
+        "correctAnswer": "“Among those people, there are some men who find a way...”",
         "reference": "2 Timothy 3:6",
-        "explanation": "2 Timothy 3:6 records: 'For these are they who go secretly into houses, making prisoners of foolish women, weighted down with sin, turned from the way by their evil desires,'."
+        "explanation": "2 Timothy 3:6 records: 'Among those people, there are some men who find a way into people's homes. They get power over silly women who feel very guilty about their sins. Those women want to do wrong things and they cannot stop themselves.'."
       },
       {
         "id": "2ti-3-q7",
         "questionNumber": 7,
         "question": "What detail regarding God's work, covenant, or people is given in 2 Timothy 3:7?",
         "options": [
-          "“But you took as your example my teaching, behaviour,...”",
-          "“But see that you keep to the teaching you...”",
-          "“Ever learning, and never coming to the knowledge of what is true.”",
+          "“But you, Timothy, have heard my message and you...”",
+          "“But you must continue to believe the things that...”",
+          "“They are always trying to learn new things, but they can...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“Ever learning, and never coming to the knowledge of what is true.”",
+        "correctAnswer": "“They are always trying to learn new things, but they can...”",
         "reference": "2 Timothy 3:7",
-        "explanation": "2 Timothy 3:7 records: 'Ever learning, and never coming to the knowledge of what is true.'."
+        "explanation": "2 Timothy 3:7 records: 'They are always trying to learn new things, but they can never really understand God's true message.'."
       },
       {
         "id": "2ti-3-q8",
         "questionNumber": 8,
         "question": "What phrase or account is recorded in 2 Timothy 3:8?",
         "options": [
-          "“My punishments and pain; the things which came to...”",
-          "“And that from the time when you were a...”",
+          "“You also know what happened to me in the...”",
+          "“Even when you were a child, you already knew...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“And as James and Jambres went against Moses, so do these...”"
+          "“These are people who speak against God's true message, in the...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“And as James and Jambres went against Moses, so do these...”",
+        "correctAnswer": "“These are people who speak against God's true message, in the...”",
         "reference": "2 Timothy 3:8",
-        "explanation": "2 Timothy 3:8 records: 'And as James and Jambres went against Moses, so do these go against what is true: men of evil minds, who, tested by faith, are seen to be false.'."
+        "explanation": "2 Timothy 3:8 records: 'These are people who speak against God's true message, in the same way that Jannes and Jambres spoke against Moses. Their minds have become confused. The way that they serve God is false.'."
       },
       {
         "id": "2ti-3-q9",
         "questionNumber": 9,
         "question": "How does the passage describe the circumstances or people in 2 Timothy 3:9?",
         "options": [
-          "“But they will go no farther: for their foolish behaviour will...”",
-          "“Yes, and all whose purpose is to be living...”",
-          "“Every holy Writing which comes from God is of...”",
+          "“But they will not continue to do many more bad things....”",
+          "“It is not only me. Every Christian who wants...”",
+          "“Everything that is written in the Bible comes from...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“But they will go no farther: for their foolish behaviour will...”",
+        "correctAnswer": "“But they will not continue to do many more bad things....”",
         "reference": "2 Timothy 3:9",
-        "explanation": "2 Timothy 3:9 records: 'But they will go no farther: for their foolish behaviour will be clear to all men, as theirs was in the end.'."
+        "explanation": "2 Timothy 3:9 records: 'But they will not continue to do many more bad things. Everyone will see clearly that they are fools. That is what happened to Jannes and Jambres.'."
       },
       {
         "id": "2ti-3-q10",
         "questionNumber": 10,
         "question": "In the concluding portion of the chapter, what takes place in 2 Timothy 3:10?",
         "options": [
-          "“Evil and false men will become worse and worse,...”",
-          "“But you took as your example my teaching, behaviour, purpose, and...”",
-          "“But be certain of this, that in the last...”",
+          "“Bad people like that will become even worse. Some...”",
+          "“But you, Timothy, have heard my message and you know it...”",
+          "“Let me tell you this. During the last days...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“But you took as your example my teaching, behaviour, purpose, and...”",
+        "correctAnswer": "“But you, Timothy, have heard my message and you know it...”",
         "reference": "2 Timothy 3:10",
-        "explanation": "2 Timothy 3:10 records: 'But you took as your example my teaching, behaviour, purpose, and faith; my long waiting, my love, my quiet undergoing of trouble;'."
+        "explanation": "2 Timothy 3:10 records: 'But you, Timothy, have heard my message and you know it well. You also know the way in which I have lived. You know my purpose in life. You know how I trust God. You know how patient I have been. You know my love for God and for other people. You know that I have been strong during troubles.'."
       }
     ],
     "4": [
@@ -467,150 +464,150 @@
         "questionNumber": 1,
         "question": "According to 2 Timothy 4:1, what is the opening statement or setting of this chapter?",
         "options": [
-          "It records: “I give you orders, before God and Christ Jesus, who will be the j...”",
+          "It records: “Timothy, I tell you this seriously, as God and Christ Jesus see e...”",
           "It begins with a prayer of thanksgiving for deliverance in 2 Timothy",
           "It opens with a formal census and counting of the congregation",
           "It records a severe judgment pronounced against neighboring nations"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "It records: “I give you orders, before God and Christ Jesus, who will be the j...”",
+        "correctAnswer": "It records: “Timothy, I tell you this seriously, as God and Christ Jesus see e...”",
         "reference": "2 Timothy 4:1",
-        "explanation": "The chapter begins directly with the statement: 'I give you orders, before God and Christ Jesus, who will be the judge of the living and the dead, and by his revelation and his kingdom;'."
+        "explanation": "The chapter begins directly with the statement: 'Timothy, I tell you this seriously, as God and Christ Jesus see everything that we do. When Christ Jesus comes to rule as king, he will judge everyone. He will judge the people who are alive and also those who have already died. When he appears, he will decide what should happen to them all. So I tell you this now:'."
       },
       {
         "id": "2ti-4-q2",
         "questionNumber": 2,
         "question": "What key instruction, event, or declaration is set forth in 2 Timothy 4:2?",
         "options": [
-          "“But be self-controlled in all things, do without comfort,...”",
-          "“Be preaching the word at all times, in every place; make...”",
-          "“Do your best to come to me before long:”",
+          "“But you yourself must continue to think seriously and...”",
+          "“Tell God's message to people. Always be ready to speak God's...”",
+          "“Timothy, please come to see me as soon as...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“Be preaching the word at all times, in every place; make...”",
+        "correctAnswer": "“Tell God's message to people. Always be ready to speak God's...”",
         "reference": "2 Timothy 4:2",
-        "explanation": "2 Timothy 4:2 records: 'Be preaching the word at all times, in every place; make protests, say sharp words, give comfort, with long waiting and teaching;'."
+        "explanation": "2 Timothy 4:2 records: 'Tell God's message to people. Always be ready to speak God's message clearly to people, whether they want to listen to you or not. Warn people when they are doing something wrong. Tell them to stop doing wrong things, and explain to them what they ought to do. But be very patient while you teach them what is true.'."
       },
       {
         "id": "2ti-4-q3",
         "questionNumber": 3,
         "question": "What significant action or revelation occurs in 2 Timothy 4:4?",
         "options": [
-          "“I have made a good fight, I have come...”",
-          "“Only Luke is with me. Get Mark and take...”",
-          "“And shutting their ears to what is true, will be turned...”",
+          "“I have worked to serve Christ well. I have...”",
+          "“Only Luke is with me now. Bring Mark with...”",
+          "“People will refuse to listen to God's true message. Instead, they...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“And shutting their ears to what is true, will be turned...”",
+        "correctAnswer": "“People will refuse to listen to God's true message. Instead, they...”",
         "reference": "2 Timothy 4:4",
-        "explanation": "2 Timothy 4:4 records: 'And shutting their ears to what is true, will be turned away to belief in foolish stories.'."
+        "explanation": "2 Timothy 4:4 records: 'People will refuse to listen to God's true message. Instead, they will want to listen to silly stories that are false.'."
       },
       {
         "id": "2ti-4-q4",
         "questionNumber": 4,
         "question": "What truth or description is highlighted in 2 Timothy 4:6?",
         "options": [
-          "“Do your best to come to me before long:”",
-          "“The coat which I did not take from Troas...”",
+          "“Timothy, please come to see me as soon as...”",
+          "“I left a coat with Carpus in Troas. Bring...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“For I am even now being offered, and my end is near.”"
+          "“As for me, it is nearly time for me to die....”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“For I am even now being offered, and my end is near.”",
+        "correctAnswer": "“As for me, it is nearly time for me to die....”",
         "reference": "2 Timothy 4:6",
-        "explanation": "2 Timothy 4:6 records: 'For I am even now being offered, and my end is near.'."
+        "explanation": "2 Timothy 4:6 records: 'As for me, it is nearly time for me to die. My death will be like a drink offering that they pour out to God. My life as God's servant will end.'."
       },
       {
         "id": "2ti-4-q5",
         "questionNumber": 5,
         "question": "According to the text, what happened or was commanded in 2 Timothy 4:8?",
         "options": [
-          "“From now on, the crown of righteousness is made ready for...”",
-          "“Only Luke is with me. Get Mark and take...”",
-          "“But be on the watch for him, for he...”",
+          "“So now a gift is waiting for me. The Lord will...”",
+          "“Only Luke is with me now. Bring Mark with...”",
+          "“You must also be careful that he does not...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“From now on, the crown of righteousness is made ready for...”",
+        "correctAnswer": "“So now a gift is waiting for me. The Lord will...”",
         "reference": "2 Timothy 4:8",
-        "explanation": "2 Timothy 4:8 records: 'From now on, the crown of righteousness is made ready for me, which the Lord, the upright judge, Will give to me at that day: and not only to me, but to all those who have had love for his revelation.'."
+        "explanation": "2 Timothy 4:8 records: 'So now a gift is waiting for me. The Lord will make me completely right with him. That will be like a crown which the Lord will give me on that great day when he judges people. He is the judge who is fair and right. He will not only give that gift to me. He will give it to all those people who love him. They will be happy to see him when he comes again.'."
       },
       {
         "id": "2ti-4-q6",
         "questionNumber": 6,
         "question": "What central message or instruction is delivered in 2 Timothy 4:10?",
         "options": [
-          "“The coat which I did not take from Troas...”",
-          "“For Demas has gone away from me, for love of this...”",
-          "“But the Lord was by my side and gave...”",
+          "“I left a coat with Carpus in Troas. Bring...”",
+          "“Demas has left me and he has gone to Thessalonica city....”",
+          "“But the Lord was there to help me. He...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“For Demas has gone away from me, for love of this...”",
+        "correctAnswer": "“Demas has left me and he has gone to Thessalonica city....”",
         "reference": "2 Timothy 4:10",
-        "explanation": "2 Timothy 4:10 records: 'For Demas has gone away from me, for love of this present life, and has gone to Thessalonica: Crescens has gone to Galatia, Titus to Dalmatia.'."
+        "explanation": "2 Timothy 4:10 records: 'Demas has left me and he has gone to Thessalonica city. He wanted to enjoy the things of this world too much. Crescens has gone to Galatia region. Titus has gone to Dalmatia region.'."
       },
       {
         "id": "2ti-4-q7",
         "questionNumber": 7,
         "question": "What detail regarding God's work, covenant, or people is given in 2 Timothy 4:12?",
         "options": [
-          "“But be on the watch for him, for he...”",
-          "“Give my love to Prisca and Aquila and those...”",
-          "“Tychicus I sent to Ephesus.”",
+          "“You must also be careful that he does not...”",
+          "“Say ‘hello’ for me to Priscilla and Aquila, and...”",
+          "“I have sent Tychicus to Ephesus.”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“Tychicus I sent to Ephesus.”",
+        "correctAnswer": "“I have sent Tychicus to Ephesus.”",
         "reference": "2 Timothy 4:12",
-        "explanation": "2 Timothy 4:12 records: 'Tychicus I sent to Ephesus.'."
+        "explanation": "2 Timothy 4:12 records: 'I have sent Tychicus to Ephesus.'."
       },
       {
         "id": "2ti-4-q8",
         "questionNumber": 8,
         "question": "What phrase or account is recorded in 2 Timothy 4:14?",
         "options": [
-          "“But the Lord was by my side and gave...”",
-          "“Do your best to come before the winter. Eubulus...”",
+          "“But the Lord was there to help me. He...”",
+          "“Please try to come before the winter. Eubulus, Pudens,...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“Alexander the copper-worker did me much wrong: the Lord will give...”"
+          "“Alexander, the man who makes things from metal, caused a lot...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“Alexander the copper-worker did me much wrong: the Lord will give...”",
+        "correctAnswer": "“Alexander, the man who makes things from metal, caused a lot...”",
         "reference": "2 Timothy 4:14",
-        "explanation": "2 Timothy 4:14 records: 'Alexander the copper-worker did me much wrong: the Lord will give him the reward of his works:'."
+        "explanation": "2 Timothy 4:14 records: 'Alexander, the man who makes things from metal, caused a lot of trouble for me. The Lord will punish him because of the wrong things that he did.'."
       },
       {
         "id": "2ti-4-q9",
         "questionNumber": 9,
         "question": "How does the passage describe the circumstances or people in 2 Timothy 4:16?",
         "options": [
-          "“At my first meeting with my judges, no one took my...”",
-          "“Give my love to Prisca and Aquila and those...”",
-          "“I give you orders, before God and Christ Jesus,...”",
+          "“I had to explain to a judge that I had not...”",
+          "“Say ‘hello’ for me to Priscilla and Aquila, and...”",
+          "“Timothy, I tell you this seriously, as God and...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“At my first meeting with my judges, no one took my...”",
+        "correctAnswer": "“I had to explain to a judge that I had not...”",
         "reference": "2 Timothy 4:16",
-        "explanation": "2 Timothy 4:16 records: 'At my first meeting with my judges, no one took my part, but all went away from me. May it not be put to their account.'."
+        "explanation": "2 Timothy 4:16 records: 'I had to explain to a judge that I had not done anything wrong. The first time I did that, nobody helped me. All my friends stayed away. I pray that God will forgive them for that.'."
       },
       {
         "id": "2ti-4-q10",
         "questionNumber": 10,
         "question": "In the concluding portion of the chapter, what takes place in 2 Timothy 4:18?",
         "options": [
-          "“Do your best to come before the winter. Eubulus...”",
-          "“The Lord will keep me safe from every evil work and...”",
-          "“For the time will come when they will not...”",
+          "“Please try to come before the winter. Eubulus, Pudens,...”",
+          "“The Lord will continue to save me from every bad thing....”",
+          "“Do this, because a time will come when people...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“The Lord will keep me safe from every evil work and...”",
+        "correctAnswer": "“The Lord will continue to save me from every bad thing....”",
         "reference": "2 Timothy 4:18",
-        "explanation": "2 Timothy 4:18 records: 'The Lord will keep me safe from every evil work and will give me salvation in his kingdom in heaven: to whom be glory for ever and ever. So be it.'."
+        "explanation": "2 Timothy 4:18 records: 'The Lord will continue to save me from every bad thing. And he will bring me safely to heaven, where he rules. He is great and we should praise him for ever! Amen.'."
       }
     ]
   }

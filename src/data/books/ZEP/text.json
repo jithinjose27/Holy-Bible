@@ -1,513 +1,1625 @@
 {
-  "translation": "EasyEnglish Bible",
-  "book": "Zephaniah",
-  "bookId": "ZEP",
+  "id": "ZEP",
+  "name": "Zephaniah",
+  "slug": "zephaniah",
+  "translation": "EasyEnglish Bible (EASY)",
+  "publisher": "MissionAssist UK",
+  "referenceUrl": "https://www.easyenglish.bible/bible/easy/zephaniah/",
   "totalChapters": 3,
-  "copyrightNotice": "Scripture quotations are from the EasyEnglish Bible / Bible in Basic English. Public Domain.",
-  "officialSourceUrl": "https://www.easyenglish.bible/bible/easy/zephaniah/1/",
+  "totalVerses": 53,
   "chapters": [
     {
-      "book": "Zephaniah",
       "chapter": 1,
       "title": "Zephaniah 1",
-      "subtitle": "Zephaniah Chapter 1",
+      "subtitle": "",
+      "totalVerses": 18,
+      "sourceUrl": "https://www.easyenglish.bible/bible/easy/zephaniah/1/",
       "sections": [
         {
-          "heading": "Zephaniah Chapter 1",
+          "heading": "God will punish Judah",
           "items": [
             [
               {
                 "verse": 1,
-                "text": "The word of the Lord which came to Zephaniah, the son of Cushi, the son of Gedaliah, the son of Amariah, the son of Hezekiah, in the days of Josiah, the son of Amon, king of Judah."
-              },
+                "text": "This is the Lord's message, which he gave to Cushi's son, Zephaniah. Cushi was the son of Gedaliah. Gedaliah was the son of Amariah, and Amariah was the son of Hezekiah. The Lord gave this message to Zephaniah when Josiah ruled Judah as king. Josiah was the son of Amon, king of Judah."
+              }
+            ],
+            [
               {
                 "verse": 2,
-                "text": "I will take away everything from the face of the earth, says the Lord."
-              },
+                "text": "The Lord says,"
+              }
+            ],
+            [
+              {
+                "verse": 2,
+                "text": "‘I will destroy everything that is on the earth."
+              }
+            ],
+            [
               {
                 "verse": 3,
-                "text": "I will take away man and beast; I will take away the birds of the heaven and the fishes of the sea; causing the downfall of the evil-doers, and cutting man off from the face of the earth, says the Lord."
-              },
+                "text": "I will destroy people and animals."
+              }
+            ],
+            [
+              {
+                "verse": 3,
+                "text": "I will destroy the birds in the sky."
+              }
+            ],
+            [
+              {
+                "verse": 3,
+                "text": "and the fish in the sea."
+              }
+            ],
+            [
+              {
+                "verse": 3,
+                "text": "I will remove all the wicked people who cause trouble."
+              }
+            ],
+            [
+              {
+                "verse": 3,
+                "text": "Yes, I will remove all the people who live on the earth."
+              }
+            ],
+            [
+              {
+                "verse": 3,
+                "text": "No one will remain.’"
+              }
+            ],
+            [
+              {
+                "verse": 3,
+                "text": "That is what the Lord says."
+              }
+            ],
+            [
               {
                 "verse": 4,
-                "text": "And my hand will be stretched out on Judah and on all the people of Jerusalem, cutting off the name of the Baal from this place, and the name of the false priests,"
+                "text": "‘I will attack Judah"
+              }
+            ],
+            [
+              {
+                "verse": 4,
+                "text": "and the people who live in Jerusalem."
+              }
+            ],
+            [
+              {
+                "verse": 4,
+                "text": "I will remove from these places"
+              }
+            ],
+            [
+              {
+                "verse": 4,
+                "text": "everyone who serves the false god Baal."
+              }
+            ],
+            [
+              {
+                "verse": 4,
+                "text": "I will remove all Baal's priests."
+              }
+            ],
+            [
+              {
+                "verse": 4,
+                "text": "Nobody will remember them any more."
               }
             ],
             [
               {
                 "verse": 5,
-                "text": "And the worshippers of the army of heaven on the house-tops, and the Lord's worshippers who take oaths by Milcom,"
-              },
+                "text": "I will destroy the people who worship the sun, the moon and the stars."
+              }
+            ],
+            [
+              {
+                "verse": 5,
+                "text": "They stand on their roofs to do that."
+              }
+            ],
+            [
+              {
+                "verse": 5,
+                "text": "Some people promise to be faithful to me,"
+              }
+            ],
+            [
+              {
+                "verse": 5,
+                "text": "but they also worship their god Molech."
+              }
+            ],
+            [
+              {
+                "verse": 5,
+                "text": "So I will destroy those people too."
+              }
+            ],
+            [
               {
                 "verse": 6,
-                "text": "And those who are turned back from going after the Lord, and those who have not made prayer to the Lord or got directions from him."
-              },
+                "text": "I will destroy those people who have turned away from me, the Lord."
+              }
+            ],
+            [
+              {
+                "verse": 6,
+                "text": "They do not ask me for help or advice.’"
+              }
+            ],
+            [
               {
                 "verse": 7,
-                "text": "Let there be no sound before the Lord God: for the day of the Lord is near: for the Lord has made ready an offering, he has made his guests holy."
-              },
+                "text": "Be quiet and listen to the Lord God!"
+              }
+            ],
+            [
+              {
+                "verse": 7,
+                "text": "The day of the Lord will soon come."
+              }
+            ],
+            [
+              {
+                "verse": 7,
+                "text": "The Lord is ready to offer Judah's people as a sacrifice."
+              }
+            ],
+            [
+              {
+                "verse": 7,
+                "text": "He has chosen their enemies to do this."
+              }
+            ],
+            [
               {
                 "verse": 8,
-                "text": "And it will come about in the day of the Lord's offering, that I will send punishment on the rulers and the king's sons and all who are clothed in robes from strange lands."
+                "text": "The Lord says,"
+              }
+            ],
+            [
+              {
+                "verse": 8,
+                "text": "‘When the day comes for me to offer that sacrifice,"
+              }
+            ],
+            [
+              {
+                "verse": 8,
+                "text": "I will punish Judah's leaders and the king's sons."
+              }
+            ],
+            [
+              {
+                "verse": 8,
+                "text": "I will punish everyone who wears the clothes of foreign people."
               }
             ],
             [
               {
                 "verse": 9,
-                "text": "And in that day I will send punishment on all those who come jumping over the doorstep and make their master's house full of violent behaviour and deceit."
-              },
+                "text": "At that time, I will also punish everyone"
+              }
+            ],
+            [
+              {
+                "verse": 9,
+                "text": "who worships foreign gods."
+              }
+            ],
+            [
+              {
+                "verse": 9,
+                "text": "I will punish those who rob other people"
+              }
+            ],
+            [
+              {
+                "verse": 9,
+                "text": "to fill their master's house with valuable things."
+              }
+            ],
+            [
+              {
+                "verse": 9,
+                "text": "They are cruel people who tell lies.’"
+              }
+            ],
+            [
               {
                 "verse": 10,
-                "text": "And in that day, says the Lord, there will be the sound of a cry from the fish doorway, and an outcry from the new town, and a great thundering from the hills, and cries of grief from the people of the Hollow;"
-              },
+                "text": "The Lord says,"
+              }
+            ],
+            [
+              {
+                "verse": 10,
+                "text": "‘On that day, you will hear people at the Fish Gate."
+              }
+            ],
+            [
+              {
+                "verse": 10,
+                "text": "They will be shouting because they are afraid."
+              }
+            ],
+            [
+              {
+                "verse": 10,
+                "text": "People will be crying loudly in the new part of Jerusalem."
+              }
+            ],
+            [
+              {
+                "verse": 10,
+                "text": "There will be loud noises in the hills around the city."
+              }
+            ],
+            [
               {
                 "verse": 11,
-                "text": "Because of the downfall of all the people of Canaan: all those who were weighted down with silver have been cut off."
-              },
+                "text": "Weep, you people who live near Jerusalem's market!"
+              }
+            ],
+            [
+              {
+                "verse": 11,
+                "text": "All the traders will disappear."
+              }
+            ],
+            [
+              {
+                "verse": 11,
+                "text": "There will be no people who weigh silver coins for you."
+              }
+            ],
+            [
               {
                 "verse": 12,
-                "text": "And it will come about at that time, that I will go searching through Jerusalem with lights; and I will send punishment on the men who have become like wine stored over-long, who say to themselves, The Lord will not do good and will not do evil."
+                "text": "At that time, I will use lamps to find people in Jerusalem"
+              }
+            ],
+            [
+              {
+                "verse": 12,
+                "text": "who are hiding in dark places."
+              }
+            ],
+            [
+              {
+                "verse": 12,
+                "text": "I will punish people who do not think that their sins are important."
+              }
+            ],
+            [
+              {
+                "verse": 12,
+                "text": "They think, “The Lord will not do anything to us,"
+              }
+            ],
+            [
+              {
+                "verse": 12,
+                "text": "either good things or bad things.”"
               }
             ],
             [
               {
                 "verse": 13,
-                "text": "And their wealth will be violently taken away, and their houses will be made waste: they will go on building houses and never living in them, and planting vine-gardens but not drinking the wine from them."
-              },
+                "text": "But their enemies will take away their valuable things."
+              }
+            ],
+            [
+              {
+                "verse": 13,
+                "text": "The houses of those people will become a heap of stones."
+              }
+            ],
+            [
+              {
+                "verse": 13,
+                "text": "If they build houses for themselves,"
+              }
+            ],
+            [
+              {
+                "verse": 13,
+                "text": "they will never live in them."
+              }
+            ],
+            [
+              {
+                "verse": 13,
+                "text": "If they plant vineyards to grow grapes,"
+              }
+            ],
+            [
+              {
+                "verse": 13,
+                "text": "they will never drink any wine from those grapes.’"
+              }
+            ]
+          ]
+        },
+        {
+          "heading": "The great day of punishment will soon come",
+          "items": [
+            [
               {
                 "verse": 14,
-                "text": "The great day of the Lord is near, it is near and coming very quickly; the bitter day of the Lord is near, coming on more quickly than a man of war."
-              },
+                "text": "The great day of the Lord will soon be here."
+              }
+            ],
+            [
+              {
+                "verse": 14,
+                "text": "It will come very quickly."
+              }
+            ],
+            [
+              {
+                "verse": 14,
+                "text": "That day will bring terrible trouble."
+              }
+            ],
+            [
+              {
+                "verse": 14,
+                "text": "Brave soldiers will cry loudly in the battle."
+              }
+            ],
+            [
               {
                 "verse": 15,
-                "text": "That day is a day of wrath, a day of trouble and sorrow, a day of wasting and destruction, a day of dark night and deep shade, a day of cloud and thick dark."
-              },
+                "text": "It will be a day when God shows his great anger."
+              }
+            ],
+            [
+              {
+                "verse": 15,
+                "text": "People will be very upset"
+              }
+            ],
+            [
+              {
+                "verse": 15,
+                "text": "because of the trouble that comes to them."
+              }
+            ],
+            [
+              {
+                "verse": 15,
+                "text": "Enemies will destroy many things."
+              }
+            ],
+            [
+              {
+                "verse": 15,
+                "text": "The day will be very dark,"
+              }
+            ],
+            [
+              {
+                "verse": 15,
+                "text": "and black clouds will cover the sky."
+              }
+            ],
+            [
               {
                 "verse": 16,
-                "text": "A day of sounding the horn and the war-cry against the walled towns and the high towers."
+                "text": "There will be the loud noise of trumpets."
+              }
+            ],
+            [
+              {
+                "verse": 16,
+                "text": "Soldiers will shout as they go to fight."
+              }
+            ],
+            [
+              {
+                "verse": 16,
+                "text": "The walls of cities will fall in the battle."
+              }
+            ],
+            [
+              {
+                "verse": 16,
+                "text": "The strong high towers will fall down too."
               }
             ],
             [
               {
                 "verse": 17,
-                "text": "And I will send trouble on men so that they will go about like the blind, because they have done evil against the Lord: and their blood will be drained out like dust, and their strength like waste."
-              },
+                "text": "The Lord says,"
+              }
+            ],
+            [
+              {
+                "verse": 17,
+                "text": "‘I will cause people to suffer"
+              }
+            ],
+            [
+              {
+                "verse": 17,
+                "text": "because they have not obeyed me."
+              }
+            ],
+            [
+              {
+                "verse": 17,
+                "text": "They will walk around like blind people."
+              }
+            ],
+            [
+              {
+                "verse": 17,
+                "text": "Blood will pour out of their bodies like dust."
+              }
+            ],
+            [
+              {
+                "verse": 17,
+                "text": "Their dead bodies will lie on the ground like rubbish.’"
+              }
+            ],
+            [
+              {
+                "verse": 17,
+                "text": "18 On that day when the Lord shows his anger,their money will not save them.His anger will destroy the whole earth,as fire completely destroys things.He will quickly destroy all the people who live on the earth.It will be a day of terrible trouble."
+              }
+            ],
+            [
               {
                 "verse": 18,
-                "text": "Even their silver and their gold will not be able to keep them safe in the day of the Lord's wrath; but all the land will be burned up in the fire of his bitter wrath: for he will put an end, even suddenly, to all who are living in the land."
+                "text": "On that day when the Lord shows his anger,"
+              }
+            ],
+            [
+              {
+                "verse": 18,
+                "text": "their money will not save them."
+              }
+            ],
+            [
+              {
+                "verse": 18,
+                "text": "His anger will destroy the whole earth,"
+              }
+            ],
+            [
+              {
+                "verse": 18,
+                "text": "as fire completely destroys things."
+              }
+            ],
+            [
+              {
+                "verse": 18,
+                "text": "He will quickly destroy all the people who live on the earth."
+              }
+            ],
+            [
+              {
+                "verse": 18,
+                "text": "It will be a day of terrible trouble."
               }
             ]
           ]
         }
       ],
-      "verses": [
-        {
-          "verse": 1,
-          "text": "The word of the Lord which came to Zephaniah, the son of Cushi, the son of Gedaliah, the son of Amariah, the son of Hezekiah, in the days of Josiah, the son of Amon, king of Judah."
-        },
-        {
-          "verse": 2,
-          "text": "I will take away everything from the face of the earth, says the Lord."
-        },
-        {
-          "verse": 3,
-          "text": "I will take away man and beast; I will take away the birds of the heaven and the fishes of the sea; causing the downfall of the evil-doers, and cutting man off from the face of the earth, says the Lord."
-        },
-        {
-          "verse": 4,
-          "text": "And my hand will be stretched out on Judah and on all the people of Jerusalem, cutting off the name of the Baal from this place, and the name of the false priests,"
-        },
-        {
-          "verse": 5,
-          "text": "And the worshippers of the army of heaven on the house-tops, and the Lord's worshippers who take oaths by Milcom,"
-        },
-        {
-          "verse": 6,
-          "text": "And those who are turned back from going after the Lord, and those who have not made prayer to the Lord or got directions from him."
-        },
-        {
-          "verse": 7,
-          "text": "Let there be no sound before the Lord God: for the day of the Lord is near: for the Lord has made ready an offering, he has made his guests holy."
-        },
-        {
-          "verse": 8,
-          "text": "And it will come about in the day of the Lord's offering, that I will send punishment on the rulers and the king's sons and all who are clothed in robes from strange lands."
-        },
-        {
-          "verse": 9,
-          "text": "And in that day I will send punishment on all those who come jumping over the doorstep and make their master's house full of violent behaviour and deceit."
-        },
-        {
-          "verse": 10,
-          "text": "And in that day, says the Lord, there will be the sound of a cry from the fish doorway, and an outcry from the new town, and a great thundering from the hills, and cries of grief from the people of the Hollow;"
-        },
-        {
-          "verse": 11,
-          "text": "Because of the downfall of all the people of Canaan: all those who were weighted down with silver have been cut off."
-        },
-        {
-          "verse": 12,
-          "text": "And it will come about at that time, that I will go searching through Jerusalem with lights; and I will send punishment on the men who have become like wine stored over-long, who say to themselves, The Lord will not do good and will not do evil."
-        },
-        {
-          "verse": 13,
-          "text": "And their wealth will be violently taken away, and their houses will be made waste: they will go on building houses and never living in them, and planting vine-gardens but not drinking the wine from them."
-        },
-        {
-          "verse": 14,
-          "text": "The great day of the Lord is near, it is near and coming very quickly; the bitter day of the Lord is near, coming on more quickly than a man of war."
-        },
-        {
-          "verse": 15,
-          "text": "That day is a day of wrath, a day of trouble and sorrow, a day of wasting and destruction, a day of dark night and deep shade, a day of cloud and thick dark."
-        },
-        {
-          "verse": 16,
-          "text": "A day of sounding the horn and the war-cry against the walled towns and the high towers."
-        },
-        {
-          "verse": 17,
-          "text": "And I will send trouble on men so that they will go about like the blind, because they have done evil against the Lord: and their blood will be drained out like dust, and their strength like waste."
-        },
-        {
-          "verse": 18,
-          "text": "Even their silver and their gold will not be able to keep them safe in the day of the Lord's wrath; but all the land will be burned up in the fire of his bitter wrath: for he will put an end, even suddenly, to all who are living in the land."
-        }
-      ],
-      "totalVerses": 18,
-      "footnotes": []
+      "notes": [
+        "When we writeLordlike this, it is a special name for God. Sometimes people write it as the Hebrew name ‘Yahweh’. It is God's own name that he told Moses. SeeExodus 3:14. It means ‘I am who I am’. This shows that God has always been there and he always will be there.",
+        "Thesepriestsserved false gods. See2 Kings 23:5.",
+        "See2 Kings 23:11;Jeremiah 19:13;Ezekiel 8:16.",
+        "Molech was a false god.",
+        "This showed that the people agreed with foreign ideas more than with God's rules.",
+        "The Fish Gate was one of the gates in the city walls of Jerusalem."
+      ]
     },
     {
-      "book": "Zephaniah",
       "chapter": 2,
       "title": "Zephaniah 2",
-      "subtitle": "Zephaniah Chapter 2",
+      "subtitle": "",
+      "totalVerses": 15,
+      "sourceUrl": "https://www.easyenglish.bible/bible/easy/zephaniah/2/",
       "sections": [
         {
-          "heading": "Zephaniah Chapter 2",
+          "heading": "God's people should turn back to him",
           "items": [
             [
               {
                 "verse": 1,
-                "text": "Come together, make everyone come together, O nation without shame;"
-              },
+                "text": "Come together! Yes, come together now!"
+              }
+            ],
+            [
+              {
+                "verse": 1,
+                "text": "You are a nation of people who should be ashamed of yourselves."
+              }
+            ],
+            [
               {
                 "verse": 2,
-                "text": "Before the Lord sends you violently away in flight like the waste from the grain; before the burning wrath of the Lord comes on you, before the day of the Lord's wrath comes on you."
-              },
+                "text": "The Lord has decided the day for your punishment,"
+              }
+            ],
+            [
+              {
+                "verse": 2,
+                "text": "so come together before it happens."
+              }
+            ],
+            [
+              {
+                "verse": 2,
+                "text": "It will happen very quickly,"
+              }
+            ],
+            [
+              {
+                "verse": 2,
+                "text": "as wind blows away chaff."
+              }
+            ],
+            [
+              {
+                "verse": 2,
+                "text": "The Lord's great anger will suddenly hit you."
+              }
+            ],
+            [
+              {
+                "verse": 2,
+                "text": "Do something before that day arrives!"
+              }
+            ],
+            [
               {
                 "verse": 3,
-                "text": "Make search for the Lord, all you quiet ones of the earth, who have done what is right in his eyes; make search for righteousness and a quiet heart: it may be that you will be safely covered in the day of the Lord's wrath."
-              },
+                "text": "Turn to the Lord,"
+              }
+            ],
+            [
+              {
+                "verse": 3,
+                "text": "all you humble people of Judah who obey his commands."
+              }
+            ],
+            [
+              {
+                "verse": 3,
+                "text": "Do things that are good and right"
+              }
+            ],
+            [
+              {
+                "verse": 3,
+                "text": "and be humble."
+              }
+            ],
+            [
+              {
+                "verse": 3,
+                "text": "Then perhaps the Lord will protect you from his punishment,"
+              }
+            ],
+            [
+              {
+                "verse": 3,
+                "text": "on the day of his great anger."
+              }
+            ]
+          ]
+        },
+        {
+          "heading": "God will destroy the Philistines",
+          "items": [
+            [
               {
                 "verse": 4,
-                "text": "For Gaza will be given up and Ashkelon will become waste: they will send Ashdod out in the middle of the day, and Ekron will be uprooted."
+                "text": "No people will remain in Gaza."
+              }
+            ],
+            [
+              {
+                "verse": 4,
+                "text": "Ashkelon will become a heap of stones."
+              }
+            ],
+            [
+              {
+                "verse": 4,
+                "text": "Enemies will chase out the people of Ashdod in one morning."
+              }
+            ],
+            [
+              {
+                "verse": 4,
+                "text": "They will also destroy Ekron."
               }
             ],
             [
               {
                 "verse": 5,
-                "text": "Sorrow to the people living by the sea, the nation of the Cherethites! The word of the Lord is against you, O Canaan, the land of the Philistines; I will send destruction on you till there is no one living in you."
-              },
+                "text": "Terrible trouble will come to you people who came from Crete,"
+              }
+            ],
+            [
+              {
+                "verse": 5,
+                "text": "you people who live beside the sea!"
+              }
+            ],
+            [
+              {
+                "verse": 5,
+                "text": "The Lord has spoken against you,"
+              }
+            ],
+            [
+              {
+                "verse": 5,
+                "text": "Philistines who live in the land of Canaan!"
+              }
+            ],
+            [
+              {
+                "verse": 5,
+                "text": "He says, ‘I will destroy everyone who lives there!’"
+              }
+            ],
+            [
               {
                 "verse": 6,
-                "text": "And the land by the sea will be grass-land, with houses for keepers of sheep and walled places for flocks."
-              },
+                "text": "Your land beside the sea will become fields"
+              }
+            ],
+            [
+              {
+                "verse": 6,
+                "text": "where shepherds feed their sheep."
+              }
+            ],
+            [
+              {
+                "verse": 6,
+                "text": "They will have safe places there"
+              }
+            ],
+            [
+              {
+                "verse": 6,
+                "text": "for their sheep and goats."
+              }
+            ],
+            [
               {
                 "verse": 7,
-                "text": "The land by the sea will be for the rest of the children of Judah; by the sea they will give their flocks food: in the houses of Ashkelon they will take their rest in the evening; for the Lord their God will take them in hand and their fate will be changed."
-              },
+                "text": "The land will belong to the people of Judah's tribe who are still alive."
+              }
+            ],
+            [
+              {
+                "verse": 7,
+                "text": "They will live safely there."
+              }
+            ],
+            [
+              {
+                "verse": 7,
+                "text": "They will use the houses in Ashkelon"
+              }
+            ],
+            [
+              {
+                "verse": 7,
+                "text": "as places to rest in the evening."
+              }
+            ],
+            [
+              {
+                "verse": 7,
+                "text": "The Lord, their God, will take care of them."
+              }
+            ],
+            [
+              {
+                "verse": 7,
+                "text": "He will give them success again."
+              }
+            ]
+          ]
+        },
+        {
+          "heading": "God will punish Moab and Ammon",
+          "items": [
+            [
               {
                 "verse": 8,
-                "text": "My ears have been open to the bitter words of Moab and the words of shame of the children of Ammon, which they have said against my people, lifting themselves up against the limit of their land."
+                "text": "The Lord says,"
+              }
+            ],
+            [
+              {
+                "verse": 8,
+                "text": "‘I have heard the people of Moab and the people of Ammon."
+              }
+            ],
+            [
+              {
+                "verse": 8,
+                "text": "They have insulted my people"
+              }
+            ],
+            [
+              {
+                "verse": 8,
+                "text": "and they have laughed at them."
+              }
+            ],
+            [
+              {
+                "verse": 8,
+                "text": "They have boasted that they would attack my people's land"
+              }
+            ],
+            [
+              {
+                "verse": 8,
+                "text": "and take it for themselves.’"
               }
             ],
             [
               {
                 "verse": 9,
-                "text": "For this cause, by my life, says the Lord of armies, the God of Israel, truly Moab will become like Sodom and the children of Ammon like Gomorrah, given up to waste plants and salt pools and unpeopled for ever: the rest of my people will take their property, the overflow of my nation will take their heritage."
-              },
+                "text": "The Lord Almighty, Israel's God, says,"
+              }
+            ],
+            [
+              {
+                "verse": 9,
+                "text": "‘I promise this, as surely as I live."
+              }
+            ],
+            [
+              {
+                "verse": 9,
+                "text": "I will cause Moab and Ammon to become like the cities of Sodom and Gomorrah."
+              }
+            ],
+            [
+              {
+                "verse": 9,
+                "text": "Weeds will cover the land."
+              }
+            ],
+            [
+              {
+                "verse": 9,
+                "text": "People will dig salt out of the ground."
+              }
+            ],
+            [
+              {
+                "verse": 9,
+                "text": "It will become a wilderness for ever."
+              }
+            ],
+            [
+              {
+                "verse": 9,
+                "text": "My people who are still alive will take the land for themselves."
+              }
+            ],
+            [
+              {
+                "verse": 9,
+                "text": "They will keep all the valuable things.’"
+              }
+            ],
+            [
+              {
+                "verse": 9,
+                "text": "10 God will punish the people of Moab and Ammon as they deserve.They have been very proud people.They have laughed at the people who belong to the Lord Almighty. 11 The Lord will cause them to be very afraid.He will destroy the power of all the earth's false gods.The people of all nations will worship the Lord.They will worship him in the places where they live.God will punish Ethiopia and Assyria2:12 12 The Lord will also punish you people of Ethiopia.He will cause you to die in battle. 13 The Lord will attack the people who live in the north.He will destroy the nation of Assyria.He will destroy its capital city, Nineveh.It will become a heap of stones where nobody lives.The land will be as dry as a desert. 14 Sheep, goats and cows will lie down there,as well as many wild animals. Hawks and owls will sleep on top of the pillars.They will call through the windows.Stones will lie on the ground in front of the buildings. Cedar beams will lie outside. 15 All this will happen to that proud city,the city where people were happy and safe.They thought, ‘We live in the best city of all!No other city is as great as our city!’But now that city will become a heap of stones.Only wild animals will have their homes there.Everyone who sees that place will laugh at it.They will shake their fists because it has lost its power."
+              }
+            ],
+            [
               {
                 "verse": 10,
-                "text": "This will be their fate because of their pride, because they have said evil, lifting themselves up against the people of the Lord of armies."
-              },
+                "text": "God will punish the people of Moab and Ammon as they deserve."
+              }
+            ],
+            [
+              {
+                "verse": 10,
+                "text": "They have been very proud people."
+              }
+            ],
+            [
+              {
+                "verse": 10,
+                "text": "They have laughed at the people who belong to the Lord Almighty."
+              }
+            ],
+            [
               {
                 "verse": 11,
-                "text": "The Lord will let himself be seen by them: for he will make all the gods of the earth feeble; and men will go down before him in worship, everyone from his place, even all the sea-lands of the nations."
-              },
+                "text": "The Lord will cause them to be very afraid."
+              }
+            ],
+            [
+              {
+                "verse": 11,
+                "text": "He will destroy the power of all the earth's false gods."
+              }
+            ],
+            [
+              {
+                "verse": 11,
+                "text": "The people of all nations will worship the Lord."
+              }
+            ],
+            [
+              {
+                "verse": 11,
+                "text": "They will worship him in the places where they live."
+              }
+            ]
+          ]
+        },
+        {
+          "heading": "God will punish Ethiopia and Assyria",
+          "items": [
+            [
               {
                 "verse": 12,
-                "text": "And you Ethiopians will be put to death by my sword."
+                "text": "The Lord will also punish you people of Ethiopia."
+              }
+            ],
+            [
+              {
+                "verse": 12,
+                "text": "He will cause you to die in battle."
               }
             ],
             [
               {
                 "verse": 13,
-                "text": "And his hand will be stretched out against the north, for the destruction of Assyria; and he will make Nineveh unpeopled and dry like the waste land."
-              },
+                "text": "The Lord will attack the people who live in the north."
+              }
+            ],
+            [
+              {
+                "verse": 13,
+                "text": "He will destroy the nation of Assyria."
+              }
+            ],
+            [
+              {
+                "verse": 13,
+                "text": "He will destroy its capital city, Nineveh."
+              }
+            ],
+            [
+              {
+                "verse": 13,
+                "text": "It will become a heap of stones where nobody lives."
+              }
+            ],
+            [
+              {
+                "verse": 13,
+                "text": "The land will be as dry as a desert."
+              }
+            ],
+            [
               {
                 "verse": 14,
-                "text": "And herds will take their rest in the middle of her, all the beasts of the valley: the pelican and the porcupine will make their living-places on the tops of its pillars; the owl will be crying in the window; the raven will be seen on the doorstep."
-              },
+                "text": "Sheep, goats and cows will lie down there,"
+              }
+            ],
+            [
+              {
+                "verse": 14,
+                "text": "as well as many wild animals."
+              }
+            ],
+            [
+              {
+                "verse": 14,
+                "text": "Hawks and owls will sleep on top of the pillars."
+              }
+            ],
+            [
+              {
+                "verse": 14,
+                "text": "They will call through the windows."
+              }
+            ],
+            [
+              {
+                "verse": 14,
+                "text": "Stones will lie on the ground in front of the buildings."
+              }
+            ],
+            [
+              {
+                "verse": 14,
+                "text": "Cedar beams will lie outside."
+              }
+            ],
+            [
               {
                 "verse": 15,
-                "text": "This is the town which was full of joy, living without fear of danger, saying in her heart, I am, and there is no other: how has she been made waste, a place for beasts to take their rest in! everyone who goes by her will make hisses, waving his hand."
+                "text": "All this will happen to that proud city,"
+              }
+            ],
+            [
+              {
+                "verse": 15,
+                "text": "the city where people were happy and safe."
+              }
+            ],
+            [
+              {
+                "verse": 15,
+                "text": "They thought, ‘We live in the best city of all!"
+              }
+            ],
+            [
+              {
+                "verse": 15,
+                "text": "No other city is as great as our city!’"
+              }
+            ],
+            [
+              {
+                "verse": 15,
+                "text": "But now that city will become a heap of stones."
+              }
+            ],
+            [
+              {
+                "verse": 15,
+                "text": "Only wild animals will have their homes there."
+              }
+            ],
+            [
+              {
+                "verse": 15,
+                "text": "Everyone who sees that place will laugh at it."
+              }
+            ],
+            [
+              {
+                "verse": 15,
+                "text": "They will shake their fists because it has lost its power."
               }
             ]
           ]
         }
       ],
-      "verses": [
-        {
-          "verse": 1,
-          "text": "Come together, make everyone come together, O nation without shame;"
-        },
-        {
-          "verse": 2,
-          "text": "Before the Lord sends you violently away in flight like the waste from the grain; before the burning wrath of the Lord comes on you, before the day of the Lord's wrath comes on you."
-        },
-        {
-          "verse": 3,
-          "text": "Make search for the Lord, all you quiet ones of the earth, who have done what is right in his eyes; make search for righteousness and a quiet heart: it may be that you will be safely covered in the day of the Lord's wrath."
-        },
-        {
-          "verse": 4,
-          "text": "For Gaza will be given up and Ashkelon will become waste: they will send Ashdod out in the middle of the day, and Ekron will be uprooted."
-        },
-        {
-          "verse": 5,
-          "text": "Sorrow to the people living by the sea, the nation of the Cherethites! The word of the Lord is against you, O Canaan, the land of the Philistines; I will send destruction on you till there is no one living in you."
-        },
-        {
-          "verse": 6,
-          "text": "And the land by the sea will be grass-land, with houses for keepers of sheep and walled places for flocks."
-        },
-        {
-          "verse": 7,
-          "text": "The land by the sea will be for the rest of the children of Judah; by the sea they will give their flocks food: in the houses of Ashkelon they will take their rest in the evening; for the Lord their God will take them in hand and their fate will be changed."
-        },
-        {
-          "verse": 8,
-          "text": "My ears have been open to the bitter words of Moab and the words of shame of the children of Ammon, which they have said against my people, lifting themselves up against the limit of their land."
-        },
-        {
-          "verse": 9,
-          "text": "For this cause, by my life, says the Lord of armies, the God of Israel, truly Moab will become like Sodom and the children of Ammon like Gomorrah, given up to waste plants and salt pools and unpeopled for ever: the rest of my people will take their property, the overflow of my nation will take their heritage."
-        },
-        {
-          "verse": 10,
-          "text": "This will be their fate because of their pride, because they have said evil, lifting themselves up against the people of the Lord of armies."
-        },
-        {
-          "verse": 11,
-          "text": "The Lord will let himself be seen by them: for he will make all the gods of the earth feeble; and men will go down before him in worship, everyone from his place, even all the sea-lands of the nations."
-        },
-        {
-          "verse": 12,
-          "text": "And you Ethiopians will be put to death by my sword."
-        },
-        {
-          "verse": 13,
-          "text": "And his hand will be stretched out against the north, for the destruction of Assyria; and he will make Nineveh unpeopled and dry like the waste land."
-        },
-        {
-          "verse": 14,
-          "text": "And herds will take their rest in the middle of her, all the beasts of the valley: the pelican and the porcupine will make their living-places on the tops of its pillars; the owl will be crying in the window; the raven will be seen on the doorstep."
-        },
-        {
-          "verse": 15,
-          "text": "This is the town which was full of joy, living without fear of danger, saying in her heart, I am, and there is no other: how has she been made waste, a place for beasts to take their rest in! everyone who goes by her will make hisses, waving his hand."
-        }
-      ],
-      "totalVerses": 15,
-      "footnotes": []
+      "notes": [
+        "The Philistines were anationof people who were powerful enemies of Israel. They lived beside the sea on the west side of Israel.",
+        "Canaan is the land that God promised to give to Abraham and to hisdescendants. SeeGenesis 12:7.",
+        "God destroyed Sodom and Gomorrah because the people who lived there werewicked. SeeGenesis 19:24-25.",
+        "Assyria was a country that was north of Israel. It was in what we now call northern Iraq and south-east Turkey. The Assyrians were enemies of the Israelites. Ethiopia was a country in north-east Africa that was a long way from Israel. It was not the same as thenationof Ethiopia today."
+      ]
     },
     {
-      "book": "Zephaniah",
       "chapter": 3,
       "title": "Zephaniah 3",
-      "subtitle": "Zephaniah Chapter 3",
+      "subtitle": "",
+      "totalVerses": 20,
+      "sourceUrl": "https://www.easyenglish.bible/bible/easy/zephaniah/3/",
       "sections": [
         {
-          "heading": "Zephaniah Chapter 3",
+          "heading": "God will punish Jerusalem",
           "items": [
             [
               {
                 "verse": 1,
-                "text": "Sorrow to her who is uncontrolled and unclean, the cruel town!"
-              },
+                "text": "Terrible trouble will come to this city!"
+              }
+            ],
+            [
+              {
+                "verse": 1,
+                "text": "It is a dirty, wicked place,"
+              }
+            ],
+            [
+              {
+                "verse": 1,
+                "text": "full of cruel people."
+              }
+            ],
+            [
               {
                 "verse": 2,
-                "text": "She gave no attention to the voice, she had no use for teaching, she put no faith in the Lord, she did not come near to her God."
-              },
+                "text": "The people of the city do not obey any laws."
+              }
+            ],
+            [
+              {
+                "verse": 2,
+                "text": "They do not listen to advice."
+              }
+            ],
+            [
+              {
+                "verse": 2,
+                "text": "They do not trust in the Lord."
+              }
+            ],
+            [
+              {
+                "verse": 2,
+                "text": "They do not ask their God to help them."
+              }
+            ],
+            [
               {
                 "verse": 3,
-                "text": "Her rulers are like loud-voiced lions in her; her judges are wolves of the evening, crushing up the bones before the morning."
-              },
+                "text": "The city's rulers roar like lions"
+              }
+            ],
+            [
+              {
+                "verse": 3,
+                "text": "to make people afraid."
+              }
+            ],
+            [
+              {
+                "verse": 3,
+                "text": "Its judges are like hungry wolves."
+              }
+            ],
+            [
+              {
+                "verse": 3,
+                "text": "They kill their food in the evening"
+              }
+            ],
+            [
+              {
+                "verse": 3,
+                "text": "and by the next morning nothing remains."
+              }
+            ],
+            [
               {
                 "verse": 4,
-                "text": "Her prophets are good-for-nothing persons, full of deceit: her priests have made the holy place unclean and have gone violently against the law."
+                "text": "The city's prophets are proud people"
+              }
+            ],
+            [
+              {
+                "verse": 4,
+                "text": "that nobody can trust."
+              }
+            ],
+            [
+              {
+                "verse": 4,
+                "text": "Its priests do not obey God's laws."
+              }
+            ],
+            [
+              {
+                "verse": 4,
+                "text": "They cause God's temple to be an unclean place."
               }
             ],
             [
               {
                 "verse": 5,
-                "text": "The Lord in her is upright; he will not do evil; every morning he lets his righteousness be seen, he is unchanging; but the evil-doer has no sense of shame."
-              },
+                "text": "But the Lord is in the city"
+              }
+            ],
+            [
+              {
+                "verse": 5,
+                "text": "and he never does any wrong thing."
+              }
+            ],
+            [
+              {
+                "verse": 5,
+                "text": "Every day he shows that he is fair."
+              }
+            ],
+            [
+              {
+                "verse": 5,
+                "text": "He never fails to do what is right."
+              }
+            ],
+            [
+              {
+                "verse": 5,
+                "text": "But wicked people are not ashamed"
+              }
+            ],
+            [
+              {
+                "verse": 5,
+                "text": "when they do bad things."
+              }
+            ],
+            [
+              {
+                "verse": 5,
+                "text": "6 The Lord says,‘I have destroyed nations.I have knocked down the strong walls and towers of their cities.I have caused their streets to be empty,with no people in them.Nobody lives in their cities any more. 7 I thought, “Now you people of Jerusalem will respect me!Now you will listen to me when I warn you.”If my people had obeyed me,I would not have destroyed their city.I would not punish them as they deserve.But they all continued to do evil things.Every day they only wanted to do something bad. 8 So you must wait for me to act.Wait for the day when I will show who is right.I have decided to bring together nations and kingdoms.Then I will punish them with my great anger.I will be so angry that I destroy the whole earth,like a fire that destroys everything.’That is what the Lord says.God will bring people together to worship him 9 ‘At that time, I will change peopleso that they speak words that are pure.Then they can pray to me,and they can all worship me together. 10 My people who now live far away, beyond the rivers of Ethiopia,will bring offerings to me. 11 At that time, you people of Jerusalem will not be ashamed,because you will no longer turn against me.I will remove from among you those peoplewho boast about themselves.There will be no proud people who remain on my holy hill.3:11 12 But I will leave a group of poor and humble people among you.They will trust me, the Lord, to keep them safe. 13 The Israelites who remain will be honest people.They will not speak lies.They will not deceive other people.They will have food to eat and a place to sleep.Nobody will cause them to be afraid.’God will take care of his people 14 Be happy and sing, you people of Zion!Yes, shout aloud, you people of Israel!People of Jerusalem, use everything in youto show how happy you are! 15 The Lord has taken away the punishment that you deserved.He has sent your enemy's army away.The Lord, Israel's King, is with you!You do not need to be afraid of trouble any more. 16 On that day, people will say to Jerusalem,‘Do not be afraid, people of Zion!Do not let fear make you weak! 17 The Lord, your God, is with you.He is strong, like a brave soldier.He will save you.He will be very happy because he is pleased with you!He will give you new life because of his love.He will sing with joy because you make him happy!’ 18 The Lord says,‘I will bring together those people who were sadbecause they could not meet together at the festivals.I will take away the trouble that you have had,and you will no longer feel ashamed. 19 Listen to me! At that time, I will punishall those people who have been cruel to you.I will rescue those who are helpless.I will bring back together the people who have gone away.I will cause people to give them honourso they will no longer be ashamed.People everywhere in the world will praise them. 20 At that time, I will bring you back togetherand I will lead you home.Yes, I will cause all the nations of the earth to respect you.You will have success again, and you will see me do this.’That is what the Lord says."
+              }
+            ],
+            [
               {
                 "verse": 6,
-                "text": "I have had the nations cut off, their towers are broken down; I have made their streets a waste so that no one goes through them: destruction has overtaken their towns, so that there is no man living in them."
-              },
+                "text": "The Lord says,"
+              }
+            ],
+            [
+              {
+                "verse": 6,
+                "text": "‘I have destroyed nations."
+              }
+            ],
+            [
+              {
+                "verse": 6,
+                "text": "I have knocked down the strong walls and towers of their cities."
+              }
+            ],
+            [
+              {
+                "verse": 6,
+                "text": "I have caused their streets to be empty,"
+              }
+            ],
+            [
+              {
+                "verse": 6,
+                "text": "with no people in them."
+              }
+            ],
+            [
+              {
+                "verse": 6,
+                "text": "Nobody lives in their cities any more."
+              }
+            ],
+            [
               {
                 "verse": 7,
-                "text": "I said, Certainly you will go in fear of me, and come under my training, so that whatever I may send on her may not be cut off before her eyes: but they got up early and made all their works evil."
-              },
+                "text": "I thought, “Now you people of Jerusalem will respect me!"
+              }
+            ],
+            [
+              {
+                "verse": 7,
+                "text": "Now you will listen to me when I warn you.”"
+              }
+            ],
+            [
+              {
+                "verse": 7,
+                "text": "If my people had obeyed me,"
+              }
+            ],
+            [
+              {
+                "verse": 7,
+                "text": "I would not have destroyed their city."
+              }
+            ],
+            [
+              {
+                "verse": 7,
+                "text": "I would not punish them as they deserve."
+              }
+            ],
+            [
+              {
+                "verse": 7,
+                "text": "But they all continued to do evil things."
+              }
+            ],
+            [
+              {
+                "verse": 7,
+                "text": "Every day they only wanted to do something bad."
+              }
+            ],
+            [
               {
                 "verse": 8,
-                "text": "For this reason, go on waiting for me, says the Lord, till the day when I come up as a witness: for my purpose is to send for the nations and to get the kingdoms together, so that I may let loose on them my passion, even all my burning wrath: for all the earth will be burned up in the fire of my bitter passion."
+                "text": "So you must wait for me to act."
+              }
+            ],
+            [
+              {
+                "verse": 8,
+                "text": "Wait for the day when I will show who is right."
+              }
+            ],
+            [
+              {
+                "verse": 8,
+                "text": "I have decided to bring together nations and kingdoms."
+              }
+            ],
+            [
+              {
+                "verse": 8,
+                "text": "Then I will punish them with my great anger."
+              }
+            ],
+            [
+              {
+                "verse": 8,
+                "text": "I will be so angry that I destroy the whole earth,"
+              }
+            ],
+            [
+              {
+                "verse": 8,
+                "text": "like a fire that destroys everything.’"
+              }
+            ],
+            [
+              {
+                "verse": 8,
+                "text": "That is what the Lord says."
+              }
+            ]
+          ]
+        },
+        {
+          "heading": "God will bring people together to worship him",
+          "items": [
+            [
+              {
+                "verse": 9,
+                "text": "‘At that time, I will change people"
               }
             ],
             [
               {
                 "verse": 9,
-                "text": "For then I will give the people a clean language, so that they may all make prayer to the Lord and be his servants with one mind."
-              },
+                "text": "so that they speak words that are pure."
+              }
+            ],
+            [
+              {
+                "verse": 9,
+                "text": "Then they can pray to me,"
+              }
+            ],
+            [
+              {
+                "verse": 9,
+                "text": "and they can all worship me together."
+              }
+            ],
+            [
               {
                 "verse": 10,
-                "text": "From over the rivers of Ethiopia, and from the sides of the north, they will come to me with an offering."
-              },
+                "text": "My people who now live far away, beyond the rivers of Ethiopia,"
+              }
+            ],
+            [
+              {
+                "verse": 10,
+                "text": "will bring offerings to me."
+              }
+            ],
+            [
               {
                 "verse": 11,
-                "text": "In that day you will have no shame on account of all the things in which you did evil against me: for then I will take away from among you those who were lifted up in pride, and you will no longer be lifted up with pride in my holy mountain."
-              },
+                "text": "At that time, you people of Jerusalem will not be ashamed,"
+              }
+            ],
+            [
+              {
+                "verse": 11,
+                "text": "because you will no longer turn against me."
+              }
+            ],
+            [
+              {
+                "verse": 11,
+                "text": "I will remove from among you those people"
+              }
+            ],
+            [
+              {
+                "verse": 11,
+                "text": "who boast about themselves."
+              }
+            ],
+            [
+              {
+                "verse": 11,
+                "text": "There will be no proud people who remain on my holy hill."
+              }
+            ],
+            [
               {
                 "verse": 12,
-                "text": "But I will still have among you a quiet and poor people, and they will put their faith in the name of the Lord."
+                "text": "But I will leave a group of poor and humble people among you."
+              }
+            ],
+            [
+              {
+                "verse": 12,
+                "text": "They will trust me, the Lord, to keep them safe."
               }
             ],
             [
               {
                 "verse": 13,
-                "text": "The rest of Israel will do no evil and say no false words; the tongue of deceit will not be seen in their mouth: for they will take their food and their rest, and no one will be a cause of fear to them."
-              },
+                "text": "The Israelites who remain will be honest people."
+              }
+            ],
+            [
+              {
+                "verse": 13,
+                "text": "They will not speak lies."
+              }
+            ],
+            [
+              {
+                "verse": 13,
+                "text": "They will not deceive other people."
+              }
+            ],
+            [
+              {
+                "verse": 13,
+                "text": "They will have food to eat and a place to sleep."
+              }
+            ],
+            [
+              {
+                "verse": 13,
+                "text": "Nobody will cause them to be afraid.’"
+              }
+            ]
+          ]
+        },
+        {
+          "heading": "God will take care of his people",
+          "items": [
+            [
               {
                 "verse": 14,
-                "text": "Make melody, O daughter of Zion; give a loud cry, O Israel; be glad and let your heart be full of joy, O daughter of Jerusalem."
-              },
+                "text": "Be happy and sing, you people of Zion!"
+              }
+            ],
+            [
+              {
+                "verse": 14,
+                "text": "Yes, shout aloud, you people of Israel!"
+              }
+            ],
+            [
+              {
+                "verse": 14,
+                "text": "People of Jerusalem, use everything in you"
+              }
+            ],
+            [
+              {
+                "verse": 14,
+                "text": "to show how happy you are!"
+              }
+            ],
+            [
               {
                 "verse": 15,
-                "text": "The Lord has taken away those who were judging you, he has sent your haters far away: the King of Israel, even the Lord, is among you: you will have no more fear of evil."
-              },
+                "text": "The Lord has taken away the punishment that you deserved."
+              }
+            ],
+            [
+              {
+                "verse": 15,
+                "text": "He has sent your enemy's army away."
+              }
+            ],
+            [
+              {
+                "verse": 15,
+                "text": "The Lord, Israel's King, is with you!"
+              }
+            ],
+            [
+              {
+                "verse": 15,
+                "text": "You do not need to be afraid of trouble any more."
+              }
+            ],
+            [
               {
                 "verse": 16,
-                "text": "In that day it will be said to Jerusalem, Have no fear: O Zion, let not your hands be feeble."
+                "text": "On that day, people will say to Jerusalem,"
+              }
+            ],
+            [
+              {
+                "verse": 16,
+                "text": "‘Do not be afraid, people of Zion!"
+              }
+            ],
+            [
+              {
+                "verse": 16,
+                "text": "Do not let fear make you weak!"
               }
             ],
             [
               {
                 "verse": 17,
-                "text": "The Lord your God is among you, as a strong saviour: he will be glad over you with joy, he will make his love new again, he will make a song of joy over you as in the time of a holy feast."
-              },
+                "text": "The Lord, your God, is with you."
+              }
+            ],
+            [
+              {
+                "verse": 17,
+                "text": "He is strong, like a brave soldier."
+              }
+            ],
+            [
+              {
+                "verse": 17,
+                "text": "He will save you."
+              }
+            ],
+            [
+              {
+                "verse": 17,
+                "text": "He will be very happy because he is pleased with you!"
+              }
+            ],
+            [
+              {
+                "verse": 17,
+                "text": "He will give you new life because of his love."
+              }
+            ],
+            [
+              {
+                "verse": 17,
+                "text": "He will sing with joy because you make him happy!’"
+              }
+            ],
+            [
+              {
+                "verse": 17,
+                "text": "18 The Lord says,‘I will bring together those people who were sadbecause they could not meet together at the festivals.I will take away the trouble that you have had,and you will no longer feel ashamed. 19 Listen to me! At that time, I will punishall those people who have been cruel to you.I will rescue those who are helpless.I will bring back together the people who have gone away.I will cause people to give them honourso they will no longer be ashamed.People everywhere in the world will praise them. 20 At that time, I will bring you back togetherand I will lead you home.Yes, I will cause all the nations of the earth to respect you.You will have success again, and you will see me do this.’That is what the Lord says."
+              }
+            ],
+            [
               {
                 "verse": 18,
-                "text": "I will take away your troubles, lifting up your shame from off you."
-              },
+                "text": "The Lord says,"
+              }
+            ],
+            [
+              {
+                "verse": 18,
+                "text": "‘I will bring together those people who were sad"
+              }
+            ],
+            [
+              {
+                "verse": 18,
+                "text": "because they could not meet together at the festivals."
+              }
+            ],
+            [
+              {
+                "verse": 18,
+                "text": "I will take away the trouble that you have had,"
+              }
+            ],
+            [
+              {
+                "verse": 18,
+                "text": "and you will no longer feel ashamed."
+              }
+            ],
+            [
               {
                 "verse": 19,
-                "text": "See, at that time I will put an end to all who have been troubling you: I will give salvation to her whose steps are uncertain, and get together her who has been sent in flight; and I will make them a cause of praise and an honoured name in all the earth, when I let their fate be changed."
-              },
+                "text": "Listen to me! At that time, I will punish"
+              }
+            ],
+            [
+              {
+                "verse": 19,
+                "text": "all those people who have been cruel to you."
+              }
+            ],
+            [
+              {
+                "verse": 19,
+                "text": "I will rescue those who are helpless."
+              }
+            ],
+            [
+              {
+                "verse": 19,
+                "text": "I will bring back together the people who have gone away."
+              }
+            ],
+            [
+              {
+                "verse": 19,
+                "text": "I will cause people to give them honour"
+              }
+            ],
+            [
+              {
+                "verse": 19,
+                "text": "so they will no longer be ashamed."
+              }
+            ],
+            [
+              {
+                "verse": 19,
+                "text": "People everywhere in the world will praise them."
+              }
+            ],
+            [
               {
                 "verse": 20,
-                "text": "At that time I will make you come in, at that time I will get you together: for I will make you a name and a praise among all the peoples of the earth when I let your fate be changed before your eyes, says the Lord."
+                "text": "At that time, I will bring you back together"
+              }
+            ],
+            [
+              {
+                "verse": 20,
+                "text": "and I will lead you home."
+              }
+            ],
+            [
+              {
+                "verse": 20,
+                "text": "Yes, I will cause all the nations of the earth to respect you."
+              }
+            ],
+            [
+              {
+                "verse": 20,
+                "text": "You will have success again, and you will see me do this.’"
+              }
+            ],
+            [
+              {
+                "verse": 20,
+                "text": "That is what the Lord says."
               }
             ]
           ]
         }
       ],
-      "verses": [
-        {
-          "verse": 1,
-          "text": "Sorrow to her who is uncontrolled and unclean, the cruel town!"
-        },
-        {
-          "verse": 2,
-          "text": "She gave no attention to the voice, she had no use for teaching, she put no faith in the Lord, she did not come near to her God."
-        },
-        {
-          "verse": 3,
-          "text": "Her rulers are like loud-voiced lions in her; her judges are wolves of the evening, crushing up the bones before the morning."
-        },
-        {
-          "verse": 4,
-          "text": "Her prophets are good-for-nothing persons, full of deceit: her priests have made the holy place unclean and have gone violently against the law."
-        },
-        {
-          "verse": 5,
-          "text": "The Lord in her is upright; he will not do evil; every morning he lets his righteousness be seen, he is unchanging; but the evil-doer has no sense of shame."
-        },
-        {
-          "verse": 6,
-          "text": "I have had the nations cut off, their towers are broken down; I have made their streets a waste so that no one goes through them: destruction has overtaken their towns, so that there is no man living in them."
-        },
-        {
-          "verse": 7,
-          "text": "I said, Certainly you will go in fear of me, and come under my training, so that whatever I may send on her may not be cut off before her eyes: but they got up early and made all their works evil."
-        },
-        {
-          "verse": 8,
-          "text": "For this reason, go on waiting for me, says the Lord, till the day when I come up as a witness: for my purpose is to send for the nations and to get the kingdoms together, so that I may let loose on them my passion, even all my burning wrath: for all the earth will be burned up in the fire of my bitter passion."
-        },
-        {
-          "verse": 9,
-          "text": "For then I will give the people a clean language, so that they may all make prayer to the Lord and be his servants with one mind."
-        },
-        {
-          "verse": 10,
-          "text": "From over the rivers of Ethiopia, and from the sides of the north, they will come to me with an offering."
-        },
-        {
-          "verse": 11,
-          "text": "In that day you will have no shame on account of all the things in which you did evil against me: for then I will take away from among you those who were lifted up in pride, and you will no longer be lifted up with pride in my holy mountain."
-        },
-        {
-          "verse": 12,
-          "text": "But I will still have among you a quiet and poor people, and they will put their faith in the name of the Lord."
-        },
-        {
-          "verse": 13,
-          "text": "The rest of Israel will do no evil and say no false words; the tongue of deceit will not be seen in their mouth: for they will take their food and their rest, and no one will be a cause of fear to them."
-        },
-        {
-          "verse": 14,
-          "text": "Make melody, O daughter of Zion; give a loud cry, O Israel; be glad and let your heart be full of joy, O daughter of Jerusalem."
-        },
-        {
-          "verse": 15,
-          "text": "The Lord has taken away those who were judging you, he has sent your haters far away: the King of Israel, even the Lord, is among you: you will have no more fear of evil."
-        },
-        {
-          "verse": 16,
-          "text": "In that day it will be said to Jerusalem, Have no fear: O Zion, let not your hands be feeble."
-        },
-        {
-          "verse": 17,
-          "text": "The Lord your God is among you, as a strong saviour: he will be glad over you with joy, he will make his love new again, he will make a song of joy over you as in the time of a holy feast."
-        },
-        {
-          "verse": 18,
-          "text": "I will take away your troubles, lifting up your shame from off you."
-        },
-        {
-          "verse": 19,
-          "text": "See, at that time I will put an end to all who have been troubling you: I will give salvation to her whose steps are uncertain, and get together her who has been sent in flight; and I will make them a cause of praise and an honoured name in all the earth, when I let their fate be changed."
-        },
-        {
-          "verse": 20,
-          "text": "At that time I will make you come in, at that time I will get you together: for I will make you a name and a praise among all the peoples of the earth when I let your fate be changed before your eyes, says the Lord."
-        }
-      ],
-      "totalVerses": 20,
-      "footnotes": []
+      "notes": [
+        "Theholyhill isMount Zion, in Jerusalem."
+      ]
     }
   ]
 }

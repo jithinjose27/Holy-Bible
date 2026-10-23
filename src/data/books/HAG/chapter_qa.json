@@ -1,9 +1,6 @@
 {
-  "book": "Haggai",
   "bookId": "HAG",
-  "totalChapters": 2,
-  "totalQuestions": 20,
-  "questionsPerChapter": 10,
+  "bookName": "Haggai",
   "chapters": {
     "1": [
       {
@@ -11,150 +8,150 @@
         "questionNumber": 1,
         "question": "According to Haggai 1:1, what is the opening statement or setting of this chapter?",
         "options": [
-          "It records: “In the second year of Darius the king, in the sixth month, on the...”",
+          "It records: “The Lord spoke his message to Haggai, his prophet. At that time, ...”",
           "It begins with a prayer of thanksgiving for deliverance in Haggai",
           "It opens with a formal census and counting of the congregation",
           "It records a severe judgment pronounced against neighboring nations"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "It records: “In the second year of Darius the king, in the sixth month, on the...”",
+        "correctAnswer": "It records: “The Lord spoke his message to Haggai, his prophet. At that time, ...”",
         "reference": "Haggai 1:1",
-        "explanation": "The chapter begins directly with the statement: 'In the second year of Darius the king, in the sixth month, on the first day of the month, came the word of the Lord by Haggai the prophet to Zerubbabel, the son of Shealtiel, ruler of Judah, and to Joshua, the son of Jehozadak, the high priest, saying,'."
+        "explanation": "The chapter begins directly with the statement: 'The Lord spoke his message to Haggai, his prophet. At that time, Darius was king of Persia. He had been king for one year and five months. On the first day of the next month, the Lord told Haggai to speak to Zerubbabel, Judah's ruler, and to Joshua, the leader of God's priests. Zerubbabel was the son of Shealtiel. Joshua was the son of Jehozadak. This was the Almighty Lord's message: ‘Judah's people say that this is not the right time to build a temple for me.’'."
       },
       {
         "id": "hag-1-q2",
         "questionNumber": 2,
         "question": "What key instruction, event, or declaration is set forth in Haggai 1:2?",
         "options": [
-          "“For this cause the Lord of armies has said,...”",
-          "“These are the words of the Lord of armies: These people...”",
-          "“You were looking for much, and it came to...”",
+          "“I, the Almighty Lord, tell you this: Think carefully...”",
+          "“The Lord told his prophet Haggai to say this to the people:”",
+          "“You thought that you would get a lot of...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“These are the words of the Lord of armies: These people...”",
+        "correctAnswer": "“The Lord told his prophet Haggai to say this to the people:”",
         "reference": "Haggai 1:2",
-        "explanation": "Haggai 1:2 records: 'These are the words of the Lord of armies: These people say, The time has not come for building the Lord's house.'."
+        "explanation": "Haggai 1:2 records: 'The Lord told his prophet Haggai to say this to the people:'."
       },
       {
         "id": "hag-1-q3",
         "questionNumber": 3,
         "question": "What significant action or revelation occurs in Haggai 1:3?",
         "options": [
-          "“Much has been planted, but little got in; you...”",
-          "“For this cause the heaven over you is kept...”",
-          "“Then the word of the Lord came by Haggai the prophet, saying,”",
+          "“You plant seeds but not many plants grow to...”",
+          "“That is why there has been no rain on...”",
+          "“The Lord told his prophet Haggai to say this to the people:”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“Then the word of the Lord came by Haggai the prophet, saying,”",
+        "correctAnswer": "“The Lord told his prophet Haggai to say this to the people:”",
         "reference": "Haggai 1:3",
-        "explanation": "Haggai 1:3 records: 'Then the word of the Lord came by Haggai the prophet, saying,'."
+        "explanation": "Haggai 1:3 records: 'The Lord told his prophet Haggai to say this to the people:'."
       },
       {
         "id": "hag-1-q4",
         "questionNumber": 4,
         "question": "What truth or description is highlighted in Haggai 1:4?",
         "options": [
-          "“This is what the Lord of armies has said:...”",
-          "“And by my order no rain came on the...”",
+          "“The Almighty Lord also says this: Think about how...”",
+          "“I have stopped the rain, so that your fields...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“Is it a time for you to be living in roofed...”"
+          "“‘You people are living in beautiful houses. But my temple is...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“Is it a time for you to be living in roofed...”",
+        "correctAnswer": "“‘You people are living in beautiful houses. But my temple is...”",
         "reference": "Haggai 1:4",
-        "explanation": "Haggai 1:4 records: 'Is it a time for you to be living in roofed houses while this house is a waste?'."
+        "explanation": "Haggai 1:4 records: '‘You people are living in beautiful houses. But my temple is still just a heap of stones! It is time for you to do something about it!'."
       },
       {
         "id": "hag-1-q5",
         "questionNumber": 5,
         "question": "According to the text, what happened or was commanded in Haggai 1:5?",
         "options": [
-          "“For this cause the Lord of armies has said, Give thought...”",
-          "“Go up to the hills and get wood and...”",
-          "“Then Zerubbabel, the son of Shealtiel, and Joshua, the...”",
+          "“I, the Almighty Lord, tell you this: Think carefully about what...”",
+          "“Now go up to the hills to get wood...”",
+          "“Zerubbabel and Joshua, the leader of the priests, as...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“For this cause the Lord of armies has said, Give thought...”",
+        "correctAnswer": "“I, the Almighty Lord, tell you this: Think carefully about what...”",
         "reference": "Haggai 1:5",
-        "explanation": "Haggai 1:5 records: 'For this cause the Lord of armies has said, Give thought to your ways.'."
+        "explanation": "Haggai 1:5 records: 'I, the Almighty Lord, tell you this: Think carefully about what is happening to you.'."
       },
       {
         "id": "hag-1-q6",
         "questionNumber": 6,
         "question": "What central message or instruction is delivered in Haggai 1:6?",
         "options": [
-          "“You were looking for much, and it came to...”",
-          "“Much has been planted, but little got in; you take food,...”",
-          "“Then Haggai, whom the Lord had sent to give...”",
+          "“You thought that you would get a lot of...”",
+          "“You plant seeds but not many plants grow to give you...”",
+          "“Haggai, the Lord's prophet, then spoke this message from...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“Much has been planted, but little got in; you take food,...”",
+        "correctAnswer": "“You plant seeds but not many plants grow to give you...”",
         "reference": "Haggai 1:6",
-        "explanation": "Haggai 1:6 records: 'Much has been planted, but little got in; you take food, but have not enough; you take drink, but are not full; you are clothed, but no one is warm; and he who gets payment for his work, gets it to put it into a bag full of holes.'."
+        "explanation": "Haggai 1:6 records: 'You plant seeds but not many plants grow to give you food. You never have enough to eat. You drink, but you are still thirsty. You have clothes to wear, but they do not keep you warm. When you receive money for your work, you soon need to spend it. Then you have no money left.'."
       },
       {
         "id": "hag-1-q7",
         "questionNumber": 7,
         "question": "What detail regarding God's work, covenant, or people is given in Haggai 1:7?",
         "options": [
-          "“For this cause the heaven over you is kept...”",
-          "“And the spirit of Zerubbabel, the son of Shealtiel,...”",
-          "“This is what the Lord of armies has said: Give thought...”",
+          "“That is why there has been no rain on...”",
+          "“The Lord spoke his message to Haggai, his prophet....”",
+          "“The Almighty Lord also says this: Think about how you live...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“This is what the Lord of armies has said: Give thought...”",
+        "correctAnswer": "“The Almighty Lord also says this: Think about how you live...”",
         "reference": "Haggai 1:7",
-        "explanation": "Haggai 1:7 records: 'This is what the Lord of armies has said: Give thought to your ways.'."
+        "explanation": "Haggai 1:7 records: 'The Almighty Lord also says this: Think about how you live your lives.'."
       },
       {
         "id": "hag-1-q8",
         "questionNumber": 8,
         "question": "What phrase or account is recorded in Haggai 1:8?",
         "options": [
-          "“And by my order no rain came on the...”",
-          "“In the second year of Darius the king, in...”",
+          "“I have stopped the rain, so that your fields...”",
+          "“The Lord spoke his message to Haggai, his prophet....”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“Go up to the hills and get wood and put up...”"
+          "“Now go up to the hills to get wood to build...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“Go up to the hills and get wood and put up...”",
+        "correctAnswer": "“Now go up to the hills to get wood to build...”",
         "reference": "Haggai 1:8",
-        "explanation": "Haggai 1:8 records: 'Go up to the hills and get wood and put up the house; and I will take pleasure in it and be honoured, says the Lord.'."
+        "explanation": "Haggai 1:8 records: 'Now go up to the hills to get wood to build my temple again. If you do that, I will be happy. You will worship me there as you should do.'."
       },
       {
         "id": "hag-1-q9",
         "questionNumber": 9,
         "question": "How does the passage describe the circumstances or people in Haggai 1:9?",
         "options": [
-          "“You were looking for much, and it came to little; and...”",
-          "“Then Zerubbabel, the son of Shealtiel, and Joshua, the...”",
-          "“In the second year of Darius the king, in...”",
+          "“You thought that you would get a lot of food from...”",
+          "“Zerubbabel and Joshua, the leader of the priests, as...”",
+          "“The Lord told his prophet Haggai to say this...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“You were looking for much, and it came to little; and...”",
+        "correctAnswer": "“You thought that you would get a lot of food from...”",
         "reference": "Haggai 1:9",
-        "explanation": "Haggai 1:9 records: 'You were looking for much, and it came to little; and when you got it into your house, I took it away with a breath. Why? says the Lord of armies. Because of my house which is a waste, while every man takes care of the house which is his.'."
+        "explanation": "Haggai 1:9 records: 'You thought that you would get a lot of food from the crops that grow in your fields. But only a few plants grew. When you brought your food home, it quickly disappeared. I blew it away! Why do you think all this happened? It happened because my temple is still a heap of stones. At the same time, you all work hard to build your own houses. I, the Almighty Lord, am telling you this!'."
       },
       {
         "id": "hag-1-q10",
         "questionNumber": 10,
         "question": "In the concluding portion of the chapter, what takes place in Haggai 1:10?",
         "options": [
-          "“Then Haggai, whom the Lord had sent to give...”",
-          "“For this cause the heaven over you is kept from giving...”",
-          "“These are the words of the Lord of armies:...”",
+          "“Haggai, the Lord's prophet, then spoke this message from...”",
+          "“That is why there has been no rain on your fields....”",
+          "“The Lord told his prophet Haggai to say this...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“For this cause the heaven over you is kept from giving...”",
+        "correctAnswer": "“That is why there has been no rain on your fields....”",
         "reference": "Haggai 1:10",
-        "explanation": "Haggai 1:10 records: 'For this cause the heaven over you is kept from giving dew, and the earth from giving her fruit.'."
+        "explanation": "Haggai 1:10 records: 'That is why there has been no rain on your fields. That is why your plants do not grow well.'."
       }
     ],
     "2": [
@@ -163,150 +160,150 @@
         "questionNumber": 1,
         "question": "According to Haggai 2:1, what is the opening statement or setting of this chapter?",
         "options": [
-          "It records: “In the seventh month, on the twenty-first day of the month, the w...”",
+          "It records: “On the 21st day of the seventh month, the Lord spoke again to Hag...”",
           "It begins with a prayer of thanksgiving for deliverance in Haggai",
           "It opens with a formal census and counting of the congregation",
           "It records a severe judgment pronounced against neighboring nations"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "It records: “In the seventh month, on the twenty-first day of the month, the w...”",
+        "correctAnswer": "It records: “On the 21st day of the seventh month, the Lord spoke again to Hag...”",
         "reference": "Haggai 2:1",
-        "explanation": "The chapter begins directly with the statement: 'In the seventh month, on the twenty-first day of the month, the word of the Lord came by Haggai the prophet, saying,'."
+        "explanation": "The chapter begins directly with the statement: 'On the 21st day of the seventh month, the Lord spoke again to Haggai, his prophet.'."
       },
       {
         "id": "hag-2-q2",
         "questionNumber": 2,
         "question": "What key instruction, event, or declaration is set forth in Haggai 2:2?",
         "options": [
-          "“The agreement which I made with you when you...”",
-          "“Say now to Zerubbabel, the son of Shealtiel, ruler of Judah,...”",
-          "“The second glory of this house will be greater...”",
+          "“Do not be afraid. Remember that I made a...”",
+          "“The Lord told Haggai that he must speak to Zerubbabel and...”",
+          "“This new temple will be even more beautiful than...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“Say now to Zerubbabel, the son of Shealtiel, ruler of Judah,...”",
+        "correctAnswer": "“The Lord told Haggai that he must speak to Zerubbabel and...”",
         "reference": "Haggai 2:2",
-        "explanation": "Haggai 2:2 records: 'Say now to Zerubbabel, the son of Shealtiel, ruler of Judah, and to Joshua, the son of Jehozadak, the high priest, and to the rest of the people,'."
+        "explanation": "Haggai 2:2 records: 'The Lord told Haggai that he must speak to Zerubbabel and to Joshua. Shealtiel's son, Zerubbabel, was the ruler of Judah. Jehozadak's son, Joshua was the leader of the priests. The Lord also told Haggai to speak his message to all the people who had returned to live in Jerusalem. The Lord told Haggai to say this to them all:'."
       },
       {
         "id": "hag-2-q3",
         "questionNumber": 3,
         "question": "What significant action or revelation occurs in Haggai 2:4?",
         "options": [
-          "“And I will make a shaking of all the...”",
-          "“These are the words of the Lord of armies:...”",
-          "“But now be strong, O Zerubbabel, says the Lord; and be...”",
+          "“I will cause people in all the nations of...”",
+          "“The Almighty Lord says, ‘Ask the priests a question...”",
+          "“But now, Zerubbabel, be strong and brave! Joshua too, and all...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“But now be strong, O Zerubbabel, says the Lord; and be...”",
+        "correctAnswer": "“But now, Zerubbabel, be strong and brave! Joshua too, and all...”",
         "reference": "Haggai 2:4",
-        "explanation": "Haggai 2:4 records: 'But now be strong, O Zerubbabel, says the Lord; and be strong, O Joshua, son of Jehozadak, the high priest; and be strong, all you people of the land, says the Lord, and get to work: for I am with you, says the Lord of armies:'."
+        "explanation": "Haggai 2:4 records: 'But now, Zerubbabel, be strong and brave! Joshua too, and all you people who belong here in Judah, be strong and brave! Now begin to work, because I am with you to help you. That is what I, the Almighty Lord, say to you.'."
       },
       {
         "id": "hag-2-q4",
         "questionNumber": 4,
         "question": "What truth or description is highlighted in Haggai 2:6?",
         "options": [
-          "“The second glory of this house will be greater...”",
-          "“Then Haggai said, Will any of these be made...”",
+          "“This new temple will be even more beautiful than...”",
+          "“Haggai asked the priests another question: ‘If anyone touches...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“For this is what the Lord of armies has said: In...”"
+          "“I, the Almighty Lord also tell you this: Soon, I will...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“For this is what the Lord of armies has said: In...”",
+        "correctAnswer": "“I, the Almighty Lord also tell you this: Soon, I will...”",
         "reference": "Haggai 2:6",
-        "explanation": "Haggai 2:6 records: 'For this is what the Lord of armies has said: In a short time I will make a shaking of the heavens and the earth and the sea and the dry land;'."
+        "explanation": "Haggai 2:6 records: 'I, the Almighty Lord also tell you this: Soon, I will cause the heavens and the whole earth to shake. I will also cause the sea and the land to shake.'."
       },
       {
         "id": "hag-2-q5",
         "questionNumber": 5,
         "question": "According to the text, what happened or was commanded in Haggai 2:8?",
         "options": [
-          "“The silver is mine and the gold is mine, says the...”",
-          "“These are the words of the Lord of armies:...”",
-          "“And now, give thought, looking back from this day...”",
+          "“Yes, all the silver and gold in the world belongs to...”",
+          "“The Almighty Lord says, ‘Ask the priests a question...”",
+          "“Think carefully what life was like before you started...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“The silver is mine and the gold is mine, says the...”",
+        "correctAnswer": "“Yes, all the silver and gold in the world belongs to...”",
         "reference": "Haggai 2:8",
-        "explanation": "Haggai 2:8 records: 'The silver is mine and the gold is mine, says the Lord of armies.'."
+        "explanation": "Haggai 2:8 records: 'Yes, all the silver and gold in the world belongs to me. And I promise you this:'."
       },
       {
         "id": "hag-2-q6",
         "questionNumber": 6,
         "question": "What central message or instruction is delivered in Haggai 2:10?",
         "options": [
-          "“Then Haggai said, Will any of these be made...”",
-          "“On the twenty-fourth day of the ninth month, in the second...”",
-          "“And I sent burning and wasting and a rain...”",
+          "“Haggai asked the priests another question: ‘If anyone touches...”",
+          "“The Lord spoke again to Haggai, his prophet, on the 24th...”",
+          "“I sent bad weather and other problems to destroy...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“On the twenty-fourth day of the ninth month, in the second...”",
+        "correctAnswer": "“The Lord spoke again to Haggai, his prophet, on the 24th...”",
         "reference": "Haggai 2:10",
-        "explanation": "Haggai 2:10 records: 'On the twenty-fourth day of the ninth month, in the second year of Darius, the word of the Lord came by Haggai the prophet, saying,'."
+        "explanation": "Haggai 2:10 records: 'The Lord spoke again to Haggai, his prophet, on the 24th day of the ninth month, in the second year since Darius had become king. This was the Lord's message:'."
       },
       {
         "id": "hag-2-q7",
         "questionNumber": 7,
         "question": "What detail regarding God's work, covenant, or people is given in Haggai 2:12?",
         "options": [
-          "“And now, give thought, looking back from this day...”",
-          "“Is the seed still in the store-house? have the...”",
-          "“If anyone has some holy flesh folded in the skirt of...”",
+          "“Think carefully what life was like before you started...”",
+          "“You have already eaten the crops that you stored....”",
+          "“A person might be carrying some special, holy meat in his...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“If anyone has some holy flesh folded in the skirt of...”",
+        "correctAnswer": "“A person might be carrying some special, holy meat in his...”",
         "reference": "Haggai 2:12",
-        "explanation": "Haggai 2:12 records: 'If anyone has some holy flesh folded in the skirt of his robe, will bread or soup or wine or oil or any other food be made holy if touched by his skirt? And the priests answering said, No.'."
+        "explanation": "Haggai 2:12 records: 'A person might be carrying some special, holy meat in his clothes. His clothes might then touch some food. It might be bread, or soup, or wine, or oil. If the clothes that hold the holy meat touch any other food, does that other food also become holy?’ The priests replied, ‘No.’'."
       },
       {
         "id": "hag-2-q8",
         "questionNumber": 8,
         "question": "What phrase or account is recorded in Haggai 2:14?",
         "options": [
-          "“And I sent burning and wasting and a rain...”",
-          "“Say to Zerubbabel, ruler of Judah, I will make...”",
+          "“I sent bad weather and other problems to destroy...”",
+          "“‘Speak to Zerubbabel, the ruler of Judah. Tell him...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“Then Haggai said, So is this people and so is this...”"
+          "“So Haggai told them, ‘This is what the Lord says: This...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“Then Haggai said, So is this people and so is this...”",
+        "correctAnswer": "“So Haggai told them, ‘This is what the Lord says: This...”",
         "reference": "Haggai 2:14",
-        "explanation": "Haggai 2:14 records: 'Then Haggai said, So is this people and so is this nation before me, says the Lord; and so is every work of their hands; and the offering they give there is unclean.'."
+        "explanation": "Haggai 2:14 records: 'So Haggai told them, ‘This is what the Lord says: This nation and its people are like that. They are unclean. So everything that they do is also unclean. All the gifts that they offer to me are unclean. I could not accept them.'."
       },
       {
         "id": "hag-2-q9",
         "questionNumber": 9,
         "question": "How does the passage describe the circumstances or people in Haggai 2:16?",
         "options": [
-          "“How, when anyone came to a store of twenty measures, there...”",
-          "“Is the seed still in the store-house? have the...”",
-          "“In the seventh month, on the twenty-first day of...”",
+          "“In those days, you hoped to get 20 bags of grain...”",
+          "“You have already eaten the crops that you stored....”",
+          "“On the 21st day of the seventh month, the...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“How, when anyone came to a store of twenty measures, there...”",
+        "correctAnswer": "“In those days, you hoped to get 20 bags of grain...”",
         "reference": "Haggai 2:16",
-        "explanation": "Haggai 2:16 records: 'How, when anyone came to a store of twenty measures, there were only ten: when anyone went to the wine-store to get fifty vessels full, there were only twenty.'."
+        "explanation": "Haggai 2:16 records: 'In those days, you hoped to get 20 bags of grain from your fields. But you only got ten bags. You hoped to get 50 jars of wine from your grapes. But you only got 20 jars.'."
       },
       {
         "id": "hag-2-q10",
         "questionNumber": 10,
         "question": "In the concluding portion of the chapter, what takes place in Haggai 2:18?",
         "options": [
-          "“Say to Zerubbabel, ruler of Judah, I will make...”",
-          "“And now, give thought; looking on from this day, from the...”",
-          "“Say now to Zerubbabel, the son of Shealtiel, ruler...”",
+          "“‘Speak to Zerubbabel, the ruler of Judah. Tell him...”",
+          "“Remember today, the 24th day of the ninth month. You have...”",
+          "“The Lord told Haggai that he must speak to...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“And now, give thought; looking on from this day, from the...”",
+        "correctAnswer": "“Remember today, the 24th day of the ninth month. You have...”",
         "reference": "Haggai 2:18",
-        "explanation": "Haggai 2:18 records: 'And now, give thought; looking on from this day, from the twenty-fourth day of the ninth month, from the time when the base of the Lord's house was put in its place, give thought to it.'."
+        "explanation": "Haggai 2:18 records: 'Remember today, the 24th day of the ninth month. You have started again to build my temple. Now you have built its foundation, think about what will happen from today.'."
       }
     ]
   }

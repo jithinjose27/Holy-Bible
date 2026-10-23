@@ -1,1384 +1,932 @@
 {
-  "translation": "EasyEnglish Bible",
-  "book": "Galatians",
-  "bookId": "GAL",
+  "id": "GAL",
+  "name": "Galatians",
+  "slug": "galatians",
+  "translation": "EasyEnglish Bible (EASY)",
+  "publisher": "MissionAssist UK",
+  "referenceUrl": "https://www.easyenglish.bible/bible/easy/galatians/",
   "totalChapters": 6,
-  "copyrightNotice": "Scripture quotations are from the EasyEnglish Bible / Bible in Basic English. Public Domain.",
-  "officialSourceUrl": "https://www.easyenglish.bible/bible/easy/galatians/1/",
+  "totalVerses": 149,
   "chapters": [
     {
-      "book": "Galatians",
       "chapter": 1,
       "title": "Galatians 1",
-      "subtitle": "Galatians Chapter 1",
+      "subtitle": "",
+      "totalVerses": 24,
+      "sourceUrl": "https://www.easyenglish.bible/bible/easy/galatians/1/",
       "sections": [
         {
-          "heading": "Galatians Chapter 1",
+          "heading": "Paul writes to Christians in Galatia",
           "items": [
             [
               {
                 "verse": 1,
-                "text": "Paul, an Apostle (not from men, and not through man, but through Jesus Christ, and God the Father, who made him come back from the dead),"
+                "text": "This letter is from me, Paul. I am an apostle of Jesus Christ. It is not any group of people or any one person that has given that authority to me. It is Jesus Christ himself who has chosen me to serve him. And God our Father has also sent me. He is the one who raised Jesus to become alive again after his death."
               },
               {
                 "verse": 2,
-                "text": "And all the brothers who are with me, to the churches of Galatia:"
-              },
+                "text": "All the believers who are here say ‘hello’ to you. We all send this letter to you."
+              }
+            ],
+            [
+              {
+                "verse": 2,
+                "text": "I am writing to you, the people of the churches that are in Galatia."
+              }
+            ],
+            [
               {
                 "verse": 3,
-                "text": "Grace to you and peace from God the Father and our Lord Jesus Christ,"
+                "text": "I pray that God, our Father, and the Lord Jesus Christ will continue to help you. I pray that they will give you peace in your minds."
               },
               {
                 "verse": 4,
-                "text": "Who gave himself for our sins, so that he might make us free from this present evil world, after the purpose of our God and Father:"
-              }
-            ],
-            [
-              {
-                "verse": 5,
-                "text": "To whom be the glory for ever and ever. So be it."
+                "text": "Jesus offered himself as a sacrifice because of all the wrong things that we have done. He did this to save us from all the bad things of this world in which we live now. This is what God, our Father, wanted him to do."
               },
               {
+                "verse": 5,
+                "text": "God is great and we should praise him for ever! Amen. This is true."
+              }
+            ]
+          ]
+        },
+        {
+          "heading": "There is only one true message of good news",
+          "items": [
+            [
+              {
                 "verse": 6,
-                "text": "I am surprised that you are being so quickly turned away from him whose word came to you in the grace of Christ, to good news of a different sort;"
+                "text": "I am very surprised that you are turning away so soon from God. He is the one who chose you to come to him. He did that because Christ is very kind to you. But now you want to accept a different message which some people call good news."
               },
               {
                 "verse": 7,
-                "text": "Which is not another sort: only there are some who give you trouble, desiring to make changes in the good news of Christ."
-              },
-              {
-                "verse": 8,
-                "text": "But even if we, or an angel from heaven, were to be a preacher to you of good news other than that which we have given you, let there be a curse on him."
+                "text": "But really, there is no other message from God which is good news. Some people are confusing you. They are trying to change the good news about Christ and make it something different."
               }
             ],
             [
               {
-                "verse": 9,
-                "text": "As we have said before, so say I now again, If any man is a preacher to you of any good news other than that which has been given to you, let there be a curse on him."
+                "verse": 8,
+                "text": "We have taught you the true message about God's good news. Nobody should ever teach a message that is different from that. Neither we ourselves, nor even an angel from heaven, should ever teach a different message. If anyone does that, I pray that God would curse them."
               },
+              {
+                "verse": 9,
+                "text": "We have already said this, but now I will say it again. Do not accept any message that is different from the message that we taught you. If anyone teaches a different message, I pray that God will curse them for ever."
+              }
+            ],
+            [
               {
                 "verse": 10,
-                "text": "Am I now using arguments to men, or God? or is it my desire to give men pleasure? if I was still pleasing men, I would not be a servant of Christ."
-              },
+                "text": "When I say these things, I am not trying to please people. No, it is God that I want to please. If I only wanted to make people happy, then I would not be a servant of Christ."
+              }
+            ]
+          ]
+        },
+        {
+          "heading": "Paul received his message of good news from God",
+          "items": [
+            [
               {
                 "verse": 11,
-                "text": "Because I say to you, my brothers, that the good news of which I was the preacher is not man's."
+                "text": "The good news that I tell people did not come from human ideas. I want you to know that, my friends."
               },
               {
                 "verse": 12,
-                "text": "For I did not get it from man, and I was not given teaching in it, but it came to me through revelation of Jesus Christ."
+                "text": "Nobody on earth gave it to me. Nobody taught it to me. No, it was Jesus Christ himself who showed it to me clearly."
               }
             ],
             [
               {
                 "verse": 13,
-                "text": "For news has come to you of my way of life in the past in the Jews' religion, how I was cruel without measure to the church of God, and did great damage to it:"
+                "text": "You know about the things that I did before, when I obeyed the Jewish rules. I caused the people of God's church to suffer very much. I tried to destroy those people completely."
               },
               {
                 "verse": 14,
-                "text": "And I went farther in the Jews' religion than a number of my generation among my countrymen, having a more burning interest in the beliefs handed down from my fathers."
-              },
+                "text": "I obeyed the Jewish rules better than many other Jews who were the same age as me. I tried very much to obey the ideas that our Jewish ancestors taught."
+              }
+            ],
+            [
               {
                 "verse": 15,
-                "text": "But when it was the good pleasure of God, by whom I was marked out even from my mother's body, through his grace,"
+                "text": "But God had chosen me to serve him even before I was born. I did not deserve this, but God is very kind."
               },
               {
                 "verse": 16,
-                "text": "To give the revelation of his Son in me, so that I might give the news of him to the Gentiles; then I did not take the opinion of flesh and blood,"
+                "text": "He chose to show his Son clearly to me, so that I could tell the Gentiles about him. When God chose me to do that, I did not talk about it with any person."
+              },
+              {
+                "verse": 17,
+                "text": "Nor did I go to Jerusalem to see Christ's apostles there. Those men were already his apostles before I was. But I did not go to talk to them. Instead, I went immediately to the region of Arabia. Later, I went back to the city of Damascus."
               }
             ],
             [
               {
-                "verse": 17,
-                "text": "And I went not up to Jerusalem to those who were Apostles before me; but I went away into Arabia, and again I came back to Damascus."
-              },
-              {
                 "verse": 18,
-                "text": "Then after three years I went up to Jerusalem to see Cephas, and was there with him fifteen days."
+                "text": "Then, three years later, I did go to Jerusalem to meet with Peter. I stayed with him for 15 days."
               },
               {
                 "verse": 19,
-                "text": "But of the other Apostles I saw only James, the Lord's brother."
+                "text": "I did not see any other apostles, except James, the Lord's brother."
               },
               {
                 "verse": 20,
-                "text": "Now God is witness that the things which I am writing to you are true."
-              }
-            ],
-            [
+                "text": "God knows that what I am writing to you is completely true!"
+              },
               {
                 "verse": 21,
-                "text": "Then I came to the parts of Syria and Cilicia."
+                "text": "Later, I went to different places in Syria and Cilicia."
               },
               {
                 "verse": 22,
-                "text": "And the churches of Judaea which were in Christ still had no knowledge of my face or person:"
+                "text": "The Christians in the churches in Judea had never met me."
               },
               {
                 "verse": 23,
-                "text": "Only it came to their ears that he who at one time was cruel to us is now preaching the faith which before had been attacked by him;"
+                "text": "They had only heard people say this about me: ‘At one time, this man caused us to suffer as Christians. He tried to destroy God's message about Jesus. But now he himself is telling people the good news about Jesus.’"
               },
               {
                 "verse": 24,
-                "text": "And they gave glory to God in me."
+                "text": "When the believers in Judea heard that, they praised God because of me."
               }
             ]
           ]
         }
       ],
-      "verses": [
-        {
-          "verse": 1,
-          "text": "Paul, an Apostle (not from men, and not through man, but through Jesus Christ, and God the Father, who made him come back from the dead),"
-        },
-        {
-          "verse": 2,
-          "text": "And all the brothers who are with me, to the churches of Galatia:"
-        },
-        {
-          "verse": 3,
-          "text": "Grace to you and peace from God the Father and our Lord Jesus Christ,"
-        },
-        {
-          "verse": 4,
-          "text": "Who gave himself for our sins, so that he might make us free from this present evil world, after the purpose of our God and Father:"
-        },
-        {
-          "verse": 5,
-          "text": "To whom be the glory for ever and ever. So be it."
-        },
-        {
-          "verse": 6,
-          "text": "I am surprised that you are being so quickly turned away from him whose word came to you in the grace of Christ, to good news of a different sort;"
-        },
-        {
-          "verse": 7,
-          "text": "Which is not another sort: only there are some who give you trouble, desiring to make changes in the good news of Christ."
-        },
-        {
-          "verse": 8,
-          "text": "But even if we, or an angel from heaven, were to be a preacher to you of good news other than that which we have given you, let there be a curse on him."
-        },
-        {
-          "verse": 9,
-          "text": "As we have said before, so say I now again, If any man is a preacher to you of any good news other than that which has been given to you, let there be a curse on him."
-        },
-        {
-          "verse": 10,
-          "text": "Am I now using arguments to men, or God? or is it my desire to give men pleasure? if I was still pleasing men, I would not be a servant of Christ."
-        },
-        {
-          "verse": 11,
-          "text": "Because I say to you, my brothers, that the good news of which I was the preacher is not man's."
-        },
-        {
-          "verse": 12,
-          "text": "For I did not get it from man, and I was not given teaching in it, but it came to me through revelation of Jesus Christ."
-        },
-        {
-          "verse": 13,
-          "text": "For news has come to you of my way of life in the past in the Jews' religion, how I was cruel without measure to the church of God, and did great damage to it:"
-        },
-        {
-          "verse": 14,
-          "text": "And I went farther in the Jews' religion than a number of my generation among my countrymen, having a more burning interest in the beliefs handed down from my fathers."
-        },
-        {
-          "verse": 15,
-          "text": "But when it was the good pleasure of God, by whom I was marked out even from my mother's body, through his grace,"
-        },
-        {
-          "verse": 16,
-          "text": "To give the revelation of his Son in me, so that I might give the news of him to the Gentiles; then I did not take the opinion of flesh and blood,"
-        },
-        {
-          "verse": 17,
-          "text": "And I went not up to Jerusalem to those who were Apostles before me; but I went away into Arabia, and again I came back to Damascus."
-        },
-        {
-          "verse": 18,
-          "text": "Then after three years I went up to Jerusalem to see Cephas, and was there with him fifteen days."
-        },
-        {
-          "verse": 19,
-          "text": "But of the other Apostles I saw only James, the Lord's brother."
-        },
-        {
-          "verse": 20,
-          "text": "Now God is witness that the things which I am writing to you are true."
-        },
-        {
-          "verse": 21,
-          "text": "Then I came to the parts of Syria and Cilicia."
-        },
-        {
-          "verse": 22,
-          "text": "And the churches of Judaea which were in Christ still had no knowledge of my face or person:"
-        },
-        {
-          "verse": 23,
-          "text": "Only it came to their ears that he who at one time was cruel to us is now preaching the faith which before had been attacked by him;"
-        },
-        {
-          "verse": 24,
-          "text": "And they gave glory to God in me."
-        }
-      ],
-      "totalVerses": 24,
-      "footnotes": []
+      "notes": [
+        "Jesus showed himself to Paul near the city of Damascus. SeeActs 9:1-5.",
+        "Arabia was a place south-east of Israel.",
+        "Peter was one of Jesus' 12apostles.",
+        "Syria and Cilicia were places north of Israel, south-east of Galatia, near to the Mediterranean Sea.",
+        "Judea was the southregionof Israel. Jerusalem, the capital city of Israel, was in Judea."
+      ]
     },
     {
-      "book": "Galatians",
       "chapter": 2,
       "title": "Galatians 2",
-      "subtitle": "Galatians Chapter 2",
+      "subtitle": "",
+      "totalVerses": 21,
+      "sourceUrl": "https://www.easyenglish.bible/bible/easy/galatians/2/",
       "sections": [
         {
-          "heading": "Galatians Chapter 2",
+          "heading": "The apostles in Jerusalem agree with Paul",
           "items": [
             [
               {
                 "verse": 1,
-                "text": "Then after the space of fourteen years I went up again to Jerusalem with Barnabas, taking Titus with me."
+                "text": "14 years later, I went to Jerusalem again. This time I went with Barnabas, and I also took Titus with me."
               },
               {
                 "verse": 2,
-                "text": "And I went up by revelation; and I put before them the good news which I was preaching among the Gentiles, but privately before those who were of good name, so that the work which I was or had been doing might not be without effect."
+                "text": "I went there because God had shown me that I should go. I talked to the Christian leaders there. I explained to them the good news that I teach to the Gentiles. But I talked only to those men who seemed to be the leaders. I wanted to be sure that they agreed with me. I did not want my work, both in past times and now, to be useless."
               },
               {
                 "verse": 3,
-                "text": "But not even Titus who was with me, being a Greek, was made to undergo circumcision:"
-              },
-              {
-                "verse": 4,
-                "text": "And that because of the false brothers let in secretly, who came searching out our free condition which we have in Christ Jesus, so that they might make servants of us;"
+                "text": "Titus was with me then. He is a Greek person and nobody had circumcised him. But the leaders in Jerusalem did not say that we must circumcise him."
               }
             ],
             [
               {
-                "verse": 5,
-                "text": "To whom we gave way not even for an hour; so that the true words of the good news might still be with you."
+                "verse": 4,
+                "text": "But some men did want us to obey all the Jewish rules. Those men came secretly among our group. They said that they were believers, but they were not true believers. They wanted to see how we lived as believers. They wanted to know how Christ Jesus has made us free from the Jewish rules. They wanted to make us slaves to those rules."
               },
               {
+                "verse": 5,
+                "text": "But we did not allow those men to do this to us. They wanted to spoil the true good news that you have believed. We kept that truth safe for you."
+              }
+            ],
+            [
+              {
                 "verse": 6,
-                "text": "But from those who seemed to be important (whatever they were has no weight with me: God does not take man's person into account): those who seemed to be important gave nothing new to me;"
+                "text": "The church leaders in Jerusalem did not argue with me. (They were the people who seemed to be the leaders. It does not matter to me whether they were really important people or not. God does not respect some people more than others.) Those leaders did not tell me to change the message that I teach."
               },
               {
                 "verse": 7,
-                "text": "But, quite the opposite, when they saw that I had been made responsible for preaching the good news to those without circumcision, even as Peter had been for those of the circumcision"
+                "text": "Instead, they understood that God had given a special job to me. God wanted me to tell the good news about Christ to the Gentiles. In the same way, he had told Peter to tell the good news to the Jews."
               },
               {
                 "verse": 8,
-                "text": "(Because he who was working in Peter as the Apostle of the circumcision was working no less in me among the Gentiles);"
+                "text": "God gave Peter the authority as his apostle to take his message to the Jews. God also gave me the authority to be his apostle to the Gentiles."
               }
             ],
             [
               {
                 "verse": 9,
-                "text": "When they saw the grace which was given to me, James and Cephas and John, who had the name of being pillars, gave to me and Barnabas their right hands as friends so that we might go to the Gentiles, and they to the circumcision;"
+                "text": "James, Peter and John understood that God had chosen to give this special job to me. They are the leaders that the church in Jerusalem respects. And they were happy to accept Barnabas and me as their friends. They agreed that we should take God's message to the Gentiles. They themselves would continue to speak to the Jews."
               },
               {
                 "verse": 10,
-                "text": "Only it was their desire that we would give thought to the poor; which very thing I had much in mind to do."
-              },
+                "text": "They only asked us to do this: we should remember to help the poor people among their group. This is something that I myself wanted very much to do."
+              }
+            ]
+          ]
+        },
+        {
+          "heading": "Paul speaks against Peter",
+          "items": [
+            [
               {
                 "verse": 11,
-                "text": "But when Cephas came to Antioch, I made a protest against him to his face, because he was clearly in the wrong."
+                "text": "But later, when Peter came to Antioch, I spoke against him. I told him clearly that he had done something wrong."
               },
               {
                 "verse": 12,
-                "text": "For before certain men came from James, he did take food with the Gentiles: but when they came, he went back and made himself separate, fearing those who were of the circumcision."
+                "text": "When he first arrived in Antioch, Peter had been eating meals with the Gentile believers there. Then James sent some Jewish believers from Jerusalem to Antioch. After those men had arrived, Peter started to keep himself separate from the Gentiles. He stopped eating meals with them. He was afraid of those Jews who wanted to circumcise the Gentile believers."
+              },
+              {
+                "verse": 13,
+                "text": "The other Jewish believers in Antioch also did what Peter did. They became hypocrites like him. Even Barnabas agreed and he copied their example."
               }
             ],
             [
               {
-                "verse": 13,
-                "text": "And the rest of the Jews went after him, so that even Barnabas was overcome by their false ways."
-              },
-              {
                 "verse": 14,
-                "text": "But when I saw that they were not living uprightly in agreement with the true words of the good news, I said to Cephas before them all, If you, being a Jew, are living like the Gentiles, and not like the Jews, how will you make the Gentiles do the same as the Jews?"
-              },
+                "text": "But I could see that they were wrong to do this. They were not living in a way that agrees with God's true message. So I spoke to Peter in front of all of them. I said to him, ‘You were born as a Jew, but you have been living like a Gentile. As a believer, you no longer obey all the Jewish rules. So do not try to make Gentile believers obey those Jewish rules.’"
+              }
+            ],
+            [
               {
                 "verse": 15,
-                "text": "We being Jews by birth, and not sinners of the Gentiles,"
+                "text": "We were born as Jewish people. We are not Gentiles who have never obeyed God's rules."
               },
               {
                 "verse": 16,
-                "text": "Being conscious that a man does not get righteousness by the works of the law, but through faith in Jesus Christ, we had faith in Christ Jesus, so that we might get righteousness by faith in Christ, and not by the works of the law: because by the works of the law will no flesh get righteousness."
+                "text": "But we do not become right with God because we obey his Law. We know that. A person only becomes right with God when they believe in Jesus Christ. And we, as Jewish believers, have believed in Christ Jesus. We trust in what Christ has done. Because of that, we have become right with God. It is not because we obey God's Law that he accepts us. Nobody becomes right with God only because they obey the rules in God's Law."
               }
             ],
             [
               {
                 "verse": 17,
-                "text": "But if, while we were desiring to get righteousness through Christ, we ourselves were seen to be sinners, is Christ a servant of sin? In no way!"
+                "text": "So, we Jews become right with God when we believe in Christ. As a result, we realize that we may not always obey all the Jewish rules. But that does not mean that Christ causes us to do wrong things. Certainly, it does not mean that!"
               },
               {
                 "verse": 18,
-                "text": "For if I put up again those things which I gave to destruction, I am seen to be a wrongdoer."
+                "text": "I would really be doing something wrong if I tried to obey all those rules again. I would be building again something that I had destroyed. That would really be against God's Law."
               },
               {
                 "verse": 19,
-                "text": "For I, through the law, have become dead to the law, so that I might be living to God."
-              },
-              {
-                "verse": 20,
-                "text": "I have been put to death on the cross with Christ; still I am living; no longer I, but Christ is living in me; and that life which I now am living in the flesh I am living by faith, the faith of the Son of God, who in love for me, gave himself up for me."
+                "text": "God's Law showed me that I could never obey all its rules. So I became like a dead person, free from the authority of those rules. That means that I can now live to please God."
               }
             ],
             [
               {
+                "verse": 20,
+                "text": "Christ died on the cross on my behalf. It is as if I died there with him. So I do not live my own life any more. Instead, Christ lives in me. That is the life that I now live in my body. I live because I trust what Christ, the Son of God, has done for me. He loved me so much that he died on my behalf."
+              },
+              {
                 "verse": 21,
-                "text": "I do not make the grace of God of no effect: because if righteousness is through the law, then Christ was put to death for nothing."
+                "text": "So I do not refuse to accept the kind gift of God. If the rules of God's Law could make me right with him, then Christ would have died for no reason!"
               }
             ]
           ]
         }
       ],
-      "verses": [
-        {
-          "verse": 1,
-          "text": "Then after the space of fourteen years I went up again to Jerusalem with Barnabas, taking Titus with me."
-        },
-        {
-          "verse": 2,
-          "text": "And I went up by revelation; and I put before them the good news which I was preaching among the Gentiles, but privately before those who were of good name, so that the work which I was or had been doing might not be without effect."
-        },
-        {
-          "verse": 3,
-          "text": "But not even Titus who was with me, being a Greek, was made to undergo circumcision:"
-        },
-        {
-          "verse": 4,
-          "text": "And that because of the false brothers let in secretly, who came searching out our free condition which we have in Christ Jesus, so that they might make servants of us;"
-        },
-        {
-          "verse": 5,
-          "text": "To whom we gave way not even for an hour; so that the true words of the good news might still be with you."
-        },
-        {
-          "verse": 6,
-          "text": "But from those who seemed to be important (whatever they were has no weight with me: God does not take man's person into account): those who seemed to be important gave nothing new to me;"
-        },
-        {
-          "verse": 7,
-          "text": "But, quite the opposite, when they saw that I had been made responsible for preaching the good news to those without circumcision, even as Peter had been for those of the circumcision"
-        },
-        {
-          "verse": 8,
-          "text": "(Because he who was working in Peter as the Apostle of the circumcision was working no less in me among the Gentiles);"
-        },
-        {
-          "verse": 9,
-          "text": "When they saw the grace which was given to me, James and Cephas and John, who had the name of being pillars, gave to me and Barnabas their right hands as friends so that we might go to the Gentiles, and they to the circumcision;"
-        },
-        {
-          "verse": 10,
-          "text": "Only it was their desire that we would give thought to the poor; which very thing I had much in mind to do."
-        },
-        {
-          "verse": 11,
-          "text": "But when Cephas came to Antioch, I made a protest against him to his face, because he was clearly in the wrong."
-        },
-        {
-          "verse": 12,
-          "text": "For before certain men came from James, he did take food with the Gentiles: but when they came, he went back and made himself separate, fearing those who were of the circumcision."
-        },
-        {
-          "verse": 13,
-          "text": "And the rest of the Jews went after him, so that even Barnabas was overcome by their false ways."
-        },
-        {
-          "verse": 14,
-          "text": "But when I saw that they were not living uprightly in agreement with the true words of the good news, I said to Cephas before them all, If you, being a Jew, are living like the Gentiles, and not like the Jews, how will you make the Gentiles do the same as the Jews?"
-        },
-        {
-          "verse": 15,
-          "text": "We being Jews by birth, and not sinners of the Gentiles,"
-        },
-        {
-          "verse": 16,
-          "text": "Being conscious that a man does not get righteousness by the works of the law, but through faith in Jesus Christ, we had faith in Christ Jesus, so that we might get righteousness by faith in Christ, and not by the works of the law: because by the works of the law will no flesh get righteousness."
-        },
-        {
-          "verse": 17,
-          "text": "But if, while we were desiring to get righteousness through Christ, we ourselves were seen to be sinners, is Christ a servant of sin? In no way!"
-        },
-        {
-          "verse": 18,
-          "text": "For if I put up again those things which I gave to destruction, I am seen to be a wrongdoer."
-        },
-        {
-          "verse": 19,
-          "text": "For I, through the law, have become dead to the law, so that I might be living to God."
-        },
-        {
-          "verse": 20,
-          "text": "I have been put to death on the cross with Christ; still I am living; no longer I, but Christ is living in me; and that life which I now am living in the flesh I am living by faith, the faith of the Son of God, who in love for me, gave himself up for me."
-        },
-        {
-          "verse": 21,
-          "text": "I do not make the grace of God of no effect: because if righteousness is through the law, then Christ was put to death for nothing."
-        }
-      ],
-      "totalVerses": 21,
-      "footnotes": []
+      "notes": [
+        "Titus was not aJew, and nobody had evercircumcisedhim. Some Jewish Christians said that allbelieversmust be circumcised."
+      ]
     },
     {
-      "book": "Galatians",
       "chapter": 3,
       "title": "Galatians 3",
-      "subtitle": "Galatians Chapter 3",
+      "subtitle": "",
+      "totalVerses": 29,
+      "sourceUrl": "https://www.easyenglish.bible/bible/easy/galatians/3/",
       "sections": [
         {
-          "heading": "Galatians Chapter 3",
+          "heading": "God gives his Spirit to those who believe in Jesus",
           "items": [
             [
               {
                 "verse": 1,
-                "text": "O foolish Galatians, by what strange powers have you been tricked, to whom it was made clear that Jesus Christ was put to death on the cross?"
+                "text": "You Christians in Galatia are foolish! Someone has taught you to believe crazy ideas! I taught you clearly that Jesus Christ died on the cross as a sacrifice on our behalf. You understood that."
               },
               {
                 "verse": 2,
-                "text": "Give me an answer to this one question, Did the Spirit come to you through the works of the law, or by the hearing of faith?"
+                "text": "I only want you to tell me one thing: When you received God's Spirit, was it because you had obeyed the rules of God's Law? No! You received God's Spirit because you believed the message about Christ."
               },
               {
                 "verse": 3,
-                "text": "Are you so foolish? having made a start in the Spirit, will you now be made complete in the flesh?"
+                "text": "Do not think like fools! You first became believers by the help of God's Spirit. So do not think that you can use your own human strength to complete God's work."
               },
               {
                 "verse": 4,
-                "text": "Did you undergo such a number of things to no purpose? if it is in fact to no purpose."
+                "text": "You have suffered in many ways as believers. Surely this could not be without any good purpose."
               }
             ],
             [
               {
                 "verse": 5,
-                "text": "He who gives you the Spirit, and does works of power among you, is it by the works of law, or by the hearing of faith?"
-              },
-              {
-                "verse": 6,
-                "text": "Even as Abraham had faith in God, and it was put to his account as righteousness."
-              },
-              {
-                "verse": 7,
-                "text": "Be certain, then, that those who are of faith, the same are sons of Abraham."
-              },
-              {
-                "verse": 8,
-                "text": "And the holy Writings, seeing before the event that God would give the Gentiles righteousness by faith, gave the good news before to Abraham, saying, In you will all the nations have a blessing."
+                "text": "God gives you the gift of his Spirit. He also does powerful miracles among you. But he does not do these things because you obey the rules of his Law. No, he does them because you believed the message about Christ."
               }
             ],
             [
               {
-                "verse": 9,
-                "text": "So then those who are of faith have a part in the blessing of Abraham who was full of faith."
+                "verse": 6,
+                "text": "Think about our ancestor Abraham. The Bible says, ‘Abraham believed God. As a result, God accepted Abraham as right with him’."
               },
               {
+                "verse": 7,
+                "text": "So you should understand who Abraham's children really are. They are the people who trust God."
+              }
+            ],
+            [
+              {
+                "verse": 8,
+                "text": "The Bible already said what would happen at a future time. It said that God would make the Gentiles right with himself, if they believed in him. God showed this good news to Abraham a long time before it happened. He said to Abraham, ‘I will bless people from all nations because of you.’"
+              },
+              {
+                "verse": 9,
+                "text": "So God did not bless only Abraham when he trusted God. God also blesses all people who trust him as Abraham did."
+              }
+            ],
+            [
+              {
                 "verse": 10,
-                "text": "For all who are of the works of the law are under a curse: because it is said in the Writings, A curse is on everyone who does not keep on doing all the things which are ordered in the book of the law."
+                "text": "Some people try to obey all the rules of God's Law. They think that they will become right with God if they do this very well. But those people are under a curse of God's punishment. It is written in the Bible: ‘God will curse anyone who does not continue to obey all the rules in his Law.’"
               },
               {
                 "verse": 11,
-                "text": "Now that no man gets righteousness by the law in the eyes of God, is clear; because, The upright will be living by faith."
+                "text": "We know that the Law cannot cause anyone to become right with God. The Bible says, ‘The righteous person will live because he trusts God.’"
               },
               {
                 "verse": 12,
-                "text": "And the law is not of faith; but, He who does them will have life by them."
+                "text": "But the Law does not tell people to trust God. It tells people about all the things that they must do. The Law says, ‘The person who obeys all the rules in God's Law will live’."
               }
             ],
             [
               {
                 "verse": 13,
-                "text": "Christ has made us free from the curse of the law, having become a curse for us: because it is said in the Writings, A curse on everyone who is put to death by hanging on a tree:"
+                "text": "So God's Law puts us under a curse, because we have not completely obeyed it. But Christ took that curse away from us, because God punished him instead of us. The Bible says, ‘If someone's body is hanging on a tree, it shows that God has cursed him.’"
               },
               {
                 "verse": 14,
-                "text": "So that on the Gentiles might come the blessing of Abraham in Christ Jesus; in order that we through faith might have the Spirit which God had undertaken to give."
-              },
+                "text": "Christ died on the cross so that God would bless the Gentiles, as he promised to Abraham. And if we believe in Christ, we can receive God's Spirit that he promised."
+              }
+            ]
+          ]
+        },
+        {
+          "heading": "God's promise to Abraham still has authority",
+          "items": [
+            [
               {
                 "verse": 15,
-                "text": "Brothers, as men would say, even a man's agreement, when it has been made certain, may not be put on one side, or have additions made to it."
+                "text": "My Christian friends, I will use an example from our lives. Two people may make an agreement together and they both agree to it properly. If they do that, nobody else can change that agreement. Nobody can take away its authority."
               },
               {
                 "verse": 16,
-                "text": "Now to Abraham were the undertakings given, and to his seed. He says not, And to seeds, as of a great number; but as of one, he says, And to your seed, which is Christ."
+                "text": "In the same way, God promised to bless Abraham and Abraham's descendant. The Bible does not say ‘descendants’. It does not speak about ‘many people’. No, God promised to bless Abraham's descendant. He speaks about one person, and that person is Christ."
               }
             ],
             [
               {
                 "verse": 17,
-                "text": "Now this I say: The law, which came four hundred and thirty years after, does not put an end to the agreement made before by God, so as to make the undertaking without effect."
+                "text": "What I mean is this: God made an agreement with Abraham. He promised to bless him. Then, 430 years later, God gave his Law to Moses for his people. But that Law could not take away the authority of God's covenant with Abraham. It could not stop what God had already promised."
               },
               {
                 "verse": 18,
-                "text": "Because if the heritage is by the law, it is no longer dependent on the word of God; but God gave it to Abraham by his word."
-              },
+                "text": "God has promised to give good things to his children. But that does not happen as a result of God's Law. If that were true, then we would not receive God's good things as a result of his promise. But God gave those good things to Abraham as a gift, because he had promised to bless Abraham."
+              }
+            ]
+          ]
+        },
+        {
+          "heading": "Paul explains the purpose of God's Law",
+          "items": [
+            [
               {
                 "verse": 19,
-                "text": "What then is the law? It was an addition made because of sin, till the coming of the seed to whom the undertaking had been given; and it was ordered through angels by the hand of a go-between."
+                "text": "So why did God give his Law to his people after his promise to Abraham? He gave his Law to show them which things are wrong. It would have authority until Abraham's special descendant would come. This was the descendant that God had promised to bless. God used angels to give his Law to his people. It was Moses who received the Law from God. Moses then took it to God's people."
               },
               {
                 "verse": 20,
-                "text": "Now a go-between is not a go-between of one; but God is one."
+                "text": "But God himself gave his promise to Abraham. It was not necessary to have somebody between them, like Moses."
               }
             ],
             [
               {
                 "verse": 21,
-                "text": "Is the law then against the words of God? in no way; because if there had been a law which was able to give life, truly righteousness would have been by the law."
+                "text": "So does God's Law work against God's promises? No, certainly that is not true! It is not possible for the rules of any law to give us life with God. If that were possible, then God would have accepted us as right if we obeyed those rules."
               },
               {
                 "verse": 22,
-                "text": "However, the holy Writings have put all things under sin, so that that for which God gave the undertaking, based on faith in Jesus Christ, might be given to those who have such faith."
-              },
+                "text": "But the Bible says that sin has power over everyone. Nobody can be free from that. This means that we can only receive what God has promised when we trust Jesus Christ. God gives his promise to those who believe."
+              }
+            ],
+            [
               {
                 "verse": 23,
-                "text": "But before faith came, we were kept in prison under the law, waiting for the revelation of the faith which was to come."
+                "text": "Before God showed us the way of faith, the Law had authority over us. God's Law kept us safe, until God showed us that we must believe in Christ."
               },
               {
                 "verse": 24,
-                "text": "So the law has been a servant to take us to Christ, so that we might have righteousness by faith."
+                "text": "God's Law was like our guide. It kept us safe until Christ came. Then God could accept us as right because we trusted Christ."
+              },
+              {
+                "verse": 25,
+                "text": "But the way of faith in Christ has now come. So we do not need God's Law to keep us safe any longer."
               }
             ],
             [
               {
-                "verse": 25,
-                "text": "But now that faith is come, we are no longer under a servant."
-              },
-              {
                 "verse": 26,
-                "text": "Because you are all sons of God through faith in Christ Jesus."
+                "text": "All of you are God's children because you believe in Christ Jesus."
               },
               {
                 "verse": 27,
-                "text": "For all those of you who were given baptism into Christ did put on Christ."
+                "text": "They baptized you as believers in Christ. This means that you have put on Christ, like someone who puts on new clothes."
               },
               {
                 "verse": 28,
-                "text": "There is no Jew or Greek, servant or free, male or female: because you are all one in Jesus Christ."
-              }
-            ],
-            [
+                "text": "It does not matter whether you are a Jew or a Gentile. It does not matter whether you are a slave or a free person. It does not matter whether you are a man or a woman. You all belong together because you all belong to Christ Jesus."
+              },
               {
                 "verse": 29,
-                "text": "And if you are Christ's, then you are Abraham's seed, and yours is the heritage by the right of God's undertaking given to Abraham."
+                "text": "And if you belong to Christ, then you are descendants of Abraham. Because of that, you will receive all the good things that God promised to Abraham."
               }
             ]
           ]
         }
       ],
-      "verses": [
-        {
-          "verse": 1,
-          "text": "O foolish Galatians, by what strange powers have you been tricked, to whom it was made clear that Jesus Christ was put to death on the cross?"
-        },
-        {
-          "verse": 2,
-          "text": "Give me an answer to this one question, Did the Spirit come to you through the works of the law, or by the hearing of faith?"
-        },
-        {
-          "verse": 3,
-          "text": "Are you so foolish? having made a start in the Spirit, will you now be made complete in the flesh?"
-        },
-        {
-          "verse": 4,
-          "text": "Did you undergo such a number of things to no purpose? if it is in fact to no purpose."
-        },
-        {
-          "verse": 5,
-          "text": "He who gives you the Spirit, and does works of power among you, is it by the works of law, or by the hearing of faith?"
-        },
-        {
-          "verse": 6,
-          "text": "Even as Abraham had faith in God, and it was put to his account as righteousness."
-        },
-        {
-          "verse": 7,
-          "text": "Be certain, then, that those who are of faith, the same are sons of Abraham."
-        },
-        {
-          "verse": 8,
-          "text": "And the holy Writings, seeing before the event that God would give the Gentiles righteousness by faith, gave the good news before to Abraham, saying, In you will all the nations have a blessing."
-        },
-        {
-          "verse": 9,
-          "text": "So then those who are of faith have a part in the blessing of Abraham who was full of faith."
-        },
-        {
-          "verse": 10,
-          "text": "For all who are of the works of the law are under a curse: because it is said in the Writings, A curse is on everyone who does not keep on doing all the things which are ordered in the book of the law."
-        },
-        {
-          "verse": 11,
-          "text": "Now that no man gets righteousness by the law in the eyes of God, is clear; because, The upright will be living by faith."
-        },
-        {
-          "verse": 12,
-          "text": "And the law is not of faith; but, He who does them will have life by them."
-        },
-        {
-          "verse": 13,
-          "text": "Christ has made us free from the curse of the law, having become a curse for us: because it is said in the Writings, A curse on everyone who is put to death by hanging on a tree:"
-        },
-        {
-          "verse": 14,
-          "text": "So that on the Gentiles might come the blessing of Abraham in Christ Jesus; in order that we through faith might have the Spirit which God had undertaken to give."
-        },
-        {
-          "verse": 15,
-          "text": "Brothers, as men would say, even a man's agreement, when it has been made certain, may not be put on one side, or have additions made to it."
-        },
-        {
-          "verse": 16,
-          "text": "Now to Abraham were the undertakings given, and to his seed. He says not, And to seeds, as of a great number; but as of one, he says, And to your seed, which is Christ."
-        },
-        {
-          "verse": 17,
-          "text": "Now this I say: The law, which came four hundred and thirty years after, does not put an end to the agreement made before by God, so as to make the undertaking without effect."
-        },
-        {
-          "verse": 18,
-          "text": "Because if the heritage is by the law, it is no longer dependent on the word of God; but God gave it to Abraham by his word."
-        },
-        {
-          "verse": 19,
-          "text": "What then is the law? It was an addition made because of sin, till the coming of the seed to whom the undertaking had been given; and it was ordered through angels by the hand of a go-between."
-        },
-        {
-          "verse": 20,
-          "text": "Now a go-between is not a go-between of one; but God is one."
-        },
-        {
-          "verse": 21,
-          "text": "Is the law then against the words of God? in no way; because if there had been a law which was able to give life, truly righteousness would have been by the law."
-        },
-        {
-          "verse": 22,
-          "text": "However, the holy Writings have put all things under sin, so that that for which God gave the undertaking, based on faith in Jesus Christ, might be given to those who have such faith."
-        },
-        {
-          "verse": 23,
-          "text": "But before faith came, we were kept in prison under the law, waiting for the revelation of the faith which was to come."
-        },
-        {
-          "verse": 24,
-          "text": "So the law has been a servant to take us to Christ, so that we might have righteousness by faith."
-        },
-        {
-          "verse": 25,
-          "text": "But now that faith is come, we are no longer under a servant."
-        },
-        {
-          "verse": 26,
-          "text": "Because you are all sons of God through faith in Christ Jesus."
-        },
-        {
-          "verse": 27,
-          "text": "For all those of you who were given baptism into Christ did put on Christ."
-        },
-        {
-          "verse": 28,
-          "text": "There is no Jew or Greek, servant or free, male or female: because you are all one in Jesus Christ."
-        },
-        {
-          "verse": 29,
-          "text": "And if you are Christ's, then you are Abraham's seed, and yours is the heritage by the right of God's undertaking given to Abraham."
-        }
-      ],
-      "totalVerses": 29,
-      "footnotes": []
+      "notes": [
+        "Abraham was the firstancestorof the Israelitenation. He was the father of Isaac and the grandfather of Jacob.",
+        "SeeGenesis 15:6.",
+        "SeeGenesis 12:3;18:18;22:18.",
+        "SeeDeuteronomy 27:26.",
+        "SeeHabakkuk 2:4.Romans 1:17andHebrews 10:38also use these words.",
+        "SeeLeviticus 18:5.",
+        "SeeDeuteronomy 21:23.",
+        "SeeGenesis 13:15;24:7.",
+        "Moses was a great leader of the Israelites, who gave God's laws to the people.",
+        "The Jews believed that God sentangelsto Moses onMountSinai. SeeExodus 19-20, andActs 7:38,53."
+      ]
     },
     {
-      "book": "Galatians",
       "chapter": 4,
       "title": "Galatians 4",
-      "subtitle": "Galatians Chapter 4",
+      "subtitle": "",
+      "totalVerses": 31,
+      "sourceUrl": "https://www.easyenglish.bible/bible/easy/galatians/4/",
       "sections": [
         {
-          "heading": "Galatians Chapter 4",
+          "heading": "Paul explains what it means to be God's children",
           "items": [
             [
               {
                 "verse": 1,
-                "text": "But I say that as long as the son is a child, he is in no way different from a servant, though he is lord of all;"
+                "text": "I will explain it like this. Think about a son who will one day receive what belongs to his father. While he is still a child, he is no better than a slave in the family. This is true, even though all his father's things belong to him."
               },
               {
                 "verse": 2,
-                "text": "But is under keepers and managers till the time fixed by the father."
+                "text": "He has to wait until the time that his father has decided. Until then, the son has to obey his teachers and the guides who take care of him."
               },
               {
                 "verse": 3,
-                "text": "So we, when we were young, were kept under the first rules of the world;"
-              },
-              {
-                "verse": 4,
-                "text": "But when the time had come, God sent out his Son, made of a woman, made under the law,"
+                "text": "In the same way, we were children like that in God's family. The spiritual powers that rule this world controlled us as their slaves."
               }
             ],
             [
               {
+                "verse": 4,
+                "text": "But when the time that God had decided arrived, he sent his Son into the world. A human mother gave birth to him. He was born a Jew, under the authority of God's Law."
+              },
+              {
                 "verse": 5,
-                "text": "That he might make them free who were under the law, and that we might be given the place of sons."
+                "text": "In this way, he made us free from the authority of the Law. Before that, we were like slaves under the Law. But God's Son paid our debt, so that God would accept us as his own children."
               },
               {
                 "verse": 6,
-                "text": "And because you are sons, God has sent out the Spirit of his Son into our hearts, saying, Abba, Father."
+                "text": "Because we are his children, God has sent his Son's Spirit to live in us. His Spirit causes us to call God, ‘Father, my Father’."
               },
               {
                 "verse": 7,
-                "text": "So that you are no longer a servant, but a son; and if a son, then the heritage of God is yours."
-              },
-              {
-                "verse": 8,
-                "text": "But at that time, having no knowledge of God, you were servants to those who by right are no gods:"
+                "text": "So you are not slaves any more, but you are God's children. And because of that, you will receive all the good things that God has promised."
               }
-            ],
+            ]
+          ]
+        },
+        {
+          "heading": "Paul warns Christians not to believe in special rules",
+          "items": [
             [
               {
+                "verse": 8,
+                "text": "Before, when you did not know God, you served false gods. They were not gods at all, but you were their slaves."
+              },
+              {
                 "verse": 9,
-                "text": "But now that you have come to have knowledge of God, or more truly, God has knowledge of you, how is it that you go back again to the poor and feeble first things, desiring to be servants to them again?"
+                "text": "But now you do know God. I should really say that God knows you. So you must not turn back to serve the powers that rule this world. They are weak and their ideas are useless. Do not choose to become their slaves again!"
               },
               {
                 "verse": 10,
-                "text": "You keep days, and months, and fixed times, and years."
+                "text": "You obey rules about certain special days, or months, or seasons, or years. That is how you want to please God."
               },
               {
                 "verse": 11,
-                "text": "I am in fear of you, that I may have been working for you to no purpose."
-              },
-              {
-                "verse": 12,
-                "text": "My desire for you, brothers, is that you may be as I am, because I am as you are. You have done me no wrong;"
+                "text": "So I worry about you. I worked very hard to help you. I do not want my work to have no results."
               }
             ],
             [
               {
+                "verse": 12,
+                "text": "My Christian friends, please become like me! Please do this, because when I was with you, I became like you. You did not then do anything wrong to me."
+              },
+              {
                 "verse": 13,
-                "text": "But you have knowledge that with a feeble body I was preaching the good news to you the first time;"
+                "text": "Remember that I first came to you because I was ill. That was when I first told God's good news to you."
               },
               {
                 "verse": 14,
-                "text": "And you did not have a poor opinion of me because of the trouble in my flesh, or put shame on it; but you took me to your hearts as an angel of God, even as Christ Jesus."
+                "text": "I caused trouble for you because I was ill. But you did not insult me. You did not tell me to go away. Instead, you welcomed me as if I were an angel from God, or even Christ Jesus himself."
               },
               {
                 "verse": 15,
-                "text": "Where then is that happy condition of yours? because I give you witness, that, if possible, you would have taken out your eyes and given them to me."
+                "text": "But now you do not seem to be happy with me. I can say that you would have pulled out your own eyes to help me. You would have given them to me, if that had been possible."
               },
               {
                 "verse": 16,
-                "text": "So then am I no longer your friend, because I give you true words?"
+                "text": "But now I seem to have become your enemy! Is that because I am telling you God's true message?"
               }
             ],
             [
               {
                 "verse": 17,
-                "text": "Their interest in you is not good; but their desire is that you may be shut out, so that you may go after them."
+                "text": "Those false teachers try very much to please you. But they do not really want what is good for you. They want to keep you for themselves. Then you will only want to listen to them."
               },
               {
                 "verse": 18,
-                "text": "But it is good to have an interest in a good cause at all times, and not only when I am present with you."
+                "text": "If someone really wants to help you, it is good for them to try to please you. But they should do it all the time, not only when I am there with you."
               },
               {
                 "verse": 19,
-                "text": "My children, of whom I am again in birth-pains till Christ is formed in you,"
+                "text": "My children, I feel like a mother who is giving birth to you again. I will continue to feel that kind of pain until you have Christ's nature in your lives."
               },
               {
                 "verse": 20,
-                "text": "Truly my desire is to be present with you now, using a changed voice; for I am troubled about you."
+                "text": "I would like very much to be there with you now. Then I could change the way that I speak to you. As it is, I do not know the best way to help you."
               }
-            ],
+            ]
+          ]
+        },
+        {
+          "heading": "Paul explains about Hagar and Sarah",
+          "items": [
             [
               {
                 "verse": 21,
-                "text": "Say, you whose desire it is to be under the law, do you not give ear to the law?"
+                "text": "I say this to you people who want God's Law to have authority over you. Think carefully about what that Law really says."
               },
               {
                 "verse": 22,
-                "text": "Because it is in the Writings, that Abraham had two sons, one by the servant-woman, and one by the free woman."
+                "text": "The Bible says that Abraham had two sons. The mother of one of them was a slave. The mother of the other son was a free woman."
               },
               {
                 "verse": 23,
-                "text": "Now the son by the servant-woman has his birth after the flesh; but the son by the free woman has his birth through the undertaking of God."
-              },
-              {
-                "verse": 24,
-                "text": "Which things have a secret sense; because these women are the two agreements; one from the mountain of Sinai, giving birth to servants, which is Hagar."
+                "text": "Hagar was a slave. Her son was born as a result of what Abraham himself decided. But Abraham's wife, Sarah, gave birth to the other son. That son was born as a result of what God had promised to Abraham."
               }
             ],
             [
               {
-                "verse": 25,
-                "text": "Now this Hagar is the mountain Sinai in Arabia, and is the image of the Jerusalem which now is: which is a servant with her children."
+                "verse": 24,
+                "text": "These two women are like pictures of two covenants that God made with his people. Hagar is like the covenant that God made on Mount Sinai. That covenant causes people to become slaves."
               },
               {
+                "verse": 25,
+                "text": "Hagar is like a picture of Mount Sinai in Arabia. Also, she is like the city of Jerusalem here on earth now, because that city and its people are slaves under the authority of God's Law."
+              }
+            ],
+            [
+              {
                 "verse": 26,
-                "text": "But the Jerusalem on high is free, which is our mother."
+                "text": "But Abraham's wife, Sarah, is a picture of the new Jerusalem that is above. Sarah was a free person, not a slave, and she is like our mother."
               },
               {
                 "verse": 27,
-                "text": "For it is in the Writings, You who have never given birth, be glad; give cries of joy, you who have had no birth-pains; for the children of her who has been given up by her husband are more than those of the woman who has a husband."
-              },
-              {
-                "verse": 28,
-                "text": "Now we, brothers, as Isaac was, are the children of the undertaking of God."
+                "text": "It says in the Bible:"
               }
             ],
             [
               {
+                "verse": 27,
+                "text": "‘Be happy, you woman who could not have any children!"
+              }
+            ],
+            [
+              {
+                "verse": 27,
+                "text": "You have never known the pain of a child's birth."
+              }
+            ],
+            [
+              {
+                "verse": 27,
+                "text": "But now shout loudly because you are so happy!"
+              }
+            ],
+            [
+              {
+                "verse": 27,
+                "text": "Yes, be happy, because the lonely woman now has more children"
+              }
+            ],
+            [
+              {
+                "verse": 27,
+                "text": "than the woman who has a husband.’"
+              }
+            ],
+            [
+              {
+                "verse": 27,
+                "text": "28 You, my Christian friends, are like Sarah's son, Isaac. Like him, you became God's children as a result of God's promise. 29 Isaac was born because of God's Spirit. The son who was born in the human way gave much trouble to Isaac at that time. You who are believers now receive the same kind of trouble. 30 But this is what it says in the Bible: ‘Send away the woman who is a slave and her son. That woman's son will never receive anything from his father. The son of the free woman will receive all those good things.’ 31 So, my Christian friends, we are not children of the woman who is a slave. No, we are children of the free woman.4:30"
+              }
+            ],
+            [
+              {
+                "verse": 28,
+                "text": "You, my Christian friends, are like Sarah's son, Isaac. Like him, you became God's children as a result of God's promise."
+              },
+              {
                 "verse": 29,
-                "text": "But as in those days he who had birth after the flesh was cruel to him who had birth after the Spirit, even so it is now."
+                "text": "Isaac was born because of God's Spirit. The son who was born in the human way gave much trouble to Isaac at that time. You who are believers now receive the same kind of trouble."
               },
               {
                 "verse": 30,
-                "text": "What then do the Writings say? Send away the servant-woman and her son; for the son of the servant-woman will not have a part in the heritage with the son of the free woman."
+                "text": "But this is what it says in the Bible: ‘Send away the woman who is a slave and her son. That woman's son will never receive anything from his father. The son of the free woman will receive all those good things.’"
               },
               {
                 "verse": 31,
-                "text": "So, brothers, we are not children of the servant-woman, but of the free woman."
+                "text": "So, my Christian friends, we are not children of the woman who is a slave. No, we are children of the free woman."
               }
             ]
           ]
         }
       ],
-      "verses": [
-        {
-          "verse": 1,
-          "text": "But I say that as long as the son is a child, he is in no way different from a servant, though he is lord of all;"
-        },
-        {
-          "verse": 2,
-          "text": "But is under keepers and managers till the time fixed by the father."
-        },
-        {
-          "verse": 3,
-          "text": "So we, when we were young, were kept under the first rules of the world;"
-        },
-        {
-          "verse": 4,
-          "text": "But when the time had come, God sent out his Son, made of a woman, made under the law,"
-        },
-        {
-          "verse": 5,
-          "text": "That he might make them free who were under the law, and that we might be given the place of sons."
-        },
-        {
-          "verse": 6,
-          "text": "And because you are sons, God has sent out the Spirit of his Son into our hearts, saying, Abba, Father."
-        },
-        {
-          "verse": 7,
-          "text": "So that you are no longer a servant, but a son; and if a son, then the heritage of God is yours."
-        },
-        {
-          "verse": 8,
-          "text": "But at that time, having no knowledge of God, you were servants to those who by right are no gods:"
-        },
-        {
-          "verse": 9,
-          "text": "But now that you have come to have knowledge of God, or more truly, God has knowledge of you, how is it that you go back again to the poor and feeble first things, desiring to be servants to them again?"
-        },
-        {
-          "verse": 10,
-          "text": "You keep days, and months, and fixed times, and years."
-        },
-        {
-          "verse": 11,
-          "text": "I am in fear of you, that I may have been working for you to no purpose."
-        },
-        {
-          "verse": 12,
-          "text": "My desire for you, brothers, is that you may be as I am, because I am as you are. You have done me no wrong;"
-        },
-        {
-          "verse": 13,
-          "text": "But you have knowledge that with a feeble body I was preaching the good news to you the first time;"
-        },
-        {
-          "verse": 14,
-          "text": "And you did not have a poor opinion of me because of the trouble in my flesh, or put shame on it; but you took me to your hearts as an angel of God, even as Christ Jesus."
-        },
-        {
-          "verse": 15,
-          "text": "Where then is that happy condition of yours? because I give you witness, that, if possible, you would have taken out your eyes and given them to me."
-        },
-        {
-          "verse": 16,
-          "text": "So then am I no longer your friend, because I give you true words?"
-        },
-        {
-          "verse": 17,
-          "text": "Their interest in you is not good; but their desire is that you may be shut out, so that you may go after them."
-        },
-        {
-          "verse": 18,
-          "text": "But it is good to have an interest in a good cause at all times, and not only when I am present with you."
-        },
-        {
-          "verse": 19,
-          "text": "My children, of whom I am again in birth-pains till Christ is formed in you,"
-        },
-        {
-          "verse": 20,
-          "text": "Truly my desire is to be present with you now, using a changed voice; for I am troubled about you."
-        },
-        {
-          "verse": 21,
-          "text": "Say, you whose desire it is to be under the law, do you not give ear to the law?"
-        },
-        {
-          "verse": 22,
-          "text": "Because it is in the Writings, that Abraham had two sons, one by the servant-woman, and one by the free woman."
-        },
-        {
-          "verse": 23,
-          "text": "Now the son by the servant-woman has his birth after the flesh; but the son by the free woman has his birth through the undertaking of God."
-        },
-        {
-          "verse": 24,
-          "text": "Which things have a secret sense; because these women are the two agreements; one from the mountain of Sinai, giving birth to servants, which is Hagar."
-        },
-        {
-          "verse": 25,
-          "text": "Now this Hagar is the mountain Sinai in Arabia, and is the image of the Jerusalem which now is: which is a servant with her children."
-        },
-        {
-          "verse": 26,
-          "text": "But the Jerusalem on high is free, which is our mother."
-        },
-        {
-          "verse": 27,
-          "text": "For it is in the Writings, You who have never given birth, be glad; give cries of joy, you who have had no birth-pains; for the children of her who has been given up by her husband are more than those of the woman who has a husband."
-        },
-        {
-          "verse": 28,
-          "text": "Now we, brothers, as Isaac was, are the children of the undertaking of God."
-        },
-        {
-          "verse": 29,
-          "text": "But as in those days he who had birth after the flesh was cruel to him who had birth after the Spirit, even so it is now."
-        },
-        {
-          "verse": 30,
-          "text": "What then do the Writings say? Send away the servant-woman and her son; for the son of the servant-woman will not have a part in the heritage with the son of the free woman."
-        },
-        {
-          "verse": 31,
-          "text": "So, brothers, we are not children of the servant-woman, but of the free woman."
-        }
-      ],
-      "totalVerses": 31,
-      "footnotes": []
+      "notes": [
+        "SeeGenesis 16;21:1-9.",
+        "MountSinai was the place where God gave hisLawto Israel's people. God'scovenantwith his people at that time was that they must obey the rules in his Law. So Israel's people were like slaves under the authority of God's Law.",
+        "Arabia was aregionsouth-east of Israel.",
+        "SeeIsaiah 54:1.",
+        "SeeGenesis 21:10. Hagar's son was called Ishmael. Sarah's son was called Isaac. Hagar and Ishmael caused much trouble to Sarah and Isaac."
+      ]
     },
     {
-      "book": "Galatians",
       "chapter": 5,
       "title": "Galatians 5",
-      "subtitle": "Galatians Chapter 5",
+      "subtitle": "",
+      "totalVerses": 26,
+      "sourceUrl": "https://www.easyenglish.bible/bible/easy/galatians/5/",
       "sections": [
         {
-          "heading": "Galatians Chapter 5",
+          "heading": "Christ makes people free from special rules",
           "items": [
             [
               {
                 "verse": 1,
-                "text": "Christ has truly made us free: then keep your free condition and let no man put a yoke on you again."
-              },
+                "text": "Christ has made us free so that we can be really free! So be strong in your minds. Do not let yourselves become slaves to the Jewish rules again."
+              }
+            ],
+            [
               {
                 "verse": 2,
-                "text": "See, I Paul say to you, that if you undergo circumcision, Christ will be of no use to you."
+                "text": "Listen carefully! I, Paul, tell you this. If you allow someone to circumcise you, then Christ will be worth nothing to you."
               },
               {
                 "verse": 3,
-                "text": "Yes, I give witness again to every man who undergoes circumcision, that he will have to keep all the law."
+                "text": "I will say it again very clearly. Every man who lets someone circumcise him must then obey all the Jewish rules."
               },
               {
                 "verse": 4,
-                "text": "You are cut off from Christ, you who would have righteousness by the law; you are turned away from grace."
-              }
-            ],
-            [
+                "text": "Some of you think that God will accept you as right if you obey all the rules of his Law. But if you think that, you have made yourselves separate from Christ. You have turned away from God's grace."
+              },
               {
                 "verse": 5,
-                "text": "For we through the Spirit by faith are waiting for the hope of righteousness."
+                "text": "But if we believe in Christ, we are sure that God will accept us as right with him. As we wait for that, God's Spirit helps us to know that it is true."
               },
               {
                 "verse": 6,
-                "text": "Because in Christ Jesus, having circumcision or not having circumcision are equally of no profit; but only faith working through love."
-              },
+                "text": "We belong to Christ Jesus. So it does not matter whether anyone has circumcised us or not. The only thing that matters is that we trust in Christ. And as a result we will love other people."
+              }
+            ],
+            [
               {
                 "verse": 7,
-                "text": "You were going on well; who was the cause of your not giving ear to what is true?"
+                "text": "Like good runners in a race, you were doing very well! You should not have let anyone turn you away from God's true message."
               },
               {
                 "verse": 8,
-                "text": "This ready belief did not come from him who had made you his."
-              }
-            ],
-            [
+                "text": "It is not God who has caused you to change what you believe. No! God is the one who has chosen you to belong to him."
+              },
               {
                 "verse": 9,
-                "text": "A little leaven makes a change in all the mass."
+                "text": "People say this: ‘Only a small amount of yeast in the flour will cause a loaf of bread to grow big.’"
               },
               {
                 "verse": 10,
-                "text": "I am certain about you in the Lord, that you will be of no other mind; but he who is troubling you will have his punishment, whoever he is."
-              },
+                "text": "But the Lord helps me to feel sure about you. I know that you will agree with what I say about this. But as for the man who is confusing you, God will punish him. It does not matter who he is, God will punish him."
+              }
+            ],
+            [
               {
                 "verse": 11,
-                "text": "But I, brothers, if I am still preaching circumcision, why am I still attacked? then has the shame of the cross been taken away."
+                "text": "My Christian friends, I certainly do not teach that believers must be circumcised. If I still teach that, why do people still cause me to suffer? My message about Christ's death on the cross would not cause anyone to become angry."
               },
               {
                 "verse": 12,
-                "text": "My desire is that they who give you trouble might even be cut off themselves."
+                "text": "Those people who are causing trouble and want to circumcise you should cut their own bodies even more! Yes, that is what they should do!"
               }
-            ],
+            ]
+          ]
+        },
+        {
+          "heading": "God's Spirit shows Christians how to live",
+          "items": [
             [
               {
                 "verse": 13,
-                "text": "Because you, brothers, were marked out to be free; only do not make use of your free condition to give the flesh its chance, but through love be servants one to another."
+                "text": "My Christian friends, God has chosen you to serve him as free people. But you are still weak and human. So you are not free to do anything that you might want to do. Instead, you must serve one another, because you love each other."
               },
               {
                 "verse": 14,
-                "text": "For all the law is made complete in one word, even in this, Have love for your neighbour as for yourself."
+                "text": "One rule brings together all the rules in God's Law. That one rule says, ‘Love other people as much as you love yourself.’"
               },
               {
                 "verse": 15,
-                "text": "But if you are given to fighting with one another, take care that you are not the cause of destruction one to another."
-              },
-              {
-                "verse": 16,
-                "text": "But I say, Go on in the Spirit, and you will not come under the rule of the evil desires of the flesh."
+                "text": "So do not live like wild animals. Wild animals fight and they eat each other. If you attack each other like that, be very careful! You may destroy one another completely."
               }
             ],
             [
               {
+                "verse": 16,
+                "text": "So this is what I say: Let God's Spirit show you how to live in a good way. Then you will not do the wrong things that your weak human nature may want to do."
+              },
+              {
                 "verse": 17,
-                "text": "For the flesh has desires against the Spirit, and the Spirit against the flesh; because these are opposite the one to the other; so that you may not do the things which you have a mind to do."
+                "text": "The things that your human nature wants to do are completely different from the things that God's Spirit wants. The things that God's Spirit wants are completely different from the things that our human nature wants. Our own thoughts fight against what God's Spirit wants us to do. As a result, you are not free to do the things that you really want to do."
               },
               {
                 "verse": 18,
-                "text": "But if you are guided by the Spirit, you are not under the law."
-              },
+                "text": "But if God's Spirit leads you, then the rules of God's Law do not control you."
+              }
+            ],
+            [
               {
                 "verse": 19,
-                "text": "Now the works of the flesh are clear, which are these: evil desire, unclean things, wrong use of the senses,"
+                "text": "Everyone knows the kinds of bad things that human nature wants to do. People have sex with people that they are not married to. They do things that are bad and disgusting."
               },
               {
                 "verse": 20,
-                "text": "Worship of images, use of strange powers, hates, fighting, desire for what another has, angry feelings, attempts to get the better of others, divisions, false teachings,"
+                "text": "They worship idols. They do magic to hurt other people. They become enemies and they fight one another. They are jealous of other people. They become very angry. They want to please themselves and to be important. They cause trouble. They divide people into separate groups."
+              },
+              {
+                "verse": 21,
+                "text": "They want things that belong to other people. They are drunks. They have wild parties. And they like to do many other bad things like these. So I warn you again, as I have already warned you before. People who continue to do these bad things will not receive the blessings of the kingdom of God."
               }
             ],
             [
               {
-                "verse": 21,
-                "text": "Envy, uncontrolled drinking and feasting, and such things: of which I give you word clearly, even as I did in the past, that they who do such things will have no part in the kingdom of God."
-              },
-              {
                 "verse": 22,
-                "text": "But the fruit of the Spirit is love, joy, peace, a quiet mind, kind acts, well-doing, faith,"
+                "text": "But God's Spirit causes us to live in a different way. We love other people. We are happy and we have peace in our minds. We are patient, kind and good. People can trust us to do what is right."
               },
               {
                 "verse": 23,
-                "text": "Gentle behaviour, control over desires: against such there is no law."
-              },
-              {
-                "verse": 24,
-                "text": "And those who are Christ's have put to death on the cross the flesh with its passions and its evil desires."
+                "text": "We respect other people and we control ourselves properly. God's Spirit helps us to live in that way. There is no law that says these things are wrong."
               }
             ],
             [
               {
+                "verse": 24,
+                "text": "We belong to Christ. As a result, we no longer obey our weak human nature. We do not do the bad things that our thoughts want us to do. It is as if we have killed those thoughts on the cross."
+              },
+              {
                 "verse": 25,
-                "text": "If we are living by the Spirit, by the Spirit let us be guided."
+                "text": "Now it is God's Spirit that gives us life. So we must let God's Spirit lead us in the way that we live."
               },
               {
                 "verse": 26,
-                "text": "Let us not be full of self-glory, making one another angry, having envy of one another."
+                "text": "We must not become proud. We must not be jealous of each other, so that we cause trouble to one another."
               }
             ]
           ]
         }
       ],
-      "verses": [
-        {
-          "verse": 1,
-          "text": "Christ has truly made us free: then keep your free condition and let no man put a yoke on you again."
-        },
-        {
-          "verse": 2,
-          "text": "See, I Paul say to you, that if you undergo circumcision, Christ will be of no use to you."
-        },
-        {
-          "verse": 3,
-          "text": "Yes, I give witness again to every man who undergoes circumcision, that he will have to keep all the law."
-        },
-        {
-          "verse": 4,
-          "text": "You are cut off from Christ, you who would have righteousness by the law; you are turned away from grace."
-        },
-        {
-          "verse": 5,
-          "text": "For we through the Spirit by faith are waiting for the hope of righteousness."
-        },
-        {
-          "verse": 6,
-          "text": "Because in Christ Jesus, having circumcision or not having circumcision are equally of no profit; but only faith working through love."
-        },
-        {
-          "verse": 7,
-          "text": "You were going on well; who was the cause of your not giving ear to what is true?"
-        },
-        {
-          "verse": 8,
-          "text": "This ready belief did not come from him who had made you his."
-        },
-        {
-          "verse": 9,
-          "text": "A little leaven makes a change in all the mass."
-        },
-        {
-          "verse": 10,
-          "text": "I am certain about you in the Lord, that you will be of no other mind; but he who is troubling you will have his punishment, whoever he is."
-        },
-        {
-          "verse": 11,
-          "text": "But I, brothers, if I am still preaching circumcision, why am I still attacked? then has the shame of the cross been taken away."
-        },
-        {
-          "verse": 12,
-          "text": "My desire is that they who give you trouble might even be cut off themselves."
-        },
-        {
-          "verse": 13,
-          "text": "Because you, brothers, were marked out to be free; only do not make use of your free condition to give the flesh its chance, but through love be servants one to another."
-        },
-        {
-          "verse": 14,
-          "text": "For all the law is made complete in one word, even in this, Have love for your neighbour as for yourself."
-        },
-        {
-          "verse": 15,
-          "text": "But if you are given to fighting with one another, take care that you are not the cause of destruction one to another."
-        },
-        {
-          "verse": 16,
-          "text": "But I say, Go on in the Spirit, and you will not come under the rule of the evil desires of the flesh."
-        },
-        {
-          "verse": 17,
-          "text": "For the flesh has desires against the Spirit, and the Spirit against the flesh; because these are opposite the one to the other; so that you may not do the things which you have a mind to do."
-        },
-        {
-          "verse": 18,
-          "text": "But if you are guided by the Spirit, you are not under the law."
-        },
-        {
-          "verse": 19,
-          "text": "Now the works of the flesh are clear, which are these: evil desire, unclean things, wrong use of the senses,"
-        },
-        {
-          "verse": 20,
-          "text": "Worship of images, use of strange powers, hates, fighting, desire for what another has, angry feelings, attempts to get the better of others, divisions, false teachings,"
-        },
-        {
-          "verse": 21,
-          "text": "Envy, uncontrolled drinking and feasting, and such things: of which I give you word clearly, even as I did in the past, that they who do such things will have no part in the kingdom of God."
-        },
-        {
-          "verse": 22,
-          "text": "But the fruit of the Spirit is love, joy, peace, a quiet mind, kind acts, well-doing, faith,"
-        },
-        {
-          "verse": 23,
-          "text": "Gentle behaviour, control over desires: against such there is no law."
-        },
-        {
-          "verse": 24,
-          "text": "And those who are Christ's have put to death on the cross the flesh with its passions and its evil desires."
-        },
-        {
-          "verse": 25,
-          "text": "If we are living by the Spirit, by the Spirit let us be guided."
-        },
-        {
-          "verse": 26,
-          "text": "Let us not be full of self-glory, making one another angry, having envy of one another."
-        }
-      ],
-      "totalVerses": 26,
-      "footnotes": []
+      "notes": [
+        "In the Bible,yeastis often a picture of something bad that causes more bad things to happen.",
+        "SeeLeviticus 19:18."
+      ]
     },
     {
-      "book": "Galatians",
       "chapter": 6,
       "title": "Galatians 6",
-      "subtitle": "Galatians Chapter 6",
+      "subtitle": "",
+      "totalVerses": 18,
+      "sourceUrl": "https://www.easyenglish.bible/bible/easy/galatians/6/",
       "sections": [
         {
-          "heading": "Galatians Chapter 6",
+          "heading": "Christians must help each other",
           "items": [
             [
               {
                 "verse": 1,
-                "text": "Brothers, if a man is taken in any wrongdoing, you who are of the Spirit will put such a one right in a spirit of love; keeping watch on yourself, for fear that you yourself may be tested."
+                "text": "My friends, if you see that someone among you is doing something wrong, you must warn them. Those of you who have God's Spirit should warn that person. Show them how to live in a good way. But you must be kind and patient with them. Be very careful yourselves, so that it does not cause you to do wrong things too."
               },
               {
                 "verse": 2,
-                "text": "Take on yourselves one another's troubles, and so keep the law of Christ."
+                "text": "Help each other when someone has problems. If you do that, you will be obeying Christ's rule."
               },
               {
                 "verse": 3,
-                "text": "For if a man has an idea that he is something when he is nothing, he is tricked by himself."
-              },
-              {
-                "verse": 4,
-                "text": "But let every man make test of his work, and then will his cause for glory be in himself only, and not in his neighbour."
+                "text": "You must not think that you are too important to help other people. If you are not really so important, you are deceiving yourself."
               }
             ],
             [
               {
-                "verse": 5,
-                "text": "Because every man is responsible for his part of the work."
+                "verse": 4,
+                "text": "Everyone should think carefully about the things that they themselves do. If those things are good, that is a reason to be proud. Someone like that does not need to think about whether they are better than anyone else."
               },
+              {
+                "verse": 5,
+                "text": "Each person must live in a way that they know is right for them."
+              }
+            ],
+            [
               {
                 "verse": 6,
-                "text": "But let him who gets teaching in the word give a part in all good things to his teacher."
-              },
+                "text": "Everyone who is learning about God's message should share all his good things with his teacher."
+              }
+            ],
+            [
               {
                 "verse": 7,
-                "text": "Be not tricked; God is not made sport of: for whatever seed a man puts in, that will he get back as grain."
+                "text": "Do not deceive yourselves. Nobody can make God seem foolish. Think about a farmer who plants seeds in his field. The same kind of crops will grow as the seeds which he plants. That will be his harvest."
               },
               {
                 "verse": 8,
-                "text": "Because he who puts in the seed of the flesh will of the flesh get the reward of death; but he who puts in the seed of the Spirit will of the Spirit get the reward of eternal life."
-              }
-            ],
-            [
+                "text": "It is the same in our lives. A person may do the things that please his own human nature. The harvest from their human nature will be punishment and death. Or a person may do the things that please God's Spirit. The harvest from God's Spirit will be life with God for ever."
+              },
               {
                 "verse": 9,
-                "text": "And let us not get tired of well-doing; for at the right time we will get in the grain, if we do not give way to weariness."
+                "text": "We must not become tired as we do things that are good. We must not become so weak that we stop. Then we will receive a good harvest at the proper time."
               },
               {
                 "verse": 10,
-                "text": "So then, as we have the chance, let us do good to all men, and specially to those who are of the family of the faith."
-              },
+                "text": "Because of this, we must help everyone when we have the chance. Certainly we must do good things to help our friends who believe in Christ, as we do."
+              }
+            ]
+          ]
+        },
+        {
+          "heading": "Paul will only boast about Jesus' death on the cross",
+          "items": [
+            [
               {
                 "verse": 11,
-                "text": "See the size of the handwriting which I myself have made use of in writing to you."
-              },
-              {
-                "verse": 12,
-                "text": "Those who have the desire to seem important in the flesh, put force on you to undergo circumcision; only that they may not be attacked because of the cross of Christ."
+                "text": "Now I am using my own hand to write these last words to you myself. You can see how large the letters are!"
               }
             ],
             [
               {
-                "verse": 13,
-                "text": "Because even those who undergo circumcision do not themselves keep the law; but they would have you undergo circumcision, so that they may have glory in your flesh."
+                "verse": 12,
+                "text": "Some people want to make you obey the Jewish rules. They say that you must let someone circumcise you. They want people to think that they are important. They do not want to receive any trouble from others. So they are afraid to teach that Christ's death on the cross is enough to save us."
               },
               {
+                "verse": 13,
+                "text": "Even those men who are circumcised do not obey all the Jewish rules. They want to circumcise you so that they can boast about you. They want to show that they have authority over your bodies."
+              }
+            ],
+            [
+              {
                 "verse": 14,
-                "text": "But far be it from me to have glory in anything, but only in the cross of our Lord Jesus Christ, through which this world has come to an end on the cross for me, and I for it."
+                "text": "But I only want to boast about one thing. That is our Lord Jesus Christ's death on the cross. Because of that, the things that belong to this world have become dead to me. I have also become dead to those things."
               },
               {
                 "verse": 15,
-                "text": "For having circumcision is nothing, and not having circumcision is nothing, but only a new order of existence."
-              },
+                "text": "It does not matter whether anyone has circumcised you or not. The important thing is that God has made you a new person."
+              }
+            ],
+            [
               {
                 "verse": 16,
-                "text": "And on all who are guided by this rule be peace and mercy, and on the Israel of God."
+                "text": "I pray that God will bless everyone who lives by that rule. May God give them peace in their minds and be kind to them. I pray this for all who belong to God's true people."
               }
             ],
             [
               {
                 "verse": 17,
-                "text": "From this time on let no man be a trouble to me; because my body is marked with the marks of Jesus."
-              },
+                "text": "I want to receive no more trouble from anyone after this. The marks on my body show that I am a true servant of Jesus."
+              }
+            ],
+            [
               {
                 "verse": 18,
-                "text": "The grace of our Lord Jesus Christ be with your spirit, brothers. So be it."
+                "text": "My Christian friends, I pray that our Lord Jesus Christ will continue to be very kind to you. May he help you in your spirits. Amen."
               }
             ]
           ]
         }
       ],
-      "verses": [
-        {
-          "verse": 1,
-          "text": "Brothers, if a man is taken in any wrongdoing, you who are of the Spirit will put such a one right in a spirit of love; keeping watch on yourself, for fear that you yourself may be tested."
-        },
-        {
-          "verse": 2,
-          "text": "Take on yourselves one another's troubles, and so keep the law of Christ."
-        },
-        {
-          "verse": 3,
-          "text": "For if a man has an idea that he is something when he is nothing, he is tricked by himself."
-        },
-        {
-          "verse": 4,
-          "text": "But let every man make test of his work, and then will his cause for glory be in himself only, and not in his neighbour."
-        },
-        {
-          "verse": 5,
-          "text": "Because every man is responsible for his part of the work."
-        },
-        {
-          "verse": 6,
-          "text": "But let him who gets teaching in the word give a part in all good things to his teacher."
-        },
-        {
-          "verse": 7,
-          "text": "Be not tricked; God is not made sport of: for whatever seed a man puts in, that will he get back as grain."
-        },
-        {
-          "verse": 8,
-          "text": "Because he who puts in the seed of the flesh will of the flesh get the reward of death; but he who puts in the seed of the Spirit will of the Spirit get the reward of eternal life."
-        },
-        {
-          "verse": 9,
-          "text": "And let us not get tired of well-doing; for at the right time we will get in the grain, if we do not give way to weariness."
-        },
-        {
-          "verse": 10,
-          "text": "So then, as we have the chance, let us do good to all men, and specially to those who are of the family of the faith."
-        },
-        {
-          "verse": 11,
-          "text": "See the size of the handwriting which I myself have made use of in writing to you."
-        },
-        {
-          "verse": 12,
-          "text": "Those who have the desire to seem important in the flesh, put force on you to undergo circumcision; only that they may not be attacked because of the cross of Christ."
-        },
-        {
-          "verse": 13,
-          "text": "Because even those who undergo circumcision do not themselves keep the law; but they would have you undergo circumcision, so that they may have glory in your flesh."
-        },
-        {
-          "verse": 14,
-          "text": "But far be it from me to have glory in anything, but only in the cross of our Lord Jesus Christ, through which this world has come to an end on the cross for me, and I for it."
-        },
-        {
-          "verse": 15,
-          "text": "For having circumcision is nothing, and not having circumcision is nothing, but only a new order of existence."
-        },
-        {
-          "verse": 16,
-          "text": "And on all who are guided by this rule be peace and mercy, and on the Israel of God."
-        },
-        {
-          "verse": 17,
-          "text": "From this time on let no man be a trouble to me; because my body is marked with the marks of Jesus."
-        },
-        {
-          "verse": 18,
-          "text": "The grace of our Lord Jesus Christ be with your spirit, brothers. So be it."
-        }
-      ],
-      "totalVerses": 18,
-      "footnotes": []
+      "notes": [
+        "Christ gave this rule to hisdisciples: ‘Love each other.’ SeeJohn 13:34-35.",
+        "Paul means that he has become separate from the things that belong to this world, because Christ's death on the cross has given him a new life."
+      ]
     }
   ]
 }

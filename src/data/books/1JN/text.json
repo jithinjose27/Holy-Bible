@@ -1,993 +1,676 @@
 {
-  "translation": "EasyEnglish Bible",
-  "book": "1 John",
-  "bookId": "1JN",
+  "id": "1JN",
+  "name": "1 John",
+  "slug": "1-john",
+  "translation": "EasyEnglish Bible (EASY)",
+  "publisher": "MissionAssist UK",
+  "referenceUrl": "https://www.easyenglish.bible/bible/easy/1-john/",
   "totalChapters": 5,
-  "copyrightNotice": "Scripture quotations are from the EasyEnglish Bible / Bible in Basic English. Public Domain.",
-  "officialSourceUrl": "https://www.easyenglish.bible/bible/easy/1-john/1/",
+  "totalVerses": 105,
   "chapters": [
     {
-      "book": "1 John",
       "chapter": 1,
       "title": "1 John 1",
-      "subtitle": "1 John Chapter 1",
+      "subtitle": "",
+      "totalVerses": 10,
+      "sourceUrl": "https://www.easyenglish.bible/bible/easy/1-john/1/",
       "sections": [
         {
-          "heading": "1 John Chapter 1",
+          "heading": "John writes the truth about Jesus",
           "items": [
             [
               {
                 "verse": 1,
-                "text": "That which was from the first, which has come to our ears, and which we have seen with our eyes, looking on it and touching it with our hands, about the Word of life"
-              },
+                "text": "We have an important message to tell you. We want to tell you about the person who was already there before the beginning of the world. We have heard him speak. We have seen him with our own eyes. We watched him and we touched him. He is the Word that gives us life with God."
+              }
+            ],
+            [
               {
                 "verse": 2,
-                "text": "(And the life was made clear to us, and we have seen it and are witnessing to it and giving you word of that eternal life which was with the Father and was seen by us);"
+                "text": "He showed himself clearly when he lived on this earth. From long ago he was together with God the Father, and he lives for ever. We saw him and we are telling you what is true. He is the one who has shown himself to us."
               },
               {
                 "verse": 3,
-                "text": "We give you word of all we have seen and everything which has come to our ears, so that you may be united with us; and we are united with the Father and with his Son Jesus Christ:"
+                "text": "We also want you to share this new life with us. We share this life with God the Father and Jesus Christ his Son. That is why we are telling you about everything that we have seen and heard."
               },
               {
                 "verse": 4,
-                "text": "And we are writing these things to you so that our joy may be made complete."
+                "text": "We are writing to you so that together we all may be completely happy."
               }
-            ],
+            ]
+          ]
+        },
+        {
+          "heading": "God is pure like light",
+          "items": [
             [
               {
                 "verse": 5,
-                "text": "This is the word which came to us from him and which we give to you, that God is light and in him there is nothing dark."
+                "text": "We are telling you the good news that Jesus Christ spoke to us. This is the message: God is completely pure, like light. There is nothing dark in him."
               },
               {
                 "verse": 6,
-                "text": "If we say we are joined to him, and are walking still in the dark, our words are false and our acts are untrue:"
+                "text": "Do you say that you share in the life that God gives? If you say that, but if you still live in the dark, you are telling a lie. You are not living in God's true way."
               },
               {
                 "verse": 7,
-                "text": "But if we are walking in the light, as he is in the light, we are all united with one another, and the blood of Jesus his Son makes us clean from all sin."
-              },
-              {
-                "verse": 8,
-                "text": "If we say that we have no sin, we are false to ourselves and there is nothing true in us."
+                "text": "But when we live in a right way, it is like living in the light. God is always in the light. So, if we live in the light, we share together in the life which God gives. And when Jesus, the Son of God, died on the cross, he saved us from all our sins. The blood of his sacrifice makes us clean."
               }
-            ],
+            ]
+          ]
+        },
+        {
+          "heading": "God forgives our sins if we ask him",
+          "items": [
             [
               {
+                "verse": 8,
+                "text": "If we say that we never do any wrong thing, we are deceiving ourselves. Even though we may think it is true, it is a lie."
+              },
+              {
                 "verse": 9,
-                "text": "If we say openly that we have done wrong, he is upright and true to his word, giving us forgiveness of sins and making us clean from all evil."
+                "text": "Instead, we should agree that we have done wrong things and tell that to God. Then God will forgive us for our sins. He always does what he has promised to do. He always does what is right. He will forgive us and he will make us clean again, whatever bad things we may have done."
               },
               {
                 "verse": 10,
-                "text": "If we say that we have no sin, we make him false and his word is not in us."
+                "text": "God says that all people have done wrong things. So, if we say that we have not done any wrong thing, we are saying that God tells lies. It shows that we have not accepted his message at all."
               }
             ]
           ]
         }
       ],
-      "verses": [
-        {
-          "verse": 1,
-          "text": "That which was from the first, which has come to our ears, and which we have seen with our eyes, looking on it and touching it with our hands, about the Word of life"
-        },
-        {
-          "verse": 2,
-          "text": "(And the life was made clear to us, and we have seen it and are witnessing to it and giving you word of that eternal life which was with the Father and was seen by us);"
-        },
-        {
-          "verse": 3,
-          "text": "We give you word of all we have seen and everything which has come to our ears, so that you may be united with us; and we are united with the Father and with his Son Jesus Christ:"
-        },
-        {
-          "verse": 4,
-          "text": "And we are writing these things to you so that our joy may be made complete."
-        },
-        {
-          "verse": 5,
-          "text": "This is the word which came to us from him and which we give to you, that God is light and in him there is nothing dark."
-        },
-        {
-          "verse": 6,
-          "text": "If we say we are joined to him, and are walking still in the dark, our words are false and our acts are untrue:"
-        },
-        {
-          "verse": 7,
-          "text": "But if we are walking in the light, as he is in the light, we are all united with one another, and the blood of Jesus his Son makes us clean from all sin."
-        },
-        {
-          "verse": 8,
-          "text": "If we say that we have no sin, we are false to ourselves and there is nothing true in us."
-        },
-        {
-          "verse": 9,
-          "text": "If we say openly that we have done wrong, he is upright and true to his word, giving us forgiveness of sins and making us clean from all evil."
-        },
-        {
-          "verse": 10,
-          "text": "If we say that we have no sin, we make him false and his word is not in us."
-        }
-      ],
-      "totalVerses": 10,
-      "footnotes": []
+      "notes": [
+        "Christ is a name for Jesus in theGreeklanguage that means the same asMessiahin theHebrewlanguage. It means someone that God chose as a special king for his people."
+      ]
     },
     {
-      "book": "1 John",
       "chapter": 2,
       "title": "1 John 2",
-      "subtitle": "1 John Chapter 2",
+      "subtitle": "",
+      "totalVerses": 29,
+      "sourceUrl": "https://www.easyenglish.bible/bible/easy/1-john/2/",
       "sections": [
         {
-          "heading": "1 John Chapter 2",
+          "heading": "Jesus died so that God could forgive our sins",
           "items": [
             [
               {
                 "verse": 1,
-                "text": "My little children, I am writing these things to you so that you may be without sin. And if any man is a sinner, we have a friend and helper with the Father, Jesus Christ, the upright one:"
+                "text": "I am writing this letter to you, my friends who are like my little children. I am writing to you because I do not want you to do wrong things. But if anyone among you does something wrong, there is someone who will speak to God on our behalf. That person is Jesus Christ, who always does only what is right. He will ask our Father God to forgive you."
               },
               {
                 "verse": 2,
-                "text": "He is the offering for our sins; and not for ours only, but for all the world."
-              },
+                "text": "Jesus died as a sacrifice to take the punishment for our sin. Then God could forgive us. Jesus did that not only for us. He did it for all people in the world, so that God could forgive them for their sins."
+              }
+            ]
+          ]
+        },
+        {
+          "heading": "Christians must live in a way that pleases God",
+          "items": [
+            [
               {
                 "verse": 3,
-                "text": "And by this we may be certain that we have knowledge of him, if we keep his laws."
+                "text": "This is how we can be sure that we know God: If we obey God's commands, we know that we belong to him."
               },
               {
                 "verse": 4,
-                "text": "The man who says, I have knowledge of him, and does not keep his laws, is false, and there is nothing true in him:"
+                "text": "Someone might say, ‘I belong to God.’ But if he does not obey God's commands, that person is telling a lie. He is not living in the way that God's true message teaches us."
+              },
+              {
+                "verse": 5,
+                "text": "But anyone who obeys God's message shows that he really loves God completely. So this is how we know that we belong to God."
+              },
+              {
+                "verse": 6,
+                "text": "If we say that we are living in God's true way, then we must live in the way that Jesus lived."
               }
             ],
             [
               {
-                "verse": 5,
-                "text": "But in every man who keeps his word, the love of God is made complete. By this we may be certain that we are in him:"
-              },
-              {
-                "verse": 6,
-                "text": "He who says that he is living in him, will do as he did."
-              },
-              {
                 "verse": 7,
-                "text": "My loved ones, I do not give you a new law, but an old law which you had from the first; this old law is the word which came to your ears."
+                "text": "My friends, I am telling you to love one another. When I write this to you, I am not giving you a new rule. It is an old rule that you have had for a long time. We gave it to you when you began to obey Christ. It is the same message that you have already heard."
               },
               {
                 "verse": 8,
-                "text": "Again, I give you a new law, which is true in him and in you; for the night is near its end and the true light is even now shining out."
+                "text": "But there is something new about it. This rule has become true in the way that Christ lived. Now it has also become true in your lives. God's true message has brought light to shine in your lives. You no longer live in the dark where you do bad things."
               }
             ],
             [
               {
                 "verse": 9,
-                "text": "He who says that he is in the light, and has hate in his heart for his brother, is still in the dark."
+                "text": "A person might say that he is living in the light. But if that person hates another believer, then he is telling a lie. He is still living in the dark."
               },
               {
                 "verse": 10,
-                "text": "He who has love for his brother is in the light, and there is no cause of error in him."
+                "text": "Anyone who loves other believers shows that he is living in the light. There is nothing that will make him turn away from God."
               },
               {
                 "verse": 11,
-                "text": "But he who has hate for his brother is in the dark, walking in the dark with no knowledge of where he is going, unable to see because of the dark."
-              },
+                "text": "But if someone hates other believers, he is still living in a bad way. He is like someone who is walking in the dark. He cannot see where he is going. He is like a blind person. He cannot understand God's true message."
+              }
+            ],
+            [
               {
                 "verse": 12,
-                "text": "I am writing to you, my children, because you have forgiveness of sins through his name."
+                "text": "My little children, I am writing to you because God has forgiven your sins. He has done this because of Christ."
               }
             ],
             [
               {
                 "verse": 13,
-                "text": "I am writing to you, fathers, because you have knowledge of him who was from the first. I am writing to you, young men, because you have overcome the Evil One. I have sent a letter to you, children, because you have knowledge of the Father."
-              },
+                "text": "You who are older, like fathers, I am writing to you because you know Christ. He has always been there, since before the world began."
+              }
+            ],
+            [
+              {
+                "verse": 13,
+                "text": "You who are young men, I am writing to you because you have won against Satan."
+              }
+            ],
+            [
               {
                 "verse": 14,
-                "text": "I have sent a letter to you, fathers, because you have knowledge of him who was from the first. I have sent a letter to you, young men, because you are strong, and the word of God is in you, and because you have overcome the Evil One."
-              },
+                "text": "Yes, my children, I write to you because you know God, our Father."
+              }
+            ],
+            [
+              {
+                "verse": 14,
+                "text": "Fathers, I write to you because you know Christ. He was already there before the world began."
+              }
+            ],
+            [
+              {
+                "verse": 14,
+                "text": "Young men, I write to you because you are strong. You continue to obey God's message, and you have won against Satan."
+              }
+            ],
+            [
               {
                 "verse": 15,
-                "text": "Have no love for the world or for the things which are in the world. If any man has love for the world, the love of the Father is not in him."
+                "text": "Do not live like people who do not know God. Do not love the wrong things that belong to this world. If anyone loves those things, it shows that they do not love God, their Father."
               },
               {
                 "verse": 16,
-                "text": "Because everything in the world, the desire of the flesh, the desire of the eyes, and the pride of life, is not of the Father but of the world."
-              }
-            ],
-            [
-              {
-                "verse": 17,
-                "text": "And the world and its desires is coming to an end: but he who does God's pleasure is living for ever."
+                "text": "What are the wrong things that belong to this world? People want to do bad things to make themselves happy. People want to have things that they see, even bad things. People want to show other people how rich they are. These ideas do not come from God, our Father. They are the thoughts of people who belong to the world."
               },
               {
+                "verse": 17,
+                "text": "One day, those people and the things that they want will not be there any longer. But those who continue to do what God wants will live for ever."
+              }
+            ]
+          ]
+        },
+        {
+          "heading": "John talks about the enemies of Christ",
+          "items": [
+            [
+              {
                 "verse": 18,
-                "text": "Little children, it is the last hour; and as you were given word that the Antichrist would come, so now a number of Antichrists have come to you; and by this we are certain that it is the last hour."
+                "text": "My children, the world will soon end. You have heard that the enemy of Christ will appear. You can see that many enemies of Christ have already appeared. This shows us that the world will end soon."
               },
               {
                 "verse": 19,
-                "text": "They went out from us but they were not of us; if they had been of us they would still be with us: but they went out from us so that it might be made clear that they were not of us."
-              },
-              {
-                "verse": 20,
-                "text": "And you have the Spirit from the Holy One and you all have knowledge."
+                "text": "These people used to be in our group of believers. But they left us. They never really belonged to our group. If they had been true believers, they would have remained with us. When they left us, it showed clearly that none of them really belonged to us."
               }
             ],
             [
               {
-                "verse": 21,
-                "text": "I have not sent you this letter because you have no knowledge of what is true, but because you have knowledge, and because that which is false has nothing in common with that which is true."
+                "verse": 20,
+                "text": "But Christ, the Holy One, has given you the Holy Spirit. As a result, you all know what is true."
               },
               {
+                "verse": 21,
+                "text": "That is why I am writing to you. It is not because you do not yet know God's true message. I am writing to you because you do know that true message. And you can be sure that there are no lies in it."
+              }
+            ],
+            [
+              {
                 "verse": 22,
-                "text": "Who is false but he who says that Jesus is not the Christ? He is the Antichrist who has no belief in the Father or the Son."
+                "text": "Who is the one who tells the worst lies? It is anyone who says that Jesus is not the Messiah. A person like that is the enemy of Christ. He is speaking against God the Father and against Jesus, his Son."
               },
               {
                 "verse": 23,
-                "text": "He who has no belief in the Son has not the Father: he who makes clear his belief in the Son has the Father."
-              },
+                "text": "Anyone who says that Jesus is not God's Son does not belong to the Father. But anyone who accepts Jesus as the Son of God also belongs to the Father."
+              }
+            ]
+          ]
+        },
+        {
+          "heading": "The Holy Spirit teaches Christians God's true message",
+          "items": [
+            [
               {
                 "verse": 24,
-                "text": "But as for you, keep in your hearts the things which were made clear to you from the first. If you keep these things in your hearts you will be kept in the Father and the Son."
+                "text": "As for you, always remember the true message that you heard at the beginning. If you continue to believe that message, you will continue to live with the Son and with the Father."
+              },
+              {
+                "verse": 25,
+                "text": "That is the real life that continues for ever. And that is what God has promised to give to us."
               }
             ],
             [
               {
-                "verse": 25,
-                "text": "And this is the hope which he gave you, even eternal life."
-              },
-              {
                 "verse": 26,
-                "text": "I am writing these things to you about those whose purpose is that you may be turned out of the true way."
+                "text": "Some people are trying to lead you away from God's true message. I am writing these things to you so that you know about these people."
               },
               {
                 "verse": 27,
-                "text": "As for you, the Spirit which he gave you is still in you, and you have no need of any teacher; but as his Spirit gives you teaching about all things, and is true and not false, so keep your hearts in him, through the teaching which he has given you."
-              },
+                "text": "But Christ has given the Holy Spirit to you, and he continues to help you. So you do not need people to teach you what is true. The Holy Spirit himself teaches you everything about God's message. He helps you to know what is true. He does not tell you any lies. So you must remember what he has taught you. Continue to live together with Christ."
+              }
+            ],
+            [
               {
                 "verse": 28,
-                "text": "And now, my children, keep your hearts in him; so that at his revelation, we may have no fear or shame before him at his coming."
+                "text": "Yes, my children, continue to live with Christ. Then we will not be ashamed when he returns to this world. We will not be afraid to meet him."
               }
             ],
             [
               {
                 "verse": 29,
-                "text": "If you have knowledge that he is upright, it is clear to you that everyone who does righteousness is his offspring."
+                "text": "You know that Christ only does what is right. So you should know this: Everyone who continues to do what is right has become a child of God."
               }
             ]
           ]
         }
       ],
-      "verses": [
-        {
-          "verse": 1,
-          "text": "My little children, I am writing these things to you so that you may be without sin. And if any man is a sinner, we have a friend and helper with the Father, Jesus Christ, the upright one:"
-        },
-        {
-          "verse": 2,
-          "text": "He is the offering for our sins; and not for ours only, but for all the world."
-        },
-        {
-          "verse": 3,
-          "text": "And by this we may be certain that we have knowledge of him, if we keep his laws."
-        },
-        {
-          "verse": 4,
-          "text": "The man who says, I have knowledge of him, and does not keep his laws, is false, and there is nothing true in him:"
-        },
-        {
-          "verse": 5,
-          "text": "But in every man who keeps his word, the love of God is made complete. By this we may be certain that we are in him:"
-        },
-        {
-          "verse": 6,
-          "text": "He who says that he is living in him, will do as he did."
-        },
-        {
-          "verse": 7,
-          "text": "My loved ones, I do not give you a new law, but an old law which you had from the first; this old law is the word which came to your ears."
-        },
-        {
-          "verse": 8,
-          "text": "Again, I give you a new law, which is true in him and in you; for the night is near its end and the true light is even now shining out."
-        },
-        {
-          "verse": 9,
-          "text": "He who says that he is in the light, and has hate in his heart for his brother, is still in the dark."
-        },
-        {
-          "verse": 10,
-          "text": "He who has love for his brother is in the light, and there is no cause of error in him."
-        },
-        {
-          "verse": 11,
-          "text": "But he who has hate for his brother is in the dark, walking in the dark with no knowledge of where he is going, unable to see because of the dark."
-        },
-        {
-          "verse": 12,
-          "text": "I am writing to you, my children, because you have forgiveness of sins through his name."
-        },
-        {
-          "verse": 13,
-          "text": "I am writing to you, fathers, because you have knowledge of him who was from the first. I am writing to you, young men, because you have overcome the Evil One. I have sent a letter to you, children, because you have knowledge of the Father."
-        },
-        {
-          "verse": 14,
-          "text": "I have sent a letter to you, fathers, because you have knowledge of him who was from the first. I have sent a letter to you, young men, because you are strong, and the word of God is in you, and because you have overcome the Evil One."
-        },
-        {
-          "verse": 15,
-          "text": "Have no love for the world or for the things which are in the world. If any man has love for the world, the love of the Father is not in him."
-        },
-        {
-          "verse": 16,
-          "text": "Because everything in the world, the desire of the flesh, the desire of the eyes, and the pride of life, is not of the Father but of the world."
-        },
-        {
-          "verse": 17,
-          "text": "And the world and its desires is coming to an end: but he who does God's pleasure is living for ever."
-        },
-        {
-          "verse": 18,
-          "text": "Little children, it is the last hour; and as you were given word that the Antichrist would come, so now a number of Antichrists have come to you; and by this we are certain that it is the last hour."
-        },
-        {
-          "verse": 19,
-          "text": "They went out from us but they were not of us; if they had been of us they would still be with us: but they went out from us so that it might be made clear that they were not of us."
-        },
-        {
-          "verse": 20,
-          "text": "And you have the Spirit from the Holy One and you all have knowledge."
-        },
-        {
-          "verse": 21,
-          "text": "I have not sent you this letter because you have no knowledge of what is true, but because you have knowledge, and because that which is false has nothing in common with that which is true."
-        },
-        {
-          "verse": 22,
-          "text": "Who is false but he who says that Jesus is not the Christ? He is the Antichrist who has no belief in the Father or the Son."
-        },
-        {
-          "verse": 23,
-          "text": "He who has no belief in the Son has not the Father: he who makes clear his belief in the Son has the Father."
-        },
-        {
-          "verse": 24,
-          "text": "But as for you, keep in your hearts the things which were made clear to you from the first. If you keep these things in your hearts you will be kept in the Father and the Son."
-        },
-        {
-          "verse": 25,
-          "text": "And this is the hope which he gave you, even eternal life."
-        },
-        {
-          "verse": 26,
-          "text": "I am writing these things to you about those whose purpose is that you may be turned out of the true way."
-        },
-        {
-          "verse": 27,
-          "text": "As for you, the Spirit which he gave you is still in you, and you have no need of any teacher; but as his Spirit gives you teaching about all things, and is true and not false, so keep your hearts in him, through the teaching which he has given you."
-        },
-        {
-          "verse": 28,
-          "text": "And now, my children, keep your hearts in him; so that at his revelation, we may have no fear or shame before him at his coming."
-        },
-        {
-          "verse": 29,
-          "text": "If you have knowledge that he is upright, it is clear to you that everyone who does righteousness is his offspring."
-        }
-      ],
-      "totalVerses": 29,
-      "footnotes": []
+      "notes": [
+        "John tells Christians that they must live ‘in the light’. He means that they should live in a way that God says is right.",
+        "John was an old man. He wrote to people as if they were his children."
+      ]
     },
     {
-      "book": "1 John",
       "chapter": 3,
       "title": "1 John 3",
-      "subtitle": "1 John Chapter 3",
+      "subtitle": "",
+      "totalVerses": 24,
+      "sourceUrl": "https://www.easyenglish.bible/bible/easy/1-john/3/",
       "sections": [
         {
-          "heading": "1 John Chapter 3",
+          "heading": "Christians are God's children",
           "items": [
             [
               {
                 "verse": 1,
-                "text": "See what great love the Father has given us in naming us the children of God; and such we are. For this reason the world does not see who we are, because it did not see who he was."
+                "text": "Think about how much God the Father loves us. He calls us his children! God loves us so much that we really have become his children. The people who belong to this world do not understand who God is. Because of that, they do not understand who we are."
               },
               {
                 "verse": 2,
-                "text": "My loved ones, now we are children of God, and at present it is not clear what we are to be. We are certain that at his revelation we will be like him; for we will see him as he is."
+                "text": "My friends, we are already children of God. We do not yet know clearly what we will become. But we do know this: when Christ returns to this world, we will become like him. We will be like him because we will see him as he really is."
               },
               {
                 "verse": 3,
-                "text": "And everyone who has this hope in him makes himself holy, even as he is holy."
-              },
-              {
-                "verse": 4,
-                "text": "Everyone who is a sinner goes against the law, for sin is going against the law."
+                "text": "Christ is completely good. So all of us who hope to see him then must keep ourselves clean from sin."
               }
             ],
             [
               {
+                "verse": 4,
+                "text": "If a person continues to do wrong things, he is choosing not to obey God's rules. Sin is when we do not obey God's rules."
+              },
+              {
                 "verse": 5,
-                "text": "And you have knowledge that he came to take away sin: and in him there is no sin."
+                "text": "You know that Jesus came into the world so that he might take away our sins. He himself is completely clean from sin."
               },
               {
                 "verse": 6,
-                "text": "Anyone who is in him does no sin; anyone who is a sinner has not seen him and has no knowledge of him."
-              },
+                "text": "Anyone who lives together with Christ does not continue to do wrong things. If anyone continues to do wrong things, that person has not understood who Christ is. He does not know Christ."
+              }
+            ],
+            [
               {
                 "verse": 7,
-                "text": "My little children, let no man take you out of the true way: he who does righteousness is upright, even as he is upright;"
+                "text": "My little children, do not let anyone deceive you about sin. It is people who live in a good way that God accepts as right. In the same way, Jesus did only what is good and right."
               },
               {
                 "verse": 8,
-                "text": "The sinner is a child of the Evil One; for the Evil One has been a sinner from the first. And the Son of God was seen on earth so that he might put an end to the works of the Evil One."
+                "text": "People who continue to do wrong things show that they belong to the devil. The devil has always been doing wrong things from the beginning. This is why the Son of God came to the world. He came to destroy everything that the devil has done."
               }
             ],
             [
               {
                 "verse": 9,
-                "text": "Anyone who is a child of God does no sin, because he still has God's seed in him; he is not able to be a sinner, because God is his Father."
+                "text": "Everybody who is a child of God does not continue to do wrong things. This is because God has given them a new life. He has caused them to become his children. So they cannot continue to do wrong things."
               },
               {
                 "verse": 10,
-                "text": "In this way it is clear who are the children of God and who are the children of the Evil One; anyone who does not do righteousness or who has no love for his brother, is not a child of God."
-              },
+                "text": "In this way, we can see clearly who are God's children and who are the devil's children. Anyone who does not live in a way that is good and right does not belong to God. People like that do not love other believers."
+              }
+            ]
+          ]
+        },
+        {
+          "heading": "Christians must love each other",
+          "items": [
+            [
               {
                 "verse": 11,
-                "text": "Because this is the word which was given to you from the first, that we are to have love for one another;"
+                "text": "Yes, we must love one another. That is the message which you have heard from the beginning."
               },
               {
                 "verse": 12,
-                "text": "Not being of the Evil One like Cain, who put his brother to death. And why did he put him to death? Because his works were evil and his brother's works were good."
+                "text": "We should not be like Cain. He belonged to Satan and he even killed his brother, Abel. Why did he do that? Cain did bad things and he killed Abel because Abel did things that were right."
               }
             ],
             [
               {
                 "verse": 13,
-                "text": "Do not be surprised, my brothers, if the world has no love for you."
-              },
-              {
-                "verse": 14,
-                "text": "We are conscious that we have come out of death into life because of our love for the brothers. He who has no love is still in death."
-              },
-              {
-                "verse": 15,
-                "text": "Anyone who has hate for his brother is a taker of life, and you may be certain that no taker of life has eternal life in him."
-              },
-              {
-                "verse": 16,
-                "text": "In this we see what love is, because he gave his life for us; and it is right for us to give our lives for the brothers."
+                "text": "So, my Christian friends, do not be surprised when people who belong to this world hate you."
               }
             ],
             [
               {
-                "verse": 17,
-                "text": "But if a man has this world's goods, and sees that his brother is in need, and keeps his heart shut against his brother, how is it possible for the love of God to be in him?"
+                "verse": 14,
+                "text": "We know that we now have new life with God. Death no longer has power over us. We know this because we love our Christian friends. But anyone who does not love other believers is still under the power of death."
               },
               {
+                "verse": 15,
+                "text": "Anyone who hates other believers is like someone who murders other people. You know that a person like that does not have true life with God."
+              }
+            ],
+            [
+              {
+                "verse": 16,
+                "text": "This is how we know what true love is: Jesus Christ gave his own life on the cross. He died on our behalf. So we too ought to give our lives for other believers."
+              },
+              {
+                "verse": 17,
+                "text": "When another believer has trouble, we need to be kind to him. Maybe you have all the things that you need to live. If you see another believer who needs things like that, you should help him. If you refuse to be kind to him, it shows that you do not belong to God. You do not love people in the way that God loves them."
+              }
+            ],
+            [
+              {
                 "verse": 18,
-                "text": "My little children, do not let our love be in word and in tongue, but let it be in act and in good faith."
+                "text": "My little children, we should not show love for each other only by what we say. We should also show true love by the things that we do."
               },
               {
                 "verse": 19,
-                "text": "In this way we may be certain that we are true, and may give our heart comfort before him,"
+                "text": "Then we will know that we truly belong to God. We will be obeying God's true message. As a result, our thoughts will not make us ashamed to come to God."
               },
               {
                 "verse": 20,
-                "text": "When our heart says that we have done wrong; because God is greater than our heart, and has knowledge of all things."
+                "text": "Even if our thoughts tell us that we have done something wrong, we still will not be afraid of God. We can trust God more than we trust our thoughts. He already knows everything about us."
               }
             ],
             [
               {
                 "verse": 21,
-                "text": "My loved ones, if our heart does not say that we have done wrong, we have no fear before him;"
+                "text": "My friends, if our thoughts do not tell us that we are guilty, we will not be afraid to come to God."
               },
               {
                 "verse": 22,
-                "text": "And he gives us all our requests, because we keep his laws and do the things which are pleasing in his eyes."
+                "text": "We can pray to God and we can ask him to help us. He will give us what we ask him for. That is because we obey his commands and we do the things that please him."
               },
               {
                 "verse": 23,
-                "text": "And this is his law, that we have faith in the name of his Son Jesus Christ, and love for one another, even as he said to us."
+                "text": "This is God's command to us: we must believe that Jesus Christ is his Son. And we must love each other, as Jesus commanded us."
               },
               {
                 "verse": 24,
-                "text": "He who keeps his laws is in God and God is in him. And the Spirit which he gave us is our witness that he is in us."
+                "text": "Anyone who obeys God's commands lives together with God. God also lives in him. How do we know that God lives in us? It is because of his Holy Spirit that he has given to us."
               }
             ]
           ]
         }
       ],
-      "verses": [
-        {
-          "verse": 1,
-          "text": "See what great love the Father has given us in naming us the children of God; and such we are. For this reason the world does not see who we are, because it did not see who he was."
-        },
-        {
-          "verse": 2,
-          "text": "My loved ones, now we are children of God, and at present it is not clear what we are to be. We are certain that at his revelation we will be like him; for we will see him as he is."
-        },
-        {
-          "verse": 3,
-          "text": "And everyone who has this hope in him makes himself holy, even as he is holy."
-        },
-        {
-          "verse": 4,
-          "text": "Everyone who is a sinner goes against the law, for sin is going against the law."
-        },
-        {
-          "verse": 5,
-          "text": "And you have knowledge that he came to take away sin: and in him there is no sin."
-        },
-        {
-          "verse": 6,
-          "text": "Anyone who is in him does no sin; anyone who is a sinner has not seen him and has no knowledge of him."
-        },
-        {
-          "verse": 7,
-          "text": "My little children, let no man take you out of the true way: he who does righteousness is upright, even as he is upright;"
-        },
-        {
-          "verse": 8,
-          "text": "The sinner is a child of the Evil One; for the Evil One has been a sinner from the first. And the Son of God was seen on earth so that he might put an end to the works of the Evil One."
-        },
-        {
-          "verse": 9,
-          "text": "Anyone who is a child of God does no sin, because he still has God's seed in him; he is not able to be a sinner, because God is his Father."
-        },
-        {
-          "verse": 10,
-          "text": "In this way it is clear who are the children of God and who are the children of the Evil One; anyone who does not do righteousness or who has no love for his brother, is not a child of God."
-        },
-        {
-          "verse": 11,
-          "text": "Because this is the word which was given to you from the first, that we are to have love for one another;"
-        },
-        {
-          "verse": 12,
-          "text": "Not being of the Evil One like Cain, who put his brother to death. And why did he put him to death? Because his works were evil and his brother's works were good."
-        },
-        {
-          "verse": 13,
-          "text": "Do not be surprised, my brothers, if the world has no love for you."
-        },
-        {
-          "verse": 14,
-          "text": "We are conscious that we have come out of death into life because of our love for the brothers. He who has no love is still in death."
-        },
-        {
-          "verse": 15,
-          "text": "Anyone who has hate for his brother is a taker of life, and you may be certain that no taker of life has eternal life in him."
-        },
-        {
-          "verse": 16,
-          "text": "In this we see what love is, because he gave his life for us; and it is right for us to give our lives for the brothers."
-        },
-        {
-          "verse": 17,
-          "text": "But if a man has this world's goods, and sees that his brother is in need, and keeps his heart shut against his brother, how is it possible for the love of God to be in him?"
-        },
-        {
-          "verse": 18,
-          "text": "My little children, do not let our love be in word and in tongue, but let it be in act and in good faith."
-        },
-        {
-          "verse": 19,
-          "text": "In this way we may be certain that we are true, and may give our heart comfort before him,"
-        },
-        {
-          "verse": 20,
-          "text": "When our heart says that we have done wrong; because God is greater than our heart, and has knowledge of all things."
-        },
-        {
-          "verse": 21,
-          "text": "My loved ones, if our heart does not say that we have done wrong, we have no fear before him;"
-        },
-        {
-          "verse": 22,
-          "text": "And he gives us all our requests, because we keep his laws and do the things which are pleasing in his eyes."
-        },
-        {
-          "verse": 23,
-          "text": "And this is his law, that we have faith in the name of his Son Jesus Christ, and love for one another, even as he said to us."
-        },
-        {
-          "verse": 24,
-          "text": "He who keeps his laws is in God and God is in him. And the Spirit which he gave us is our witness that he is in us."
-        }
-      ],
-      "totalVerses": 24,
-      "footnotes": []
+      "notes": []
     },
     {
-      "book": "1 John",
       "chapter": 4,
       "title": "1 John 4",
-      "subtitle": "1 John Chapter 4",
+      "subtitle": "",
+      "totalVerses": 21,
+      "sourceUrl": "https://www.easyenglish.bible/bible/easy/1-john/4/",
       "sections": [
         {
-          "heading": "1 John Chapter 4",
+          "heading": "The Holy Spirit and false spirits",
           "items": [
             [
               {
                 "verse": 1,
-                "text": "My loved ones, do not put your faith in every spirit, but put them to the test, to see if they are from God: because a great number of false prophets have gone out into the world."
-              },
-              {
-                "verse": 2,
-                "text": "By this you may have knowledge of the Spirit of God: every spirit which says that Jesus Christ has come in the flesh is of God:"
-              },
-              {
-                "verse": 3,
-                "text": "And every spirit which does not say this is not from God: this is the spirit of Antichrist, of which you have had word; and it is in the world even now."
-              },
-              {
-                "verse": 4,
-                "text": "You are of God, my little children, and you have overcome them because he who is in you is greater than he who is in the world."
+                "text": "My friends, do not believe everyone who says that they speak God's message. There are many false prophets who are travelling around everywhere. They say that they have a message from God's Spirit, but the message comes from a false spirit. So check each message carefully to see if it is really from God."
               }
             ],
             [
               {
+                "verse": 2,
+                "text": "How do you know whether a person has God's Spirit in him? He must agree that Jesus is God's Messiah who was born as a human baby. If someone says that, then he has God's Spirit."
+              },
+              {
+                "verse": 3,
+                "text": "But if someone does not agree to say that about Jesus, he does not have God's Spirit. That person has a spirit that comes from the enemy of Christ. You have heard that this enemy of Christ would come among us. Now this spirit is already here in the world."
+              }
+            ],
+            [
+              {
+                "verse": 4,
+                "text": "My little children, you belong to God. You have won against those people with a false message. You have been able to do that because God's Holy Spirit is in you. He is more powerful than the spirit that belongs to this world."
+              },
+              {
                 "verse": 5,
-                "text": "They are of the world, so their talk is the world's talk, and the world gives ear to them."
+                "text": "Those false prophets belong to this world. Their message comes from the ideas of people of this world. So the people of this world believe what they teach."
               },
               {
                 "verse": 6,
-                "text": "We are of God: he who has the knowledge of God gives ear to us; he who is not of God does not give ear to us. By this we may see which is the true spirit, and which is the spirit of error."
-              },
+                "text": "But we belong to God. Everyone who knows God believes our message. But anyone who does not belong to God does not believe it."
+              }
+            ],
+            [
+              {
+                "verse": 6,
+                "text": "So that is how we know if someone's message comes from God's Spirit or not. God's Spirit brings us a true message, but false spirits tell lies."
+              }
+            ]
+          ]
+        },
+        {
+          "heading": "God is love so Christians must love each other",
+          "items": [
+            [
               {
                 "verse": 7,
-                "text": "My loved ones, let us have love for one another: because love is of God, and everyone who has love is a child of God and has knowledge of God."
+                "text": "My friends, we should all love each other. It is God who makes us able to love other people. Everyone who loves other people has become a child of God. That person knows God."
               },
               {
                 "verse": 8,
-                "text": "He who has no love has no knowledge of God, because God is love."
+                "text": "Anyone who does not love other people does not know God. We know this because God's own nature is love."
               }
             ],
             [
               {
                 "verse": 9,
-                "text": "And the love of God was made clear to us when he sent his only Son into the world so that we might have life through him."
+                "text": "This is how God showed that he loves us: He sent his only Son to come and live in the world. He did that so that we could have true life with God because of his Son."
               },
               {
                 "verse": 10,
-                "text": "And this is love, not that we had love for God, but that he had love for us, and sent his Son to be an offering for our sins."
-              },
-              {
-                "verse": 11,
-                "text": "My loved ones, if God had such love for us, it is right for us to have love for one another."
-              },
-              {
-                "verse": 12,
-                "text": "No man has ever seen God: if we have love for one another, God is in us and his love is made complete in us:"
+                "text": "This shows what love is: It is not that we have loved God, but that he loved us. He loved us so much that he sent his Son to save us from sin. He sent Jesus to die as a sacrifice, to take the punishment for our sins."
               }
             ],
             [
               {
+                "verse": 11,
+                "text": "My friends, this shows how much God has loved us. So we also should love one another."
+              }
+            ],
+            [
+              {
+                "verse": 12,
+                "text": "Nobody has ever seen God. But, if we love each other, it shows that God lives in us. As a result, we can love people completely, in the same way that God loves us."
+              },
+              {
                 "verse": 13,
-                "text": "And his Spirit which he has given us is the witness that we are in him and he is in us."
+                "text": "God has given us his Holy Spirit to live in us. Because of this, we know that we live together with God. And we know that he lives with us."
               },
               {
                 "verse": 14,
-                "text": "And we have seen and give witness that the Father sent the Son to be the Saviour of the world."
-              },
+                "text": "God the Father sent his Son to come into the world. God sent him to save the people of the world from their sins. We apostles have seen that this is true. So now we are telling people about it."
+              }
+            ],
+            [
               {
                 "verse": 15,
-                "text": "Everyone who says openly that Jesus is the Son of God, has God in him and is in God."
+                "text": "If anyone says clearly that Jesus is the Son of God, God lives in that person. And that person lives together with God."
               },
               {
                 "verse": 16,
-                "text": "And we have seen and had faith in the love which God has for us. God is love, and everyone who has love is in God, and God is in him."
+                "text": "So we know the kind of love that God has for us. We believe that God has put that love in us. God's nature is love. So, if someone continues to love other people, he is living together with God. And God lives in him."
+              },
+              {
+                "verse": 17,
+                "text": "That is how we are able to love other people completely. Then, we will not be afraid on the day when God will judge all people. We can be sure that God will not punish us. We know this because we have lived in this world in the way that Jesus lived."
               }
             ],
             [
               {
-                "verse": 17,
-                "text": "In this way love is made complete in us, so that we may be without fear on the day of judging, because as he is, so are we in this world."
-              },
-              {
                 "verse": 18,
-                "text": "There is no fear in love: true love has no room for fear, because where fear is, there is pain; and he who is not free from fear is not complete in love."
-              },
+                "text": "If we really love God, we will not be afraid of him. We cannot love him completely and also be afraid. We would only be afraid of God if we thought that he would punish us. So, if someone is afraid that God will punish them, it shows that they do not completely know God's love."
+              }
+            ],
+            [
               {
                 "verse": 19,
-                "text": "We have the power of loving, because he first had love for us."
+                "text": "We are able to love God and other people because God loved us first."
               },
               {
                 "verse": 20,
-                "text": "If a man says, I have love for God, and has hate for his brother, his words are false: for how is the man who has no love for his brother whom he has seen, able to have love for God whom he has not seen?"
-              }
-            ],
-            [
+                "text": "Someone might say, ‘I love God.’ But if he says that and he hates another Christian, he is telling a lie. He does not love other believers that he can see. So he surely cannot love God when he cannot see God."
+              },
               {
                 "verse": 21,
-                "text": "And this is the word which we have from him, that he who has love for God is to have the same love for his brother."
+                "text": "This is the command that God has given us: Anyone who loves him must love other Christians too."
               }
             ]
           ]
         }
       ],
-      "verses": [
-        {
-          "verse": 1,
-          "text": "My loved ones, do not put your faith in every spirit, but put them to the test, to see if they are from God: because a great number of false prophets have gone out into the world."
-        },
-        {
-          "verse": 2,
-          "text": "By this you may have knowledge of the Spirit of God: every spirit which says that Jesus Christ has come in the flesh is of God:"
-        },
-        {
-          "verse": 3,
-          "text": "And every spirit which does not say this is not from God: this is the spirit of Antichrist, of which you have had word; and it is in the world even now."
-        },
-        {
-          "verse": 4,
-          "text": "You are of God, my little children, and you have overcome them because he who is in you is greater than he who is in the world."
-        },
-        {
-          "verse": 5,
-          "text": "They are of the world, so their talk is the world's talk, and the world gives ear to them."
-        },
-        {
-          "verse": 6,
-          "text": "We are of God: he who has the knowledge of God gives ear to us; he who is not of God does not give ear to us. By this we may see which is the true spirit, and which is the spirit of error."
-        },
-        {
-          "verse": 7,
-          "text": "My loved ones, let us have love for one another: because love is of God, and everyone who has love is a child of God and has knowledge of God."
-        },
-        {
-          "verse": 8,
-          "text": "He who has no love has no knowledge of God, because God is love."
-        },
-        {
-          "verse": 9,
-          "text": "And the love of God was made clear to us when he sent his only Son into the world so that we might have life through him."
-        },
-        {
-          "verse": 10,
-          "text": "And this is love, not that we had love for God, but that he had love for us, and sent his Son to be an offering for our sins."
-        },
-        {
-          "verse": 11,
-          "text": "My loved ones, if God had such love for us, it is right for us to have love for one another."
-        },
-        {
-          "verse": 12,
-          "text": "No man has ever seen God: if we have love for one another, God is in us and his love is made complete in us:"
-        },
-        {
-          "verse": 13,
-          "text": "And his Spirit which he has given us is the witness that we are in him and he is in us."
-        },
-        {
-          "verse": 14,
-          "text": "And we have seen and give witness that the Father sent the Son to be the Saviour of the world."
-        },
-        {
-          "verse": 15,
-          "text": "Everyone who says openly that Jesus is the Son of God, has God in him and is in God."
-        },
-        {
-          "verse": 16,
-          "text": "And we have seen and had faith in the love which God has for us. God is love, and everyone who has love is in God, and God is in him."
-        },
-        {
-          "verse": 17,
-          "text": "In this way love is made complete in us, so that we may be without fear on the day of judging, because as he is, so are we in this world."
-        },
-        {
-          "verse": 18,
-          "text": "There is no fear in love: true love has no room for fear, because where fear is, there is pain; and he who is not free from fear is not complete in love."
-        },
-        {
-          "verse": 19,
-          "text": "We have the power of loving, because he first had love for us."
-        },
-        {
-          "verse": 20,
-          "text": "If a man says, I have love for God, and has hate for his brother, his words are false: for how is the man who has no love for his brother whom he has seen, able to have love for God whom he has not seen?"
-        },
-        {
-          "verse": 21,
-          "text": "And this is the word which we have from him, that he who has love for God is to have the same love for his brother."
-        }
-      ],
-      "totalVerses": 21,
-      "footnotes": []
+      "notes": [
+        "The falseprophets‘belong to this world’ because they do not listen to God's message for them. Instead, they speak their own ideas."
+      ]
     },
     {
-      "book": "1 John",
       "chapter": 5,
       "title": "1 John 5",
-      "subtitle": "1 John Chapter 5",
+      "subtitle": "",
+      "totalVerses": 21,
+      "sourceUrl": "https://www.easyenglish.bible/bible/easy/1-john/5/",
       "sections": [
         {
-          "heading": "1 John Chapter 5",
+          "heading": "Believe in Jesus Christ and obey God",
           "items": [
             [
               {
                 "verse": 1,
-                "text": "Everyone who has faith that Jesus is the Christ is a child of God: and everyone who has love for the Father has love for his child."
+                "text": "Everyone who believes that Jesus is God's Messiah has become a child of God. And if we love God, our Father, we will love his other children too."
               },
               {
                 "verse": 2,
-                "text": "In this way, we are certain that we have love for the children of God, when we have love for God and keep his laws."
+                "text": "How do we know that we love God's children? We know it when we love God and we do what he tells us to do."
               },
               {
                 "verse": 3,
-                "text": "For loving God is keeping his laws: and his laws are not hard."
+                "text": "Because, if we really love God, we will obey his commands. And those commands are not difficult for us to obey."
               },
               {
                 "verse": 4,
-                "text": "Anything which comes from God is able to overcome the world: and the power by which we have overcome the world is our faith."
+                "text": "Because we have become God's children, we can live in a good way. We can refuse to live like people who belong to this world. We are able to win against the wrong ways of this world because we trust Jesus Christ."
+              },
+              {
+                "verse": 5,
+                "text": "It is only people who believe that Jesus is the Son of God who can do that. Only they can win against the wrong ways of this world."
               }
             ],
             [
               {
-                "verse": 5,
-                "text": "Who is able to overcome the world but the man who has faith that Jesus is the Son of God?"
-              },
-              {
                 "verse": 6,
-                "text": "This is he who came by water and by blood, Jesus Christ; not by water only but by water and by blood."
+                "text": "Jesus Christ is the one who came into the world. John baptized Jesus in water. When Jesus died, his blood poured out. God showed that Jesus is his Son with the water and with the blood. It was not only with the water of Jesus' baptism. It was also with the blood of his death. God's Holy Spirit also shows us that Jesus is God's Son. The Holy Spirit always says what is true."
               },
               {
                 "verse": 7,
-                "text": "And the Spirit is the witness, because the Spirit is true."
+                "text": "So there are three things that show us clearly that Jesus came from God."
               },
               {
                 "verse": 8,
-                "text": "There are three witnesses, the Spirit, the water, and the blood: and all three are in agreement."
+                "text": "Those things are the Holy Spirit, the water of Jesus' baptism and the blood of his death on the cross. These all show us the same thing, that Jesus came from God."
               }
             ],
             [
               {
                 "verse": 9,
-                "text": "If we take the witness of men to be true, the witness of God is greater: because this is the witness which God has given about his Son."
-              },
+                "text": "We believe people who tell us about things that they know. So we can believe even more what God says. He has told us what is true about his Son. So we should believe his message."
+              }
+            ],
+            [
               {
                 "verse": 10,
-                "text": "He who has faith in the Son of God has the witness in himself: he who has not faith in God makes him false, because he has not faith in the witness which God has given about his Son."
+                "text": "Anyone who believes in Jesus, the Son of God, will know that what God says is true. But anyone who does not believe God is saying that God tells lies. He does not believe the message that God has told us clearly about his Son."
               },
               {
                 "verse": 11,
-                "text": "And his witness is this, that God has given us eternal life, and this life is in his Son."
+                "text": "This is what God has told us: God has given us life with him that never ends. We receive this life when we believe in his Son, Jesus."
               },
               {
                 "verse": 12,
-                "text": "He who has the Son has the life; he who has not the Son of God has not the life."
+                "text": "So whoever belongs to the Son has this true life. But anyone who does not belong to the Son of God does not have this true life."
               }
-            ],
+            ]
+          ]
+        },
+        {
+          "heading": "People who believe in Jesus have true life with God",
+          "items": [
             [
               {
                 "verse": 13,
-                "text": "I have put these things in writing for you who have faith in the name of the Son of God, so that you may be certain that you have eternal life."
+                "text": "I write these things to you who believe that Jesus is the Son of God. I want you to know that you have true life with God for ever."
               },
               {
                 "verse": 14,
-                "text": "And we are certain that if we make any request to him which is right in his eyes, he will give ear to us:"
+                "text": "Also, we can trust God to help us when we turn to him. We know that he will hear us. When we ask for anything that he wants us to have, he listens to us."
               },
               {
                 "verse": 15,
-                "text": "And if we are certain that he gives ear to all our requests, we are equally certain that we will get our requests."
-              },
-              {
-                "verse": 16,
-                "text": "If a man sees his brother doing a sin which is not bad enough for death, let him make a prayer to God, and God will give life to him whose sin was not bad enough for death. There is a sin whose punishment is death: I do not say that he may make such a request then."
+                "text": "Since we know that, we also know that God will give us the things that we ask for. It is as if we have already received those things from him."
               }
             ],
             [
               {
-                "verse": 17,
-                "text": "All evil-doing is sin: but death is not the punishment for every sort of sin."
+                "verse": 16,
+                "text": "If you see that another Christian is doing something bad, this is what you should do. If it is a sin that does not cause death, pray that God will help him. Then God will help that person to live for ever with him. That is for a sin which does not cause death. But there is a sin that causes death. If another Christian does that, I am not saying that you should pray for God to help that person."
               },
               {
+                "verse": 17,
+                "text": "Any wrong thing that a person does is sin. But not all sins cause death."
+              }
+            ],
+            [
+              {
                 "verse": 18,
-                "text": "We are certain that one who is a child of God will do no sin, but the Son of God keeps him so that he is not touched by the Evil One."
+                "text": "Nobody who has become a child of God continues to do wrong things. Instead, the Son of God keeps him safe. Satan cannot do anything against a child of God."
               },
               {
                 "verse": 19,
-                "text": "We are certain that we are of God, but all the world is in the power of the Evil One."
+                "text": "We know that we belong to God. We know that Satan rules all the people who belong to this world."
               },
               {
                 "verse": 20,
-                "text": "And we are certain that the Son of God has come, and has given us a clear vision, so that we may see him who is true, and we are in him who is true, in his Son Jesus Christ. He is the true God and eternal life."
+                "text": "We also know that the Son of God has come into the world. He has helped us to understand what is true. As a result, we know the only true God. We live together with this true God, because we belong to his Son, Jesus Christ. He is the true God. He is the one who gives us life with God for ever."
               }
             ],
             [
               {
                 "verse": 21,
-                "text": "My little children, keep yourselves from false gods."
+                "text": "My little children, be careful to keep away from idols."
               }
             ]
           ]
         }
       ],
-      "verses": [
-        {
-          "verse": 1,
-          "text": "Everyone who has faith that Jesus is the Christ is a child of God: and everyone who has love for the Father has love for his child."
-        },
-        {
-          "verse": 2,
-          "text": "In this way, we are certain that we have love for the children of God, when we have love for God and keep his laws."
-        },
-        {
-          "verse": 3,
-          "text": "For loving God is keeping his laws: and his laws are not hard."
-        },
-        {
-          "verse": 4,
-          "text": "Anything which comes from God is able to overcome the world: and the power by which we have overcome the world is our faith."
-        },
-        {
-          "verse": 5,
-          "text": "Who is able to overcome the world but the man who has faith that Jesus is the Son of God?"
-        },
-        {
-          "verse": 6,
-          "text": "This is he who came by water and by blood, Jesus Christ; not by water only but by water and by blood."
-        },
-        {
-          "verse": 7,
-          "text": "And the Spirit is the witness, because the Spirit is true."
-        },
-        {
-          "verse": 8,
-          "text": "There are three witnesses, the Spirit, the water, and the blood: and all three are in agreement."
-        },
-        {
-          "verse": 9,
-          "text": "If we take the witness of men to be true, the witness of God is greater: because this is the witness which God has given about his Son."
-        },
-        {
-          "verse": 10,
-          "text": "He who has faith in the Son of God has the witness in himself: he who has not faith in God makes him false, because he has not faith in the witness which God has given about his Son."
-        },
-        {
-          "verse": 11,
-          "text": "And his witness is this, that God has given us eternal life, and this life is in his Son."
-        },
-        {
-          "verse": 12,
-          "text": "He who has the Son has the life; he who has not the Son of God has not the life."
-        },
-        {
-          "verse": 13,
-          "text": "I have put these things in writing for you who have faith in the name of the Son of God, so that you may be certain that you have eternal life."
-        },
-        {
-          "verse": 14,
-          "text": "And we are certain that if we make any request to him which is right in his eyes, he will give ear to us:"
-        },
-        {
-          "verse": 15,
-          "text": "And if we are certain that he gives ear to all our requests, we are equally certain that we will get our requests."
-        },
-        {
-          "verse": 16,
-          "text": "If a man sees his brother doing a sin which is not bad enough for death, let him make a prayer to God, and God will give life to him whose sin was not bad enough for death. There is a sin whose punishment is death: I do not say that he may make such a request then."
-        },
-        {
-          "verse": 17,
-          "text": "All evil-doing is sin: but death is not the punishment for every sort of sin."
-        },
-        {
-          "verse": 18,
-          "text": "We are certain that one who is a child of God will do no sin, but the Son of God keeps him so that he is not touched by the Evil One."
-        },
-        {
-          "verse": 19,
-          "text": "We are certain that we are of God, but all the world is in the power of the Evil One."
-        },
-        {
-          "verse": 20,
-          "text": "And we are certain that the Son of God has come, and has given us a clear vision, so that we may see him who is true, and we are in him who is true, in his Son Jesus Christ. He is the true God and eternal life."
-        },
-        {
-          "verse": 21,
-          "text": "My little children, keep yourselves from false gods."
-        }
-      ],
-      "totalVerses": 21,
-      "footnotes": []
+      "notes": [
+        "When JohnbaptizedJesus, God spoke fromheaven. He said, ‘This is my Son.’ SeeMatthew 17:5;Mark 9:7;Luke 9:35. When Jesus died on thecross, he did that as asacrificeto save us from oursins. His blood was the blood of a sacrifice offered to God.",
+        "Asinthat causes death is a sin that makes a person separate from life with God. Asinlike that causes a person to die in theirspirit.",
+        "‘The people who belong to this world’ are people who do not accept God's authority to rule them."
+      ]
     }
   ]
 }

@@ -1,1608 +1,1127 @@
 {
-  "translation": "EasyEnglish Bible",
-  "book": "Esther",
-  "bookId": "EST",
+  "id": "EST",
+  "name": "Esther",
+  "slug": "esther",
+  "translation": "EasyEnglish Bible (EASY)",
+  "publisher": "MissionAssist UK",
+  "referenceUrl": "https://www.easyenglish.bible/bible/easy/esther/",
   "totalChapters": 10,
-  "copyrightNotice": "Scripture quotations are from the EasyEnglish Bible / Bible in Basic English. Public Domain.",
-  "officialSourceUrl": "https://www.easyenglish.bible/bible/easy/esther/1/",
+  "totalVerses": 166,
   "chapters": [
     {
-      "book": "Esther",
       "chapter": 1,
       "title": "Esther 1",
-      "subtitle": "Esther Chapter 1",
+      "subtitle": "",
+      "totalVerses": 22,
+      "sourceUrl": "https://www.easyenglish.bible/bible/easy/esther/1/",
       "sections": [
         {
-          "heading": "Esther Chapter 1",
+          "heading": "Queen Vashti does not obey King Xerxes",
           "items": [
             [
               {
                 "verse": 1,
-                "text": "Now it came about in the days of Ahasuerus, (that Ahasuerus who was ruler of a hundred and twenty-seven divisions of the kingdom, from India as far as Ethiopia:)"
+                "text": "These things happened when King Xerxes ruled. He was the king who ruled over 127 regions, from India to Ethiopia."
               },
               {
                 "verse": 2,
-                "text": "That in those days, when King Ahasuerus was ruling in Shushan, his strong town,"
+                "text": "King Xerxes lived in the capital, the city of Susa."
               },
               {
                 "verse": 3,
-                "text": "In the third year of his rule he gave a feast to all his captains and his servants; and the captains of the army of Persia and Media, the great men and the rulers of the divisions of his kingdom, were present before him;"
-              },
-              {
-                "verse": 4,
-                "text": "And for a long time, even a hundred and eighty days, he let them see all the wealth and the glory of his kingdom and the great power and honour which were his."
+                "text": "During the third year that he ruled, he gave a big feast for his leaders and officers. The soldiers from the army of Persia and Media came to the feast. The rulers and leaders of the regions in the kingdom also came."
               }
             ],
             [
               {
+                "verse": 4,
+                "text": "The feast continued for 180 days. King Xerxes wanted to show everyone how rich and powerful he was. He wanted to show that he was a great king."
+              },
+              {
                 "verse": 5,
-                "text": "And at the end of that time, the king gave a feast for all the people who were present in Shushan, the king's town, small as well as great, for seven days, in the outer square of the garden of the king's house."
+                "text": "When this feast finished, he gave another feast for everyone who lived in Susa. It was for people who were important, and for ordinary people as well. The feast continued for seven days. It was in part of the garden of the king's palace."
               },
               {
                 "verse": 6,
-                "text": "There were fair hangings of white and green and blue, fixed with cords of purple and the best linen to silver rings and pillars of polished stone: the seats were of gold and silver on a floor of red and white and yellow and black stone."
-              },
+                "text": "The gardens had curtains made of expensive white linen and purple material. They hung from silver rings on white stone pillars. White and purple strings held the curtains. There were seats made from gold and silver. The floor had many kinds of valuable stones to make it beautiful."
+              }
+            ],
+            [
               {
                 "verse": 7,
-                "text": "And they gave them drink in gold vessels, every vessel being different, and wine of the kingdom, freely given by the king."
+                "text": "People at the feast drank from gold cups. Each cup was different. The king gave plenty of his own wine to everyone to drink."
               },
               {
                 "verse": 8,
-                "text": "And the drinking was in keeping with the law; no one was forced: for the king had given orders to all the chief servants of his house to do as was pleasing to every man."
+                "text": "Everyone could drink as much wine as they wanted. The king told his officers to give each person what they wanted, no more and no less."
               }
             ],
             [
               {
                 "verse": 9,
-                "text": "And Vashti the queen gave a feast for the women in the house of King Ahasuerus."
-              },
+                "text": "At the same time, the king's wife, Queen Vashti, gave a feast for all the women in the palace."
+              }
+            ],
+            [
               {
                 "verse": 10,
-                "text": "On the seventh day, when the heart of the king was glad with wine, he gave orders to Mehuman, Biztha, Harbona, Bigtha, and Abagtha, Zethar, and Carcas, the seven unsexed servants who were waiting before Ahasuerus the king,"
+                "text": "On the seventh day of the feast, King Xerxes was feeling happy, because he had drunk so much wine. He had seven eunuchs who served him in the palace. Their names were Mehuman, Biztha, Harbona, Bigtha, Abagtha, Zethar and Carcas."
               },
               {
                 "verse": 11,
-                "text": "That Vashti the queen was to come before him, crowned with her crown, and let the people and the captains see her: for she was very beautiful."
+                "text": "He told them to bring Queen Vashti to him. He said that she must wear her royal crown. He wanted to show everyone at his feast how beautiful his queen was. She was a very beautiful woman."
               },
               {
                 "verse": 12,
-                "text": "But when the servants gave her the king's order, Vashti the queen said she would not come: then the king was very angry, and his heart was burning with wrath."
+                "text": "The eunuchs told Queen Vashti what the king had commanded. But she refused to go to him. This made the king very angry."
               }
-            ],
+            ]
+          ]
+        },
+        {
+          "heading": "King Xerxes sends Queen Vashti away",
+          "items": [
             [
               {
                 "verse": 13,
-                "text": "And the king said to the wise men, who had knowledge of the times, (for this was the king's way with all who were expert in law and in the giving of decisions:"
+                "text": "The king spoke to his wise advisors about what had happened. These men understood the laws and customs of Persia. When something like this happened, the king would ask them what he should do."
               },
               {
                 "verse": 14,
-                "text": "And second only to him were Carshena, Shethar, Admatha, Tarshish, Meres, Marsena, and Memucan, the seven rulers of Persia and Media, who were friends of the king, and had the first places in the kingdom:)"
-              },
-              {
-                "verse": 15,
-                "text": "What is to be done by law to Vashti the queen, because she has not done what King Ahasuerus, by his servants, gave her orders to do?"
-              },
-              {
-                "verse": 16,
-                "text": "And before the king and the captains, Memucan gave his answer: Vashti the queen has done wrong, not only to the king, but to all the captains and to all the peoples in all the divisions of the kingdom of King Ahasuerus;"
+                "text": "The seven advisors who were often with the king were Carshena, Shethar, Admatha, Tarshish, Meres, Marsena and Memukan. These men were the most important officers in the kingdom."
               }
             ],
             [
               {
+                "verse": 15,
+                "text": "The king asked them, ‘What should we do with Queen Vashti? What does our law say about this? The eunuchs took my message to her, but she did not obey my command. And I am the king!’"
+              }
+            ],
+            [
+              {
+                "verse": 16,
+                "text": "One of the advisors, Memukan, replied to the king and the other officers. He said, ‘Queen Vashti has not only done something wrong against you, the king. She has also done a wrong thing against all the officers and all the people too. That is all the men who live in your kingdom."
+              },
+              {
                 "verse": 17,
-                "text": "For news of what the queen has done will come to the ears of all women, and they will no longer give respect to their husbands when it is said to them, King Ahasuerus gave orders for Vashti the queen to come before him and she came not."
+                "text": "When other women hear about this, they will not obey their own husbands. All the women will say, “Queen Vashti did not obey her husband, King Xerxes. When he told her to come to him, she refused to do it!”"
               },
               {
                 "verse": 18,
-                "text": "And the wives of the captains of Persia and Media, hearing what the queen has done, will say the same to all the king's captains. So there will be much shame and wrath."
-              },
+                "text": "Everywhere in Persia and Media, the wives of the king's officers will know what Queen Vashti has done. From today, they will refuse to obey their husbands. They will no longer respect their husbands, and the men will be very angry."
+              }
+            ],
+            [
               {
                 "verse": 19,
-                "text": "If it is pleasing to the king, let an order go out from him, and let it be recorded among the laws of the Persians and the Medes, so that it may never be changed, that Vashti is never again to come before King Ahasuerus; and let the king give her place to another who is better than she."
+                "text": "So we suggest this, if you agree as king. You should give a royal command. It should become one of the laws of Persia and Media, so that nobody can change it. This law must say that Vashti must never see you again. Then you should find a woman who deserves to be queen more than Vashti."
               },
               {
                 "verse": 20,
-                "text": "And when this order, given by the king, is made public through all his kingdom (for it is great), all the wives will give honour to their husbands, great as well as small."
+                "text": "You must send this command to everyone in your great kingdom. When people know about this law, all the women will respect their husbands. They will obey them, whether they are important people or ordinary people.’"
               }
             ],
             [
               {
                 "verse": 21,
-                "text": "And this suggestion seemed good to the king and the captains; and the king did as Memucan said;"
+                "text": "The king and his officers liked this idea. So the king did as Memukan had said."
               },
               {
                 "verse": 22,
-                "text": "And sent letters to all the divisions of the kingdom, to every division in the writing commonly used there, and to every people in the language which was theirs, saying that every man was to be the ruler in his house, and that this order was to be given out in the language of his people."
+                "text": "He sent letters to all the regions of his kingdom. The letters were in the language of each region, so that all the people could read and understand the law. The law said that every man should be the ruler of his family and he should speak the language of his people."
               }
             ]
           ]
         }
       ],
-      "verses": [
-        {
-          "verse": 1,
-          "text": "Now it came about in the days of Ahasuerus, (that Ahasuerus who was ruler of a hundred and twenty-seven divisions of the kingdom, from India as far as Ethiopia:)"
-        },
-        {
-          "verse": 2,
-          "text": "That in those days, when King Ahasuerus was ruling in Shushan, his strong town,"
-        },
-        {
-          "verse": 3,
-          "text": "In the third year of his rule he gave a feast to all his captains and his servants; and the captains of the army of Persia and Media, the great men and the rulers of the divisions of his kingdom, were present before him;"
-        },
-        {
-          "verse": 4,
-          "text": "And for a long time, even a hundred and eighty days, he let them see all the wealth and the glory of his kingdom and the great power and honour which were his."
-        },
-        {
-          "verse": 5,
-          "text": "And at the end of that time, the king gave a feast for all the people who were present in Shushan, the king's town, small as well as great, for seven days, in the outer square of the garden of the king's house."
-        },
-        {
-          "verse": 6,
-          "text": "There were fair hangings of white and green and blue, fixed with cords of purple and the best linen to silver rings and pillars of polished stone: the seats were of gold and silver on a floor of red and white and yellow and black stone."
-        },
-        {
-          "verse": 7,
-          "text": "And they gave them drink in gold vessels, every vessel being different, and wine of the kingdom, freely given by the king."
-        },
-        {
-          "verse": 8,
-          "text": "And the drinking was in keeping with the law; no one was forced: for the king had given orders to all the chief servants of his house to do as was pleasing to every man."
-        },
-        {
-          "verse": 9,
-          "text": "And Vashti the queen gave a feast for the women in the house of King Ahasuerus."
-        },
-        {
-          "verse": 10,
-          "text": "On the seventh day, when the heart of the king was glad with wine, he gave orders to Mehuman, Biztha, Harbona, Bigtha, and Abagtha, Zethar, and Carcas, the seven unsexed servants who were waiting before Ahasuerus the king,"
-        },
-        {
-          "verse": 11,
-          "text": "That Vashti the queen was to come before him, crowned with her crown, and let the people and the captains see her: for she was very beautiful."
-        },
-        {
-          "verse": 12,
-          "text": "But when the servants gave her the king's order, Vashti the queen said she would not come: then the king was very angry, and his heart was burning with wrath."
-        },
-        {
-          "verse": 13,
-          "text": "And the king said to the wise men, who had knowledge of the times, (for this was the king's way with all who were expert in law and in the giving of decisions:"
-        },
-        {
-          "verse": 14,
-          "text": "And second only to him were Carshena, Shethar, Admatha, Tarshish, Meres, Marsena, and Memucan, the seven rulers of Persia and Media, who were friends of the king, and had the first places in the kingdom:)"
-        },
-        {
-          "verse": 15,
-          "text": "What is to be done by law to Vashti the queen, because she has not done what King Ahasuerus, by his servants, gave her orders to do?"
-        },
-        {
-          "verse": 16,
-          "text": "And before the king and the captains, Memucan gave his answer: Vashti the queen has done wrong, not only to the king, but to all the captains and to all the peoples in all the divisions of the kingdom of King Ahasuerus;"
-        },
-        {
-          "verse": 17,
-          "text": "For news of what the queen has done will come to the ears of all women, and they will no longer give respect to their husbands when it is said to them, King Ahasuerus gave orders for Vashti the queen to come before him and she came not."
-        },
-        {
-          "verse": 18,
-          "text": "And the wives of the captains of Persia and Media, hearing what the queen has done, will say the same to all the king's captains. So there will be much shame and wrath."
-        },
-        {
-          "verse": 19,
-          "text": "If it is pleasing to the king, let an order go out from him, and let it be recorded among the laws of the Persians and the Medes, so that it may never be changed, that Vashti is never again to come before King Ahasuerus; and let the king give her place to another who is better than she."
-        },
-        {
-          "verse": 20,
-          "text": "And when this order, given by the king, is made public through all his kingdom (for it is great), all the wives will give honour to their husbands, great as well as small."
-        },
-        {
-          "verse": 21,
-          "text": "And this suggestion seemed good to the king and the captains; and the king did as Memucan said;"
-        },
-        {
-          "verse": 22,
-          "text": "And sent letters to all the divisions of the kingdom, to every division in the writing commonly used there, and to every people in the language which was theirs, saying that every man was to be the ruler in his house, and that this order was to be given out in the language of his people."
-        }
-      ],
-      "totalVerses": 22,
-      "footnotes": []
+      "notes": [
+        "Ethiopia was a country in north-east Africa that was a long way from Israel.",
+        "Queen Vashti had herfeastin a different part of thepalacethan the king's feast."
+      ]
     },
     {
-      "book": "Esther",
       "chapter": 2,
       "title": "Esther 2",
-      "subtitle": "Esther Chapter 2",
+      "subtitle": "",
+      "totalVerses": 23,
+      "sourceUrl": "https://www.easyenglish.bible/bible/easy/esther/2/",
       "sections": [
         {
-          "heading": "Esther Chapter 2",
+          "heading": "King Xerxes chooses Esther as his new queen",
           "items": [
             [
               {
                 "verse": 1,
-                "text": "After these things, when the king's feelings were calmer, the thought of Vashti and what she had done and the order he had made against her, came back to his mind."
-              },
+                "text": "Some time later, King Xerxes was not feeling so angry. He thought about Vashti and what she had done. He remembered the law that he had made, that she should not be queen any more."
+              }
+            ],
+            [
               {
                 "verse": 2,
-                "text": "Then the servants who were waiting on the king said to him, Let search be made for some fair young virgins for the king:"
+                "text": "The king's servants who helped him in the palace said, ‘The king should send some men to look for beautiful young women for him."
               },
               {
                 "verse": 3,
-                "text": "Let the king give authority to certain men in all the divisions of his kingdom, to get together all the fair young virgins and send them to Shushan, the king's town, to the women's house, under the care of Hegai, the king's servant, the keeper of the women: and let the things needed for making them clean be given to them;"
+                "text": "The king could choose officers from every region of his kingdom to do this. They will bring all the beautiful young women here to Susa. Hegai will take care of them in the royal harem. He is the eunuch who has that job. The young women will receive special oils and perfumes to make them more beautiful."
               },
               {
                 "verse": 4,
-                "text": "And let the girl who is pleasing to the king be queen in place of Vashti. And the king was pleased with this suggestion; and he did so."
+                "text": "The king may then choose the young woman who pleases him most. She could take the place of Vashti as queen.’"
+              }
+            ],
+            [
+              {
+                "verse": 4,
+                "text": "King Xerxes thought that this was a good idea. He did everything that the servants said."
               }
             ],
             [
               {
                 "verse": 5,
-                "text": "Now there was a certain Jew in Shushan named Mordecai, the son of Jair, the son of Shimei, the son of Kish, a Benjamite;"
+                "text": "A Jewish man called Mordecai lived in Susa. He was the son of Jair. Jair was the son of Shimei. Shimei was the son of Kish. Kish was a descendant of Benjamin."
               },
               {
                 "verse": 6,
-                "text": "Who had been taken away from Jerusalem among those who had been made prisoner with Jeconiah, king of Judah, when Nebuchadnezzar, king of Babylon, had taken him away."
-              },
-              {
-                "verse": 7,
-                "text": "And he had been a father to Hadassah, that is Esther, the daughter of his father's brother: for she had no father or mother, and she was very beautiful; and when her father and mother were dead, Mordecai took her for his daughter."
-              },
-              {
-                "verse": 8,
-                "text": "So when the order made by the king was publicly given out, and a number of girls had been placed in the care of Hegai in the king's house in Shushan, Esther was taken into the king's house and put in the care of Hegai, the keeper of the women."
+                "text": "When Nebuchadnezzar was king of Babylon, he had taken Kish away from Jerusalem as a prisoner. That was the time when Nebuchadnezzar also took Jeconiah, king of Judah, away to Babylon. He also took other Jews."
               }
             ],
             [
               {
-                "verse": 9,
-                "text": "And he was pleased with the girl and was kind to her; and he quickly gave her what was needed for making her clean, and the things which were hers by right, and seven servant-girls who were to be hers from the king's house: and he had her and her servant-girls moved to the best place in the women's part of the house."
+                "verse": 7,
+                "text": "Mordecai was taking care of a young cousin called Hadassah. She was also called Esther. Esther's mother and father were no longer alive. She was the daughter of Mordecai's uncle. When her parents died, Mordecai took care of her, as if she was his own daughter. Esther was very beautiful."
+              }
+            ],
+            [
+              {
+                "verse": 8,
+                "text": "Esther was one of the young women that the king's officers brought to Susa. That happened because of the king's command. The beautiful young women lived in the royal harem. Hegai had the authority to take care of them."
               },
               {
+                "verse": 9,
+                "text": "Hegai liked Esther and he was kind to her. As soon as Esther arrived, Hegai gave her special food and oils to make her more beautiful. He chose seven female servants from the king's palace to take care of her. Then he moved Esther and her servants to the best rooms in the harem."
+              }
+            ],
+            [
+              {
                 "verse": 10,
-                "text": "Esther had not said what family or people she came from, for Mordecai had given her orders not to do so."
+                "text": "Esther did not tell anyone that she was a Jew. That is what Mordecai had told her."
               },
               {
                 "verse": 11,
-                "text": "And every day Mordecai took his walk before the square of the women's house, to see how Esther was and what would be done to her."
-              },
+                "text": "Mordecai wanted to know what was happening to Esther. So every day he walked in the palace yard that was near the harem. He wanted to hear some news about her."
+              }
+            ],
+            [
               {
                 "verse": 12,
-                "text": "Now every girl, when her turn came, had to go in to King Ahasuerus, after undergoing, for a space of twelve months, what was ordered by the law for the women (for this was the time necessary for making them clean, that is, six months with oil of myrrh and six months with sweet perfumes and such things as are needed for making women clean):"
+                "text": "All the young women stayed in the harem for twelve months. For six months they received myrrh oil for their bodies. Then they received perfume and different kinds of oil for another six months. After that time they could each go to the king's bedroom."
               }
             ],
             [
               {
                 "verse": 13,
-                "text": "And in this way the girl went in to the king; whatever she had a desire for was given to her to take with her from the women's house into the house of the king."
+                "text": "When the time came for a young woman to go to the king, she could take whatever she wanted with her. She would take those things with her from the harem to the king's room."
               },
               {
                 "verse": 14,
-                "text": "In the evening she went, and on the day after she came back to the second house of the women, into the keeping of Shaashgaz, one of the king's unsexed servants who had the care of the king's wives: only if the king had delight in her and sent for her by name did she go in to him again."
-              },
+                "text": "She would go to be with the king in the evening. She stayed with him during that night. In the morning, she went to a different part of the harem, where the king's slave wives lived. One of the king's eunuchs, Shaashgaz, took care of them there. After that, the young woman would only see the king again if he was pleased with her. Then he would ask for her by name."
+              }
+            ],
+            [
               {
                 "verse": 15,
-                "text": "Now when the time came for Esther, the daughter of Abihail, his father's brother, whom Mordecai had taken as his daughter, to go in to the king, she made request for nothing but what Hegai, the king's servant and keeper of the women, had given her. And Esther was looked on kindly by all who saw her."
+                "text": "One evening, it was the time for Abihail's daughter, Esther, to go to the king. Abihail was Mordecai's uncle. After Abihail had died, Mordecai took care of Esther as if she was his own daughter. Everyone who saw Esther liked her. When she went to the king, she took with her only the things that Hegai had suggested."
               },
               {
                 "verse": 16,
-                "text": "So Esther was taken in to King Ahasuerus in his house in the tenth month, which is the month Tebeth, in the seventh year of his rule."
+                "text": "Esther went to King Xerxes in his royal rooms in the palace. That happened in the tenth month of the year, called Tebeth. King Xerxes had ruled for seven years."
               }
             ],
             [
               {
                 "verse": 17,
-                "text": "And Esther was more pleasing to the king than all the women, and to his eyes she was fairer and more full of grace than all the other virgins: so he put his crown on her head and made her queen in place of Vashti."
+                "text": "The king loved Esther more than he loved any of the other women. He was more pleased with her than all the other young women. He put the royal crown on her head. He chose Esther to be queen, instead of Vashti."
               },
               {
                 "verse": 18,
-                "text": "Then the king gave a great feast for all his captains and his servants, even Esther's feast; and he gave orders through all the divisions of his kingdom for a day of rest from work, and gave wealth from his store."
-              },
+                "text": "The king gave a great feast for all the leaders and officers of his kingdom. He did it to give honour to Esther. He said that there would be a holiday for people in all the regions. He also gave expensive gifts to people."
+              }
+            ]
+          ]
+        },
+        {
+          "heading": "Mordecai saves King Xerxes from death",
+          "items": [
+            [
               {
                 "verse": 19,
-                "text": "And when the virgins came together in the second house of the women, Mordecai took his seat in the doorway of the king's house."
-              },
+                "text": "Some time later, the young women all came together again in the harem. At this time, Mordecai was sitting at the king's gate, as one of his officers."
+              }
+            ],
+            [
               {
                 "verse": 20,
-                "text": "Esther had still said nothing of her family or her people, as Mordecai had given her orders; for Esther did what Mordecai said, as when she was living with him."
+                "text": "Esther still had not told anyone that she was a Jew. Mordecai had told her that she should not tell anyone. She continued to obey Mordecai, as she had done when she lived with him as his daughter."
               }
             ],
             [
               {
                 "verse": 21,
-                "text": "In those days, while Mordecai was seated at the king's doorway, two of the king's servants, Bigthan and Teresh, keepers of the door, being angry, were looking for a chance to make an attack on King Ahasuerus."
+                "text": "One day, Mordecai was sitting at the king's gate. While he was there, two of the king's eunuchs, Bigthana and Teresh, became angry with King Xerxes. They decided that they would kill the king."
               },
               {
                 "verse": 22,
-                "text": "And Mordecai, having knowledge of their purpose, sent word of it to Esther the queen; and Esther gave the news to the king in Mordecai's name."
+                "text": "Mordecai heard about this. So he told Queen Esther about it. Queen Esther told the king what Mordecai had said."
               },
               {
                 "verse": 23,
-                "text": "And when the thing had been looked into, it was seen to be true, and the two of them were put to death by hanging on a tree: and it was put down in the records before the king."
+                "text": "The king sent his men to see if it was true. He discovered that Mordecai had told the truth. So he said that the two eunuchs must die. The king's officers hanged them from a wooden tower until they were dead. They wrote about this event in the history book, while the king watched."
               }
             ]
           ]
         }
       ],
-      "verses": [
-        {
-          "verse": 1,
-          "text": "After these things, when the king's feelings were calmer, the thought of Vashti and what she had done and the order he had made against her, came back to his mind."
-        },
-        {
-          "verse": 2,
-          "text": "Then the servants who were waiting on the king said to him, Let search be made for some fair young virgins for the king:"
-        },
-        {
-          "verse": 3,
-          "text": "Let the king give authority to certain men in all the divisions of his kingdom, to get together all the fair young virgins and send them to Shushan, the king's town, to the women's house, under the care of Hegai, the king's servant, the keeper of the women: and let the things needed for making them clean be given to them;"
-        },
-        {
-          "verse": 4,
-          "text": "And let the girl who is pleasing to the king be queen in place of Vashti. And the king was pleased with this suggestion; and he did so."
-        },
-        {
-          "verse": 5,
-          "text": "Now there was a certain Jew in Shushan named Mordecai, the son of Jair, the son of Shimei, the son of Kish, a Benjamite;"
-        },
-        {
-          "verse": 6,
-          "text": "Who had been taken away from Jerusalem among those who had been made prisoner with Jeconiah, king of Judah, when Nebuchadnezzar, king of Babylon, had taken him away."
-        },
-        {
-          "verse": 7,
-          "text": "And he had been a father to Hadassah, that is Esther, the daughter of his father's brother: for she had no father or mother, and she was very beautiful; and when her father and mother were dead, Mordecai took her for his daughter."
-        },
-        {
-          "verse": 8,
-          "text": "So when the order made by the king was publicly given out, and a number of girls had been placed in the care of Hegai in the king's house in Shushan, Esther was taken into the king's house and put in the care of Hegai, the keeper of the women."
-        },
-        {
-          "verse": 9,
-          "text": "And he was pleased with the girl and was kind to her; and he quickly gave her what was needed for making her clean, and the things which were hers by right, and seven servant-girls who were to be hers from the king's house: and he had her and her servant-girls moved to the best place in the women's part of the house."
-        },
-        {
-          "verse": 10,
-          "text": "Esther had not said what family or people she came from, for Mordecai had given her orders not to do so."
-        },
-        {
-          "verse": 11,
-          "text": "And every day Mordecai took his walk before the square of the women's house, to see how Esther was and what would be done to her."
-        },
-        {
-          "verse": 12,
-          "text": "Now every girl, when her turn came, had to go in to King Ahasuerus, after undergoing, for a space of twelve months, what was ordered by the law for the women (for this was the time necessary for making them clean, that is, six months with oil of myrrh and six months with sweet perfumes and such things as are needed for making women clean):"
-        },
-        {
-          "verse": 13,
-          "text": "And in this way the girl went in to the king; whatever she had a desire for was given to her to take with her from the women's house into the house of the king."
-        },
-        {
-          "verse": 14,
-          "text": "In the evening she went, and on the day after she came back to the second house of the women, into the keeping of Shaashgaz, one of the king's unsexed servants who had the care of the king's wives: only if the king had delight in her and sent for her by name did she go in to him again."
-        },
-        {
-          "verse": 15,
-          "text": "Now when the time came for Esther, the daughter of Abihail, his father's brother, whom Mordecai had taken as his daughter, to go in to the king, she made request for nothing but what Hegai, the king's servant and keeper of the women, had given her. And Esther was looked on kindly by all who saw her."
-        },
-        {
-          "verse": 16,
-          "text": "So Esther was taken in to King Ahasuerus in his house in the tenth month, which is the month Tebeth, in the seventh year of his rule."
-        },
-        {
-          "verse": 17,
-          "text": "And Esther was more pleasing to the king than all the women, and to his eyes she was fairer and more full of grace than all the other virgins: so he put his crown on her head and made her queen in place of Vashti."
-        },
-        {
-          "verse": 18,
-          "text": "Then the king gave a great feast for all his captains and his servants, even Esther's feast; and he gave orders through all the divisions of his kingdom for a day of rest from work, and gave wealth from his store."
-        },
-        {
-          "verse": 19,
-          "text": "And when the virgins came together in the second house of the women, Mordecai took his seat in the doorway of the king's house."
-        },
-        {
-          "verse": 20,
-          "text": "Esther had still said nothing of her family or her people, as Mordecai had given her orders; for Esther did what Mordecai said, as when she was living with him."
-        },
-        {
-          "verse": 21,
-          "text": "In those days, while Mordecai was seated at the king's doorway, two of the king's servants, Bigthan and Teresh, keepers of the door, being angry, were looking for a chance to make an attack on King Ahasuerus."
-        },
-        {
-          "verse": 22,
-          "text": "And Mordecai, having knowledge of their purpose, sent word of it to Esther the queen; and Esther gave the news to the king in Mordecai's name."
-        },
-        {
-          "verse": 23,
-          "text": "And when the thing had been looked into, it was seen to be true, and the two of them were put to death by hanging on a tree: and it was put down in the records before the king."
-        }
-      ],
-      "totalVerses": 23,
-      "footnotes": []
+      "notes": [
+        "King Xerxes could not change the law. Because of this law he no longer had aqueen.",
+        "Kings at the time of this story often had many wives. The harem was the part of the palace where the king's wives lived. The men who took care of the women in a harem wereeunuchs.",
+        "Jerusalem was the capital city of Judah, the home country of the Jews.",
+        "Hadassah was aHebrewname. Esther was a Persian name.",
+        "Each young woman could choose what clothes andjewelsshe wanted to wear when she went to be with the king.",
+        "The king's gate at thepalacewas the place where the king's officers would meet."
+      ]
     },
     {
-      "book": "Esther",
       "chapter": 3,
       "title": "Esther 3",
-      "subtitle": "Esther Chapter 3",
+      "subtitle": "",
+      "totalVerses": 15,
+      "sourceUrl": "https://www.easyenglish.bible/bible/easy/esther/3/",
       "sections": [
         {
-          "heading": "Esther Chapter 3",
+          "heading": "Mordecai refuses to give honour to Haman",
           "items": [
             [
               {
                 "verse": 1,
-                "text": "After these things, by the order of the king, Haman, the son of Hammedatha the Agagite, was lifted up and given a position of honour and a higher place than all the other captains who were with him."
+                "text": "After some time, King Xerxes gave one of his officers greater authority. The officer's name was Haman. He was the son of Hammedatha, a descendant of Agag. Haman became the most important officer who served the king."
               },
               {
                 "verse": 2,
-                "text": "And all the king's servants who were in the king's house went down to the earth before Haman and gave him honour: for so the king had given orders. But Mordecai did not go down before him or give him honour."
-              },
+                "text": "The king commanded that all the royal officers at the king's gate must bend down low to Haman. So they all gave Haman honour when he passed them. But Mordecai refused to bend down and give honour to Haman."
+              }
+            ],
+            [
               {
                 "verse": 3,
-                "text": "Then the king's servants who were in the king's house said to Mordecai, Why do you go against the king's order?"
+                "text": "The officers at the king's gate asked Mordecai, ‘Why do you not obey the king's command?’"
               },
               {
                 "verse": 4,
-                "text": "Now when they had said this to him day after day and he gave no attention, they let Haman have news of it, to see if Mordecai's behaviour would be overlooked: for he had said to them that he was a Jew."
+                "text": "They warned Mordecai every day. But he would not agree to bend down low to Haman. So the officers told Haman about this. Mordecai had told them that he was a Jew. So they wanted to know if Haman would allow Mordecai to do this."
               }
-            ],
+            ]
+          ]
+        },
+        {
+          "heading": "Haman decides to kill all the Jews",
+          "items": [
             [
               {
                 "verse": 5,
-                "text": "And when Haman saw that Mordecai did not go down before him and give him honour, Haman was full of wrath."
+                "text": "When Haman realized that Mordecai would not give him honour, he became very angry."
               },
               {
                 "verse": 6,
-                "text": "But it was not enough for him to make an attack on Mordecai only; for they had made clear to him who Mordecai's people were; so Haman made it his purpose to put an end to all the Jews, even Mordecai's people, through all the kingdom of Ahasuerus."
-              },
-              {
-                "verse": 7,
-                "text": "In the first month, the month Nisan, in the twelfth year of King Ahasuerus, from day to day and from month to month they went on looking for a sign given by Pur (that is chance) before Haman, till the sign came out for the thirteenth day of the twelfth month, the month Adar."
-              },
-              {
-                "verse": 8,
-                "text": "And Haman said to King Ahasuerus, There is a certain nation living here and there in small groups among the people in all the divisions of your kingdom; their laws are different from those of any other nation, and they do not keep the king's laws: for this reason it is not right for the king to let them be."
+                "text": "But he did not want to destroy only Mordecai. Haman had discovered that Mordecai was a Jew. So he decided to destroy all the Jews who lived in Xerxes' whole kingdom."
               }
             ],
             [
               {
-                "verse": 9,
-                "text": "If it is the king's pleasure, let a statement ordering their destruction be put in writing: and I will give to those responsible for the king's business, ten thousand talents of silver for the king's store-house."
+                "verse": 7,
+                "text": "Haman asked his advisors when would be the right time to make this happen. He asked them in the first month of the year (Nisan), during Xerxes' 12th year as king. Haman's advisors threw dice to decide the right time to destroy the Jews. The dice chose the 12th month of the year (Adar). The dice were called ‘Purim’."
+              }
+            ],
+            [
+              {
+                "verse": 8,
+                "text": "Then Haman said to King Xerxes, ‘There is a group of people who live in many regions of your kingdom. They have different customs to all the other people. They refuse to obey the laws of your kingdom. You should not let them live among all the other people in your kingdom."
               },
               {
+                "verse": 9,
+                "text": "If you agree, we will send out a command to destroy them. Then I will give 350 tonnes of silver to the king, so that your officers can do this work.’"
+              }
+            ],
+            [
+              {
                 "verse": 10,
-                "text": "And the king took his ring from his hand and gave it to Haman, the son of Hammedatha the Agagite, the hater of the Jews."
+                "text": "The king took his special ring from his finger and he gave it to Hammedatha's son, Haman, the Jews' great enemy."
               },
               {
                 "verse": 11,
-                "text": "And the king said to Haman, The money is yours, and the people, to do with them whatever seems right to you."
-              },
+                "text": "He said to Haman, ‘Keep your money. You should do anything that you want to do with these people.’"
+              }
+            ],
+            [
               {
                 "verse": 12,
-                "text": "Then on the thirteenth day of the first month, the king's scribes were sent for, and they put in writing Haman's orders to all the king's captains and the rulers of every division of his kingdom and the chiefs of every people: for every division of the kingdom in the writing commonly used there, and to every people in the language which was theirs; it was signed in the name of King Ahasuerus and stamped with the king's ring."
+                "text": "On the 13th day of the first month, Haman asked the king's secretaries to come to him. They wrote Haman's commands in letters to the king's rulers and officers in every region. They wrote the letters in the languages that people spoke in the different regions. Haman used the authority of King Xerxes and he marked the letters with the king's special ring."
               }
             ],
             [
               {
                 "verse": 13,
-                "text": "And letters were sent by the runners into every division of the kingdom ordering the death and destruction of all Jews, young and old, little children and women, on the same day, even the thirteenth day of the twelfth month, the month Adar, and the taking of all their goods by force."
+                "text": "Men delivered the letters to all the regions of the kingdom. Haman's command said that, on the 13th day of the 12th month (Adar), people should completely destroy and kill all the Jews. They should kill old people and young people, women and children. Then they should take all the Jews' valuable things for themselves."
               },
               {
                 "verse": 14,
-                "text": "A copy of the writing, to be made public in every part of the kingdom, was sent out to all the peoples, so that they might be ready when that day came."
-              },
+                "text": "Haman sent a copy of his command to every region, so that it would be read aloud to the people. Everyone would know what the law said, and everyone would be ready on the right day."
+              }
+            ],
+            [
               {
                 "verse": 15,
-                "text": "The runners went out quickly by the king's order, and a public statement was made in Shushan: and the king and Haman took wine together: but the town of Shushan was troubled."
+                "text": "King Xerxes told his men to take the letters quickly to all the people. They also read the law to the people in Susa city. Then Haman and the king sat down to drink wine together. But the people in the city could not understand what was happening."
               }
             ]
           ]
         }
       ],
-      "verses": [
-        {
-          "verse": 1,
-          "text": "After these things, by the order of the king, Haman, the son of Hammedatha the Agagite, was lifted up and given a position of honour and a higher place than all the other captains who were with him."
-        },
-        {
-          "verse": 2,
-          "text": "And all the king's servants who were in the king's house went down to the earth before Haman and gave him honour: for so the king had given orders. But Mordecai did not go down before him or give him honour."
-        },
-        {
-          "verse": 3,
-          "text": "Then the king's servants who were in the king's house said to Mordecai, Why do you go against the king's order?"
-        },
-        {
-          "verse": 4,
-          "text": "Now when they had said this to him day after day and he gave no attention, they let Haman have news of it, to see if Mordecai's behaviour would be overlooked: for he had said to them that he was a Jew."
-        },
-        {
-          "verse": 5,
-          "text": "And when Haman saw that Mordecai did not go down before him and give him honour, Haman was full of wrath."
-        },
-        {
-          "verse": 6,
-          "text": "But it was not enough for him to make an attack on Mordecai only; for they had made clear to him who Mordecai's people were; so Haman made it his purpose to put an end to all the Jews, even Mordecai's people, through all the kingdom of Ahasuerus."
-        },
-        {
-          "verse": 7,
-          "text": "In the first month, the month Nisan, in the twelfth year of King Ahasuerus, from day to day and from month to month they went on looking for a sign given by Pur (that is chance) before Haman, till the sign came out for the thirteenth day of the twelfth month, the month Adar."
-        },
-        {
-          "verse": 8,
-          "text": "And Haman said to King Ahasuerus, There is a certain nation living here and there in small groups among the people in all the divisions of your kingdom; their laws are different from those of any other nation, and they do not keep the king's laws: for this reason it is not right for the king to let them be."
-        },
-        {
-          "verse": 9,
-          "text": "If it is the king's pleasure, let a statement ordering their destruction be put in writing: and I will give to those responsible for the king's business, ten thousand talents of silver for the king's store-house."
-        },
-        {
-          "verse": 10,
-          "text": "And the king took his ring from his hand and gave it to Haman, the son of Hammedatha the Agagite, the hater of the Jews."
-        },
-        {
-          "verse": 11,
-          "text": "And the king said to Haman, The money is yours, and the people, to do with them whatever seems right to you."
-        },
-        {
-          "verse": 12,
-          "text": "Then on the thirteenth day of the first month, the king's scribes were sent for, and they put in writing Haman's orders to all the king's captains and the rulers of every division of his kingdom and the chiefs of every people: for every division of the kingdom in the writing commonly used there, and to every people in the language which was theirs; it was signed in the name of King Ahasuerus and stamped with the king's ring."
-        },
-        {
-          "verse": 13,
-          "text": "And letters were sent by the runners into every division of the kingdom ordering the death and destruction of all Jews, young and old, little children and women, on the same day, even the thirteenth day of the twelfth month, the month Adar, and the taking of all their goods by force."
-        },
-        {
-          "verse": 14,
-          "text": "A copy of the writing, to be made public in every part of the kingdom, was sent out to all the peoples, so that they might be ready when that day came."
-        },
-        {
-          "verse": 15,
-          "text": "The runners went out quickly by the king's order, and a public statement was made in Shushan: and the king and Haman took wine together: but the town of Shushan was troubled."
-        }
-      ],
-      "totalVerses": 15,
-      "footnotes": []
+      "notes": [
+        "This was a very large amount ofsilver.",
+        "When the king gave his special ring to Haman, he was giving Haman hisroyalauthority.",
+        "Haman used the king's authority to send the letters to destroy the Jews. But the king did not know that it was the Jews that Haman wanted to destroy. He also did not know that Queen Esther was a Jew."
+      ]
     },
     {
-      "book": "Esther",
       "chapter": 4,
       "title": "Esther 4",
-      "subtitle": "Esther Chapter 4",
+      "subtitle": "",
+      "totalVerses": 17,
+      "sourceUrl": "https://www.easyenglish.bible/bible/easy/esther/4/",
       "sections": [
         {
-          "heading": "Esther Chapter 4",
+          "heading": "Mordecai asks Queen Esther to help the Jews",
           "items": [
             [
               {
                 "verse": 1,
-                "text": "Now when Mordecai saw what was done, pulling off his robe, he put on haircloth, with dust on his head, and went out into the middle of the town, crying out with a loud and bitter cry."
-              },
-              {
-                "verse": 2,
-                "text": "And he came even before the king's doorway; for no one might come inside the king's door clothed in haircloth."
-              },
-              {
-                "verse": 3,
-                "text": "And in every part of the kingdom, wherever the king's word and his order came, there was great sorrow among the Jews, and weeping and crying and going without food; and numbers of them were stretched on the earth covered with dust and haircloth."
-              },
-              {
-                "verse": 4,
-                "text": "And Esther's women and her servants came and gave her word of it. Then great was the grief of the queen: and she sent robes for Mordecai, so that his clothing of haircloth might be taken off; but he would not have them."
+                "text": "Mordecai discovered what Haman had done. He was very upset. He tore his clothes and he dressed in sackcloth and ashes. He went into the city. He cried and he wept loudly as he went."
               }
             ],
             [
               {
-                "verse": 5,
-                "text": "Then Esther sent for Hathach, one of the king's unsexed servants whom he had given her for waiting on her, and she gave him orders to go to Mordecai and see what this was and why it was."
+                "verse": 2,
+                "text": "Nobody who was wearing sackcloth could go into the yard of the palace. So Mordecai stopped at the king's gate."
               },
               {
+                "verse": 3,
+                "text": "Jews who lived in all the regions of Xerxes' kingdom heard the king's command. So they were very sad. They were weeping and they were fasting. Many of them lay on sackcloth and ashes."
+              }
+            ],
+            [
+              {
+                "verse": 4,
+                "text": "Esther's female servants and the eunuchs who took care of her told her what Mordecai was doing. So Esther was very upset. She sent clothes for Mordecai to wear instead of the sackcloth. But Mordecai refused to wear them."
+              },
+              {
+                "verse": 5,
+                "text": "Hathach was one of the king's eunuchs who served Esther. Esther asked him to discover what was the matter with Mordecai."
+              }
+            ],
+            [
+              {
                 "verse": 6,
-                "text": "So Hathach went out and saw Mordecai in the open square of the town before the king's doorway."
+                "text": "So Hathach went to speak to Mordecai. Mordecai was outside the king's gate, in an open place."
               },
               {
                 "verse": 7,
-                "text": "And Mordecai gave him an account of what had taken place, and of the amount of money which Haman had said he would put into the king's store for the destruction of the Jews."
+                "text": "Mordecai told Hathach everything that had happened. He told Hathach how much money Haman would pay to the king when people destroyed all the Jews."
               },
               {
                 "verse": 8,
-                "text": "And he gave him the copy of the order which had been given out in Shushan for their destruction, ordering him to let Esther see it, and to make it clear to her; and to say to her that she was to go in to the king, requesting his mercy, and making prayer for her people."
+                "text": "Mordecai gave Hathach a copy of the law that they had read aloud to the people in Susa. He told Hathach to show the law to Esther and explain it to her. Mordecai also said that Esther must go and speak to the king. She must ask the king to let her people live."
               }
             ],
             [
               {
                 "verse": 9,
-                "text": "And Hathach came back and gave Esther an account of what Mordecai had said."
+                "text": "Hathach went back into the palace. He told Esther what Mordecai had said."
               },
               {
                 "verse": 10,
-                "text": "Then Esther sent Hathach to say to Mordecai:"
+                "text": "Then Esther sent Hathach back to Mordecai with this message:"
               },
               {
                 "verse": 11,
-                "text": "It is common knowledge among all the king's servants and the people of every part of the kingdom, that if anyone, man or woman, comes to the king in his inner room without being sent for, there is only one law for him, that he is to be put to death; only those to whom the king's rod of gold is stretched out may keep their lives: but I have not been sent for to come before the king these thirty days."
-              },
-              {
-                "verse": 12,
-                "text": "And they said these words to Mordecai."
+                "text": "‘Everybody knows the law. People cannot go to meet the king in his own part of the palace unless the king asks them to come. All the king's officers and all his people know that this is the law. Nobody can go to the king when the king has not asked to see them. Anyone who does that must die. They will only stay alive if the king holds out his gold sceptre towards them. As for me, the king has not asked me to go to him for the last 30 days.’"
               }
             ],
             [
               {
+                "verse": 12,
+                "text": "When Mordecai heard this message from Esther,"
+              },
+              {
                 "verse": 13,
-                "text": "Then Mordecai sent this answer back to Esther: Do not have the idea that you in the king's house will be safe from the fate of all the Jews."
+                "text": "he sent this answer back to her: ‘Do not think that you will be safe because you live in the king's palace. You will not escape when they kill all the other Jews."
               },
               {
                 "verse": 14,
-                "text": "If at this time you say nothing, then help and salvation will come to the Jews from some other place, but you and your father's family will come to destruction: and who is to say that you have not come to the kingdom even for such a time as this?"
-              },
+                "text": "You must speak now on behalf of all the Jewish people. If you do not, they will receive help from another place. They will become safe and free, but you and your father's family will die. I think that perhaps you have become queen so that you can help at a time like this.’"
+              }
+            ],
+            [
               {
                 "verse": 15,
-                "text": "Then Esther sent them back to Mordecai with this answer:"
+                "text": "Then Esther sent this answer to Mordecai:"
               },
               {
                 "verse": 16,
-                "text": "Go, get together all the Jews who are present in Shushan, and go without food for me, taking no food or drink night or day for three days: and I and my women will do the same; and so I will go in to the king, which is against the law: and if death is to be my fate, then let it come."
+                "text": "‘Tell all the Jews in Susa to meet together. Tell them to fast and to pray for me. They must not eat or drink for three days, during the day and the night. My female servants and I will also fast. After three days, I will go and speak to the king. I know that this is against the king's law. But if I must die, I agree to die.’"
               }
             ],
             [
               {
                 "verse": 17,
-                "text": "So Mordecai went away and did everything as Esther had said."
+                "text": "Then Mordecai left the king's gate. He did everything that Esther had told him to do."
               }
             ]
           ]
         }
       ],
-      "verses": [
-        {
-          "verse": 1,
-          "text": "Now when Mordecai saw what was done, pulling off his robe, he put on haircloth, with dust on his head, and went out into the middle of the town, crying out with a loud and bitter cry."
-        },
-        {
-          "verse": 2,
-          "text": "And he came even before the king's doorway; for no one might come inside the king's door clothed in haircloth."
-        },
-        {
-          "verse": 3,
-          "text": "And in every part of the kingdom, wherever the king's word and his order came, there was great sorrow among the Jews, and weeping and crying and going without food; and numbers of them were stretched on the earth covered with dust and haircloth."
-        },
-        {
-          "verse": 4,
-          "text": "And Esther's women and her servants came and gave her word of it. Then great was the grief of the queen: and she sent robes for Mordecai, so that his clothing of haircloth might be taken off; but he would not have them."
-        },
-        {
-          "verse": 5,
-          "text": "Then Esther sent for Hathach, one of the king's unsexed servants whom he had given her for waiting on her, and she gave him orders to go to Mordecai and see what this was and why it was."
-        },
-        {
-          "verse": 6,
-          "text": "So Hathach went out and saw Mordecai in the open square of the town before the king's doorway."
-        },
-        {
-          "verse": 7,
-          "text": "And Mordecai gave him an account of what had taken place, and of the amount of money which Haman had said he would put into the king's store for the destruction of the Jews."
-        },
-        {
-          "verse": 8,
-          "text": "And he gave him the copy of the order which had been given out in Shushan for their destruction, ordering him to let Esther see it, and to make it clear to her; and to say to her that she was to go in to the king, requesting his mercy, and making prayer for her people."
-        },
-        {
-          "verse": 9,
-          "text": "And Hathach came back and gave Esther an account of what Mordecai had said."
-        },
-        {
-          "verse": 10,
-          "text": "Then Esther sent Hathach to say to Mordecai:"
-        },
-        {
-          "verse": 11,
-          "text": "It is common knowledge among all the king's servants and the people of every part of the kingdom, that if anyone, man or woman, comes to the king in his inner room without being sent for, there is only one law for him, that he is to be put to death; only those to whom the king's rod of gold is stretched out may keep their lives: but I have not been sent for to come before the king these thirty days."
-        },
-        {
-          "verse": 12,
-          "text": "And they said these words to Mordecai."
-        },
-        {
-          "verse": 13,
-          "text": "Then Mordecai sent this answer back to Esther: Do not have the idea that you in the king's house will be safe from the fate of all the Jews."
-        },
-        {
-          "verse": 14,
-          "text": "If at this time you say nothing, then help and salvation will come to the Jews from some other place, but you and your father's family will come to destruction: and who is to say that you have not come to the kingdom even for such a time as this?"
-        },
-        {
-          "verse": 15,
-          "text": "Then Esther sent them back to Mordecai with this answer:"
-        },
-        {
-          "verse": 16,
-          "text": "Go, get together all the Jews who are present in Shushan, and go without food for me, taking no food or drink night or day for three days: and I and my women will do the same; and so I will go in to the king, which is against the law: and if death is to be my fate, then let it come."
-        },
-        {
-          "verse": 17,
-          "text": "So Mordecai went away and did everything as Esther had said."
-        }
-      ],
-      "totalVerses": 17,
-      "footnotes": []
+      "notes": [
+        "While the Jewsfasted, they usually prayed to God. They fasted because they wanted to ask God for his help.",
+        "SeeEsther 3:9. Haman had promised to give the king a lot ofsilver."
+      ]
     },
     {
-      "book": "Esther",
       "chapter": 5,
       "title": "Esther 5",
-      "subtitle": "Esther Chapter 5",
+      "subtitle": "",
+      "totalVerses": 14,
+      "sourceUrl": "https://www.easyenglish.bible/bible/easy/esther/5/",
       "sections": [
         {
-          "heading": "Esther Chapter 5",
+          "heading": "Esther prepares a meal for King Xerxes and Haman",
           "items": [
             [
               {
                 "verse": 1,
-                "text": "Now on the third day, Esther put on her queen's robes, and took her place in the inner room of the king's house, facing the king's house: and the king was seated on his high seat in the king's house, facing the doorway of the house."
+                "text": "After the Jews had fasted for three days, Esther put on her royal clothes. She went to King Xerxes' part of the palace. She stood in the yard outside his rooms. The king was sitting on his royal throne inside the palace. He could see out through the entrance of the room."
               },
               {
                 "verse": 2,
-                "text": "And when the king saw Esther the queen waiting in the inner room, looking kindly on her he put out the rod of gold in his hand to her. So Esther came near and put her fingers on the top of the rod."
-              },
+                "text": "The king saw Esther as she stood outside in the yard. He was pleased to see her. He held out his gold sceptre towards her. Esther came near to him and she touched the top of the sceptre."
+              }
+            ],
+            [
               {
                 "verse": 3,
-                "text": "Then the king said, What is your desire, Queen Esther, and what is your request? I will give it to you, even to the half of my kingdom."
-              },
+                "text": "The king asked her, ‘What is your trouble, Queen Esther? How can I help you? I will do for you whatever you want. I will even give you half of my kingdom!’"
+              }
+            ],
+            [
               {
                 "verse": 4,
-                "text": "And Esther in answer said, If it seems good to the king, let the king and Haman come today to the feast which I have made ready for him."
+                "text": "Esther replied, ‘If the king agrees, I would like you to do this. I would like the king and Haman to come to a special meal that I have prepared for you.’"
               }
             ],
             [
               {
                 "verse": 5,
-                "text": "Then the king said, Let Haman come quickly, so that what Esther has said may be done. So the king and Haman came to the feast which Esther had made ready."
+                "text": "The king said to his servants, ‘Bring Haman here quickly. Then we can do what Esther wants.’"
+              }
+            ],
+            [
+              {
+                "verse": 5,
+                "text": "The king and Haman went to the meal that Esther had prepared."
               },
               {
                 "verse": 6,
-                "text": "And while they were drinking wine the king said to Esther, What is your prayer? for it will be given to you and what is your request? for it will be done, even to the half of my kingdom."
-              },
+                "text": "While they were drinking wine, the king asked Esther, ‘What do you want? I will give you whatever you want. What do you want me to do for you? Even if you want half of my kingdom, I will give it to you.’"
+              }
+            ],
+            [
               {
                 "verse": 7,
-                "text": "Then Esther said in answer, My prayer and my request is this:"
+                "text": "Esther replied, ‘This is what I want."
               },
               {
                 "verse": 8,
-                "text": "If I have the king's approval, and if it is the king's pleasure to give me my prayer and do my request, let the king and Haman come to the feast which I will make ready for them, and tomorrow I will do as the king has said."
+                "text": "If the king is pleased with me, and if you agree, please do what I ask. I would like the king and Haman to come again tomorrow. Come to another meal that I will prepare for you. Then I will tell you what I want, as you have asked me to do.’"
               }
-            ],
+            ]
+          ]
+        },
+        {
+          "heading": "Haman prepares to kill Mordecai",
+          "items": [
             [
               {
                 "verse": 9,
-                "text": "Then on that day Haman went out full of joy and glad in heart; but when he saw Mordecai in the king's doorway, and he did not get to his feet or give any sign of fear before him, Haman was full of wrath against Mordecai."
+                "text": "When Haman went from Queen Esther's meal that day, he was very happy. But then he saw Mordecai at the king's gate. When Haman passed him, Mordecai did not get up. He did not show that he respected Haman in any way. So Haman became very angry with Mordecai."
               },
               {
                 "verse": 10,
-                "text": "But controlling himself, he went to his house; and he sent for his friends and Zeresh, his wife."
-              },
-              {
-                "verse": 11,
-                "text": "And he gave them an account of the glories of his wealth, and the number of children he had, and the ways in which he had been honoured by the king, and how he had put him over the captains and servants of the king."
-              },
-              {
-                "verse": 12,
-                "text": "And Haman said further, Truly, Esther the queen let no man but myself come in to the feast which she had made ready for the king; and tomorrow again I am to be her guest with the king."
+                "text": "Haman did not show that he was angry at that time. He went home."
               }
             ],
             [
               {
-                "verse": 13,
-                "text": "But all this is nothing to me while I see Mordecai the Jew seated by the king's doorway."
+                "verse": 10,
+                "text": "Then Haman told his friends and Zeresh, his wife, to meet with him."
               },
               {
+                "verse": 11,
+                "text": "Haman told them how rich he was, and how many sons he had. He told them of all the things that the king had done to give him great honour. He told them that he was now more important than all the king's other rulers and officers."
+              },
+              {
+                "verse": 12,
+                "text": "Haman said to them, ‘Queen Esther asked me to go with the king to a special meal that she had prepared. We were the only people who ate with her. Now the queen has asked me to go with the king to another meal tomorrow."
+              },
+              {
+                "verse": 13,
+                "text": "But even all these things do not make me happy. I am angry when I see that Jewish man, Mordecai. He is sitting at the king's gate.’"
+              }
+            ],
+            [
+              {
                 "verse": 14,
-                "text": "Then his wife Zeresh and all his friends said to him, Let a pillar, fifty cubits high, be made ready for hanging him, and in the morning get the king to give orders for the hanging of Mordecai: then you will be able to go to the feast with the king with a glad heart. And Haman was pleased with the suggestion, and he had the pillar made."
+                "text": "Haman's wife and all his friends said to him, ‘This will make you happy. Tell your men to build a wooden tower that is 22 metres high. In the morning, tell the king to hang Mordecai on the tower to kill him. Then you will enjoy Queen Esther's special meal.’"
+              }
+            ],
+            [
+              {
+                "verse": 14,
+                "text": "Haman liked their idea very much. So he told his men to build the tall tower."
               }
             ]
           ]
         }
       ],
-      "verses": [
-        {
-          "verse": 1,
-          "text": "Now on the third day, Esther put on her queen's robes, and took her place in the inner room of the king's house, facing the king's house: and the king was seated on his high seat in the king's house, facing the doorway of the house."
-        },
-        {
-          "verse": 2,
-          "text": "And when the king saw Esther the queen waiting in the inner room, looking kindly on her he put out the rod of gold in his hand to her. So Esther came near and put her fingers on the top of the rod."
-        },
-        {
-          "verse": 3,
-          "text": "Then the king said, What is your desire, Queen Esther, and what is your request? I will give it to you, even to the half of my kingdom."
-        },
-        {
-          "verse": 4,
-          "text": "And Esther in answer said, If it seems good to the king, let the king and Haman come today to the feast which I have made ready for him."
-        },
-        {
-          "verse": 5,
-          "text": "Then the king said, Let Haman come quickly, so that what Esther has said may be done. So the king and Haman came to the feast which Esther had made ready."
-        },
-        {
-          "verse": 6,
-          "text": "And while they were drinking wine the king said to Esther, What is your prayer? for it will be given to you and what is your request? for it will be done, even to the half of my kingdom."
-        },
-        {
-          "verse": 7,
-          "text": "Then Esther said in answer, My prayer and my request is this:"
-        },
-        {
-          "verse": 8,
-          "text": "If I have the king's approval, and if it is the king's pleasure to give me my prayer and do my request, let the king and Haman come to the feast which I will make ready for them, and tomorrow I will do as the king has said."
-        },
-        {
-          "verse": 9,
-          "text": "Then on that day Haman went out full of joy and glad in heart; but when he saw Mordecai in the king's doorway, and he did not get to his feet or give any sign of fear before him, Haman was full of wrath against Mordecai."
-        },
-        {
-          "verse": 10,
-          "text": "But controlling himself, he went to his house; and he sent for his friends and Zeresh, his wife."
-        },
-        {
-          "verse": 11,
-          "text": "And he gave them an account of the glories of his wealth, and the number of children he had, and the ways in which he had been honoured by the king, and how he had put him over the captains and servants of the king."
-        },
-        {
-          "verse": 12,
-          "text": "And Haman said further, Truly, Esther the queen let no man but myself come in to the feast which she had made ready for the king; and tomorrow again I am to be her guest with the king."
-        },
-        {
-          "verse": 13,
-          "text": "But all this is nothing to me while I see Mordecai the Jew seated by the king's doorway."
-        },
-        {
-          "verse": 14,
-          "text": "Then his wife Zeresh and all his friends said to him, Let a pillar, fifty cubits high, be made ready for hanging him, and in the morning get the king to give orders for the hanging of Mordecai: then you will be able to go to the feast with the king with a glad heart. And Haman was pleased with the suggestion, and he had the pillar made."
-        }
-      ],
-      "totalVerses": 14,
-      "footnotes": []
+      "notes": [
+        "At that time, they would hang men to kill them when they had done something very bad. Thetowerwas very high and everybody would see the person'spunishment."
+      ]
     },
     {
-      "book": "Esther",
       "chapter": 6,
       "title": "Esther 6",
-      "subtitle": "Esther Chapter 6",
+      "subtitle": "",
+      "totalVerses": 14,
+      "sourceUrl": "https://www.easyenglish.bible/bible/easy/esther/6/",
       "sections": [
         {
-          "heading": "Esther Chapter 6",
+          "heading": "King Xerxes gives great honour to Mordecai",
           "items": [
             [
               {
                 "verse": 1,
-                "text": "That night the king was unable to get any sleep; and he sent for the books of the records; and while some one was reading them to the king,"
-              },
+                "text": "That night the king could not sleep. He asked a servant to bring the kingdom's history book. He asked the servant to read the book to him."
+              }
+            ],
+            [
               {
                 "verse": 2,
-                "text": "It came out that it was recorded in the book how Mordecai had given word of the designs of Bigthana and Teresh, two of the king's servants, keepers of the door, by whom an attack on the king had been designed."
+                "text": "The history book included a report of how two of the king's eunuchs wanted to kill King Xerxes. Their names were Bigthana and Teresh. The report said that Mordecai had told the king about this."
               },
               {
                 "verse": 3,
-                "text": "And the king said, What honour and reward have been given to Mordecai for this? Then the servants who were waiting on the king said, Nothing has been done for him."
-              },
+                "text": "When the king heard this, he asked his servant, ‘When Mordecai saved my life, what great honour did we give him?’"
+              }
+            ],
+            [
+              {
+                "verse": 3,
+                "text": "The king's servants replied, ‘We did not do anything for him.’"
+              }
+            ],
+            [
               {
                 "verse": 4,
-                "text": "Then the king said, Who is in the outer room? Now Haman had come into the outer room to get the king's authority for the hanging of Mordecai on the pillar which he had made ready for him."
+                "text": "The king said, ‘Who is now in the palace yard?’"
+              }
+            ],
+            [
+              {
+                "verse": 4,
+                "text": "Haman had just arrived at the palace. His men had built the wooden tower. Now he wanted to ask the king to hang Mordecai on it to kill him."
+              },
+              {
+                "verse": 5,
+                "text": "The king's servants said to the king, ‘Haman is in the palace yard.’"
               }
             ],
             [
               {
                 "verse": 5,
-                "text": "And the king's servants said to him, See, Haman is waiting in the outer room. And the king said, Let him come in."
-              },
-              {
-                "verse": 6,
-                "text": "So Haman came in. And the king said to him, What is to be done to the man whom the king has delight in honouring? Then the thought came into Haman's mind, Whom, more than myself, would the king have pleasure in honouring?"
-              },
-              {
-                "verse": 7,
-                "text": "And Haman, answering the king, said, For the man whom the king has delight in honouring,"
-              },
-              {
-                "verse": 8,
-                "text": "Let them take the robes which the king generally puts on, and the horse on which the king goes, and the crown which is on his head:"
+                "text": "The king said, ‘Bring him here to me.’"
               }
             ],
             [
               {
-                "verse": 9,
-                "text": "And let the robes and the horse be given to one of the king's most noble captains, so that they may put them on the man whom the king has delight in honouring, and let him go on horseback through the streets of the town, with men crying out before him, So let it be done to the man whom the king has delight in honouring."
+                "verse": 6,
+                "text": "Haman came in to the king's room. The king asked him, ‘If I want to give great honour to a man, what should we do for that man?’"
+              }
+            ],
+            [
+              {
+                "verse": 6,
+                "text": "Haman thought to himself, ‘I am sure that I am that man. The king must want to give me honour.’"
+              }
+            ],
+            [
+              {
+                "verse": 7,
+                "text": "So Haman replied to the king, ‘This is what you should do for that man, if you want to give him honour."
               },
+              {
+                "verse": 8,
+                "text": "Your servants should bring some royal clothes that you yourself have worn. They should bring a horse that you yourself have ridden on as king. They should put a crown on the horse's head to show that it belongs to you."
+              },
+              {
+                "verse": 9,
+                "text": "Then give the clothes and the horse to one of your royal officers. Tell the officer to put the king's clothes on the man that you want to give honour to. Then the officer must put the man on the king's horse. He must lead him through all the streets of the city. As he goes, the officer must shout, “This is what the king does for a man that he wants to give honour to!” ’"
+              }
+            ],
+            [
               {
                 "verse": 10,
-                "text": "Then the king said to Haman, Go quickly, and take the robes and the horse, as you have said, and do even so to Mordecai the Jew, who is seated at the king's doorway: see that you do everything as you have said."
-              },
+                "text": "The king said to Haman, ‘That is a good idea! Go quickly! Get my clothes and my horse. Go and do everything that you have suggested. Do it for the Jewish man, Mordecai, who sits at the king's gate. Be careful to do for him everything that you have said.’"
+              }
+            ],
+            [
               {
                 "verse": 11,
-                "text": "Then Haman took the robes and the horse, and dressing Mordecai in the robes, he made him go on horseback through the streets of the town, crying out before him, So let it be done to the man whom the king has delight in honouring."
-              },
+                "text": "So Haman took the king's clothes and the king's horse to Mordecai. He put the king's clothes on Mordecai. Then he led Mordecai on the horse through all the streets of the city. Haman went in front and he shouted, ‘Look! This is what the king does for a man that he wants to give honour to!’"
+              }
+            ],
+            [
               {
                 "verse": 12,
-                "text": "And Mordecai came back to the king's doorway. But Haman went quickly back to his house, sad and with his head covered."
+                "text": "After this, Mordecai returned to sit at the king's gate. But Haman hurried back home. He covered his face because he was ashamed and upset."
+              },
+              {
+                "verse": 13,
+                "text": "He told his wife, Zeresh, and his friends about everything that had happened to him."
               }
             ],
             [
               {
                 "verse": 13,
-                "text": "And Haman gave his wife Zeresh and all his friends an account of what had taken place. Then his wise men and his wife Zeresh said to him, If Mordecai, who is starting to get the better of you, is of the seed of the Jews, you will not be able to do anything against him, but you will certainly go down before him."
-              },
+                "text": "Then his advisors, as well as his wife, said to him, ‘It seems that you have already lost some of your power to Mordecai. If Mordecai really is Jewish, you will never win against him. He will destroy you completely.’"
+              }
+            ],
+            [
               {
                 "verse": 14,
-                "text": "While they were still talking, the king's servants came to take Haman to the feast which Esther had made ready."
+                "text": "While they were speaking, the king's eunuchs arrived. Very quickly they took Haman to the special meal that Esther had prepared."
               }
             ]
           ]
         }
       ],
-      "verses": [
-        {
-          "verse": 1,
-          "text": "That night the king was unable to get any sleep; and he sent for the books of the records; and while some one was reading them to the king,"
-        },
-        {
-          "verse": 2,
-          "text": "It came out that it was recorded in the book how Mordecai had given word of the designs of Bigthana and Teresh, two of the king's servants, keepers of the door, by whom an attack on the king had been designed."
-        },
-        {
-          "verse": 3,
-          "text": "And the king said, What honour and reward have been given to Mordecai for this? Then the servants who were waiting on the king said, Nothing has been done for him."
-        },
-        {
-          "verse": 4,
-          "text": "Then the king said, Who is in the outer room? Now Haman had come into the outer room to get the king's authority for the hanging of Mordecai on the pillar which he had made ready for him."
-        },
-        {
-          "verse": 5,
-          "text": "And the king's servants said to him, See, Haman is waiting in the outer room. And the king said, Let him come in."
-        },
-        {
-          "verse": 6,
-          "text": "So Haman came in. And the king said to him, What is to be done to the man whom the king has delight in honouring? Then the thought came into Haman's mind, Whom, more than myself, would the king have pleasure in honouring?"
-        },
-        {
-          "verse": 7,
-          "text": "And Haman, answering the king, said, For the man whom the king has delight in honouring,"
-        },
-        {
-          "verse": 8,
-          "text": "Let them take the robes which the king generally puts on, and the horse on which the king goes, and the crown which is on his head:"
-        },
-        {
-          "verse": 9,
-          "text": "And let the robes and the horse be given to one of the king's most noble captains, so that they may put them on the man whom the king has delight in honouring, and let him go on horseback through the streets of the town, with men crying out before him, So let it be done to the man whom the king has delight in honouring."
-        },
-        {
-          "verse": 10,
-          "text": "Then the king said to Haman, Go quickly, and take the robes and the horse, as you have said, and do even so to Mordecai the Jew, who is seated at the king's doorway: see that you do everything as you have said."
-        },
-        {
-          "verse": 11,
-          "text": "Then Haman took the robes and the horse, and dressing Mordecai in the robes, he made him go on horseback through the streets of the town, crying out before him, So let it be done to the man whom the king has delight in honouring."
-        },
-        {
-          "verse": 12,
-          "text": "And Mordecai came back to the king's doorway. But Haman went quickly back to his house, sad and with his head covered."
-        },
-        {
-          "verse": 13,
-          "text": "And Haman gave his wife Zeresh and all his friends an account of what had taken place. Then his wise men and his wife Zeresh said to him, If Mordecai, who is starting to get the better of you, is of the seed of the Jews, you will not be able to do anything against him, but you will certainly go down before him."
-        },
-        {
-          "verse": 14,
-          "text": "While they were still talking, the king's servants came to take Haman to the feast which Esther had made ready."
-        }
-      ],
-      "totalVerses": 14,
-      "footnotes": []
+      "notes": [
+        "SeeEsther 2:21-23."
+      ]
     },
     {
-      "book": "Esther",
       "chapter": 7,
       "title": "Esther 7",
-      "subtitle": "Esther Chapter 7",
+      "subtitle": "",
+      "totalVerses": 10,
+      "sourceUrl": "https://www.easyenglish.bible/bible/easy/esther/7/",
       "sections": [
         {
-          "heading": "Esther Chapter 7",
+          "heading": "King Xerxes punishes Haman with death",
           "items": [
             [
               {
                 "verse": 1,
-                "text": "So the king and Haman came to take wine with Esther the queen."
+                "text": "King Xerxes and Haman went to the meal that Queen Esther had prepared."
               },
               {
                 "verse": 2,
-                "text": "And the king said to Esther again on the second day, while they were drinking, What is your prayer, Queen Esther? for it will be given to you; and what is your request? for it will be done, even to the half of my kingdom."
-              },
+                "text": "This was the second day that they ate a special meal together. While they were drinking wine, the king said to Esther, ‘Queen Esther, what do you want me to do for you? I will give you whatever you want. Even if you want half of my kingdom, I will give it to you.’"
+              }
+            ],
+            [
               {
                 "verse": 3,
-                "text": "Then Esther the queen, answering, said, If I have your approval, O king, and if it is the king's pleasure, let my life be given to me in answer to my prayer, and my people at my request:"
+                "text": "Queen Esther replied, ‘Sir, I hope that you are pleased with me. If you agree, I ask you to save my life. Also save the lives of my people. That is what I ask you to do."
               },
               {
                 "verse": 4,
-                "text": "For we are given up, I and my people, to destruction and death and to be cut off. If we had been taken as men-servants and women-servants for a price, I would have said nothing, for our trouble is little in comparison with the king's loss."
+                "text": "Someone has sold me and my people as if we are animals. Now they will kill us and completely destroy us all. If we had been sold to become slaves, I would not have spoken to the king. It would not have been important enough for that.’"
               }
             ],
             [
               {
                 "verse": 5,
-                "text": "Then King Ahasuerus said to Esther the queen, Who is he and where is he who has had this evil thought in his heart?"
-              },
+                "text": "Then King Xerxes asked Queen Esther, ‘Who is this man? Who would even think of anything like that? Where is he?’"
+              }
+            ],
+            [
               {
                 "verse": 6,
-                "text": "And Esther said, Our hater and attacker is this evil Haman. Then Haman was full of fear before the king and the queen."
-              },
+                "text": "Esther replied, ‘The enemy of our people is this wicked man, Haman!’"
+              }
+            ],
+            [
+              {
+                "verse": 6,
+                "text": "Then Haman became very afraid as he sat there with the king and the queen."
+              }
+            ],
+            [
               {
                 "verse": 7,
-                "text": "And the king in his wrath got up from the feast and went into the garden: and Haman got to his feet to make a prayer for his life to Esther the queen: for he saw that the king's purpose was evil against him."
+                "text": "The king was very angry and he stood up. He left his wine and he went into the palace garden. Haman realized that the king wanted to destroy him. So he stayed with Queen Esther and he asked her to save his life."
               },
               {
                 "verse": 8,
-                "text": "Then the king came back from the garden into the room where they had been drinking; and Haman was stretched out on the seat where Esther was. Then the king said, Is he taking the queen by force before my eyes in my house? And while the words were on the king's lips, they put a cloth over Haman's face."
+                "text": "Queen Esther was lying down. Haman threw himself down on the couch where she was lying. At that moment, the king returned from the garden. The king shouted, ‘What is this man doing? He even attacks the queen when she is with me in my palace!’"
+              }
+            ],
+            [
+              {
+                "verse": 8,
+                "text": "While the king was still saying this, his servants covered Haman's head."
               }
             ],
             [
               {
                 "verse": 9,
-                "text": "Then Harbonah, one of the unsexed servants waiting before the king, said, See, the pillar fifty cubits high, which Haman made for Mordecai, who said a good word for the king, is still in its place in Haman's house. Then the king said, Put him to death by hanging him on it."
-              },
+                "text": "One of the king's eunuchs, Harbona, said, ‘There is a wooden tower near Haman's home. It is 22 metres high. His men built it so that he could hang Mordecai on it. Mordecai is the man who saved the king's life.’"
+              }
+            ],
+            [
+              {
+                "verse": 9,
+                "text": "The king said, ‘Hang Haman on the tower until he is dead.’"
+              }
+            ],
+            [
               {
                 "verse": 10,
-                "text": "So Haman was put to death by hanging him on the pillar he had made for Mordecai. Then the king's wrath became less."
+                "text": "So they took Haman and they hanged him on the tower until he was dead. It was the same tower that Haman had built to kill Mordecai on. After that, the king did not feel so angry."
               }
             ]
           ]
         }
       ],
-      "verses": [
-        {
-          "verse": 1,
-          "text": "So the king and Haman came to take wine with Esther the queen."
-        },
-        {
-          "verse": 2,
-          "text": "And the king said to Esther again on the second day, while they were drinking, What is your prayer, Queen Esther? for it will be given to you; and what is your request? for it will be done, even to the half of my kingdom."
-        },
-        {
-          "verse": 3,
-          "text": "Then Esther the queen, answering, said, If I have your approval, O king, and if it is the king's pleasure, let my life be given to me in answer to my prayer, and my people at my request:"
-        },
-        {
-          "verse": 4,
-          "text": "For we are given up, I and my people, to destruction and death and to be cut off. If we had been taken as men-servants and women-servants for a price, I would have said nothing, for our trouble is little in comparison with the king's loss."
-        },
-        {
-          "verse": 5,
-          "text": "Then King Ahasuerus said to Esther the queen, Who is he and where is he who has had this evil thought in his heart?"
-        },
-        {
-          "verse": 6,
-          "text": "And Esther said, Our hater and attacker is this evil Haman. Then Haman was full of fear before the king and the queen."
-        },
-        {
-          "verse": 7,
-          "text": "And the king in his wrath got up from the feast and went into the garden: and Haman got to his feet to make a prayer for his life to Esther the queen: for he saw that the king's purpose was evil against him."
-        },
-        {
-          "verse": 8,
-          "text": "Then the king came back from the garden into the room where they had been drinking; and Haman was stretched out on the seat where Esther was. Then the king said, Is he taking the queen by force before my eyes in my house? And while the words were on the king's lips, they put a cloth over Haman's face."
-        },
-        {
-          "verse": 9,
-          "text": "Then Harbonah, one of the unsexed servants waiting before the king, said, See, the pillar fifty cubits high, which Haman made for Mordecai, who said a good word for the king, is still in its place in Haman's house. Then the king said, Put him to death by hanging him on it."
-        },
-        {
-          "verse": 10,
-          "text": "So Haman was put to death by hanging him on the pillar he had made for Mordecai. Then the king's wrath became less."
-        }
-      ],
-      "totalVerses": 10,
-      "footnotes": []
+      "notes": [
+        "A couch is a long seat, like a bed.",
+        "This meant that officers would kill Haman."
+      ]
     },
     {
-      "book": "Esther",
       "chapter": 8,
       "title": "Esther 8",
-      "subtitle": "Esther Chapter 8",
+      "subtitle": "",
+      "totalVerses": 17,
+      "sourceUrl": "https://www.easyenglish.bible/bible/easy/esther/8/",
       "sections": [
         {
-          "heading": "Esther Chapter 8",
+          "heading": "King Xerxes makes a law to protect the Jews",
           "items": [
             [
               {
                 "verse": 1,
-                "text": "That day the king gave all the family of Haman, the hater of the Jews, to Esther the queen. And Mordecai came before the king, for Esther had made clear what he was to her."
+                "text": "That day, King Xerxes took everything that had belonged to Haman, the enemy of the Jews. He gave it all to Queen Esther. Esther told the king that Mordecai was her cousin. So Mordecai came to meet the king."
               },
               {
                 "verse": 2,
-                "text": "And the king took off his ring, which he had taken from Haman, and gave it to Mordecai. And Esther put Mordecai over the family of Haman."
-              },
+                "text": "The king had taken back his special ring from Haman. Now he took it off his own finger and he gave it to Mordecai. And Esther gave Mordecai authority over all the things that had belonged to Haman."
+              }
+            ],
+            [
               {
                 "verse": 3,
-                "text": "Then Esther again came before the king, falling down at his feet, and made request to him with weeping, that he would put a stop to the evil purposes of Haman the Agagite and the designs which he had made against the Jews."
+                "text": "Then Esther went again to speak to the king. She threw herself down at his feet and she wept. She wanted him to stop Haman's evil idea to kill all the Jews."
               },
               {
                 "verse": 4,
-                "text": "Then the king put out the rod of gold to Esther, and she got up before the king."
+                "text": "The king held out his gold sceptre towards Esther. So she stood up to speak to the king."
               }
             ],
             [
               {
                 "verse": 5,
-                "text": "And she said, If it is the king's pleasure and if I have his approval and this thing seems right to the king and I am pleasing to him, then let letters be sent giving orders against those which Haman, the son of Hammedatha the Agagite, sent out for the destruction of the Jews in all divisions of the kingdom:"
+                "text": "Esther said to the king, ‘I hope that I have pleased the king. If you agree, and if you are pleased with me, please make another law. Stop the command that Haman, the descendant of Agag, wrote. He sent letters to all the regions of your kingdom, because he wanted to destroy all the Jewish people."
               },
               {
                 "verse": 6,
-                "text": "For how is it possible for me to see the evil which is to overtake my nation? how may I see the destruction of my people?"
-              },
+                "text": "I cannot let this evil thing happen to my relatives. I have to do something to stop it.’"
+              }
+            ],
+            [
               {
                 "verse": 7,
-                "text": "Then King Ahasuerus said to Esther the queen and to Mordecai the Jew, See now, I have given Esther the family of Haman, and he has come to his death by hanging, because he made an attack on the Jews."
+                "text": "King Xerxes replied to Queen Esther and to Mordecai, ‘You are right! I have already punished Haman with death because he wanted to destroy the Jews. I have also given all of his things to Esther."
               },
               {
                 "verse": 8,
-                "text": "So now send a letter about the Jews, writing whatever seems good to you, in the king's name, and stamping it with the king's ring: for a writing signed in the king's name and stamped with the king's ring may not be changed."
+                "text": "Now you must use my authority to write another law. Write a law that seems right to you. Write a law that will save your people. Then mark the letters with my special ring. Any letter that has my name and the mark of my ring on it has the king's authority. Nobody can ever change it.’"
               }
             ],
             [
               {
                 "verse": 9,
-                "text": "Then at that time, on the twenty-third day of the third month, which is the month Sivan, the king's scribes were sent for; and everything ordered by Mordecai was put in writing and sent to the Jews and the captains and the rulers and the chiefs of all the divisions of the kingdom from India to Ethiopia, a hundred and twenty-seven divisions, to every division in the writing commonly used there, and to every people in their language, and to the Jews in their writing and their language."
+                "text": "They called the king's secretaries to come and write the new law. They did that on the 23rd day of the third month (Sivan). Mordecai told them what to write. They sent the letters to the Jews, the rulers and the officers in all the regions of the kingdom. There were 127 regions, from India as far as Ethiopia. They wrote the letters in the languages that people spoke in each region. They also wrote to the Jews in their own language. Everyone would know what the new law said."
               },
               {
                 "verse": 10,
-                "text": "The letters were sent in the name of King Ahasuerus and stamped with his ring, and they were taken by men on horseback, going on the quick-running horses used for the king's business, the offspring of his best horses:"
-              },
+                "text": "Mordecai used King Xerxes' authority to write the letters. He made a mark on the letters with the king's special ring. Men who rode on the king's fastest horses quickly took the letters everywhere in the kingdom."
+              }
+            ],
+            [
               {
                 "verse": 11,
-                "text": "In these letters the king gave authority to the Jews in every town to come together and make a fight for their lives, and to send death and destruction on the power of any people in any part of the kingdom attacking them or their children or their women, and to take their goods from them by force,"
+                "text": "The king's new law said that the Jewish people could join together to keep themselves safe. Jews who lived in every city could fight against anyone who attacked them. If an army of any kind attacked them, the Jews could kill and destroy them completely, as well as their women and children. They could take away their enemies' things for themselves."
               },
               {
                 "verse": 12,
-                "text": "On one day in every division of the kingdom of Ahasuerus, that is, on the thirteenth day of the twelfth month, the month Adar."
-              }
-            ],
-            [
+                "text": "The law said that the Jews in all the regions of the kingdom could do this on one day. That day was the 13th day of the 12th month (Adar)."
+              },
               {
                 "verse": 13,
-                "text": "A copy of the writing, to be made public as an order in every division of the kingdom, was given out to all the peoples, so that the Jews might be ready when that day came to give punishment to their haters."
-              },
-              {
-                "verse": 14,
-                "text": "So the men went out on the quick-running horses used on the king's business, wasting no time and forced on by the king's order; and the order was given out in Shushan, the king's town."
-              },
-              {
-                "verse": 15,
-                "text": "And Mordecai went out from before the king, dressed in king-like robes of blue and white, and with a great crown of gold and clothing of purple and the best linen: and all the town of Shushan gave loud cries of joy."
-              },
-              {
-                "verse": 16,
-                "text": "And the Jews had light and joy and honour."
+                "text": "A copy of the law would go to every region of the kingdom, so that everyone would know what the law said. Then the Jews would be ready on the right day to punish their enemies."
               }
             ],
             [
               {
+                "verse": 14,
+                "text": "The king's officers rode quickly on the royal horses to take the letters to every region. His officers also read the law aloud to the people in Susa city."
+              }
+            ],
+            [
+              {
+                "verse": 15,
+                "text": "Then Mordecai left the king's palace. He was wearing royal clothes that were blue and white. He had a large gold crown on his head. He wore a beautiful coat made from purple linen. The people in Susa shouted with joy because of the new law."
+              }
+            ],
+            [
+              {
+                "verse": 16,
+                "text": "All the Jews were very happy. Everyone respected them and gave them honour."
+              },
+              {
                 "verse": 17,
-                "text": "And in every part of the kingdom and in every town, wherever the king's letter and his order came, the Jews were glad with great joy, and had a feast and a good day. And a great number of the people of the land became Jews: for the fear of the Jews had come on them."
+                "text": "When the new law reached every region and every city, the Jews became very happy. The other people who lived there were now afraid of the Jews. Because of that, many people said that they themselves had become Jews."
               }
             ]
           ]
         }
       ],
-      "verses": [
-        {
-          "verse": 1,
-          "text": "That day the king gave all the family of Haman, the hater of the Jews, to Esther the queen. And Mordecai came before the king, for Esther had made clear what he was to her."
-        },
-        {
-          "verse": 2,
-          "text": "And the king took off his ring, which he had taken from Haman, and gave it to Mordecai. And Esther put Mordecai over the family of Haman."
-        },
-        {
-          "verse": 3,
-          "text": "Then Esther again came before the king, falling down at his feet, and made request to him with weeping, that he would put a stop to the evil purposes of Haman the Agagite and the designs which he had made against the Jews."
-        },
-        {
-          "verse": 4,
-          "text": "Then the king put out the rod of gold to Esther, and she got up before the king."
-        },
-        {
-          "verse": 5,
-          "text": "And she said, If it is the king's pleasure and if I have his approval and this thing seems right to the king and I am pleasing to him, then let letters be sent giving orders against those which Haman, the son of Hammedatha the Agagite, sent out for the destruction of the Jews in all divisions of the kingdom:"
-        },
-        {
-          "verse": 6,
-          "text": "For how is it possible for me to see the evil which is to overtake my nation? how may I see the destruction of my people?"
-        },
-        {
-          "verse": 7,
-          "text": "Then King Ahasuerus said to Esther the queen and to Mordecai the Jew, See now, I have given Esther the family of Haman, and he has come to his death by hanging, because he made an attack on the Jews."
-        },
-        {
-          "verse": 8,
-          "text": "So now send a letter about the Jews, writing whatever seems good to you, in the king's name, and stamping it with the king's ring: for a writing signed in the king's name and stamped with the king's ring may not be changed."
-        },
-        {
-          "verse": 9,
-          "text": "Then at that time, on the twenty-third day of the third month, which is the month Sivan, the king's scribes were sent for; and everything ordered by Mordecai was put in writing and sent to the Jews and the captains and the rulers and the chiefs of all the divisions of the kingdom from India to Ethiopia, a hundred and twenty-seven divisions, to every division in the writing commonly used there, and to every people in their language, and to the Jews in their writing and their language."
-        },
-        {
-          "verse": 10,
-          "text": "The letters were sent in the name of King Ahasuerus and stamped with his ring, and they were taken by men on horseback, going on the quick-running horses used for the king's business, the offspring of his best horses:"
-        },
-        {
-          "verse": 11,
-          "text": "In these letters the king gave authority to the Jews in every town to come together and make a fight for their lives, and to send death and destruction on the power of any people in any part of the kingdom attacking them or their children or their women, and to take their goods from them by force,"
-        },
-        {
-          "verse": 12,
-          "text": "On one day in every division of the kingdom of Ahasuerus, that is, on the thirteenth day of the twelfth month, the month Adar."
-        },
-        {
-          "verse": 13,
-          "text": "A copy of the writing, to be made public as an order in every division of the kingdom, was given out to all the peoples, so that the Jews might be ready when that day came to give punishment to their haters."
-        },
-        {
-          "verse": 14,
-          "text": "So the men went out on the quick-running horses used on the king's business, wasting no time and forced on by the king's order; and the order was given out in Shushan, the king's town."
-        },
-        {
-          "verse": 15,
-          "text": "And Mordecai went out from before the king, dressed in king-like robes of blue and white, and with a great crown of gold and clothing of purple and the best linen: and all the town of Shushan gave loud cries of joy."
-        },
-        {
-          "verse": 16,
-          "text": "And the Jews had light and joy and honour."
-        },
-        {
-          "verse": 17,
-          "text": "And in every part of the kingdom and in every town, wherever the king's letter and his order came, the Jews were glad with great joy, and had a feast and a good day. And a great number of the people of the land became Jews: for the fear of the Jews had come on them."
-        }
-      ],
-      "totalVerses": 17,
-      "footnotes": []
+      "notes": [
+        "That was the same day that Haman had wanted to kill all the Jews."
+      ]
     },
     {
-      "book": "Esther",
       "chapter": 9,
       "title": "Esther 9",
-      "subtitle": "Esther Chapter 9",
+      "subtitle": "",
+      "totalVerses": 31,
+      "sourceUrl": "https://www.easyenglish.bible/bible/easy/esther/9/",
       "sections": [
         {
-          "heading": "Esther Chapter 9",
+          "heading": "The Jews punish their enemies",
           "items": [
             [
               {
                 "verse": 1,
-                "text": "Now on the thirteenth day of the twelfth month, which is the month Adar, when the time came for the king's order to be put into effect, on the very day when the haters of the Jews had been hoping to have rule over them; though the opposite had come about, and the Jews had rule over their haters;"
+                "text": "The 13th day of the 12th month (Adar) was the day when the enemies of the Jews had hoped to attack them. But now the king's new law said that the Jews could fight to keep themselves safe on that day. So the Jews won against their enemies."
               },
               {
                 "verse": 2,
-                "text": "On that day, the Jews came together in their towns through all the divisions of the kingdom of Ahasuerus, for the purpose of attacking all those who were attempting evil against them: and everyone had to give way before them, for the fear of them had come on all the peoples."
-              },
+                "text": "In all the cities in each region of the kingdom where the Jews lived, they joined together. They attacked anyone who tried to hurt them. Nobody could fight against the Jews because all the people were very afraid of them."
+              }
+            ],
+            [
               {
                 "verse": 3,
-                "text": "And all the chiefs and the captains and the rulers and those who did the king's business gave support to the Jews; because the fear of Mordecai had come on them."
+                "text": "All the king's officers and the rulers and leaders of each region also helped the Jews. They did that because they were afraid of Mordecai's power."
               },
               {
                 "verse": 4,
-                "text": "For Mordecai was great in the king's house, and word of him went out through every part of the kingdom: for the man Mordecai became greater and greater."
+                "text": "He was now a very important officer in the king's palace. News about him reached all the regions as he became more and more powerful."
               }
             ],
             [
               {
                 "verse": 5,
-                "text": "So the Jews overcame all their attackers with the sword and with death and destruction, and did to their haters whatever they had a desire to do."
+                "text": "So when the day arrived, the Jews could do what they wanted to their enemies. They used their swords to attack them and to kill them."
               },
               {
                 "verse": 6,
-                "text": "And in Shushan the Jews put to death five hundred men."
+                "text": "In Susa, the Jews killed 500 men."
               },
               {
                 "verse": 7,
-                "text": "They put to death Parshandatha, Dalphon, Aspatha,"
+                "text": "They also killed Parshandatha, Dalphon, Aspatha,"
               },
               {
                 "verse": 8,
                 "text": "Poratha, Adalia, Aridatha,"
+              },
+              {
+                "verse": 9,
+                "text": "Parmashta, Arisai, Aridai and Vaizatha."
+              },
+              {
+                "verse": 10,
+                "text": "Those men were the ten sons of Haman, the enemy of the Jews. But the Jews did not take any of the things that belonged to the people that they killed."
               }
             ],
             [
               {
-                "verse": 9,
-                "text": "Parmashta, Arisai, Aridai, and Vaizatha,"
-              },
-              {
-                "verse": 10,
-                "text": "The ten sons of Haman the son of Hammedatha, the hater of the Jews; but they put not a hand on any of their goods."
-              },
-              {
                 "verse": 11,
-                "text": "On that day the number of those who had been put to death in the town of Shushan was given to the king."
+                "text": "On the same day, the king heard how many people the Jews had killed in Susa."
               },
               {
                 "verse": 12,
-                "text": "And the king said to Esther the queen, The Jews have put five hundred men to death in Shushan, as well as the ten sons of Haman: what then have they done in the rest of the kingdom! Now what is your prayer? for it will be given to you; what other request have you? and it will be done."
+                "text": "Then the king said to Queen Esther, ‘In Susa the Jews have killed 500 men and also the ten sons of Haman. So I think that they have killed even more of their enemies in the other regions of my kingdom! Now, what else do you want? If you ask me, I will do anything that you still want me to do.’"
               }
             ],
             [
               {
                 "verse": 13,
-                "text": "Then Esther said, If it is the king's pleasure, let authority be given to the Jews in Shushan to do tomorrow as has been done today, and let orders be given for the hanging of Haman's ten sons."
-              },
-              {
-                "verse": 14,
-                "text": "And the king said that this was to be done, and the order was given out in Shushan, and the hanging of Haman's ten sons was effected."
-              },
-              {
-                "verse": 15,
-                "text": "For the Jews who were in Shushan came together again on the fourteenth day of the month Adar and put to death three hundred men in Shushan; but they put not a hand on their goods."
-              },
-              {
-                "verse": 16,
-                "text": "And the other Jews in every division of the kingdom came together, fighting for their lives, and got salvation from their haters and put seventy-five thousand of them to death; but they did not put a hand on their goods."
+                "text": "Esther replied, ‘If the king agrees, please let the Jews who live in Susa do the same thing tomorrow. Let your new law continue for one more day. Also, let them hang the dead bodies of Haman's ten sons from the wooden tower.’"
               }
             ],
             [
               {
-                "verse": 17,
-                "text": "This they did on the thirteenth day of the month Adar; and on the fourteenth day of the same month they took their rest, and made it a day of feasting and joy."
-              },
+                "verse": 14,
+                "text": "The king agreed and he commanded that this should happen. He made another law so that the Jews in Susa could fight again. They also put the dead bodies of Haman's ten sons on the tower."
+              }
+            ],
+            [
+              {
+                "verse": 15,
+                "text": "On the 14th day of the month called Adar, the Jews in Susa all met together again. That day they killed 300 more men in Susa. But they did not take their enemies' things for themselves."
+              }
+            ],
+            [
+              {
+                "verse": 16,
+                "text": "In the other regions of the kingdom, the Jews came together on the 13th day of Adar. They did that to protect themselves against their enemies. They killed 75,000 of their enemies. But they did not take their enemies' things for themselves. Then, on the 14th day of Adar, the Jews in the regions rested. They enjoyed feasts and they were very happy."
+              }
+            ],
+            [
               {
                 "verse": 18,
-                "text": "But the Jews in Shushan came together on the thirteenth and on the fourteenth day of the month; and on the fifteenth day they took their rest, and made it a day of feasting and joy."
+                "text": "But the Jews in Susa did not rest until the 15th day of the month. That was because they killed their enemies on both the 13th day and the 14th day. On the 15th day, they ate feasts and they were very happy."
               },
               {
                 "verse": 19,
-                "text": "So the Jews of the country places living in unwalled towns make the fourteenth day of the month Adar a day of feasting and joy and a good day, a day for sending offerings one to another."
-              },
-              {
-                "verse": 20,
-                "text": "And Mordecai sent letters to all the Jews in every division of the kingdom of Ahasuerus, near and far,"
+                "text": "That is why the Jews who live in towns and villages in the country have a holiday on the 14th day of Adar. On that day, they have feasts and they give gifts to each other, because they are happy."
               }
-            ],
+            ]
+          ]
+        },
+        {
+          "heading": "The Festival of Purim",
+          "items": [
             [
               {
+                "verse": 20,
+                "text": "Mordecai wrote down all these events. He sent letters to all the Jews who were living in all the regions of King Xerxes' kingdom."
+              },
+              {
                 "verse": 21,
-                "text": "Ordering them to keep the fourteenth day of the month Adar and the fifteenth day of the same month, every year,"
+                "text": "He told them that they should have a holiday on the 14th and 15th days of Adar every year."
               },
               {
                 "verse": 22,
-                "text": "As days on which the Jews had rest from their haters, and the month which for them was turned from sorrow to joy, and from weeping to a good day: and that they were to keep them as days of feasting and joy, of sending offerings to one another and good things to the poor."
-              },
-              {
-                "verse": 23,
-                "text": "And the Jews gave their word to go on as they had been doing and as Mordecai had given them orders in writing;"
-              },
-              {
-                "verse": 24,
-                "text": "Because Haman, the son of Hammedatha the Agagite, the hater of all the Jews, had made designs for their destruction, attempting to get a decision by Pur (that is, chance) with a view to putting an end to them and cutting them off;"
+                "text": "They should do that to remember the time when they became safe from their enemies. That was the month when their trouble finished and they could be happy again. They should enjoy a feast together. They should send gifts of food to each other to show their joy. They should also give gifts to poor people."
               }
             ],
             [
               {
-                "verse": 25,
-                "text": "But when the business was put before the king, he gave orders by letters that the evil design which he had made against the Jews was to be turned against himself; and that he and his sons were to be put to death by hanging."
+                "verse": 23,
+                "text": "The Jews agreed to do everything that Mordecai had written in the letters. They had a festival every year to remember what had happened."
               },
               {
+                "verse": 24,
+                "text": "They remembered what Hammedatha's son, Haman, the descendant of Agag, had done. He had been the enemy of the Jews and he had tried to destroy them all. He had thrown dice, called Purim, to choose the day when he would attack them and kill them."
+              },
+              {
+                "verse": 25,
+                "text": "But Esther had told the king what Haman was doing. Then the king had stopped the evil thing that Haman wanted to do against the Jews. The king had written a command to say that Haman should die. The same thing that Haman wanted to do to the Jews should happen to him instead. The bodies of Haman and his sons were hung on the wooden tower that his men had built."
+              }
+            ],
+            [
+              {
                 "verse": 26,
-                "text": "So these days were named Purim, after the name of Pur. And so, because of the words of this letter, and of what they had seen in connection with this business, and what had come to them,"
+                "text": "So the Jews call the days of their festival ‘Purim’. That was the name of the dice that Haman used. They did this because of what Mordecai wrote in his letter. They wanted to remember everything that had happened to them."
               },
               {
                 "verse": 27,
-                "text": "The Jews made a rule and gave an undertaking, causing their seed and all those who were joined to them to do the same, so that it might be in force for ever, that they would keep those two days, as ordered in the letter, at the fixed time every year;"
+                "text": "They made a rule for all the Jews, their descendants, and for any other people who came to join them. The rule said that they must all have a holiday on those two days every year. They must do what Mordecai had written in his letter to them."
               },
               {
                 "verse": 28,
-                "text": "And that those days were to be kept in memory through every generation and every family, in every division of the kingdom and every town, that there might never be a time when these days of Purim would not be kept among the Jews, or when the memory of them would go from the minds of their seed."
+                "text": "From that time, every Jew must remember to keep the days of Purim as a holiday. Every Jewish family must continue to do this. They must enjoy a holiday in all the cities and in all the regions, wherever they lived. And their descendants must continue to do it every year, to remember what happened."
               }
             ],
             [
               {
                 "verse": 29,
-                "text": "Then Esther the queen, daughter of Abihail, and Mordecai the Jew, sent a second letter giving the force of their authority to the order about the Purim."
+                "text": "Then Abihail's daughter, Queen Esther, and Mordecai wrote another letter. Esther used her authority to agree with what Mordecai had written about the Festival of Purim."
               },
               {
                 "verse": 30,
-                "text": "And he sent letters to all the Jews in the hundred and twenty-seven divisions of the kingdom of Ahasuerus, with true words of peace,"
+                "text": "So they sent letters to all the Jews who lived in the 127 regions of Xerxes' kingdom. The message was to help the Jews to live safely in peace."
               },
               {
                 "verse": 31,
-                "text": "Giving the force of law to these days of Purim at their fixed times, as they had been ordered by Mordecai the Jew and Esther the queen, and in keeping with the rules they had made for themselves and their seed, in connection with their time of going without food and their cry for help."
-              },
+                "text": "It told them how to have the days of Purim as a holiday at the right time each year. This was a rule that had the authority of the Jewish man, Mordecai, and of Queen Esther. The message also said that the Jews and their descendants should remember the sad times, and they should fast."
+              }
+            ],
+            [
               {
                 "verse": 32,
-                "text": "The order given by Esther gave the force of law to the rules about the Purim; and it was recorded in the book."
+                "text": "Queen Esther's command made these rules about the Festival of Purim. The palace secretaries wrote them down in a book."
               }
             ]
           ]
         }
       ],
-      "verses": [
-        {
-          "verse": 1,
-          "text": "Now on the thirteenth day of the twelfth month, which is the month Adar, when the time came for the king's order to be put into effect, on the very day when the haters of the Jews had been hoping to have rule over them; though the opposite had come about, and the Jews had rule over their haters;"
-        },
-        {
-          "verse": 2,
-          "text": "On that day, the Jews came together in their towns through all the divisions of the kingdom of Ahasuerus, for the purpose of attacking all those who were attempting evil against them: and everyone had to give way before them, for the fear of them had come on all the peoples."
-        },
-        {
-          "verse": 3,
-          "text": "And all the chiefs and the captains and the rulers and those who did the king's business gave support to the Jews; because the fear of Mordecai had come on them."
-        },
-        {
-          "verse": 4,
-          "text": "For Mordecai was great in the king's house, and word of him went out through every part of the kingdom: for the man Mordecai became greater and greater."
-        },
-        {
-          "verse": 5,
-          "text": "So the Jews overcame all their attackers with the sword and with death and destruction, and did to their haters whatever they had a desire to do."
-        },
-        {
-          "verse": 6,
-          "text": "And in Shushan the Jews put to death five hundred men."
-        },
-        {
-          "verse": 7,
-          "text": "They put to death Parshandatha, Dalphon, Aspatha,"
-        },
-        {
-          "verse": 8,
-          "text": "Poratha, Adalia, Aridatha,"
-        },
-        {
-          "verse": 9,
-          "text": "Parmashta, Arisai, Aridai, and Vaizatha,"
-        },
-        {
-          "verse": 10,
-          "text": "The ten sons of Haman the son of Hammedatha, the hater of the Jews; but they put not a hand on any of their goods."
-        },
-        {
-          "verse": 11,
-          "text": "On that day the number of those who had been put to death in the town of Shushan was given to the king."
-        },
-        {
-          "verse": 12,
-          "text": "And the king said to Esther the queen, The Jews have put five hundred men to death in Shushan, as well as the ten sons of Haman: what then have they done in the rest of the kingdom! Now what is your prayer? for it will be given to you; what other request have you? and it will be done."
-        },
-        {
-          "verse": 13,
-          "text": "Then Esther said, If it is the king's pleasure, let authority be given to the Jews in Shushan to do tomorrow as has been done today, and let orders be given for the hanging of Haman's ten sons."
-        },
-        {
-          "verse": 14,
-          "text": "And the king said that this was to be done, and the order was given out in Shushan, and the hanging of Haman's ten sons was effected."
-        },
-        {
-          "verse": 15,
-          "text": "For the Jews who were in Shushan came together again on the fourteenth day of the month Adar and put to death three hundred men in Shushan; but they put not a hand on their goods."
-        },
-        {
-          "verse": 16,
-          "text": "And the other Jews in every division of the kingdom came together, fighting for their lives, and got salvation from their haters and put seventy-five thousand of them to death; but they did not put a hand on their goods."
-        },
-        {
-          "verse": 17,
-          "text": "This they did on the thirteenth day of the month Adar; and on the fourteenth day of the same month they took their rest, and made it a day of feasting and joy."
-        },
-        {
-          "verse": 18,
-          "text": "But the Jews in Shushan came together on the thirteenth and on the fourteenth day of the month; and on the fifteenth day they took their rest, and made it a day of feasting and joy."
-        },
-        {
-          "verse": 19,
-          "text": "So the Jews of the country places living in unwalled towns make the fourteenth day of the month Adar a day of feasting and joy and a good day, a day for sending offerings one to another."
-        },
-        {
-          "verse": 20,
-          "text": "And Mordecai sent letters to all the Jews in every division of the kingdom of Ahasuerus, near and far,"
-        },
-        {
-          "verse": 21,
-          "text": "Ordering them to keep the fourteenth day of the month Adar and the fifteenth day of the same month, every year,"
-        },
-        {
-          "verse": 22,
-          "text": "As days on which the Jews had rest from their haters, and the month which for them was turned from sorrow to joy, and from weeping to a good day: and that they were to keep them as days of feasting and joy, of sending offerings to one another and good things to the poor."
-        },
-        {
-          "verse": 23,
-          "text": "And the Jews gave their word to go on as they had been doing and as Mordecai had given them orders in writing;"
-        },
-        {
-          "verse": 24,
-          "text": "Because Haman, the son of Hammedatha the Agagite, the hater of all the Jews, had made designs for their destruction, attempting to get a decision by Pur (that is, chance) with a view to putting an end to them and cutting them off;"
-        },
-        {
-          "verse": 25,
-          "text": "But when the business was put before the king, he gave orders by letters that the evil design which he had made against the Jews was to be turned against himself; and that he and his sons were to be put to death by hanging."
-        },
-        {
-          "verse": 26,
-          "text": "So these days were named Purim, after the name of Pur. And so, because of the words of this letter, and of what they had seen in connection with this business, and what had come to them,"
-        },
-        {
-          "verse": 27,
-          "text": "The Jews made a rule and gave an undertaking, causing their seed and all those who were joined to them to do the same, so that it might be in force for ever, that they would keep those two days, as ordered in the letter, at the fixed time every year;"
-        },
-        {
-          "verse": 28,
-          "text": "And that those days were to be kept in memory through every generation and every family, in every division of the kingdom and every town, that there might never be a time when these days of Purim would not be kept among the Jews, or when the memory of them would go from the minds of their seed."
-        },
-        {
-          "verse": 29,
-          "text": "Then Esther the queen, daughter of Abihail, and Mordecai the Jew, sent a second letter giving the force of their authority to the order about the Purim."
-        },
-        {
-          "verse": 30,
-          "text": "And he sent letters to all the Jews in the hundred and twenty-seven divisions of the kingdom of Ahasuerus, with true words of peace,"
-        },
-        {
-          "verse": 31,
-          "text": "Giving the force of law to these days of Purim at their fixed times, as they had been ordered by Mordecai the Jew and Esther the queen, and in keeping with the rules they had made for themselves and their seed, in connection with their time of going without food and their cry for help."
-        },
-        {
-          "verse": 32,
-          "text": "The order given by Esther gave the force of law to the rules about the Purim; and it was recorded in the book."
-        }
-      ],
-      "totalVerses": 32,
-      "footnotes": []
+      "notes": [
+        "Even today, Jews have afeastevery year to remember everything that happened. The feast is called ‘Purim’. SeeEsther 3:7."
+      ]
     },
     {
-      "book": "Esther",
       "chapter": 10,
       "title": "Esther 10",
-      "subtitle": "Esther Chapter 10",
+      "subtitle": "",
+      "totalVerses": 3,
+      "sourceUrl": "https://www.easyenglish.bible/bible/easy/esther/10/",
       "sections": [
         {
-          "heading": "Esther Chapter 10",
+          "heading": "King Xerxes gives great authority to Mordecai",
           "items": [
             [
               {
                 "verse": 1,
-                "text": "And King Ahasuerus put a tax on the land and on the islands of the sea."
-              },
+                "text": "King Xerxes caused everyone who lived in his kingdom to pay taxes. It included those who lived far away, on the coast of the sea."
+              }
+            ],
+            [
               {
                 "verse": 2,
-                "text": "And all his acts of power and his great strength and the full story of the high place which the king gave Mordecai, are they not recorded in the book of the history of the kings of Media and Persia?"
+                "text": "Everything that King Xerxes did was written down in ‘The history book of the kings of Media and Persia’. The book tells about all the great things that King Xerxes did with his power and authority. It also tells how the king gave more authority to Mordecai, who became very great."
               },
               {
                 "verse": 3,
-                "text": "For Mordecai the Jew was second only to King Ahasuerus, and great among the Jews and respected by the body of his countrymen; working for the good of his people, and saying words of peace to all his seed."
+                "text": "The Jewish man, Mordecai, was the most important Jew in the whole kingdom. Only King Xerxes himself had more authority than Mordecai. The other Jews respected Mordecai because he worked hard to help them. He asked the king to make sure that all his people could live safely."
               }
             ]
           ]
         }
       ],
-      "verses": [
-        {
-          "verse": 1,
-          "text": "And King Ahasuerus put a tax on the land and on the islands of the sea."
-        },
-        {
-          "verse": 2,
-          "text": "And all his acts of power and his great strength and the full story of the high place which the king gave Mordecai, are they not recorded in the book of the history of the kings of Media and Persia?"
-        },
-        {
-          "verse": 3,
-          "text": "For Mordecai the Jew was second only to King Ahasuerus, and great among the Jews and respected by the body of his countrymen; working for the good of his people, and saying words of peace to all his seed."
-        }
-      ],
-      "totalVerses": 3,
-      "footnotes": []
+      "notes": []
     }
   ]
 }

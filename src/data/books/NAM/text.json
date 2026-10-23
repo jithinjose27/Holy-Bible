@@ -1,463 +1,1377 @@
 {
-  "translation": "EasyEnglish Bible",
-  "book": "Nahum",
-  "bookId": "NAM",
+  "id": "NAM",
+  "name": "Nahum",
+  "slug": "nahum",
+  "translation": "EasyEnglish Bible (EASY)",
+  "publisher": "MissionAssist UK",
+  "referenceUrl": "https://www.easyenglish.bible/bible/easy/nahum/",
   "totalChapters": 3,
-  "copyrightNotice": "Scripture quotations are from the EasyEnglish Bible / Bible in Basic English. Public Domain.",
-  "officialSourceUrl": "https://www.easyenglish.bible/bible/easy/nahum/1/",
+  "totalVerses": 47,
   "chapters": [
     {
-      "book": "Nahum",
       "chapter": 1,
       "title": "Nahum 1",
-      "subtitle": "Nahum Chapter 1",
+      "subtitle": "",
+      "totalVerses": 15,
+      "sourceUrl": "https://www.easyenglish.bible/bible/easy/nahum/1/",
       "sections": [
         {
-          "heading": "Nahum Chapter 1",
+          "heading": "God always punishes his enemies",
           "items": [
             [
               {
                 "verse": 1,
-                "text": "The word about Nineveh. The book of the vision of Nahum the Elkoshite."
-              },
+                "text": "This is a message that God showed as a vision to Nahum, who lived in Elkosh. It is a message about the people of Nineveh."
+              }
+            ],
+            [
               {
                 "verse": 2,
-                "text": "The Lord is a God who takes care of his honour and gives punishment for wrong; the Lord gives punishment and is angry; the Lord sends punishment on those who are against him, being angry with his haters."
-              },
+                "text": "The Lord wants people to worship only him."
+              }
+            ],
+            [
+              {
+                "verse": 2,
+                "text": "If people turn against him, he punishes them."
+              }
+            ],
+            [
+              {
+                "verse": 2,
+                "text": "He becomes very angry with his enemies."
+              }
+            ],
+            [
+              {
+                "verse": 2,
+                "text": "He pays them back as they deserve."
+              }
+            ],
+            [
+              {
+                "verse": 2,
+                "text": "He continues to be angry with his enemies"
+              }
+            ],
+            [
+              {
+                "verse": 2,
+                "text": "until their punishment is complete."
+              }
+            ],
+            [
               {
                 "verse": 3,
-                "text": "The Lord is slow to get angry and great in power, and will not let the sinner go without punishment: the way of the Lord is in the wind and the storm, and the clouds are the dust of his feet."
-              },
+                "text": "The Lord does not quickly become angry,"
+              }
+            ],
+            [
+              {
+                "verse": 3,
+                "text": "but he is a very powerful God."
+              }
+            ],
+            [
+              {
+                "verse": 3,
+                "text": "If people are guilty,"
+              }
+            ],
+            [
+              {
+                "verse": 3,
+                "text": "he will surely punish them."
+              }
+            ],
+            [
+              {
+                "verse": 3,
+                "text": "You can see his power in the wind and the storms."
+              }
+            ],
+            [
+              {
+                "verse": 3,
+                "text": "The clouds are like dust under his feet."
+              }
+            ],
+            [
               {
                 "verse": 4,
-                "text": "He says sharp words to the sea and makes it dry, drying up all the rivers: Bashan is feeble, and Carmel, and the flower of Lebanon is without strength."
+                "text": "When he shouts a command at the sea, it becomes dry!"
+              }
+            ],
+            [
+              {
+                "verse": 4,
+                "text": "He causes water in the rivers to disappear too."
+              }
+            ],
+            [
+              {
+                "verse": 4,
+                "text": "The grass in the fields of Bashan and Carmel starts to die."
+              }
+            ],
+            [
+              {
+                "verse": 4,
+                "text": "The flowers of Lebanon die too."
               }
             ],
             [
               {
                 "verse": 5,
-                "text": "The mountains are shaking because of him, and the hills flowing away; the earth is falling to bits before him, the world and all who are in it."
-              },
+                "text": "He causes the mountains and the hills to shake."
+              }
+            ],
+            [
+              {
+                "verse": 5,
+                "text": "The earth shakes as he appears."
+              }
+            ],
+            [
+              {
+                "verse": 5,
+                "text": "His power causes all the people in the world to shake."
+              }
+            ],
+            [
               {
                 "verse": 6,
-                "text": "Who may keep his place before his wrath? and who may undergo the heat of his passion? his wrath is let loose like fire and the rocks are broken open by him."
-              },
+                "text": "When the Lord is angry, nobody can stop him."
+              }
+            ],
+            [
+              {
+                "verse": 6,
+                "text": "His great anger can destroy anyone."
+              }
+            ],
+            [
+              {
+                "verse": 6,
+                "text": "He pours out his anger like flames of fire."
+              }
+            ],
+            [
+              {
+                "verse": 6,
+                "text": "It causes rocks to break into pieces."
+              }
+            ],
+            [
               {
                 "verse": 7,
-                "text": "The Lord is good, a strong place in the day of trouble; and he has knowledge of those who take him for their safe cover."
-              },
+                "text": "The Lord is good!"
+              }
+            ],
+            [
+              {
+                "verse": 7,
+                "text": "He is a safe place for his people"
+              }
+            ],
+            [
+              {
+                "verse": 7,
+                "text": "when trouble comes to them."
+              }
+            ],
+            [
+              {
+                "verse": 7,
+                "text": "He takes care of people who trust him."
+              }
+            ],
+            [
               {
                 "verse": 8,
-                "text": "But like water overflowing he will take them away; he will put an end to those who come up against him, driving his haters into the dark."
+                "text": "But he will quickly destroy Nineveh."
+              }
+            ],
+            [
+              {
+                "verse": 8,
+                "text": "He will chase his enemies to a dark place of death."
+              }
+            ]
+          ]
+        },
+        {
+          "heading": "Nahum warns Nineveh's people that God will destroy them",
+          "items": [
+            [
+              {
+                "verse": 9,
+                "text": "Any plan that you make to hurt the Lord will be useless."
               }
             ],
             [
               {
                 "verse": 9,
-                "text": "What are you designing against the Lord? he will put an end to it: his haters will not come up again a second time."
-              },
+                "text": "He will only need to punish you once"
+              }
+            ],
+            [
+              {
+                "verse": 9,
+                "text": "and that will be the end of you!"
+              }
+            ],
+            [
               {
                 "verse": 10,
-                "text": "For though they are like twisted thorns, and are overcome as with drink, they will come to destruction like stems of grass fully dry."
-              },
+                "text": "He will completely destroy his enemies."
+              }
+            ],
+            [
+              {
+                "verse": 10,
+                "text": "They will be like thorn bushes that a fire quickly destroys."
+              }
+            ],
+            [
+              {
+                "verse": 10,
+                "text": "They will be like wine that a drunk man quickly finishes."
+              }
+            ],
+            [
+              {
+                "verse": 10,
+                "text": "They will be like dry straw that a fire completely burns."
+              }
+            ],
+            [
               {
                 "verse": 11,
-                "text": "One has gone out from you who is designing evil against the Lord, whose purposes are of no value."
-              },
+                "text": "Someone who makes wicked plans has come out from you, Nineveh."
+              }
+            ],
+            [
+              {
+                "verse": 11,
+                "text": "He wants to do evil things against the Lord."
+              }
+            ]
+          ]
+        },
+        {
+          "heading": "God promises that his people will have peace",
+          "items": [
+            [
               {
                 "verse": 12,
-                "text": "This is what the Lord has said: The days of my cause against you are ended; they are cut off and past. Though I have sent trouble on you, you will no longer be troubled."
+                "text": "This is what the Lord says:"
+              }
+            ],
+            [
+              {
+                "verse": 12,
+                "text": "‘The people of Assyria are very many"
+              }
+            ],
+            [
+              {
+                "verse": 12,
+                "text": "and they have a powerful army."
+              }
+            ],
+            [
+              {
+                "verse": 12,
+                "text": "But I will destroy them"
+              }
+            ],
+            [
+              {
+                "verse": 12,
+                "text": "so that they disappear."
+              }
+            ],
+            [
+              {
+                "verse": 12,
+                "text": "I have caused you, my people, to suffer,"
+              }
+            ],
+            [
+              {
+                "verse": 12,
+                "text": "but I will not punish you any more."
               }
             ],
             [
               {
                 "verse": 13,
-                "text": "And now I will let his yoke be broken off you, and your chains be parted."
-              },
+                "text": "Now I will make you free from Assyria's power."
+              }
+            ],
+            [
+              {
+                "verse": 13,
+                "text": "I will break the chains that they have put on you, as their slaves.’"
+              }
+            ],
+            [
+              {
+                "verse": 13,
+                "text": "14 The Lord has spoken this command about you, king of Assyria. He says,‘You will have no descendantsand your family name will disappear.I will destroy the idols and the imagesthat you worship in the temple of your gods.I will prepare your gravebecause you are a useless king.’ 15 People of Judah, look towards the mountains!A messenger is coming with good news for you.He brings a message about peace.So you can have your special festivals again now.You can bring your offerings that you have promised to give to God.Those wicked people will not attack you any more.God has completely destroyed them."
+              }
+            ],
+            [
               {
                 "verse": 14,
-                "text": "The Lord has given an order about you, that no more of your name are to be planted: from the house of your gods I will have the pictured and metal images cut off; I will make your last resting-place a place of shame; for you are completely evil."
-              },
+                "text": "The Lord has spoken this command about you, king of Assyria. He says,"
+              }
+            ],
+            [
+              {
+                "verse": 14,
+                "text": "‘You will have no descendants"
+              }
+            ],
+            [
+              {
+                "verse": 14,
+                "text": "and your family name will disappear."
+              }
+            ],
+            [
+              {
+                "verse": 14,
+                "text": "I will destroy the idols and the images"
+              }
+            ],
+            [
+              {
+                "verse": 14,
+                "text": "that you worship in the temple of your gods."
+              }
+            ],
+            [
+              {
+                "verse": 14,
+                "text": "I will prepare your grave"
+              }
+            ],
+            [
+              {
+                "verse": 14,
+                "text": "because you are a useless king.’"
+              }
+            ],
+            [
+              {
+                "verse": 14,
+                "text": "15 People of Judah, look towards the mountains!A messenger is coming with good news for you.He brings a message about peace.So you can have your special festivals again now.You can bring your offerings that you have promised to give to God.Those wicked people will not attack you any more.God has completely destroyed them."
+              }
+            ],
+            [
               {
                 "verse": 15,
-                "text": "See on the mountains the feet of him who comes with good news, giving word of peace! Keep your feasts, O Judah, give effect to your oaths: for the good-for-nothing man will never again go through you; he is completely cut off."
+                "text": "People of Judah, look towards the mountains!"
+              }
+            ],
+            [
+              {
+                "verse": 15,
+                "text": "A messenger is coming with good news for you."
+              }
+            ],
+            [
+              {
+                "verse": 15,
+                "text": "He brings a message about peace."
+              }
+            ],
+            [
+              {
+                "verse": 15,
+                "text": "So you can have your special festivals again now."
+              }
+            ],
+            [
+              {
+                "verse": 15,
+                "text": "You can bring your offerings that you have promised to give to God."
+              }
+            ],
+            [
+              {
+                "verse": 15,
+                "text": "Those wicked people will not attack you any more."
+              }
+            ],
+            [
+              {
+                "verse": 15,
+                "text": "God has completely destroyed them."
               }
             ]
           ]
         }
       ],
-      "verses": [
-        {
-          "verse": 1,
-          "text": "The word about Nineveh. The book of the vision of Nahum the Elkoshite."
-        },
-        {
-          "verse": 2,
-          "text": "The Lord is a God who takes care of his honour and gives punishment for wrong; the Lord gives punishment and is angry; the Lord sends punishment on those who are against him, being angry with his haters."
-        },
-        {
-          "verse": 3,
-          "text": "The Lord is slow to get angry and great in power, and will not let the sinner go without punishment: the way of the Lord is in the wind and the storm, and the clouds are the dust of his feet."
-        },
-        {
-          "verse": 4,
-          "text": "He says sharp words to the sea and makes it dry, drying up all the rivers: Bashan is feeble, and Carmel, and the flower of Lebanon is without strength."
-        },
-        {
-          "verse": 5,
-          "text": "The mountains are shaking because of him, and the hills flowing away; the earth is falling to bits before him, the world and all who are in it."
-        },
-        {
-          "verse": 6,
-          "text": "Who may keep his place before his wrath? and who may undergo the heat of his passion? his wrath is let loose like fire and the rocks are broken open by him."
-        },
-        {
-          "verse": 7,
-          "text": "The Lord is good, a strong place in the day of trouble; and he has knowledge of those who take him for their safe cover."
-        },
-        {
-          "verse": 8,
-          "text": "But like water overflowing he will take them away; he will put an end to those who come up against him, driving his haters into the dark."
-        },
-        {
-          "verse": 9,
-          "text": "What are you designing against the Lord? he will put an end to it: his haters will not come up again a second time."
-        },
-        {
-          "verse": 10,
-          "text": "For though they are like twisted thorns, and are overcome as with drink, they will come to destruction like stems of grass fully dry."
-        },
-        {
-          "verse": 11,
-          "text": "One has gone out from you who is designing evil against the Lord, whose purposes are of no value."
-        },
-        {
-          "verse": 12,
-          "text": "This is what the Lord has said: The days of my cause against you are ended; they are cut off and past. Though I have sent trouble on you, you will no longer be troubled."
-        },
-        {
-          "verse": 13,
-          "text": "And now I will let his yoke be broken off you, and your chains be parted."
-        },
-        {
-          "verse": 14,
-          "text": "The Lord has given an order about you, that no more of your name are to be planted: from the house of your gods I will have the pictured and metal images cut off; I will make your last resting-place a place of shame; for you are completely evil."
-        },
-        {
-          "verse": 15,
-          "text": "See on the mountains the feet of him who comes with good news, giving word of peace! Keep your feasts, O Judah, give effect to your oaths: for the good-for-nothing man will never again go through you; he is completely cut off."
-        }
-      ],
-      "totalVerses": 15,
-      "footnotes": []
+      "notes": [
+        "Elkosh was a town in Judah.",
+        "When we writeLordlike this, it is a special name for God. Sometimes people write it as the Hebrew name ‘Yahweh’. It is God's own name that he told Moses. SeeExodus 3:14. It means ‘I am who I am’. This shows that God has always been there and he always will be there.",
+        "Bashan, Carmel and Lebanon were places where plants usually grew very well."
+      ]
     },
     {
-      "book": "Nahum",
       "chapter": 2,
       "title": "Nahum 2",
-      "subtitle": "Nahum Chapter 2",
+      "subtitle": "",
+      "totalVerses": 13,
+      "sourceUrl": "https://www.easyenglish.bible/bible/easy/nahum/2/",
       "sections": [
         {
-          "heading": "Nahum Chapter 2",
+          "heading": "An enemy army will destroy Nineveh",
           "items": [
             [
               {
                 "verse": 1,
-                "text": "A crusher has come up before your face: keep a good look-out, let the way be watched, make yourself strong, let your power be greatly increased."
-              },
+                "text": "An enemy is coming to attack you, people of Nineveh."
+              }
+            ],
+            [
+              {
+                "verse": 1,
+                "text": "They want to chase you away."
+              }
+            ],
+            [
+              {
+                "verse": 1,
+                "text": "Put guards on the city's walls!"
+              }
+            ],
+            [
+              {
+                "verse": 1,
+                "text": "Watch the road into the city!"
+              }
+            ],
+            [
+              {
+                "verse": 1,
+                "text": "Prepare to fight with all your strength!"
+              }
+            ],
+            [
+              {
+                "verse": 1,
+                "text": "2 Now the Lord will make Jacob's descendants great again.2:2Enemy armies have attacked them.They have destroyed their land and their crops.But the Lord will make Israel and Judah great again.2:2 3 Strong soldiers are coming to attack you, Nineveh!They have red shields and bright red clothes.They are ready for the battle!The metal on their chariots shines as bright as fire.The soldiers wave their spears in the air. 4 They drive their chariots very fast through the streets.They rush here and there across the city's open places.Their chariots move like lightning.They shine like bright lights. 5 The army leader commands his best soldiers to go forward.They almost fall as they run to the city wall.They put up their shields to cover their headsas they prepare to attack. 6 They open the river gates and water pours into the city.The water causes the palace to fall down. 7 Nineveh's people must leave their city with much shame.Their enemy will lead them away as prisoners.The female slaves make sad noises like doves.They use their hands to hit themselves because they are upset. 8 Nineveh is like a pool of water.Now its people are running away,like water that is pouring out of the pool.People shout at them, ‘Stop, stop!’But nobody turns to come back. 9 The enemy's soldiers say to each other,‘We will take the silver and the gold for ourselves.The city is full of many valuable things.There is plenty for us all!’ 10 The enemy takes every valuable thing from the city.They destroy anything that remains.They leave nothing.Nineveh's people are weak and afraid.Their knees and their whole bodies shake with fear.Their faces become white.Nineveh no longer has any power 11 What has happened to the great city of Nineveh?It was like a home for strong lions.It was a place where the young lions could feed themselves.It was a safe place where whole families of lions could live.They were not afraid of any trouble. 12 Nineveh's men were like lionsthat could kill other animals for food.They could provide plenty of foodfor their wives and their children.They could bring home as many valuable things as they wanted. 13 But now the Lord Almighty says to Nineveh's people,‘I am your enemy!I will use fire to destroy your chariots.I will cause your strong young men to die in battle.You will no longer be able to attack other nationsand take their things for yourselves.Other people will no longer listen to the voices of your messengers.’"
+              }
+            ],
+            [
               {
                 "verse": 2,
-                "text": "For the Lord will make good the vine of Jacob, as well as the vine of Israel: for the wasters have made them waste and sent destruction on the branches of their vine."
-              },
+                "text": "Now the Lord will make Jacob's descendants great again."
+              }
+            ],
+            [
+              {
+                "verse": 2,
+                "text": "Enemy armies have attacked them."
+              }
+            ],
+            [
+              {
+                "verse": 2,
+                "text": "They have destroyed their land and their crops."
+              }
+            ],
+            [
+              {
+                "verse": 2,
+                "text": "But the Lord will make Israel and Judah great again."
+              }
+            ],
+            [
+              {
+                "verse": 2,
+                "text": "3 Strong soldiers are coming to attack you, Nineveh!They have red shields and bright red clothes.They are ready for the battle!The metal on their chariots shines as bright as fire.The soldiers wave their spears in the air. 4 They drive their chariots very fast through the streets.They rush here and there across the city's open places.Their chariots move like lightning.They shine like bright lights. 5 The army leader commands his best soldiers to go forward.They almost fall as they run to the city wall.They put up their shields to cover their headsas they prepare to attack. 6 They open the river gates and water pours into the city.The water causes the palace to fall down. 7 Nineveh's people must leave their city with much shame.Their enemy will lead them away as prisoners.The female slaves make sad noises like doves.They use their hands to hit themselves because they are upset. 8 Nineveh is like a pool of water.Now its people are running away,like water that is pouring out of the pool.People shout at them, ‘Stop, stop!’But nobody turns to come back. 9 The enemy's soldiers say to each other,‘We will take the silver and the gold for ourselves.The city is full of many valuable things.There is plenty for us all!’ 10 The enemy takes every valuable thing from the city.They destroy anything that remains.They leave nothing.Nineveh's people are weak and afraid.Their knees and their whole bodies shake with fear.Their faces become white.Nineveh no longer has any power 11 What has happened to the great city of Nineveh?It was like a home for strong lions.It was a place where the young lions could feed themselves.It was a safe place where whole families of lions could live.They were not afraid of any trouble. 12 Nineveh's men were like lionsthat could kill other animals for food.They could provide plenty of foodfor their wives and their children.They could bring home as many valuable things as they wanted. 13 But now the Lord Almighty says to Nineveh's people,‘I am your enemy!I will use fire to destroy your chariots.I will cause your strong young men to die in battle.You will no longer be able to attack other nationsand take their things for yourselves.Other people will no longer listen to the voices of your messengers.’"
+              }
+            ],
+            [
               {
                 "verse": 3,
-                "text": "The body-covers of his fighting men have been made red, the men of war are clothed in bright red: the war-carriages are like flames of fire in the day when he gets ready, the horses are shaking."
-              },
+                "text": "Strong soldiers are coming to attack you, Nineveh!"
+              }
+            ],
+            [
+              {
+                "verse": 3,
+                "text": "They have red shields and bright red clothes."
+              }
+            ],
+            [
+              {
+                "verse": 3,
+                "text": "They are ready for the battle!"
+              }
+            ],
+            [
+              {
+                "verse": 3,
+                "text": "The metal on their chariots shines as bright as fire."
+              }
+            ],
+            [
+              {
+                "verse": 3,
+                "text": "The soldiers wave their spears in the air."
+              }
+            ],
+            [
               {
                 "verse": 4,
-                "text": "The war-carriages are rushing through the streets, pushing against one another in the wide ways, looking like burning lights, running like thunder-flames."
+                "text": "They drive their chariots very fast through the streets."
+              }
+            ],
+            [
+              {
+                "verse": 4,
+                "text": "They rush here and there across the city's open places."
+              }
+            ],
+            [
+              {
+                "verse": 4,
+                "text": "Their chariots move like lightning."
+              }
+            ],
+            [
+              {
+                "verse": 4,
+                "text": "They shine like bright lights."
               }
             ],
             [
               {
                 "verse": 5,
-                "text": "He takes the record of his great men: they go falling on their way; they go quickly to the wall, the cover is made ready."
-              },
+                "text": "The army leader commands his best soldiers to go forward."
+              }
+            ],
+            [
+              {
+                "verse": 5,
+                "text": "They almost fall as they run to the city wall."
+              }
+            ],
+            [
+              {
+                "verse": 5,
+                "text": "They put up their shields to cover their heads"
+              }
+            ],
+            [
+              {
+                "verse": 5,
+                "text": "as they prepare to attack."
+              }
+            ],
+            [
               {
                 "verse": 6,
-                "text": "The river doorways are forced open, and the king's house is flowing away."
-              },
+                "text": "They open the river gates and water pours into the city."
+              }
+            ],
+            [
+              {
+                "verse": 6,
+                "text": "The water causes the palace to fall down."
+              }
+            ],
+            [
               {
                 "verse": 7,
-                "text": "And the queen is uncovered, she is taken away and her servant-girls are weeping like the sound of doves, hammering on their breasts."
-              },
+                "text": "Nineveh's people must leave their city with much shame."
+              }
+            ],
+            [
+              {
+                "verse": 7,
+                "text": "Their enemy will lead them away as prisoners."
+              }
+            ],
+            [
+              {
+                "verse": 7,
+                "text": "The female slaves make sad noises like doves."
+              }
+            ],
+            [
+              {
+                "verse": 7,
+                "text": "They use their hands to hit themselves because they are upset."
+              }
+            ],
+            [
               {
                 "verse": 8,
-                "text": "But Nineveh is like a pool of water whose waters are flowing away; Keep your place, they say; but no one is turning back."
+                "text": "Nineveh is like a pool of water."
+              }
+            ],
+            [
+              {
+                "verse": 8,
+                "text": "Now its people are running away,"
+              }
+            ],
+            [
+              {
+                "verse": 8,
+                "text": "like water that is pouring out of the pool."
+              }
+            ],
+            [
+              {
+                "verse": 8,
+                "text": "People shout at them, ‘Stop, stop!’"
+              }
+            ],
+            [
+              {
+                "verse": 8,
+                "text": "But nobody turns to come back."
               }
             ],
             [
               {
                 "verse": 9,
-                "text": "Take silver, take gold; for there is no end to the store; take for yourselves a weight of things to be desired."
-              },
+                "text": "The enemy's soldiers say to each other,"
+              }
+            ],
+            [
+              {
+                "verse": 9,
+                "text": "‘We will take the silver and the gold for ourselves."
+              }
+            ],
+            [
+              {
+                "verse": 9,
+                "text": "The city is full of many valuable things."
+              }
+            ],
+            [
+              {
+                "verse": 9,
+                "text": "There is plenty for us all!’"
+              }
+            ],
+            [
               {
                 "verse": 10,
-                "text": "Everything has been taken from her, all is gone, she has nothing more: the heart is turned to water, the knees are shaking, all are twisted in pain, and colour has gone from all faces."
-              },
+                "text": "The enemy takes every valuable thing from the city."
+              }
+            ],
+            [
+              {
+                "verse": 10,
+                "text": "They destroy anything that remains."
+              }
+            ],
+            [
+              {
+                "verse": 10,
+                "text": "They leave nothing."
+              }
+            ],
+            [
+              {
+                "verse": 10,
+                "text": "Nineveh's people are weak and afraid."
+              }
+            ],
+            [
+              {
+                "verse": 10,
+                "text": "Their knees and their whole bodies shake with fear."
+              }
+            ],
+            [
+              {
+                "verse": 10,
+                "text": "Their faces become white."
+              }
+            ]
+          ]
+        },
+        {
+          "heading": "Nineveh no longer has any power",
+          "items": [
+            [
               {
                 "verse": 11,
-                "text": "Where is the lions' hole, the place where the young lions got their food, where the lion and the she-lion were walking with their young, without cause for fear?"
-              },
+                "text": "What has happened to the great city of Nineveh?"
+              }
+            ],
+            [
+              {
+                "verse": 11,
+                "text": "It was like a home for strong lions."
+              }
+            ],
+            [
+              {
+                "verse": 11,
+                "text": "It was a place where the young lions could feed themselves."
+              }
+            ],
+            [
+              {
+                "verse": 11,
+                "text": "It was a safe place where whole families of lions could live."
+              }
+            ],
+            [
+              {
+                "verse": 11,
+                "text": "They were not afraid of any trouble."
+              }
+            ],
+            [
               {
                 "verse": 12,
-                "text": "Food enough for his young and for his she-lions was pulled down by the lion; his hole was full of flesh and his resting-place stored with meat."
+                "text": "Nineveh's men were like lions"
+              }
+            ],
+            [
+              {
+                "verse": 12,
+                "text": "that could kill other animals for food."
+              }
+            ],
+            [
+              {
+                "verse": 12,
+                "text": "They could provide plenty of food"
+              }
+            ],
+            [
+              {
+                "verse": 12,
+                "text": "for their wives and their children."
+              }
+            ],
+            [
+              {
+                "verse": 12,
+                "text": "They could bring home as many valuable things as they wanted."
+              }
+            ],
+            [
+              {
+                "verse": 12,
+                "text": "13 But now the Lord Almighty says to Nineveh's people,‘I am your enemy!I will use fire to destroy your chariots.I will cause your strong young men to die in battle.You will no longer be able to attack other nationsand take their things for yourselves.Other people will no longer listen to the voices of your messengers.’"
               }
             ],
             [
               {
                 "verse": 13,
-                "text": "See, I am against you, says the Lord of armies, and I will have your war-carriages burned in the smoke, and your young lions will be food for the sword: you will no longer get your food by force on the earth, and the voice of your she-lions will be stopped for ever."
+                "text": "But now the Lord Almighty says to Nineveh's people,"
+              }
+            ],
+            [
+              {
+                "verse": 13,
+                "text": "‘I am your enemy!"
+              }
+            ],
+            [
+              {
+                "verse": 13,
+                "text": "I will use fire to destroy your chariots."
+              }
+            ],
+            [
+              {
+                "verse": 13,
+                "text": "I will cause your strong young men to die in battle."
+              }
+            ],
+            [
+              {
+                "verse": 13,
+                "text": "You will no longer be able to attack other nations"
+              }
+            ],
+            [
+              {
+                "verse": 13,
+                "text": "and take their things for yourselves."
+              }
+            ],
+            [
+              {
+                "verse": 13,
+                "text": "Other people will no longer listen to the voices of your messengers.’"
               }
             ]
           ]
         }
       ],
-      "verses": [
-        {
-          "verse": 1,
-          "text": "A crusher has come up before your face: keep a good look-out, let the way be watched, make yourself strong, let your power be greatly increased."
-        },
-        {
-          "verse": 2,
-          "text": "For the Lord will make good the vine of Jacob, as well as the vine of Israel: for the wasters have made them waste and sent destruction on the branches of their vine."
-        },
-        {
-          "verse": 3,
-          "text": "The body-covers of his fighting men have been made red, the men of war are clothed in bright red: the war-carriages are like flames of fire in the day when he gets ready, the horses are shaking."
-        },
-        {
-          "verse": 4,
-          "text": "The war-carriages are rushing through the streets, pushing against one another in the wide ways, looking like burning lights, running like thunder-flames."
-        },
-        {
-          "verse": 5,
-          "text": "He takes the record of his great men: they go falling on their way; they go quickly to the wall, the cover is made ready."
-        },
-        {
-          "verse": 6,
-          "text": "The river doorways are forced open, and the king's house is flowing away."
-        },
-        {
-          "verse": 7,
-          "text": "And the queen is uncovered, she is taken away and her servant-girls are weeping like the sound of doves, hammering on their breasts."
-        },
-        {
-          "verse": 8,
-          "text": "But Nineveh is like a pool of water whose waters are flowing away; Keep your place, they say; but no one is turning back."
-        },
-        {
-          "verse": 9,
-          "text": "Take silver, take gold; for there is no end to the store; take for yourselves a weight of things to be desired."
-        },
-        {
-          "verse": 10,
-          "text": "Everything has been taken from her, all is gone, she has nothing more: the heart is turned to water, the knees are shaking, all are twisted in pain, and colour has gone from all faces."
-        },
-        {
-          "verse": 11,
-          "text": "Where is the lions' hole, the place where the young lions got their food, where the lion and the she-lion were walking with their young, without cause for fear?"
-        },
-        {
-          "verse": 12,
-          "text": "Food enough for his young and for his she-lions was pulled down by the lion; his hole was full of flesh and his resting-place stored with meat."
-        },
-        {
-          "verse": 13,
-          "text": "See, I am against you, says the Lord of armies, and I will have your war-carriages burned in the smoke, and your young lions will be food for the sword: you will no longer get your food by force on the earth, and the voice of your she-lions will be stopped for ever."
-        }
-      ],
-      "totalVerses": 13,
-      "footnotes": []
+      "notes": [
+        "Jacob was Abraham's grandson. God gave Jacob a new name, ‘Israel’. The 12tribesof Israel weredescendantsof Jacob's 12 sons.",
+        "After King Solomon died, thenationof Israel became twokingdoms. The kingdom in the north was then called Israel and the kingdom in the south was called Judah."
+      ]
     },
     {
-      "book": "Nahum",
       "chapter": 3,
       "title": "Nahum 3",
-      "subtitle": "Nahum Chapter 3",
+      "subtitle": "",
+      "totalVerses": 19,
+      "sourceUrl": "https://www.easyenglish.bible/bible/easy/nahum/3/",
       "sections": [
         {
-          "heading": "Nahum Chapter 3",
+          "heading": "God will punish Nineveh for her sins",
           "items": [
             [
               {
                 "verse": 1,
-                "text": "A curse is on the town of blood; it is full of deceit and violent acts; and there is no end to the taking of life."
-              },
+                "text": "Terrible things will happen to you, Nineveh."
+              }
+            ],
+            [
+              {
+                "verse": 1,
+                "text": "Your people are murderers"
+              }
+            ],
+            [
+              {
+                "verse": 1,
+                "text": "and they love to tell lies."
+              }
+            ],
+            [
+              {
+                "verse": 1,
+                "text": "The city is full of valuable things"
+              }
+            ],
+            [
+              {
+                "verse": 1,
+                "text": "that belonged to other people."
+              }
+            ],
+            [
+              {
+                "verse": 1,
+                "text": "2 Listen to the sound of the enemy as they attack Nineveh!The whips of the chariot drivers make a loud noise.The wheels of the chariots cause the ground to shake.Listen to the sound of the horses' feet as they pull the chariots.The chariots move so fast that they shake. 3 The chariot drivers make their horses run forward to the battle.Their swords and their spears shine brightly in their hands.There are heaps of dead bodies.They lie everywhere on the ground.There are so many dead bodies that people fall over them. 4 This has happened because Nineveh has lived like a beautiful prostitute.She has used magic to cause other nations to come to her.She catches people in her trapand she makes them her slaves. 5 The Lord Almighty says to Nineveh,‘Now I have become your enemy.I will make you ashamed,like a woman whose skirt no longer covers her body.3:5Other nations will see that you have no clothes.They will see your great shame. 6 I will throw dirty rubbish at you.I will show everyone that you are useless.I will cause other people to laugh at you. 7 When anyone sees you,they will turn away from you.They will say, “Nineveh has become a heap of stones.But nobody will come to her funeral.”Nobody will be there to comfort you.’Nineveh's people will not save themselves 8 Your city is no better than Thebes.That city was beside the Nile River.It had water all around it.The river protected the city,like a wall of water. 9 Thebes trusted in the great power of Ethiopia and Egypt.3:9Put and Libya were also her strong friends. 10 But Thebes' enemies took her people away as prisoners.They killed her babies in the city's streets.They used lots to decide who would take each leader as their slave.They tied chains on the leaders and they led them away. 11 Now you people of Nineveh will also become like men who are drunk.You will try to hide in a safe place.You will try to escape from your enemy. 12 All your strong buildings are like fig treeswith ripe figs on them.When your enemy comes and shakes them,the figs will fall into their mouths! 13 Look at your soldiers!They will be like women, too weak to fight!Your enemies will push the gates of your city wide open.Fire will destroy the bars which hold the gates shut. 14 Enemy soldiers will be all around the city, so get ready!Store the water that you will need.Make your buildings strong.Prepare clay to make bricks for the walls. 15 But fire will destroy your city.Soldiers will use their swords to kill you.They will destroy everything,as locusts destroy crops.Grow in number,like a large crowd of locusts or grasshoppers. 16 You have many traders in your city.They are more than the stars in the sky.But they are like locusts.They take everything from the land and then they fly away! 17 Your guards and your officers are also like a crowd of locusts.On a cold day, they stay together on the walls to be warm.But when the sun comes up, they fly away.Nobody knows where they have gone. 18 King of Assyria, your leaders are now asleep.Your officers will never wake up again.Your people have run away into the mountains.There is nobody to bring them back together. 19 Your life will come to an end,like someone with a terrible wound.Everyone will be very happywhen they hear what has happened to you.You always did cruel things to people,and nobody could escape."
+              }
+            ],
+            [
               {
                 "verse": 2,
-                "text": "The noise of the whip, and the noise of thundering wheels; horses rushing and war-carriages jumping,"
-              },
+                "text": "Listen to the sound of the enemy as they attack Nineveh!"
+              }
+            ],
+            [
+              {
+                "verse": 2,
+                "text": "The whips of the chariot drivers make a loud noise."
+              }
+            ],
+            [
+              {
+                "verse": 2,
+                "text": "The wheels of the chariots cause the ground to shake."
+              }
+            ],
+            [
+              {
+                "verse": 2,
+                "text": "Listen to the sound of the horses' feet as they pull the chariots."
+              }
+            ],
+            [
+              {
+                "verse": 2,
+                "text": "The chariots move so fast that they shake."
+              }
+            ],
+            [
               {
                 "verse": 3,
-                "text": "Horsemen driving forward, and the shining sword and the bright spear: and a great number of wounded, and masses of dead bodies; they are falling over the bodies of the dead:"
-              },
+                "text": "The chariot drivers make their horses run forward to the battle."
+              }
+            ],
+            [
+              {
+                "verse": 3,
+                "text": "Their swords and their spears shine brightly in their hands."
+              }
+            ],
+            [
+              {
+                "verse": 3,
+                "text": "There are heaps of dead bodies."
+              }
+            ],
+            [
+              {
+                "verse": 3,
+                "text": "They lie everywhere on the ground."
+              }
+            ],
+            [
+              {
+                "verse": 3,
+                "text": "There are so many dead bodies that people fall over them."
+              }
+            ],
+            [
+              {
+                "verse": 3,
+                "text": "4 This has happened because Nineveh has lived like a beautiful prostitute.She has used magic to cause other nations to come to her.She catches people in her trapand she makes them her slaves. 5 The Lord Almighty says to Nineveh,‘Now I have become your enemy.I will make you ashamed,like a woman whose skirt no longer covers her body.3:5Other nations will see that you have no clothes.They will see your great shame. 6 I will throw dirty rubbish at you.I will show everyone that you are useless.I will cause other people to laugh at you. 7 When anyone sees you,they will turn away from you.They will say, “Nineveh has become a heap of stones.But nobody will come to her funeral.”Nobody will be there to comfort you.’Nineveh's people will not save themselves 8 Your city is no better than Thebes.That city was beside the Nile River.It had water all around it.The river protected the city,like a wall of water. 9 Thebes trusted in the great power of Ethiopia and Egypt.3:9Put and Libya were also her strong friends. 10 But Thebes' enemies took her people away as prisoners.They killed her babies in the city's streets.They used lots to decide who would take each leader as their slave.They tied chains on the leaders and they led them away. 11 Now you people of Nineveh will also become like men who are drunk.You will try to hide in a safe place.You will try to escape from your enemy. 12 All your strong buildings are like fig treeswith ripe figs on them.When your enemy comes and shakes them,the figs will fall into their mouths! 13 Look at your soldiers!They will be like women, too weak to fight!Your enemies will push the gates of your city wide open.Fire will destroy the bars which hold the gates shut. 14 Enemy soldiers will be all around the city, so get ready!Store the water that you will need.Make your buildings strong.Prepare clay to make bricks for the walls. 15 But fire will destroy your city.Soldiers will use their swords to kill you.They will destroy everything,as locusts destroy crops.Grow in number,like a large crowd of locusts or grasshoppers. 16 You have many traders in your city.They are more than the stars in the sky.But they are like locusts.They take everything from the land and then they fly away! 17 Your guards and your officers are also like a crowd of locusts.On a cold day, they stay together on the walls to be warm.But when the sun comes up, they fly away.Nobody knows where they have gone. 18 King of Assyria, your leaders are now asleep.Your officers will never wake up again.Your people have run away into the mountains.There is nobody to bring them back together. 19 Your life will come to an end,like someone with a terrible wound.Everyone will be very happywhen they hear what has happened to you.You always did cruel things to people,and nobody could escape."
+              }
+            ],
+            [
               {
                 "verse": 4,
-                "text": "Because of all the false ways of the loose woman, expert in attraction and wise in secret arts, who takes nations in the net of her false ways, and families through her secret arts."
+                "text": "This has happened because Nineveh has lived like a beautiful prostitute."
+              }
+            ],
+            [
+              {
+                "verse": 4,
+                "text": "She has used magic to cause other nations to come to her."
+              }
+            ],
+            [
+              {
+                "verse": 4,
+                "text": "She catches people in her trap"
+              }
+            ],
+            [
+              {
+                "verse": 4,
+                "text": "and she makes them her slaves."
               }
             ],
             [
               {
                 "verse": 5,
-                "text": "See, I am against you, says the Lord of armies, and I will have your skirts pulled over your face, and let the nations see you unclothed, and the kingdoms your shame."
-              },
+                "text": "The Lord Almighty says to Nineveh,"
+              }
+            ],
+            [
+              {
+                "verse": 5,
+                "text": "‘Now I have become your enemy."
+              }
+            ],
+            [
+              {
+                "verse": 5,
+                "text": "I will make you ashamed,"
+              }
+            ],
+            [
+              {
+                "verse": 5,
+                "text": "like a woman whose skirt no longer covers her body."
+              }
+            ],
+            [
+              {
+                "verse": 5,
+                "text": "Other nations will see that you have no clothes."
+              }
+            ],
+            [
+              {
+                "verse": 5,
+                "text": "They will see your great shame."
+              }
+            ],
+            [
               {
                 "verse": 6,
-                "text": "I will make you completely disgusting and full of shame, and will put you up to be looked at by all."
-              },
+                "text": "I will throw dirty rubbish at you."
+              }
+            ],
+            [
+              {
+                "verse": 6,
+                "text": "I will show everyone that you are useless."
+              }
+            ],
+            [
+              {
+                "verse": 6,
+                "text": "I will cause other people to laugh at you."
+              }
+            ],
+            [
               {
                 "verse": 7,
-                "text": "And it will come about that all who see you will go in flight from you and say, Nineveh is made waste: who will be weeping for her? where am I to get comforters for her?"
-              },
+                "text": "When anyone sees you,"
+              }
+            ],
+            [
+              {
+                "verse": 7,
+                "text": "they will turn away from you."
+              }
+            ],
+            [
+              {
+                "verse": 7,
+                "text": "They will say, “Nineveh has become a heap of stones."
+              }
+            ],
+            [
+              {
+                "verse": 7,
+                "text": "But nobody will come to her funeral.”"
+              }
+            ],
+            [
+              {
+                "verse": 7,
+                "text": "Nobody will be there to comfort you.’"
+              }
+            ]
+          ]
+        },
+        {
+          "heading": "Nineveh's people will not save themselves",
+          "items": [
+            [
               {
                 "verse": 8,
-                "text": "Are you better than No-amon, seated on the Nile streams, with waters all round her; whose wall was the sea and her earthwork the waters?"
+                "text": "Your city is no better than Thebes."
+              }
+            ],
+            [
+              {
+                "verse": 8,
+                "text": "That city was beside the Nile River."
+              }
+            ],
+            [
+              {
+                "verse": 8,
+                "text": "It had water all around it."
+              }
+            ],
+            [
+              {
+                "verse": 8,
+                "text": "The river protected the city,"
+              }
+            ],
+            [
+              {
+                "verse": 8,
+                "text": "like a wall of water."
               }
             ],
             [
               {
                 "verse": 9,
-                "text": "Ethiopia was her strength and Egyptians without number; Put and Lubim were her helpers."
-              },
+                "text": "Thebes trusted in the great power of Ethiopia and Egypt."
+              }
+            ],
+            [
+              {
+                "verse": 9,
+                "text": "Put and Libya were also her strong friends."
+              }
+            ],
+            [
               {
                 "verse": 10,
-                "text": "But even she has been taken away, she has gone away as a prisoner: even her young children are smashed to bits at the top of all the streets: the fate of her honoured men is put to the decision of chance, and all her great men are put in chains."
-              },
+                "text": "But Thebes' enemies took her people away as prisoners."
+              }
+            ],
+            [
+              {
+                "verse": 10,
+                "text": "They killed her babies in the city's streets."
+              }
+            ],
+            [
+              {
+                "verse": 10,
+                "text": "They used lots to decide who would take each leader as their slave."
+              }
+            ],
+            [
+              {
+                "verse": 10,
+                "text": "They tied chains on the leaders and they led them away."
+              }
+            ],
+            [
               {
                 "verse": 11,
-                "text": "And you will be overcome with wine, you will become feeble; you will be looking for a safe place from those who are fighting against you."
-              },
+                "text": "Now you people of Nineveh will also become like men who are drunk."
+              }
+            ],
+            [
+              {
+                "verse": 11,
+                "text": "You will try to hide in a safe place."
+              }
+            ],
+            [
+              {
+                "verse": 11,
+                "text": "You will try to escape from your enemy."
+              }
+            ],
+            [
+              {
+                "verse": 11,
+                "text": "12 All your strong buildings are like fig treeswith ripe figs on them.When your enemy comes and shakes them,the figs will fall into their mouths! 13 Look at your soldiers!They will be like women, too weak to fight!Your enemies will push the gates of your city wide open.Fire will destroy the bars which hold the gates shut. 14 Enemy soldiers will be all around the city, so get ready!Store the water that you will need.Make your buildings strong.Prepare clay to make bricks for the walls. 15 But fire will destroy your city.Soldiers will use their swords to kill you.They will destroy everything,as locusts destroy crops.Grow in number,like a large crowd of locusts or grasshoppers. 16 You have many traders in your city.They are more than the stars in the sky.But they are like locusts.They take everything from the land and then they fly away! 17 Your guards and your officers are also like a crowd of locusts.On a cold day, they stay together on the walls to be warm.But when the sun comes up, they fly away.Nobody knows where they have gone. 18 King of Assyria, your leaders are now asleep.Your officers will never wake up again.Your people have run away into the mountains.There is nobody to bring them back together. 19 Your life will come to an end,like someone with a terrible wound.Everyone will be very happywhen they hear what has happened to you.You always did cruel things to people,and nobody could escape."
+              }
+            ],
+            [
               {
                 "verse": 12,
-                "text": "All your walled places will be like fig-trees and your people like the first figs, falling at a shake into the mouth which is open for them."
+                "text": "All your strong buildings are like fig trees"
+              }
+            ],
+            [
+              {
+                "verse": 12,
+                "text": "with ripe figs on them."
+              }
+            ],
+            [
+              {
+                "verse": 12,
+                "text": "When your enemy comes and shakes them,"
+              }
+            ],
+            [
+              {
+                "verse": 12,
+                "text": "the figs will fall into their mouths!"
               }
             ],
             [
               {
                 "verse": 13,
-                "text": "See, the people who are in you are women; the doorways of your land are wide open to your attackers: the locks of your doors have been burned away in the fire."
-              },
+                "text": "Look at your soldiers!"
+              }
+            ],
+            [
+              {
+                "verse": 13,
+                "text": "They will be like women, too weak to fight!"
+              }
+            ],
+            [
+              {
+                "verse": 13,
+                "text": "Your enemies will push the gates of your city wide open."
+              }
+            ],
+            [
+              {
+                "verse": 13,
+                "text": "Fire will destroy the bars which hold the gates shut."
+              }
+            ],
+            [
               {
                 "verse": 14,
-                "text": "Get water for the time when you are shut in, make strong your towns: go into the potter's earth, stamping it down with your feet, make strong the brickworks."
-              },
+                "text": "Enemy soldiers will be all around the city, so get ready!"
+              }
+            ],
+            [
+              {
+                "verse": 14,
+                "text": "Store the water that you will need."
+              }
+            ],
+            [
+              {
+                "verse": 14,
+                "text": "Make your buildings strong."
+              }
+            ],
+            [
+              {
+                "verse": 14,
+                "text": "Prepare clay to make bricks for the walls."
+              }
+            ],
+            [
               {
                 "verse": 15,
-                "text": "There the fire will make you waste; you will be cut off by the sword: make yourself as great in number as the worms, as great in number as the locusts."
-              },
+                "text": "But fire will destroy your city."
+              }
+            ],
+            [
+              {
+                "verse": 15,
+                "text": "Soldiers will use their swords to kill you."
+              }
+            ],
+            [
+              {
+                "verse": 15,
+                "text": "They will destroy everything,"
+              }
+            ],
+            [
+              {
+                "verse": 15,
+                "text": "as locusts destroy crops."
+              }
+            ],
+            [
+              {
+                "verse": 15,
+                "text": "Grow in number,like a large crowd of locusts or grasshoppers. 16 You have many traders in your city.They are more than the stars in the sky.But they are like locusts.They take everything from the land and then they fly away! 17 Your guards and your officers are also like a crowd of locusts.On a cold day, they stay together on the walls to be warm.But when the sun comes up, they fly away.Nobody knows where they have gone. 18 King of Assyria, your leaders are now asleep.Your officers will never wake up again.Your people have run away into the mountains.There is nobody to bring them back together. 19 Your life will come to an end,like someone with a terrible wound.Everyone will be very happywhen they hear what has happened to you.You always did cruel things to people,and nobody could escape."
+              }
+            ],
+            [
+              {
+                "verse": 15,
+                "text": "Grow in number,"
+              }
+            ],
+            [
+              {
+                "verse": 15,
+                "text": "like a large crowd of locusts or grasshoppers."
+              }
+            ],
+            [
               {
                 "verse": 16,
-                "text": "Let your traders be increased more than the stars of heaven:"
+                "text": "You have many traders in your city."
+              }
+            ],
+            [
+              {
+                "verse": 16,
+                "text": "They are more than the stars in the sky."
+              }
+            ],
+            [
+              {
+                "verse": 16,
+                "text": "But they are like locusts."
+              }
+            ],
+            [
+              {
+                "verse": 16,
+                "text": "They take everything from the land and then they fly away!"
               }
             ],
             [
               {
                 "verse": 17,
-                "text": "Your crowned ones are like the locusts, and your scribes like the clouds of insects which take cover in the walls on a cold day, but when the sun comes up they go in flight, and are seen no longer in their place."
-              },
+                "text": "Your guards and your officers are also like a crowd of locusts."
+              }
+            ],
+            [
+              {
+                "verse": 17,
+                "text": "On a cold day, they stay together on the walls to be warm."
+              }
+            ],
+            [
+              {
+                "verse": 17,
+                "text": "But when the sun comes up, they fly away."
+              }
+            ],
+            [
+              {
+                "verse": 17,
+                "text": "Nobody knows where they have gone."
+              }
+            ],
+            [
+              {
+                "verse": 17,
+                "text": "18 King of Assyria, your leaders are now asleep.Your officers will never wake up again.Your people have run away into the mountains.There is nobody to bring them back together. 19 Your life will come to an end,like someone with a terrible wound.Everyone will be very happywhen they hear what has happened to you.You always did cruel things to people,and nobody could escape."
+              }
+            ],
+            [
               {
                 "verse": 18,
-                "text": "Sorrow! how are the keepers of your flock sleeping, O king of Assyria! your strong men are at rest; your people are wandering on the mountains, and there is no one to get them together."
-              },
+                "text": "King of Assyria, your leaders are now asleep."
+              }
+            ],
+            [
+              {
+                "verse": 18,
+                "text": "Your officers will never wake up again."
+              }
+            ],
+            [
+              {
+                "verse": 18,
+                "text": "Your people have run away into the mountains."
+              }
+            ],
+            [
+              {
+                "verse": 18,
+                "text": "There is nobody to bring them back together."
+              }
+            ],
+            [
               {
                 "verse": 19,
-                "text": "Your pain may not be made better; you are wounded to death: all those hearing the news about you will be waving their hands in joy over you: for who has not undergone the weight of your evil-doing again and again?"
+                "text": "Your life will come to an end,"
+              }
+            ],
+            [
+              {
+                "verse": 19,
+                "text": "like someone with a terrible wound."
+              }
+            ],
+            [
+              {
+                "verse": 19,
+                "text": "Everyone will be very happy"
+              }
+            ],
+            [
+              {
+                "verse": 19,
+                "text": "when they hear what has happened to you."
+              }
+            ],
+            [
+              {
+                "verse": 19,
+                "text": "You always did cruel things to people,"
+              }
+            ],
+            [
+              {
+                "verse": 19,
+                "text": "and nobody could escape."
               }
             ]
           ]
         }
       ],
-      "verses": [
-        {
-          "verse": 1,
-          "text": "A curse is on the town of blood; it is full of deceit and violent acts; and there is no end to the taking of life."
-        },
-        {
-          "verse": 2,
-          "text": "The noise of the whip, and the noise of thundering wheels; horses rushing and war-carriages jumping,"
-        },
-        {
-          "verse": 3,
-          "text": "Horsemen driving forward, and the shining sword and the bright spear: and a great number of wounded, and masses of dead bodies; they are falling over the bodies of the dead:"
-        },
-        {
-          "verse": 4,
-          "text": "Because of all the false ways of the loose woman, expert in attraction and wise in secret arts, who takes nations in the net of her false ways, and families through her secret arts."
-        },
-        {
-          "verse": 5,
-          "text": "See, I am against you, says the Lord of armies, and I will have your skirts pulled over your face, and let the nations see you unclothed, and the kingdoms your shame."
-        },
-        {
-          "verse": 6,
-          "text": "I will make you completely disgusting and full of shame, and will put you up to be looked at by all."
-        },
-        {
-          "verse": 7,
-          "text": "And it will come about that all who see you will go in flight from you and say, Nineveh is made waste: who will be weeping for her? where am I to get comforters for her?"
-        },
-        {
-          "verse": 8,
-          "text": "Are you better than No-amon, seated on the Nile streams, with waters all round her; whose wall was the sea and her earthwork the waters?"
-        },
-        {
-          "verse": 9,
-          "text": "Ethiopia was her strength and Egyptians without number; Put and Lubim were her helpers."
-        },
-        {
-          "verse": 10,
-          "text": "But even she has been taken away, she has gone away as a prisoner: even her young children are smashed to bits at the top of all the streets: the fate of her honoured men is put to the decision of chance, and all her great men are put in chains."
-        },
-        {
-          "verse": 11,
-          "text": "And you will be overcome with wine, you will become feeble; you will be looking for a safe place from those who are fighting against you."
-        },
-        {
-          "verse": 12,
-          "text": "All your walled places will be like fig-trees and your people like the first figs, falling at a shake into the mouth which is open for them."
-        },
-        {
-          "verse": 13,
-          "text": "See, the people who are in you are women; the doorways of your land are wide open to your attackers: the locks of your doors have been burned away in the fire."
-        },
-        {
-          "verse": 14,
-          "text": "Get water for the time when you are shut in, make strong your towns: go into the potter's earth, stamping it down with your feet, make strong the brickworks."
-        },
-        {
-          "verse": 15,
-          "text": "There the fire will make you waste; you will be cut off by the sword: make yourself as great in number as the worms, as great in number as the locusts."
-        },
-        {
-          "verse": 16,
-          "text": "Let your traders be increased more than the stars of heaven:"
-        },
-        {
-          "verse": 17,
-          "text": "Your crowned ones are like the locusts, and your scribes like the clouds of insects which take cover in the walls on a cold day, but when the sun comes up they go in flight, and are seen no longer in their place."
-        },
-        {
-          "verse": 18,
-          "text": "Sorrow! how are the keepers of your flock sleeping, O king of Assyria! your strong men are at rest; your people are wandering on the mountains, and there is no one to get them together."
-        },
-        {
-          "verse": 19,
-          "text": "Your pain may not be made better; you are wounded to death: all those hearing the news about you will be waving their hands in joy over you: for who has not undergone the weight of your evil-doing again and again?"
-        }
-      ],
-      "totalVerses": 19,
-      "footnotes": []
+      "notes": [
+        "A woman's skirt covers the lower part of her body. A woman without a skirt to cover her would be veryashamed.",
+        "Egypt is a country in north Africa that was south of Israel. Ethiopia was a country in north-east Africa that was a long way from Israel. It was not the same as thenationof Ethiopia today."
+      ]
     }
   ]
 }

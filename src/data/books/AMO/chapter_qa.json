@@ -1,9 +1,6 @@
 {
-  "book": "Amos",
   "bookId": "AMO",
-  "totalChapters": 9,
-  "totalQuestions": 90,
-  "questionsPerChapter": 10,
+  "bookName": "Amos",
   "chapters": {
     "1": [
       {
@@ -11,150 +8,150 @@
         "questionNumber": 1,
         "question": "According to Amos 1:1, what is the opening statement or setting of this chapter?",
         "options": [
-          "It records: “The words of Amos, who was among the herdsmen of Tekoa; what he s...”",
+          "It records: “Amos was one of the shepherds who lived in the town of Tekoa. God...”",
           "It begins with a prayer of thanksgiving for deliverance in Amos",
           "It opens with a formal census and counting of the congregation",
           "It records a severe judgment pronounced against neighboring nations"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "It records: “The words of Amos, who was among the herdsmen of Tekoa; what he s...”",
+        "correctAnswer": "It records: “Amos was one of the shepherds who lived in the town of Tekoa. God...”",
         "reference": "Amos 1:1",
-        "explanation": "The chapter begins directly with the statement: 'The words of Amos, who was among the herdsmen of Tekoa; what he saw about Israel in the days of Uzziah, king of Judah, and in the days of Jeroboam, the son of Joash, king of Israel, two years before the earth-shock.'."
+        "explanation": "The chapter begins directly with the statement: 'Amos was one of the shepherds who lived in the town of Tekoa. God showed Amos the things that would happen to the people of Israel. God did that two years before the earthquake came. It was during the time that Uzziah was the king of Judah. Joash's son, Jeroboam, was the king of Israel. This is the message that Amos received from God.'."
       },
       {
         "id": "amo-1-q2",
         "questionNumber": 2,
         "question": "What key instruction, event, or declaration is set forth in Amos 1:2?",
         "options": [
-          "“And I will have the locks of the door...”",
-          "“And he said, The Lord will give a lion's cry from...”",
-          "“These are the words of the Lord: For three...”",
+          "“I will also break the strong gates of the...”",
+          "“Amos said, ‘The Lord speaks loudly from Zion. Yes, he shouts...”",
+          "“The Lord says, ‘The people of Tyre have done...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“And he said, The Lord will give a lion's cry from...”",
+        "correctAnswer": "“Amos said, ‘The Lord speaks loudly from Zion. Yes, he shouts...”",
         "reference": "Amos 1:2",
-        "explanation": "Amos 1:2 records: 'And he said, The Lord will give a lion's cry from Zion, his voice will be sounding from Jerusalem; and the fields of the keepers of sheep will become dry, and the top of Carmel will be wasted away.'."
+        "explanation": "Amos 1:2 records: 'Amos said, ‘The Lord speaks loudly from Zion. Yes, he shouts from Jerusalem. As a result, the green fields will become dry and the grass will die. There will be nothing for the sheep to eat. Even the grass on Mount Carmel will die.’'."
       },
       {
         "id": "amo-1-q3",
         "questionNumber": 3,
         "question": "What significant action or revelation occurs in Amos 1:3?",
         "options": [
-          "“These are the words of the Lord: For three...”",
-          "“And I will send a fire on the wall...”",
-          "“These are the words of the Lord: For three crimes of...”",
+          "“The Lord says, ‘The people of Gaza have done...”",
+          "“So I will start a fire on the walls...”",
+          "“The Lord says, ‘The people of Damascus have done more and...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“These are the words of the Lord: For three crimes of...”",
+        "correctAnswer": "“The Lord says, ‘The people of Damascus have done more and...”",
         "reference": "Amos 1:3",
-        "explanation": "Amos 1:3 records: 'These are the words of the Lord: For three crimes of Damascus, and for four, I will not let its fate be changed; because they have been crushing Gilead with iron grain-crushing instruments.'."
+        "explanation": "Amos 1:3 records: 'The Lord says, ‘The people of Damascus have done more and more wrong things. So I will certainly punish them! They have been cruel to the people of Gilead. They used their iron weapons to tear them into pieces.'."
       },
       {
         "id": "amo-1-q4",
         "questionNumber": 4,
         "question": "What truth or description is highlighted in Amos 1:4?",
         "options": [
-          "“And I will send a fire on the wall...”",
-          "“These are the words of the Lord: For three...”",
+          "“So I will send a fire to burn the...”",
+          "“The Lord says, ‘The people of Edom have done...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“And I will send a fire into the house of Hazael,...”"
+          "“I will send a fire to destroy the palace that King...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“And I will send a fire into the house of Hazael,...”",
+        "correctAnswer": "“I will send a fire to destroy the palace that King...”",
         "reference": "Amos 1:4",
-        "explanation": "Amos 1:4 records: 'And I will send a fire into the house of Hazael, burning up the great houses of Ben-hadad.'."
+        "explanation": "Amos 1:4 records: 'I will send a fire to destroy the palace that King Hazael built. It will destroy the strong buildings of King Ben-Hadad.'."
       },
       {
         "id": "amo-1-q5",
         "questionNumber": 5,
         "question": "According to the text, what happened or was commanded in Amos 1:5?",
         "options": [
-          "“And I will have the locks of the door of Damascus...”",
-          "“Him who is seated in power I will have...”",
-          "“And I will send a fire on Teman, burning...”",
+          "“I will also break the strong gates of the city of...”",
+          "“I will remove the king of Ashdod city. And...”",
+          "“So I will start a fire. And the fire...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“And I will have the locks of the door of Damascus...”",
+        "correctAnswer": "“I will also break the strong gates of the city of...”",
         "reference": "Amos 1:5",
-        "explanation": "Amos 1:5 records: 'And I will have the locks of the door of Damascus broken, and him who is seated in power cut off from the valley of Aven, and him in whose hand is the rod from the house of Eden; and the people of Aram will go away as prisoners into Kir, says the Lord.'."
+        "explanation": "Amos 1:5 records: 'I will also break the strong gates of the city of Damascus. I will remove all the people who live in the Aven Valley. I will remove the king of Beth-Eden. Their enemies will take the people of Syria far away to Kir as prisoners.’ That is what the Lord says. 6 The Lord says, ‘The people of Gaza have done more and more wrong things. So I will certainly punish them.1:6They caught my people and they took them away from their homes. They sold them to the people of Edom. 7 So I will send a fire to burn the walls of Gaza. It will destroy the strong buildings in Gaza. 8 I will remove the king of Ashdod city. And I will remove the king who rules in Ashkelon city. I will punish the people who live in Ekron city. All the Philistines who remain will die.’ That is what the Lord God says.1:8 9 The Lord says, ‘The people of Tyre have done more and more wrong things. So I will certainly punish them.Before, they had been friends with Israel's people. They had promised the Israelites, “We will be like brothers.” But the people of Tyre did not do what they had promised. They took my people away. They sold my people to the people of Edom and my people became slaves. 10 So I will start a fire on the walls of Tyre. And the fire will burn all the strong buildings. It will destroy them completely.’ 11 The Lord says, ‘The people of Edom have done more and more wrong things. So I will certainly punish them.They took their swords and they chased after their cousins, the Israelites. They were not kind. Instead, they continued to be angry all the time. They did not stop attacking them. 12 So I will start a fire. And the fire will destroy the big city of Teman. The fire will also burn the strong buildings of Bozrah city.’1:11 13 The Lord says, ‘The people of Ammon have done more and more wrong things. So I will certainly punish them.People from Ammon fought against the people of Gilead. They wanted to get more land for themselves. While they were killing people there, they also cut pregnant women open. 14 So I will send fire. And the fire will destroy the walls of Rabbah. It will destroy the strong buildings too. People will fight and they will shout. They will shout loudly, like the noise that a strong wind makes in a storm. 15 The enemies will take away their king and their leaders. They will take them to another country. The king and the leaders will not be free to return.’ That is what the Lord says.1:14'."
       },
       {
         "id": "amo-1-q6",
         "questionNumber": 6,
         "question": "What central message or instruction is delivered in Amos 1:6?",
         "options": [
-          "“These are the words of the Lord: For three...”",
-          "“These are the words of the Lord: For three crimes of...”",
-          "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "A general genealogy and listing of tribal leaders (3)"
+          "“The Lord says, ‘The people of Tyre have done...”",
+          "“The Lord says, ‘The people of Gaza have done more and...”",
+          "“The Lord says, ‘The people of Ammon have done...”",
+          "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“These are the words of the Lord: For three crimes of...”",
+        "correctAnswer": "“The Lord says, ‘The people of Gaza have done more and...”",
         "reference": "Amos 1:6",
-        "explanation": "Amos 1:6 records: 'These are the words of the Lord: For three crimes of Gaza, and for four, I will not let its fate be changed; because they took all the people away prisoners, to give them up to Edom.'."
+        "explanation": "Amos 1:6 records: 'The Lord says, ‘The people of Gaza have done more and more wrong things. So I will certainly punish them. They caught my people and they took them away from their homes. They sold them to the people of Edom.'."
       },
       {
         "id": "amo-1-q7",
         "questionNumber": 7,
         "question": "What detail regarding God's work, covenant, or people is given in Amos 1:7?",
         "options": [
-          "“And I will send a fire on the wall...”",
-          "“And I will make a fire in the wall...”",
-          "“And I will send a fire on the wall of Gaza,...”",
+          "“So I will start a fire on the walls...”",
+          "“So I will send fire. And the fire will...”",
+          "“So I will send a fire to burn the walls of...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“And I will send a fire on the wall of Gaza,...”",
+        "correctAnswer": "“So I will send a fire to burn the walls of...”",
         "reference": "Amos 1:7",
-        "explanation": "Amos 1:7 records: 'And I will send a fire on the wall of Gaza, burning up its great houses:'."
+        "explanation": "Amos 1:7 records: 'So I will send a fire to burn the walls of Gaza. It will destroy the strong buildings in Gaza.'."
       },
       {
         "id": "amo-1-q8",
         "questionNumber": 8,
         "question": "What phrase or account is recorded in Amos 1:8?",
         "options": [
-          "“These are the words of the Lord: For three...”",
-          "“The words of Amos, who was among the herdsmen...”",
+          "“The Lord says, ‘The people of Edom have done...”",
+          "“Amos was one of the shepherds who lived in...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“Him who is seated in power I will have cut off...”"
+          "“I will remove the king of Ashdod city. And I will...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“Him who is seated in power I will have cut off...”",
+        "correctAnswer": "“I will remove the king of Ashdod city. And I will...”",
         "reference": "Amos 1:8",
-        "explanation": "Amos 1:8 records: 'Him who is seated in power I will have cut off from Ashdod, and him in whose hand is the rod from Ashkelon; and my hand will be turned against Ekron, and the rest of the Philistines will come to destruction, says the Lord God.'."
+        "explanation": "Amos 1:8 records: 'I will remove the king of Ashdod city. And I will remove the king who rules in Ashkelon city. I will punish the people who live in Ekron city. All the Philistines who remain will die.’ That is what the Lord God says. 9 The Lord says, ‘The people of Tyre have done more and more wrong things. So I will certainly punish them.Before, they had been friends with Israel's people. They had promised the Israelites, “We will be like brothers.” But the people of Tyre did not do what they had promised. They took my people away. They sold my people to the people of Edom and my people became slaves. 10 So I will start a fire on the walls of Tyre. And the fire will burn all the strong buildings. It will destroy them completely.’ 11 The Lord says, ‘The people of Edom have done more and more wrong things. So I will certainly punish them.They took their swords and they chased after their cousins, the Israelites. They were not kind. Instead, they continued to be angry all the time. They did not stop attacking them. 12 So I will start a fire. And the fire will destroy the big city of Teman. The fire will also burn the strong buildings of Bozrah city.’1:11 13 The Lord says, ‘The people of Ammon have done more and more wrong things. So I will certainly punish them.People from Ammon fought against the people of Gilead. They wanted to get more land for themselves. While they were killing people there, they also cut pregnant women open. 14 So I will send fire. And the fire will destroy the walls of Rabbah. It will destroy the strong buildings too. People will fight and they will shout. They will shout loudly, like the noise that a strong wind makes in a storm. 15 The enemies will take away their king and their leaders. They will take them to another country. The king and the leaders will not be free to return.’ That is what the Lord says.1:14'."
       },
       {
         "id": "amo-1-q9",
         "questionNumber": 9,
         "question": "How does the passage describe the circumstances or people in Amos 1:9?",
         "options": [
-          "“These are the words of the Lord: For three crimes of...”",
-          "“And I will send a fire on Teman, burning...”",
-          "“The words of Amos, who was among the herdsmen...”",
+          "“The Lord says, ‘The people of Tyre have done more and...”",
+          "“So I will start a fire. And the fire...”",
+          "“Amos was one of the shepherds who lived in...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“These are the words of the Lord: For three crimes of...”",
+        "correctAnswer": "“The Lord says, ‘The people of Tyre have done more and...”",
         "reference": "Amos 1:9",
-        "explanation": "Amos 1:9 records: 'These are the words of the Lord: For three crimes of Tyre, and for four, I will not let its fate be changed; because they gave up all the people prisoners to Edom, without giving a thought to the brothers' agreement between them.'."
+        "explanation": "Amos 1:9 records: 'The Lord says, ‘The people of Tyre have done more and more wrong things. So I will certainly punish them. Before, they had been friends with Israel's people. They had promised the Israelites, “We will be like brothers.” But the people of Tyre did not do what they had promised. They took my people away. They sold my people to the people of Edom and my people became slaves.'."
       },
       {
         "id": "amo-1-q10",
         "questionNumber": 10,
         "question": "In the concluding portion of the chapter, what takes place in Amos 1:10?",
         "options": [
-          "“These are the words of the Lord: For three...”",
-          "“And I will send a fire on the wall of Tyre,...”",
-          "“And he said, The Lord will give a lion's...”",
+          "“The Lord says, ‘The people of Ammon have done...”",
+          "“So I will start a fire on the walls of Tyre....”",
+          "“Amos said, ‘The Lord speaks loudly from Zion. Yes,...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“And I will send a fire on the wall of Tyre,...”",
+        "correctAnswer": "“So I will start a fire on the walls of Tyre....”",
         "reference": "Amos 1:10",
-        "explanation": "Amos 1:10 records: 'And I will send a fire on the wall of Tyre, burning up its great houses.'."
+        "explanation": "Amos 1:10 records: 'So I will start a fire on the walls of Tyre. And the fire will burn all the strong buildings. It will destroy them completely.’ 11 The Lord says, ‘The people of Edom have done more and more wrong things. So I will certainly punish them.They took their swords and they chased after their cousins, the Israelites. They were not kind. Instead, they continued to be angry all the time. They did not stop attacking them. 12 So I will start a fire. And the fire will destroy the big city of Teman. The fire will also burn the strong buildings of Bozrah city.’1:11 13 The Lord says, ‘The people of Ammon have done more and more wrong things. So I will certainly punish them.People from Ammon fought against the people of Gilead. They wanted to get more land for themselves. While they were killing people there, they also cut pregnant women open. 14 So I will send fire. And the fire will destroy the walls of Rabbah. It will destroy the strong buildings too. People will fight and they will shout. They will shout loudly, like the noise that a strong wind makes in a storm. 15 The enemies will take away their king and their leaders. They will take them to another country. The king and the leaders will not be free to return.’ That is what the Lord says.1:14'."
       }
     ],
     "2": [
@@ -163,150 +160,150 @@
         "questionNumber": 1,
         "question": "According to Amos 2:1, what is the opening statement or setting of this chapter?",
         "options": [
-          "It records: “These are the words of the Lord: For three crimes of Moab, and fo...”",
+          "It records: “The Lord says, ‘The people of Moab have done more and more wrong ...”",
           "It begins with a prayer of thanksgiving for deliverance in Amos",
           "It opens with a formal census and counting of the congregation",
           "It records a severe judgment pronounced against neighboring nations"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "It records: “These are the words of the Lord: For three crimes of Moab, and fo...”",
+        "correctAnswer": "It records: “The Lord says, ‘The people of Moab have done more and more wrong ...”",
         "reference": "Amos 2:1",
-        "explanation": "The chapter begins directly with the statement: 'These are the words of the Lord: For three crimes of Moab, and for four, I will not let its fate be changed; because he had the bones of the king of Edom burned to dust.'."
+        "explanation": "The chapter begins directly with the statement: 'The Lord says, ‘The people of Moab have done more and more wrong things. So I will certainly punish them. They dug up the bones of Edom's king. They burned his bones until they became ashes.'."
       },
       {
         "id": "amo-2-q2",
         "questionNumber": 2,
         "question": "What key instruction, event, or declaration is set forth in Amos 2:2?",
         "options": [
-          "“And I will send a fire on Judah, burning...”",
-          "“And I will send a fire on Moab, burning up the...”",
-          "“Though I sent destruction on the Amorite before them,...”",
+          "“So I will send fire to Judah. The fire...”",
+          "“So I will send fire to the country called Moab. The...”",
+          "“Remember the Amorites. They were big and strong. They...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“And I will send a fire on Moab, burning up the...”",
+        "correctAnswer": "“So I will send fire to the country called Moab. The...”",
         "reference": "Amos 2:2",
-        "explanation": "Amos 2:2 records: 'And I will send a fire on Moab, burning up the great houses of Kerioth: and death will come on Moab with noise and outcries and the sound of the horn:'."
+        "explanation": "Amos 2:2 records: 'So I will send fire to the country called Moab. The fire will destroy the strong buildings in Kerioth town. The people will hear their enemies shout. And they will hear the sounds that their enemies' trumpets make. And the people will die.'."
       },
       {
         "id": "amo-2-q3",
         "questionNumber": 3,
         "question": "What significant action or revelation occurs in Amos 2:3?",
         "options": [
-          "“These are the words of the Lord: For three...”",
-          "“And I took you up out of the land...”",
-          "“And I will have the judge cut off from among them,...”",
+          "“The Lord says, ‘The people of Israel have done...”",
+          "“I brought you out of Egypt. After that, I...”",
+          "“I will let the enemies kill the ruler of Moab. And...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“And I will have the judge cut off from among them,...”",
+        "correctAnswer": "“I will let the enemies kill the ruler of Moab. And...”",
         "reference": "Amos 2:3",
-        "explanation": "Amos 2:3 records: 'And I will have the judge cut off from among them, and all their captains I will put to death with him, says the Lord.'."
+        "explanation": "Amos 2:3 records: 'I will let the enemies kill the ruler of Moab. And I will let them kill all its leaders too.’ That is what the Lord says.'."
       },
       {
         "id": "amo-2-q4",
         "questionNumber": 4,
         "question": "What truth or description is highlighted in Amos 2:4?",
         "options": [
-          "“Crushing the head of the poor, and turning the...”",
-          "“And some of your sons I made prophets, and...”",
+          "“They are not kind to poor people and they...”",
+          "“I chose some men among you to be prophets,...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“These are the words of the Lord: For three crimes of...”"
+          "“The Lord says, ‘The people of Judah have done more and...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“These are the words of the Lord: For three crimes of...”",
+        "correctAnswer": "“The Lord says, ‘The people of Judah have done more and...”",
         "reference": "Amos 2:4",
-        "explanation": "Amos 2:4 records: 'These are the words of the Lord: For three crimes of Judah, and for four, I will not let its fate be changed; because they have given up the law of the Lord, and have not kept his rules; and their false ways, in which their fathers went, have made them go out of the right way.'."
+        "explanation": "Amos 2:4 records: 'The Lord says, ‘The people of Judah have done more and more wrong things. So I will certainly punish them. They refused to obey my laws and my commands. They have listened to their false gods. Those are the same false gods that their ancestors served.'."
       },
       {
         "id": "amo-2-q5",
         "questionNumber": 5,
         "question": "According to the text, what happened or was commanded in Amos 2:5?",
         "options": [
-          "“And I will send a fire on Judah, burning up the...”",
-          "“By every altar they are stretched on clothing taken...”",
-          "“But to those who were separate you gave wine...”",
+          "“So I will send fire to Judah. The fire will completely...”",
+          "“When they lend money to poor people, they take...”",
+          "“‘But you told the Nazirites to drink wine, like...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“And I will send a fire on Judah, burning up the...”",
+        "correctAnswer": "“So I will send fire to Judah. The fire will completely...”",
         "reference": "Amos 2:5",
-        "explanation": "Amos 2:5 records: 'And I will send a fire on Judah, burning up the great houses of Jerusalem.'."
+        "explanation": "Amos 2:5 records: 'So I will send fire to Judah. The fire will completely burn the strong buildings that are in Jerusalem.’'."
       },
       {
         "id": "amo-2-q6",
         "questionNumber": 6,
         "question": "What central message or instruction is delivered in Amos 2:6?",
         "options": [
-          "“Though I sent destruction on the Amorite before them,...”",
-          "“These are the words of the Lord: For three crimes of...”",
-          "“See, I am crushing you down, as one is...”",
+          "“Remember the Amorites. They were big and strong. They...”",
+          "“The Lord says, ‘The people of Israel have done more and...”",
+          "“So I will punish you. A cart that has...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“These are the words of the Lord: For three crimes of...”",
+        "correctAnswer": "“The Lord says, ‘The people of Israel have done more and...”",
         "reference": "Amos 2:6",
-        "explanation": "Amos 2:6 records: 'These are the words of the Lord: For three crimes of Israel, and for four, I will not let its fate be changed; because they have given the upright man for silver, and the poor for the price of two shoes;'."
+        "explanation": "Amos 2:6 records: 'The Lord says, ‘The people of Israel have done more and more wrong things. So I will certainly punish them. They sold righteous people for silver. And they sold poor people for only the price of shoes.'."
       },
       {
         "id": "amo-2-q7",
         "questionNumber": 7,
         "question": "What detail regarding God's work, covenant, or people is given in Amos 2:7?",
         "options": [
-          "“And I took you up out of the land...”",
-          "“And flight will be impossible for the quick-footed, and...”",
-          "“Crushing the head of the poor, and turning the steps of...”",
+          "“I brought you out of Egypt. After that, I...”",
+          "“You might try to run away. But nobody will...”",
+          "“They are not kind to poor people and they do not...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“Crushing the head of the poor, and turning the steps of...”",
+        "correctAnswer": "“They are not kind to poor people and they do not...”",
         "reference": "Amos 2:7",
-        "explanation": "Amos 2:7 records: 'Crushing the head of the poor, and turning the steps of the gentle out of the way: and a man and his father go in to the same young woman, putting shame on my holy name:'."
+        "explanation": "Amos 2:7 records: 'They are not kind to poor people and they do not help them. A father and his son have sex with the same woman. They do not respect the holy way that I want them to live.'."
       },
       {
         "id": "amo-2-q8",
         "questionNumber": 8,
         "question": "What phrase or account is recorded in Amos 2:8?",
         "options": [
-          "“And some of your sons I made prophets, and...”",
-          "“And the bowman will not keep his place; he...”",
+          "“I chose some men among you to be prophets,...”",
+          "“Soldiers who shoot arrows will have to turn back....”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“By every altar they are stretched on clothing taken from those...”"
+          "“When they lend money to poor people, they take the poor...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“By every altar they are stretched on clothing taken from those...”",
+        "correctAnswer": "“When they lend money to poor people, they take the poor...”",
         "reference": "Amos 2:8",
-        "explanation": "Amos 2:8 records: 'By every altar they are stretched on clothing taken from those who are in their debt, drinking in the house of their god the wine of those who have made payment for wrongdoing.'."
+        "explanation": "Amos 2:8 records: 'When they lend money to poor people, they take the poor people's clothes as a guarantee. They do not return the clothes each night, as they should do. Instead, they sleep on the clothes themselves. They do that at the places where they worship their gods. The rich people take money from poor people. They use that money to buy wine for themselves. Then they drink the wine in the temples of their gods.'."
       },
       {
         "id": "amo-2-q9",
         "questionNumber": 9,
         "question": "How does the passage describe the circumstances or people in Amos 2:9?",
         "options": [
-          "“Though I sent destruction on the Amorite before them, who was...”",
-          "“But to those who were separate you gave wine...”",
-          "“These are the words of the Lord: For three...”",
+          "“Remember the Amorites. They were big and strong. They were like...”",
+          "“‘But you told the Nazirites to drink wine, like...”",
+          "“The Lord says, ‘The people of Moab have done...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“Though I sent destruction on the Amorite before them, who was...”",
+        "correctAnswer": "“Remember the Amorites. They were big and strong. They were like...”",
         "reference": "Amos 2:9",
-        "explanation": "Amos 2:9 records: 'Though I sent destruction on the Amorite before them, who was tall as the cedar and strong as the oak-tree, cutting off his fruit from on high and his roots from under the earth.'."
+        "explanation": "Amos 2:9 records: 'Remember the Amorites. They were big and strong. They were like the tallest cedar trees and the strongest oak trees. But I destroyed all of them.'."
       },
       {
         "id": "amo-2-q10",
         "questionNumber": 10,
         "question": "In the concluding portion of the chapter, what takes place in Amos 2:10?",
         "options": [
-          "“See, I am crushing you down, as one is...”",
-          "“And I took you up out of the land of Egypt,...”",
-          "“These are the words of the Lord: For three...”",
+          "“So I will punish you. A cart that has...”",
+          "“I brought you out of Egypt. After that, I led you...”",
+          "“The Lord says, ‘The people of Moab have done...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“And I took you up out of the land of Egypt,...”",
+        "correctAnswer": "“I brought you out of Egypt. After that, I led you...”",
         "reference": "Amos 2:10",
-        "explanation": "Amos 2:10 records: 'And I took you up out of the land of Egypt, guiding you for forty years in the waste land, so that you might take for your heritage the land of the Amorite.'."
+        "explanation": "Amos 2:10 records: 'I brought you out of Egypt. After that, I led you through the wilderness for 40 years. Then I took you to the land where the Amorites lived, so that it would belong to you.'."
       }
     ],
     "3": [
@@ -315,150 +312,150 @@
         "questionNumber": 1,
         "question": "According to Amos 3:1, what is the opening statement or setting of this chapter?",
         "options": [
-          "It records: “Give ear to this word which the Lord has said against you, O chil...”",
+          "It records: “You Israelites, listen to this message that the Lord speaks again...”",
           "It begins with a prayer of thanksgiving for deliverance in Amos",
           "It opens with a formal census and counting of the congregation",
           "It records a severe judgment pronounced against neighboring nations"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "It records: “Give ear to this word which the Lord has said against you, O chil...”",
+        "correctAnswer": "It records: “You Israelites, listen to this message that the Lord speaks again...”",
         "reference": "Amos 3:1",
-        "explanation": "The chapter begins directly with the statement: 'Give ear to this word which the Lord has said against you, O children of Israel, against all the family which I took up out of the land of Egypt, saying,'."
+        "explanation": "The chapter begins directly with the statement: 'You Israelites, listen to this message that the Lord speaks against you. This message is to all you people that he saved from Egypt.'."
       },
       {
         "id": "amo-3-q2",
         "questionNumber": 2,
         "question": "What key instruction, event, or declaration is set forth in Amos 3:2?",
         "options": [
-          "“Is it possible for a bird to be taken...”",
-          "“You only of all the families of the earth have I...”",
-          "“Give out the news in the great houses of...”",
+          "“If there is no food in a trap, a...”",
+          "“He says, ‘There are many nations of people on the earth....”",
+          "“Tell this message now in Ashdod city. Go to...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“You only of all the families of the earth have I...”",
+        "correctAnswer": "“He says, ‘There are many nations of people on the earth....”",
         "reference": "Amos 3:2",
-        "explanation": "Amos 3:2 records: 'You only of all the families of the earth have I taken care of: for this reason I will send punishment on you for all your sins.'."
+        "explanation": "Amos 3:2 records: 'He says, ‘There are many nations of people on the earth. But I chose you alone to belong to me. So I will punish you when you do wrong things.’'."
       },
       {
         "id": "amo-3-q3",
         "questionNumber": 3,
         "question": "What significant action or revelation occurs in Amos 3:3?",
         "options": [
-          "“If the horn is sounded in the town will...”",
-          "“For they have no knowledge of how to do...”",
-          "“Is it possible for two to go walking together, if not...”",
+          "“Also, if the people in a city hear a...”",
+          "“The Lord says, ‘People have forgotten how to be...”",
+          "“If two people travel together, they have first agreed to meet together.”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“Is it possible for two to go walking together, if not...”",
+        "correctAnswer": "“If two people travel together, they have first agreed to meet together.”",
         "reference": "Amos 3:3",
-        "explanation": "Amos 3:3 records: 'Is it possible for two to go walking together, if not by agreement?'."
+        "explanation": "Amos 3:3 records: 'If two people travel together, they have first agreed to meet together.'."
       },
       {
         "id": "amo-3-q4",
         "questionNumber": 4,
         "question": "What truth or description is highlighted in Amos 3:4?",
         "options": [
-          "“Certainly the Lord will do nothing without making clear...”",
-          "“For this reason, says the Lord, an attacker will...”",
+          "“Before the Lord God decides to send trouble, he...”",
+          "“So the Lord God says, ‘Enemies will come to...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“Will a lion give his loud cry in the woodland when...”"
+          "“If a lion roars in the forest, it means that he...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“Will a lion give his loud cry in the woodland when...”",
+        "correctAnswer": "“If a lion roars in the forest, it means that he...”",
         "reference": "Amos 3:4",
-        "explanation": "Amos 3:4 records: 'Will a lion give his loud cry in the woodland when no food is there? will the voice of the young lion be sounding from his hole if he has taken nothing?'."
+        "explanation": "Amos 3:4 records: 'If a lion roars in the forest, it means that he has killed an animal to eat. A young lion does not shout unless he has caught something.'."
       },
       {
         "id": "amo-3-q5",
         "questionNumber": 5,
         "question": "According to the text, what happened or was commanded in Amos 3:5?",
         "options": [
-          "“Is it possible for a bird to be taken in a...”",
-          "“The cry of the lion is sounding; who will...”",
-          "“These are the words of the Lord: As the...”",
+          "“If there is no food in a trap, a bird will...”",
+          "“So now the lion has roared! Everyone should be...”",
+          "“The Lord says, ‘When a lion catches a young...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“Is it possible for a bird to be taken in a...”",
+        "correctAnswer": "“If there is no food in a trap, a bird will...”",
         "reference": "Amos 3:5",
-        "explanation": "Amos 3:5 records: 'Is it possible for a bird to be taken in a net on the earth where no net has been put for him? will the net come up from the earth if it has taken nothing at all?'."
+        "explanation": "Amos 3:5 records: 'If there is no food in a trap, a bird will not fly into it. If the door of the trap closes, it means that it has caught something.'."
       },
       {
         "id": "amo-3-q6",
         "questionNumber": 6,
         "question": "What central message or instruction is delivered in Amos 3:6?",
         "options": [
-          "“Give out the news in the great houses of...”",
-          "“If the horn is sounded in the town will the people...”",
-          "“Give ear now, and give witness against the family...”",
+          "“Tell this message now in Ashdod city. Go to...”",
+          "“Also, if the people in a city hear a trumpet's sound,...”",
+          "“The Lord God Almighty said to me, ‘Listen! Go...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“If the horn is sounded in the town will the people...”",
+        "correctAnswer": "“Also, if the people in a city hear a trumpet's sound,...”",
         "reference": "Amos 3:6",
-        "explanation": "Amos 3:6 records: 'If the horn is sounded in the town will the people not be full of fear? will evil come on a town if the Lord has not done it?'."
+        "explanation": "Amos 3:6 records: 'Also, if the people in a city hear a trumpet's sound, they become very afraid. If bad trouble comes to a city, it means that the Lord has sent it.'."
       },
       {
         "id": "amo-3-q7",
         "questionNumber": 7,
         "question": "What detail regarding God's work, covenant, or people is given in Amos 3:7?",
         "options": [
-          "“For they have no knowledge of how to do...”",
-          "“For in the day when I give Israel punishment...”",
-          "“Certainly the Lord will do nothing without making clear his secret...”",
+          "“The Lord says, ‘People have forgotten how to be...”",
+          "“I will punish them because they have not obeyed...”",
+          "“Before the Lord God decides to send trouble, he first tells...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“Certainly the Lord will do nothing without making clear his secret...”",
+        "correctAnswer": "“Before the Lord God decides to send trouble, he first tells...”",
         "reference": "Amos 3:7",
-        "explanation": "Amos 3:7 records: 'Certainly the Lord will do nothing without making clear his secret to his servants, the prophets.'."
+        "explanation": "Amos 3:7 records: 'Before the Lord God decides to send trouble, he first tells his prophets about it.'."
       },
       {
         "id": "amo-3-q8",
         "questionNumber": 8,
         "question": "What phrase or account is recorded in Amos 3:8?",
         "options": [
-          "“For this reason, says the Lord, an attacker will...”",
-          "“Give ear to this word which the Lord has...”",
+          "“So the Lord God says, ‘Enemies will come to...”",
+          "“You Israelites, listen to this message that the Lord...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“The cry of the lion is sounding; who will not have...”"
+          "“So now the lion has roared! Everyone should be afraid! The...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“The cry of the lion is sounding; who will not have...”",
+        "correctAnswer": "“So now the lion has roared! Everyone should be afraid! The...”",
         "reference": "Amos 3:8",
-        "explanation": "Amos 3:8 records: 'The cry of the lion is sounding; who will not have fear? The Lord God has said the word; is it possible for the prophet to keep quiet?'."
+        "explanation": "Amos 3:8 records: 'So now the lion has roared! Everyone should be afraid! The Lord God has spoken, so his prophets must tell his message.'."
       },
       {
         "id": "amo-3-q9",
         "questionNumber": 9,
         "question": "How does the passage describe the circumstances or people in Amos 3:9?",
         "options": [
-          "“Give out the news in the great houses of Assyria and...”",
-          "“These are the words of the Lord: As the...”",
-          "“Give ear to this word which the Lord has...”",
+          "“Tell this message now in Ashdod city. Go to the strong...”",
+          "“The Lord says, ‘When a lion catches a young...”",
+          "“You Israelites, listen to this message that the Lord...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“Give out the news in the great houses of Assyria and...”",
+        "correctAnswer": "“Tell this message now in Ashdod city. Go to the strong...”",
         "reference": "Amos 3:9",
-        "explanation": "Amos 3:9 records: 'Give out the news in the great houses of Assyria and in the land of Egypt, and say, Come together on the mountains of Samaria, and see what great outcries are there, and what cruel acts are done in it.'."
+        "explanation": "Amos 3:9 records: 'Tell this message now in Ashdod city. Go to the strong cities in Egypt and speak the message there. Say this: ‘Come to the mountains in Samaria. Look at the cruel things that people are doing in Samaria. Many people are afraid.’'."
       },
       {
         "id": "amo-3-q10",
         "questionNumber": 10,
         "question": "In the concluding portion of the chapter, what takes place in Amos 3:10?",
         "options": [
-          "“Give ear now, and give witness against the family...”",
-          "“For they have no knowledge of how to do what is...”",
-          "“You only of all the families of the earth...”",
+          "“The Lord God Almighty said to me, ‘Listen! Go...”",
+          "“The Lord says, ‘People have forgotten how to be honest. They...”",
+          "“He says, ‘There are many nations of people on...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“For they have no knowledge of how to do what is...”",
+        "correctAnswer": "“The Lord says, ‘People have forgotten how to be honest. They...”",
         "reference": "Amos 3:10",
-        "explanation": "Amos 3:10 records: 'For they have no knowledge of how to do what is right, says the Lord, who are storing up violent acts and destruction in their great houses.'."
+        "explanation": "Amos 3:10 records: 'The Lord says, ‘People have forgotten how to be honest. They rob people and they store valuable things in their big houses. They become rich because they are so cruel.’'."
       }
     ],
     "4": [
@@ -467,150 +464,150 @@
         "questionNumber": 1,
         "question": "According to Amos 4:1, what is the opening statement or setting of this chapter?",
         "options": [
-          "It records: “Give ear to this word, you cows of Bashan, who are in the hill of...”",
+          "It records: “Listen to this message, you women who live on the hill in Samaria...”",
           "It begins with a prayer of thanksgiving for deliverance in Amos",
           "It opens with a formal census and counting of the congregation",
           "It records a severe judgment pronounced against neighboring nations"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "It records: “Give ear to this word, you cows of Bashan, who are in the hill of...”",
+        "correctAnswer": "It records: “Listen to this message, you women who live on the hill in Samaria...”",
         "reference": "Amos 4:1",
-        "explanation": "The chapter begins directly with the statement: 'Give ear to this word, you cows of Bashan, who are in the hill of Samaria, by whom the poor are kept down, and those in need are crushed; who say to their lords, Get out the wine and give us drink.'."
+        "explanation": "The chapter begins directly with the statement: 'Listen to this message, you women who live on the hill in Samaria. You are like fat cows that do not work hard for food. You are like the fat cows in Bashan. You do not give weak people the things that they need. You are not fair to poor people. Then you sit down and you say to your husbands, ‘Bring us more to drink.’'."
       },
       {
         "id": "amo-4-q2",
         "questionNumber": 2,
         "question": "What key instruction, event, or declaration is set forth in Amos 4:2?",
         "options": [
-          "“Let that which is leavened be burned as a...”",
-          "“The Lord God has taken an oath by his holy name,...”",
-          "“I have sent destruction on your fields by burning...”",
+          "“You bring bread to say “thank you”. You even...”",
+          "“The Lord God has made this promise and he speaks only...”",
+          "“‘I sent hot winds from the east. They burned...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“The Lord God has taken an oath by his holy name,...”",
+        "correctAnswer": "“The Lord God has made this promise and he speaks only...”",
         "reference": "Amos 4:2",
-        "explanation": "Amos 4:2 records: 'The Lord God has taken an oath by his holy name, that the days are coming when they will take you away with hooks, and the rest of you with fish-hooks.'."
+        "explanation": "Amos 4:2 records: 'The Lord God has made this promise and he speaks only true words. He says, ‘The time will come, when your enemies will take you away with meat hooks and fish hooks.'."
       },
       {
         "id": "amo-4-q3",
         "questionNumber": 3,
         "question": "What significant action or revelation occurs in Amos 4:3?",
         "options": [
-          "“But in all your towns I have kept food...”",
-          "“I have sent disease among you, as it was...”",
-          "“And you will go out through the broken places, every one...”",
+          "“‘Earlier I made you hungry in all your cities....”",
+          "“‘I caused many people among you to become very...”",
+          "“There are places in your city's walls where people have broken...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“And you will go out through the broken places, every one...”",
+        "correctAnswer": "“There are places in your city's walls where people have broken...”",
         "reference": "Amos 4:3",
-        "explanation": "Amos 4:3 records: 'And you will go out through the broken places, every one going straight before her, and you will be sent into Harmon, says the Lord.'."
+        "explanation": "Amos 4:3 records: 'There are places in your city's walls where people have broken the walls. Your enemies will pull you through those places and they will throw you out towards Harmon. None of you will stay here.’'."
       },
       {
         "id": "amo-4-q4",
         "questionNumber": 4,
         "question": "What truth or description is highlighted in Amos 4:4?",
         "options": [
-          "“And I have kept back the rain from you,...”",
-          "“And I have sent destruction among you, as when...”",
+          "“‘Three months before your food was ready to pick,...”",
+          "“‘I killed many people among you, as I destroyed...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“Come to Beth-el and do evil; to Gilgal, increasing the number...”"
+          "“The Lord also says, ‘You like to go to Bethel. You...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“Come to Beth-el and do evil; to Gilgal, increasing the number...”",
+        "correctAnswer": "“The Lord also says, ‘You like to go to Bethel. You...”",
         "reference": "Amos 4:4",
-        "explanation": "Amos 4:4 records: 'Come to Beth-el and do evil; to Gilgal, increasing the number of your sins; come with your offerings every morning and your tenths every three days:'."
+        "explanation": "Amos 4:4 records: 'The Lord also says, ‘You like to go to Bethel. You say that it is your holy place. And when you go there, you do wrong things. So go there, if you must, and do your bad things. Go to Gilgal, if you must, and do more bad things there. You bring your sacrifices there every morning as a gift. But that does not make me happy. Every three days, you bring your gifts. But that also does not make me happy.'."
       },
       {
         "id": "amo-4-q5",
         "questionNumber": 5,
         "question": "According to the text, what happened or was commanded in Amos 4:5?",
         "options": [
-          "“Let that which is leavened be burned as a praise-offering, let...”",
-          "“So two or three towns went wandering to one...”",
-          "“So this is what I will do to you,...”",
+          "“You bring bread to say “thank you”. You even bring lots...”",
+          "“People became weak. They went from city to city...”",
+          "“‘So I will send trouble to you Israelites again....”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“Let that which is leavened be burned as a praise-offering, let...”",
+        "correctAnswer": "“You bring bread to say “thank you”. You even bring lots...”",
         "reference": "Amos 4:5",
-        "explanation": "Amos 4:5 records: 'Let that which is leavened be burned as a praise-offering, let the news of your free offerings be given out publicly; for this is pleasing to you, O children of Israel, says the Lord.'."
+        "explanation": "Amos 4:5 records: 'You bring bread to say “thank you”. You even bring lots of it and you tell everyone, “Look at how much I have brought.” You really like to do that. So continue to do it, but it does not make me happy.’ The Lord God says this!'."
       },
       {
         "id": "amo-4-q6",
         "questionNumber": 6,
         "question": "What central message or instruction is delivered in Amos 4:6?",
         "options": [
-          "“I have sent destruction on your fields by burning...”",
-          "“But in all your towns I have kept food from your...”",
-          "“Give ear to this word, you cows of Bashan,...”",
+          "“‘I sent hot winds from the east. They burned...”",
+          "“‘Earlier I made you hungry in all your cities. There was...”",
+          "“Listen to this message, you women who live on...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“But in all your towns I have kept food from your...”",
+        "correctAnswer": "“‘Earlier I made you hungry in all your cities. There was...”",
         "reference": "Amos 4:6",
-        "explanation": "Amos 4:6 records: 'But in all your towns I have kept food from your teeth, and in all your places there has been need of bread: and still you have not come back to me, says the Lord.'."
+        "explanation": "Amos 4:6 records: '‘Earlier I made you hungry in all your cities. There was no food anywhere. But you did not start to pray to me again.’ The Lord says this!'."
       },
       {
         "id": "amo-4-q7",
         "questionNumber": 7,
         "question": "What detail regarding God's work, covenant, or people is given in Amos 4:7?",
         "options": [
-          "“I have sent disease among you, as it was...”",
-          "“Give ear to this word, you cows of Bashan,...”",
-          "“And I have kept back the rain from you, when it...”",
+          "“‘I caused many people among you to become very...”",
+          "“Listen to this message, you women who live on...”",
+          "“‘Three months before your food was ready to pick, I did...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“And I have kept back the rain from you, when it...”",
+        "correctAnswer": "“‘Three months before your food was ready to pick, I did...”",
         "reference": "Amos 4:7",
-        "explanation": "Amos 4:7 records: 'And I have kept back the rain from you, when it was still three months before the grain-cutting: I sent rain on one town and kept it back from another: one part was rained on, and the part where there was no rain became a waste.'."
+        "explanation": "Amos 4:7 records: '‘Three months before your food was ready to pick, I did not send rain. So all the food became too dry. Sometimes I sent rain to one city, but I did not send it to other cities. I sent rain to one person's land, but I did not send it to another person's land. So that other person's land became too dry.'."
       },
       {
         "id": "amo-4-q8",
         "questionNumber": 8,
         "question": "What phrase or account is recorded in Amos 4:8?",
         "options": [
-          "“And I have sent destruction among you, as when...”",
-          "“The Lord God has taken an oath by his...”",
+          "“‘I killed many people among you, as I destroyed...”",
+          "“The Lord God has made this promise and he...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“So two or three towns went wandering to one town looking...”"
+          "“People became weak. They went from city to city to look...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“So two or three towns went wandering to one town looking...”",
+        "correctAnswer": "“People became weak. They went from city to city to look...”",
         "reference": "Amos 4:8",
-        "explanation": "Amos 4:8 records: 'So two or three towns went wandering to one town looking for water, and did not get enough: and still you have not come back to me, says the Lord.'."
+        "explanation": "Amos 4:8 records: 'People became weak. They went from city to city to look for water. They were almost too weak to walk. There was not enough water. But still you did not start to pray to me again.’ The Lord says this!'."
       },
       {
         "id": "amo-4-q9",
         "questionNumber": 9,
         "question": "How does the passage describe the circumstances or people in Amos 4:9?",
         "options": [
-          "“I have sent destruction on your fields by burning and disease:...”",
-          "“So this is what I will do to you,...”",
-          "“And you will go out through the broken places,...”",
+          "“‘I sent hot winds from the east. They burned the small...”",
+          "“‘So I will send trouble to you Israelites again....”",
+          "“There are places in your city's walls where people...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“I have sent destruction on your fields by burning and disease:...”",
+        "correctAnswer": "“‘I sent hot winds from the east. They burned the small...”",
         "reference": "Amos 4:9",
-        "explanation": "Amos 4:9 records: 'I have sent destruction on your fields by burning and disease: the increase of your gardens and your vine-gardens, your fig-trees and your olive-trees, has been food for worms: and still you have not come back to me, says the Lord.'."
+        "explanation": "Amos 4:9 records: '‘I sent hot winds from the east. They burned the small plants, so those plants died. Worms made the other plants sick. So the other plants died. Locusts ate your trees that give fruit. But still you did not start to pray to me again.’ The Lord says this!'."
       },
       {
         "id": "amo-4-q10",
         "questionNumber": 10,
         "question": "In the concluding portion of the chapter, what takes place in Amos 4:10?",
         "options": [
-          "“Give ear to this word, you cows of Bashan,...”",
-          "“I have sent disease among you, as it was in Egypt:...”",
-          "“Come to Beth-el and do evil; to Gilgal, increasing...”",
+          "“Listen to this message, you women who live on...”",
+          "“‘I caused many people among you to become very sick. It...”",
+          "“The Lord also says, ‘You like to go to...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“I have sent disease among you, as it was in Egypt:...”",
+        "correctAnswer": "“‘I caused many people among you to become very sick. It...”",
         "reference": "Amos 4:10",
-        "explanation": "Amos 4:10 records: 'I have sent disease among you, as it was in Egypt: I have put your young men to the sword, and have taken away your horses; I have made the evil smell from your tents come up to your noses: and still you have not come back to me, says the Lord.'."
+        "explanation": "Amos 4:10 records: '‘I caused many people among you to become very sick. It was like what happened many years ago in Egypt. At that time, very many people got sick. Then I sent soldiers to you. And they killed your young men and they took away your horses. The smell from dead bodies was very bad. But you still did not start to pray to me again.’ The Lord says this!'."
       }
     ],
     "5": [
@@ -619,150 +616,150 @@
         "questionNumber": 1,
         "question": "According to Amos 5:1, what is the opening statement or setting of this chapter?",
         "options": [
-          "It records: “Give ear to this word, my song of sorrow over you, O children of ...”",
+          "It records: “You people of Israel's family, listen to the sad song that I will...”",
           "It begins with a prayer of thanksgiving for deliverance in Amos",
           "It opens with a formal census and counting of the congregation",
           "It records a severe judgment pronounced against neighboring nations"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "It records: “Give ear to this word, my song of sorrow over you, O children of ...”",
+        "correctAnswer": "It records: “You people of Israel's family, listen to the sad song that I will...”",
         "reference": "Amos 5:1",
-        "explanation": "The chapter begins directly with the statement: 'Give ear to this word, my song of sorrow over you, O children of Israel.'."
+        "explanation": "The chapter begins directly with the statement: 'You people of Israel's family, listen to the sad song that I will sing about you:'."
       },
       {
         "id": "amo-5-q2",
         "questionNumber": 2,
         "question": "What key instruction, event, or declaration is set forth in Amos 5:2?",
         "options": [
-          "“Do not be looking for help to Beth-el, and...”",
-          "“The virgin of Israel has been made low, never again to...”",
-          "“Who sends sudden destruction on the strong, so that...”",
+          "“Do not go to Bethel, Gilgal, or Beersheba. Do...”",
+          "“‘You are like a young woman who died young, without children....”",
+          "“He quickly destroys strong people. He knocks down their...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“The virgin of Israel has been made low, never again to...”",
+        "correctAnswer": "“‘You are like a young woman who died young, without children....”",
         "reference": "Amos 5:2",
-        "explanation": "Amos 5:2 records: 'The virgin of Israel has been made low, never again to be lifted up: she is stretched out by herself on her land; there is no one to put her on her feet again.'."
+        "explanation": "Amos 5:2 records: '‘You are like a young woman who died young, without children. Now you have fallen down and you will not rise up again. You lie there on the ground. There is nobody there to help you to get up.’'."
       },
       {
         "id": "amo-5-q3",
         "questionNumber": 3,
         "question": "What significant action or revelation occurs in Amos 5:4?",
         "options": [
-          "“You who make the work of judging a bitter...”",
-          "“So because the poor man is crushed under your...”",
-          "“For these are the words of the Lord to the children...”",
+          "“You people change what is right and true to...”",
+          "“You cheat poor people so that they pay too...”",
+          "“To the people of Israel's family, the Lord says, ‘Come back...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“For these are the words of the Lord to the children...”",
+        "correctAnswer": "“To the people of Israel's family, the Lord says, ‘Come back...”",
         "reference": "Amos 5:4",
-        "explanation": "Amos 5:4 records: 'For these are the words of the Lord to the children of Israel: Let your hearts be turned to me, so that you may have life:'."
+        "explanation": "Amos 5:4 records: 'To the people of Israel's family, the Lord says, ‘Come back to me and you will live.'."
       },
       {
         "id": "amo-5-q4",
         "questionNumber": 4,
         "question": "What truth or description is highlighted in Amos 5:6?",
         "options": [
-          "“Who sends sudden destruction on the strong, so that...”",
-          "“So the wise will say nothing in that time;...”",
+          "“He quickly destroys strong people. He knocks down their...”",
+          "“This is such an evil time that clever people...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“Go to the Lord for help so that you may have...”"
+          "“Return to the Lord and you will live. If you do...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“Go to the Lord for help so that you may have...”",
+        "correctAnswer": "“Return to the Lord and you will live. If you do...”",
         "reference": "Amos 5:6",
-        "explanation": "Amos 5:6 records: 'Go to the Lord for help so that you may have life; for fear that he may come like fire bursting out in the family of Joseph, causing destruction, and there will be no one to put it out in Beth-el.'."
+        "explanation": "Amos 5:6 records: 'Return to the Lord and you will live. If you do not do that, he will come like fire to punish you. He will completely destroy Joseph's descendants. Bethel and all its people will burn. Nobody will be able to stop the fire.'."
       },
       {
         "id": "amo-5-q5",
         "questionNumber": 5,
         "question": "According to the text, what happened or was commanded in Amos 5:8?",
         "options": [
-          "“Go for help to him who makes Orion and the Pleiades,...”",
-          "“So because the poor man is crushed under your...”",
-          "“Be haters of evil and lovers of good, and...”",
+          "“The Lord made the groups of stars called Pleiades and Orion....”",
+          "“You cheat poor people so that they pay too...”",
+          "“Hate evil things and love good things. When you...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“Go for help to him who makes Orion and the Pleiades,...”",
+        "correctAnswer": "“The Lord made the groups of stars called Pleiades and Orion....”",
         "reference": "Amos 5:8",
-        "explanation": "Amos 5:8 records: 'Go for help to him who makes Orion and the Pleiades, by whom the deep dark is turned into morning, who makes the day black with night; whose voice goes out to the waters of the sea, sending them out over the face of the earth: the Lord is his name;'."
+        "explanation": "Amos 5:8 records: 'The Lord made the groups of stars called Pleiades and Orion. The Lord changes the night into dawn, and he changes the day back to night again. He takes the water in the sea, and he pours it out as rain on the earth. The Lord is his name!'."
       },
       {
         "id": "amo-5-q6",
         "questionNumber": 6,
         "question": "What central message or instruction is delivered in Amos 5:10?",
         "options": [
-          "“So the wise will say nothing in that time;...”",
-          "“They have hate for him who makes protest against evil in...”",
-          "“In all the vine-gardens there will be cries of...”",
+          "“This is such an evil time that clever people...”",
+          "“‘You Israelites hate honest judges. You laugh at anyone who speaks...”",
+          "“In every field and garden, people will be weeping,...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“They have hate for him who makes protest against evil in...”",
+        "correctAnswer": "“‘You Israelites hate honest judges. You laugh at anyone who speaks...”",
         "reference": "Amos 5:10",
-        "explanation": "Amos 5:10 records: 'They have hate for him who makes protest against evil in the public place, and he whose words are upright is disgusting to them.'."
+        "explanation": "Amos 5:10 records: '‘You Israelites hate honest judges. You laugh at anyone who speaks the truth.'."
       },
       {
         "id": "amo-5-q7",
         "questionNumber": 7,
         "question": "What detail regarding God's work, covenant, or people is given in Amos 5:12?",
         "options": [
-          "“Be haters of evil and lovers of good, and...”",
-          "“As if a man, running away from a lion,...”",
-          "“For I have seen how your evil-doing is increased and how...”",
+          "“Hate evil things and love good things. When you...”",
+          "“Nobody will escape! It will be like a man...”",
+          "“I, the Lord, know all the wrong things that you have...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“For I have seen how your evil-doing is increased and how...”",
+        "correctAnswer": "“I, the Lord, know all the wrong things that you have...”",
         "reference": "Amos 5:12",
-        "explanation": "Amos 5:12 records: 'For I have seen how your evil-doing is increased and how strong are your sins, you troublers of the upright, who take rewards and do wrong to the cause of the poor in the public place.'."
+        "explanation": "Amos 5:12 records: 'I, the Lord, know all the wrong things that you have done. They are very many and they are very bad. You are cruel to good people. You take bribes to tell lies. Sometimes a person gives money to you to make you tell lies. As a result, poor people do not receive justice.'."
       },
       {
         "id": "amo-5-q8",
         "questionNumber": 8,
         "question": "What phrase or account is recorded in Amos 5:14?",
         "options": [
-          "“In all the vine-gardens there will be cries of...”",
-          "“Your feasts are disgusting to me, I will have...”",
+          "“In every field and garden, people will be weeping,...”",
+          "“The Lord says, ‘When you have your festivals, I...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“Go after good and not evil, so that life may be...”"
+          "“You say that the Lord God Almighty is with you. Stop...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“Go after good and not evil, so that life may be...”",
+        "correctAnswer": "“You say that the Lord God Almighty is with you. Stop...”",
         "reference": "Amos 5:14",
-        "explanation": "Amos 5:14 records: 'Go after good and not evil, so that life may be yours: and so the Lord, the God of armies, will be with you, as you say.'."
+        "explanation": "Amos 5:14 records: 'You say that the Lord God Almighty is with you. Stop doing evil things. Do good things, so that you will live. Then the Lord God Almighty will really be with you, as you say.'."
       },
       {
         "id": "amo-5-q9",
         "questionNumber": 9,
         "question": "How does the passage describe the circumstances or people in Amos 5:16?",
         "options": [
-          "“So these are the words of the Lord, the God of...”",
-          "“As if a man, running away from a lion,...”",
-          "“Take away from me the noise of your songs;...”",
+          "“The Lord, the Lord God Almighty says, ‘All the people will...”",
+          "“Nobody will escape! It will be like a man...”",
+          "“When you sing songs to worship me, I will...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“So these are the words of the Lord, the God of...”",
+        "correctAnswer": "“The Lord, the Lord God Almighty says, ‘All the people will...”",
         "reference": "Amos 5:16",
-        "explanation": "Amos 5:16 records: 'So these are the words of the Lord, the God of armies, the Lord: There will be weeping in all the open spaces; and in all the streets they will say, Sorrow! sorrow! and they will get in the farmer to the weeping, and the makers of sad songs to give cries of grief.'."
+        "explanation": "Amos 5:16 records: 'The Lord, the Lord God Almighty says, ‘All the people will be sad. They will weep and cry loudly in all the streets. They will tell the farmers to weep with them. They will tell the singers to sing sad songs for them.'."
       },
       {
         "id": "amo-5-q10",
         "questionNumber": 10,
         "question": "In the concluding portion of the chapter, what takes place in Amos 5:18?",
         "options": [
-          "“Your feasts are disgusting to me, I will have...”",
-          "“Sorrow to you who are looking for the day of the...”",
-          "“Did you come to me with offerings of beasts...”",
+          "“The Lord says, ‘When you have your festivals, I...”",
+          "“You want the great day of the Lord to come. But...”",
+          "“You people of Israel's family, listen to me! I...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“Sorrow to you who are looking for the day of the...”",
+        "correctAnswer": "“You want the great day of the Lord to come. But...”",
         "reference": "Amos 5:18",
-        "explanation": "Amos 5:18 records: 'Sorrow to you who are looking for the day of the Lord! what is the day of the Lord to you? it is dark and not light.'."
+        "explanation": "Amos 5:18 records: 'You want the great day of the Lord to come. But it will be very bad for you! You think that God will punish your enemies on that day. But that day will not bring light to you, it will bring darkness.'."
       }
     ],
     "6": [
@@ -771,150 +768,150 @@
         "questionNumber": 1,
         "question": "According to Amos 6:1, what is the opening statement or setting of this chapter?",
         "options": [
-          "It records: “Sorrow to those who are resting in comfort in Zion, and to those ...”",
+          "It records: “Trouble is coming to you people who live in Zion and on Samaria's...”",
           "It begins with a prayer of thanksgiving for deliverance in Amos",
           "It opens with a formal census and counting of the congregation",
           "It records a severe judgment pronounced against neighboring nations"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "It records: “Sorrow to those who are resting in comfort in Zion, and to those ...”",
+        "correctAnswer": "It records: “Trouble is coming to you people who live in Zion and on Samaria's...”",
         "reference": "Amos 6:1",
-        "explanation": "The chapter begins directly with the statement: 'Sorrow to those who are resting in comfort in Zion, and to those who have no fear of danger in the mountain of Samaria, the noted men of the chief of the nations, to whom the people of Israel come!'."
+        "explanation": "The chapter begins directly with the statement: 'Trouble is coming to you people who live in Zion and on Samaria's hill. You think that you are safe. You think that you are important people who live in the best nation on earth. Israelite people respect you as their leaders.'."
       },
       {
         "id": "amo-6-q2",
         "questionNumber": 2,
         "question": "What key instruction, event, or declaration is set forth in Amos 6:2?",
         "options": [
-          "“Making foolish songs to the sound of corded instruments,...”",
-          "“Go on to Calneh and see; and from there go to...”",
-          "“Then it will come about that if there are...”",
+          "“Like King David, you play music on your harps...”",
+          "“Go and look at Calneh city. Go and look at Hamath...”",
+          "“At that time, if ten people are safe together...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“Go on to Calneh and see; and from there go to...”",
+        "correctAnswer": "“Go and look at Calneh city. Go and look at Hamath...”",
         "reference": "Amos 6:2",
-        "explanation": "Amos 6:2 records: 'Go on to Calneh and see; and from there go to Hamath the great; then go down to Gath of the Philistines: are you better than these kingdoms? or is your land wider than theirs?'."
+        "explanation": "Amos 6:2 records: 'Go and look at Calneh city. Go and look at Hamath city. Then go and look at Gath city, where the Philistines live. Are your cities stronger than their cities? Do you have more land than they do?'."
       },
       {
         "id": "amo-6-q3",
         "questionNumber": 3,
         "question": "What significant action or revelation occurs in Amos 6:3?",
         "options": [
-          "“Drinking wine in basins, rubbing themselves with the best...”",
-          "“And when a man's relation, even the one who...”",
-          "“You who put far away the evil day, causing the rule...”",
+          "“You drink lots of wine. You put beautiful oils...”",
+          "“When a man comes to carry a dead body...”",
+          "“You refuse to think that trouble might come to you. But...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“You who put far away the evil day, causing the rule...”",
+        "correctAnswer": "“You refuse to think that trouble might come to you. But...”",
         "reference": "Amos 6:3",
-        "explanation": "Amos 6:3 records: 'You who put far away the evil day, causing the rule of the violent to come near;'."
+        "explanation": "Amos 6:3 records: 'You refuse to think that trouble might come to you. But the cruel things that you do are causing trouble to come very soon.'."
       },
       {
         "id": "amo-6-q4",
         "questionNumber": 4,
         "question": "What truth or description is highlighted in Amos 6:4?",
         "options": [
-          "“So now they will go away prisoners with the...”",
-          "“For see, at the order of the Lord the...”",
+          "“You will be the first people that your enemies...”",
+          "“When the Lord gives his command, enemies will destroy...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“Who are resting on beds of ivory, stretched out on soft...”"
+          "“You lie on beautiful, expensive beds. You do not work, but...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“Who are resting on beds of ivory, stretched out on soft...”",
+        "correctAnswer": "“You lie on beautiful, expensive beds. You do not work, but...”",
         "reference": "Amos 6:4",
-        "explanation": "Amos 6:4 records: 'Who are resting on beds of ivory, stretched out on soft seats, feasting on lambs from the flock and young oxen from the cattle-house;'."
+        "explanation": "Amos 6:4 records: 'You lie on beautiful, expensive beds. You do not work, but you rest all the time. You eat fat young sheep and calves.'."
       },
       {
         "id": "amo-6-q5",
         "questionNumber": 5,
         "question": "According to the text, what happened or was commanded in Amos 6:5?",
         "options": [
-          "“Making foolish songs to the sound of corded instruments, and designing...”",
-          "“The Lord God has taken an oath by himself,...”",
-          "“Is it possible for horses to go running on...”",
+          "“Like King David, you play music on your harps and you...”",
+          "“The Lord God Almighty has promised that this will...”",
+          "“Horses cannot run on rocks. People do not try...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“Making foolish songs to the sound of corded instruments, and designing...”",
+        "correctAnswer": "“Like King David, you play music on your harps and you...”",
         "reference": "Amos 6:5",
-        "explanation": "Amos 6:5 records: 'Making foolish songs to the sound of corded instruments, and designing for themselves instruments of music, like David;'."
+        "explanation": "Amos 6:5 records: 'Like King David, you play music on your harps and you sing new songs.'."
       },
       {
         "id": "amo-6-q6",
         "questionNumber": 6,
         "question": "What central message or instruction is delivered in Amos 6:6?",
         "options": [
-          "“Then it will come about that if there are...”",
-          "“Drinking wine in basins, rubbing themselves with the best oils; but...”",
-          "“You whose joy is in a thing of no...”",
+          "“At that time, if ten people are safe together...”",
+          "“You drink lots of wine. You put beautiful oils on your...”",
+          "“You are proud because you won against Lo-Debar and...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“Drinking wine in basins, rubbing themselves with the best oils; but...”",
+        "correctAnswer": "“You drink lots of wine. You put beautiful oils on your...”",
         "reference": "Amos 6:6",
-        "explanation": "Amos 6:6 records: 'Drinking wine in basins, rubbing themselves with the best oils; but they have no grief for the destruction of Joseph.'."
+        "explanation": "Amos 6:6 records: 'You drink lots of wine. You put beautiful oils on your bodies. But you are not sad that Joseph's descendants are destroying themselves as a nation.'."
       },
       {
         "id": "amo-6-q7",
         "questionNumber": 7,
         "question": "What detail regarding God's work, covenant, or people is given in Amos 6:7?",
         "options": [
-          "“And when a man's relation, even the one who...”",
-          "“Sorrow to those who are resting in comfort in...”",
-          "“So now they will go away prisoners with the first of...”",
+          "“When a man comes to carry a dead body...”",
+          "“Trouble is coming to you people who live in...”",
+          "“You will be the first people that your enemies will take...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“So now they will go away prisoners with the first of...”",
+        "correctAnswer": "“You will be the first people that your enemies will take...”",
         "reference": "Amos 6:7",
-        "explanation": "Amos 6:7 records: 'So now they will go away prisoners with the first of those who are made prisoners, and the loud cry of those who were stretched out will come to an end.'."
+        "explanation": "Amos 6:7 records: 'You will be the first people that your enemies will take away as prisoners. You will no longer enjoy your feasts and wild parties.'."
       },
       {
         "id": "amo-6-q8",
         "questionNumber": 8,
         "question": "What phrase or account is recorded in Amos 6:8?",
         "options": [
-          "“For see, at the order of the Lord the...”",
-          "“Sorrow to those who are resting in comfort in...”",
+          "“When the Lord gives his command, enemies will destroy...”",
+          "“Trouble is coming to you people who live in...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“The Lord God has taken an oath by himself, says the...”"
+          "“The Lord God Almighty has promised that this will surely happen....”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“The Lord God has taken an oath by himself, says the...”",
+        "correctAnswer": "“The Lord God Almighty has promised that this will surely happen....”",
         "reference": "Amos 6:8",
-        "explanation": "Amos 6:8 records: 'The Lord God has taken an oath by himself, says the Lord, the God of armies: the pride of Jacob is disgusting to me, and I have hate for his great houses: so I will give up the town with everything in it.'."
+        "explanation": "Amos 6:8 records: 'The Lord God Almighty has promised that this will surely happen. He has spoken this strong message: ‘The Israelites think that they are very strong. But I have turned against them. I hate their strong buildings. So I will give their great city of Samaria and everything in it to their enemies.’'."
       },
       {
         "id": "amo-6-q9",
         "questionNumber": 9,
         "question": "How does the passage describe the circumstances or people in Amos 6:9?",
         "options": [
-          "“Then it will come about that if there are still ten...”",
-          "“Is it possible for horses to go running on...”",
-          "“Go on to Calneh and see; and from there...”",
+          "“At that time, if ten people are safe together in one...”",
+          "“Horses cannot run on rocks. People do not try...”",
+          "“Go and look at Calneh city. Go and look...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“Then it will come about that if there are still ten...”",
+        "correctAnswer": "“At that time, if ten people are safe together in one...”",
         "reference": "Amos 6:9",
-        "explanation": "Amos 6:9 records: 'Then it will come about that if there are still ten men in a house, death will overtake them.'."
+        "explanation": "Amos 6:9 records: 'At that time, if ten people are safe together in one house, they will all die.'."
       },
       {
         "id": "amo-6-q10",
         "questionNumber": 10,
         "question": "In the concluding portion of the chapter, what takes place in Amos 6:10?",
         "options": [
-          "“You whose joy is in a thing of no...”",
-          "“And when a man's relation, even the one who is responsible...”",
-          "“You who put far away the evil day, causing...”",
+          "“You are proud because you won against Lo-Debar and...”",
+          "“When a man comes to carry a dead body outside to...”",
+          "“You refuse to think that trouble might come to...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“And when a man's relation, even the one who is responsible...”",
+        "correctAnswer": "“When a man comes to carry a dead body outside to...”",
         "reference": "Amos 6:10",
-        "explanation": "Amos 6:10 records: 'And when a man's relation, even the one who is responsible for burning his body, lifting him up to take his bones out of the house, says to him who is in the inmost part of the house, Is there still anyone with you? and he says, No; then he will say, Keep quiet, for the name of the Lord may not be named.'."
+        "explanation": "Amos 6:10 records: 'When a man comes to carry a dead body outside to burn it, he will ask his relative, ‘Is there anyone with you in the house?’ The relative will answer, ‘No.’ Then the man will say, ‘Be quiet! Do not speak the name of the Lord!’'."
       }
     ],
     "7": [
@@ -923,150 +920,150 @@
         "questionNumber": 1,
         "question": "According to Amos 7:1, what is the opening statement or setting of this chapter?",
         "options": [
-          "It records: “This is what the Lord God let me see: and I saw that, when the gr...”",
+          "It records: “The Lord God showed a vision to me. I saw a crowd of locusts. The...”",
           "It begins with a prayer of thanksgiving for deliverance in Amos",
           "It opens with a formal census and counting of the congregation",
           "It records a severe judgment pronounced against neighboring nations"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "It records: “This is what the Lord God let me see: and I saw that, when the gr...”",
+        "correctAnswer": "It records: “The Lord God showed a vision to me. I saw a crowd of locusts. The...”",
         "reference": "Amos 7:1",
-        "explanation": "The chapter begins directly with the statement: 'This is what the Lord God let me see: and I saw that, when the growth of the late grass was starting, he made locusts; it was the late growth after the king's cutting was done.'."
+        "explanation": "The chapter begins directly with the statement: 'The Lord God showed a vision to me. I saw a crowd of locusts. The Lord was ready to send them to destroy the crops in the fields. They would come after we had taken the early crops to give to the king. Then the later crops were beginning to make grain.'."
       },
       {
         "id": "amo-7-q2",
         "questionNumber": 2,
         "question": "What key instruction, event, or declaration is set forth in Amos 7:2?",
         "options": [
-          "“Then said I, O Lord God, let there be...”",
-          "“And it came about that after they had taken all the...”",
-          "“And the high places of Isaac will be unpeopled,...”",
+          "“I said, ‘Lord God, please do not do that!...”",
+          "“I saw that the locusts came and they ate everything. I...”",
+          "“I will send enemies to destroy the holy places...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“And it came about that after they had taken all the...”",
+        "correctAnswer": "“I saw that the locusts came and they ate everything. I...”",
         "reference": "Amos 7:2",
-        "explanation": "Amos 7:2 records: 'And it came about that after they had taken all the grass of the land, I said, O Lord God, have mercy: how will Jacob be able to keep his place? for he is small.'."
+        "explanation": "Amos 7:2 records: 'I saw that the locusts came and they ate everything. I asked the Lord, ‘Lord God, please forgive your people. We cannot continue to live if those locusts destroy our food. We are too weak!’'."
       },
       {
         "id": "amo-7-q3",
         "questionNumber": 3,
         "question": "What significant action or revelation occurs in Amos 7:3?",
         "options": [
-          "“The Lord, changing his purpose about this, said, And...”",
-          "“Then Amaziah, the priest of Beth-el, sent to Jeroboam,...”",
-          "“The Lord, changing his purpose about this, said, It will not be.”",
+          "“Then the Lord decided not to do it. He...”",
+          "“Amaziah was a priest at the holy place called...”",
+          "“Then the Lord decided not to do it. He said to...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“The Lord, changing his purpose about this, said, It will not be.”",
+        "correctAnswer": "“Then the Lord decided not to do it. He said to...”",
         "reference": "Amos 7:3",
-        "explanation": "Amos 7:3 records: 'The Lord, changing his purpose about this, said, It will not be.'."
+        "explanation": "Amos 7:3 records: 'Then the Lord decided not to do it. He said to me, ‘That will not happen.’'."
       },
       {
         "id": "amo-7-q4",
         "questionNumber": 4,
         "question": "What truth or description is highlighted in Amos 7:4?",
         "options": [
-          "“This is what he let me see: and I...”",
-          "“For Amos has said, Jeroboam will be put to...”",
+          "“Then the Lord showed this vision to me. The...”",
+          "“Amos is saying, “Our enemies will kill King Jeroboam....”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“This is what the Lord let me see: and I saw...”"
+          "“After that, the Lord God showed to me a vision of...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“This is what the Lord let me see: and I saw...”",
+        "correctAnswer": "“After that, the Lord God showed to me a vision of...”",
         "reference": "Amos 7:4",
-        "explanation": "Amos 7:4 records: 'This is what the Lord let me see: and I saw that the Lord God sent for a great fire to be the instrument of his punishment; and, after burning up the great deep, it was about to put an end to the Lord's heritage.'."
+        "explanation": "Amos 7:4 records: 'After that, the Lord God showed to me a vision of a fire. He was ready to send it to punish us. I saw that it caused the deep sea to become dry. It also burnt all the land.'."
       },
       {
         "id": "amo-7-q5",
         "questionNumber": 5,
         "question": "According to the text, what happened or was commanded in Amos 7:5?",
         "options": [
-          "“Then said I, O Lord God, let there be an end:...”",
-          "“And the Lord said to me, Amos, what do...”",
-          "“And Amaziah said to Amos, O seer, go in...”",
+          "“I said, ‘Lord God, please do not do that! Your people...”",
+          "“He asked me, ‘Amos, what do you see?’ I...”",
+          "“Then Amaziah said to Amos, ‘Go away, you prophet!...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“Then said I, O Lord God, let there be an end:...”",
+        "correctAnswer": "“I said, ‘Lord God, please do not do that! Your people...”",
         "reference": "Amos 7:5",
-        "explanation": "Amos 7:5 records: 'Then said I, O Lord God, let there be an end: how will Jacob be able to keep his place? for he is small.'."
+        "explanation": "Amos 7:5 records: 'I said, ‘Lord God, please do not do that! Your people cannot continue to live. We are too weak!’'."
       },
       {
         "id": "amo-7-q6",
         "questionNumber": 6,
         "question": "What central message or instruction is delivered in Amos 7:6?",
         "options": [
-          "“And the high places of Isaac will be unpeopled,...”",
-          "“The Lord, changing his purpose about this, said, And this will...”",
-          "“But be a prophet no longer at Beth-el: for...”",
+          "“I will send enemies to destroy the holy places...”",
+          "“Then the Lord decided not to do it. He said to...”",
+          "“Do not speak God's message here in Bethel any...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“The Lord, changing his purpose about this, said, And this will...”",
+        "correctAnswer": "“Then the Lord decided not to do it. He said to...”",
         "reference": "Amos 7:6",
-        "explanation": "Amos 7:6 records: 'The Lord, changing his purpose about this, said, And this will not be.'."
+        "explanation": "Amos 7:6 records: 'Then the Lord decided not to do it. He said to me, ‘That too will not happen.’'."
       },
       {
         "id": "amo-7-q7",
         "questionNumber": 7,
         "question": "What detail regarding God's work, covenant, or people is given in Amos 7:7?",
         "options": [
-          "“Then Amaziah, the priest of Beth-el, sent to Jeroboam,...”",
-          "“Then Amos in answer said to Amaziah, I am...”",
-          "“This is what he let me see: and I saw the...”",
+          "“Amaziah was a priest at the holy place called...”",
+          "“Then Amos answered Amaziah, ‘My job was not as...”",
+          "“Then the Lord showed this vision to me. The Lord God...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“This is what he let me see: and I saw the...”",
+        "correctAnswer": "“Then the Lord showed this vision to me. The Lord God...”",
         "reference": "Amos 7:7",
-        "explanation": "Amos 7:7 records: 'This is what he let me see: and I saw the Lord stationed by a wall made straight by a weighted line, and he had a weighted line in his hand.'."
+        "explanation": "Amos 7:7 records: 'Then the Lord showed this vision to me. The Lord God was standing next to a wall. In his hand was a string with a heavy weight on its end. The Lord was hanging the string down the wall. He was looking to see whether the wall was straight.'."
       },
       {
         "id": "amo-7-q8",
         "questionNumber": 8,
         "question": "What phrase or account is recorded in Amos 7:8?",
         "options": [
-          "“For Amos has said, Jeroboam will be put to...”",
-          "“And the Lord took me from the flock, and...”",
+          "“Amos is saying, “Our enemies will kill King Jeroboam....”",
+          "“But the Lord told me to leave my work...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“And the Lord said to me, Amos, what do you see?...”"
+          "“He asked me, ‘Amos, what do you see?’ I said, ‘You...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“And the Lord said to me, Amos, what do you see?...”",
+        "correctAnswer": "“He asked me, ‘Amos, what do you see?’ I said, ‘You...”",
         "reference": "Amos 7:8",
-        "explanation": "Amos 7:8 records: 'And the Lord said to me, Amos, what do you see? And I said, A weighted line. Then the Lord said, See, I will let down a weighted line among my people Israel; never again will my eyes be shut to their sin:'."
+        "explanation": "Amos 7:8 records: 'He asked me, ‘Amos, what do you see?’ I said, ‘You are measuring the wall to see if it is straight.’ The Lord God said, ‘Understand this. I am ready to measure my people with this string. I will test them and I will punish them for their sins. I will not forgive them any more.'."
       },
       {
         "id": "amo-7-q9",
         "questionNumber": 9,
         "question": "How does the passage describe the circumstances or people in Amos 7:9?",
         "options": [
-          "“And the high places of Isaac will be unpeopled, and the...”",
-          "“And Amaziah said to Amos, O seer, go in...”",
-          "“Now then, give ear to the word of the...”",
+          "“I will send enemies to destroy the holy places of Isaac's...”",
+          "“Then Amaziah said to Amos, ‘Go away, you prophet!...”",
+          "“So listen to the Lord's message to you! You...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“And the high places of Isaac will be unpeopled, and the...”",
+        "correctAnswer": "“I will send enemies to destroy the holy places of Isaac's...”",
         "reference": "Amos 7:9",
-        "explanation": "Amos 7:9 records: 'And the high places of Isaac will be unpeopled, and the holy places of Israel will be made waste; and I will come up against the family of Jeroboam with the sword.'."
+        "explanation": "Amos 7:9 records: 'I will send enemies to destroy the holy places of Isaac's descendants. All Israel's holy places will fall down. Enemies will use swords to kill King Jeroboam and his family.’'."
       },
       {
         "id": "amo-7-q10",
         "questionNumber": 10,
         "question": "In the concluding portion of the chapter, what takes place in Amos 7:10?",
         "options": [
-          "“But be a prophet no longer at Beth-el: for...”",
-          "“Then Amaziah, the priest of Beth-el, sent to Jeroboam, king of...”",
-          "“This is what the Lord God let me see:...”",
+          "“Do not speak God's message here in Bethel any...”",
+          "“Amaziah was a priest at the holy place called Bethel. He...”",
+          "“The Lord God showed a vision to me. I...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“Then Amaziah, the priest of Beth-el, sent to Jeroboam, king of...”",
+        "correctAnswer": "“Amaziah was a priest at the holy place called Bethel. He...”",
         "reference": "Amos 7:10",
-        "explanation": "Amos 7:10 records: 'Then Amaziah, the priest of Beth-el, sent to Jeroboam, king of Israel, saying, Amos has made designs against you among the people of Israel: the land is troubled by his words.'."
+        "explanation": "Amos 7:10 records: 'Amaziah was a priest at the holy place called Bethel. He sent a message to Jeroboam, the king of Israel. He said, ‘Amos is speaking against you among all Israel's people. What he is saying will deceive the people of our nation.'."
       }
     ],
     "8": [
@@ -1075,150 +1072,150 @@
         "questionNumber": 1,
         "question": "According to Amos 8:1, what is the opening statement or setting of this chapter?",
         "options": [
-          "It records: “This is what the Lord God let me see: and I saw a basket of summe...”",
+          "It records: “Then the Lord God showed another vision to me. I saw a basket wit...”",
           "It begins with a prayer of thanksgiving for deliverance in Amos",
           "It opens with a formal census and counting of the congregation",
           "It records a severe judgment pronounced against neighboring nations"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "It records: “This is what the Lord God let me see: and I saw a basket of summe...”",
+        "correctAnswer": "It records: “Then the Lord God showed another vision to me. I saw a basket wit...”",
         "reference": "Amos 8:1",
-        "explanation": "The chapter begins directly with the statement: 'This is what the Lord God let me see: and I saw a basket of summer fruit.'."
+        "explanation": "The chapter begins directly with the statement: 'Then the Lord God showed another vision to me. I saw a basket with summer fruit in it.'."
       },
       {
         "id": "amo-8-q2",
         "questionNumber": 2,
         "question": "What key instruction, event, or declaration is set forth in Amos 8:2?",
         "options": [
-          "“Saying, When will the new moon be gone, so...”",
-          "“And he said, Amos, what do you see? And I said,...”",
-          "“And it will come about in that day, says...”",
+          "“You say to yourselves, ‘We want the new moon...”",
+          "“He asked me, ‘Amos, what do you see?’ I answered him,...”",
+          "“The Lord God says, ‘At that time, I will...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“And he said, Amos, what do you see? And I said,...”",
+        "correctAnswer": "“He asked me, ‘Amos, what do you see?’ I answered him,...”",
         "reference": "Amos 8:2",
-        "explanation": "Amos 8:2 records: 'And he said, Amos, what do you see? And I said, A basket of summer fruit. Then the Lord said to me, The end has come to my people Israel; never again will my eyes be shut to their sin.'."
+        "explanation": "Amos 8:2 records: 'He asked me, ‘Amos, what do you see?’ I answered him, ‘I see a basket of summer fruit.’ Then the Lord said to me, ‘The time has now come to punish my people. I will not forgive them any longer.'."
       },
       {
         "id": "amo-8-q3",
         "questionNumber": 3,
         "question": "What significant action or revelation occurs in Amos 8:3?",
         "options": [
-          "“Getting the poor for silver, and him who is...”",
-          "“Your feasts will be turned into sorrow and all...”",
-          "“And the songs of the king's house will be cries of...”",
+          "“When poor people cannot pay their debts, you buy...”",
+          "“Your parties will become funerals. You will not sing...”",
+          "“On the day that I come to punish them, people will...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“And the songs of the king's house will be cries of...”",
+        "correctAnswer": "“On the day that I come to punish them, people will...”",
         "reference": "Amos 8:3",
-        "explanation": "Amos 8:3 records: 'And the songs of the king's house will be cries of pain in that day, says the Lord God: great will be the number of the dead bodies, and everywhere they will put them out without a word.'."
+        "explanation": "Amos 8:3 records: 'On the day that I come to punish them, people will not sing in the temple. Instead, they will weep loudly. There will be dead bodies everywhere. Be quiet now!’ That is what the Lord God says.'."
       },
       {
         "id": "amo-8-q4",
         "questionNumber": 4,
         "question": "What truth or description is highlighted in Amos 8:4?",
         "options": [
-          "“The Lord has taken an oath by the pride...”",
-          "“See, the days are coming, says the Lord God,...”",
+          "“The Lord has promised this: ‘You proud descendants of...”",
+          "“The Lord God says, ‘Listen to me! At that...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“Give ear to this, you who are crushing the poor, and...”"
+          "“So listen to me, you who are cruel to helpless people....”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“Give ear to this, you who are crushing the poor, and...”",
+        "correctAnswer": "“So listen to me, you who are cruel to helpless people....”",
         "reference": "Amos 8:4",
-        "explanation": "Amos 8:4 records: 'Give ear to this, you who are crushing the poor, and whose purpose is to put an end to those who are in need in the land,'."
+        "explanation": "Amos 8:4 records: 'So listen to me, you who are cruel to helpless people. You try to destroy people who are poor and weak.'."
       },
       {
         "id": "amo-8-q5",
         "questionNumber": 5,
         "question": "According to the text, what happened or was commanded in Amos 8:5?",
         "options": [
-          "“Saying, When will the new moon be gone, so that we...”",
-          "“Will not the land be shaking with fear because...”",
-          "“And they will go wandering from sea to sea,...”",
+          "“You say to yourselves, ‘We want the new moon festival to...”",
+          "“The whole country will shake because of your sins....”",
+          "“People will travel everywhere in the country, north and...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“Saying, When will the new moon be gone, so that we...”",
+        "correctAnswer": "“You say to yourselves, ‘We want the new moon festival to...”",
         "reference": "Amos 8:5",
-        "explanation": "Amos 8:5 records: 'Saying, When will the new moon be gone, so that we may do trade in grain? and the Sabbath, so that we may put out in the market the produce of our fields? making the measure small and the price great, and trading falsely with scales of deceit;'."
+        "explanation": "Amos 8:5 records: 'You say to yourselves, ‘We want the new moon festival to finish so that we can sell food again. We want our Sabbath day of rest to finish so that we can sell grain.’ But when you sell things, you cheat the people who buy from you. You deceive them with false weights, and you make the price too high.'."
       },
       {
         "id": "amo-8-q6",
         "questionNumber": 6,
         "question": "What central message or instruction is delivered in Amos 8:6?",
         "options": [
-          "“And it will come about in that day, says...”",
-          "“Getting the poor for silver, and him who is in need...”",
-          "“In that day the fair virgins and the young...”",
+          "“The Lord God says, ‘At that time, I will...”",
+          "“When poor people cannot pay their debts, you buy them as...”",
+          "“At that time, your beautiful young women and your...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“Getting the poor for silver, and him who is in need...”",
+        "correctAnswer": "“When poor people cannot pay their debts, you buy them as...”",
         "reference": "Amos 8:6",
-        "explanation": "Amos 8:6 records: 'Getting the poor for silver, and him who is in need for the price of two shoes, and taking a price for the waste parts of the grain.'."
+        "explanation": "Amos 8:6 records: 'When poor people cannot pay their debts, you buy them as your slaves. You pay a silver coin to buy them, which would not even buy a pair of shoes. You also mix dust with the grain that you sell.'."
       },
       {
         "id": "amo-8-q7",
         "questionNumber": 7,
         "question": "What detail regarding God's work, covenant, or people is given in Amos 8:7?",
         "options": [
-          "“Your feasts will be turned into sorrow and all...”",
-          "“This is what the Lord God let me see:...”",
-          "“The Lord has taken an oath by the pride of Jacob,...”",
+          "“Your parties will become funerals. You will not sing...”",
+          "“Then the Lord God showed another vision to me....”",
+          "“The Lord has promised this: ‘You proud descendants of Jacob, I...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“The Lord has taken an oath by the pride of Jacob,...”",
+        "correctAnswer": "“The Lord has promised this: ‘You proud descendants of Jacob, I...”",
         "reference": "Amos 8:7",
-        "explanation": "Amos 8:7 records: 'The Lord has taken an oath by the pride of Jacob, Truly I will ever keep in mind all their works.'."
+        "explanation": "Amos 8:7 records: 'The Lord has promised this: ‘You proud descendants of Jacob, I will never forget the wrong things that you have done.'."
       },
       {
         "id": "amo-8-q8",
         "questionNumber": 8,
         "question": "What phrase or account is recorded in Amos 8:8?",
         "options": [
-          "“See, the days are coming, says the Lord God,...”",
-          "“This is what the Lord God let me see:...”",
+          "“The Lord God says, ‘Listen to me! At that...”",
+          "“Then the Lord God showed another vision to me....”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“Will not the land be shaking with fear because of this,...”"
+          "“The whole country will shake because of your sins. Everyone who...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“Will not the land be shaking with fear because of this,...”",
+        "correctAnswer": "“The whole country will shake because of your sins. Everyone who...”",
         "reference": "Amos 8:8",
-        "explanation": "Amos 8:8 records: 'Will not the land be shaking with fear because of this, and everyone in it have sorrow? and all of it will be overflowing like the River; and it will be troubled and go down again like the River of Egypt.'."
+        "explanation": "Amos 8:8 records: 'The whole country will shake because of your sins. Everyone who lives there will weep. The ground will rise up, like the floods of the Nile River in Egypt. Then it will go down again, like the water of the Nile.’'."
       },
       {
         "id": "amo-8-q9",
         "questionNumber": 9,
         "question": "How does the passage describe the circumstances or people in Amos 8:9?",
         "options": [
-          "“And it will come about in that day, says the Lord...”",
-          "“And they will go wandering from sea to sea,...”",
-          "“And he said, Amos, what do you see? And...”",
+          "“The Lord God says, ‘At that time, I will make the...”",
+          "“People will travel everywhere in the country, north and...”",
+          "“He asked me, ‘Amos, what do you see?’ I...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“And it will come about in that day, says the Lord...”",
+        "correctAnswer": "“The Lord God says, ‘At that time, I will make the...”",
         "reference": "Amos 8:9",
-        "explanation": "Amos 8:9 records: 'And it will come about in that day, says the Lord God, that I will make the sun go down in the middle of the day, and I will make the earth dark in daylight:'."
+        "explanation": "Amos 8:9 records: 'The Lord God says, ‘At that time, I will make the sun go down at noon. I will make the earth become dark in the daytime.'."
       },
       {
         "id": "amo-8-q10",
         "questionNumber": 10,
         "question": "In the concluding portion of the chapter, what takes place in Amos 8:10?",
         "options": [
-          "“In that day the fair virgins and the young...”",
-          "“Your feasts will be turned into sorrow and all your melody...”",
-          "“And the songs of the king's house will be...”",
+          "“At that time, your beautiful young women and your...”",
+          "“Your parties will become funerals. You will not sing happy songs...”",
+          "“On the day that I come to punish them,...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“Your feasts will be turned into sorrow and all your melody...”",
+        "correctAnswer": "“Your parties will become funerals. You will not sing happy songs...”",
         "reference": "Amos 8:10",
-        "explanation": "Amos 8:10 records: 'Your feasts will be turned into sorrow and all your melody into songs of grief; everyone will be clothed with haircloth, and the hair of every head will be cut; I will make the weeping like that for an only son, and the end of it like a bitter day.'."
+        "explanation": "Amos 8:10 records: 'Your parties will become funerals. You will not sing happy songs but you will weep. You will wear sackcloth and you will cut off all your hair. You will be as sad as if your only son had died. That will be a very bad day for you.’'."
       }
     ],
     "9": [
@@ -1227,150 +1224,150 @@
         "questionNumber": 1,
         "question": "According to Amos 9:1, what is the opening statement or setting of this chapter?",
         "options": [
-          "It records: “I saw the Lord stationed by the side of the altar, giving blows t...”",
+          "It records: “Then I saw a vision of the Lord. He was standing beside the altar...”",
           "It begins with a prayer of thanksgiving for deliverance in Amos",
           "It opens with a formal census and counting of the congregation",
           "It records a severe judgment pronounced against neighboring nations"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "It records: “I saw the Lord stationed by the side of the altar, giving blows t...”",
+        "correctAnswer": "It records: “Then I saw a vision of the Lord. He was standing beside the altar...”",
         "reference": "Amos 9:1",
-        "explanation": "The chapter begins directly with the statement: 'I saw the Lord stationed by the side of the altar, giving blows to the tops of the pillars so that the doorsteps were shaking: and he said, I will let all of them be broken with earth-shocks; I will put the last of them to the sword: if any one of them goes in flight he will not get away, not one of them will be safe.'."
+        "explanation": "The chapter begins directly with the statement: 'Then I saw a vision of the Lord. He was standing beside the altar in the temple. The Lord said, ‘Hit the tops of the pillars so that the whole foundation shakes! Cause the building to fall on the heads of all the people. If anyone is still alive after that, I will cause them to die in battle. Nobody will escape!'."
       },
       {
         "id": "amo-9-q2",
         "questionNumber": 2,
         "question": "What key instruction, event, or declaration is set forth in Amos 9:2?",
         "options": [
-          "“For the Lord, the God of armies, is he...”",
-          "“Even if they go deep into the underworld, my hand will...”",
-          "“For see, I will give orders, and I will...”",
+          "“The Lord God Almighty will do this! When he...”",
+          "“They might try to dig deep into the earth to save...”",
+          "“‘Listen to me! I will cause trouble to come...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“Even if they go deep into the underworld, my hand will...”",
+        "correctAnswer": "“They might try to dig deep into the earth to save...”",
         "reference": "Amos 9:2",
-        "explanation": "Amos 9:2 records: 'Even if they go deep into the underworld, my hand will take them up from there; if they go up to heaven, I will get them down:'."
+        "explanation": "Amos 9:2 records: 'They might try to dig deep into the earth to save themselves. But my strong hand will pull them out of there. They might climb up into the sky. But I will pull them down from there.'."
       },
       {
         "id": "amo-9-q3",
         "questionNumber": 3,
         "question": "What significant action or revelation occurs in Amos 9:3?",
         "options": [
-          "“It is he who makes his rooms in the...”",
-          "“All those sinners among my people will be put...”",
-          "“Though they take cover on the top of Carmel, I will...”",
+          "“The Lord builds his palace up into heaven, with...”",
+          "“Those among my people who do bad things will...”",
+          "“They might try to hide on the top of Mount Carmel....”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“Though they take cover on the top of Carmel, I will...”",
+        "correctAnswer": "“They might try to hide on the top of Mount Carmel....”",
         "reference": "Amos 9:3",
-        "explanation": "Amos 9:3 records: 'Though they take cover on the top of Carmel, I will go in search of them and get them out; though they keep themselves from my eyes in the bed of the sea, I will give orders to the great snake there and he will give them a bite:'."
+        "explanation": "Amos 9:3 records: 'They might try to hide on the top of Mount Carmel. But I will find them and I will take them from there. They might try to hide from me deep down in the sea. But I will command the great sea snake to bite them.'."
       },
       {
         "id": "amo-9-q4",
         "questionNumber": 4,
         "question": "What truth or description is highlighted in Amos 9:4?",
         "options": [
-          "“Are you not as the children of the Ethiopians...”",
-          "“In that day I will put up the tent...”",
+          "“The Lord says, ‘You Israelite people, do not think...”",
+          "“The Lord says, ‘When that time comes, I will...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“And though they are taken away as prisoners by their attackers,...”"
+          "“Even when their enemies take them away as prisoners, I will...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“And though they are taken away as prisoners by their attackers,...”",
+        "correctAnswer": "“Even when their enemies take them away as prisoners, I will...”",
         "reference": "Amos 9:4",
-        "explanation": "Amos 9:4 records: 'And though they are taken away as prisoners by their attackers, even there will I give orders to the sword to put them to death: my eyes will be fixed on them for evil and not for good.'."
+        "explanation": "Amos 9:4 records: 'Even when their enemies take them away as prisoners, I will cause them to die in battle. I have decided to destroy them. I will not help them.’'."
       },
       {
         "id": "amo-9-q5",
         "questionNumber": 5,
         "question": "According to the text, what happened or was commanded in Amos 9:5?",
         "options": [
-          "“For the Lord, the God of armies, is he at whose...”",
-          "“See, the eyes of the Lord are on the...”",
-          "“So that the rest of Edom may be their...”",
+          "“The Lord God Almighty will do this! When he touches the...”",
+          "“I, the Lord God, am carefully watching you Israelites....”",
+          "“You Israelites will fight the Edomites who still remain....”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“For the Lord, the God of armies, is he at whose...”",
+        "correctAnswer": "“The Lord God Almighty will do this! When he touches the...”",
         "reference": "Amos 9:5",
-        "explanation": "Amos 9:5 records: 'For the Lord, the God of armies, is he at whose touch the land is turned to water, and everyone in it will be given up to sorrow; all of it will be overflowing like the River, and will go down again like the River of Egypt;'."
+        "explanation": "Amos 9:5 records: 'The Lord God Almighty will do this! When he touches the earth, it shakes. Everyone who lives there weeps. The ground rises up, like the water of the Nile River in Egypt. Then it goes down again, like the river.'."
       },
       {
         "id": "amo-9-q6",
         "questionNumber": 6,
         "question": "What central message or instruction is delivered in Amos 9:6?",
         "options": [
-          "“For see, I will give orders, and I will...”",
-          "“It is he who makes his rooms in the heaven, basing...”",
-          "“See, the days will come, says the Lord, when...”",
+          "“‘Listen to me! I will cause trouble to come...”",
+          "“The Lord builds his palace up into heaven, with its foundation...”",
+          "“The Lord says, ‘The time will come when food...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“It is he who makes his rooms in the heaven, basing...”",
+        "correctAnswer": "“The Lord builds his palace up into heaven, with its foundation...”",
         "reference": "Amos 9:6",
-        "explanation": "Amos 9:6 records: 'It is he who makes his rooms in the heaven, basing his arch on the earth; whose voice goes out to the waters of the sea, and sends them flowing over the face of the earth; the Lord is his name.'."
+        "explanation": "Amos 9:6 records: 'The Lord builds his palace up into heaven, with its foundation on the earth. He takes up the water from the sea, and he pours it out on the earth as rain. The Lord is his name. 7 The Lord says, ‘You Israelite people, do not think that you are more important to me than the people of Ethiopia. It is true that I led you safely out of Egypt. But I also brought the Philistines from Crete. And I brought the Aramean people from Kir. 8 I, the Lord God, am carefully watching you Israelites. I see that you are a wicked nation, so I will remove you from the earth. But I will not completely destroy all the descendants of Jacob.’ That is what the Lord says.9:7 9 ‘Listen to me! I will cause trouble to come to Israel's family, as they live among other nations. It will be like a person who shakes a sieve to remove dirt from grain. 10 Those among my people who do bad things will die. They say, “God will not send trouble to us. Nothing bad will happen to us.” But their enemies will kill those bad people in war.’9:9Israel will become a strong kingdom again 11 The Lord says, ‘When that time comes, I will make David's kingdom strong again. It has become like a broken hut, but I will repair it. I will cause it to become as good and strong as it was when King David ruled. 12 You Israelites will fight the Edomites who still remain. You will win against them and the other nations that once belonged to me.’9:12That is what the Lord says, and he will do it. 13 The Lord says, ‘The time will come when food will grow very well in your fields. People will need to work quickly to cut down all their crops before they plough the ground to plant again. Lots of grapes will grow on your vines. People will work quickly to make wine from the grapes before they plant new vines. So much juice will pour out of the grapes that it will run down the hills! 14 I will bring the people of Israel, my people, back to their own land. Enemies destroyed their cities, but now my people will build them again. They will live safely in them. My people will plant vines. They will drink wine from their grapes. They will eat the fruit from trees that they have planted in their gardens. 15 And I will plant my people in their own land. That is the land that I have given to them, and nobody will ever pull them out of that land.’That is what the Lord your God says.'."
       },
       {
         "id": "amo-9-q7",
         "questionNumber": 7,
         "question": "What detail regarding God's work, covenant, or people is given in Amos 9:7?",
         "options": [
-          "“All those sinners among my people will be put...”",
-          "“And I will let the fate of my people...”",
-          "“Are you not as the children of the Ethiopians to me,...”",
+          "“Those among my people who do bad things will...”",
+          "“I will bring the people of Israel, my people,...”",
+          "“The Lord says, ‘You Israelite people, do not think that you...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“Are you not as the children of the Ethiopians to me,...”",
+        "correctAnswer": "“The Lord says, ‘You Israelite people, do not think that you...”",
         "reference": "Amos 9:7",
-        "explanation": "Amos 9:7 records: 'Are you not as the children of the Ethiopians to me, O children of Israel? says the Lord. Have I not taken Israel up out of the land of Egypt, and the Philistines from Caphtor, and the Aramaeans from Kir?'."
+        "explanation": "Amos 9:7 records: 'The Lord says, ‘You Israelite people, do not think that you are more important to me than the people of Ethiopia. It is true that I led you safely out of Egypt. But I also brought the Philistines from Crete. And I brought the Aramean people from Kir.'."
       },
       {
         "id": "amo-9-q8",
         "questionNumber": 8,
         "question": "What phrase or account is recorded in Amos 9:8?",
         "options": [
-          "“In that day I will put up the tent...”",
-          "“I saw the Lord stationed by the side of...”",
+          "“The Lord says, ‘When that time comes, I will...”",
+          "“Then I saw a vision of the Lord. He...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“See, the eyes of the Lord are on the evil kingdom,...”"
+          "“I, the Lord God, am carefully watching you Israelites. I see...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“See, the eyes of the Lord are on the evil kingdom,...”",
+        "correctAnswer": "“I, the Lord God, am carefully watching you Israelites. I see...”",
         "reference": "Amos 9:8",
-        "explanation": "Amos 9:8 records: 'See, the eyes of the Lord are on the evil kingdom, and I will put an end to it in all the earth; but I will not send complete destruction on Jacob, says the Lord.'."
+        "explanation": "Amos 9:8 records: 'I, the Lord God, am carefully watching you Israelites. I see that you are a wicked nation, so I will remove you from the earth. But I will not completely destroy all the descendants of Jacob.’ That is what the Lord says.'."
       },
       {
         "id": "amo-9-q9",
         "questionNumber": 9,
         "question": "How does the passage describe the circumstances or people in Amos 9:9?",
         "options": [
-          "“For see, I will give orders, and I will have Israel...”",
-          "“So that the rest of Edom may be their...”",
-          "“I saw the Lord stationed by the side of...”",
+          "“‘Listen to me! I will cause trouble to come to Israel's...”",
+          "“You Israelites will fight the Edomites who still remain....”",
+          "“Then I saw a vision of the Lord. He...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“For see, I will give orders, and I will have Israel...”",
+        "correctAnswer": "“‘Listen to me! I will cause trouble to come to Israel's...”",
         "reference": "Amos 9:9",
-        "explanation": "Amos 9:9 records: 'For see, I will give orders, and I will have Israel moved about among all the nations, as grain is moved about by the shaking of the tray, but not the smallest seed will be dropped on the earth.'."
+        "explanation": "Amos 9:9 records: '‘Listen to me! I will cause trouble to come to Israel's family, as they live among other nations. It will be like a person who shakes a sieve to remove dirt from grain.'."
       },
       {
         "id": "amo-9-q10",
         "questionNumber": 10,
         "question": "In the concluding portion of the chapter, what takes place in Amos 9:10?",
         "options": [
-          "“See, the days will come, says the Lord, when...”",
-          "“All those sinners among my people will be put to the...”",
-          "“Even if they go deep into the underworld, my...”",
+          "“The Lord says, ‘The time will come when food...”",
+          "“Those among my people who do bad things will die. They...”",
+          "“They might try to dig deep into the earth...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“All those sinners among my people will be put to the...”",
+        "correctAnswer": "“Those among my people who do bad things will die. They...”",
         "reference": "Amos 9:10",
-        "explanation": "Amos 9:10 records: 'All those sinners among my people will be put to the sword who say, Evil will not overtake us or come face to face with us.'."
+        "explanation": "Amos 9:10 records: 'Those among my people who do bad things will die. They say, “God will not send trouble to us. Nothing bad will happen to us.” But their enemies will kill those bad people in war.’'."
       }
     ]
   }

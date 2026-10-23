@@ -1,453 +1,322 @@
 {
-  "translation": "EasyEnglish Bible",
-  "book": "Titus",
-  "bookId": "TIT",
+  "id": "TIT",
+  "name": "Titus",
+  "slug": "titus",
+  "translation": "EasyEnglish Bible (EASY)",
+  "publisher": "MissionAssist UK",
+  "referenceUrl": "https://www.easyenglish.bible/bible/easy/titus/",
   "totalChapters": 3,
-  "copyrightNotice": "Scripture quotations are from the EasyEnglish Bible / Bible in Basic English. Public Domain.",
-  "officialSourceUrl": "https://www.easyenglish.bible/bible/easy/titus/1/",
+  "totalVerses": 46,
   "chapters": [
     {
-      "book": "Titus",
       "chapter": 1,
       "title": "Titus 1",
-      "subtitle": "Titus Chapter 1",
+      "subtitle": "",
+      "totalVerses": 16,
+      "sourceUrl": "https://www.easyenglish.bible/bible/easy/titus/1/",
       "sections": [
         {
-          "heading": "Titus Chapter 1",
+          "heading": "Paul writes a letter to Titus",
           "items": [
             [
               {
                 "verse": 1,
-                "text": "Paul, a servant of God, and an Apostle of Jesus Christ, in agreement with the faith of the saints of God and the full knowledge of what is true in harmony with religion,"
+                "text": "This letter is from me, Paul. I am God's servant and an apostle of Jesus Christ. God has sent me to help the people that he has chosen. I teach them to understand his true message and to trust him. As a result they will live in a way that pleases God."
               },
               {
                 "verse": 2,
-                "text": "In the hope of eternal life, which was made certain before eternal time, by the word of God who is ever true;"
+                "text": "They will also be sure that they will live with God for ever. Before the world began, God promised that his people would have life with him. And God never tells lies."
               },
               {
                 "verse": 3,
-                "text": "Who, in his time, made clear his word in the good news, of which, by the order of God our Saviour, I became a preacher;"
-              },
-              {
-                "verse": 4,
-                "text": "To Titus, my true child in our common faith: Grace and peace from God the Father and Christ Jesus our Saviour."
+                "text": "God is the one who saves us. Now, at the proper time, he has made his message clear. He has given his message to me so that I can tell it to people. That is what he has told me to do."
               }
             ],
+            [
+              {
+                "verse": 4,
+                "text": "I am writing to you, Titus. I told you the message about Jesus and now we both believe in him. So you are like my own child."
+              }
+            ],
+            [
+              {
+                "verse": 4,
+                "text": "I pray that God the Father and Christ Jesus our Saviour will continue to help you. I pray that they will give you peace in your mind."
+              }
+            ]
+          ]
+        },
+        {
+          "heading": "Teaching about leaders in the church",
+          "items": [
             [
               {
                 "verse": 5,
-                "text": "I did not take you with me when I went away from Crete, so that you might do what was necessary to put things in order there, placing men in authority over the churches in every town, as I said to you;"
-              },
-              {
-                "verse": 6,
-                "text": "Men having a good record, husbands of one wife, whose children are of the faith, children of whom it may not be said that they are given to loose living or are uncontrolled."
-              },
-              {
-                "verse": 7,
-                "text": "For it is necessary for a Bishop to be a man of virtue, as God's servant; not pushing himself forward, not quickly moved to wrath or blows, not desiring profit for himself;"
-              },
-              {
-                "verse": 8,
-                "text": "But opening his house freely to guests; a lover of what is good, serious-minded, upright, holy, self-controlled;"
+                "text": "I left you in Crete so that you could finish certain things. You should make right some things that were wrong. And you should choose leaders of the believers in every town, as I told you."
               }
             ],
             [
               {
-                "verse": 9,
-                "text": "Keeping to the true word of the teaching, so that he may be able to give comfort by right teaching and overcome the arguments of the doubters."
+                "verse": 6,
+                "text": "This is what a leader in the church must be like. Nobody should have a reason to say that he has done something wrong. He must be the husband of only one wife. He must have children who respect him. Nobody should say that they enjoy bad things or that they do not obey their parents."
               },
               {
+                "verse": 7,
+                "text": "A leader in the church serves the believers on God's behalf. Because of that, nobody should have a reason to say that the leader has done anything wrong. A leader must not be proud. He must not become angry easily. He should not like to drink too much wine. He must not be someone who likes to fight. He must not want to get a lot of money for himself."
+              }
+            ],
+            [
+              {
+                "verse": 8,
+                "text": "Instead, a leader in the church must be happy to have visitors in his home. He must want to do good things. He must be careful in how he lives. He must do what is right. He must want to serve God well. He must control himself well."
+              },
+              {
+                "verse": 9,
+                "text": "He must continue to believe the true message very well. That is the message which we have taught. Then he will be able to teach people what is true and right. He will also show that people who speak against the true message are wrong."
+              }
+            ]
+          ]
+        },
+        {
+          "heading": "The danger of false teachers",
+          "items": [
+            [
+              {
                 "verse": 10,
-                "text": "For there are men who are not ruled by law; foolish talkers, false teachers, specially those of the circumcision,"
+                "text": "I say this because there are many people who refuse to obey their leaders. They speak about useless things and they deceive people. Many of them want the believers to obey all the Jewish rules."
               },
               {
                 "verse": 11,
-                "text": "By whom some families have been completely overturned; who take money for teaching things which are not right; these will have to be stopped."
+                "text": "You must stop those people from teaching false things like that. They are causing whole families to believe their lies. They teach things that they should not teach. They deceive people because they want people to give them money."
               },
               {
                 "verse": 12,
-                "text": "One of their prophets has said, The men of Crete are ever false, evil beasts, lovers of food, hating work."
+                "text": "Many years ago, there was a certain man who lived on Crete. The people there called him their prophet. Even he said, ‘People who live on Crete are always telling lies and doing wicked things. They are lazy and they eat too much food.’"
               }
             ],
             [
               {
                 "verse": 13,
-                "text": "This witness is true. So say sharp words to them so that they may come to the right faith,"
+                "text": "What that man said is true. So you must warn the people there. Help them to believe the true message about Jesus more and more."
               },
               {
                 "verse": 14,
-                "text": "Giving no attention to the fictions of the Jews and the rules of men who have no true knowledge."
-              },
+                "text": "They must not listen to Jewish stories or to human rules. Those things are the ideas of people who refuse to obey God's true message."
+              }
+            ],
+            [
               {
                 "verse": 15,
-                "text": "To the clean in heart all things are clean: but to those who are unclean and without faith nothing is clean; they become unclean in mind and in thought."
+                "text": "If someone is clean and good inside, everything is clean and good for them to enjoy. But if someone is not a believer and has an unclean mind, nothing is clean or good for that person. Their minds no longer think properly. They no longer feel guilty when they do something wrong."
               },
               {
                 "verse": 16,
-                "text": "They say that they have knowledge of God, while by their acts they are turning their backs on him; they are hated by all, hard-hearted, and judged to be without value for any good work."
+                "text": "People like that say that they know God. But they do disgusting things. This shows that they do not know him. They are completely bad. They refuse to obey God. They are not able to do anything good."
               }
             ]
           ]
         }
       ],
-      "verses": [
-        {
-          "verse": 1,
-          "text": "Paul, a servant of God, and an Apostle of Jesus Christ, in agreement with the faith of the saints of God and the full knowledge of what is true in harmony with religion,"
-        },
-        {
-          "verse": 2,
-          "text": "In the hope of eternal life, which was made certain before eternal time, by the word of God who is ever true;"
-        },
-        {
-          "verse": 3,
-          "text": "Who, in his time, made clear his word in the good news, of which, by the order of God our Saviour, I became a preacher;"
-        },
-        {
-          "verse": 4,
-          "text": "To Titus, my true child in our common faith: Grace and peace from God the Father and Christ Jesus our Saviour."
-        },
-        {
-          "verse": 5,
-          "text": "I did not take you with me when I went away from Crete, so that you might do what was necessary to put things in order there, placing men in authority over the churches in every town, as I said to you;"
-        },
-        {
-          "verse": 6,
-          "text": "Men having a good record, husbands of one wife, whose children are of the faith, children of whom it may not be said that they are given to loose living or are uncontrolled."
-        },
-        {
-          "verse": 7,
-          "text": "For it is necessary for a Bishop to be a man of virtue, as God's servant; not pushing himself forward, not quickly moved to wrath or blows, not desiring profit for himself;"
-        },
-        {
-          "verse": 8,
-          "text": "But opening his house freely to guests; a lover of what is good, serious-minded, upright, holy, self-controlled;"
-        },
-        {
-          "verse": 9,
-          "text": "Keeping to the true word of the teaching, so that he may be able to give comfort by right teaching and overcome the arguments of the doubters."
-        },
-        {
-          "verse": 10,
-          "text": "For there are men who are not ruled by law; foolish talkers, false teachers, specially those of the circumcision,"
-        },
-        {
-          "verse": 11,
-          "text": "By whom some families have been completely overturned; who take money for teaching things which are not right; these will have to be stopped."
-        },
-        {
-          "verse": 12,
-          "text": "One of their prophets has said, The men of Crete are ever false, evil beasts, lovers of food, hating work."
-        },
-        {
-          "verse": 13,
-          "text": "This witness is true. So say sharp words to them so that they may come to the right faith,"
-        },
-        {
-          "verse": 14,
-          "text": "Giving no attention to the fictions of the Jews and the rules of men who have no true knowledge."
-        },
-        {
-          "verse": 15,
-          "text": "To the clean in heart all things are clean: but to those who are unclean and without faith nothing is clean; they become unclean in mind and in thought."
-        },
-        {
-          "verse": 16,
-          "text": "They say that they have knowledge of God, while by their acts they are turning their backs on him; they are hated by all, hard-hearted, and judged to be without value for any good work."
-        }
-      ],
-      "totalVerses": 16,
-      "footnotes": []
+      "notes": [
+        "‘children whorespecthim’ or ‘children who are believers’.",
+        "Some Jewish Christians taught that believers must becircumcised."
+      ]
     },
     {
-      "book": "Titus",
       "chapter": 2,
       "title": "Titus 2",
-      "subtitle": "Titus Chapter 2",
+      "subtitle": "",
+      "totalVerses": 15,
+      "sourceUrl": "https://www.easyenglish.bible/bible/easy/titus/2/",
       "sections": [
         {
-          "heading": "Titus Chapter 2",
+          "heading": "Titus must teach God's true message well",
           "items": [
             [
               {
                 "verse": 1,
-                "text": "But let your words be in agreement with true and right teaching:"
+                "text": "But as for you, Titus, you must teach people to do what is right. Teach them only the things that belong to God's true message."
               },
               {
                 "verse": 2,
-                "text": "That old men are to be simple in their tastes, serious, wise, true in faith, in love, and of a quiet mind."
-              },
-              {
-                "verse": 3,
-                "text": "That old women are to be self-respecting in behaviour, not saying evil of others, not given to taking much wine, teachers of that which is good,"
-              },
-              {
-                "verse": 4,
-                "text": "Training the younger women to have love for their husbands and children,"
+                "text": "Tell the older men to control themselves properly. They must think carefully about how they live, so that people respect them. They must continue to believe in Christ. They must continue to love other people. They must continue to be patient and strong."
               }
             ],
             [
               {
-                "verse": 5,
-                "text": "To be wise in mind, clean in heart, kind; working in their houses, living under the authority of their husbands; so that no evil may be said of the word of God."
+                "verse": 3,
+                "text": "Also, tell the older women to live in a good way. Their lives must show that they respect God. They must not say bad things about other people. They must not be drunks. They must teach what is good."
               },
               {
+                "verse": 4,
+                "text": "In this way, they can teach the young women how they should live. As a result, the young women will love their husbands and their children."
+              },
+              {
+                "verse": 5,
+                "text": "The young women will control themselves well and be pure in how they live. They will be good housewives who are kind to other people. They will respect their husbands. If they live in a good way like that, nobody will be able to say bad things about God's message."
+              }
+            ],
+            [
+              {
                 "verse": 6,
-                "text": "To the young men give orders to be wise and serious-minded:"
+                "text": "As for the young men, tell them also to control themselves wisely in how they live."
               },
               {
                 "verse": 7,
-                "text": "In all things see that you are an example of good works; holy in your teaching, serious in behaviour,"
+                "text": "You yourself must always do good things too. In that way, you will show the young men how they should live. When you teach the believers, be honest and serious."
               },
               {
                 "verse": 8,
-                "text": "Saying true and right words, against which no protest may be made, so that he who is not on our side may be put to shame, unable to say any evil of us."
+                "text": "Teach a message that is correct, so that nobody can say anything against it. Then our enemies will be ashamed, because they cannot say anything bad about us."
               }
             ],
             [
               {
                 "verse": 9,
-                "text": "Servants are to be under the authority of their masters, pleasing them in all things, without argument;"
+                "text": "As for slaves, tell them to obey their masters always. They must not argue with their masters. Instead, they should work well to please their masters."
               },
               {
                 "verse": 10,
-                "text": "Not taking what is not theirs, but giving clear signs of their good faith, in all things doing credit to the teaching of God our Saviour."
-              },
+                "text": "Slaves must not take things that belong to their masters. Their masters must be able to trust them completely. Then people will respect the message that we teach about God, our Saviour."
+              }
+            ]
+          ]
+        },
+        {
+          "heading": "God gives believers a new life",
+          "items": [
+            [
               {
                 "verse": 11,
-                "text": "For the grace of God has come, giving salvation to all men,"
+                "text": "God has shown us clearly how very kind he is. He has come to save all people."
               },
               {
                 "verse": 12,
-                "text": "Training us so that, turning away from evil and the desires of this world, we may be living wisely and uprightly in the knowledge of God in this present life;"
+                "text": "Because God is kind, he teaches us to stop living in a bad way. We no longer do the bad things that do not make God happy. We turn away from the bad things that belong to this world. God teaches us to control ourselves wisely while we live in this world. He teaches us to do what is right. He teaches us to please him in the way that we live."
               }
             ],
             [
               {
                 "verse": 13,
-                "text": "Looking for the glad hope, the revelation of the glory of our great God and Saviour Jesus Christ;"
+                "text": "We are waiting for Jesus Christ to return to this world. When he comes, that will make us very happy. Everyone will see how great Jesus Christ is. He is our great God. He is the one who saves us from our sins."
               },
               {
                 "verse": 14,
-                "text": "Who gave himself for us, so that he might make us free from all wrongdoing, and make for himself a people clean in heart and on fire with good works."
-              },
+                "text": "He gave himself as a sacrifice on our behalf. He did that to make us free from every kind of bad thing. As a result, we can be completely good and clean inside ourselves. We can become his own special people, who want to do good things."
+              }
+            ],
+            [
               {
                 "verse": 15,
-                "text": "On all these points give teaching and help, and make clear what is right with all authority. Let all men give you honour."
+                "text": "You must teach these things to the believers. Help them to live in a good way. Warn them when they do wrong things. Use all the authority that you have as a leader in the church. Make sure that everyone respects you properly."
               }
             ]
           ]
         }
       ],
-      "verses": [
-        {
-          "verse": 1,
-          "text": "But let your words be in agreement with true and right teaching:"
-        },
-        {
-          "verse": 2,
-          "text": "That old men are to be simple in their tastes, serious, wise, true in faith, in love, and of a quiet mind."
-        },
-        {
-          "verse": 3,
-          "text": "That old women are to be self-respecting in behaviour, not saying evil of others, not given to taking much wine, teachers of that which is good,"
-        },
-        {
-          "verse": 4,
-          "text": "Training the younger women to have love for their husbands and children,"
-        },
-        {
-          "verse": 5,
-          "text": "To be wise in mind, clean in heart, kind; working in their houses, living under the authority of their husbands; so that no evil may be said of the word of God."
-        },
-        {
-          "verse": 6,
-          "text": "To the young men give orders to be wise and serious-minded:"
-        },
-        {
-          "verse": 7,
-          "text": "In all things see that you are an example of good works; holy in your teaching, serious in behaviour,"
-        },
-        {
-          "verse": 8,
-          "text": "Saying true and right words, against which no protest may be made, so that he who is not on our side may be put to shame, unable to say any evil of us."
-        },
-        {
-          "verse": 9,
-          "text": "Servants are to be under the authority of their masters, pleasing them in all things, without argument;"
-        },
-        {
-          "verse": 10,
-          "text": "Not taking what is not theirs, but giving clear signs of their good faith, in all things doing credit to the teaching of God our Saviour."
-        },
-        {
-          "verse": 11,
-          "text": "For the grace of God has come, giving salvation to all men,"
-        },
-        {
-          "verse": 12,
-          "text": "Training us so that, turning away from evil and the desires of this world, we may be living wisely and uprightly in the knowledge of God in this present life;"
-        },
-        {
-          "verse": 13,
-          "text": "Looking for the glad hope, the revelation of the glory of our great God and Saviour Jesus Christ;"
-        },
-        {
-          "verse": 14,
-          "text": "Who gave himself for us, so that he might make us free from all wrongdoing, and make for himself a people clean in heart and on fire with good works."
-        },
-        {
-          "verse": 15,
-          "text": "On all these points give teaching and help, and make clear what is right with all authority. Let all men give you honour."
-        }
-      ],
-      "totalVerses": 15,
-      "footnotes": []
+      "notes": [
+        "A good housewife takes care of the family and their home. She is a good wife for her husband. She is a good mother for her children."
+      ]
     },
     {
-      "book": "Titus",
       "chapter": 3,
       "title": "Titus 3",
-      "subtitle": "Titus Chapter 3",
+      "subtitle": "",
+      "totalVerses": 15,
+      "sourceUrl": "https://www.easyenglish.bible/bible/easy/titus/3/",
       "sections": [
         {
-          "heading": "Titus Chapter 3",
+          "heading": "Believers must be careful to do good things",
           "items": [
             [
               {
                 "verse": 1,
-                "text": "Make clear to them that they are to put themselves under rulers and authorities, to do what they are ordered, to be ready for every good work,"
+                "text": "Tell the believers there to respect the government and those who have authority. They must remember to obey their rulers. They must always be ready to help other people."
               },
               {
                 "verse": 2,
-                "text": "To say no evil of any man, not to be fighters, to give way to others, to be gentle in behaviour to all men."
-              },
-              {
-                "verse": 3,
-                "text": "For in the past we were foolish, hard in heart, turned from the true way, servants of evil desires and pleasures, living in bad feeling and envy, hated and hating one another."
-              },
-              {
-                "verse": 4,
-                "text": "But when the mercy of God our Saviour, and his love to man was seen,"
+                "text": "They must not say bad things about anyone. They must not argue with people. Instead, they should be kind. They should be careful to respect everyone."
               }
             ],
             [
               {
+                "verse": 3,
+                "text": "Before we believed in Christ, we ourselves were fools too. We did not obey God. We believed a false message. We wanted to do many kinds of bad things to make us happy. We could not stop doing them. Every day we did evil things. We were jealous of other people. People hated us, and we hated each other."
+              }
+            ],
+            [
+              {
+                "verse": 4,
+                "text": "But then God, our Saviour, showed clearly that he is very kind. He showed that he loves all people."
+              },
+              {
                 "verse": 5,
-                "text": "Not by works of righteousness which we did ourselves, but in the measure of his mercy, he gave us salvation, through the washing of the new birth and the giving of new life in the Holy Spirit,"
+                "text": "God did not save us because of any good things that we ourselves had done. He saved us because he chose to forgive us. God has washed us so that we are clean inside. We have been born again, so that we live a new life. God's Holy Spirit has done this for us."
               },
               {
                 "verse": 6,
-                "text": "Which he gave us freely through Jesus Christ our Saviour;"
+                "text": "Jesus Christ died as a sacrifice to save us. So now God has poured his Holy Spirit into us, to fill us."
               },
               {
                 "verse": 7,
-                "text": "So that, having been given righteousness through grace, we might have a part in the heritage, the hope of eternal life."
-              },
+                "text": "Because God is very kind, he has accepted us as right with himself. As a result, we know that we will receive the good things that God has prepared for us. We know that we will live with God for ever."
+              }
+            ],
+            [
               {
                 "verse": 8,
-                "text": "This is a true saying; and it is my desire that you may give certain witness about these things, so that those who have had faith in God may give attention to good works. These things are good and of profit to men;"
+                "text": "That message is certainly true. So you must teach people the things that I have said in this letter. Make sure that they understand them well. Then the people who have believed in God will be careful to do good things. Good things like that will help everyone."
               }
             ],
             [
               {
                 "verse": 9,
-                "text": "But have nothing to do with foolish questionings, and lists of generations, and fights and arguments about the law; for they are of no profit and foolish."
+                "text": "But stay away from people who argue about silly things. They study long lists of their families' names from years ago. Refuse to argue with people like that. Refuse to argue about the rules in God's Law. All those kinds of things have no value and they do not help anyone."
               },
               {
                 "verse": 10,
-                "text": "A man whose opinions are not those of the church, after a first and second protest, is to be kept out of your society;"
+                "text": "If someone teaches a false message that causes trouble, warn him. If you warn him twice and he still does not stop, stay away from him."
               },
               {
                 "verse": 11,
-                "text": "Clearly he is in error and a sinner, being self-judged."
-              },
+                "text": "You know that a person like that has chosen not to believe the true message. He knows that he is doing a bad thing, but he continues to do it."
+              }
+            ]
+          ]
+        },
+        {
+          "heading": "Paul finishes his letter",
+          "items": [
+            [
               {
                 "verse": 12,
-                "text": "When I send Artemas or Tychicus to you, do your best to come to me at Nicopolis: for it is my purpose to be there for the winter."
+                "text": "I will send either Artemas or Tychicus to you. After one of them has arrived, please come to meet me in Nicopolis. Come as quickly as you can. I have decided that I will stay in Nicopolis during the winter."
               }
             ],
             [
               {
                 "verse": 13,
-                "text": "Send Zenas, the man of law, and Apollos on their journey with all care, so that they may be in need of nothing."
+                "text": "Please help Zenas, the lawyer, and Apollos as much as you can. Make sure that they have everything that they need for their journey."
               },
               {
                 "verse": 14,
-                "text": "And let our people go on with good works for necessary purposes, so that they may not be without fruit."
-              },
+                "text": "Our Christian friends there must learn to do good things. They should supply things to people who need help. That will show that their lives are really useful."
+              }
+            ],
+            [
               {
                 "verse": 15,
-                "text": "All who are with me send you their love. Give our love to our friends in the faith. Grace be with you all."
+                "text": "Everyone who is here with me says ‘hello’ to you. Please say ‘hello’ on our behalf to the believers there who love us. I pray that God will continue to be very kind to all of you."
               }
             ]
           ]
         }
       ],
-      "verses": [
-        {
-          "verse": 1,
-          "text": "Make clear to them that they are to put themselves under rulers and authorities, to do what they are ordered, to be ready for every good work,"
-        },
-        {
-          "verse": 2,
-          "text": "To say no evil of any man, not to be fighters, to give way to others, to be gentle in behaviour to all men."
-        },
-        {
-          "verse": 3,
-          "text": "For in the past we were foolish, hard in heart, turned from the true way, servants of evil desires and pleasures, living in bad feeling and envy, hated and hating one another."
-        },
-        {
-          "verse": 4,
-          "text": "But when the mercy of God our Saviour, and his love to man was seen,"
-        },
-        {
-          "verse": 5,
-          "text": "Not by works of righteousness which we did ourselves, but in the measure of his mercy, he gave us salvation, through the washing of the new birth and the giving of new life in the Holy Spirit,"
-        },
-        {
-          "verse": 6,
-          "text": "Which he gave us freely through Jesus Christ our Saviour;"
-        },
-        {
-          "verse": 7,
-          "text": "So that, having been given righteousness through grace, we might have a part in the heritage, the hope of eternal life."
-        },
-        {
-          "verse": 8,
-          "text": "This is a true saying; and it is my desire that you may give certain witness about these things, so that those who have had faith in God may give attention to good works. These things are good and of profit to men;"
-        },
-        {
-          "verse": 9,
-          "text": "But have nothing to do with foolish questionings, and lists of generations, and fights and arguments about the law; for they are of no profit and foolish."
-        },
-        {
-          "verse": 10,
-          "text": "A man whose opinions are not those of the church, after a first and second protest, is to be kept out of your society;"
-        },
-        {
-          "verse": 11,
-          "text": "Clearly he is in error and a sinner, being self-judged."
-        },
-        {
-          "verse": 12,
-          "text": "When I send Artemas or Tychicus to you, do your best to come to me at Nicopolis: for it is my purpose to be there for the winter."
-        },
-        {
-          "verse": 13,
-          "text": "Send Zenas, the man of law, and Apollos on their journey with all care, so that they may be in need of nothing."
-        },
-        {
-          "verse": 14,
-          "text": "And let our people go on with good works for necessary purposes, so that they may not be without fruit."
-        },
-        {
-          "verse": 15,
-          "text": "All who are with me send you their love. Give our love to our friends in the faith. Grace be with you all."
-        }
-      ],
-      "totalVerses": 15,
-      "footnotes": []
+      "notes": [
+        "Tychicus was a man who had travelled with Paul. SeeActs 20:4;Ephesians 6:21-22;Colossians 4:7;2 Timothy 4:12.",
+        "Nicopolis was a city on the west coast of Greece.",
+        "A lawyer is someone who knows about the laws of the country where he lives."
+      ]
     }
   ]
 }

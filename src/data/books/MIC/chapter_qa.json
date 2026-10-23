@@ -1,9 +1,6 @@
 {
-  "book": "Micah",
   "bookId": "MIC",
-  "totalChapters": 7,
-  "totalQuestions": 70,
-  "questionsPerChapter": 10,
+  "bookName": "Micah",
   "chapters": {
     "1": [
       {
@@ -11,150 +8,150 @@
         "questionNumber": 1,
         "question": "According to Micah 1:1, what is the opening statement or setting of this chapter?",
         "options": [
-          "It records: “The word of the Lord which came to Micah the Morashtite, in the d...”",
+          "It records: “This is the message that the Lord gave to Micah, who was born in ...”",
           "It begins with a prayer of thanksgiving for deliverance in Micah",
           "It opens with a formal census and counting of the congregation",
           "It records a severe judgment pronounced against neighboring nations"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "It records: “The word of the Lord which came to Micah the Morashtite, in the d...”",
+        "correctAnswer": "It records: “This is the message that the Lord gave to Micah, who was born in ...”",
         "reference": "Micah 1:1",
-        "explanation": "The chapter begins directly with the statement: 'The word of the Lord which came to Micah the Morashtite, in the days of Jotham, Ahaz, and Hezekiah, kings of Judah: his vision about Samaria and Jerusalem.'."
+        "explanation": "The chapter begins directly with the statement: 'This is the message that the Lord gave to Micah, who was born in Moresheth. Micah told this message to the people when Jotham, Ahaz and Hezekiah ruled Judah as kings. God showed Micah what would happen to the cities of Samaria and Jerusalem.'."
       },
       {
         "id": "mic-1-q2",
         "questionNumber": 2,
         "question": "What key instruction, event, or declaration is set forth in Micah 1:2?",
         "options": [
-          "“All this is because of the wrongdoing of Jacob...”",
-          "“Give ear, you peoples, all of you; give attention, O earth...”",
-          "“For her wounds may not be made well: for...”",
+          "“All these things will happen because Jacob's descendants have...”",
+          "“Hear this, all you people of the world! Listen carefully, everyone...”",
+          "“Samaria has bad wounds that will not get better....”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“Give ear, you peoples, all of you; give attention, O earth...”",
+        "correctAnswer": "“Hear this, all you people of the world! Listen carefully, everyone...”",
         "reference": "Micah 1:2",
-        "explanation": "Micah 1:2 records: 'Give ear, you peoples, all of you; give attention, O earth and everything in it: let the Lord God be witness against you, the Lord from his holy Temple.'."
+        "explanation": "Micah 1:2 records: 'Hear this, all you people of the world! Listen carefully, everyone who lives on the earth! The Lord God will speak against you. From his home in heaven he will accuse you.'."
       },
       {
         "id": "mic-1-q3",
         "questionNumber": 3,
         "question": "What significant action or revelation occurs in Micah 1:3?",
         "options": [
-          "“So I will make Samaria into a field and...”",
-          "“Give no word of it in Gath, let there...”",
-          "“For see, the Lord is coming out from his place, and...”",
+          "“So the Lord says: ‘I will destroy Samaria so...”",
+          "“Do not let our enemies in Gath know about...”",
+          "“Look! The Lord is leaving his home! He is coming down...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“For see, the Lord is coming out from his place, and...”",
+        "correctAnswer": "“Look! The Lord is leaving his home! He is coming down...”",
         "reference": "Micah 1:3",
-        "explanation": "Micah 1:3 records: 'For see, the Lord is coming out from his place, and will come down, stepping on the high places of the earth.'."
+        "explanation": "Micah 1:3 records: 'Look! The Lord is leaving his home! He is coming down to march across the earth's high mountains.'."
       },
       {
         "id": "mic-1-q4",
         "questionNumber": 4,
         "question": "What truth or description is highlighted in Micah 1:4?",
         "options": [
-          "“And all her pictured images will be hammered into...”",
-          "“Be uncovered and go away, you who are living...”",
+          "“I will break all Samaria's idols into pieces. Fire...”",
+          "“You people who live in Shaphir, your enemies will...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“And the mountains will be turned to water under him, and...”"
+          "“The mountains will melt under his feet, like wax melts near...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“And the mountains will be turned to water under him, and...”",
+        "correctAnswer": "“The mountains will melt under his feet, like wax melts near...”",
         "reference": "Micah 1:4",
-        "explanation": "Micah 1:4 records: 'And the mountains will be turned to water under him, and the deep valleys will be broken open, like wax before the fire, like waters flowing down a slope.'."
+        "explanation": "Micah 1:4 records: 'The mountains will melt under his feet, like wax melts near a fire. The valleys will break apart. Rocks will pour down the hills like water.'."
       },
       {
         "id": "mic-1-q5",
         "questionNumber": 5,
         "question": "According to the text, what happened or was commanded in Micah 1:5?",
         "options": [
-          "“All this is because of the wrongdoing of Jacob and the...”",
-          "“For this I will be full of sorrow and...”",
-          "“For the one living in Maroth is waiting for...”",
+          "“All these things will happen because Jacob's descendants have refused to...”",
+          "“Because of this trouble, I will cry aloud and...”",
+          "“The people of Maroth hope for something good to...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“All this is because of the wrongdoing of Jacob and the...”",
+        "correctAnswer": "“All these things will happen because Jacob's descendants have refused to...”",
         "reference": "Micah 1:5",
-        "explanation": "Micah 1:5 records: 'All this is because of the wrongdoing of Jacob and the sins of the children of Israel. What is the wrongdoing of Jacob? is it not Samaria? and what are the high places of Judah? are they not Jerusalem?'."
+        "explanation": "Micah 1:5 records: 'All these things will happen because Jacob's descendants have refused to obey God. Yes, it is because of the sins of Israel's people. Who has caused Israel's people to turn against God? It is their leaders in the city of Samaria! Where are the places that Judah's people worship false gods? They are in the city of Jerusalem!'."
       },
       {
         "id": "mic-1-q6",
         "questionNumber": 6,
         "question": "What central message or instruction is delivered in Micah 1:6?",
         "options": [
-          "“For her wounds may not be made well: for...”",
-          "“So I will make Samaria into a field and the plantings...”",
-          "“Let the war-carriage be yoked to the quick-running horse,...”",
+          "“Samaria has bad wounds that will not get better....”",
+          "“So the Lord says: ‘I will destroy Samaria so that it...”",
+          "“You people of Lachish, get your horses and chariots...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“So I will make Samaria into a field and the plantings...”",
+        "correctAnswer": "“So the Lord says: ‘I will destroy Samaria so that it...”",
         "reference": "Micah 1:6",
-        "explanation": "Micah 1:6 records: 'So I will make Samaria into a field and the plantings of a vine-garden: I will send its stones falling down into the valley, uncovering its bases.'."
+        "explanation": "Micah 1:6 records: 'So the Lord says: ‘I will destroy Samaria so that it becomes a heap of stones in a field. People will plant vineyards there! I will throw the stones from the city walls down into the valley. I will completely destroy all the buildings.'."
       },
       {
         "id": "mic-1-q7",
         "questionNumber": 7,
         "question": "What detail regarding God's work, covenant, or people is given in Micah 1:7?",
         "options": [
-          "“Give no word of it in Gath, let there...”",
-          "“For this cause give a parting offering to Moresheth-gath:...”",
-          "“And all her pictured images will be hammered into bits, and...”",
+          "“Do not let our enemies in Gath know about...”",
+          "“You will have to say ‘goodbye’ to the people...”",
+          "“I will break all Samaria's idols into pieces. Fire will destroy...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“And all her pictured images will be hammered into bits, and...”",
+        "correctAnswer": "“I will break all Samaria's idols into pieces. Fire will destroy...”",
         "reference": "Micah 1:7",
-        "explanation": "Micah 1:7 records: 'And all her pictured images will be hammered into bits, and all the payments for her loose ways will be burned with fire, and all the images of her gods I will make waste: for with the price of a loose woman she got them together, and as the price of a loose woman will they be given back.'."
+        "explanation": "Micah 1:7 records: 'I will break all Samaria's idols into pieces. Fire will destroy all the gifts that the people offered to their false gods. I will destroy all the images of the gods that they worshipped. Samaria's people paid prostitutes at those places. Now enemies will come and they will take away this money. They will use the money to pay prostitutes in other places.’'."
       },
       {
         "id": "mic-1-q8",
         "questionNumber": 8,
         "question": "What phrase or account is recorded in Micah 1:8?",
         "options": [
-          "“Be uncovered and go away, you who are living...”",
-          "“Even now will the taker of your heritage come...”",
+          "“You people who live in Shaphir, your enemies will...”",
+          "“People of Mareshah, the Lord will send an army...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“For this I will be full of sorrow and give cries...”"
+          "“Because of this trouble, I will cry aloud and I will...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“For this I will be full of sorrow and give cries...”",
+        "correctAnswer": "“Because of this trouble, I will cry aloud and I will...”",
         "reference": "Micah 1:8",
-        "explanation": "Micah 1:8 records: 'For this I will be full of sorrow and give cries of grief; I will go uncovered and unclothed: I will give cries of grief like the jackals and will be in sorrow like the ostriches.'."
+        "explanation": "Micah 1:8 records: 'Because of this trouble, I will cry aloud and I will weep. I will walk about without shoes or clothes. I will cry aloud like a wild dog. I will scream like an owl.'."
       },
       {
         "id": "mic-1-q9",
         "questionNumber": 9,
         "question": "How does the passage describe the circumstances or people in Micah 1:9?",
         "options": [
-          "“For her wounds may not be made well: for it has...”",
-          "“For the one living in Maroth is waiting for...”",
-          "“The word of the Lord which came to Micah...”",
+          "“Samaria has bad wounds that will not get better. Now the...”",
+          "“The people of Maroth hope for something good to...”",
+          "“This is the message that the Lord gave to...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“For her wounds may not be made well: for it has...”",
+        "correctAnswer": "“Samaria has bad wounds that will not get better. Now the...”",
         "reference": "Micah 1:9",
-        "explanation": "Micah 1:9 records: 'For her wounds may not be made well: for it has come even to Judah, stretching up to the doorway of my people, even to Jerusalem.'."
+        "explanation": "Micah 1:9 records: 'Samaria has bad wounds that will not get better. Now the same trouble will happen to Judah! It has reached the gates of Jerusalem, the place where my people live.'."
       },
       {
         "id": "mic-1-q10",
         "questionNumber": 10,
         "question": "In the concluding portion of the chapter, what takes place in Micah 1:10?",
         "options": [
-          "“Let the war-carriage be yoked to the quick-running horse,...”",
-          "“Give no word of it in Gath, let there be no...”",
-          "“The word of the Lord which came to Micah...”",
+          "“You people of Lachish, get your horses and chariots...”",
+          "“Do not let our enemies in Gath know about our trouble!...”",
+          "“This is the message that the Lord gave to...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“Give no word of it in Gath, let there be no...”",
+        "correctAnswer": "“Do not let our enemies in Gath know about our trouble!...”",
         "reference": "Micah 1:10",
-        "explanation": "Micah 1:10 records: 'Give no word of it in Gath, let there be no weeping at all: at Beth-le-aphrah be rolling in the dust.'."
+        "explanation": "Micah 1:10 records: 'Do not let our enemies in Gath know about our trouble! Do not show that you are sad! But you people in Beth-Leaphrah, roll in the dirt to show that you are upset.'."
       }
     ],
     "2": [
@@ -163,150 +160,150 @@
         "questionNumber": 1,
         "question": "According to Micah 2:1, what is the opening statement or setting of this chapter?",
         "options": [
-          "It records: “A curse on the designers of evil, working on their beds! in the m...”",
+          "It records: “Terrible trouble will happen to people who do wicked things. They...”",
           "It begins with a prayer of thanksgiving for deliverance in Micah",
           "It opens with a formal census and counting of the congregation",
           "It records a severe judgment pronounced against neighboring nations"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "It records: “A curse on the designers of evil, working on their beds! in the m...”",
+        "correctAnswer": "It records: “Terrible trouble will happen to people who do wicked things. They...”",
         "reference": "Micah 2:1",
-        "explanation": "The chapter begins directly with the statement: 'A curse on the designers of evil, working on their beds! in the morning light they do it, because it is in their power.'."
+        "explanation": "The chapter begins directly with the statement: 'Terrible trouble will happen to people who do wicked things. They lie awake at night as they make evil plans. When morning comes, they do those wicked things. They have the power to do what they want.'."
       },
       {
         "id": "mic-2-q2",
         "questionNumber": 2,
         "question": "What key instruction, event, or declaration is set forth in Micah 2:2?",
         "options": [
-          "“For this cause you will have no one to...”",
-          "“They have a desire for fields and take them by force;...”",
-          "“The women of my people you have been driving...”",
+          "“A time will come when the Lord's people receive...”",
+          "“They take from other people the fields that they want for...”",
+          "“You take for yourselves the beautiful homes of my...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“They have a desire for fields and take them by force;...”",
+        "correctAnswer": "“They take from other people the fields that they want for...”",
         "reference": "Micah 2:2",
-        "explanation": "Micah 2:2 records: 'They have a desire for fields and take them by force; and for houses and take them away: they are cruel to a man and his family, even to a man and his heritage.'."
+        "explanation": "Micah 2:2 records: 'They take from other people the fields that they want for themselves. They also take the houses that they want. They cheat people to take their homes and their land. It is land that belongs to those people's families.'."
       },
       {
         "id": "mic-2-q3",
         "questionNumber": 3,
         "question": "What significant action or revelation occurs in Micah 2:3?",
         "options": [
-          "“Let not words like these be dropped, they say:...”",
-          "“Up! and go; for this is not your rest:...”",
-          "“For this cause the Lord has said, See, against this family...”",
+          "“The people answered me, ‘Do not prophesy such bad...”",
+          "“Get up and go away! You can no longer...”",
+          "“So the Lord says this: ‘I am preparing to bring great...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“For this cause the Lord has said, See, against this family...”",
+        "correctAnswer": "“So the Lord says this: ‘I am preparing to bring great...”",
         "reference": "Micah 2:3",
-        "explanation": "Micah 2:3 records: 'For this cause the Lord has said, See, against this family I am purposing an evil from which you will not be able to take your necks away, and you will be weighted down by it; for it is an evil time.'."
+        "explanation": "Micah 2:3 records: 'So the Lord says this: ‘I am preparing to bring great trouble to you. You will not be able to escape. It will be a time when you suffer very much. So you will no longer live as proud people.'."
       },
       {
         "id": "mic-2-q4",
         "questionNumber": 4,
         "question": "What truth or description is highlighted in Micah 2:4?",
         "options": [
-          "“Is the Lord quickly made angry? are these his...”",
-          "“If a man came with a false spirit of...”",
+          "“You descendants of Jacob should not talk like that!...”",
+          "“A prophet might come to you and deceive you...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“In that day this saying will be said about you, and...”"
+          "“At that time, your enemies will laugh at you. They will...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“In that day this saying will be said about you, and...”",
+        "correctAnswer": "“At that time, your enemies will laugh at you. They will...”",
         "reference": "Micah 2:4",
-        "explanation": "Micah 2:4 records: 'In that day this saying will be said about you, and this song of grief will be made: The heritage of my people is measured out, and there is no one to give it back; those who have made us prisoners have taken our fields from us, and complete destruction has come to us.'."
+        "explanation": "Micah 2:4 records: 'At that time, your enemies will laugh at you. They will sing this funeral song to insult you: “Great trouble has completely destroyed us! God is taking our land away from us. He has divided our land into pieces and he is giving it to our enemies.” ’'."
       },
       {
         "id": "mic-2-q5",
         "questionNumber": 5,
         "question": "According to the text, what happened or was commanded in Micah 2:5?",
         "options": [
-          "“For this cause you will have no one to make the...”",
-          "“As for you, you have become haters of those...”",
-          "“I will certainly make all of you, O Jacob,...”",
+          "“A time will come when the Lord's people receive their land...”",
+          "“The Lord says: ‘You have become like enemies among...”",
+          "“Descendants of Jacob, I will bring you all together...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“For this cause you will have no one to make the...”",
+        "correctAnswer": "“A time will come when the Lord's people receive their land...”",
         "reference": "Micah 2:5",
-        "explanation": "Micah 2:5 records: 'For this cause you will have no one to make the decision by the measuring line in the meeting of the Lord.'."
+        "explanation": "Micah 2:5 records: 'A time will come when the Lord's people receive their land again. But you will not receive any part for yourselves.'."
       },
       {
         "id": "mic-2-q6",
         "questionNumber": 6,
         "question": "What central message or instruction is delivered in Micah 2:6?",
         "options": [
-          "“The women of my people you have been driving...”",
-          "“Let not words like these be dropped, they say: Shame and...”",
-          "“A curse on the designers of evil, working on...”",
+          "“You take for yourselves the beautiful homes of my...”",
+          "“The people answered me, ‘Do not prophesy such bad things against...”",
+          "“Terrible trouble will happen to people who do wicked...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“Let not words like these be dropped, they say: Shame and...”",
+        "correctAnswer": "“The people answered me, ‘Do not prophesy such bad things against...”",
         "reference": "Micah 2:6",
-        "explanation": "Micah 2:6 records: 'Let not words like these be dropped, they say: Shame and the curse will not come to the family of Jacob!'."
+        "explanation": "Micah 2:6 records: 'The people answered me, ‘Do not prophesy such bad things against us! Do not say that the Lord will cause trouble for us and make us ashamed!’'."
       },
       {
         "id": "mic-2-q7",
         "questionNumber": 7,
         "question": "What detail regarding God's work, covenant, or people is given in Micah 2:7?",
         "options": [
-          "“Up! and go; for this is not your rest:...”",
-          "“A curse on the designers of evil, working on...”",
-          "“Is the Lord quickly made angry? are these his doings? do...”",
+          "“Get up and go away! You can no longer...”",
+          "“Terrible trouble will happen to people who do wicked...”",
+          "“You descendants of Jacob should not talk like that! Do you...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“Is the Lord quickly made angry? are these his doings? do...”",
+        "correctAnswer": "“You descendants of Jacob should not talk like that! Do you...”",
         "reference": "Micah 2:7",
-        "explanation": "Micah 2:7 records: 'Is the Lord quickly made angry? are these his doings? do not his words do good to his people Israel?'."
+        "explanation": "Micah 2:7 records: 'You descendants of Jacob should not talk like that! Do you think that the Lord will always be patient with you? But people who do things that are right will be happy when they hear my message.'."
       },
       {
         "id": "mic-2-q8",
         "questionNumber": 8,
         "question": "What phrase or account is recorded in Micah 2:8?",
         "options": [
-          "“If a man came with a false spirit of...”",
-          "“They have a desire for fields and take them...”",
+          "“A prophet might come to you and deceive you...”",
+          "“They take from other people the fields that they...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“As for you, you have become haters of those who were...”"
+          "“The Lord says: ‘You have become like enemies among my people....”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“As for you, you have become haters of those who were...”",
+        "correctAnswer": "“The Lord says: ‘You have become like enemies among my people....”",
         "reference": "Micah 2:8",
-        "explanation": "Micah 2:8 records: 'As for you, you have become haters of those who were at peace with you: you take the clothing of those who go by without fear, and make them prisoners of war.'."
+        "explanation": "Micah 2:8 records: 'The Lord says: ‘You have become like enemies among my people. You take shirts from people who think they are safe. You rob soldiers who are returning home from war.'."
       },
       {
         "id": "mic-2-q9",
         "questionNumber": 9,
         "question": "How does the passage describe the circumstances or people in Micah 2:9?",
         "options": [
-          "“The women of my people you have been driving away from...”",
-          "“I will certainly make all of you, O Jacob,...”",
-          "“For this cause the Lord has said, See, against...”",
+          "“You take for yourselves the beautiful homes of my people's women....”",
+          "“Descendants of Jacob, I will bring you all together...”",
+          "“So the Lord says this: ‘I am preparing to...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“The women of my people you have been driving away from...”",
+        "correctAnswer": "“You take for yourselves the beautiful homes of my people's women....”",
         "reference": "Micah 2:9",
-        "explanation": "Micah 2:9 records: 'The women of my people you have been driving away from their dearly loved children; from their young ones you are taking my glory for ever.'."
+        "explanation": "Micah 2:9 records: 'You take for yourselves the beautiful homes of my people's women. You cheat their children and you take away the good things that I have given to them.'."
       },
       {
         "id": "mic-2-q10",
         "questionNumber": 10,
         "question": "In the concluding portion of the chapter, what takes place in Micah 2:10?",
         "options": [
-          "“A curse on the designers of evil, working on...”",
-          "“Up! and go; for this is not your rest: because it...”",
-          "“In that day this saying will be said about...”",
+          "“Terrible trouble will happen to people who do wicked...”",
+          "“Get up and go away! You can no longer live safely...”",
+          "“At that time, your enemies will laugh at you....”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“Up! and go; for this is not your rest: because it...”",
+        "correctAnswer": "“Get up and go away! You can no longer live safely...”",
         "reference": "Micah 2:10",
-        "explanation": "Micah 2:10 records: 'Up! and go; for this is not your rest: because it has been made unclean, the destruction ordered will come on you.'."
+        "explanation": "Micah 2:10 records: 'Get up and go away! You can no longer live safely in this place. You have caused it to become an unclean place and that will completely destroy it.'."
       }
     ],
     "3": [
@@ -315,150 +312,150 @@
         "questionNumber": 1,
         "question": "According to Micah 3:1, what is the opening statement or setting of this chapter?",
         "options": [
-          "It records: “And I said, Give ear, now, you heads of Jacob and rulers of the p...”",
+          "It records: “Then I said, ‘Listen to me, leaders of Jacob's people! You are th...”",
           "It begins with a prayer of thanksgiving for deliverance in Micah",
           "It opens with a formal census and counting of the congregation",
           "It records a severe judgment pronounced against neighboring nations"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "It records: “And I said, Give ear, now, you heads of Jacob and rulers of the p...”",
+        "correctAnswer": "It records: “Then I said, ‘Listen to me, leaders of Jacob's people! You are th...”",
         "reference": "Micah 3:1",
-        "explanation": "The chapter begins directly with the statement: 'And I said, Give ear, now, you heads of Jacob and rulers of the people of Israel: is it not for you to have knowledge of what is right?'."
+        "explanation": "The chapter begins directly with the statement: 'Then I said, ‘Listen to me, leaders of Jacob's people! You are the rulers of Israel. You ought to know what is right and what is wrong.'."
       },
       {
         "id": "mic-3-q2",
         "questionNumber": 2,
         "question": "What key instruction, event, or declaration is set forth in Micah 3:2?",
         "options": [
-          "“This is what the Lord has said about the...”",
-          "“You who are haters of good and lovers of evil, pulling...”",
-          "“Then give ear to this, you heads of the...”",
+          "“The Lord says, ‘I say this about the false...”",
+          "“But you hate what is good, and you love what is...”",
+          "“So listen to this, you leaders of Jacob's people....”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“You who are haters of good and lovers of evil, pulling...”",
+        "correctAnswer": "“But you hate what is good, and you love what is...”",
         "reference": "Micah 3:2",
-        "explanation": "Micah 3:2 records: 'You who are haters of good and lovers of evil, pulling off their skin from them and their flesh from their bones;'."
+        "explanation": "Micah 3:2 records: 'But you hate what is good, and you love what is evil. You are cruel to my people, as if you are tearing the skin off their bones.'."
       },
       {
         "id": "mic-3-q3",
         "questionNumber": 3,
         "question": "What significant action or revelation occurs in Micah 3:3?",
         "options": [
-          "“For this cause it will be night for you,...”",
-          "“They are building up Zion with blood, and Jerusalem...”",
-          "“Like meat they take the flesh of my people for their...”",
+          "“Because of that, it will become like night for...”",
+          "“You use murder and violence to build Jerusalem, the...”",
+          "“You are like butchers who think that my people are meat....”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“Like meat they take the flesh of my people for their...”",
+        "correctAnswer": "“You are like butchers who think that my people are meat....”",
         "reference": "Micah 3:3",
-        "explanation": "Micah 3:3 records: 'Like meat they take the flesh of my people for their food, skinning them and crushing their bones, yes, cutting them up as if for the pot, like flesh inside the cooking-pot.'."
+        "explanation": "Micah 3:3 records: 'You are like butchers who think that my people are meat. You want to remove their skin and break their bones. You cut them into pieces like meat, so that you can cook it in a pot.’ 4 One day, the wicked people will call to the Lord for help,but he will not answer them.He will not listen to their prayers,because of the evil things that they have done. 5 The Lord says, ‘I say this about the false prophets who are deceiving my people:If someone gives them food,they promise that person will have peace.But if someone does not feed them,they say that war will bring trouble to that person. 6 Because of that, it will become like night for you prophets.You will not receive any more visions.You will be completely in the dark.3:6You will no longer see signs about future times.3:6The sun will no longer shine on you.Even in the daytime, you will be in the dark. 7 Then the prophets and diviners will all be ashamed.They will shut their mouthsbecause they have no message from me.’ 8 But as for me, the Lord's Spirit fills me with power.3:8He helps me to know what is right.So I am brave enough to warn Israel's people about their sins.Jacob's descendants have turned against the Lord. 9 So listen to this, you leaders of Jacob's people.You are the rulers of Israel.But you hate justice.You take what is right and you make it seem wrong. 10 You use murder and violenceto build Jerusalem, the city of Zion.3:10 11 Jerusalem's leaders accept bribeswhen they judge people in court.Jerusalem's priests only teach peoplewho give them money.The prophets only speak messagesto people who pay them.But they all say that they trust the Lord.They say, ‘The Lord is with us.Nothing bad will happen to us.’ 12 Because of how you live, this is what will happen.Zion will become like a field that a farmer has ploughed.Jerusalem will become a heap of stones.Trees will cover the hill where the temple is now.'."
       },
       {
         "id": "mic-3-q4",
         "questionNumber": 4,
         "question": "What truth or description is highlighted in Micah 3:4?",
         "options": [
-          "“And the seers will be shamed, and the readers...”",
-          "“Its heads take rewards for judging, and the priests...”",
+          "“Then the prophets and diviners will all be ashamed....”",
+          "“Jerusalem's leaders accept bribes when they judge people in...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“Then they will be crying to the Lord for help, but...”"
+          "“One day, the wicked people will call to the Lord for...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“Then they will be crying to the Lord for help, but...”",
+        "correctAnswer": "“One day, the wicked people will call to the Lord for...”",
         "reference": "Micah 3:4",
-        "explanation": "Micah 3:4 records: 'Then they will be crying to the Lord for help, but he will not give them an answer: yes, he will keep his face veiled from them at that time, because their acts have been evil.'."
+        "explanation": "Micah 3:4 records: 'One day, the wicked people will call to the Lord for help, but he will not answer them. He will not listen to their prayers, because of the evil things that they have done. 5 The Lord says, ‘I say this about the false prophets who are deceiving my people:If someone gives them food,they promise that person will have peace.But if someone does not feed them,they say that war will bring trouble to that person. 6 Because of that, it will become like night for you prophets.You will not receive any more visions.You will be completely in the dark.3:6You will no longer see signs about future times.3:6The sun will no longer shine on you.Even in the daytime, you will be in the dark. 7 Then the prophets and diviners will all be ashamed.They will shut their mouthsbecause they have no message from me.’ 8 But as for me, the Lord's Spirit fills me with power.3:8He helps me to know what is right.So I am brave enough to warn Israel's people about their sins.Jacob's descendants have turned against the Lord. 9 So listen to this, you leaders of Jacob's people.You are the rulers of Israel.But you hate justice.You take what is right and you make it seem wrong. 10 You use murder and violenceto build Jerusalem, the city of Zion.3:10 11 Jerusalem's leaders accept bribeswhen they judge people in court.Jerusalem's priests only teach peoplewho give them money.The prophets only speak messagesto people who pay them.But they all say that they trust the Lord.They say, ‘The Lord is with us.Nothing bad will happen to us.’ 12 Because of how you live, this is what will happen.Zion will become like a field that a farmer has ploughed.Jerusalem will become a heap of stones.Trees will cover the hill where the temple is now.'."
       },
       {
         "id": "mic-3-q5",
         "questionNumber": 5,
         "question": "According to the text, what happened or was commanded in Micah 3:5?",
         "options": [
-          "“This is what the Lord has said about the prophets by...”",
-          "“But I truly am full of the spirit of...”",
-          "“And I said, Give ear, now, you heads of...”",
+          "“The Lord says, ‘I say this about the false prophets who...”",
+          "“But as for me, the Lord's Spirit fills me...”",
+          "“Then I said, ‘Listen to me, leaders of Jacob's...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“This is what the Lord has said about the prophets by...”",
+        "correctAnswer": "“The Lord says, ‘I say this about the false prophets who...”",
         "reference": "Micah 3:5",
-        "explanation": "Micah 3:5 records: 'This is what the Lord has said about the prophets by whom my people have been turned from the right way; who, biting with their teeth, say, Peace; and if anyone puts nothing in their mouths they make ready for war against him.'."
+        "explanation": "Micah 3:5 records: 'The Lord says, ‘I say this about the false prophets who are deceiving my people: If someone gives them food, they promise that person will have peace. But if someone does not feed them, they say that war will bring trouble to that person.'."
       },
       {
         "id": "mic-3-q6",
         "questionNumber": 6,
         "question": "What central message or instruction is delivered in Micah 3:6?",
         "options": [
-          "“Then give ear to this, you heads of the...”",
-          "“For this cause it will be night for you, without a...”",
-          "“And I said, Give ear, now, you heads of...”",
+          "“So listen to this, you leaders of Jacob's people....”",
+          "“Because of that, it will become like night for you prophets....”",
+          "“Then I said, ‘Listen to me, leaders of Jacob's...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“For this cause it will be night for you, without a...”",
+        "correctAnswer": "“Because of that, it will become like night for you prophets....”",
         "reference": "Micah 3:6",
-        "explanation": "Micah 3:6 records: 'For this cause it will be night for you, without a vision; and it will be dark for you, without knowledge of the future; the sun will go down over the prophets, and the day will be black over them.'."
+        "explanation": "Micah 3:6 records: 'Because of that, it will become like night for you prophets. You will not receive any more visions. You will be completely in the dark. You will no longer see signs about future times. The sun will no longer shine on you. Even in the daytime, you will be in the dark.'."
       },
       {
         "id": "mic-3-q7",
         "questionNumber": 7,
         "question": "What detail regarding God's work, covenant, or people is given in Micah 3:7?",
         "options": [
-          "“They are building up Zion with blood, and Jerusalem...”",
-          "“You who are haters of good and lovers of...”",
-          "“And the seers will be shamed, and the readers of the...”",
+          "“You use murder and violence to build Jerusalem, the...”",
+          "“But you hate what is good, and you love...”",
+          "“Then the prophets and diviners will all be ashamed. They will...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“And the seers will be shamed, and the readers of the...”",
+        "correctAnswer": "“Then the prophets and diviners will all be ashamed. They will...”",
         "reference": "Micah 3:7",
-        "explanation": "Micah 3:7 records: 'And the seers will be shamed, and the readers of the future will be at a loss, all of them covering their lips; for there is no answer from God.'."
+        "explanation": "Micah 3:7 records: 'Then the prophets and diviners will all be ashamed. They will shut their mouths because they have no message from me.’ 8 But as for me, the Lord's Spirit fills me with power.3:8He helps me to know what is right.So I am brave enough to warn Israel's people about their sins.Jacob's descendants have turned against the Lord. 9 So listen to this, you leaders of Jacob's people.You are the rulers of Israel.But you hate justice.You take what is right and you make it seem wrong. 10 You use murder and violenceto build Jerusalem, the city of Zion.3:10 11 Jerusalem's leaders accept bribeswhen they judge people in court.Jerusalem's priests only teach peoplewho give them money.The prophets only speak messagesto people who pay them.But they all say that they trust the Lord.They say, ‘The Lord is with us.Nothing bad will happen to us.’ 12 Because of how you live, this is what will happen.Zion will become like a field that a farmer has ploughed.Jerusalem will become a heap of stones.Trees will cover the hill where the temple is now.'."
       },
       {
         "id": "mic-3-q8",
         "questionNumber": 8,
         "question": "What phrase or account is recorded in Micah 3:8?",
         "options": [
-          "“Its heads take rewards for judging, and the priests...”",
-          "“Like meat they take the flesh of my people...”",
+          "“Jerusalem's leaders accept bribes when they judge people in...”",
+          "“You are like butchers who think that my people...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“But I truly am full of the spirit of the Lord,...”"
+          "“But as for me, the Lord's Spirit fills me with power....”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“But I truly am full of the spirit of the Lord,...”",
+        "correctAnswer": "“But as for me, the Lord's Spirit fills me with power....”",
         "reference": "Micah 3:8",
-        "explanation": "Micah 3:8 records: 'But I truly am full of the spirit of the Lord, with power of judging and with strength to make clear to Jacob his wrongdoing and to Israel his sin.'."
+        "explanation": "Micah 3:8 records: 'But as for me, the Lord's Spirit fills me with power. He helps me to know what is right. So I am brave enough to warn Israel's people about their sins. Jacob's descendants have turned against the Lord.'."
       },
       {
         "id": "mic-3-q9",
         "questionNumber": 9,
         "question": "How does the passage describe the circumstances or people in Micah 3:9?",
         "options": [
-          "“Then give ear to this, you heads of the children of...”",
-          "“And I said, Give ear, now, you heads of...”",
-          "“Then they will be crying to the Lord for...”",
+          "“So listen to this, you leaders of Jacob's people. You are...”",
+          "“Then I said, ‘Listen to me, leaders of Jacob's...”",
+          "“One day, the wicked people will call to the...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“Then give ear to this, you heads of the children of...”",
+        "correctAnswer": "“So listen to this, you leaders of Jacob's people. You are...”",
         "reference": "Micah 3:9",
-        "explanation": "Micah 3:9 records: 'Then give ear to this, you heads of the children of Jacob, you rulers of the children of Israel, hating what is right, twisting what is straight.'."
+        "explanation": "Micah 3:9 records: 'So listen to this, you leaders of Jacob's people. You are the rulers of Israel. But you hate justice. You take what is right and you make it seem wrong.'."
       },
       {
         "id": "mic-3-q10",
         "questionNumber": 10,
         "question": "In the concluding portion of the chapter, what takes place in Micah 3:10?",
         "options": [
-          "“And I said, Give ear, now, you heads of...”",
-          "“They are building up Zion with blood, and Jerusalem with evil-doing.”",
-          "“This is what the Lord has said about the...”",
+          "“Then I said, ‘Listen to me, leaders of Jacob's...”",
+          "“You use murder and violence to build Jerusalem, the city of Zion.”",
+          "“The Lord says, ‘I say this about the false...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“They are building up Zion with blood, and Jerusalem with evil-doing.”",
+        "correctAnswer": "“You use murder and violence to build Jerusalem, the city of Zion.”",
         "reference": "Micah 3:10",
-        "explanation": "Micah 3:10 records: 'They are building up Zion with blood, and Jerusalem with evil-doing.'."
+        "explanation": "Micah 3:10 records: 'You use murder and violence to build Jerusalem, the city of Zion.'."
       }
     ],
     "4": [
@@ -467,150 +464,150 @@
         "questionNumber": 1,
         "question": "According to Micah 4:1, what is the opening statement or setting of this chapter?",
         "options": [
-          "It records: “But in the last days it will come about that the mountain of the ...”",
+          "It records: “In the last days, the mountain of the Lord's temple will be great...”",
           "It begins with a prayer of thanksgiving for deliverance in Micah",
           "It opens with a formal census and counting of the congregation",
           "It records a severe judgment pronounced against neighboring nations"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "It records: “But in the last days it will come about that the mountain of the ...”",
+        "correctAnswer": "It records: “In the last days, the mountain of the Lord's temple will be great...”",
         "reference": "Micah 4:1",
-        "explanation": "The chapter begins directly with the statement: 'But in the last days it will come about that the mountain of the Lord's house will be placed on the top of the mountains, and be lifted up over the hills; and peoples will be flowing to it.'."
+        "explanation": "The chapter begins directly with the statement: 'In the last days, the mountain of the Lord's temple will be great. It will stand higher than all other mountains. It will stand above all the hills. Crowds of people will go there all the time.'."
       },
       {
         "id": "mic-4-q2",
         "questionNumber": 2,
         "question": "What key instruction, event, or declaration is set forth in Micah 4:2?",
         "options": [
-          "“For all the peoples will be walking, every one...”",
-          "“And a number of nations will go and say, Come, and...”",
-          "“Now why are you crying so loudly? is there...”",
+          "“People of other nations serve their own gods. But...”",
+          "“As they come, people from many nations will say, ‘Come! We...”",
+          "“Jerusalem, it seems that you are shouting loudly because...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“And a number of nations will go and say, Come, and...”",
+        "correctAnswer": "“As they come, people from many nations will say, ‘Come! We...”",
         "reference": "Micah 4:2",
-        "explanation": "Micah 4:2 records: 'And a number of nations will go and say, Come, and let us go up to the mountain of the Lord, and to the house of the God of Jacob; and he will give us knowledge of his ways and we will be guided by his word: for from Zion the law will go out, and the word of the Lord from Jerusalem.'."
+        "explanation": "Micah 4:2 records: 'As they come, people from many nations will say, ‘Come! We will go up to the mountain of the Lord, Jacob's God. We will go to worship him at his temple. He will teach us his laws. Then we can live in a way that pleases him.’ Zion will be the place where people learn about God. The Lord's message will go out from Jerusalem.'."
       },
       {
         "id": "mic-4-q3",
         "questionNumber": 3,
         "question": "What significant action or revelation occurs in Micah 4:3?",
         "options": [
-          "“In that day, says the Lord, I will get...”",
-          "“Be in pain, make sounds of grief, O daughter...”",
-          "“And he will be judge between great peoples, and strong nations...”",
+          "“The Lord says, ‘At that time, I will bring...”",
+          "“Yes, you people of Zion should shake and scream,...”",
+          "“The Lord will judge between the people of many nations. When...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“And he will be judge between great peoples, and strong nations...”",
+        "correctAnswer": "“The Lord will judge between the people of many nations. When...”",
         "reference": "Micah 4:3",
-        "explanation": "Micah 4:3 records: 'And he will be judge between great peoples, and strong nations far away will be ruled by his decisions; their swords will be hammered into plough-blades and their spears into vine-knives: nations will no longer be lifting up their swords against one another, and knowledge of war will have gone for ever.'."
+        "explanation": "Micah 4:3 records: 'The Lord will judge between the people of many nations. When they argue together, he will decide who is right. They will take their swords and they will make them into ploughs. Their spears will become knives to cut their vines. Nations will no longer need weapons to attack other nations. They will not prepare to fight wars any more.'."
       },
       {
         "id": "mic-4-q4",
         "questionNumber": 4,
         "question": "What truth or description is highlighted in Micah 4:4?",
         "options": [
-          "“And I will make her whose steps were uncertain...”",
-          "“And now a number of nations have come together...”",
+          "“They are like weak people who cannot walk properly....”",
+          "“Many nations have now come together to attack your...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“But every man will be seated under his vine and under...”"
+          "“Everyone will sit under their own vine and under their own...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“But every man will be seated under his vine and under...”",
+        "correctAnswer": "“Everyone will sit under their own vine and under their own...”",
         "reference": "Micah 4:4",
-        "explanation": "Micah 4:4 records: 'But every man will be seated under his vine and under his fig-tree, and no one will be a cause of fear to them: for the mouth of the Lord of armies has said it.'."
+        "explanation": "Micah 4:4 records: 'Everyone will sit under their own vine and under their own fig tree. Nobody will make them afraid any more. The Lord Almighty has promised that this will happen.'."
       },
       {
         "id": "mic-4-q5",
         "questionNumber": 5,
         "question": "According to the text, what happened or was commanded in Micah 4:5?",
         "options": [
-          "“For all the peoples will be walking, every one in the...”",
-          "“And you, O tower of the flock, Ophel of...”",
-          "“But they have no knowledge of the thoughts of...”",
+          "“People of other nations serve their own gods. But we will...”",
+          "“And as for you, Jerusalem, you have been a...”",
+          "“But they do not know the Lord's thoughts. They...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“For all the peoples will be walking, every one in the...”",
+        "correctAnswer": "“People of other nations serve their own gods. But we will...”",
         "reference": "Micah 4:5",
-        "explanation": "Micah 4:5 records: 'For all the peoples will be walking, every one in the name of his god, and we will be walking in the name of the Lord our God for ever and ever.'."
+        "explanation": "Micah 4:5 records: 'People of other nations serve their own gods. But we will serve the Lord our God for ever.'."
       },
       {
         "id": "mic-4-q6",
         "questionNumber": 6,
         "question": "What central message or instruction is delivered in Micah 4:6?",
         "options": [
-          "“Now why are you crying so loudly? is there...”",
-          "“In that day, says the Lord, I will get together her...”",
-          "“But in the last days it will come about...”",
+          "“Jerusalem, it seems that you are shouting loudly because...”",
+          "“The Lord says, ‘At that time, I will bring back together...”",
+          "“In the last days, the mountain of the Lord's...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“In that day, says the Lord, I will get together her...”",
+        "correctAnswer": "“The Lord says, ‘At that time, I will bring back together...”",
         "reference": "Micah 4:6",
-        "explanation": "Micah 4:6 records: 'In that day, says the Lord, I will get together her who goes with uncertain steps, I will get together her who has been sent away, and her on whom I have sent evil;'."
+        "explanation": "Micah 4:6 records: 'The Lord says, ‘At that time, I will bring back together the people that I have punished. I caused them to suffer in other countries, but I will bring them back together.'."
       },
       {
         "id": "mic-4-q7",
         "questionNumber": 7,
         "question": "What detail regarding God's work, covenant, or people is given in Micah 4:7?",
         "options": [
-          "“Be in pain, make sounds of grief, O daughter...”",
-          "“But in the last days it will come about...”",
-          "“And I will make her whose steps were uncertain a small...”",
+          "“Yes, you people of Zion should shake and scream,...”",
+          "“In the last days, the mountain of the Lord's...”",
+          "“They are like weak people who cannot walk properly. But I...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“And I will make her whose steps were uncertain a small...”",
+        "correctAnswer": "“They are like weak people who cannot walk properly. But I...”",
         "reference": "Micah 4:7",
-        "explanation": "Micah 4:7 records: 'And I will make her whose steps were uncertain a small band, and her who was feeble a strong nation: and the Lord will be their King in Mount Zion from now and for ever.'."
+        "explanation": "Micah 4:7 records: 'They are like weak people who cannot walk properly. But I will cause those weak people to become strong again. My people who have gone away will become a great nation. Then I, the Lord, will rule from Mount Zion. I will be their king from that time and for ever.'."
       },
       {
         "id": "mic-4-q8",
         "questionNumber": 8,
         "question": "What phrase or account is recorded in Micah 4:8?",
         "options": [
-          "“And now a number of nations have come together...”",
-          "“And a number of nations will go and say,...”",
+          "“Many nations have now come together to attack your...”",
+          "“As they come, people from many nations will say,...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“And you, O tower of the flock, Ophel of the daughter...”"
+          "“And as for you, Jerusalem, you have been a strong place...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“And you, O tower of the flock, Ophel of the daughter...”",
+        "correctAnswer": "“And as for you, Jerusalem, you have been a strong place...”",
         "reference": "Micah 4:8",
-        "explanation": "Micah 4:8 records: 'And you, O tower of the flock, Ophel of the daughter of Zion, to you it will come, even the earlier authority, the kingdom of the daughter of Jerusalem.'."
+        "explanation": "Micah 4:8 records: 'And as for you, Jerusalem, you have been a strong place for Zion's people to live in. You have taken care of your people as a shepherd takes care of his sheep. At that time, you will again be an important place where a king rules with authority.’ 9 Jerusalem, it seems that you are shouting loudlybecause you have no king to lead you.You are crying like people who have no wise leader.4:9You sound like a pregnant woman who has great painbecause she is giving birth to a baby. 10 Yes, you people of Zion should shake and scream,like a woman who is giving birth.Soon you will have to leave your city.You will live out in the fields.You will have to go and live in Babylon.4:10But there the Lord will rescue you.He will save you from the power of your enemies. 11 Many nations have now come together to attack your city.They say: ‘We must completely destroy Jerusalem.We want to see Zion's people suffer!’ 12 But they do not know the Lord's thoughts.They do not understand his plans.He has decided to bring them together,so that he will punish them.They will be like bundles of wheatthat farmers hit with sticks on the threshing floor.4:12 13 The Lord says,‘People of Zion, get up and punish your enemies!I will make you very strong,like a bull that has iron hornsand feet that are made of bronze.You will destroy enemies from many nations.You will take the valuable things that they have taken from other people.You will bring their riches to me, the Lord.You will give them all to me, the Ruler of the whole earth.’4:13'."
       },
       {
         "id": "mic-4-q9",
         "questionNumber": 9,
         "question": "How does the passage describe the circumstances or people in Micah 4:9?",
         "options": [
-          "“Now why are you crying so loudly? is there no king...”",
-          "“But they have no knowledge of the thoughts of...”",
-          "“And he will be judge between great peoples, and...”",
+          "“Jerusalem, it seems that you are shouting loudly because you have...”",
+          "“But they do not know the Lord's thoughts. They...”",
+          "“The Lord will judge between the people of many...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“Now why are you crying so loudly? is there no king...”",
+        "correctAnswer": "“Jerusalem, it seems that you are shouting loudly because you have...”",
         "reference": "Micah 4:9",
-        "explanation": "Micah 4:9 records: 'Now why are you crying so loudly? is there no king in you? has destruction come on your wise helper? so that pains have taken you like the pains of a woman in childbirth:'."
+        "explanation": "Micah 4:9 records: 'Jerusalem, it seems that you are shouting loudly because you have no king to lead you. You are crying like people who have no wise leader. You sound like a pregnant woman who has great pain because she is giving birth to a baby.'."
       },
       {
         "id": "mic-4-q10",
         "questionNumber": 10,
         "question": "In the concluding portion of the chapter, what takes place in Micah 4:10?",
         "options": [
-          "“But in the last days it will come about...”",
-          "“Be in pain, make sounds of grief, O daughter of Zion,...”",
-          "“But every man will be seated under his vine...”",
+          "“In the last days, the mountain of the Lord's...”",
+          "“Yes, you people of Zion should shake and scream, like a...”",
+          "“Everyone will sit under their own vine and under...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“Be in pain, make sounds of grief, O daughter of Zion,...”",
+        "correctAnswer": "“Yes, you people of Zion should shake and scream, like a...”",
         "reference": "Micah 4:10",
-        "explanation": "Micah 4:10 records: 'Be in pain, make sounds of grief, O daughter of Zion, like a woman in childbirth: for now you will go out of the town, living in the open country, and will come even to Babylon; there you will have salvation; there the Lord will make you free from the hands of your haters.'."
+        "explanation": "Micah 4:10 records: 'Yes, you people of Zion should shake and scream, like a woman who is giving birth. Soon you will have to leave your city. You will live out in the fields. You will have to go and live in Babylon. But there the Lord will rescue you. He will save you from the power of your enemies.'."
       }
     ],
     "5": [
@@ -619,150 +616,150 @@
         "questionNumber": 1,
         "question": "According to Micah 5:1, what is the opening statement or setting of this chapter?",
         "options": [
-          "It records: “Now you will give yourselves deep wounds for grief; they will put...”",
+          "It records: “People of Jerusalem, prepare your soldiers to fight! Our enemies ...”",
           "It begins with a prayer of thanksgiving for deliverance in Micah",
           "It opens with a formal census and counting of the congregation",
           "It records a severe judgment pronounced against neighboring nations"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "It records: “Now you will give yourselves deep wounds for grief; they will put...”",
+        "correctAnswer": "It records: “People of Jerusalem, prepare your soldiers to fight! Our enemies ...”",
         "reference": "Micah 5:1",
-        "explanation": "The chapter begins directly with the statement: 'Now you will give yourselves deep wounds for grief; they will put up a wall round us: they will give the judge of Israel a blow on the face with a rod.'."
+        "explanation": "The chapter begins directly with the statement: 'People of Jerusalem, prepare your soldiers to fight! Our enemies are all around the city. They are ready to attack us. They will use a stick to hit Israel's ruler on his face. 2 ‘I speak to you, Bethlehem Ephrathah.You are only a very small town among all the towns of Judah.But I will cause someone to be born in youwho will rule Israel on my behalf.He will be someone whose family started a very long time ago.’5:2 3 So the Lord will put Israel's people under the power of their enemies.That will continue until the time when the pregnant woman gives birth.Then the ruler's own people will return.They will join again with their relatives, Israel's people. 4 This ruler will take his place as king.He will take care of his people,as a shepherd takes care of his sheep.He will rule with the strength of the Lord.The Lord his God will give him royal authority to rule.His people will live safelybecause all people will give him honour.People everywhere in the whole earthwill know that he is great. 5 He is the one who will give peace to his people.If Assyria's army attacks our country,they may try to destroy our strong buildings.But we will choose our best leaders to fight against them,seven or eight leaders, as many as we need. 6 These leaders will use their weaponsto take power over Assyria, Nimrod's land.5:6Assyria's soldiers may march into our land and try to attack us.But our ruler will save us from them.God's people will win against their enemies 7 Jacob's descendants who remainwill live among many nations.The Lord will cause them to bless other people.They will be like dew or rain which helps plants to grow.They will not hope for other people to help them.Instead, they will trust in the Lord. 8 Jacob's descendants who remainwill live among other people in many different nations.They will be like a lionthat lives among other animals in the forest.They will be like a strong young lion that is in a field of sheep.It catches the sheep and it tears them in pieces.Nobody can save those sheep. 9 Israel's people, you will win against your enemies.You will remove them from the earth!God wants people to obey him 10 The Lord says,‘At that time, I will remove your horses from you.I will also destroy your chariots. 11 I will destroy the cities in your land.I will knock down all your strong buildings. 12 I will remove the magic things that you use.You will have no magicians to tell you about future times. 13 I will remove the idols and the stone pillarsthat are among you.You will no longer worshipthose things that you yourselves have made. 14 I will pull out the Asherah poles that you worship.5:14Yes, I will destroy all your images of false gods. 15 I will also punish the people of all nations that refuse to obey me.I will show them that I am very angry with them.’'."
       },
       {
         "id": "mic-5-q2",
         "questionNumber": 2,
         "question": "What key instruction, event, or declaration is set forth in Micah 5:2?",
         "options": [
-          "“And this will be our peace: when the Assyrian...”",
-          "“And you, Beth-lehem Ephrathah, the least among the families of Judah,...”",
-          "“Your hand is lifted up against those who are...”",
+          "“He is the one who will give peace to...”",
+          "“‘I speak to you, Bethlehem Ephrathah. You are only a very...”",
+          "“Israel's people, you will win against your enemies. You...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“And you, Beth-lehem Ephrathah, the least among the families of Judah,...”",
+        "correctAnswer": "“‘I speak to you, Bethlehem Ephrathah. You are only a very...”",
         "reference": "Micah 5:2",
-        "explanation": "Micah 5:2 records: 'And you, Beth-lehem Ephrathah, the least among the families of Judah, out of you one will come to me who is to be ruler in Israel; whose going out has been purposed from time past, from the eternal days.'."
+        "explanation": "Micah 5:2 records: '‘I speak to you, Bethlehem Ephrathah. You are only a very small town among all the towns of Judah. But I will cause someone to be born in you who will rule Israel on my behalf. He will be someone whose family started a very long time ago.’'."
       },
       {
         "id": "mic-5-q3",
         "questionNumber": 3,
         "question": "What significant action or revelation occurs in Micah 5:3?",
         "options": [
-          "“And they will make waste the land of Assyria...”",
-          "“And it will come about in that day, says...”",
-          "“For this cause he will give them up till the time...”",
+          "“These leaders will use their weapons to take power...”",
+          "“The Lord says, ‘At that time, I will remove...”",
+          "“So the Lord will put Israel's people under the power of...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“For this cause he will give them up till the time...”",
+        "correctAnswer": "“So the Lord will put Israel's people under the power of...”",
         "reference": "Micah 5:3",
-        "explanation": "Micah 5:3 records: 'For this cause he will give them up till the time when she who is with child has given birth: then the rest of his brothers will come back to the children of Israel.'."
+        "explanation": "Micah 5:3 records: 'So the Lord will put Israel's people under the power of their enemies. That will continue until the time when the pregnant woman gives birth. Then the ruler's own people will return. They will join again with their relatives, Israel's people.'."
       },
       {
         "id": "mic-5-q4",
         "questionNumber": 4,
         "question": "What truth or description is highlighted in Micah 5:4?",
         "options": [
-          "“And the rest of Jacob will be among the...”",
-          "“I will have the towns of your land cut...”",
+          "“Jacob's descendants who remain will live among many nations....”",
+          "“I will destroy the cities in your land. I...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“And he will take his place and give food to his...”"
+          "“This ruler will take his place as king. He will take...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“And he will take his place and give food to his...”",
+        "correctAnswer": "“This ruler will take his place as king. He will take...”",
         "reference": "Micah 5:4",
-        "explanation": "Micah 5:4 records: 'And he will take his place and give food to his flock in the strength of the Lord, in the glory of the name of the Lord his God; and their resting-place will be safe: for now he will be great to the ends of the earth.'."
+        "explanation": "Micah 5:4 records: 'This ruler will take his place as king. He will take care of his people, as a shepherd takes care of his sheep. He will rule with the strength of the Lord. The Lord his God will give him royal authority to rule. His people will live safely because all people will give him honour. People everywhere in the whole earth will know that he is great.'."
       },
       {
         "id": "mic-5-q5",
         "questionNumber": 5,
         "question": "According to the text, what happened or was commanded in Micah 5:5?",
         "options": [
-          "“And this will be our peace: when the Assyrian comes into...”",
-          "“And the rest of Jacob will be among the...”",
-          "“I will put an end to your use of...”",
+          "“He is the one who will give peace to his people....”",
+          "“Jacob's descendants who remain will live among other people...”",
+          "“I will remove the magic things that you use....”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“And this will be our peace: when the Assyrian comes into...”",
+        "correctAnswer": "“He is the one who will give peace to his people....”",
         "reference": "Micah 5:5",
-        "explanation": "Micah 5:5 records: 'And this will be our peace: when the Assyrian comes into our country and his feet are in our land, then we will put up against him seven keepers of the flocks and eight chiefs among men.'."
+        "explanation": "Micah 5:5 records: 'He is the one who will give peace to his people. If Assyria's army attacks our country, they may try to destroy our strong buildings. But we will choose our best leaders to fight against them, seven or eight leaders, as many as we need.'."
       },
       {
         "id": "mic-5-q6",
         "questionNumber": 6,
         "question": "What central message or instruction is delivered in Micah 5:6?",
         "options": [
-          "“Your hand is lifted up against those who are...”",
-          "“And they will make waste the land of Assyria with the...”",
-          "“And I will have your images and your pillars...”",
+          "“Israel's people, you will win against your enemies. You...”",
+          "“These leaders will use their weapons to take power over Assyria,...”",
+          "“I will remove the idols and the stone pillars...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“And they will make waste the land of Assyria with the...”",
+        "correctAnswer": "“These leaders will use their weapons to take power over Assyria,...”",
         "reference": "Micah 5:6",
-        "explanation": "Micah 5:6 records: 'And they will make waste the land of Assyria with the sword, and the land of Nimrod with the edge of the sword: he will give us salvation from the Assyrian when he comes into our country, when his feet come inside the limit of our land.'."
+        "explanation": "Micah 5:6 records: 'These leaders will use their weapons to take power over Assyria, Nimrod's land. Assyria's soldiers may march into our land and try to attack us. But our ruler will save us from them.'."
       },
       {
         "id": "mic-5-q7",
         "questionNumber": 7,
         "question": "What detail regarding God's work, covenant, or people is given in Micah 5:7?",
         "options": [
-          "“And it will come about in that day, says...”",
-          "“I will have your Asherahs pulled up from among...”",
-          "“And the rest of Jacob will be among the mass of...”",
+          "“The Lord says, ‘At that time, I will remove...”",
+          "“I will pull out the Asherah poles that you...”",
+          "“Jacob's descendants who remain will live among many nations. The Lord...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“And the rest of Jacob will be among the mass of...”",
+        "correctAnswer": "“Jacob's descendants who remain will live among many nations. The Lord...”",
         "reference": "Micah 5:7",
-        "explanation": "Micah 5:7 records: 'And the rest of Jacob will be among the mass of peoples like dew from the Lord, like showers on the grass, which may not be kept back by man, or be waiting for the sons of men.'."
+        "explanation": "Micah 5:7 records: 'Jacob's descendants who remain will live among many nations. The Lord will cause them to bless other people. They will be like dew or rain which helps plants to grow. They will not hope for other people to help them. Instead, they will trust in the Lord.'."
       },
       {
         "id": "mic-5-q8",
         "questionNumber": 8,
         "question": "What phrase or account is recorded in Micah 5:8?",
         "options": [
-          "“I will have the towns of your land cut...”",
-          "“Now you will give yourselves deep wounds for grief;...”",
+          "“I will destroy the cities in your land. I...”",
+          "“People of Jerusalem, prepare your soldiers to fight! Our...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“And the rest of Jacob will be among the nations, in...”"
+          "“Jacob's descendants who remain will live among other people in many...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“And the rest of Jacob will be among the nations, in...”",
+        "correctAnswer": "“Jacob's descendants who remain will live among other people in many...”",
         "reference": "Micah 5:8",
-        "explanation": "Micah 5:8 records: 'And the rest of Jacob will be among the nations, in the middle of the mass of peoples, like a lion among the beasts of the woods, like a young lion among the flocks of sheep: if he goes through, they will be crushed under foot and pulled to bits, and there will be no saviour.'."
+        "explanation": "Micah 5:8 records: 'Jacob's descendants who remain will live among other people in many different nations. They will be like a lion that lives among other animals in the forest. They will be like a strong young lion that is in a field of sheep. It catches the sheep and it tears them in pieces. Nobody can save those sheep.'."
       },
       {
         "id": "mic-5-q9",
         "questionNumber": 9,
         "question": "How does the passage describe the circumstances or people in Micah 5:9?",
         "options": [
-          "“Your hand is lifted up against those who are against you,...”",
-          "“I will put an end to your use of...”",
-          "“Now you will give yourselves deep wounds for grief;...”",
+          "“Israel's people, you will win against your enemies. You will remove...”",
+          "“I will remove the magic things that you use....”",
+          "“People of Jerusalem, prepare your soldiers to fight! Our...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“Your hand is lifted up against those who are against you,...”",
+        "correctAnswer": "“Israel's people, you will win against your enemies. You will remove...”",
         "reference": "Micah 5:9",
-        "explanation": "Micah 5:9 records: 'Your hand is lifted up against those who are against you, and all your haters will be cut off.'."
+        "explanation": "Micah 5:9 records: 'Israel's people, you will win against your enemies. You will remove them from the earth!'."
       },
       {
         "id": "mic-5-q10",
         "questionNumber": 10,
         "question": "In the concluding portion of the chapter, what takes place in Micah 5:10?",
         "options": [
-          "“And I will have your images and your pillars...”",
-          "“And it will come about in that day, says the Lord,...”",
-          "“And you, Beth-lehem Ephrathah, the least among the families...”",
+          "“I will remove the idols and the stone pillars...”",
+          "“The Lord says, ‘At that time, I will remove your horses...”",
+          "“‘I speak to you, Bethlehem Ephrathah. You are only...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“And it will come about in that day, says the Lord,...”",
+        "correctAnswer": "“The Lord says, ‘At that time, I will remove your horses...”",
         "reference": "Micah 5:10",
-        "explanation": "Micah 5:10 records: 'And it will come about in that day, says the Lord, that I will take away your horses from you, and will give your war-carriages to destruction:'."
+        "explanation": "Micah 5:10 records: 'The Lord says, ‘At that time, I will remove your horses from you. I will also destroy your chariots.'."
       }
     ],
     "6": [
@@ -771,150 +768,150 @@
         "questionNumber": 1,
         "question": "According to Micah 6:1, what is the opening statement or setting of this chapter?",
         "options": [
-          "It records: “Give ear now to the words of the Lord: Up! put forward your cause...”",
+          "It records: “Listen to what the Lord says: ‘Stand up! Explain why you think yo...”",
           "It begins with a prayer of thanksgiving for deliverance in Micah",
           "It opens with a formal census and counting of the congregation",
           "It records a severe judgment pronounced against neighboring nations"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "It records: “Give ear now to the words of the Lord: Up! put forward your cause...”",
+        "correctAnswer": "It records: “Listen to what the Lord says: ‘Stand up! Explain why you think yo...”",
         "reference": "Micah 6:1",
-        "explanation": "The chapter begins directly with the statement: 'Give ear now to the words of the Lord: Up! put forward your cause before the mountains, let your voice be sounding among the hills.'."
+        "explanation": "The chapter begins directly with the statement: 'Listen to what the Lord says: ‘Stand up! Explain why you think you are not guilty. Let the mountains and the hills hear what you have to say.'."
       },
       {
         "id": "mic-6-q2",
         "questionNumber": 2,
         "question": "What key instruction, event, or declaration is set forth in Micah 6:2?",
         "options": [
-          "“O my people, keep in mind now what was...”",
-          "“Give ear, O you mountains, to the Lord's cause, and take...”",
-          "“The voice of the Lord is crying out to...”",
+          "“My people, remember how King Balak of Moab wanted...”",
+          "“Mountains and strong foundations of the earth, you should also listen...”",
+          "“Listen to the Lord as he calls to the...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“Give ear, O you mountains, to the Lord's cause, and take...”",
+        "correctAnswer": "“Mountains and strong foundations of the earth, you should also listen...”",
         "reference": "Micah 6:2",
-        "explanation": "Micah 6:2 records: 'Give ear, O you mountains, to the Lord's cause, and take note, you bases of the earth: for the Lord has a cause against his people, and he will take it up with Israel.'."
+        "explanation": "Micah 6:2 records: 'Mountains and strong foundations of the earth, you should also listen to me. I, the Lord, am accusing my people. Israel's people have turned against me. That is why I argue against them. 3 My people, what bad things have I done to you?How have I given you trouble? Answer me! 4 I brought you out of Egypt.6:4I rescued you from that place where you had been slaves.I sent Moses to lead you,as well as Aaron and Miriam. 5 My people, remember how King Balak of Moab wanted to hurt you.And remember how Beor's son Balaam answered him.6:5Remember also how you travelled from Shittim to Gilgal.6:5If you think about these things,you will agree that I, the Lord, have done good things for you.’How God wants his people to please him 6 When I come to meet the Lord,6:6what offering should I bring with me?I bend down low to worship him, the mighty God.Should I bring calves that are one year oldto make burnt offerings to him? 7 Perhaps he will accept a gift of a thousand male sheep,or ten thousand rivers of olive oil.I have turned against God.Should I offer to God my firstborn son to pay for my sin?If I give my own child to him as a sacrifice,will that be enough to pay for my sin? 8 No! The Lord has told each of you what is good.He has shown you how he wants you to live.You must do what is right and fair.You must always be kind to other people.And you must be careful to obey your God.6:8God will punish wicked people 9 Listen to the Lord as he calls to the city of Jerusalem!If you are wise, you will respect his authority.He says, ‘Listen to me,you people who have met together in the city. 10 I will not forget the wicked things that you do.You fill your homes with valuable thingsthat you have taken from other people.You use false weights to measure the food that you sell.I hate those things. 11 I will not forgive you when you use false scales.You use false weights and measures to cheat people. 12 The rich people among you use violenceto get what they want.Everyone in the city speaks lies.They are always deceiving people with their words. 13 So I will punish you with pain because of your sins.I will make you weak and helpless. 14 You will eat, but you will not have enough.You will always be hungry.You will store things for yourselves,but you will not keep them safe.I will cause you to lose the things that you have keptwhen enemies attack you. 15 You will plant seeds for crops,but you will not bring anything home at harvest time.You will squeeze oil out of olives,but you will never use the oil for yourselves.You will squeeze grapes to make wine,but you will never drink the wine. 16 You have obeyed the evil laws of King Omriand the laws of his son, King Ahab.You have lived in the wicked ways that they lived.6:16So I will completely destroy your power.Then other people will laugh at the people of Jerusalem.The people of other nations will insult you.’'."
       },
       {
         "id": "mic-6-q3",
         "questionNumber": 3,
         "question": "What significant action or revelation occurs in Micah 6:3?",
         "options": [
-          "“With what am I to come before the Lord...”",
-          "“Am I to let the stores of the evil-doer...”",
-          "“O my people, what have I done to you? how have...”",
+          "“When I come to meet the Lord, what offering...”",
+          "“I will not forget the wicked things that you...”",
+          "“My people, what bad things have I done to you? How...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“O my people, what have I done to you? how have...”",
+        "correctAnswer": "“My people, what bad things have I done to you? How...”",
         "reference": "Micah 6:3",
-        "explanation": "Micah 6:3 records: 'O my people, what have I done to you? how have I been a weariness to you? give answer against me.'."
+        "explanation": "Micah 6:3 records: 'My people, what bad things have I done to you? How have I given you trouble? Answer me!'."
       },
       {
         "id": "mic-6-q4",
         "questionNumber": 4,
         "question": "What truth or description is highlighted in Micah 6:4?",
         "options": [
-          "“Will the Lord be pleased with thousands of sheep...”",
-          "“Is it possible for me to let wrong scales...”",
+          "“Perhaps he will accept a gift of a thousand...”",
+          "“I will not forgive you when you use false...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“For I took you up out of the land of Egypt...”"
+          "“I brought you out of Egypt. I rescued you from that...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“For I took you up out of the land of Egypt...”",
+        "correctAnswer": "“I brought you out of Egypt. I rescued you from that...”",
         "reference": "Micah 6:4",
-        "explanation": "Micah 6:4 records: 'For I took you up out of the land of Egypt and made you free from the prison-house; I sent before you Moses, Aaron, and Miriam.'."
+        "explanation": "Micah 6:4 records: 'I brought you out of Egypt. I rescued you from that place where you had been slaves. I sent Moses to lead you, as well as Aaron and Miriam.'."
       },
       {
         "id": "mic-6-q5",
         "questionNumber": 5,
         "question": "According to the text, what happened or was commanded in Micah 6:5?",
         "options": [
-          "“O my people, keep in mind now what was designed by...”",
-          "“He has made clear to you, O man, what...”",
-          "“For its men of wealth are cruel, and its...”",
+          "“My people, remember how King Balak of Moab wanted to hurt...”",
+          "“No! The Lord has told each of you what...”",
+          "“The rich people among you use violence to get...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“O my people, keep in mind now what was designed by...”",
+        "correctAnswer": "“My people, remember how King Balak of Moab wanted to hurt...”",
         "reference": "Micah 6:5",
-        "explanation": "Micah 6:5 records: 'O my people, keep in mind now what was designed by Balak, king of Moab, and the answer which Balaam, son of Beor, gave him; the events, from Shittim to Gilgal, so that you may be certain of the upright acts of the Lord.'."
+        "explanation": "Micah 6:5 records: 'My people, remember how King Balak of Moab wanted to hurt you. And remember how Beor's son Balaam answered him. Remember also how you travelled from Shittim to Gilgal. If you think about these things, you will agree that I, the Lord, have done good things for you.’'."
       },
       {
         "id": "mic-6-q6",
         "questionNumber": 6,
         "question": "What central message or instruction is delivered in Micah 6:6?",
         "options": [
-          "“The voice of the Lord is crying out to...”",
-          "“With what am I to come before the Lord and go...”",
-          "“So I have made a start with your punishment;...”",
+          "“Listen to the Lord as he calls to the...”",
+          "“When I come to meet the Lord, what offering should I...”",
+          "“So I will punish you with pain because of...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“With what am I to come before the Lord and go...”",
+        "correctAnswer": "“When I come to meet the Lord, what offering should I...”",
         "reference": "Micah 6:6",
-        "explanation": "Micah 6:6 records: 'With what am I to come before the Lord and go with bent head before the high God? am I to come before him with burned offerings, with young oxen a year old?'."
+        "explanation": "Micah 6:6 records: 'When I come to meet the Lord, what offering should I bring with me? I bend down low to worship him, the mighty God. Should I bring calves that are one year old to make burnt offerings to him?'."
       },
       {
         "id": "mic-6-q7",
         "questionNumber": 7,
         "question": "What detail regarding God's work, covenant, or people is given in Micah 6:7?",
         "options": [
-          "“Am I to let the stores of the evil-doer...”",
-          "“You will have food, but not enough; your shame...”",
-          "“Will the Lord be pleased with thousands of sheep or with...”",
+          "“I will not forget the wicked things that you...”",
+          "“You will eat, but you will not have enough....”",
+          "“Perhaps he will accept a gift of a thousand male sheep,...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“Will the Lord be pleased with thousands of sheep or with...”",
+        "correctAnswer": "“Perhaps he will accept a gift of a thousand male sheep,...”",
         "reference": "Micah 6:7",
-        "explanation": "Micah 6:7 records: 'Will the Lord be pleased with thousands of sheep or with ten thousand rivers of oil? am I to give my first child for my wrongdoing, the fruit of my body for the sin of my soul?'."
+        "explanation": "Micah 6:7 records: 'Perhaps he will accept a gift of a thousand male sheep, or ten thousand rivers of olive oil. I have turned against God. Should I offer to God my firstborn son to pay for my sin? If I give my own child to him as a sacrifice, will that be enough to pay for my sin?'."
       },
       {
         "id": "mic-6-q8",
         "questionNumber": 8,
         "question": "What phrase or account is recorded in Micah 6:8?",
         "options": [
-          "“Is it possible for me to let wrong scales...”",
-          "“You will put in seed, but you will not...”",
+          "“I will not forgive you when you use false...”",
+          "“You will plant seeds for crops, but you will...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“He has made clear to you, O man, what is good;...”"
+          "“No! The Lord has told each of you what is good....”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“He has made clear to you, O man, what is good;...”",
+        "correctAnswer": "“No! The Lord has told each of you what is good....”",
         "reference": "Micah 6:8",
-        "explanation": "Micah 6:8 records: 'He has made clear to you, O man, what is good; and what is desired from you by the Lord; only doing what is right, and loving mercy, and walking without pride before your God.'."
+        "explanation": "Micah 6:8 records: 'No! The Lord has told each of you what is good. He has shown you how he wants you to live. You must do what is right and fair. You must always be kind to other people. And you must be careful to obey your God.'."
       },
       {
         "id": "mic-6-q9",
         "questionNumber": 9,
         "question": "How does the passage describe the circumstances or people in Micah 6:9?",
         "options": [
-          "“The voice of the Lord is crying out to the town:...”",
-          "“For its men of wealth are cruel, and its...”",
-          "“Give ear now to the words of the Lord:...”",
+          "“Listen to the Lord as he calls to the city of...”",
+          "“The rich people among you use violence to get...”",
+          "“Listen to what the Lord says: ‘Stand up! Explain...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“The voice of the Lord is crying out to the town:...”",
+        "correctAnswer": "“Listen to the Lord as he calls to the city of...”",
         "reference": "Micah 6:9",
-        "explanation": "Micah 6:9 records: 'The voice of the Lord is crying out to the town: Give ear, you tribes and the meeting of the town.'."
+        "explanation": "Micah 6:9 records: 'Listen to the Lord as he calls to the city of Jerusalem! If you are wise, you will respect his authority. He says, ‘Listen to me, you people who have met together in the city.'."
       },
       {
         "id": "mic-6-q10",
         "questionNumber": 10,
         "question": "In the concluding portion of the chapter, what takes place in Micah 6:10?",
         "options": [
-          "“So I have made a start with your punishment;...”",
-          "“Am I to let the stores of the evil-doer go out...”",
-          "“Give ear now to the words of the Lord:...”",
+          "“So I will punish you with pain because of...”",
+          "“I will not forget the wicked things that you do. You...”",
+          "“Listen to what the Lord says: ‘Stand up! Explain...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“Am I to let the stores of the evil-doer go out...”",
+        "correctAnswer": "“I will not forget the wicked things that you do. You...”",
         "reference": "Micah 6:10",
-        "explanation": "Micah 6:10 records: 'Am I to let the stores of the evil-doer go out of my memory, and the short measure, which is cursed?'."
+        "explanation": "Micah 6:10 records: 'I will not forget the wicked things that you do. You fill your homes with valuable things that you have taken from other people. You use false weights to measure the food that you sell. I hate those things.'."
       }
     ],
     "7": [
@@ -923,150 +920,150 @@
         "questionNumber": 1,
         "question": "According to Micah 7:1, what is the opening statement or setting of this chapter?",
         "options": [
-          "It records: “Sorrow is mine! for I am as when they have got in the summer frui...”",
+          "It records: “I am very sad and upset! I am like someone who is looking for fru...”",
           "It begins with a prayer of thanksgiving for deliverance in Micah",
           "It opens with a formal census and counting of the congregation",
           "It records a severe judgment pronounced against neighboring nations"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "It records: “Sorrow is mine! for I am as when they have got in the summer frui...”",
+        "correctAnswer": "It records: “I am very sad and upset! I am like someone who is looking for fru...”",
         "reference": "Micah 7:1",
-        "explanation": "The chapter begins directly with the statement: 'Sorrow is mine! for I am as when they have got in the summer fruits, like the last of the grapes: there is nothing for food, not even an early fig for my desire.'."
+        "explanation": "The chapter begins directly with the statement: 'I am very sad and upset! I am like someone who is looking for fruit to eat. But other people have picked the fruit already. I would love to find some grapes or some fresh figs that I could eat. But none of them remain on the trees.'."
       },
       {
         "id": "mic-7-q2",
         "questionNumber": 2,
         "question": "What key instruction, event, or declaration is set forth in Micah 7:2?",
         "options": [
-          "“Put no faith in a friend, do not let...”",
-          "“The good man is gone from the earth, there is no...”",
-          "“I will undergo the wrath of the Lord, because...”",
+          "“Do not trust anyone, even your special friend. You...”",
+          "“No faithful people now remain in the land. People who do...”",
+          "“I have not obeyed the Lord, so I must...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“The good man is gone from the earth, there is no...”",
+        "correctAnswer": "“No faithful people now remain in the land. People who do...”",
         "reference": "Micah 7:2",
-        "explanation": "Micah 7:2 records: 'The good man is gone from the earth, there is no one upright among men: they are all waiting secretly for blood, every man is going after his brother with a net.'."
+        "explanation": "Micah 7:2 records: 'No faithful people now remain in the land. People who do what is right have completely disappeared. Everyone is waiting for a chance to murder someone. They are like hunters who use traps to catch their friends.'."
       },
       {
         "id": "mic-7-q3",
         "questionNumber": 3,
         "question": "What significant action or revelation occurs in Micah 7:4?",
         "options": [
-          "“But as for me, I am looking to the...”",
-          "“A day for building your walls! in that day...”",
-          "“The best of them is like a waste plant, and their...”",
+          "“But as for me, I will continue to hope...”",
+          "“The time will come when you will build again...”",
+          "“Even the best person is as useless as a thorn bush....”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“The best of them is like a waste plant, and their...”",
+        "correctAnswer": "“Even the best person is as useless as a thorn bush....”",
         "reference": "Micah 7:4",
-        "explanation": "Micah 7:4 records: 'The best of them is like a waste plant, and their upright ones are like a wall of thorns. Sorrow! the day of their fate has come; now will trouble come on them.'."
+        "explanation": "Micah 7:4 records: 'Even the best person is as useless as a thorn bush. The most honest people are worse than thorn bushes. The time will soon be here when the Lord will punish you. The prophets warned you that this time would come. It will cause you to become confused.'."
       },
       {
         "id": "mic-7-q4",
         "questionNumber": 4,
         "question": "What truth or description is highlighted in Micah 7:6?",
         "options": [
-          "“I will undergo the wrath of the Lord, because...”",
-          "“But the land will become a waste because of...”",
+          "“I have not obeyed the Lord, so I must...”",
+          "“But the earth will become an empty desert, because...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“For the son puts shame on his father, the daughter goes...”"
+          "“At that time, sons will not respect their fathers. Daughters will...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“For the son puts shame on his father, the daughter goes...”",
+        "correctAnswer": "“At that time, sons will not respect their fathers. Daughters will...”",
         "reference": "Micah 7:6",
-        "explanation": "Micah 7:6 records: 'For the son puts shame on his father, the daughter goes against her mother and the daughter-in-law against her mother-in-law; and a man's haters are those of his family.'."
+        "explanation": "Micah 7:6 records: 'At that time, sons will not respect their fathers. Daughters will refuse to obey their mothers. Wives will argue with their husbands' mothers. People who live in your house will be your enemies!'."
       },
       {
         "id": "mic-7-q5",
         "questionNumber": 5,
         "question": "According to the text, what happened or was commanded in Micah 7:8?",
         "options": [
-          "“Do not be glad because of my sorrow, O my hater:...”",
-          "“A day for building your walls! in that day...”",
-          "“As in the days when you came out from...”",
+          "“My enemies, do not be happy because I am in trouble....”",
+          "“The time will come when you will build again...”",
+          "“The Lord says, ‘I will do miracles to help...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“Do not be glad because of my sorrow, O my hater:...”",
+        "correctAnswer": "“My enemies, do not be happy because I am in trouble....”",
         "reference": "Micah 7:8",
-        "explanation": "Micah 7:8 records: 'Do not be glad because of my sorrow, O my hater: after my fall I will be lifted up; when I am seated in the dark, the Lord will be a light to me.'."
+        "explanation": "Micah 7:8 records: 'My enemies, do not be happy because I am in trouble. I have fallen down, but I will get up. I am in the dark, but the Lord will be a light for me.'."
       },
       {
         "id": "mic-7-q6",
         "questionNumber": 6,
         "question": "What central message or instruction is delivered in Micah 7:10?",
         "options": [
-          "“But the land will become a waste because of...”",
-          "“And my hater will see it and be covered with shame;...”",
-          "“They will take dust as their food like a...”",
+          "“But the earth will become an empty desert, because...”",
+          "“When my enemies see this, they will be very ashamed. Now...”",
+          "“They will move low along the ground, like snakes...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“And my hater will see it and be covered with shame;...”",
+        "correctAnswer": "“When my enemies see this, they will be very ashamed. Now...”",
         "reference": "Micah 7:10",
-        "explanation": "Micah 7:10 records: 'And my hater will see it and be covered with shame; she who said to me, Where is the Lord your God? my eyes will see their desire effected on her, now she will be crushed under foot like the dust of the streets.'."
+        "explanation": "Micah 7:10 records: 'When my enemies see this, they will be very ashamed. Now they say to me, ‘The Lord your God has not helped you.’ But then I will laugh at them. Other people will stamp on them, as if they are mud in the streets.'."
       },
       {
         "id": "mic-7-q7",
         "questionNumber": 7,
         "question": "What detail regarding God's work, covenant, or people is given in Micah 7:12?",
         "options": [
-          "“As in the days when you came out from...”",
-          "“He will again have pity on us; he will...”",
-          "“In that day they will come to you from Assyria and...”",
+          "“The Lord says, ‘I will do miracles to help...”",
+          "“You will be kind and forgive us once again....”",
+          "“At that time, people of other nations will come to you....”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“In that day they will come to you from Assyria and...”",
+        "correctAnswer": "“At that time, people of other nations will come to you....”",
         "reference": "Micah 7:12",
-        "explanation": "Micah 7:12 records: 'In that day they will come to you from Assyria and the towns of Egypt, and from Egypt even to the River, and from sea to sea and from mountain to mountain.'."
+        "explanation": "Micah 7:12 records: 'At that time, people of other nations will come to you. They will come from Assyria and from as far as Egypt. They will come from places between Egypt and the Euphrates River. They will come from many places across the seas, and from mountains far away.'."
       },
       {
         "id": "mic-7-q8",
         "questionNumber": 8,
         "question": "What phrase or account is recorded in Micah 7:14?",
         "options": [
-          "“They will take dust as their food like a...”",
-          "“Sorrow is mine! for I am as when they...”",
+          "“They will move low along the ground, like snakes...”",
+          "“I am very sad and upset! I am like...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“Keep your people safe with your rod, the flock of your...”"
+          "“Lord, we belong to you as your people. Please take care...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“Keep your people safe with your rod, the flock of your...”",
+        "correctAnswer": "“Lord, we belong to you as your people. Please take care...”",
         "reference": "Micah 7:14",
-        "explanation": "Micah 7:14 records: 'Keep your people safe with your rod, the flock of your heritage, living by themselves in the woods in the middle of Carmel: let them get their food in Bashan and Gilead as in the past.'."
+        "explanation": "Micah 7:14 records: 'Lord, we belong to you as your people. Please take care of us and protect us, as a shepherd takes care of his sheep. We are like sheep that live alone in a forest, with fields of grass all around us. Please lead us out to Bashan and Gilead. We can eat there as we did a long time ago. 15 The Lord says,‘I will do miracles to help you,as I did when I rescued you from Egypt.’ 16 People of other nations will see the Lord help his people.They will be ashamed because their power has finished.They will be very upset.They will not be able to say anything or hear anything. 17 They will move low along the ground,like snakes that eat the dust.They will be very afraidas they come out of their safe places.They will see the power of the Lord our God,and they will shake with fear. 18 Lord, there is no God like you.You forgive the sins of your people who remain,the people who belong to you.You do not continue to be angry for ever.Instead, you love us with a faithful love. 19 You will be kind and forgive us once again.You will remove the evil things that we have done.You will throw our sins into the deep sea! 20 You will be faithful and you will continue to love us,as you promised our ancestors long ago.We are descendants of Jacob and Abraham,and you will be faithful to your promise to them.7:20'."
       },
       {
         "id": "mic-7-q9",
         "questionNumber": 9,
         "question": "How does the passage describe the circumstances or people in Micah 7:16?",
         "options": [
-          "“The nations will see and be shamed because of all their...”",
-          "“He will again have pity on us; he will...”",
-          "“Their hands are made ready to do evil; the...”",
+          "“People of other nations will see the Lord help his people....”",
+          "“You will be kind and forgive us once again....”",
+          "“They have learned how to do wicked things with...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“The nations will see and be shamed because of all their...”",
+        "correctAnswer": "“People of other nations will see the Lord help his people....”",
         "reference": "Micah 7:16",
-        "explanation": "Micah 7:16 records: 'The nations will see and be shamed because of all their strength; they will put their hands on their mouths, their ears will be stopped.'."
+        "explanation": "Micah 7:16 records: 'People of other nations will see the Lord help his people. They will be ashamed because their power has finished. They will be very upset. They will not be able to say anything or hear anything.'."
       },
       {
         "id": "mic-7-q10",
         "questionNumber": 10,
         "question": "In the concluding portion of the chapter, what takes place in Micah 7:18?",
         "options": [
-          "“Sorrow is mine! for I am as when they...”",
-          "“Who is a God like you, offering forgiveness for evil-doing and...”",
-          "“Put no faith in a friend, do not let...”",
+          "“I am very sad and upset! I am like...”",
+          "“Lord, there is no God like you. You forgive the sins...”",
+          "“Do not trust anyone, even your special friend. You...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“Who is a God like you, offering forgiveness for evil-doing and...”",
+        "correctAnswer": "“Lord, there is no God like you. You forgive the sins...”",
         "reference": "Micah 7:18",
-        "explanation": "Micah 7:18 records: 'Who is a God like you, offering forgiveness for evil-doing and overlooking the sins of the rest of his heritage? he does not keep his wrath for ever, because his delight is in mercy.'."
+        "explanation": "Micah 7:18 records: 'Lord, there is no God like you. You forgive the sins of your people who remain, the people who belong to you. You do not continue to be angry for ever. Instead, you love us with a faithful love.'."
       }
     ]
   }

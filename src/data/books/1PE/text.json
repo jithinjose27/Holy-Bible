@@ -1,993 +1,944 @@
 {
-  "translation": "EasyEnglish Bible",
-  "book": "1 Peter",
-  "bookId": "1PE",
+  "id": "1PE",
+  "name": "1 Peter",
+  "slug": "1-peter",
+  "translation": "EasyEnglish Bible (EASY)",
+  "publisher": "MissionAssist UK",
+  "referenceUrl": "https://www.easyenglish.bible/bible/easy/1-peter/",
   "totalChapters": 5,
-  "copyrightNotice": "Scripture quotations are from the EasyEnglish Bible / Bible in Basic English. Public Domain.",
-  "officialSourceUrl": "https://www.easyenglish.bible/bible/easy/1-peter/1/",
+  "totalVerses": 105,
   "chapters": [
     {
-      "book": "1 Peter",
       "chapter": 1,
       "title": "1 Peter 1",
-      "subtitle": "1 Peter Chapter 1",
+      "subtitle": "",
+      "totalVerses": 25,
+      "sourceUrl": "https://www.easyenglish.bible/bible/easy/1-peter/1/",
       "sections": [
         {
-          "heading": "1 Peter Chapter 1",
+          "heading": "Peter writes to Christians in many different places",
           "items": [
             [
               {
                 "verse": 1,
-                "text": "Peter, an Apostle of Jesus Christ, to the saints who are living in Pontus, Galatia, Cappadocia, Asia, and Bithynia,"
+                "text": "This letter is from me, Peter. I am an apostle of Jesus Christ."
+              }
+            ],
+            [
+              {
+                "verse": 1,
+                "text": "I am writing to you, God's own people that he has chosen. You are now living in many different places, in the regions called Pontus, Galatia, Cappadocia, Asia and Bithynia. You are living in these foreign places as strangers."
               },
               {
                 "verse": 2,
-                "text": "Who, through the purpose of God, have been made holy by the Spirit, disciples of Jesus, made clean by his blood: May you have grace and peace in full measure."
-              },
+                "text": "God the Father already decided that you should be his people. God's Spirit has made you special people who would obey Jesus Christ. God chose you so that Jesus Christ's blood would make you really clean."
+              }
+            ],
+            [
+              {
+                "verse": 2,
+                "text": "I pray that God will help you and give you peace in your minds more and more."
+              }
+            ]
+          ]
+        },
+        {
+          "heading": "Christians have a new life as they trust God",
+          "items": [
+            [
               {
                 "verse": 3,
-                "text": "Praise be to the God and Father of our Lord Jesus Christ, who through his great mercy has given us a new birth and a living hope by the coming again of Jesus Christ from the dead,"
+                "text": "We praise God, who is the Father of our Lord Jesus Christ! He is very kind to us, so that he has given us new life. This is possible because God raised Jesus Christ to new life after his death. Now, as we live, we are sure that we will receive good things from God."
               },
               {
                 "verse": 4,
-                "text": "And a heritage fair, holy and for ever new, waiting in heaven for you,"
+                "text": "We wait to receive all the good things that he has prepared for us. Nobody can ever destroy those things. Nothing can spoil them. They will never become old or less beautiful. God is keeping those things in heaven for you."
+              },
+              {
+                "verse": 5,
+                "text": "God is using his great power to keep you safe, because you trust him. He will continue to keep you safe until the last day, when Christ will return. Then you will know that God has saved you completely from sin and from death."
               }
             ],
             [
               {
-                "verse": 5,
-                "text": "Who, by the power of God are kept, through faith, for that salvation, which will be seen at the last day."
-              },
-              {
                 "verse": 6,
-                "text": "You have cause for great joy in this, though it may have been necessary for you to be troubled for a little time, being tested in all sorts of ways,"
+                "text": "All this causes you to be very happy, even when you have troubles. For a short time now, different kinds of troubles may make you sad."
               },
               {
                 "verse": 7,
-                "text": "So that the true metal of your faith, being of much greater value than gold (which, though it comes to an end, is tested by fire), may come to light in praise and glory and honour, at the revelation of Jesus Christ:"
-              },
-              {
-                "verse": 8,
-                "text": "To whom your love is given, though you have not seen him; and the faith which you have in him, though you do not see him now, gives you joy greater than words and full of glory:"
+                "text": "The purpose of these troubles is to show whether you really trust God. When you believe in Jesus, that is more valuable even than gold. People put gold into a hot fire to see if it is really good. And even gold will come to an end one day. But if you continue to trust God in your troubles, he will be very happy. On the day when Jesus Christ returns and appears to everyone, God will praise you. He will say that you have done well. That will be great!"
               }
             ],
             [
               {
-                "verse": 9,
-                "text": "For so you have the true end of your faith, even the salvation of your souls."
+                "verse": 8,
+                "text": "You have never seen Jesus, but still you love him. You do not see him now, but you believe in him. As a result, you are very happy. There are no words to describe how happy you are."
               },
               {
+                "verse": 9,
+                "text": "You are happy now because God is saving you from sin. You believe in Jesus, and you know that God saves you because of that."
+              }
+            ],
+            [
+              {
                 "verse": 10,
-                "text": "For the prophets who gave the news of the grace which would come to you, made search with all care for knowledge of this salvation;"
+                "text": "A long time ago, God's prophets spoke about this. They said that God would be very kind to you, his people. They studied carefully to learn how God would save people."
               },
               {
                 "verse": 11,
-                "text": "Attempting to see what sort of time the Spirit of Christ which was in them was pointing to, when it gave witness to the pains which Christ would undergo and the glories which would come after them."
+                "text": "They wanted to know when God's Messiah would come and who he would be. Christ's Spirit showed those prophets that the Messiah would suffer very much. After that, God would show how great the Messiah is."
               },
               {
                 "verse": 12,
-                "text": "And it was made clear to those prophets that they were God's servants not for themselves but for you, to give you word of the things which have now come to your ears from the preachers of the good news through the Holy Spirit sent down from heaven; things which even angels have a desire to see."
+                "text": "God showed his prophets that his messages about these things were not really to help them. Instead, God sent his message to the prophets to help you. That message is the good news about Jesus Christ which you have now heard. God sent his Holy Spirit from heaven to help people to tell the good news to you. Even the angels would like to understand more about these things."
               }
-            ],
+            ]
+          ]
+        },
+        {
+          "heading": "Christians should live as God's holy people",
+          "items": [
             [
               {
                 "verse": 13,
-                "text": "So make your minds ready, and keep on the watch, hoping with all your power for the grace which is to come to you at the revelation of Jesus Christ;"
+                "text": "So now, prepare your minds, so that you are ready to live in a good way. Think clearly about how God helps you. Always remember that God will be very kind to you when Jesus Christ comes again."
               },
               {
                 "verse": 14,
-                "text": "Like children ruled by God, do not go back to the old desires of the time when you were without knowledge:"
+                "text": "Obey God, like good children who obey their father. Before you knew the true message about Christ, you very much wanted to do bad things. But now you should not agree to live in that bad way."
               },
               {
                 "verse": 15,
-                "text": "But be holy in every detail of your lives, as he, whose servants you are, is holy;"
+                "text": "God has chosen you to be his own people. He is holy. So you must be holy too, in the way that you live."
               },
               {
                 "verse": 16,
-                "text": "Because it has been said in the Writings, You are to be holy, for I am holy."
+                "text": "In the Bible God says this: ‘You must be holy, because I am holy.’"
               }
             ],
             [
               {
                 "verse": 17,
-                "text": "And if you give the name of Father to him who, judging every man by his acts, has no respect for a man's position, then go in fear while you are on this earth:"
+                "text": "God knows what each person has done, and he judges each one for those things. He is always fair when he decides about people. He is never kinder to one person than he is to another person. When you pray to God, you call him ‘Father’. So then, always respect him, while you live as strangers here in the world."
               },
               {
                 "verse": 18,
-                "text": "Being conscious that you have been made free from that foolish way of life which was your heritage from your fathers, not through a payment of things like silver or gold which come to destruction,"
+                "text": "Your ancestors lived in a way that did not make them truly happy. That is the way that you learned to live as well. But now God has saved you from that way of life. You know that he has bought you for himself. He did not buy you with things that do not continue for ever, like silver or gold."
               },
               {
                 "verse": 19,
-                "text": "But through holy blood, like that of a clean and unmarked lamb, even the blood of Christ:"
-              },
-              {
-                "verse": 20,
-                "text": "Who was marked out by God before the making of the world, but was caused to be seen in these last times for you,"
+                "text": "Instead, he bought you with the very valuable blood of Christ, who died as a perfect sacrifice for our sins. He died like a lamb that is perfect and has nothing wrong with it."
               }
             ],
             [
               {
-                "verse": 21,
-                "text": "Who through him have faith in God who took him up again from the dead into glory; so that your faith and hope might be in God."
+                "verse": 20,
+                "text": "Before the world began, God had already chosen Christ. But now, during these last days of the world, God has shown Christ to people. God did that so that he could help you."
               },
               {
+                "verse": 21,
+                "text": "Yes, it is because of Christ that you now believe in God. God raised Christ, so that he became alive again after his death. He did that to show everyone that Christ is great. That is why you believe in God. You trust him that he will do good things for you."
+              }
+            ],
+            [
+              {
                 "verse": 22,
-                "text": "And as you have made your souls clean, being ruled by what is true, and loving one another without deceit, see that your love is warm and from the heart:"
+                "text": "You have obeyed God's true message. As a result, you have become clean inside, and now you can really love other believers. So continue to love each other very well, with honest thoughts."
               },
               {
                 "verse": 23,
-                "text": "Because you have had a new birth, not from the seed of man, but from eternal seed, through the word of a living and unchanging God."
+                "text": "You now have a new life! It is not like a human life that quickly comes to an end. It is a new life that will never spoil. You received it because you believed God's message. That message continues for ever and it does not change."
               },
               {
                 "verse": 24,
-                "text": "For it is said, All flesh is like grass, and all its glory like the flower of the grass. The grass becomes dry and the flower dead:"
+                "text": "The Bible says:"
+              }
+            ],
+            [
+              {
+                "verse": 24,
+                "text": "‘All people are like grass."
+              }
+            ],
+            [
+              {
+                "verse": 24,
+                "text": "They may seem beautiful for a short time,"
+              }
+            ],
+            [
+              {
+                "verse": 24,
+                "text": "like flowers that grow in the fields."
+              }
+            ],
+            [
+              {
+                "verse": 24,
+                "text": "But grass soon becomes dry and it dies."
+              }
+            ],
+            [
+              {
+                "verse": 24,
+                "text": "Flowers soon fall to the ground."
               }
             ],
             [
               {
                 "verse": 25,
-                "text": "But the word of the Lord is eternal. And this is the word of the good news which was given to you."
+                "text": "But the message of the Lord God will continue for ever.’"
+              }
+            ],
+            [
+              {
+                "verse": 25,
+                "text": "That message is the good news about Jesus Christ, which people have taught you."
+              }
+            ],
+            [
+              {
+                "verse": 25,
+                "text": "That message is the good news about Jesus Christ, which people have taught you."
               }
             ]
           ]
         }
       ],
-      "verses": [
-        {
-          "verse": 1,
-          "text": "Peter, an Apostle of Jesus Christ, to the saints who are living in Pontus, Galatia, Cappadocia, Asia, and Bithynia,"
-        },
-        {
-          "verse": 2,
-          "text": "Who, through the purpose of God, have been made holy by the Spirit, disciples of Jesus, made clean by his blood: May you have grace and peace in full measure."
-        },
-        {
-          "verse": 3,
-          "text": "Praise be to the God and Father of our Lord Jesus Christ, who through his great mercy has given us a new birth and a living hope by the coming again of Jesus Christ from the dead,"
-        },
-        {
-          "verse": 4,
-          "text": "And a heritage fair, holy and for ever new, waiting in heaven for you,"
-        },
-        {
-          "verse": 5,
-          "text": "Who, by the power of God are kept, through faith, for that salvation, which will be seen at the last day."
-        },
-        {
-          "verse": 6,
-          "text": "You have cause for great joy in this, though it may have been necessary for you to be troubled for a little time, being tested in all sorts of ways,"
-        },
-        {
-          "verse": 7,
-          "text": "So that the true metal of your faith, being of much greater value than gold (which, though it comes to an end, is tested by fire), may come to light in praise and glory and honour, at the revelation of Jesus Christ:"
-        },
-        {
-          "verse": 8,
-          "text": "To whom your love is given, though you have not seen him; and the faith which you have in him, though you do not see him now, gives you joy greater than words and full of glory:"
-        },
-        {
-          "verse": 9,
-          "text": "For so you have the true end of your faith, even the salvation of your souls."
-        },
-        {
-          "verse": 10,
-          "text": "For the prophets who gave the news of the grace which would come to you, made search with all care for knowledge of this salvation;"
-        },
-        {
-          "verse": 11,
-          "text": "Attempting to see what sort of time the Spirit of Christ which was in them was pointing to, when it gave witness to the pains which Christ would undergo and the glories which would come after them."
-        },
-        {
-          "verse": 12,
-          "text": "And it was made clear to those prophets that they were God's servants not for themselves but for you, to give you word of the things which have now come to your ears from the preachers of the good news through the Holy Spirit sent down from heaven; things which even angels have a desire to see."
-        },
-        {
-          "verse": 13,
-          "text": "So make your minds ready, and keep on the watch, hoping with all your power for the grace which is to come to you at the revelation of Jesus Christ;"
-        },
-        {
-          "verse": 14,
-          "text": "Like children ruled by God, do not go back to the old desires of the time when you were without knowledge:"
-        },
-        {
-          "verse": 15,
-          "text": "But be holy in every detail of your lives, as he, whose servants you are, is holy;"
-        },
-        {
-          "verse": 16,
-          "text": "Because it has been said in the Writings, You are to be holy, for I am holy."
-        },
-        {
-          "verse": 17,
-          "text": "And if you give the name of Father to him who, judging every man by his acts, has no respect for a man's position, then go in fear while you are on this earth:"
-        },
-        {
-          "verse": 18,
-          "text": "Being conscious that you have been made free from that foolish way of life which was your heritage from your fathers, not through a payment of things like silver or gold which come to destruction,"
-        },
-        {
-          "verse": 19,
-          "text": "But through holy blood, like that of a clean and unmarked lamb, even the blood of Christ:"
-        },
-        {
-          "verse": 20,
-          "text": "Who was marked out by God before the making of the world, but was caused to be seen in these last times for you,"
-        },
-        {
-          "verse": 21,
-          "text": "Who through him have faith in God who took him up again from the dead into glory; so that your faith and hope might be in God."
-        },
-        {
-          "verse": 22,
-          "text": "And as you have made your souls clean, being ruled by what is true, and loving one another without deceit, see that your love is warm and from the heart:"
-        },
-        {
-          "verse": 23,
-          "text": "Because you have had a new birth, not from the seed of man, but from eternal seed, through the word of a living and unchanging God."
-        },
-        {
-          "verse": 24,
-          "text": "For it is said, All flesh is like grass, and all its glory like the flower of the grass. The grass becomes dry and the flower dead:"
-        },
-        {
-          "verse": 25,
-          "text": "But the word of the Lord is eternal. And this is the word of the good news which was given to you."
-        }
-      ],
-      "totalVerses": 25,
-      "footnotes": []
+      "notes": [
+        "Christ is a name for Jesus in theGreeklanguage that means the same asMessiahin theHebrewlanguage. It means someone that God chose as a special king for his people.",
+        "Pontus, Galatia, Cappadocia, Asia and Bithynia were allregionsthat Rome ruled. They were in the country that we now call Turkey. Many Christians could not live safely in their own land.",
+        "In the Book of Leviticus, God says five times that we should beholy, like him. SeeLeviticus 11:44,45;19:2;20:7,26. That means that we should keep ourselves separate from everything that is bad.",
+        "God told the Israelites to killlambsand other animals and to offer them to him assacrifices. They offered animals to God so that he wouldforgivetheirsins."
+      ]
     },
     {
-      "book": "1 Peter",
       "chapter": 2,
       "title": "1 Peter 2",
-      "subtitle": "1 Peter Chapter 2",
+      "subtitle": "",
+      "totalVerses": 25,
+      "sourceUrl": "https://www.easyenglish.bible/bible/easy/1-peter/2/",
       "sections": [
         {
-          "heading": "1 Peter Chapter 2",
+          "heading": "God's message is like good food that helps you to grow",
           "items": [
             [
               {
                 "verse": 1,
-                "text": "So putting away all wrongdoing, and all tricks and deceits and envies and evil talk,"
+                "text": "So you must refuse to do any evil things. Do not tell lies to deceive people. Do not be hypocrites. Do not be jealous of other people. Do not say bad things against other people."
               },
               {
                 "verse": 2,
-                "text": "Be full of desire for the true milk of the word, as babies at their mothers' breasts, so that you may go on to salvation;"
+                "text": "Instead, you should want to learn about God more and more. New babies always want their mothers' milk, which makes them grow strong. God's message is like good food that will make you strong in your spirits. Then you will continue to grow as believers so that God saves you."
               },
               {
                 "verse": 3,
-                "text": "If you have had a taste of the grace of the Lord:"
-              },
+                "text": "Do this, because you have already begun to know how kind the Lord is to you."
+              }
+            ]
+          ]
+        },
+        {
+          "heading": "Jesus is like the most important stone in God's house",
+          "items": [
+            [
               {
                 "verse": 4,
-                "text": "To whom you come, as to a living stone, not honoured by men, but of great and special value to God;"
+                "text": "So come to the Lord Jesus. He is like a strong stone that a builder uses to build a house. But he is alive. People decided that he was not important. So they refused to accept him. But God had chosen him. To God, Jesus is very valuable."
+              },
+              {
+                "verse": 5,
+                "text": "You yourselves are also like stones that are alive. God is using you, like stones, to build a house where his Spirit lives. You will serve him like his special priests who offer sacrifices to him. God will be happy with the spiritual offerings that you give to him, because you belong to Jesus Christ."
               }
             ],
             [
               {
-                "verse": 5,
-                "text": "You, as living stones, are being made into a house of the spirit, a holy order of priests, making those offerings of the spirit which are pleasing to God through Jesus Christ."
-              },
+                "verse": 6,
+                "text": "In the Bible, God says this:"
+              }
+            ],
+            [
               {
                 "verse": 6,
-                "text": "Because it is said in the Writings, See, I am placing a keystone in Zion, of great and special value; and the man who has faith in him will not be put to shame."
-              },
+                "text": "‘Look, I have chosen a stone that is very valuable."
+              }
+            ],
+            [
+              {
+                "verse": 6,
+                "text": "I have chosen this stone as the most important stone,"
+              }
+            ],
+            [
+              {
+                "verse": 6,
+                "text": "for the corner of my house in Zion."
+              }
+            ],
+            [
+              {
+                "verse": 6,
+                "text": "Anyone who believes in him will never become disappointed.’"
+              }
+            ],
+            [
+              {
+                "verse": 6,
+                "text": "7 This stone is very valuable to you who believe in Jesus. But the Bible says this about people who do not believe in him:‘The builders refused to use a certain stone.They thought that it had no value.But now that stone has become the most important stoneat the corner of the building.’2:7 8 The Bible also says this:‘This stone will cause people to fall to the ground.It is a rock that will make them fall down.’2:8They fall down like that because they refuse to obey God's message. God already decided that this would happen to them. 9 But you are not like that. You are a special group of people that God has chosen. You serve God like priests who serve a King. You are his own holy people who belong to him. He has taken you out of the dark place of sin, and he has brought you into his great light. God has done all this so that you can tell people how great he is. 10 In past times, you were not people who knew God. But now you are God's people. In past times, God did not forgive you. But now he has been very kind to you and he has forgiven you.2:92:10 11 My friends, remember that you are really strangers in this world. You do not belong here. So I am telling you not to do the bad things that your bodies may want to do. Those bad things fight against what is good for your soul. 12 You are living among people who do not know God. So be very careful that you always live in a good way. Sometimes these people may wrongly say that you do bad things. But if you continue to live in a good way, they will see that you really do good things. As a result, on the day when God comes as judge, they will give honour to him.Christians should obey people who have authority 13 Obey all people who have authority in this world. Obey them, because you are servants of the Lord Jesus. First of all, obey the king, who rules everyone. 14 Also obey the officers that serve the king. He has sent them to punish people who do bad things. And they praise people who do good things. 15 God wants you to do only what is good. Then silly people will not be able to say bad things against you. Those people do not really know what is true. 16 You are free people. But you are servants of God. So do not think, ‘Because I am free, I can do any bad thing that I want to do.’ 17 Respect all people. Love the believers as you would love your family. Obey God as your master. Respect the king. 18 You who are slaves must obey your masters. Always respect them. Do that to every kind of master. Obey those who are good and kind. But also obey masters who are not fair to you. 19 This makes God happy. Maybe your master will punish you when you have done nothing wrong. If you know that you are serving God, continue to be patient and brave. 20 But if you do something wrong, then your master ought to punish you. That is only fair. Even if you are brave when he is cruel to you, nobody should praise you for that. But your master may punish you even when you have done good things. Then God will be happy if you are patient and brave. 21 When God chose you to be his servants, he wanted you to be brave like that. Christ suffered on your behalf. He has shown you how you should live when trouble comes. 22 The Bible says this:‘He never did anything that was wrong.He never said anything that was not true.’2:22 23 People insulted Christ, but he did not say any bad thing to answer them. People caused him to have trouble, but he never tried to hurt them in return. Instead, Christ trusted God to help him. He knew that God always judges people fairly. 24 When Christ died on the cross, he carried our sins in his own body. He took this punishment so that sin would no longer rule over us. Instead, we can now do the right things that God wants us to do. Because people hurt Christ's body, you have now become well. 25 Before, you were like sheep that were going the wrong way. But now you have turned round and come to Christ. He is your Shepherd, and he keeps you completely safe.2:24"
+              }
+            ],
+            [
               {
                 "verse": 7,
-                "text": "And the value is for you who have faith; but it is said for those without faith, The very stone which the builders put on one side, was made the chief stone of the building;"
-              },
+                "text": "This stone is very valuable to you who believe in Jesus. But the Bible says this about people who do not believe in him:"
+              }
+            ],
+            [
+              {
+                "verse": 7,
+                "text": "‘The builders refused to use a certain stone."
+              }
+            ],
+            [
+              {
+                "verse": 7,
+                "text": "They thought that it had no value."
+              }
+            ],
+            [
+              {
+                "verse": 7,
+                "text": "But now that stone has become the most important stone"
+              }
+            ],
+            [
+              {
+                "verse": 7,
+                "text": "at the corner of the building.’"
+              }
+            ],
+            [
               {
                 "verse": 8,
-                "text": "And, A stone of falling, a rock of trouble; the word is the cause of their fall, because they go against it, and this was the purpose of God."
+                "text": "The Bible also says this:"
+              }
+            ],
+            [
+              {
+                "verse": 8,
+                "text": "‘This stone will cause people to fall to the ground."
+              }
+            ],
+            [
+              {
+                "verse": 8,
+                "text": "It is a rock that will make them fall down.’"
+              }
+            ],
+            [
+              {
+                "verse": 8,
+                "text": "They fall down like that because they refuse to obey God's message. God already decided that this would happen to them. 9 But you are not like that. You are a special group of people that God has chosen. You serve God like priests who serve a King. You are his own holy people who belong to him. He has taken you out of the dark place of sin, and he has brought you into his great light. God has done all this so that you can tell people how great he is. 10 In past times, you were not people who knew God. But now you are God's people. In past times, God did not forgive you. But now he has been very kind to you and he has forgiven you.2:92:10 11 My friends, remember that you are really strangers in this world. You do not belong here. So I am telling you not to do the bad things that your bodies may want to do. Those bad things fight against what is good for your soul. 12 You are living among people who do not know God. So be very careful that you always live in a good way. Sometimes these people may wrongly say that you do bad things. But if you continue to live in a good way, they will see that you really do good things. As a result, on the day when God comes as judge, they will give honour to him.Christians should obey people who have authority 13 Obey all people who have authority in this world. Obey them, because you are servants of the Lord Jesus. First of all, obey the king, who rules everyone. 14 Also obey the officers that serve the king. He has sent them to punish people who do bad things. And they praise people who do good things. 15 God wants you to do only what is good. Then silly people will not be able to say bad things against you. Those people do not really know what is true. 16 You are free people. But you are servants of God. So do not think, ‘Because I am free, I can do any bad thing that I want to do.’ 17 Respect all people. Love the believers as you would love your family. Obey God as your master. Respect the king. 18 You who are slaves must obey your masters. Always respect them. Do that to every kind of master. Obey those who are good and kind. But also obey masters who are not fair to you. 19 This makes God happy. Maybe your master will punish you when you have done nothing wrong. If you know that you are serving God, continue to be patient and brave. 20 But if you do something wrong, then your master ought to punish you. That is only fair. Even if you are brave when he is cruel to you, nobody should praise you for that. But your master may punish you even when you have done good things. Then God will be happy if you are patient and brave. 21 When God chose you to be his servants, he wanted you to be brave like that. Christ suffered on your behalf. He has shown you how you should live when trouble comes. 22 The Bible says this:‘He never did anything that was wrong.He never said anything that was not true.’2:22 23 People insulted Christ, but he did not say any bad thing to answer them. People caused him to have trouble, but he never tried to hurt them in return. Instead, Christ trusted God to help him. He knew that God always judges people fairly. 24 When Christ died on the cross, he carried our sins in his own body. He took this punishment so that sin would no longer rule over us. Instead, we can now do the right things that God wants us to do. Because people hurt Christ's body, you have now become well. 25 Before, you were like sheep that were going the wrong way. But now you have turned round and come to Christ. He is your Shepherd, and he keeps you completely safe.2:24"
+              }
+            ],
+            [
+              {
+                "verse": 8,
+                "text": "They fall down like that because they refuse to obey God's message. God already decided that this would happen to them."
               }
             ],
             [
               {
                 "verse": 9,
-                "text": "But you are a special people, a holy nation, priests and kings, a people given up completely to God, so that you may make clear the virtues of him who took you out of the dark into the light of heaven."
+                "text": "But you are not like that. You are a special group of people that God has chosen. You serve God like priests who serve a King. You are his own holy people who belong to him. He has taken you out of the dark place of sin, and he has brought you into his great light. God has done all this so that you can tell people how great he is."
               },
               {
                 "verse": 10,
-                "text": "In the past you were not a people, but now you are the people of God; then there was no mercy for you, but now mercy has been given to you."
-              },
+                "text": "In past times, you were not people who knew God. But now you are God's people. In past times, God did not forgive you. But now he has been very kind to you and he has forgiven you."
+              }
+            ],
+            [
               {
                 "verse": 11,
-                "text": "My loved ones, I make this request with all my heart, that, as those for whom this world is a strange country, you will keep yourselves from the desires of the flesh which make war against the soul;"
+                "text": "My friends, remember that you are really strangers in this world. You do not belong here. So I am telling you not to do the bad things that your bodies may want to do. Those bad things fight against what is good for your soul."
               },
               {
                 "verse": 12,
-                "text": "Being of good behaviour among the Gentiles; so that though they say now that you are evil-doers, they may see your good works and give glory to God when he comes to be their judge."
+                "text": "You are living among people who do not know God. So be very careful that you always live in a good way. Sometimes these people may wrongly say that you do bad things. But if you continue to live in a good way, they will see that you really do good things. As a result, on the day when God comes as judge, they will give honour to him."
               }
-            ],
+            ]
+          ]
+        },
+        {
+          "heading": "Christians should obey people who have authority",
+          "items": [
             [
               {
                 "verse": 13,
-                "text": "Keep all the laws of men because of the Lord; those of the king, who is over all,"
+                "text": "Obey all people who have authority in this world. Obey them, because you are servants of the Lord Jesus. First of all, obey the king, who rules everyone."
               },
               {
                 "verse": 14,
-                "text": "And those of the rulers who are sent by him for the punishment of evil-doers and for the praise of those who do well."
+                "text": "Also obey the officers that serve the king. He has sent them to punish people who do bad things. And they praise people who do good things."
               },
               {
                 "verse": 15,
-                "text": "Because it is God's pleasure that foolish and narrow-minded men may be put to shame by your good behaviour:"
-              },
-              {
-                "verse": 16,
-                "text": "As those who are free, not using your free position as a cover for wrongdoing, but living as the servants of God;"
+                "text": "God wants you to do only what is good. Then silly people will not be able to say bad things against you. Those people do not really know what is true."
               }
             ],
             [
               {
-                "verse": 17,
-                "text": "Have respect for all, loving the brothers, fearing God, honouring the king."
+                "verse": 16,
+                "text": "You are free people. But you are servants of God. So do not think, ‘Because I am free, I can do any bad thing that I want to do.’"
               },
               {
+                "verse": 17,
+                "text": "Respect all people. Love the believers as you would love your family. Obey God as your master. Respect the king."
+              }
+            ],
+            [
+              {
                 "verse": 18,
-                "text": "Servants, take orders from your masters with all respect; not only if they are good and gentle, but even if they are bad-humoured."
+                "text": "You who are slaves must obey your masters. Always respect them. Do that to every kind of master. Obey those who are good and kind. But also obey masters who are not fair to you."
               },
               {
                 "verse": 19,
-                "text": "For it is a sign of grace if a man, desiring to do right in the eyes of God, undergoes pain as punishment for something which he has not done."
+                "text": "This makes God happy. Maybe your master will punish you when you have done nothing wrong. If you know that you are serving God, continue to be patient and brave."
               },
               {
                 "verse": 20,
-                "text": "What credit is it if, when you have done evil, you take your punishment quietly? but if you are given punishment for doing right, and take it quietly, this is pleasing to God."
+                "text": "But if you do something wrong, then your master ought to punish you. That is only fair. Even if you are brave when he is cruel to you, nobody should praise you for that. But your master may punish you even when you have done good things. Then God will be happy if you are patient and brave."
               }
             ],
             [
               {
                 "verse": 21,
-                "text": "This is God's purpose for you: because Jesus himself underwent punishment for you, giving you an example, so that you might go in his footsteps:"
+                "text": "When God chose you to be his servants, he wanted you to be brave like that. Christ suffered on your behalf. He has shown you how you should live when trouble comes."
               },
               {
                 "verse": 22,
-                "text": "Who did no evil, and there was no deceit in his mouth:"
-              },
+                "text": "The Bible says this:"
+              }
+            ],
+            [
+              {
+                "verse": 22,
+                "text": "‘He never did anything that was wrong."
+              }
+            ],
+            [
+              {
+                "verse": 22,
+                "text": "He never said anything that was not true.’"
+              }
+            ],
+            [
+              {
+                "verse": 22,
+                "text": "23 People insulted Christ, but he did not say any bad thing to answer them. People caused him to have trouble, but he never tried to hurt them in return. Instead, Christ trusted God to help him. He knew that God always judges people fairly. 24 When Christ died on the cross, he carried our sins in his own body. He took this punishment so that sin would no longer rule over us. Instead, we can now do the right things that God wants us to do. Because people hurt Christ's body, you have now become well. 25 Before, you were like sheep that were going the wrong way. But now you have turned round and come to Christ. He is your Shepherd, and he keeps you completely safe.2:24"
+              }
+            ],
+            [
               {
                 "verse": 23,
-                "text": "To sharp words he gave no sharp answer; when he was undergoing pain, no angry word came from his lips; but he put himself into the hands of the judge of righteousness:"
+                "text": "People insulted Christ, but he did not say any bad thing to answer them. People caused him to have trouble, but he never tried to hurt them in return. Instead, Christ trusted God to help him. He knew that God always judges people fairly."
               },
               {
                 "verse": 24,
-                "text": "He took our sins on himself, giving his body to be nailed on the tree, so that we, being dead to sin, might have a new life in righteousness, and by his wounds we have been made well."
-              }
-            ],
-            [
+                "text": "When Christ died on the cross, he carried our sins in his own body. He took this punishment so that sin would no longer rule over us. Instead, we can now do the right things that God wants us to do. Because people hurt Christ's body, you have now become well."
+              },
               {
                 "verse": 25,
-                "text": "Because, like sheep, you had gone out of the way; but now you have come back to him who keeps watch over your souls."
+                "text": "Before, you were like sheep that were going the wrong way. But now you have turned round and come to Christ. He is your Shepherd, and he keeps you completely safe."
               }
             ]
           ]
         }
       ],
-      "verses": [
-        {
-          "verse": 1,
-          "text": "So putting away all wrongdoing, and all tricks and deceits and envies and evil talk,"
-        },
-        {
-          "verse": 2,
-          "text": "Be full of desire for the true milk of the word, as babies at their mothers' breasts, so that you may go on to salvation;"
-        },
-        {
-          "verse": 3,
-          "text": "If you have had a taste of the grace of the Lord:"
-        },
-        {
-          "verse": 4,
-          "text": "To whom you come, as to a living stone, not honoured by men, but of great and special value to God;"
-        },
-        {
-          "verse": 5,
-          "text": "You, as living stones, are being made into a house of the spirit, a holy order of priests, making those offerings of the spirit which are pleasing to God through Jesus Christ."
-        },
-        {
-          "verse": 6,
-          "text": "Because it is said in the Writings, See, I am placing a keystone in Zion, of great and special value; and the man who has faith in him will not be put to shame."
-        },
-        {
-          "verse": 7,
-          "text": "And the value is for you who have faith; but it is said for those without faith, The very stone which the builders put on one side, was made the chief stone of the building;"
-        },
-        {
-          "verse": 8,
-          "text": "And, A stone of falling, a rock of trouble; the word is the cause of their fall, because they go against it, and this was the purpose of God."
-        },
-        {
-          "verse": 9,
-          "text": "But you are a special people, a holy nation, priests and kings, a people given up completely to God, so that you may make clear the virtues of him who took you out of the dark into the light of heaven."
-        },
-        {
-          "verse": 10,
-          "text": "In the past you were not a people, but now you are the people of God; then there was no mercy for you, but now mercy has been given to you."
-        },
-        {
-          "verse": 11,
-          "text": "My loved ones, I make this request with all my heart, that, as those for whom this world is a strange country, you will keep yourselves from the desires of the flesh which make war against the soul;"
-        },
-        {
-          "verse": 12,
-          "text": "Being of good behaviour among the Gentiles; so that though they say now that you are evil-doers, they may see your good works and give glory to God when he comes to be their judge."
-        },
-        {
-          "verse": 13,
-          "text": "Keep all the laws of men because of the Lord; those of the king, who is over all,"
-        },
-        {
-          "verse": 14,
-          "text": "And those of the rulers who are sent by him for the punishment of evil-doers and for the praise of those who do well."
-        },
-        {
-          "verse": 15,
-          "text": "Because it is God's pleasure that foolish and narrow-minded men may be put to shame by your good behaviour:"
-        },
-        {
-          "verse": 16,
-          "text": "As those who are free, not using your free position as a cover for wrongdoing, but living as the servants of God;"
-        },
-        {
-          "verse": 17,
-          "text": "Have respect for all, loving the brothers, fearing God, honouring the king."
-        },
-        {
-          "verse": 18,
-          "text": "Servants, take orders from your masters with all respect; not only if they are good and gentle, but even if they are bad-humoured."
-        },
-        {
-          "verse": 19,
-          "text": "For it is a sign of grace if a man, desiring to do right in the eyes of God, undergoes pain as punishment for something which he has not done."
-        },
-        {
-          "verse": 20,
-          "text": "What credit is it if, when you have done evil, you take your punishment quietly? but if you are given punishment for doing right, and take it quietly, this is pleasing to God."
-        },
-        {
-          "verse": 21,
-          "text": "This is God's purpose for you: because Jesus himself underwent punishment for you, giving you an example, so that you might go in his footsteps:"
-        },
-        {
-          "verse": 22,
-          "text": "Who did no evil, and there was no deceit in his mouth:"
-        },
-        {
-          "verse": 23,
-          "text": "To sharp words he gave no sharp answer; when he was undergoing pain, no angry word came from his lips; but he put himself into the hands of the judge of righteousness:"
-        },
-        {
-          "verse": 24,
-          "text": "He took our sins on himself, giving his body to be nailed on the tree, so that we, being dead to sin, might have a new life in righteousness, and by his wounds we have been made well."
-        },
-        {
-          "verse": 25,
-          "text": "Because, like sheep, you had gone out of the way; but now you have come back to him who keeps watch over your souls."
-        }
-      ],
-      "totalVerses": 25,
-      "footnotes": []
+      "notes": [
+        "In God's house, thetemple, Israel'spriestsofferedsacrificesto God on behalf of the people. When Christians live in a way thatpleasesGod, that is like aspiritualsacrifice that they offer to God.",
+        "SeeIsaiah 28:16.",
+        "SeePsalm 118:22. The stone at the corner of a house was the most important stone. It made the whole building strong. Jesus is like the stone at the corner of God's house. God had chosen Jesus to do his work. But the Jewish leaders would not agree with that.",
+        "SeeIsaiah 8:14.",
+        "In the Bible, when people do not know thetruthabout God, it is like they are living in a dark place. God gives light so that people know the truth.",
+        "SeeHosea 1:6;1:9;2:23.",
+        "SeeIsaiah 53:9.",
+        "SeeIsaiah 53:4-6,12. Ourspiritsbecome well because Jesus died on thecrossand Godforgivesoursins."
+      ]
     },
     {
-      "book": "1 Peter",
       "chapter": 3,
       "title": "1 Peter 3",
-      "subtitle": "1 Peter Chapter 3",
+      "subtitle": "",
+      "totalVerses": 22,
+      "sourceUrl": "https://www.easyenglish.bible/bible/easy/1-peter/3/",
       "sections": [
         {
-          "heading": "1 Peter Chapter 3",
+          "heading": "Peter's advice to wives and husbands",
           "items": [
             [
               {
                 "verse": 1,
-                "text": "Wives, be ruled by your husbands; so that even if some of them give no attention to the word, their hearts may be changed by the behaviour of their wives,"
+                "text": "I need to speak to you wives. You should each respect the authority of your own husband. Even if your husband does not believe God's message about Jesus Christ, you should still respect him. If you do that, he may then turn to God and believe his message. You will not need to tell him what is true. He will see the good way that you live."
               },
               {
                 "verse": 2,
-                "text": "When they see your holy behaviour in the fear of God."
-              },
+                "text": "He will see that you obey God and that you do things that are completely good."
+              }
+            ],
+            [
               {
                 "verse": 3,
-                "text": "Do not let your ornaments be those of the body such as dressing of the hair, or putting on of jewels of gold or fair clothing;"
+                "text": "Think about what makes you beautiful. The way that you prepare your hair does not really make you beautiful. Gold things or beautiful clothes do not make you beautiful."
               },
               {
                 "verse": 4,
-                "text": "But let them be those of the unseen man of the heart, the ever-shining ornament of a gentle and quiet spirit, which is of great price in the eyes of God."
+                "text": "Do not only think about your body, but think about what you are really like inside yourself. Be patient and do not become angry easily. Then you will always continue to be beautiful. If you are beautiful in your spirit, God likes that very much."
               }
             ],
             [
               {
                 "verse": 5,
-                "text": "And these were the ornaments of the holy women of the past, whose hope was in God, being ruled by their husbands:"
+                "text": "That was how holy women made themselves beautiful many years ago. They trusted God that he would help them. They respected the authority of their husbands."
               },
               {
                 "verse": 6,
-                "text": "As Sarah was ruled by Abraham, naming him lord; whose children you are if you do well, and are not put in fear by any danger."
-              },
-              {
-                "verse": 7,
-                "text": "And you husbands, give thought to your way of life with your wives, giving honour to the woman who is the feebler vessel, but who has an equal part in the heritage of the grace of life; so that you may not be kept from prayer."
-              },
-              {
-                "verse": 8,
-                "text": "Last of all, see that you are all in agreement; feeling for one another, loving one another like brothers, full of pity, without pride:"
+                "text": "Sarah was a woman like that. She obeyed her husband, Abraham. She called him, ‘My master’. So you wives also should do what is right. Do not let anything make you afraid. Then you will be like true daughters of Sarah."
               }
             ],
             [
               {
+                "verse": 7,
+                "text": "You husbands must also respect your wives. Be kind to your wife and help her. Remember that she is not as strong as you are. Because God is very kind, she has received his gift of true life, as you have. So you should respect her. Then God will answer you when you pray to him."
+              }
+            ]
+          ]
+        },
+        {
+          "heading": "Christians may suffer even when they do what is right",
+          "items": [
+            [
+              {
+                "verse": 8,
+                "text": "Now I want to say this to you before I finish my letter. All of you should agree with each other in what you think. You should try to understand how other people are feeling. Love each other as brothers and sisters. Be kind to each other. Do not think that you are more important than other people."
+              },
+              {
                 "verse": 9,
-                "text": "Not giving back evil for evil, or curse for curse, but in place of cursing, blessing; because this is the purpose of God for you that you may have a heritage of blessing."
+                "text": "If people do bad things to you, do not do anything bad to them in return. If people insult you, do not insult them in return. Instead, pray that God will bless those people. That is what God wants you to do. Then you will receive the gift of God's blessing."
               },
               {
                 "verse": 10,
-                "text": "For it is said, Let the man who has a love of life, desiring to see good days, keep his tongue from evil and his lips from words of deceit:"
-              },
+                "text": "The Bible says this:"
+              }
+            ],
+            [
+              {
+                "verse": 10,
+                "text": "‘Do you want to enjoy your life?"
+              }
+            ],
+            [
+              {
+                "verse": 10,
+                "text": "Do you want to be happy?"
+              }
+            ],
+            [
+              {
+                "verse": 10,
+                "text": "Then you must be careful not to say evil things."
+              }
+            ],
+            [
+              {
+                "verse": 10,
+                "text": "Do not tell any lies."
+              }
+            ],
+            [
               {
                 "verse": 11,
-                "text": "And let him be turned from evil and do good; searching for peace and going after it with all his heart."
-              },
+                "text": "Stop doing evil things."
+              }
+            ],
+            [
+              {
+                "verse": 11,
+                "text": "Instead, do things that are good."
+              }
+            ],
+            [
+              {
+                "verse": 11,
+                "text": "Try to be friends with people."
+              }
+            ],
+            [
+              {
+                "verse": 11,
+                "text": "Help people to live in peace with each other."
+              }
+            ],
+            [
               {
                 "verse": 12,
-                "text": "For the eyes of the Lord are on the upright, and his ears are open to their prayers: but the face of the Lord is against those who do evil."
+                "text": "Remember that the Lord God sees what everyone does."
+              }
+            ],
+            [
+              {
+                "verse": 12,
+                "text": "He takes care of people who do what is right."
+              }
+            ],
+            [
+              {
+                "verse": 12,
+                "text": "When they pray, he listens to them."
+              }
+            ],
+            [
+              {
+                "verse": 12,
+                "text": "But the Lord God turns against people who do evil things.’"
+              }
+            ],
+            [
+              {
+                "verse": 12,
+                "text": "13 If you always try to do good things, then nobody should hurt you. 14 But you may suffer, even when you do what is right. If that happens, God will bless you. So do not be afraid of what people may do to you. Do not worry about it. 15 Instead, always remember that Christ is your Lord. Let him rule how you live.People may ask you, ‘Why do you trust God to help you?’ You must always be ready to answer them about that. 16 But when you tell them, be kind and respect them. Do only what you know is right. Then those people will see that you live in a good way because you believe in Christ. When they say bad things against you, they will become ashamed. 17 God may allow you to suffer even when you have done good things. But that is better than if you suffer because you have done bad things. 18 Christ himself always did what was right. But he suffered on behalf of people who do what is wrong. He died once to take away all those wrong things. He did that to bring you near to God. People killed Christ's body, but God's Spirit made him alive again. 19 Like this, Jesus went to the spirits who were in prison. He told them God's true message. 20 Those were the spirits of people who had refused to obey God long ago. At that time God waited patiently for them to turn to him while Noah was building a large ship. But only a few people agreed to go into that ship. God saved only eight people when the ship sailed on the deep water. 21 That shows how God now saves you. It is like a picture of baptism. The water of baptism does not wash dirt from a person's body. Instead, it shows that a person has decided to obey God. He is choosing to do what is right. That saves you, because Jesus Christ became alive again after his death.3:20 22 After that, Jesus went into heaven. Now he is sitting at God's right side. He rules over angels and over everything that has authority and power.3:22"
               }
             ],
             [
               {
                 "verse": 13,
-                "text": "Who will do you any damage if you keep your minds fixed on what is good?"
+                "text": "If you always try to do good things, then nobody should hurt you."
               },
               {
                 "verse": 14,
-                "text": "But you are happy if you undergo pain because of righteousness; have no part in their fear and do not be troubled;"
+                "text": "But you may suffer, even when you do what is right. If that happens, God will bless you. So do not be afraid of what people may do to you. Do not worry about it."
               },
               {
                 "verse": 15,
-                "text": "But give honour to Christ in your hearts as your Lord; and be ready at any time when you are questioned about the hope which is in you, to give an answer in the fear of the Lord and without pride;"
-              },
-              {
-                "verse": 16,
-                "text": "Being conscious that you have done no wrong; so that those who say evil things about your good way of life as Christians may be put to shame."
+                "text": "Instead, always remember that Christ is your Lord. Let him rule how you live."
               }
             ],
             [
               {
-                "verse": 17,
-                "text": "Because if it is God's purpose for you to undergo pain, it is better to do so for well-doing than for evil-doing."
+                "verse": 15,
+                "text": "People may ask you, ‘Why do you trust God to help you?’ You must always be ready to answer them about that."
               },
+              {
+                "verse": 16,
+                "text": "But when you tell them, be kind and respect them. Do only what you know is right. Then those people will see that you live in a good way because you believe in Christ. When they say bad things against you, they will become ashamed."
+              },
+              {
+                "verse": 17,
+                "text": "God may allow you to suffer even when you have done good things. But that is better than if you suffer because you have done bad things."
+              }
+            ],
+            [
               {
                 "verse": 18,
-                "text": "Because Christ once went through pain for sins, the upright one taking the place of sinners, so that through him we might come back to God; being put to death in the flesh, but given life in the Spirit;"
-              },
+                "text": "Christ himself always did what was right. But he suffered on behalf of people who do what is wrong. He died once to take away all those wrong things. He did that to bring you near to God. People killed Christ's body, but God's Spirit made him alive again."
+              }
+            ],
+            [
               {
                 "verse": 19,
-                "text": "By whom he went to the spirits in prison, preaching to those"
+                "text": "Like this, Jesus went to the spirits who were in prison. He told them God's true message."
               },
               {
                 "verse": 20,
-                "text": "Who, in the days of Noah, went against God's orders; but God in his mercy kept back the punishment, while Noah got ready the ark, in which a small number, that is to say eight persons, got salvation through water:"
+                "text": "Those were the spirits of people who had refused to obey God long ago. At that time God waited patiently for them to turn to him while Noah was building a large ship. But only a few people agreed to go into that ship. God saved only eight people when the ship sailed on the deep water."
+              },
+              {
+                "verse": 21,
+                "text": "That shows how God now saves you. It is like a picture of baptism. The water of baptism does not wash dirt from a person's body. Instead, it shows that a person has decided to obey God. He is choosing to do what is right. That saves you, because Jesus Christ became alive again after his death."
               }
             ],
             [
               {
-                "verse": 21,
-                "text": "And baptism, of which this is an image, now gives you salvation, not by washing clean the flesh, but by making you free from the sense of sin before God, through the coming again of Jesus Christ from the dead;"
-              },
-              {
                 "verse": 22,
-                "text": "Who has gone into heaven, and is at the right hand of God, angels and authorities and powers having been put under his rule."
+                "text": "After that, Jesus went into heaven. Now he is sitting at God's right side. He rules over angels and over everything that has authority and power."
               }
             ]
           ]
         }
       ],
-      "verses": [
-        {
-          "verse": 1,
-          "text": "Wives, be ruled by your husbands; so that even if some of them give no attention to the word, their hearts may be changed by the behaviour of their wives,"
-        },
-        {
-          "verse": 2,
-          "text": "When they see your holy behaviour in the fear of God."
-        },
-        {
-          "verse": 3,
-          "text": "Do not let your ornaments be those of the body such as dressing of the hair, or putting on of jewels of gold or fair clothing;"
-        },
-        {
-          "verse": 4,
-          "text": "But let them be those of the unseen man of the heart, the ever-shining ornament of a gentle and quiet spirit, which is of great price in the eyes of God."
-        },
-        {
-          "verse": 5,
-          "text": "And these were the ornaments of the holy women of the past, whose hope was in God, being ruled by their husbands:"
-        },
-        {
-          "verse": 6,
-          "text": "As Sarah was ruled by Abraham, naming him lord; whose children you are if you do well, and are not put in fear by any danger."
-        },
-        {
-          "verse": 7,
-          "text": "And you husbands, give thought to your way of life with your wives, giving honour to the woman who is the feebler vessel, but who has an equal part in the heritage of the grace of life; so that you may not be kept from prayer."
-        },
-        {
-          "verse": 8,
-          "text": "Last of all, see that you are all in agreement; feeling for one another, loving one another like brothers, full of pity, without pride:"
-        },
-        {
-          "verse": 9,
-          "text": "Not giving back evil for evil, or curse for curse, but in place of cursing, blessing; because this is the purpose of God for you that you may have a heritage of blessing."
-        },
-        {
-          "verse": 10,
-          "text": "For it is said, Let the man who has a love of life, desiring to see good days, keep his tongue from evil and his lips from words of deceit:"
-        },
-        {
-          "verse": 11,
-          "text": "And let him be turned from evil and do good; searching for peace and going after it with all his heart."
-        },
-        {
-          "verse": 12,
-          "text": "For the eyes of the Lord are on the upright, and his ears are open to their prayers: but the face of the Lord is against those who do evil."
-        },
-        {
-          "verse": 13,
-          "text": "Who will do you any damage if you keep your minds fixed on what is good?"
-        },
-        {
-          "verse": 14,
-          "text": "But you are happy if you undergo pain because of righteousness; have no part in their fear and do not be troubled;"
-        },
-        {
-          "verse": 15,
-          "text": "But give honour to Christ in your hearts as your Lord; and be ready at any time when you are questioned about the hope which is in you, to give an answer in the fear of the Lord and without pride;"
-        },
-        {
-          "verse": 16,
-          "text": "Being conscious that you have done no wrong; so that those who say evil things about your good way of life as Christians may be put to shame."
-        },
-        {
-          "verse": 17,
-          "text": "Because if it is God's purpose for you to undergo pain, it is better to do so for well-doing than for evil-doing."
-        },
-        {
-          "verse": 18,
-          "text": "Because Christ once went through pain for sins, the upright one taking the place of sinners, so that through him we might come back to God; being put to death in the flesh, but given life in the Spirit;"
-        },
-        {
-          "verse": 19,
-          "text": "By whom he went to the spirits in prison, preaching to those"
-        },
-        {
-          "verse": 20,
-          "text": "Who, in the days of Noah, went against God's orders; but God in his mercy kept back the punishment, while Noah got ready the ark, in which a small number, that is to say eight persons, got salvation through water:"
-        },
-        {
-          "verse": 21,
-          "text": "And baptism, of which this is an image, now gives you salvation, not by washing clean the flesh, but by making you free from the sense of sin before God, through the coming again of Jesus Christ from the dead;"
-        },
-        {
-          "verse": 22,
-          "text": "Who has gone into heaven, and is at the right hand of God, angels and authorities and powers having been put under his rule."
-        }
-      ],
-      "totalVerses": 22,
-      "footnotes": []
+      "notes": [
+        "Abraham was the firstancestorof the Israelitenation. He was the father of Isaac and the grandfather of Jacob. Sarah was his wife. SeeGenesis 11:27-23:20.",
+        "SeePsalm 34:12-16.",
+        "SeeGenesis 6:1-22. The ‘spiritswho were in prison’ may mean all the people whodrownedin the water. Or it may mean theangelswho did not obey God.",
+        "The right side is the most important place. It shows that Jesus has the same authority as his Father."
+      ]
     },
     {
-      "book": "1 Peter",
       "chapter": 4,
       "title": "1 Peter 4",
-      "subtitle": "1 Peter Chapter 4",
+      "subtitle": "",
+      "totalVerses": 19,
+      "sourceUrl": "https://www.easyenglish.bible/bible/easy/1-peter/4/",
       "sections": [
         {
-          "heading": "1 Peter Chapter 4",
+          "heading": "Christians should live in a way that pleases God",
           "items": [
             [
               {
                 "verse": 1,
-                "text": "So that as Jesus was put to death in the flesh, do you yourselves be of the same mind; for the death of the flesh puts an end to sin;"
+                "text": "Christ suffered while he lived in his human body. So you should prepare yourselves to suffer too. Think about it in the same way that Christ did. If someone suffers in his body, he has finished with sin."
               },
               {
                 "verse": 2,
-                "text": "So that you may give the rest of your lives in the flesh, not to the desires of men, but to the purpose of God."
-              },
-              {
-                "verse": 3,
-                "text": "Because for long enough, in times past, we have been living after the way of the Gentiles, given up to the desires of the flesh, to drinking and feasting and loose behaviour and unclean worship of images;"
-              },
-              {
-                "verse": 4,
-                "text": "And they are wondering that you no longer go with them in this violent wasting of life, and are saying evil things of you:"
+                "text": "As a result, that person will want to do what God wants him to do. In his life in this world, he will not want to do the bad things that people think are good."
               }
             ],
             [
               {
+                "verse": 3,
+                "text": "You have already had enough time in your life to do bad things. Those are the kinds of things that people who do not know God like to do. You did many evil things that your bodies wanted to do. You had sex in a wrong way. You often became drunk. You went to wild parties where you drank too much alcohol. You also worshipped useless idols."
+              }
+            ],
+            [
+              {
+                "verse": 4,
+                "text": "But now you no longer live in the same wicked way as those people do. They continue to enjoy those wrong things all the time. But you do not join with them. So they insult you."
+              },
+              {
                 "verse": 5,
-                "text": "But they will have to give an account of themselves to him who is ready to be the judge of the living and the dead."
+                "text": "But those people will have to explain to God what they have done. He is ready to judge every person, whether they are alive now or they have already died."
               },
               {
                 "verse": 6,
-                "text": "For this was the reason why the good news of Jesus was given even to the dead, so that they might be judged as men in the flesh, but might be living before God in the spirit."
-              },
+                "text": "That is why even people who have already died needed to hear the good news about Christ. Their bodies had to die, as all people must die. But they heard the good news so that their spirits could live, as God wants them to live."
+              }
+            ]
+          ]
+        },
+        {
+          "heading": "Christians should use God's gifts to help others",
+          "items": [
+            [
               {
                 "verse": 7,
-                "text": "But the end of all things is near: so be serious in your behaviour and keep on the watch with prayer;"
+                "text": "All things in this world will soon come to an end. So you must think clearly. Then you will be able to pray in a serious way."
               },
               {
                 "verse": 8,
-                "text": "And most of all be warm in your love for one another; because in love there is forgiveness for sins without number:"
+                "text": "Continue to love each other very much. That is more important than anything else. If you love people, you will forgive them for any wrong things that they have done."
+              },
+              {
+                "verse": 9,
+                "text": "Always be happy to have other believers as visitors in your homes."
               }
             ],
             [
               {
-                "verse": 9,
-                "text": "Keep open house for all with a glad heart;"
-              },
-              {
                 "verse": 10,
-                "text": "Making distribution among one another of whatever has been given to you, like true servants of the unmeasured grace of God;"
+                "text": "God has helped each of you with a certain gift. Think carefully about how to use that gift from God well. Remember that God has given many different gifts to his people so that they can help each other."
               },
               {
                 "verse": 11,
-                "text": "If anyone has anything to say, let it be as the words of God; if anyone has the desire to be the servant of others, let him do it in the strength which is given by God; so that in all things God may have the glory through Jesus Christ, whose are the glory and the power for ever."
-              },
+                "text": "Has God helped you to speak well? Then speak God's messages to people. Or has God helped you to serve other people? Then let God make you strong to do that. Do everything so that people will praise God. They will say that God is great, because of Jesus Christ. He is the one who has all authority and power for ever. Everyone should praise him! Amen."
+              }
+            ]
+          ]
+        },
+        {
+          "heading": "Christians must be ready to suffer",
+          "items": [
+            [
               {
                 "verse": 12,
-                "text": "Dear brothers, do not be surprised, as if it was something strange, if your faith is tested as by fire:"
+                "text": "My friends, I know that people are causing you to have bad trouble. It is like a fire that is burning you. Do not be surprised about that. These things are happening to you, to show whether you really trust God. Do not think that something strange is happening to you."
+              },
+              {
+                "verse": 13,
+                "text": "Instead, be happy when you have trouble. Remember that Christ also received much trouble and pain. If you suffer like he did, then you will be happy when he returns. At that time, everyone will see how great Christ really is. Then you will be very happy with a great joy."
+              },
+              {
+                "verse": 14,
+                "text": "People may insult you because you belong to Christ. But God will bless you when that happens. It shows that the Holy Spirit is with you. He is God's great Spirit."
               }
             ],
             [
               {
-                "verse": 13,
-                "text": "But be glad that you are given a part in the pains of Christ; so that at the revelation of his glory you may have great joy."
-              },
-              {
-                "verse": 14,
-                "text": "If men say evil things of you because of the name of Christ, happy are you; for the Spirit of glory and of God is resting on you."
-              },
-              {
                 "verse": 15,
-                "text": "Let no one among you undergo punishment as a taker of life, or as a thief, or as an evil-doer, or as one who is over-interested in other men's business;"
+                "text": "Do not murder anyone. Do not rob anyone. Do not do evil things. Do not try to cause trouble for other people. If you do those things, you deserve to have trouble."
               },
               {
                 "verse": 16,
-                "text": "But if he undergoes punishment as a Christian, that is no shame to him; let him give glory to God in this name."
+                "text": "But if you receive trouble because you are a Christian, do not be ashamed about that. Instead, you should praise God that you belong to Christ."
               }
             ],
             [
               {
                 "verse": 17,
-                "text": "For the time has come for the judging, starting with the church of God; but if it makes a start with us, what will be the end of those who are not under the rule of God?"
+                "text": "The time has come when God will start to judge people. He will first judge the people who belong to him. If he starts with his own people, what will happen to other people? They have refused to obey God's good news, so it will surely be very bad for them."
               },
               {
                 "verse": 18,
-                "text": "And if it is hard for even the good man to get salvation, what chance has the man without religion or the sinner?"
-              },
+                "text": "The Bible says:"
+              }
+            ],
+            [
+              {
+                "verse": 18,
+                "text": "‘When God saves righteous people,"
+              }
+            ],
+            [
+              {
+                "verse": 18,
+                "text": "that is a difficult thing."
+              }
+            ],
+            [
+              {
+                "verse": 18,
+                "text": "It will surely be much worse for people who turn away from God"
+              }
+            ],
+            [
+              {
+                "verse": 18,
+                "text": "and people who do bad things.’"
+              }
+            ],
+            [
+              {
+                "verse": 18,
+                "text": "19 So remember this. If you suffer because that is what God wants, you should continue to trust him. God made you and he always does what he has promised. So you should continue to do what is good."
+              }
+            ],
+            [
               {
                 "verse": 19,
-                "text": "For this reason let those who by the purpose of God undergo punishment, keep on in well-doing and put their souls into the safe hands of their Maker."
+                "text": "So remember this. If you suffer because that is what God wants, you should continue to trust him. God made you and he always does what he has promised. So you should continue to do what is good."
               }
             ]
           ]
         }
       ],
-      "verses": [
-        {
-          "verse": 1,
-          "text": "So that as Jesus was put to death in the flesh, do you yourselves be of the same mind; for the death of the flesh puts an end to sin;"
-        },
-        {
-          "verse": 2,
-          "text": "So that you may give the rest of your lives in the flesh, not to the desires of men, but to the purpose of God."
-        },
-        {
-          "verse": 3,
-          "text": "Because for long enough, in times past, we have been living after the way of the Gentiles, given up to the desires of the flesh, to drinking and feasting and loose behaviour and unclean worship of images;"
-        },
-        {
-          "verse": 4,
-          "text": "And they are wondering that you no longer go with them in this violent wasting of life, and are saying evil things of you:"
-        },
-        {
-          "verse": 5,
-          "text": "But they will have to give an account of themselves to him who is ready to be the judge of the living and the dead."
-        },
-        {
-          "verse": 6,
-          "text": "For this was the reason why the good news of Jesus was given even to the dead, so that they might be judged as men in the flesh, but might be living before God in the spirit."
-        },
-        {
-          "verse": 7,
-          "text": "But the end of all things is near: so be serious in your behaviour and keep on the watch with prayer;"
-        },
-        {
-          "verse": 8,
-          "text": "And most of all be warm in your love for one another; because in love there is forgiveness for sins without number:"
-        },
-        {
-          "verse": 9,
-          "text": "Keep open house for all with a glad heart;"
-        },
-        {
-          "verse": 10,
-          "text": "Making distribution among one another of whatever has been given to you, like true servants of the unmeasured grace of God;"
-        },
-        {
-          "verse": 11,
-          "text": "If anyone has anything to say, let it be as the words of God; if anyone has the desire to be the servant of others, let him do it in the strength which is given by God; so that in all things God may have the glory through Jesus Christ, whose are the glory and the power for ever."
-        },
-        {
-          "verse": 12,
-          "text": "Dear brothers, do not be surprised, as if it was something strange, if your faith is tested as by fire:"
-        },
-        {
-          "verse": 13,
-          "text": "But be glad that you are given a part in the pains of Christ; so that at the revelation of his glory you may have great joy."
-        },
-        {
-          "verse": 14,
-          "text": "If men say evil things of you because of the name of Christ, happy are you; for the Spirit of glory and of God is resting on you."
-        },
-        {
-          "verse": 15,
-          "text": "Let no one among you undergo punishment as a taker of life, or as a thief, or as an evil-doer, or as one who is over-interested in other men's business;"
-        },
-        {
-          "verse": 16,
-          "text": "But if he undergoes punishment as a Christian, that is no shame to him; let him give glory to God in this name."
-        },
-        {
-          "verse": 17,
-          "text": "For the time has come for the judging, starting with the church of God; but if it makes a start with us, what will be the end of those who are not under the rule of God?"
-        },
-        {
-          "verse": 18,
-          "text": "And if it is hard for even the good man to get salvation, what chance has the man without religion or the sinner?"
-        },
-        {
-          "verse": 19,
-          "text": "For this reason let those who by the purpose of God undergo punishment, keep on in well-doing and put their souls into the safe hands of their Maker."
-        }
-      ],
-      "totalVerses": 19,
-      "footnotes": []
+      "notes": [
+        "SeeProverbs 11:31."
+      ]
     },
     {
-      "book": "1 Peter",
       "chapter": 5,
       "title": "1 Peter 5",
-      "subtitle": "1 Peter Chapter 5",
+      "subtitle": "",
+      "totalVerses": 14,
+      "sourceUrl": "https://www.easyenglish.bible/bible/easy/1-peter/5/",
       "sections": [
         {
-          "heading": "1 Peter Chapter 5",
+          "heading": "Peter writes to church leaders and young men",
           "items": [
             [
               {
                 "verse": 1,
-                "text": "I who am myself one of the rulers of the church, and a witness of the death of Christ, having my part in the coming glory, send this serious request to the chief men among you:"
+                "text": "Now I want to say something to you who are leaders of the groups of believers. Like you, I am also a leader. I myself saw how people caused Christ to have great pain so that he died. One day people will see how great he really is. Then I will be among those people who join with him in heaven. So I say this to you who are leaders:"
               },
               {
                 "verse": 2,
-                "text": "Keep watch over the flock of God which is in your care, using your authority, not as forced to do so, but gladly; and not for unclean profit but with a ready mind;"
-              },
+                "text": "Watch over the group of believers that God has given to you. Be like a shepherd that takes care of his sheep. Lead them well because you want to do it. Do not do it only because you have to do it. Do it in the way that God wants for you. Do not be a leader because you want to receive money for yourself. Instead, do it because you want to help people."
+              }
+            ],
+            [
               {
                 "verse": 3,
-                "text": "Not as lords over God's heritage, but making yourselves examples to the flock."
+                "text": "God has given you a group of believers to take care of them. Do not try to rule over them with power. Instead, show them how to live in a good way, so that they can copy you."
               },
               {
                 "verse": 4,
-                "text": "And at the coming of the chief Keeper of the sheep, you will be given the eternal crown of glory."
+                "text": "Then our master, Christ, will give you a beautiful crown when he appears. That is a great gift that will never become old or less beautiful. He is the great Shepherd who takes care of us."
               }
             ],
             [
               {
                 "verse": 5,
-                "text": "And in the same way, let the younger men be ruled by the older ones. Let all of you put away pride and make yourselves ready to be servants: for God is a hater of pride, but he gives grace to those who make themselves low."
-              },
-              {
-                "verse": 6,
-                "text": "For this cause make yourselves low under the strong hand of God, so that when the time comes you may be lifted up;"
-              },
-              {
-                "verse": 7,
-                "text": "Putting all your troubles on him, for he takes care of you."
-              },
-              {
-                "verse": 8,
-                "text": "Be serious and keep watch; the Evil One, who is against you, goes about like a lion with open mouth in search of food;"
+                "text": "I want to say the same thing to you who are young men. You must respect the authority of the leaders. All of you who are believers must respect one another. Do not think that you are more important than other people. The Bible says:"
               }
             ],
             [
               {
-                "verse": 9,
-                "text": "Do not give way to him but be strong in your faith, in the knowledge that your brothers who are in the world undergo the same troubles."
+                "verse": 5,
+                "text": "‘God is against proud people."
+              }
+            ],
+            [
+              {
+                "verse": 5,
+                "text": "But he is kind to humble people.’"
+              }
+            ],
+            [
+              {
+                "verse": 6,
+                "text": "Remember that God is strong and powerful. So be humble in front of him. Then he will lift you up to a good place at the right time."
               },
               {
+                "verse": 7,
+                "text": "If you have any kind of trouble in your mind, give it to God. God has promised to take care of you."
+              }
+            ],
+            [
+              {
+                "verse": 8,
+                "text": "Think seriously about how you live. Watch carefully for danger. Remember that the devil is your enemy. He wants to hurt you. He walks about like a hungry lion. He is looking for someone to kill and then eat!"
+              },
+              {
+                "verse": 9,
+                "text": "But you must be strong to fight against him. Trust God completely. Remember this: Believers all over the world are having the same kind of trouble."
+              }
+            ],
+            [
+              {
                 "verse": 10,
-                "text": "And after you have undergone pain for a little time, the God of all grace who has given you a part in his eternal glory through Christ Jesus, will himself give you strength and support, and make you complete in every good thing;"
+                "text": "Yes, you will have trouble like this for a short time. But after that, God will make everything right. He is completely kind and he will always help you. Because you belong to Christ, God has chosen you to live with him in heaven for ever. You will join him in that beautiful place. Then God will make you well again. He will make you strong in your spirits. You will be able to stand strongly."
               },
               {
                 "verse": 11,
-                "text": "His is the power for ever. So be it."
-              },
+                "text": "Yes, God rules with power for ever! Amen."
+              }
+            ]
+          ]
+        },
+        {
+          "heading": "Peter finishes his letter",
+          "items": [
+            [
               {
                 "verse": 12,
-                "text": "I have sent you this short letter by Silvanus, a true brother, in my opinion; comforting you and witnessing that this is the true grace of God; keep to it."
+                "text": "Silas has helped me to write this short letter to you. I know that he continues to trust Christ well. I have written to you because I want you to be strong. I have told you how God is kind to us and he helps us. This is God's true message to you. So continue to believe it and be strong."
               }
             ],
             [
               {
                 "verse": 13,
-                "text": "She who is in Babylon, who has a part with you in the purpose of God, sends you her love; and so does my son Mark."
+                "text": "The believers here in Babylon say ‘hello’ to you. God has chosen them as his people, together with you. Mark, who is like my son, also says ‘hello’ to you."
               },
               {
                 "verse": 14,
-                "text": "Give one another the kiss of love. Peace be to you all in Christ."
+                "text": "When you meet, kiss each other as Christian brothers and sisters."
+              }
+            ],
+            [
+              {
+                "verse": 14,
+                "text": "I pray for all of you who belong to Christ. I pray that God will give you peace in your minds."
               }
             ]
           ]
         }
       ],
-      "verses": [
-        {
-          "verse": 1,
-          "text": "I who am myself one of the rulers of the church, and a witness of the death of Christ, having my part in the coming glory, send this serious request to the chief men among you:"
-        },
-        {
-          "verse": 2,
-          "text": "Keep watch over the flock of God which is in your care, using your authority, not as forced to do so, but gladly; and not for unclean profit but with a ready mind;"
-        },
-        {
-          "verse": 3,
-          "text": "Not as lords over God's heritage, but making yourselves examples to the flock."
-        },
-        {
-          "verse": 4,
-          "text": "And at the coming of the chief Keeper of the sheep, you will be given the eternal crown of glory."
-        },
-        {
-          "verse": 5,
-          "text": "And in the same way, let the younger men be ruled by the older ones. Let all of you put away pride and make yourselves ready to be servants: for God is a hater of pride, but he gives grace to those who make themselves low."
-        },
-        {
-          "verse": 6,
-          "text": "For this cause make yourselves low under the strong hand of God, so that when the time comes you may be lifted up;"
-        },
-        {
-          "verse": 7,
-          "text": "Putting all your troubles on him, for he takes care of you."
-        },
-        {
-          "verse": 8,
-          "text": "Be serious and keep watch; the Evil One, who is against you, goes about like a lion with open mouth in search of food;"
-        },
-        {
-          "verse": 9,
-          "text": "Do not give way to him but be strong in your faith, in the knowledge that your brothers who are in the world undergo the same troubles."
-        },
-        {
-          "verse": 10,
-          "text": "And after you have undergone pain for a little time, the God of all grace who has given you a part in his eternal glory through Christ Jesus, will himself give you strength and support, and make you complete in every good thing;"
-        },
-        {
-          "verse": 11,
-          "text": "His is the power for ever. So be it."
-        },
-        {
-          "verse": 12,
-          "text": "I have sent you this short letter by Silvanus, a true brother, in my opinion; comforting you and witnessing that this is the true grace of God; keep to it."
-        },
-        {
-          "verse": 13,
-          "text": "She who is in Babylon, who has a part with you in the purpose of God, sends you her love; and so does my son Mark."
-        },
-        {
-          "verse": 14,
-          "text": "Give one another the kiss of love. Peace be to you all in Christ."
-        }
-      ],
-      "totalVerses": 14,
-      "footnotes": []
+      "notes": [
+        "Acrownwas a special hat someone received when they won arace. This crown is a picture of what God gives to eachbeliever. He gives them life with him for ever.",
+        "SeeProverbs 3:34.",
+        "SeePsalm 55:22.",
+        "Silas was a leader of the Christians who were at Jerusalem, along with Peter. SeeActs 15:22.",
+        "‘Babylon’ here probably means Rome. At that time, Rome's ruler (Caesar) ruled many countries. He was causing Christians tosuffervery much. Many years earlier, the king of Babylon had caused a lot of trouble for God's people, the Israelites. So the Christians sometimes used Babylon as a secret name for Rome."
+      ]
     }
   ]
 }

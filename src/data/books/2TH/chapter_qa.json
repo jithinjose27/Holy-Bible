@@ -1,9 +1,6 @@
 {
-  "book": "2 Thessalonians",
   "bookId": "2TH",
-  "totalChapters": 3,
-  "totalQuestions": 30,
-  "questionsPerChapter": 10,
+  "bookName": "2 Thessalonians",
   "chapters": {
     "1": [
       {
@@ -11,150 +8,150 @@
         "questionNumber": 1,
         "question": "According to 2 Thessalonians 1:1, what is the opening statement or setting of this chapter?",
         "options": [
-          "It records: “Paul and Silvanus and Timothy, to the church of the Thessalonians...”",
+          "It records: “This letter is from Paul, Silas and Timothy. We are writing to th...”",
           "It begins with a prayer of thanksgiving for deliverance in 2 Thessalonians",
           "It opens with a formal census and counting of the congregation",
           "It records a severe judgment pronounced against neighboring nations"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "It records: “Paul and Silvanus and Timothy, to the church of the Thessalonians...”",
+        "correctAnswer": "It records: “This letter is from Paul, Silas and Timothy. We are writing to th...”",
         "reference": "2 Thessalonians 1:1",
-        "explanation": "The chapter begins directly with the statement: 'Paul and Silvanus and Timothy, to the church of the Thessalonians in God our Father and the Lord Jesus Christ:'."
+        "explanation": "The chapter begins directly with the statement: 'This letter is from Paul, Silas and Timothy. We are writing to the people of the church in Thessalonica. You belong to God our Father, and to the Lord Jesus Christ.'."
       },
       {
         "id": "2th-1-q2",
         "questionNumber": 2,
         "question": "What key instruction, event, or declaration is set forth in 2 Thessalonians 1:2?",
         "options": [
-          "“Which is a clear sign of the decision which...”",
-          "“Grace to you and peace from God the Father and the...”",
-          "“Whose reward will be eternal destruction from the face...”",
+          "“This shows us that God judges people in a...”",
+          "“We pray that God our Father and the Lord Jesus Christ...”",
+          "“Their punishment will continue for ever, as God destroys...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“Grace to you and peace from God the Father and the...”",
+        "correctAnswer": "“We pray that God our Father and the Lord Jesus Christ...”",
         "reference": "2 Thessalonians 1:2",
-        "explanation": "2 Thessalonians 1:2 records: 'Grace to you and peace from God the Father and the Lord Jesus Christ.'."
+        "explanation": "2 Thessalonians 1:2 records: 'We pray that God our Father and the Lord Jesus Christ will continue to help you. We pray that they will give you peace in your minds.'."
       },
       {
         "id": "2th-1-q3",
         "questionNumber": 3,
         "question": "What significant action or revelation occurs in 2 Thessalonians 1:3?",
         "options": [
-          "“For it is an act of righteousness on God's...”",
-          "“At his coming, when he will have glory in...”",
-          "“It is right for us to give praise to God at...”",
+          "“God will punish those people who are causing trouble...”",
+          "“This will happen when Jesus comes on that special...”",
+          "“Our Christian friends, we always ought to thank God because of...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“It is right for us to give praise to God at...”",
+        "correctAnswer": "“Our Christian friends, we always ought to thank God because of...”",
         "reference": "2 Thessalonians 1:3",
-        "explanation": "2 Thessalonians 1:3 records: 'It is right for us to give praise to God at all times for you, brothers, because of the great increase of your faith, and the wealth of your love for one another;'."
+        "explanation": "2 Thessalonians 1:3 records: 'Our Christian friends, we always ought to thank God because of you. It is right that we do this, because you are learning to trust Christ more and more. All of you are also loving each other more and more.'."
       },
       {
         "id": "2th-1-q4",
         "questionNumber": 4,
         "question": "What truth or description is highlighted in 2 Thessalonians 1:4?",
         "options": [
-          "“And to you who are troubled, rest with us,...”",
-          "“For this reason, you are ever in our prayers,...”",
+          "“God will also do what is right and fair...”",
+          "“So we always pray for you. Our God has...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“So that we ourselves take pride in you in the churches...”"
+          "“As a result, we are proud to tell believers in other...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“So that we ourselves take pride in you in the churches...”",
+        "correctAnswer": "“As a result, we are proud to tell believers in other...”",
         "reference": "2 Thessalonians 1:4",
-        "explanation": "2 Thessalonians 1:4 records: 'So that we ourselves take pride in you in the churches of God for your untroubled mind and your faith in all the troubles and sorrows which you are going through;'."
+        "explanation": "2 Thessalonians 1:4 records: 'As a result, we are proud to tell believers in other churches about you. We tell them how you continue to trust God in your many troubles. You are patient and brave, even when people cause you to suffer.'."
       },
       {
         "id": "2th-1-q5",
         "questionNumber": 5,
         "question": "According to the text, what happened or was commanded in 2 Thessalonians 1:5?",
         "options": [
-          "“Which is a clear sign of the decision which God in...”",
-          "“To give punishment to those who have no knowledge...”",
-          "“Paul and Silvanus and Timothy, to the church of...”",
+          "“This shows us that God judges people in a way that...”",
+          "“and with a very hot fire. He will punish...”",
+          "“This letter is from Paul, Silas and Timothy. We...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“Which is a clear sign of the decision which God in...”",
+        "correctAnswer": "“This shows us that God judges people in a way that...”",
         "reference": "2 Thessalonians 1:5",
-        "explanation": "2 Thessalonians 1:5 records: 'Which is a clear sign of the decision which God in his righteousness has made; to give you a part in his kingdom, for which you have undergone this pain;'."
+        "explanation": "2 Thessalonians 1:5 records: 'This shows us that God judges people in a way that is right. Now you are suffering because you belong to God's kingdom. Because of that, God accepts you as the people that he rules.'."
       },
       {
         "id": "2th-1-q6",
         "questionNumber": 6,
         "question": "What central message or instruction is delivered in 2 Thessalonians 1:6?",
         "options": [
-          "“Whose reward will be eternal destruction from the face...”",
-          "“For it is an act of righteousness on God's part to...”",
-          "“Paul and Silvanus and Timothy, to the church of...”",
+          "“Their punishment will continue for ever, as God destroys...”",
+          "“God will punish those people who are causing trouble for you....”",
+          "“This letter is from Paul, Silas and Timothy. We...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“For it is an act of righteousness on God's part to...”",
+        "correctAnswer": "“God will punish those people who are causing trouble for you....”",
         "reference": "2 Thessalonians 1:6",
-        "explanation": "2 Thessalonians 1:6 records: 'For it is an act of righteousness on God's part to give trouble as their reward to those who are troubling you,'."
+        "explanation": "2 Thessalonians 1:6 records: 'God will punish those people who are causing trouble for you. He will cause trouble for them. That is right and fair.'."
       },
       {
         "id": "2th-1-q7",
         "questionNumber": 7,
         "question": "What detail regarding God's work, covenant, or people is given in 2 Thessalonians 1:7?",
         "options": [
-          "“At his coming, when he will have glory in...”",
-          "“Grace to you and peace from God the Father...”",
-          "“And to you who are troubled, rest with us, when the...”",
+          "“This will happen when Jesus comes on that special...”",
+          "“We pray that God our Father and the Lord...”",
+          "“God will also do what is right and fair for you....”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“And to you who are troubled, rest with us, when the...”",
+        "correctAnswer": "“God will also do what is right and fair for you....”",
         "reference": "2 Thessalonians 1:7",
-        "explanation": "2 Thessalonians 1:7 records: 'And to you who are troubled, rest with us, when the Lord Jesus comes from heaven with the angels of his power in flames of fire,'."
+        "explanation": "2 Thessalonians 1:7 records: 'God will also do what is right and fair for you. You have troubles now. But one day God will cause you to have rest, together with us. This will happen when the Lord Jesus comes down from heaven. He will come with his powerful angels,'."
       },
       {
         "id": "2th-1-q8",
         "questionNumber": 8,
         "question": "What phrase or account is recorded in 2 Thessalonians 1:8?",
         "options": [
-          "“For this reason, you are ever in our prayers,...”",
-          "“It is right for us to give praise to...”",
+          "“So we always pray for you. Our God has...”",
+          "“Our Christian friends, we always ought to thank God...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“To give punishment to those who have no knowledge of God,...”"
+          "“and with a very hot fire. He will punish those people...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“To give punishment to those who have no knowledge of God,...”",
+        "correctAnswer": "“and with a very hot fire. He will punish those people...”",
         "reference": "2 Thessalonians 1:8",
-        "explanation": "2 Thessalonians 1:8 records: 'To give punishment to those who have no knowledge of God, and to those who do not give ear to the good news of our Lord Jesus:'."
+        "explanation": "2 Thessalonians 1:8 records: 'and with a very hot fire. He will punish those people who do not know God. Yes, he will punish those people who do not obey the good news about our Lord Jesus.'."
       },
       {
         "id": "2th-1-q9",
         "questionNumber": 9,
         "question": "How does the passage describe the circumstances or people in 2 Thessalonians 1:9?",
         "options": [
-          "“Whose reward will be eternal destruction from the face of the...”",
-          "“Paul and Silvanus and Timothy, to the church of...”",
-          "“So that we ourselves take pride in you in...”",
+          "“Their punishment will continue for ever, as God destroys them. He...”",
+          "“This letter is from Paul, Silas and Timothy. We...”",
+          "“As a result, we are proud to tell believers...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“Whose reward will be eternal destruction from the face of the...”",
+        "correctAnswer": "“Their punishment will continue for ever, as God destroys them. He...”",
         "reference": "2 Thessalonians 1:9",
-        "explanation": "2 Thessalonians 1:9 records: 'Whose reward will be eternal destruction from the face of the Lord and from the glory of his strength,'."
+        "explanation": "2 Thessalonians 1:9 records: 'Their punishment will continue for ever, as God destroys them. He will keep them away from the Lord. They will never see the Lord, or his great power.'."
       },
       {
         "id": "2th-1-q10",
         "questionNumber": 10,
         "question": "In the concluding portion of the chapter, what takes place in 2 Thessalonians 1:10?",
         "options": [
-          "“Paul and Silvanus and Timothy, to the church of...”",
-          "“At his coming, when he will have glory in his saints,...”",
-          "“Which is a clear sign of the decision which...”",
+          "“This letter is from Paul, Silas and Timothy. We...”",
+          "“This will happen when Jesus comes on that special day. His...”",
+          "“This shows us that God judges people in a...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“At his coming, when he will have glory in his saints,...”",
+        "correctAnswer": "“This will happen when Jesus comes on that special day. His...”",
         "reference": "2 Thessalonians 1:10",
-        "explanation": "2 Thessalonians 1:10 records: 'At his coming, when he will have glory in his saints, and will be a cause of wonder in all those who had faith (because our witness among you had effect) in that day.'."
+        "explanation": "2 Thessalonians 1:10 records: 'This will happen when Jesus comes on that special day. His own people will praise him for the great things that he has done for them. All of us who are believers will be surprised when we see his great power. This includes you, because you believed our message about the Lord Jesus.'."
       }
     ],
     "2": [
@@ -163,150 +160,150 @@
         "questionNumber": 1,
         "question": "According to 2 Thessalonians 2:1, what is the opening statement or setting of this chapter?",
         "options": [
-          "It records: “Now as to the coming of the Lord Jesus Christ, and our meeting wi...”",
+          "It records: “Our Christian friends, we must explain something now about the ti...”",
           "It begins with a prayer of thanksgiving for deliverance in 2 Thessalonians",
           "It opens with a formal census and counting of the congregation",
           "It records a severe judgment pronounced against neighboring nations"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "It records: “Now as to the coming of the Lord Jesus Christ, and our meeting wi...”",
+        "correctAnswer": "It records: “Our Christian friends, we must explain something now about the ti...”",
         "reference": "2 Thessalonians 2:1",
-        "explanation": "The chapter begins directly with the statement: 'Now as to the coming of the Lord Jesus Christ, and our meeting with him, it is our desire, my brothers,'."
+        "explanation": "The chapter begins directly with the statement: 'Our Christian friends, we must explain something now about the time when our Lord Jesus Christ will return. That is the time when he will bring us all together to be with him.'."
       },
       {
         "id": "2th-2-q2",
         "questionNumber": 2,
         "question": "What key instruction, event, or declaration is set forth in 2 Thessalonians 2:2?",
         "options": [
-          "“Have you no memory of what I said when...”",
-          "“That you may not be moved in mind or troubled by...”",
-          "“Even the one whose coming is marked by the...”",
+          "“I told you these things when I was with...”",
+          "“Please do not become easily confused about this. Do not let...”",
+          "“When the enemy of God appears, he will be...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“That you may not be moved in mind or troubled by...”",
+        "correctAnswer": "“Please do not become easily confused about this. Do not let...”",
         "reference": "2 Thessalonians 2:2",
-        "explanation": "2 Thessalonians 2:2 records: 'That you may not be moved in mind or troubled by a spirit, or by a word, or by a letter as from us, with the suggestion that the day of the Lord is even now come;'."
+        "explanation": "2 Thessalonians 2:2 records: 'Please do not become easily confused about this. Do not let yourselves become afraid because of false messages about the Lord's return. Some people are telling you that the great day of the Lord has already happened. Some of these people say that God's Spirit has shown them a message like that. Other people might say that the message came from us. Or they might say that we wrote it in a letter.'."
       },
       {
         "id": "2th-2-q3",
         "questionNumber": 3,
         "question": "What significant action or revelation occurs in 2 Thessalonians 2:3?",
         "options": [
-          "“And now it is clear to you what is...”",
-          "“And with every deceit of wrongdoing among those whose...”",
-          "“Give no belief to false words: because there will first be...”",
+          "“Something makes it impossible for this man to come...”",
+          "“He will do all kinds of bad things that...”",
+          "“Do not let anyone deceive you like that in any way....”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“Give no belief to false words: because there will first be...”",
+        "correctAnswer": "“Do not let anyone deceive you like that in any way....”",
         "reference": "2 Thessalonians 2:3",
-        "explanation": "2 Thessalonians 2:3 records: 'Give no belief to false words: because there will first be a falling away from the faith, and the revelation of the man of sin, the son of destruction,'."
+        "explanation": "2 Thessalonians 2:3 records: 'Do not let anyone deceive you like that in any way. That day will not happen until certain other things have happened. Before that day, there will be a time when many people will turn against God. Also, the man who is completely against God will appear. God will surely destroy him in the end.'."
       },
       {
         "id": "2th-2-q4",
         "questionNumber": 4,
         "question": "What truth or description is highlighted in 2 Thessalonians 2:4?",
         "options": [
-          "“For the secret of evil is even now at...”",
-          "“And for this cause, God will give them up...”",
+          "“His power is already working secretly to turn people...”",
+          "“For this reason, God causes their minds to accept...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“Who puts himself against all authority, lifting himself up over all...”"
+          "“This man will be God's great enemy. He will say that...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“Who puts himself against all authority, lifting himself up over all...”",
+        "correctAnswer": "“This man will be God's great enemy. He will say that...”",
         "reference": "2 Thessalonians 2:4",
-        "explanation": "2 Thessalonians 2:4 records: 'Who puts himself against all authority, lifting himself up over all which is named God or is given worship; so that he takes his seat in the Temple of God, putting himself forward as God.'."
+        "explanation": "2 Thessalonians 2:4 records: 'This man will be God's great enemy. He will say that he is greater than everything that people call their gods. He will say that he is greater than everything that people worship. As a result, he will even go into the temple. He will sit down there like a king. He will tell everyone that he himself is God.'."
       },
       {
         "id": "2th-2-q5",
         "questionNumber": 5,
         "question": "According to the text, what happened or was commanded in 2 Thessalonians 2:5?",
         "options": [
-          "“Have you no memory of what I said when I was...”",
-          "“And then will come the revelation of that evil...”",
-          "“So that they all may be judged, who had...”",
+          "“I told you these things when I was with you. I...”",
+          "“Then the man who is against God will appear....”",
+          "“As a result, God will punish all of them....”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“Have you no memory of what I said when I was...”",
+        "correctAnswer": "“I told you these things when I was with you. I...”",
         "reference": "2 Thessalonians 2:5",
-        "explanation": "2 Thessalonians 2:5 records: 'Have you no memory of what I said when I was with you, giving you word of these things?'."
+        "explanation": "2 Thessalonians 2:5 records: 'I told you these things when I was with you. I am sure that you remember that.'."
       },
       {
         "id": "2th-2-q6",
         "questionNumber": 6,
         "question": "What central message or instruction is delivered in 2 Thessalonians 2:6?",
         "options": [
-          "“Even the one whose coming is marked by the...”",
-          "“And now it is clear to you what is keeping back...”",
-          "“But it is right for us to give praise...”",
+          "“When the enemy of God appears, he will be...”",
+          "“Something makes it impossible for this man to come now. And...”",
+          "“We always thank God for you, our Christian friends...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“And now it is clear to you what is keeping back...”",
+        "correctAnswer": "“Something makes it impossible for this man to come now. And...”",
         "reference": "2 Thessalonians 2:6",
-        "explanation": "2 Thessalonians 2:6 records: 'And now it is clear to you what is keeping back his revelation till the time comes for him to be seen.'."
+        "explanation": "2 Thessalonians 2:6 records: 'Something makes it impossible for this man to come now. And you know what it is. But this man will appear at the proper time.'."
       },
       {
         "id": "2th-2-q7",
         "questionNumber": 7,
         "question": "What detail regarding God's work, covenant, or people is given in 2 Thessalonians 2:7?",
         "options": [
-          "“And with every deceit of wrongdoing among those whose...”",
-          "“And in this purpose he gave you a part...”",
-          "“For the secret of evil is even now at work: but...”",
+          "“He will do all kinds of bad things that...”",
+          "“We told you God's good news. That is how...”",
+          "“His power is already working secretly to turn people against God....”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“For the secret of evil is even now at work: but...”",
+        "correctAnswer": "“His power is already working secretly to turn people against God....”",
         "reference": "2 Thessalonians 2:7",
-        "explanation": "2 Thessalonians 2:7 records: 'For the secret of evil is even now at work: but there is one who is keeping back the evil till he is taken out of the way.'."
+        "explanation": "2 Thessalonians 2:7 records: 'His power is already working secretly to turn people against God. But there is someone who makes it impossible for him to work freely. That person will continue to make it impossible, until God takes that person away.'."
       },
       {
         "id": "2th-2-q8",
         "questionNumber": 8,
         "question": "What phrase or account is recorded in 2 Thessalonians 2:8?",
         "options": [
-          "“And for this cause, God will give them up...”",
-          "“So then, brothers, be strong in purpose, and keep...”",
+          "“For this reason, God causes their minds to accept...”",
+          "“Because of that, our Christian friends, you must continue...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“And then will come the revelation of that evil one, whom...”"
+          "“Then the man who is against God will appear. But the...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“And then will come the revelation of that evil one, whom...”",
+        "correctAnswer": "“Then the man who is against God will appear. But the...”",
         "reference": "2 Thessalonians 2:8",
-        "explanation": "2 Thessalonians 2:8 records: 'And then will come the revelation of that evil one, whom the Lord Jesus will put to death with the breath of his mouth, and give to destruction by the revelation of his coming;'."
+        "explanation": "2 Thessalonians 2:8 records: 'Then the man who is against God will appear. But the Lord Jesus will come, and he will kill that man. Jesus will blow him away with breath from his mouth. When Jesus appears with great power, that enemy of God will be there no longer!'."
       },
       {
         "id": "2th-2-q9",
         "questionNumber": 9,
         "question": "How does the passage describe the circumstances or people in 2 Thessalonians 2:9?",
         "options": [
-          "“Even the one whose coming is marked by the working of...”",
-          "“So that they all may be judged, who had...”",
-          "“Now our Lord Jesus Christ himself, and God our...”",
+          "“When the enemy of God appears, he will be doing Satan's...”",
+          "“As a result, God will punish all of them....”",
+          "“We ask our Lord Jesus Christ himself, and God,...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“Even the one whose coming is marked by the working of...”",
+        "correctAnswer": "“When the enemy of God appears, he will be doing Satan's...”",
         "reference": "2 Thessalonians 2:9",
-        "explanation": "2 Thessalonians 2:9 records: 'Even the one whose coming is marked by the working of Satan, with all power and signs and false wonders,'."
+        "explanation": "2 Thessalonians 2:9 records: 'When the enemy of God appears, he will be doing Satan's work. Satan will give him the power to do great things and miracles that are false.'."
       },
       {
         "id": "2th-2-q10",
         "questionNumber": 10,
         "question": "In the concluding portion of the chapter, what takes place in 2 Thessalonians 2:10?",
         "options": [
-          "“But it is right for us to give praise...”",
-          "“And with every deceit of wrongdoing among those whose fate is...”",
-          "“Now as to the coming of the Lord Jesus...”",
+          "“We always thank God for you, our Christian friends...”",
+          "“He will do all kinds of bad things that deceive people....”",
+          "“Our Christian friends, we must explain something now about...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“And with every deceit of wrongdoing among those whose fate is...”",
+        "correctAnswer": "“He will do all kinds of bad things that deceive people....”",
         "reference": "2 Thessalonians 2:10",
-        "explanation": "2 Thessalonians 2:10 records: 'And with every deceit of wrongdoing among those whose fate is destruction; because they were quite without that love of the true faith by which they might have salvation.'."
+        "explanation": "2 Thessalonians 2:10 records: 'He will do all kinds of bad things that deceive people. The people that he deceives are people that God will destroy. Those people believe false things because they have refused to accept God's true message. If they had loved that true message, God would have saved them.'."
       }
     ],
     "3": [
@@ -315,150 +312,150 @@
         "questionNumber": 1,
         "question": "According to 2 Thessalonians 3:1, what is the opening statement or setting of this chapter?",
         "options": [
-          "It records: “For the rest, my brothers, let there be prayer for us that the wo...”",
+          "It records: “Now, friends, we ask you to pray for us. Pray that more and more ...”",
           "It begins with a prayer of thanksgiving for deliverance in 2 Thessalonians",
           "It opens with a formal census and counting of the congregation",
           "It records a severe judgment pronounced against neighboring nations"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "It records: “For the rest, my brothers, let there be prayer for us that the wo...”",
+        "correctAnswer": "It records: “Now, friends, we ask you to pray for us. Pray that more and more ...”",
         "reference": "2 Thessalonians 3:1",
-        "explanation": "The chapter begins directly with the statement: 'For the rest, my brothers, let there be prayer for us that the word of the Lord may go forward with increasing glory, even as it does with you;'."
+        "explanation": "The chapter begins directly with the statement: 'Now, friends, we ask you to pray for us. Pray that more and more people will soon hear the Lord's message. Pray that people will receive the message well and accept it as true. That is how you received it.'."
       },
       {
         "id": "2th-3-q2",
         "questionNumber": 2,
         "question": "What key instruction, event, or declaration is set forth in 2 Thessalonians 3:2?",
         "options": [
-          "“And may your hearts be guided by the Lord...”",
-          "“And that we may be made free from foolish and evil...”",
-          "“Not because we have not the right, but to...”",
+          "“We pray that the Lord will lead you in...”",
+          "“Pray also that God will not let bad people cause trouble...”",
+          "“We could have told you to give us what...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“And that we may be made free from foolish and evil...”",
+        "correctAnswer": "“Pray also that God will not let bad people cause trouble...”",
         "reference": "2 Thessalonians 3:2",
-        "explanation": "2 Thessalonians 3:2 records: 'And that we may be made free from foolish and evil men; for not all have faith.'."
+        "explanation": "2 Thessalonians 3:2 records: 'Pray also that God will not let bad people cause trouble for us. Not everyone believes the message about our Lord.'."
       },
       {
         "id": "2th-3-q3",
         "questionNumber": 3,
         "question": "What significant action or revelation occurs in 2 Thessalonians 3:3?",
         "options": [
-          "“Now we give you orders, brothers, in the name...”",
-          "“For even when we were with you we gave...”",
-          "“But the Lord is true, who will give you strength and...”",
+          "“Our friends, you must stay away from every believer...”",
+          "“Even when we were there with you, we told...”",
+          "“But the Lord always does what he has promised. So he...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“But the Lord is true, who will give you strength and...”",
+        "correctAnswer": "“But the Lord always does what he has promised. So he...”",
         "reference": "2 Thessalonians 3:3",
-        "explanation": "2 Thessalonians 3:3 records: 'But the Lord is true, who will give you strength and keep you safe from evil.'."
+        "explanation": "2 Thessalonians 3:3 records: 'But the Lord always does what he has promised. So he will help you to be strong inside yourselves. He will keep you safe when Satan attacks you.'."
       },
       {
         "id": "2th-3-q4",
         "questionNumber": 4,
         "question": "What truth or description is highlighted in 2 Thessalonians 3:4?",
         "options": [
-          "“For you yourselves are used to taking us as...”",
-          "“For it has come to our ears that there...”",
+          "“You yourselves know that you ought to copy our...”",
+          "“We say this because someone has told us news...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“And we have faith in the Lord about you, that you...”"
+          "“Because you belong to the Lord, he makes us sure about...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“And we have faith in the Lord about you, that you...”",
+        "correctAnswer": "“Because you belong to the Lord, he makes us sure about...”",
         "reference": "2 Thessalonians 3:4",
-        "explanation": "2 Thessalonians 3:4 records: 'And we have faith in the Lord about you, that you are doing and will do the things about which we give you orders.'."
+        "explanation": "2 Thessalonians 3:4 records: 'Because you belong to the Lord, he makes us sure about you. We know that you are doing the things that we tell you to do. And we know that you will continue to do those things.'."
       },
       {
         "id": "2th-3-q5",
         "questionNumber": 5,
         "question": "According to the text, what happened or was commanded in 2 Thessalonians 3:5?",
         "options": [
-          "“And may your hearts be guided by the Lord into the...”",
-          "“And we did not take food from any man...”",
-          "“Now to such we give orders and make request...”",
+          "“We pray that the Lord will lead you in your thoughts....”",
+          "“We always paid for the food that anyone gave...”",
+          "“We have something to say to people who are...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“And may your hearts be guided by the Lord into the...”",
+        "correctAnswer": "“We pray that the Lord will lead you in your thoughts....”",
         "reference": "2 Thessalonians 3:5",
-        "explanation": "2 Thessalonians 3:5 records: 'And may your hearts be guided by the Lord into the love of God and quiet waiting for Christ.'."
+        "explanation": "2 Thessalonians 3:5 records: 'We pray that the Lord will lead you in your thoughts. Then you will understand God's love better and better. And you will be patient and strong, as Christ is.'."
       },
       {
         "id": "2th-3-q6",
         "questionNumber": 6,
         "question": "What central message or instruction is delivered in 2 Thessalonians 3:6?",
         "options": [
-          "“Not because we have not the right, but to...”",
-          "“Now we give you orders, brothers, in the name of our...”",
-          "“And you, my brothers, do not get tired of...”",
+          "“We could have told you to give us what...”",
+          "“Our friends, you must stay away from every believer who is...”",
+          "“But you must never stop doing what is right,...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“Now we give you orders, brothers, in the name of our...”",
+        "correctAnswer": "“Our friends, you must stay away from every believer who is...”",
         "reference": "2 Thessalonians 3:6",
-        "explanation": "2 Thessalonians 3:6 records: 'Now we give you orders, brothers, in the name of our Lord Jesus Christ, to keep away from all those whose behaviour is not well ordered and in harmony with the teaching which they had from us.'."
+        "explanation": "2 Thessalonians 3:6 records: 'Our friends, you must stay away from every believer who is living in a lazy way. We tell you this with the authority that the Lord Jesus Christ gives to us. Lazy people like that are not living in the way that we taught you.'."
       },
       {
         "id": "2th-3-q7",
         "questionNumber": 7,
         "question": "What detail regarding God's work, covenant, or people is given in 2 Thessalonians 3:7?",
         "options": [
-          "“For even when we were with you we gave...”",
-          "“And if any man does not give attention to...”",
-          "“For you yourselves are used to taking us as your example,...”",
+          "“Even when we were there with you, we told...”",
+          "“Maybe someone among you will not obey the message...”",
+          "“You yourselves know that you ought to copy our example. You...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“For you yourselves are used to taking us as your example,...”",
+        "correctAnswer": "“You yourselves know that you ought to copy our example. You...”",
         "reference": "2 Thessalonians 3:7",
-        "explanation": "2 Thessalonians 3:7 records: 'For you yourselves are used to taking us as your example, because our life among you was ruled by order,'."
+        "explanation": "2 Thessalonians 3:7 records: 'You yourselves know that you ought to copy our example. You know that we were not lazy when we lived among you.'."
       },
       {
         "id": "2th-3-q8",
         "questionNumber": 8,
         "question": "What phrase or account is recorded in 2 Thessalonians 3:8?",
         "options": [
-          "“For it has come to our ears that there...”",
-          "“Have no feeling of hate for him, but take...”",
+          "“We say this because someone has told us news...”",
+          "“But remember that he is a believer, as you...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“And we did not take food from any man for nothing,...”"
+          "“We always paid for the food that anyone gave to us....”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“And we did not take food from any man for nothing,...”",
+        "correctAnswer": "“We always paid for the food that anyone gave to us....”",
         "reference": "2 Thessalonians 3:8",
-        "explanation": "2 Thessalonians 3:8 records: 'And we did not take food from any man for nothing, but were working hard night and day not to be a trouble to any of you:'."
+        "explanation": "2 Thessalonians 3:8 records: 'We always paid for the food that anyone gave to us. We worked hard all the time, during the day and at night. We did that so that we would not make trouble for any of you.'."
       },
       {
         "id": "2th-3-q9",
         "questionNumber": 9,
         "question": "How does the passage describe the circumstances or people in 2 Thessalonians 3:9?",
         "options": [
-          "“Not because we have not the right, but to make ourselves...”",
-          "“Now to such we give orders and make request...”",
-          "“Now the Lord of peace himself give you peace...”",
+          "“We could have told you to give us what we needed....”",
+          "“We have something to say to people who are...”",
+          "“The Lord helps us to have peace in our...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“Not because we have not the right, but to make ourselves...”",
+        "correctAnswer": "“We could have told you to give us what we needed....”",
         "reference": "2 Thessalonians 3:9",
-        "explanation": "2 Thessalonians 3:9 records: 'Not because we have not the right, but to make ourselves an example to you, so that you might do the same.'."
+        "explanation": "2 Thessalonians 3:9 records: 'We could have told you to give us what we needed. We have authority to do that. But we wanted to show you how to live properly. Then you could copy our example.'."
       },
       {
         "id": "2th-3-q10",
         "questionNumber": 10,
         "question": "In the concluding portion of the chapter, what takes place in 2 Thessalonians 3:10?",
         "options": [
-          "“And you, my brothers, do not get tired of...”",
-          "“For even when we were with you we gave you orders,...”",
-          "“These words of love to you at the end...”",
+          "“But you must never stop doing what is right,...”",
+          "“Even when we were there with you, we told you this...”",
+          "“I, Paul, am writing these words at the end...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“For even when we were with you we gave you orders,...”",
+        "correctAnswer": "“Even when we were there with you, we told you this...”",
         "reference": "2 Thessalonians 3:10",
-        "explanation": "2 Thessalonians 3:10 records: 'For even when we were with you we gave you orders, saying, If any man does no work, let him not have food.'."
+        "explanation": "2 Thessalonians 3:10 records: 'Even when we were there with you, we told you this rule: ‘If anyone refuses to work, you should not give food to him.’'."
       }
     ]
   }

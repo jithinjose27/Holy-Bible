@@ -87,12 +87,25 @@ def validate():
             if len(chapters) != expected_chapters:
                 errors.append(f"[{book_id}] text.json has {len(chapters)} chapters, expected {expected_chapters}")
             else:
-                for ch in chapters:
+                for idx, ch in enumerate(chapters, 1):
                     ch_num = ch.get("chapter")
-                    verses = ch.get("verses", [])
-                    if len(verses) == 0:
+                    if ch_num != idx:
+                        errors.append(f"[{book_id}] Ch {ch_num} out of order (expected {idx})")
+
+                    ch_verse_count = 0
+                    sections = ch.get("sections", [])
+                    if sections:
+                        for sec in sections:
+                            for p in sec.get("items", []):
+                                for v in p:
+                                    if v.get("verse") and v.get("text"):
+                                        ch_verse_count += 1
+                    elif "verses" in ch:
+                        ch_verse_count = len(ch["verses"])
+
+                    if ch_verse_count == 0:
                         errors.append(f"[{book_id}] Ch {ch_num} has 0 verses in text.json")
-                    total_verses_text += len(verses)
+                    total_verses_text += ch_verse_count
         except Exception as e:
             errors.append(f"[{book_id}] text.json failed to parse: {e}")
 

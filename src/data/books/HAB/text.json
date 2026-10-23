@@ -1,539 +1,1133 @@
 {
-  "translation": "EasyEnglish Bible",
-  "book": "Habakkuk",
-  "bookId": "HAB",
+  "id": "HAB",
+  "name": "Habakkuk",
+  "slug": "habakkuk",
+  "translation": "EasyEnglish Bible (EASY)",
+  "publisher": "MissionAssist UK",
+  "referenceUrl": "https://www.easyenglish.bible/bible/easy/habakkuk/",
   "totalChapters": 3,
-  "copyrightNotice": "Scripture quotations are from the EasyEnglish Bible / Bible in Basic English. Public Domain.",
-  "officialSourceUrl": "https://www.easyenglish.bible/bible/easy/habakkuk/1/",
+  "totalVerses": 56,
   "chapters": [
     {
-      "book": "Habakkuk",
       "chapter": 1,
       "title": "Habakkuk 1",
-      "subtitle": "Habakkuk Chapter 1",
+      "subtitle": "",
+      "totalVerses": 17,
+      "sourceUrl": "https://www.easyenglish.bible/bible/easy/habakkuk/1/",
       "sections": [
         {
-          "heading": "Habakkuk Chapter 1",
+          "heading": "Habakkuk complains to God",
           "items": [
             [
               {
                 "verse": 1,
-                "text": "The word which Habakkuk the prophet saw."
-              },
+                "text": "This is the message that God showed to his prophet Habakkuk."
+              }
+            ],
+            [
               {
                 "verse": 2,
-                "text": "How long, O Lord, will your ears be shut to my voice? I make an outcry to you about violent behaviour, but you do not send salvation."
-              },
+                "text": "Lord, how long must I call out to you for help?"
+              }
+            ],
+            [
+              {
+                "verse": 2,
+                "text": "You do not listen to me!"
+              }
+            ],
+            [
+              {
+                "verse": 2,
+                "text": "I shout aloud to you, ‘ Violence is everywhere!’"
+              }
+            ],
+            [
+              {
+                "verse": 2,
+                "text": "but you do nothing to make us safe."
+              }
+            ],
+            [
               {
                 "verse": 3,
-                "text": "Why do you make me see evil-doing, and why are my eyes fixed on wrong? for wasting and violent acts are before me: and there is fighting and bitter argument."
-              },
+                "text": "You cause me to see many things that are not right."
+              }
+            ],
+            [
+              {
+                "verse": 3,
+                "text": "You do not punish people who are doing wrong things."
+              }
+            ],
+            [
+              {
+                "verse": 3,
+                "text": "Why do you let that happen?"
+              }
+            ],
+            [
+              {
+                "verse": 3,
+                "text": "People do cruel things and there is violence everywhere."
+              }
+            ],
+            [
+              {
+                "verse": 3,
+                "text": "They argue and they fight."
+              }
+            ],
+            [
               {
                 "verse": 4,
-                "text": "For this reason the law is feeble and decisions are not effected: for the upright man is circled round by evil-doers; because of which right is twisted."
+                "text": "The law has no power to make things right."
+              }
+            ],
+            [
+              {
+                "verse": 4,
+                "text": "There is no justice in the courts."
+              }
+            ],
+            [
+              {
+                "verse": 4,
+                "text": "Instead, wicked people win against good people."
+              }
+            ],
+            [
+              {
+                "verse": 4,
+                "text": "The judges decide that bad people are good."
+              }
+            ]
+          ]
+        },
+        {
+          "heading": "God gives Habakkuk a surprising answer",
+          "items": [
+            [
+              {
+                "verse": 5,
+                "text": "‘All of you, look carefully at the other nations."
               }
             ],
             [
               {
                 "verse": 5,
-                "text": "See among the nations, and take note, and be full of wonder: for in your days I am doing a work in which you will have no belief, even if news of it is given to you."
-              },
+                "text": "You will be very surprised at what is happening."
+              }
+            ],
+            [
+              {
+                "verse": 5,
+                "text": "While you are still alive, I will do a very surprising thing."
+              }
+            ],
+            [
+              {
+                "verse": 5,
+                "text": "You would not believe it even if someone told you."
+              }
+            ],
+            [
               {
                 "verse": 6,
-                "text": "For see, I am sending the Chaldaeans, that bitter and quick-moving nation; who go through the wide spaces of the earth to get for themselves living-places which are not theirs."
-              },
+                "text": "I will give more power to the Babylonians."
+              }
+            ],
+            [
+              {
+                "verse": 6,
+                "text": "They are a cruel nation with brave soldiers."
+              }
+            ],
+            [
+              {
+                "verse": 6,
+                "text": "They march across the whole earth."
+              }
+            ],
+            [
+              {
+                "verse": 6,
+                "text": "They take cities that do not belong to them."
+              }
+            ],
+            [
               {
                 "verse": 7,
-                "text": "They are greatly to be feared: their right comes from themselves."
-              },
+                "text": "They cause people to be very afraid."
+              }
+            ],
+            [
+              {
+                "verse": 7,
+                "text": "They obey no laws except their own rules."
+              }
+            ],
+            [
               {
                 "verse": 8,
-                "text": "And their horses are quicker than leopards and their horsemen more cruel than evening wolves; they come from far away, like an eagle in flight rushing on its food."
+                "text": "Their horses run faster than leopards."
+              }
+            ],
+            [
+              {
+                "verse": 8,
+                "text": "They are more cruel than wolves"
+              }
+            ],
+            [
+              {
+                "verse": 8,
+                "text": "that attack in the evening."
+              }
+            ],
+            [
+              {
+                "verse": 8,
+                "text": "Their riders come on fast horses"
+              }
+            ],
+            [
+              {
+                "verse": 8,
+                "text": "from places that are far away."
+              }
+            ],
+            [
+              {
+                "verse": 8,
+                "text": "They quickly attack their enemies,"
+              }
+            ],
+            [
+              {
+                "verse": 8,
+                "text": "like hungry eagles that fly down to catch chickens."
               }
             ],
             [
               {
                 "verse": 9,
-                "text": "They are coming all of them with force; the direction of their faces is forward, the number of their prisoners is like the sands of the sea."
-              },
+                "text": "Their whole army comes to do violent things."
+              }
+            ],
+            [
+              {
+                "verse": 9,
+                "text": "They march forward like a wind from the desert."
+              }
+            ],
+            [
+              {
+                "verse": 9,
+                "text": "They make people their prisoners,"
+              }
+            ],
+            [
+              {
+                "verse": 9,
+                "text": "as easily as if they are picking up sand."
+              }
+            ],
+            [
               {
                 "verse": 10,
-                "text": "He makes little of kings, rulers are a sport to him; all the strong places are to be laughed at; for he makes earthworks and takes them."
-              },
+                "text": "They insult kings,"
+              }
+            ],
+            [
+              {
+                "verse": 10,
+                "text": "and they laugh at rulers."
+              }
+            ],
+            [
+              {
+                "verse": 10,
+                "text": "They laugh at all the strong cities of their enemies."
+              }
+            ],
+            [
+              {
+                "verse": 10,
+                "text": "They build heaps of earth against the walls,"
+              }
+            ],
+            [
+              {
+                "verse": 10,
+                "text": "and they take those cities for themselves."
+              }
+            ],
+            [
               {
                 "verse": 11,
-                "text": "Then his purpose will be changed, over-stepping the limit; he will make his strength his god."
-              },
+                "text": "Their army quickly moves on to another place,"
+              }
+            ],
+            [
+              {
+                "verse": 11,
+                "text": "like a wind that blows."
+              }
+            ],
+            [
+              {
+                "verse": 11,
+                "text": "They think that their own god has made them strong,"
+              }
+            ],
+            [
+              {
+                "verse": 11,
+                "text": "and so they are guilty.’"
+              }
+            ]
+          ]
+        },
+        {
+          "heading": "Habakkuk complains to God again",
+          "items": [
+            [
               {
                 "verse": 12,
-                "text": "Are you not eternal, O Lord my God, my Holy One? for you there is no death. O Lord, he has been ordered by you for our punishment; and by you, O Rock, he has been marked out to put us right."
+                "text": "Lord, you have always been God,"
+              }
+            ],
+            [
+              {
+                "verse": 12,
+                "text": "since the beginning."
+              }
+            ],
+            [
+              {
+                "verse": 12,
+                "text": "You are the God that I worship as holy,"
+              }
+            ],
+            [
+              {
+                "verse": 12,
+                "text": "and you will never die."
+              }
+            ],
+            [
+              {
+                "verse": 12,
+                "text": "Lord, you have chosen the Babylonians"
+              }
+            ],
+            [
+              {
+                "verse": 12,
+                "text": "as your weapon to punish your people."
+              }
+            ],
+            [
+              {
+                "verse": 12,
+                "text": "You are a strong rock to protect us,"
+              }
+            ],
+            [
+              {
+                "verse": 12,
+                "text": "but you have decided to use them to punish us."
               }
             ],
             [
               {
                 "verse": 13,
-                "text": "Before your holy eyes sin may not be seen, and you are unable to put up with wrong; why, then, are your eyes on the false? why do you say nothing when the evil-doer puts an end to one who is more upright than himself?"
-              },
+                "text": "But you are too holy to accept anything that is evil."
+              }
+            ],
+            [
+              {
+                "verse": 13,
+                "text": "You cannot agree with people who do wrong things."
+              }
+            ],
+            [
+              {
+                "verse": 13,
+                "text": "So why do you let these wicked people live?"
+              }
+            ],
+            [
+              {
+                "verse": 13,
+                "text": "Why do you say nothing?"
+              }
+            ],
+            [
+              {
+                "verse": 13,
+                "text": "They are killing people who are more righteous than themselves."
+              }
+            ],
+            [
               {
                 "verse": 14,
-                "text": "He has made men like the fishes of the sea, like the worms which have no ruler over them."
-              },
+                "text": "It seems that you have made people like fish in the sea."
+              }
+            ],
+            [
+              {
+                "verse": 14,
+                "text": "They are like animals that have no leader to rule them."
+              }
+            ],
+            [
               {
                 "verse": 15,
-                "text": "He takes them all up with his hook, he takes them in his net, getting them together in his fishing-net: for which cause he is glad and full of joy."
-              },
+                "text": "The Babylonians can easily catch them,"
+              }
+            ],
+            [
+              {
+                "verse": 15,
+                "text": "like people who catch fish with hooks."
+              }
+            ],
+            [
+              {
+                "verse": 15,
+                "text": "They throw their nets into the water,"
+              }
+            ],
+            [
+              {
+                "verse": 15,
+                "text": "and they catch as many as they want."
+              }
+            ],
+            [
+              {
+                "verse": 15,
+                "text": "When they store their fish in special nets,"
+              }
+            ],
+            [
+              {
+                "verse": 15,
+                "text": "they sing happy songs."
+              }
+            ],
+            [
               {
                 "verse": 16,
-                "text": "For this reason he makes an offering to his net, burning perfume to his fishing-net; because by them he gets much food and his meat is fat."
+                "text": "Their nets give them everything that they need,"
+              }
+            ],
+            [
+              {
+                "verse": 16,
+                "text": "so they offer sacrifices to their nets."
+              }
+            ],
+            [
+              {
+                "verse": 16,
+                "text": "Their nets give them plenty of good food to eat,"
+              }
+            ],
+            [
+              {
+                "verse": 16,
+                "text": "so they burn incense to thank their nets."
               }
             ],
             [
               {
                 "verse": 17,
-                "text": "For this cause his net is ever open, and there is no end to his destruction of the nations."
+                "text": "Will you let them continue to do that?"
+              }
+            ],
+            [
+              {
+                "verse": 17,
+                "text": "Will they make their nets full of fish"
+              }
+            ],
+            [
+              {
+                "verse": 17,
+                "text": "as many times as they want to?"
+              }
+            ],
+            [
+              {
+                "verse": 17,
+                "text": "Will they continue to destroy other nations"
+              }
+            ],
+            [
+              {
+                "verse": 17,
+                "text": "and never stop?"
               }
             ]
           ]
         }
       ],
-      "verses": [
-        {
-          "verse": 1,
-          "text": "The word which Habakkuk the prophet saw."
-        },
-        {
-          "verse": 2,
-          "text": "How long, O Lord, will your ears be shut to my voice? I make an outcry to you about violent behaviour, but you do not send salvation."
-        },
-        {
-          "verse": 3,
-          "text": "Why do you make me see evil-doing, and why are my eyes fixed on wrong? for wasting and violent acts are before me: and there is fighting and bitter argument."
-        },
-        {
-          "verse": 4,
-          "text": "For this reason the law is feeble and decisions are not effected: for the upright man is circled round by evil-doers; because of which right is twisted."
-        },
-        {
-          "verse": 5,
-          "text": "See among the nations, and take note, and be full of wonder: for in your days I am doing a work in which you will have no belief, even if news of it is given to you."
-        },
-        {
-          "verse": 6,
-          "text": "For see, I am sending the Chaldaeans, that bitter and quick-moving nation; who go through the wide spaces of the earth to get for themselves living-places which are not theirs."
-        },
-        {
-          "verse": 7,
-          "text": "They are greatly to be feared: their right comes from themselves."
-        },
-        {
-          "verse": 8,
-          "text": "And their horses are quicker than leopards and their horsemen more cruel than evening wolves; they come from far away, like an eagle in flight rushing on its food."
-        },
-        {
-          "verse": 9,
-          "text": "They are coming all of them with force; the direction of their faces is forward, the number of their prisoners is like the sands of the sea."
-        },
-        {
-          "verse": 10,
-          "text": "He makes little of kings, rulers are a sport to him; all the strong places are to be laughed at; for he makes earthworks and takes them."
-        },
-        {
-          "verse": 11,
-          "text": "Then his purpose will be changed, over-stepping the limit; he will make his strength his god."
-        },
-        {
-          "verse": 12,
-          "text": "Are you not eternal, O Lord my God, my Holy One? for you there is no death. O Lord, he has been ordered by you for our punishment; and by you, O Rock, he has been marked out to put us right."
-        },
-        {
-          "verse": 13,
-          "text": "Before your holy eyes sin may not be seen, and you are unable to put up with wrong; why, then, are your eyes on the false? why do you say nothing when the evil-doer puts an end to one who is more upright than himself?"
-        },
-        {
-          "verse": 14,
-          "text": "He has made men like the fishes of the sea, like the worms which have no ruler over them."
-        },
-        {
-          "verse": 15,
-          "text": "He takes them all up with his hook, he takes them in his net, getting them together in his fishing-net: for which cause he is glad and full of joy."
-        },
-        {
-          "verse": 16,
-          "text": "For this reason he makes an offering to his net, burning perfume to his fishing-net; because by them he gets much food and his meat is fat."
-        },
-        {
-          "verse": 17,
-          "text": "For this cause his net is ever open, and there is no end to his destruction of the nations."
-        }
-      ],
-      "totalVerses": 17,
-      "footnotes": []
+      "notes": [
+        "When we writeLordlike this, it is a special name for God. Sometimes people write it as the Hebrew name ‘Yahweh’. It is God's own name that he told Moses. SeeExodus 3:14. It means ‘I am who I am’. This shows that God has always been there and he always will be there.",
+        "God has said that he will use Babylon, acruel,wickednation, to punish his own people. Habakkuk thinks that this is wrong.",
+        "Habakkuk cannot understand why God will usecruelpeople like the Babylonians as hisweapon. The Babylonians catchprisonerslike men who catch fish withhooksandnets."
+      ]
     },
     {
-      "book": "Habakkuk",
       "chapter": 2,
       "title": "Habakkuk 2",
-      "subtitle": "Habakkuk Chapter 2",
+      "subtitle": "",
+      "totalVerses": 20,
+      "sourceUrl": "https://www.easyenglish.bible/bible/easy/habakkuk/2/",
       "sections": [
         {
-          "heading": "Habakkuk Chapter 2",
+          "heading": "God tells Habakkuk to be patient",
           "items": [
             [
               {
                 "verse": 1,
-                "text": "I will take my position and be on watch, placing myself on my tower, looking out to see what he will say to me, and what answer he will give to my protest."
-              },
+                "text": "I will stand at my place on the wall of the city. I will watch from there. I will wait to see what God will say to me. I have complained to him and now I will see how he answers me."
+              }
+            ],
+            [
               {
                 "verse": 2,
-                "text": "And the Lord gave me an answer, and said, Put the vision in writing and make it clear on stones, so that the reader may go quickly."
+                "text": "The Lord answered me. He said:"
+              }
+            ],
+            [
+              {
+                "verse": 2,
+                "text": "‘Write down what I will show you. Make the message very clear on the place where you write it. Then someone can easily read it, and he can tell the message to other people."
               },
               {
                 "verse": 3,
-                "text": "For the vision is still for the fixed time, and it is moving quickly to the end, and it will not be false: even if it is slow in coming, go on waiting for it; because it will certainly come, it will not be kept back."
-              },
+                "text": "What I will show you must happen at the time that I have decided. That is a future time, but it will certainly happen, as I have said. It may not happen very soon, but you must be patient. What I show you will certainly happen at the right time, so wait for it."
+              }
+            ],
+            [
               {
                 "verse": 4,
-                "text": "As for the man of pride, my soul has no pleasure in him; but the upright man will have life through his good faith."
+                "text": "Look now! The enemy is very proud. They do not want to do what is right. But righteous people will live because they are faithful to God."
               }
             ],
             [
               {
                 "verse": 5,
-                "text": "A curse on the cruel and false one! the man full of pride, who never has enough; who makes his desires wide as the underworld! he is like death; he is never full, but he makes all nations come to him, getting all peoples together to himself."
-              },
+                "text": "Wine will destroy that proud enemy. They do not stop attacking other people. They never have enough for themselves. They are like death that is so hungry that it eats as much as it can. The deep hole of death eats everything. The cruel enemy is like that! They want all the nations to belong to them. They catch everyone to be their prisoners."
+              }
+            ],
+            [
               {
                 "verse": 6,
-                "text": "Will not all these take up a word of shame against him and a bitter saying against him, and say, A curse on him who goes on taking what is not his and is weighted down with the property of debtors!"
-              },
+                "text": "But one day, their prisoners will laugh at them. The people will insult that proud nation with songs and proverbs. They will say, “You have stored for yourselves many valuable things that do not belong to you. It will be very bad for you! You have robbed other nations so that you can be rich. This will not continue much longer!”"
+              }
+            ],
+            [
               {
                 "verse": 7,
-                "text": "Will not your creditors suddenly be moved against you, and your troublers get up from their sleep, and you will be to them like goods taken in war?"
+                "text": "The people that have lent their riches to you will suddenly attack. They will come to take back their things and you will be very afraid. Now they will come to rob you!"
               },
               {
                 "verse": 8,
-                "text": "Because you have taken their goods from great nations, all the rest of the peoples will take your goods from you; because of men's blood and violent acts against the land and the town and all who are living in it."
+                "text": "You have robbed many nations. You have murdered people in many lands. You have destroyed towns and the people who live in them. Now the people who remain will come to rob you."
               }
             ],
             [
               {
                 "verse": 9,
-                "text": "A curse on him who gets evil profits for his family, so that he may put his resting-place on high and be safe from the hand of the wrongdoer!"
+                "text": "It will be very bad for anyone who cheats other people so that he can make his family rich. He thinks that his riches will make him safe. He thinks that he is too high up for any trouble to reach him."
               },
               {
                 "verse": 10,
-                "text": "You have been a cause of shame to your house by cutting off a number of peoples, and sinning against your soul."
+                "text": "But the cruel things that you have done will bring shame to your family. You decided to destroy people from many countries. Because of that, you will pay with your own life."
               },
               {
                 "verse": 11,
-                "text": "For the stone will give a cry out of the wall, and it will be answered by the board out of the woodwork."
-              },
+                "text": "The stones in the walls of your houses will cry out against you. The beams in your roof will also shout aloud."
+              }
+            ],
+            [
               {
                 "verse": 12,
-                "text": "A curse on him who is building a place with blood, and basing a town on evil-doing!"
+                "text": "It will be very bad for anyone who kills people so that he can build a city for himself. It will be bad for anyone who does wicked things to make his town great."
               }
             ],
             [
               {
                 "verse": 13,
-                "text": "See, is it not the pleasure of the Lord of armies that the peoples are working for the fire and using themselves up for nothing?"
+                "text": "Listen! The Lord Almighty has commanded this: All the work that people do to get things for themselves is useless. The things that the nations work so hard to get will become smoke!"
               },
               {
                 "verse": 14,
-                "text": "For the earth will be full of the knowledge of the glory of the Lord as the sea is covered by the waters."
-              },
+                "text": "But people everywhere will one day recognize the Lord's great glory. Those people will fill the whole earth, as the waters fill the sea."
+              }
+            ],
+            [
               {
                 "verse": 15,
-                "text": "A curse on him who gives his neighbour the wine of his wrath, making him overcome with strong drink from the cup of his passion, so that you may be a witness of their shame!"
+                "text": "It will be very bad for you! You cause your neighbours to become drunk. You are so angry that you make them drink too much wine. You are happy when they are so drunk that you can see their bare bodies."
               },
               {
                 "verse": 16,
-                "text": "You are full of shame in place of glory: take your part in the drinking, and let your shame be uncovered: the cup of the Lord's right hand will come round to you and your glory will be covered with shame."
+                "text": "But it is you who will become ashamed, not great. You will become drunk so that people see you with no clothes on! The Lord has a cup of wine in his right hand. He is ready to give it to you as a punishment. You will no longer be great, but you will be ashamed."
               }
             ],
             [
               {
                 "verse": 17,
-                "text": "For the violent acts against Lebanon will come on you, and the destruction of the cattle will be a cause of fear to you, because of men's blood and the violent acts against the land and the town and all who are living in it."
-              },
+                "text": "You have done cruel things to the people in Lebanon. You destroyed their animals. The Lord will punish you for the things that you have done, and you will be very afraid. You have murdered people. You have destroyed the land and the towns and the people who live in them."
+              }
+            ],
+            [
               {
                 "verse": 18,
-                "text": "What profit is the pictured image to its maker? and as for the metal image, the false teacher, why does its maker put his faith in it, making false gods without a voice?"
-              },
+                "text": "What value does an idol have? What help can it give? Somebody has made it as the image of a false god. It can only tell false messages. Why should its maker trust it for help? He has used wood or metal to make it and it cannot speak!"
+              }
+            ],
+            [
               {
                 "verse": 19,
-                "text": "A curse on him who says to the wood, Awake! to the unbreathing stone, Up! let it be a teacher! See, it is plated with gold and silver, and there is no breath at all inside it."
-              },
+                "text": "It will be very bad for anyone who says to a piece of wood, “Wake up!” It will be bad for anyone who says to a stone that cannot speak, “Get up and help me!” It cannot teach you! It has gold or silver to make it look nice, but it is not alive."
+              }
+            ],
+            [
               {
                 "verse": 20,
-                "text": "But the Lord is in his holy Temple: let all the earth be quiet before him."
+                "text": "But the Lord rules from his holy temple. Everybody on the earth should be quiet in front of him.’"
               }
             ]
           ]
         }
       ],
-      "verses": [
-        {
-          "verse": 1,
-          "text": "I will take my position and be on watch, placing myself on my tower, looking out to see what he will say to me, and what answer he will give to my protest."
-        },
-        {
-          "verse": 2,
-          "text": "And the Lord gave me an answer, and said, Put the vision in writing and make it clear on stones, so that the reader may go quickly."
-        },
-        {
-          "verse": 3,
-          "text": "For the vision is still for the fixed time, and it is moving quickly to the end, and it will not be false: even if it is slow in coming, go on waiting for it; because it will certainly come, it will not be kept back."
-        },
-        {
-          "verse": 4,
-          "text": "As for the man of pride, my soul has no pleasure in him; but the upright man will have life through his good faith."
-        },
-        {
-          "verse": 5,
-          "text": "A curse on the cruel and false one! the man full of pride, who never has enough; who makes his desires wide as the underworld! he is like death; he is never full, but he makes all nations come to him, getting all peoples together to himself."
-        },
-        {
-          "verse": 6,
-          "text": "Will not all these take up a word of shame against him and a bitter saying against him, and say, A curse on him who goes on taking what is not his and is weighted down with the property of debtors!"
-        },
-        {
-          "verse": 7,
-          "text": "Will not your creditors suddenly be moved against you, and your troublers get up from their sleep, and you will be to them like goods taken in war?"
-        },
-        {
-          "verse": 8,
-          "text": "Because you have taken their goods from great nations, all the rest of the peoples will take your goods from you; because of men's blood and violent acts against the land and the town and all who are living in it."
-        },
-        {
-          "verse": 9,
-          "text": "A curse on him who gets evil profits for his family, so that he may put his resting-place on high and be safe from the hand of the wrongdoer!"
-        },
-        {
-          "verse": 10,
-          "text": "You have been a cause of shame to your house by cutting off a number of peoples, and sinning against your soul."
-        },
-        {
-          "verse": 11,
-          "text": "For the stone will give a cry out of the wall, and it will be answered by the board out of the woodwork."
-        },
-        {
-          "verse": 12,
-          "text": "A curse on him who is building a place with blood, and basing a town on evil-doing!"
-        },
-        {
-          "verse": 13,
-          "text": "See, is it not the pleasure of the Lord of armies that the peoples are working for the fire and using themselves up for nothing?"
-        },
-        {
-          "verse": 14,
-          "text": "For the earth will be full of the knowledge of the glory of the Lord as the sea is covered by the waters."
-        },
-        {
-          "verse": 15,
-          "text": "A curse on him who gives his neighbour the wine of his wrath, making him overcome with strong drink from the cup of his passion, so that you may be a witness of their shame!"
-        },
-        {
-          "verse": 16,
-          "text": "You are full of shame in place of glory: take your part in the drinking, and let your shame be uncovered: the cup of the Lord's right hand will come round to you and your glory will be covered with shame."
-        },
-        {
-          "verse": 17,
-          "text": "For the violent acts against Lebanon will come on you, and the destruction of the cattle will be a cause of fear to you, because of men's blood and the violent acts against the land and the town and all who are living in it."
-        },
-        {
-          "verse": 18,
-          "text": "What profit is the pictured image to its maker? and as for the metal image, the false teacher, why does its maker put his faith in it, making false gods without a voice?"
-        },
-        {
-          "verse": 19,
-          "text": "A curse on him who says to the wood, Awake! to the unbreathing stone, Up! let it be a teacher! See, it is plated with gold and silver, and there is no breath at all inside it."
-        },
-        {
-          "verse": 20,
-          "text": "But the Lord is in his holy Temple: let all the earth be quiet before him."
-        }
-      ],
-      "totalVerses": 20,
-      "footnotes": []
+      "notes": [
+        "Theproudenemy is Babylon's army. God will use them topunishhis people. But God will keep safe those people whotrusthim.",
+        "‘Wine’ or ‘Riches’.",
+        "Theneighboursare probably thenationsnear to Babylon that Babylon's army has attacked."
+      ]
     },
     {
-      "book": "Habakkuk",
       "chapter": 3,
       "title": "Habakkuk 3",
-      "subtitle": "Habakkuk Chapter 3",
+      "subtitle": "",
+      "totalVerses": 19,
+      "sourceUrl": "https://www.easyenglish.bible/bible/easy/habakkuk/3/",
       "sections": [
         {
-          "heading": "Habakkuk Chapter 3",
+          "heading": "Habakkuk praises God for his great power",
           "items": [
             [
               {
                 "verse": 1,
-                "text": "A prayer of Habakkuk the prophet, put to Shigionoth."
-              },
+                "text": "These are the words that the prophet Habakkuk prayed. He used special music to sing it."
+              }
+            ],
+            [
               {
                 "verse": 2,
-                "text": "O Lord, word of you has come to my ears; I have seen your work, O Lord; when the years come near make it clear; in wrath keep mercy in mind."
-              },
+                "text": "Lord, I have heard the report about you."
+              }
+            ],
+            [
+              {
+                "verse": 2,
+                "text": "I see the things that you have done, Lord,"
+              }
+            ],
+            [
+              {
+                "verse": 2,
+                "text": "and I respect your power."
+              }
+            ],
+            [
+              {
+                "verse": 2,
+                "text": "Please do great things like that again."
+              }
+            ],
+            [
+              {
+                "verse": 2,
+                "text": "Do them again now for us to see."
+              }
+            ],
+            [
+              {
+                "verse": 2,
+                "text": "When you are angry with us,"
+              }
+            ],
+            [
+              {
+                "verse": 2,
+                "text": "please still remember to be kind!"
+              }
+            ],
+            [
               {
                 "verse": 3,
-                "text": "God came from Teman, and the Holy One from Mount Paran. Selah. The heavens were covered with his glory, and the earth was full of his praise."
-              },
+                "text": "God is coming from Teman!"
+              }
+            ],
+            [
+              {
+                "verse": 3,
+                "text": "The Holy God is coming from Mount Paran."
+              }
+            ],
+            [
+              {
+                "verse": 3,
+                "text": "His beautiful power covers the whole sky!"
+              }
+            ],
+            [
+              {
+                "verse": 3,
+                "text": "People praise him all over the earth!"
+              }
+            ],
+            [
               {
                 "verse": 4,
-                "text": "He was shining like the light; he had rays coming out from his hand: there his power was kept secret."
+                "text": "He is as bright as the sunrise."
+              }
+            ],
+            [
+              {
+                "verse": 4,
+                "text": "His hands throw bright lightning!"
+              }
+            ],
+            [
+              {
+                "verse": 4,
+                "text": "That is where he hides his power."
               }
             ],
             [
               {
                 "verse": 5,
-                "text": "Before him went disease, and flames went out at his feet."
-              },
+                "text": "As he marches to war,"
+              }
+            ],
+            [
+              {
+                "verse": 5,
+                "text": "bad disease marches with him."
+              }
+            ],
+            [
               {
                 "verse": 6,
-                "text": "From his high place he sent shaking on the earth; he saw and nations were suddenly moved: and the eternal mountains were broken, the unchanging hills were bent down; his ways are eternal."
-              },
+                "text": "God stands ready to fight,"
+              }
+            ],
+            [
+              {
+                "verse": 6,
+                "text": "and he causes the earth to shake."
+              }
+            ],
+            [
+              {
+                "verse": 6,
+                "text": "He looks at the nations"
+              }
+            ],
+            [
+              {
+                "verse": 6,
+                "text": "and they shake with fear."
+              }
+            ],
+            [
+              {
+                "verse": 6,
+                "text": "The very old mountains break into pieces."
+              }
+            ],
+            [
+              {
+                "verse": 6,
+                "text": "The old hills fall down flat."
+              }
+            ],
+            [
+              {
+                "verse": 6,
+                "text": "He travels on roads that have been there for ever."
+              }
+            ],
+            [
               {
                 "verse": 7,
-                "text": "The curtains of Cushan were troubled, and the tents of Midian were shaking."
-              },
+                "text": "I see the tents where Cushan's people live,"
+              }
+            ],
+            [
+              {
+                "verse": 7,
+                "text": "and the people are afraid."
+              }
+            ],
+            [
+              {
+                "verse": 7,
+                "text": "The people in Midian are shaking with fear."
+              }
+            ],
+            [
               {
                 "verse": 8,
-                "text": "Was your wrath burning against the rivers? were you angry with the sea, that you went on your horses, on your war-carriages of salvation?"
+                "text": "Was it the rivers that made you angry, Lord?"
+              }
+            ],
+            [
+              {
+                "verse": 8,
+                "text": "Did the sea make you so angry?"
+              }
+            ],
+            [
+              {
+                "verse": 8,
+                "text": "You rode on your chariots as horses pulled them!"
+              }
+            ],
+            [
+              {
+                "verse": 8,
+                "text": "You rode into battle to win against your enemies."
               }
             ],
             [
               {
                 "verse": 9,
-                "text": "Your bow was quite uncovered. Selah. By you the earth was cut through with rivers."
-              },
+                "text": "You have prepared your bow."
+              }
+            ],
+            [
+              {
+                "verse": 9,
+                "text": "You are ready to shoot your arrows."
+              }
+            ],
+            [
+              {
+                "verse": 9,
+                "text": "You send rivers of water to cut the earth into pieces."
+              }
+            ],
+            [
               {
                 "verse": 10,
-                "text": "The mountains saw you and were moved with fear; the clouds were streaming with water: the voice of the deep was sounding; the sun did not come up, and the moon kept still in her place."
-              },
+                "text": "The mountains see you and they shake."
+              }
+            ],
+            [
+              {
+                "verse": 10,
+                "text": "Rain pours down from the sky and it causes floods."
+              }
+            ],
+            [
+              {
+                "verse": 10,
+                "text": "The deep sea roars"
+              }
+            ],
+            [
+              {
+                "verse": 10,
+                "text": "and it lifts its waves up high."
+              }
+            ],
+            [
               {
                 "verse": 11,
-                "text": "At the light of your arrows they went away, at the shining of your polished spear."
-              },
+                "text": "You shoot your bright arrows"
+              }
+            ],
+            [
+              {
+                "verse": 11,
+                "text": "so that the sun and the moon stand still in the sky."
+              }
+            ],
+            [
+              {
+                "verse": 11,
+                "text": "Your bright spear flies like lightning,"
+              }
+            ],
+            [
+              {
+                "verse": 11,
+                "text": "and the sun and the moon do not move!"
+              }
+            ],
+            [
               {
                 "verse": 12,
-                "text": "You went stepping through the land in wrath, crushing the nations in your passion."
+                "text": "You angrily march across the earth."
+              }
+            ],
+            [
+              {
+                "verse": 12,
+                "text": "You knock down the armies of the nations,"
+              }
+            ],
+            [
+              {
+                "verse": 12,
+                "text": "because you are so angry."
               }
             ],
             [
               {
                 "verse": 13,
-                "text": "You went out for the salvation of your people, for the salvation of the one on whom your holy oil was put; wounding the head of the family of the evil-doer, uncovering the base even to the neck. Selah."
-              },
+                "text": "You have marched out to rescue your people,"
+              }
+            ],
+            [
+              {
+                "verse": 13,
+                "text": "and to save your chosen servant."
+              }
+            ],
+            [
+              {
+                "verse": 13,
+                "text": "You have knocked down the leader of the wicked nation."
+              }
+            ],
+            [
+              {
+                "verse": 13,
+                "text": "You have removed all his clothes,"
+              }
+            ],
+            [
+              {
+                "verse": 13,
+                "text": "from head to foot."
+              }
+            ],
+            [
               {
                 "verse": 14,
-                "text": "You have put your spears through his head, his horsemen were sent in flight like dry stems; they had joy in driving away the poor, in making a meal of them secretly."
-              },
+                "text": "You threw his own spear into his head,"
+              }
+            ],
+            [
+              {
+                "verse": 14,
+                "text": "and you destroyed his army."
+              }
+            ],
+            [
+              {
+                "verse": 14,
+                "text": "When his soldiers rushed out to attack us,"
+              }
+            ],
+            [
+              {
+                "verse": 14,
+                "text": "they were laughing."
+              }
+            ],
+            [
+              {
+                "verse": 14,
+                "text": "They thought that they would easily win against us,"
+              }
+            ],
+            [
+              {
+                "verse": 14,
+                "text": "as if we were poor, weak people."
+              }
+            ],
+            [
               {
                 "verse": 15,
-                "text": "The feet of your horses were on the sea, on the mass of great waters."
-              },
+                "text": "But you, Lord, marched across the sea with your horses."
+              }
+            ],
+            [
+              {
+                "verse": 15,
+                "text": "You made the waters of the sea shake."
+              }
+            ]
+          ]
+        },
+        {
+          "heading": "Habakkuk says that he will trust God",
+          "items": [
+            [
               {
                 "verse": 16,
-                "text": "Hearing it, my inner parts were moved, and my lips were shaking at the sound; my bones became feeble, and my steps were uncertain under me: I gave sounds of grief in the day of trouble, when his forces came up against the people in bands."
+                "text": "I listened to this"
+              }
+            ],
+            [
+              {
+                "verse": 16,
+                "text": "and I was very afraid."
+              }
+            ],
+            [
+              {
+                "verse": 16,
+                "text": "My lips shook with fear"
+              }
+            ],
+            [
+              {
+                "verse": 16,
+                "text": "when I heard the sound."
+              }
+            ],
+            [
+              {
+                "verse": 16,
+                "text": "My bones became weak."
+              }
+            ],
+            [
+              {
+                "verse": 16,
+                "text": "My legs would not let me walk."
+              }
+            ],
+            [
+              {
+                "verse": 16,
+                "text": "But I will be patient."
+              }
+            ],
+            [
+              {
+                "verse": 16,
+                "text": "I will wait for the day of trouble that will come."
+              }
+            ],
+            [
+              {
+                "verse": 16,
+                "text": "Yes, punishment will come to the people who are attacking us."
+              }
+            ],
+            [
+              {
+                "verse": 16,
+                "text": "17 Whatever happens, I will continue to thank the Lord.If there are no flowers on the fig trees,if there are no grapes on the vines,if there are no olives on the olive trees,if there are no crops in the fields,if the sheep are dying in the hills,if there are no cows on the farms, 18 I will still sing to thank the Lord!I will be happy because God is the one who makes me safe. 19 The Lord God causes me to be strong.He makes my feet run safely over the rocks and hills,like a deer's feet.This prayer is for the music leader. He must use stringed instruments."
               }
             ],
             [
               {
                 "verse": 17,
-                "text": "For though the fig-tree has no flowers, and there is no fruit on the vine, and work on the olive comes to nothing, and the fields give no food; and the flock is cut off from its resting-place, and there is no herd in the cattle-house:"
-              },
+                "text": "Whatever happens, I will continue to thank the Lord."
+              }
+            ],
+            [
+              {
+                "verse": 17,
+                "text": "If there are no flowers on the fig trees,"
+              }
+            ],
+            [
+              {
+                "verse": 17,
+                "text": "if there are no grapes on the vines,"
+              }
+            ],
+            [
+              {
+                "verse": 17,
+                "text": "if there are no olives on the olive trees,"
+              }
+            ],
+            [
+              {
+                "verse": 17,
+                "text": "if there are no crops in the fields,"
+              }
+            ],
+            [
+              {
+                "verse": 17,
+                "text": "if the sheep are dying in the hills,"
+              }
+            ],
+            [
+              {
+                "verse": 17,
+                "text": "if there are no cows on the farms,"
+              }
+            ],
+            [
               {
                 "verse": 18,
-                "text": "Still, I will be glad in the Lord, my joy will be in the God of my salvation."
-              },
+                "text": "I will still sing to thank the Lord!"
+              }
+            ],
+            [
+              {
+                "verse": 18,
+                "text": "I will be happy because God is the one who makes me safe."
+              }
+            ],
+            [
               {
                 "verse": 19,
-                "text": "The Lord God is my strength, and he makes my feet like roes' feet, guiding me on my high places. For the chief music-maker on corded instruments."
+                "text": "The Lord God causes me to be strong."
+              }
+            ],
+            [
+              {
+                "verse": 19,
+                "text": "He makes my feet run safely over the rocks and hills,"
+              }
+            ],
+            [
+              {
+                "verse": 19,
+                "text": "like a deer's feet."
+              }
+            ],
+            [
+              {
+                "verse": 19,
+                "text": "This prayer is for the music leader. He must use stringed instruments."
+              }
+            ],
+            [
+              {
+                "verse": 19,
+                "text": "This prayer is for the music leader. He must use stringed instruments."
               }
             ]
           ]
         }
       ],
-      "verses": [
-        {
-          "verse": 1,
-          "text": "A prayer of Habakkuk the prophet, put to Shigionoth."
-        },
-        {
-          "verse": 2,
-          "text": "O Lord, word of you has come to my ears; I have seen your work, O Lord; when the years come near make it clear; in wrath keep mercy in mind."
-        },
-        {
-          "verse": 3,
-          "text": "God came from Teman, and the Holy One from Mount Paran. Selah. The heavens were covered with his glory, and the earth was full of his praise."
-        },
-        {
-          "verse": 4,
-          "text": "He was shining like the light; he had rays coming out from his hand: there his power was kept secret."
-        },
-        {
-          "verse": 5,
-          "text": "Before him went disease, and flames went out at his feet."
-        },
-        {
-          "verse": 6,
-          "text": "From his high place he sent shaking on the earth; he saw and nations were suddenly moved: and the eternal mountains were broken, the unchanging hills were bent down; his ways are eternal."
-        },
-        {
-          "verse": 7,
-          "text": "The curtains of Cushan were troubled, and the tents of Midian were shaking."
-        },
-        {
-          "verse": 8,
-          "text": "Was your wrath burning against the rivers? were you angry with the sea, that you went on your horses, on your war-carriages of salvation?"
-        },
-        {
-          "verse": 9,
-          "text": "Your bow was quite uncovered. Selah. By you the earth was cut through with rivers."
-        },
-        {
-          "verse": 10,
-          "text": "The mountains saw you and were moved with fear; the clouds were streaming with water: the voice of the deep was sounding; the sun did not come up, and the moon kept still in her place."
-        },
-        {
-          "verse": 11,
-          "text": "At the light of your arrows they went away, at the shining of your polished spear."
-        },
-        {
-          "verse": 12,
-          "text": "You went stepping through the land in wrath, crushing the nations in your passion."
-        },
-        {
-          "verse": 13,
-          "text": "You went out for the salvation of your people, for the salvation of the one on whom your holy oil was put; wounding the head of the family of the evil-doer, uncovering the base even to the neck. Selah."
-        },
-        {
-          "verse": 14,
-          "text": "You have put your spears through his head, his horsemen were sent in flight like dry stems; they had joy in driving away the poor, in making a meal of them secretly."
-        },
-        {
-          "verse": 15,
-          "text": "The feet of your horses were on the sea, on the mass of great waters."
-        },
-        {
-          "verse": 16,
-          "text": "Hearing it, my inner parts were moved, and my lips were shaking at the sound; my bones became feeble, and my steps were uncertain under me: I gave sounds of grief in the day of trouble, when his forces came up against the people in bands."
-        },
-        {
-          "verse": 17,
-          "text": "For though the fig-tree has no flowers, and there is no fruit on the vine, and work on the olive comes to nothing, and the fields give no food; and the flock is cut off from its resting-place, and there is no herd in the cattle-house:"
-        },
-        {
-          "verse": 18,
-          "text": "Still, I will be glad in the Lord, my joy will be in the God of my salvation."
-        },
-        {
-          "verse": 19,
-          "text": "The Lord God is my strength, and he makes my feet like roes' feet, guiding me on my high places. For the chief music-maker on corded instruments."
-        }
-      ],
-      "totalVerses": 19,
-      "footnotes": []
+      "notes": [
+        "In verses 3-15, Habakkuk says what he sees in avision.",
+        "God's chosen servant is ‘Messiah’ inHebrew. It may mean Israel's king."
+      ]
     }
   ]
 }

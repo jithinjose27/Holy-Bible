@@ -1,9 +1,6 @@
 {
-  "book": "Hebrews",
   "bookId": "HEB",
-  "totalChapters": 13,
-  "totalQuestions": 130,
-  "questionsPerChapter": 10,
+  "bookName": "Hebrews",
   "chapters": {
     "1": [
       {
@@ -11,150 +8,150 @@
         "questionNumber": 1,
         "question": "According to Hebrews 1:1, what is the opening statement or setting of this chapter?",
         "options": [
-          "It records: “In times past the word of God came to our fathers through the pro...”",
+          "It records: “Many years ago, God spoke to our ancestors by his prophets. He sp...”",
           "It begins with a prayer of thanksgiving for deliverance in Hebrews",
           "It opens with a formal census and counting of the congregation",
           "It records a severe judgment pronounced against neighboring nations"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "It records: “In times past the word of God came to our fathers through the pro...”",
+        "correctAnswer": "It records: “Many years ago, God spoke to our ancestors by his prophets. He sp...”",
         "reference": "Hebrews 1:1",
-        "explanation": "The chapter begins directly with the statement: 'In times past the word of God came to our fathers through the prophets, in different parts and in different ways;'."
+        "explanation": "The chapter begins directly with the statement: 'Many years ago, God spoke to our ancestors by his prophets. He spoke many times and in many different ways.'."
       },
       {
         "id": "heb-1-q2",
         "questionNumber": 2,
         "question": "What key instruction, event, or declaration is set forth in Hebrews 1:2?",
         "options": [
-          "“To which of the angels did God say at...”",
-          "“But now, at the end of these days, it has come...”",
-          "“You have been a lover of righteousness and a...”",
+          "“God never said this to any angel: ‘You are...”",
+          "“But in these last days, he has spoken to us in...”",
+          "“You love everything that is right. And you hate...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“But now, at the end of these days, it has come...”",
+        "correctAnswer": "“But in these last days, he has spoken to us in...”",
         "reference": "Hebrews 1:2",
-        "explanation": "Hebrews 1:2 records: 'But now, at the end of these days, it has come to us through his Son, to whom he has given all things for a heritage, and through whom he made the order of the generations;'."
+        "explanation": "Hebrews 1:2 records: 'But in these last days, he has spoken to us in his Son. In the beginning, God worked through his Son to make the whole universe. He decided that everything should belong to his Son.'."
       },
       {
         "id": "heb-1-q3",
         "questionNumber": 3,
         "question": "What significant action or revelation occurs in Hebrews 1:3?",
         "options": [
-          "“And again, when he is sending his only Son...”",
-          "“You, Lord, at the first did put the earth...”",
-          "“Who, being the outshining of his glory, the true image of...”",
+          "“Also, when God was ready to bring his firstborn...”",
+          "“God also says this to his Son: ‘ Lord,...”",
+          "“The Son shows us completely what God is like. He shines...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“Who, being the outshining of his glory, the true image of...”",
+        "correctAnswer": "“The Son shows us completely what God is like. He shines...”",
         "reference": "Hebrews 1:3",
-        "explanation": "Hebrews 1:3 records: 'Who, being the outshining of his glory, the true image of his substance, supporting all things by the word of his power, having given himself as an offering making clean from sins, took his seat at the right hand of God in heaven;'."
+        "explanation": "Hebrews 1:3 records: 'The Son shows us completely what God is like. He shines with God's great glory. His nature is the same as God's nature. The Son's powerful word causes everything to continue. He himself made it possible for us to be clean from our sins. After he had done that, he returned to heaven. He went and he sat at the right side of God, who rules with all authority.'."
       },
       {
         "id": "heb-1-q4",
         "questionNumber": 4,
         "question": "What truth or description is highlighted in Hebrews 1:4?",
         "options": [
-          "“And of the angels he says, Who makes his...”",
-          "“They will come to their end; but you are...”",
+          "“God speaks about the angels like this: ‘God makes...”",
+          "“All these things will come to an end. But...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“Having become by so much better than the angels, as the...”"
+          "“That shows us that God's Son is much greater than the...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“Having become by so much better than the angels, as the...”",
+        "correctAnswer": "“That shows us that God's Son is much greater than the...”",
         "reference": "Hebrews 1:4",
-        "explanation": "Hebrews 1:4 records: 'Having become by so much better than the angels, as the name which is his heritage is more noble than theirs.'."
+        "explanation": "Hebrews 1:4 records: 'That shows us that God's Son is much greater than the angels. God has given him a name that shows he is more important than they are.'."
       },
       {
         "id": "heb-1-q5",
         "questionNumber": 5,
         "question": "According to the text, what happened or was commanded in Hebrews 1:5?",
         "options": [
-          "“To which of the angels did God say at any time,...”",
-          "“But of the Son he says, Your seat of...”",
-          "“They will be rolled up like a cloth, even...”",
+          "“God never said this to any angel: ‘You are my Son....”",
+          "“But this is what God says to his Son:...”",
+          "“Then you will put them away like an old...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“To which of the angels did God say at any time,...”",
+        "correctAnswer": "“God never said this to any angel: ‘You are my Son....”",
         "reference": "Hebrews 1:5",
-        "explanation": "Hebrews 1:5 records: 'To which of the angels did God say at any time, You are my Son, this day I have given you being? or, I will be his Father, and he will be my Son?'."
+        "explanation": "Hebrews 1:5 records: 'God never said this to any angel: ‘You are my Son. Today I have become your Father.’ In another place in the Bible, God says, ‘I will be his Father, and he will be my Son.’'."
       },
       {
         "id": "heb-1-q6",
         "questionNumber": 6,
         "question": "What central message or instruction is delivered in Hebrews 1:6?",
         "options": [
-          "“You have been a lover of righteousness and a...”",
-          "“And again, when he is sending his only Son into the...”",
-          "“But of which of the angels has he said...”",
+          "“You love everything that is right. And you hate...”",
+          "“Also, when God was ready to bring his firstborn Son into...”",
+          "“Also, God has never said this to any of...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“And again, when he is sending his only Son into the...”",
+        "correctAnswer": "“Also, when God was ready to bring his firstborn Son into...”",
         "reference": "Hebrews 1:6",
-        "explanation": "Hebrews 1:6 records: 'And again, when he is sending his only Son into the world, he says, Let all the angels of God give him worship.'."
+        "explanation": "Hebrews 1:6 records: 'Also, when God was ready to bring his firstborn Son into the world, he said: ‘All God's angels must worship him.’'."
       },
       {
         "id": "heb-1-q7",
         "questionNumber": 7,
         "question": "What detail regarding God's work, covenant, or people is given in Hebrews 1:7?",
         "options": [
-          "“You, Lord, at the first did put the earth...”",
-          "“In times past the word of God came to...”",
-          "“And of the angels he says, Who makes his angels winds,...”",
+          "“God also says this to his Son: ‘ Lord,...”",
+          "“Many years ago, God spoke to our ancestors by...”",
+          "“God speaks about the angels like this: ‘God makes his angels...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“And of the angels he says, Who makes his angels winds,...”",
+        "correctAnswer": "“God speaks about the angels like this: ‘God makes his angels...”",
         "reference": "Hebrews 1:7",
-        "explanation": "Hebrews 1:7 records: 'And of the angels he says, Who makes his angels winds, and his servants flames of fire:'."
+        "explanation": "Hebrews 1:7 records: 'God speaks about the angels like this: ‘God makes his angels like winds. They serve him like fires that burn brightly.’'."
       },
       {
         "id": "heb-1-q8",
         "questionNumber": 8,
         "question": "What phrase or account is recorded in Hebrews 1:8?",
         "options": [
-          "“They will come to their end; but you are...”",
-          "“In times past the word of God came to...”",
+          "“All these things will come to an end. But...”",
+          "“Many years ago, God spoke to our ancestors by...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“But of the Son he says, Your seat of power, O...”"
+          "“But this is what God says to his Son: ‘You are...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“But of the Son he says, Your seat of power, O...”",
+        "correctAnswer": "“But this is what God says to his Son: ‘You are...”",
         "reference": "Hebrews 1:8",
-        "explanation": "Hebrews 1:8 records: 'But of the Son he says, Your seat of power, O God, is for ever and ever; and the rod of your kingdom is a rod of righteousness.'."
+        "explanation": "Hebrews 1:8 records: 'But this is what God says to his Son: ‘You are God and you will rule as King for ever! You will rule your kingdom in a completely good way.'."
       },
       {
         "id": "heb-1-q9",
         "questionNumber": 9,
         "question": "How does the passage describe the circumstances or people in Hebrews 1:9?",
         "options": [
-          "“You have been a lover of righteousness and a hater of...”",
-          "“They will be rolled up like a cloth, even...”",
-          "“But now, at the end of these days, it...”",
+          "“You love everything that is right. And you hate everything that...”",
+          "“Then you will put them away like an old...”",
+          "“But in these last days, he has spoken to...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“You have been a lover of righteousness and a hater of...”",
+        "correctAnswer": "“You love everything that is right. And you hate everything that...”",
         "reference": "Hebrews 1:9",
-        "explanation": "Hebrews 1:9 records: 'You have been a lover of righteousness and a hater of evil; and so God, your God, has put the oil of joy on your head more than on the heads of those who are with you.'."
+        "explanation": "Hebrews 1:9 records: 'You love everything that is right. And you hate everything that is wrong. Because of that, you will be completely happy. I am your God and I have blessed you. I have chosen you to be greater than all other people.’'."
       },
       {
         "id": "heb-1-q10",
         "questionNumber": 10,
         "question": "In the concluding portion of the chapter, what takes place in Hebrews 1:10?",
         "options": [
-          "“But of which of the angels has he said...”",
-          "“You, Lord, at the first did put the earth on its...”",
-          "“Who, being the outshining of his glory, the true...”",
+          "“Also, God has never said this to any of...”",
+          "“God also says this to his Son: ‘ Lord, in the...”",
+          "“The Son shows us completely what God is like....”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“You, Lord, at the first did put the earth on its...”",
+        "correctAnswer": "“God also says this to his Son: ‘ Lord, in the...”",
         "reference": "Hebrews 1:10",
-        "explanation": "Hebrews 1:10 records: 'You, Lord, at the first did put the earth on its base, and the heavens are the works of your hands:'."
+        "explanation": "Hebrews 1:10 records: 'God also says this to his Son: ‘ Lord, in the beginning you made the earth. With your own power, you also made everything above the earth.'."
       }
     ],
     "2": [
@@ -163,150 +160,150 @@
         "questionNumber": 1,
         "question": "According to Hebrews 2:1, what is the opening statement or setting of this chapter?",
         "options": [
-          "It records: “For this reason there is the more need for us to give attention t...”",
+          "It records: “So we must be very careful. We must continue to remember the mess...”",
           "It begins with a prayer of thanksgiving for deliverance in Hebrews",
           "It opens with a formal census and counting of the congregation",
           "It records a severe judgment pronounced against neighboring nations"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "It records: “For this reason there is the more need for us to give attention t...”",
+        "correctAnswer": "It records: “So we must be very careful. We must continue to remember the mess...”",
         "reference": "Hebrews 2:1",
-        "explanation": "The chapter begins directly with the statement: 'For this reason there is the more need for us to give attention to the things which have come to our ears, for fear that by chance we might be slipping away.'."
+        "explanation": "The chapter begins directly with the statement: 'So we must be very careful. We must continue to remember the message that we have heard about God's Son. Then we will not go in the wrong direction, and turn away from God.'."
       },
       {
         "id": "heb-2-q2",
         "questionNumber": 2,
         "question": "What key instruction, event, or declaration is set forth in Hebrews 2:2?",
         "options": [
-          "“For he did not make the angels rulers over...”",
-          "“Because if the word which came through the angels was fixed,...”",
-          "“But we see him who was made a little...”",
+          "“We are speaking about the new world that will...”",
+          "“The message that God spoke by angels was certainly powerful. God...”",
+          "“But we do see Jesus! God made him less...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“Because if the word which came through the angels was fixed,...”",
+        "correctAnswer": "“The message that God spoke by angels was certainly powerful. God...”",
         "reference": "Hebrews 2:2",
-        "explanation": "Hebrews 2:2 records: 'Because if the word which came through the angels was fixed, and in the past every evil act against God's orders was given its full punishment;'."
+        "explanation": "Hebrews 2:2 records: 'The message that God spoke by angels was certainly powerful. God punished people when they did not obey the Law that he gave to Moses. He punished people who did anything wrong, as they deserved.'."
       },
       {
         "id": "heb-2-q3",
         "questionNumber": 3,
         "question": "What significant action or revelation occurs in Hebrews 2:3?",
         "options": [
-          "“But a certain writer has given his witness, saying,...”",
-          "“Because it was right for him, for whom and...”",
-          "“What will come on us, if we do not give our...”",
+          "“No! Instead, someone wrote this somewhere in the Bible:...”",
+          "“It was right that God should bring Jesus back...”",
+          "“As for us, God has shown us the way that he...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“What will come on us, if we do not give our...”",
+        "correctAnswer": "“As for us, God has shown us the way that he...”",
         "reference": "Hebrews 2:3",
-        "explanation": "Hebrews 2:3 records: 'What will come on us, if we do not give our minds to such a great salvation? a salvation of which our fathers first had knowledge through the words of the Lord, and which was made certain to us by those to whom his words came;'."
+        "explanation": "Hebrews 2:3 records: 'As for us, God has shown us the way that he will save us from our sins. So we must not forget God's message about his great way to save us. If we do, he will certainly punish us. The Lord Jesus himself first spoke that message about how God would save people. Then the people who heard Jesus told the message to us. That is how we know that it is true.'."
       },
       {
         "id": "heb-2-q4",
         "questionNumber": 4,
         "question": "What truth or description is highlighted in Hebrews 2:4?",
         "options": [
-          "“You made him a little lower than the angels;...”",
-          "“For he who makes holy and those who are...”",
+          "“For a short time, you made them less important...”",
+          "“Jesus is the one who makes people clean in...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“And God was a witness with them, by signs and wonders,...”"
+          "“God himself also showed clearly that what these people said is...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“And God was a witness with them, by signs and wonders,...”",
+        "correctAnswer": "“God himself also showed clearly that what these people said is...”",
         "reference": "Hebrews 2:4",
-        "explanation": "Hebrews 2:4 records: 'And God was a witness with them, by signs and wonders, and by more than natural powers, and by his distribution of the Holy Spirit at his pleasure.'."
+        "explanation": "Hebrews 2:4 records: 'God himself also showed clearly that what these people said is true. He did many miracles and powerful things which showed that he was with them. He also helped them with gifts from the Holy Spirit, in the way that he wanted.'."
       },
       {
         "id": "heb-2-q5",
         "questionNumber": 5,
         "question": "According to the text, what happened or was commanded in Hebrews 2:5?",
         "options": [
-          "“For he did not make the angels rulers over the world...”",
-          "“You put all things under his feet. For in...”",
-          "“Saying, I will give the knowledge of your name...”",
+          "“We are speaking about the new world that will come. God...”",
+          "“You caused them to rule over everything.’ It says...”",
+          "“He says this to God: ‘I will tell my...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“For he did not make the angels rulers over the world...”",
+        "correctAnswer": "“We are speaking about the new world that will come. God...”",
         "reference": "Hebrews 2:5",
-        "explanation": "Hebrews 2:5 records: 'For he did not make the angels rulers over the world to come, of which I am writing.'."
+        "explanation": "Hebrews 2:5 records: 'We are speaking about the new world that will come. God did not choose angels to rule over that world.'."
       },
       {
         "id": "heb-2-q6",
         "questionNumber": 6,
         "question": "What central message or instruction is delivered in Hebrews 2:6?",
         "options": [
-          "“But we see him who was made a little...”",
-          "“But a certain writer has given his witness, saying, What is...”",
-          "“And again he says, I will put my faith...”",
+          "“But we do see Jesus! God made him less...”",
+          "“No! Instead, someone wrote this somewhere in the Bible: ‘ Lord...”",
+          "“He also says this: ‘I will trust God completely.’...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“But a certain writer has given his witness, saying, What is...”",
+        "correctAnswer": "“No! Instead, someone wrote this somewhere in the Bible: ‘ Lord...”",
         "reference": "Hebrews 2:6",
-        "explanation": "Hebrews 2:6 records: 'But a certain writer has given his witness, saying, What is man, that you keep him in mind? what is the son of man, that you take him into account?'."
+        "explanation": "Hebrews 2:6 records: 'No! Instead, someone wrote this somewhere in the Bible: ‘ Lord God, why do you even think about people? You take care of men and women, even though they seem to be so small.'."
       },
       {
         "id": "heb-2-q7",
         "questionNumber": 7,
         "question": "What detail regarding God's work, covenant, or people is given in Hebrews 2:7?",
         "options": [
-          "“Because it was right for him, for whom and...”",
-          "“And because the children are flesh and blood, he...”",
-          "“You made him a little lower than the angels; you gave...”",
+          "“It was right that God should bring Jesus back...”",
+          "“So, those people who become God's children are human....”",
+          "“For a short time, you made them less important than the...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“You made him a little lower than the angels; you gave...”",
+        "correctAnswer": "“For a short time, you made them less important than the...”",
         "reference": "Hebrews 2:7",
-        "explanation": "Hebrews 2:7 records: 'You made him a little lower than the angels; you gave him a crown of glory and honour, and made him ruler over all the works of your hands:'."
+        "explanation": "Hebrews 2:7 records: 'For a short time, you made them less important than the angels. But then you made them great and powerful, like kings.'."
       },
       {
         "id": "heb-2-q8",
         "questionNumber": 8,
         "question": "What phrase or account is recorded in Hebrews 2:8?",
         "options": [
-          "“For he who makes holy and those who are...”",
-          "“And let those who all their lives were in...”",
+          "“Jesus is the one who makes people clean in...”",
+          "“Before, we were like slaves all our lives because...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“You put all things under his feet. For in making man...”"
+          "“You caused them to rule over everything.’ It says that God...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“You put all things under his feet. For in making man...”",
+        "correctAnswer": "“You caused them to rule over everything.’ It says that God...”",
         "reference": "Hebrews 2:8",
-        "explanation": "Hebrews 2:8 records: 'You put all things under his feet. For in making man the ruler over all things, God did not put anything outside his authority; though we do not see everything under him now.'."
+        "explanation": "Hebrews 2:8 records: 'You caused them to rule over everything.’ It says that God has caused people to rule over everything. That means that there is nothing that people do not have authority over. But at this time, we do not yet see that people rule over everything. 9 But we do see Jesus! God made him less important than the angels for a short time. And now God has made him the great and powerful king. God did this because Jesus died as a sacrifice on behalf of all people. His death showed that God is very kind.2:9 10 It was right that God should bring Jesus back to heaven as king. All things belong to God, and he causes all things to continue. God wanted many people to become his children. He wanted them to live with him in heaven. Jesus made this possible because he died with much pain as a sacrifice. 11 Jesus is the one who makes people clean in front of God. Jesus himself and all the people that he makes clean have the same Father. So Jesus is not ashamed to call all those people his brothers and sisters. 12 He says this to God:‘I will tell my brothers and sisters that you are great.When your people meet together,I will stand with them,and I will praise you with songs.’2:12 13 He also says this:‘I will trust God completely.’He says this too:‘I stand here with the children that God has given me.’2:13 14 So, those people who become God's children are human. They have human bodies. Because of that, Jesus himself became human like us. In that way, when he died he was able to destroy the devil. It is the devil who has power over death. 15 Before, we were like slaves all our lives because we were afraid of death. But now, Jesus' death makes us free. 16 It is clear that Jesus did not come to help the angels. He came to help people who are from Abraham's family.2:16 17 Because of that, it was necessary for Jesus to become completely like us, his brothers and sisters. He had to become God's servant on our behalf, like God's most important priest. In that way, he could serve God well and be kind to us. He died as a sacrifice so that God could forgive us for our sins. 18 While Jesus lived on earth, the devil tried to make him do wrong things. This caused Jesus to have much pain and trouble. But because of that, he can now help us not to do wrong things. It says that God has caused people to rule over everything. That means that there is nothing that people do not have authority over. But at this time, we do not yet see that people rule over everything.'."
       },
       {
         "id": "heb-2-q9",
         "questionNumber": 9,
         "question": "How does the passage describe the circumstances or people in Hebrews 2:9?",
         "options": [
-          "“But we see him who was made a little lower than...”",
-          "“Saying, I will give the knowledge of your name...”",
-          "“For, truly, he does not take on the life...”",
+          "“But we do see Jesus! God made him less important than...”",
+          "“He says this to God: ‘I will tell my...”",
+          "“It is clear that Jesus did not come to...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“But we see him who was made a little lower than...”",
+        "correctAnswer": "“But we do see Jesus! God made him less important than...”",
         "reference": "Hebrews 2:9",
-        "explanation": "Hebrews 2:9 records: 'But we see him who was made a little lower than the angels, even Jesus, crowned with glory and honour, because he let himself be put to death so that by the grace of God he might undergo death for all men.'."
+        "explanation": "Hebrews 2:9 records: 'But we do see Jesus! God made him less important than the angels for a short time. And now God has made him the great and powerful king. God did this because Jesus died as a sacrifice on behalf of all people. His death showed that God is very kind.'."
       },
       {
         "id": "heb-2-q10",
         "questionNumber": 10,
         "question": "In the concluding portion of the chapter, what takes place in Hebrews 2:10?",
         "options": [
-          "“And again he says, I will put my faith...”",
-          "“Because it was right for him, for whom and through whom...”",
-          "“Because of this it was necessary for him to...”",
+          "“He also says this: ‘I will trust God completely.’...”",
+          "“It was right that God should bring Jesus back to heaven...”",
+          "“Because of that, it was necessary for Jesus to...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“Because it was right for him, for whom and through whom...”",
+        "correctAnswer": "“It was right that God should bring Jesus back to heaven...”",
         "reference": "Hebrews 2:10",
-        "explanation": "Hebrews 2:10 records: 'Because it was right for him, for whom and through whom all things have being, in guiding his sons to glory, to make the captain of their salvation complete through pain.'."
+        "explanation": "Hebrews 2:10 records: 'It was right that God should bring Jesus back to heaven as king. All things belong to God, and he causes all things to continue. God wanted many people to become his children. He wanted them to live with him in heaven. Jesus made this possible because he died with much pain as a sacrifice.'."
       }
     ],
     "3": [
@@ -315,150 +312,150 @@
         "questionNumber": 1,
         "question": "According to Hebrews 3:1, what is the opening statement or setting of this chapter?",
         "options": [
-          "It records: “For this reason, holy brothers, marked out to have a part in heav...”",
+          "It records: “So, Christian friends, think carefully about who Jesus is. Like u...”",
           "It begins with a prayer of thanksgiving for deliverance in Hebrews",
           "It opens with a formal census and counting of the congregation",
           "It records a severe judgment pronounced against neighboring nations"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "It records: “For this reason, holy brothers, marked out to have a part in heav...”",
+        "correctAnswer": "It records: “So, Christian friends, think carefully about who Jesus is. Like u...”",
         "reference": "Hebrews 3:1",
-        "explanation": "The chapter begins directly with the statement: 'For this reason, holy brothers, marked out to have a part in heaven, give thought to Jesus the representative and high priest of our faith;'."
+        "explanation": "The chapter begins directly with the statement: 'So, Christian friends, think carefully about who Jesus is. Like us, God has chosen you to serve him. We tell people that we believe in Jesus as the messenger that God has sent. He helps us as God's great priest.'."
       },
       {
         "id": "heb-3-q2",
         "questionNumber": 2,
         "question": "What key instruction, event, or declaration is set forth in Hebrews 3:2?",
         "options": [
-          "“And Moses certainly kept faith as a servant, in...”",
-          "“Who kept faith with God who gave him his place, even...”",
-          "“When your fathers put me to the test, and...”",
+          "“We say that Moses served God well, like a...”",
+          "“God is the one who chose him for this work. He...”",
+          "“For 40 years your ancestors saw the great things...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“Who kept faith with God who gave him his place, even...”",
+        "correctAnswer": "“God is the one who chose him for this work. He...”",
         "reference": "Hebrews 3:2",
-        "explanation": "Hebrews 3:2 records: 'Who kept faith with God who gave him his place, even as Moses did in all his house.'."
+        "explanation": "Hebrews 3:2 records: 'God is the one who chose him for this work. He serves God faithfully, as Moses also faithfully served God's people long ago.'."
       },
       {
         "id": "heb-3-q3",
         "questionNumber": 3,
         "question": "What significant action or revelation occurs in Hebrews 3:3?",
         "options": [
-          "“But Christ as a son, over his house; whose...”",
-          "“So that I was angry with this generation, and...”",
-          "“And it was right for this man to have more honour...”",
+          "“But Christ serves in God's house as a son,...”",
+          "“That is why I became angry with them. I...”",
+          "“We know that someone who builds a house is more important...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“And it was right for this man to have more honour...”",
+        "correctAnswer": "“We know that someone who builds a house is more important...”",
         "reference": "Hebrews 3:3",
-        "explanation": "Hebrews 3:3 records: 'And it was right for this man to have more honour than Moses, even as the builder of a house has more honour than the house.'."
+        "explanation": "Hebrews 3:3 records: 'We know that someone who builds a house is more important than the house itself. In the same way, we should praise Jesus more than we praise Moses, because Jesus is greater.'."
       },
       {
         "id": "heb-3-q4",
         "questionNumber": 4,
         "question": "What truth or description is highlighted in Hebrews 3:4?",
         "options": [
-          "“And so, as the Holy Spirit says, Today if...”",
-          "“And being angry I made an oath, saying, They...”",
+          "“God's Holy Spirit says this: ‘You must listen when...”",
+          "“Because of that, I promised to punish them. Because...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“For every house has a builder; but the builder of all...”"
+          "“Every house has someone who built it. But God is the...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“For every house has a builder; but the builder of all...”",
+        "correctAnswer": "“Every house has someone who built it. But God is the...”",
         "reference": "Hebrews 3:4",
-        "explanation": "Hebrews 3:4 records: 'For every house has a builder; but the builder of all things is God.'."
+        "explanation": "Hebrews 3:4 records: 'Every house has someone who built it. But God is the one who has built all things.'."
       },
       {
         "id": "heb-3-q5",
         "questionNumber": 5,
         "question": "According to the text, what happened or was commanded in Hebrews 3:5?",
         "options": [
-          "“And Moses certainly kept faith as a servant, in all his...”",
-          "“Be not hard of heart, as when you made...”",
-          "“My brothers, take care that there is not by...”",
+          "“We say that Moses served God well, like a servant in...”",
+          "“Do not refuse to obey him. Do not be...”",
+          "“So be careful, my Christian friends. Do not refuse...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“And Moses certainly kept faith as a servant, in all his...”",
+        "correctAnswer": "“We say that Moses served God well, like a servant in...”",
         "reference": "Hebrews 3:5",
-        "explanation": "Hebrews 3:5 records: 'And Moses certainly kept faith as a servant, in all his house, and as a witness of those things which were to be said later;'."
+        "explanation": "Hebrews 3:5 records: 'We say that Moses served God well, like a servant in God's house. He took care of all God's people. In this way, Moses showed clearly the message that God would speak later.'."
       },
       {
         "id": "heb-3-q6",
         "questionNumber": 6,
         "question": "What central message or instruction is delivered in Hebrews 3:6?",
         "options": [
-          "“When your fathers put me to the test, and...”",
-          "“But Christ as a son, over his house; whose house are...”",
-          "“But give comfort to one another every day as...”",
+          "“For 40 years your ancestors saw the great things...”",
+          "“But Christ serves in God's house as a son, not only...”",
+          "“Instead, help each other to be strong every day....”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“But Christ as a son, over his house; whose house are...”",
+        "correctAnswer": "“But Christ serves in God's house as a son, not only...”",
         "reference": "Hebrews 3:6",
-        "explanation": "Hebrews 3:6 records: 'But Christ as a son, over his house; whose house are we, if we keep our hearts fixed in the glad and certain hope till the end.'."
+        "explanation": "Hebrews 3:6 records: 'But Christ serves in God's house as a son, not only as a servant. He is the leader of God's family. We belong to God's family if we continue to believe in Christ. We must be brave. We must continue to show people clearly that we trust God. He will do what he has promised to do.'."
       },
       {
         "id": "heb-3-q7",
         "questionNumber": 7,
         "question": "What detail regarding God's work, covenant, or people is given in Hebrews 3:7?",
         "options": [
-          "“So that I was angry with this generation, and...”",
-          "“For if we keep the substance of the faith...”",
-          "“And so, as the Holy Spirit says, Today if you let...”",
+          "“That is why I became angry with them. I...”",
+          "“We must continue to trust Christ very well, as...”",
+          "“God's Holy Spirit says this: ‘You must listen when you hear...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“And so, as the Holy Spirit says, Today if you let...”",
+        "correctAnswer": "“God's Holy Spirit says this: ‘You must listen when you hear...”",
         "reference": "Hebrews 3:7",
-        "explanation": "Hebrews 3:7 records: 'And so, as the Holy Spirit says, Today if you let his voice come to your ears,'."
+        "explanation": "Hebrews 3:7 records: 'God's Holy Spirit says this: ‘You must listen when you hear God speak today.'."
       },
       {
         "id": "heb-3-q8",
         "questionNumber": 8,
         "question": "What phrase or account is recorded in Hebrews 3:8?",
         "options": [
-          "“And being angry I made an oath, saying, They...”",
-          "“As it is said, Today if you will let...”",
+          "“Because of that, I promised to punish them. Because...”",
+          "“We have seen what the Bible says: ‘You must...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“Be not hard of heart, as when you made me angry,...”"
+          "“Do not refuse to obey him. Do not be like God's...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“Be not hard of heart, as when you made me angry,...”",
+        "correctAnswer": "“Do not refuse to obey him. Do not be like God's...”",
         "reference": "Hebrews 3:8",
-        "explanation": "Hebrews 3:8 records: 'Be not hard of heart, as when you made me angry, on the day of testing in the waste land,'."
+        "explanation": "Hebrews 3:8 records: 'Do not refuse to obey him. Do not be like God's people many years ago. When they travelled in the wilderness, they turned against me. They wanted to see if I would punish them.'."
       },
       {
         "id": "heb-3-q9",
         "questionNumber": 9,
         "question": "How does the passage describe the circumstances or people in Hebrews 3:9?",
         "options": [
-          "“When your fathers put me to the test, and saw my...”",
-          "“My brothers, take care that there is not by...”",
-          "“Who made him angry when his voice came to...”",
+          "“For 40 years your ancestors saw the great things that I...”",
+          "“So be careful, my Christian friends. Do not refuse...”",
+          "“Who were those people who heard God speak? All...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“When your fathers put me to the test, and saw my...”",
+        "correctAnswer": "“For 40 years your ancestors saw the great things that I...”",
         "reference": "Hebrews 3:9",
-        "explanation": "Hebrews 3:9 records: 'When your fathers put me to the test, and saw my works for forty years.'."
+        "explanation": "Hebrews 3:9 records: 'For 40 years your ancestors saw the great things that I did. But still they did not obey me.'."
       },
       {
         "id": "heb-3-q10",
         "questionNumber": 10,
         "question": "In the concluding portion of the chapter, what takes place in Hebrews 3:10?",
         "options": [
-          "“But give comfort to one another every day as...”",
-          "“So that I was angry with this generation, and I said,...”",
-          "“And with whom was he angry for forty years?...”",
+          "“Instead, help each other to be strong every day....”",
+          "“That is why I became angry with them. I said, “They...”",
+          "“Who was God angry with for 40 years? He...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“So that I was angry with this generation, and I said,...”",
+        "correctAnswer": "“That is why I became angry with them. I said, “They...”",
         "reference": "Hebrews 3:10",
-        "explanation": "Hebrews 3:10 records: 'So that I was angry with this generation, and I said, Their hearts are in error at all times, and they have no knowledge of my ways;'."
+        "explanation": "Hebrews 3:10 records: 'That is why I became angry with them. I said, “They always want to do what is wrong. They refuse to understand my message.”'."
       }
     ],
     "4": [
@@ -467,150 +464,150 @@
         "questionNumber": 1,
         "question": "According to Hebrews 4:1, what is the opening statement or setting of this chapter?",
         "options": [
-          "It records: “Let us then, though we still have God's word that we may come int...”",
+          "It records: “God promised his people that they could go to his special place o...”",
           "It begins with a prayer of thanksgiving for deliverance in Hebrews",
           "It opens with a formal census and counting of the congregation",
           "It records a severe judgment pronounced against neighboring nations"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "It records: “Let us then, though we still have God's word that we may come int...”",
+        "correctAnswer": "It records: “God promised his people that they could go to his special place o...”",
         "reference": "Hebrews 4:1",
-        "explanation": "The chapter begins directly with the statement: 'Let us then, though we still have God's word that we may come into his rest, go in fear that some of you may be unable to do so.'."
+        "explanation": "The chapter begins directly with the statement: 'God promised his people that they could go to his special place of rest. That promise is still true for us today. So we must be very careful. Do not fail to arrive in that place. We certainly do not want that to happen.'."
       },
       {
         "id": "heb-4-q2",
         "questionNumber": 2,
         "question": "What key instruction, event, or declaration is set forth in Hebrews 4:2?",
         "options": [
-          "“And in the same place he says again, They...”",
-          "“And, truly, the good news came to us, even as it...”",
-          "“So that there is still a Sabbath-keeping for the...”",
+          "“As we have already seen, God said something later...”",
+          "“We have heard God's good news, just like God's people in...”",
+          "“So we see this: God still has a place...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“And, truly, the good news came to us, even as it...”",
+        "correctAnswer": "“We have heard God's good news, just like God's people in...”",
         "reference": "Hebrews 4:2",
-        "explanation": "Hebrews 4:2 records: 'And, truly, the good news came to us, even as it did to them; but the hearing of the word did them no good, because they were not united in faith with the true hearers.'."
+        "explanation": "Hebrews 4:2 records: 'We have heard God's good news, just like God's people in the wilderness heard his message. But that message did not help them, because they did not believe it. They did not trust God, like those who obeyed him.'."
       },
       {
         "id": "heb-4-q3",
         "questionNumber": 3,
         "question": "What significant action or revelation occurs in Hebrews 4:3?",
         "options": [
-          "“So that as it is clear that some have...”",
-          "“For the man who comes into his rest has...”",
-          "“For those of us who have belief come into his rest;...”",
+          "“So we see that there is still a chance...”",
+          "“When God made the world and everything, he rested...”",
+          "“But those of us who trust God do enjoy his special...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“For those of us who have belief come into his rest;...”",
+        "correctAnswer": "“But those of us who trust God do enjoy his special...”",
         "reference": "Hebrews 4:3",
-        "explanation": "Hebrews 4:3 records: 'For those of us who have belief come into his rest; even as he has said, As I said in my oath when I was angry, They may not come into my rest: though the works were done from the time of the making of the world.'."
+        "explanation": "Hebrews 4:3 records: 'But those of us who trust God do enjoy his special place of rest. This is what God said: ‘Because I was angry with them, I promised this: “They will never arrive in my special place of rest.” ’ God said that, even though he had finished his work when he made the world.'."
       },
       {
         "id": "heb-4-q4",
         "questionNumber": 4,
         "question": "What truth or description is highlighted in Hebrews 4:4?",
         "options": [
-          "“After a long time, again naming a certain day,...”",
-          "“Because of this, let us have a strong desire...”",
+          "“So God chose another time for people to go...”",
+          "“So we must do everything possible to arrive in...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“For in one place he has said of the seventh day,...”"
+          "“In the Bible God has spoken about the seventh day like...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“For in one place he has said of the seventh day,...”",
+        "correctAnswer": "“In the Bible God has spoken about the seventh day like...”",
         "reference": "Hebrews 4:4",
-        "explanation": "Hebrews 4:4 records: 'For in one place he has said of the seventh day, And God had rest from all his works on the seventh day;'."
+        "explanation": "Hebrews 4:4 records: 'In the Bible God has spoken about the seventh day like this: ‘God rested from all his work on the seventh day.’'."
       },
       {
         "id": "heb-4-q5",
         "questionNumber": 5,
         "question": "According to the text, what happened or was commanded in Hebrews 4:5?",
         "options": [
-          "“And in the same place he says again, They will not...”",
-          "“For if Joshua had given them rest, he would...”",
-          "“For the word of God is living and full...”",
+          "“As we have already seen, God said something later about his...”",
+          "“This shows that Joshua did not bring God's people...”",
+          "“So be careful! God's message to us is alive...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“And in the same place he says again, They will not...”",
+        "correctAnswer": "“As we have already seen, God said something later about his...”",
         "reference": "Hebrews 4:5",
-        "explanation": "Hebrews 4:5 records: 'And in the same place he says again, They will not come into my rest.'."
+        "explanation": "Hebrews 4:5 records: 'As we have already seen, God said something later about his rest: ‘They will never arrive in my special place of rest.’'."
       },
       {
         "id": "heb-4-q6",
         "questionNumber": 6,
         "question": "What central message or instruction is delivered in Hebrews 4:6?",
         "options": [
-          "“So that there is still a Sabbath-keeping for the...”",
-          "“So that as it is clear that some have to go...”",
-          "“And there is nothing made which is not completely...”",
+          "“So we see this: God still has a place...”",
+          "“So we see that there is still a chance for people...”",
+          "“There is nothing in the whole world that can...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“So that as it is clear that some have to go...”",
+        "correctAnswer": "“So we see that there is still a chance for people...”",
         "reference": "Hebrews 4:6",
-        "explanation": "Hebrews 4:6 records: 'So that as it is clear that some have to go in, and that the first hearers of the good news were not able to go in because they went against God's orders,'."
+        "explanation": "Hebrews 4:6 records: 'So we see that there is still a chance for people to go to God's place of rest. But those people who first heard God's message in the wilderness refused to obey him. As a result, they did not arrive in his special place of rest.'."
       },
       {
         "id": "heb-4-q7",
         "questionNumber": 7,
         "question": "What detail regarding God's work, covenant, or people is given in Hebrews 4:7?",
         "options": [
-          "“For the man who comes into his rest has...”",
-          "“Having then a great high priest, who has made...”",
-          "“After a long time, again naming a certain day, he says...”",
+          "“When God made the world and everything, he rested...”",
+          "“Jesus, the Son of God, helps us as God's...”",
+          "“So God chose another time for people to go to his...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“After a long time, again naming a certain day, he says...”",
+        "correctAnswer": "“So God chose another time for people to go to his...”",
         "reference": "Hebrews 4:7",
-        "explanation": "Hebrews 4:7 records: 'After a long time, again naming a certain day, he says in David, Today (as he had said before), Today if you will let his voice come to your ears, be not hard of heart,'."
+        "explanation": "Hebrews 4:7 records: 'So God chose another time for people to go to his place of rest. He called it ‘Today’. A long time after Moses, David spoke God's message. As we already know, he said: ‘You must listen when you hear God speak today. Do not refuse to obey him.’'."
       },
       {
         "id": "heb-4-q8",
         "questionNumber": 8,
         "question": "What phrase or account is recorded in Hebrews 4:8?",
         "options": [
-          "“Because of this, let us have a strong desire...”",
-          "“For we have not a high priest who is...”",
+          "“So we must do everything possible to arrive in...”",
+          "“Jesus, our great priest understands us. He knows how...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“For if Joshua had given them rest, he would not have...”"
+          "“This shows that Joshua did not bring God's people to the...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“For if Joshua had given them rest, he would not have...”",
+        "correctAnswer": "“This shows that Joshua did not bring God's people to the...”",
         "reference": "Hebrews 4:8",
-        "explanation": "Hebrews 4:8 records: 'For if Joshua had given them rest, he would not have said anything about another day.'."
+        "explanation": "Hebrews 4:8 records: 'This shows that Joshua did not bring God's people to the place where they could rest. Later, God had to speak again about another day of rest.'."
       },
       {
         "id": "heb-4-q9",
         "questionNumber": 9,
         "question": "How does the passage describe the circumstances or people in Hebrews 4:9?",
         "options": [
-          "“So that there is still a Sabbath-keeping for the people of God.”",
-          "“For the word of God is living and full...”",
-          "“Let us then, though we still have God's word...”",
+          "“So we see this: God still has a place ready for...”",
+          "“So be careful! God's message to us is alive...”",
+          "“God promised his people that they could go to...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“So that there is still a Sabbath-keeping for the people of God.”",
+        "correctAnswer": "“So we see this: God still has a place ready for...”",
         "reference": "Hebrews 4:9",
-        "explanation": "Hebrews 4:9 records: 'So that there is still a Sabbath-keeping for the people of God.'."
+        "explanation": "Hebrews 4:9 records: 'So we see this: God still has a place ready for his people, where they can rest. They will rest as God rested on the seventh day.'."
       },
       {
         "id": "heb-4-q10",
         "questionNumber": 10,
         "question": "In the concluding portion of the chapter, what takes place in Hebrews 4:10?",
         "options": [
-          "“And there is nothing made which is not completely...”",
-          "“For the man who comes into his rest has had rest...”",
-          "“Let us then, though we still have God's word...”",
+          "“There is nothing in the whole world that can...”",
+          "“When God made the world and everything, he rested after he...”",
+          "“God promised his people that they could go to...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“For the man who comes into his rest has had rest...”",
+        "correctAnswer": "“When God made the world and everything, he rested after he...”",
         "reference": "Hebrews 4:10",
-        "explanation": "Hebrews 4:10 records: 'For the man who comes into his rest has had rest from his works, as God did from his.'."
+        "explanation": "Hebrews 4:10 records: 'When God made the world and everything, he rested after he had finished his work. It is the same for everyone who goes to God's place of rest. They too will rest. They will no longer need to work.'."
       }
     ],
     "5": [
@@ -619,150 +616,150 @@
         "questionNumber": 1,
         "question": "According to Hebrews 5:1, what is the opening statement or setting of this chapter?",
         "options": [
-          "It records: “Every high priest who is taken from among men is given his positi...”",
+          "It records: “Every leader of God's priests comes from among the people. That s...”",
           "It begins with a prayer of thanksgiving for deliverance in Hebrews",
           "It opens with a formal census and counting of the congregation",
           "It records a severe judgment pronounced against neighboring nations"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "It records: “Every high priest who is taken from among men is given his positi...”",
+        "correctAnswer": "It records: “Every leader of God's priests comes from among the people. That s...”",
         "reference": "Hebrews 5:1",
-        "explanation": "The chapter begins directly with the statement: 'Every high priest who is taken from among men is given his position to take care of the interests of men in those things which have to do with God, so that he may make offerings for sins.'."
+        "explanation": "The chapter begins directly with the statement: 'Every leader of God's priests comes from among the people. That special priest's work is to serve God on behalf of God's people. He offers gifts and sacrifices to God, so that God will forgive the people's sins.'."
       },
       {
         "id": "heb-5-q2",
         "questionNumber": 2,
         "question": "What key instruction, event, or declaration is set forth in Hebrews 5:2?",
         "options": [
-          "“In the same way Christ did not take for...”",
-          "“He is able to have feeling for those who have no...”",
-          "“And when he had been made complete, he became...”",
+          "“It is the same with Christ. He did not...”",
+          "“That priest himself may often do wrong things, because he is...”",
+          "“As a result, Jesus became the person who can...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“He is able to have feeling for those who have no...”",
+        "correctAnswer": "“That priest himself may often do wrong things, because he is...”",
         "reference": "Hebrews 5:2",
-        "explanation": "Hebrews 5:2 records: 'He is able to have feeling for those who have no knowledge and for those who are wandering from the true way, because he himself is feeble;'."
+        "explanation": "Hebrews 5:2 records: 'That priest himself may often do wrong things, because he is weak and human. As a result, he understands other people who make mistakes. He can be kind to people who do wrong things.'."
       },
       {
         "id": "heb-5-q3",
         "questionNumber": 3,
         "question": "What significant action or revelation occurs in Hebrews 5:3?",
         "options": [
-          "“As he says in another place, You are a...”",
-          "“Being named by God a high priest of the...”",
-          "“And being feeble, he has to make sin-offerings for himself as...”",
+          "“And in another place in the Bible God says...”",
+          "“God has chosen Jesus to be his great priest...”",
+          "“He offers sacrifices to God on behalf of the people. But...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“And being feeble, he has to make sin-offerings for himself as...”",
+        "correctAnswer": "“He offers sacrifices to God on behalf of the people. But...”",
         "reference": "Hebrews 5:3",
-        "explanation": "Hebrews 5:3 records: 'And being feeble, he has to make sin-offerings for himself as well as for the people.'."
+        "explanation": "Hebrews 5:3 records: 'He offers sacrifices to God on behalf of the people. But he himself also does wrong things, so he must offer sacrifices for his own sins too.'."
       },
       {
         "id": "heb-5-q4",
         "questionNumber": 4,
         "question": "What truth or description is highlighted in Hebrews 5:4?",
         "options": [
-          "“Who in the days of his flesh, having sent...”",
-          "“Of whom we have much to say which it...”",
+          "“When Jesus Christ lived on earth as a man,...”",
+          "“We have a lot more to say to you...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“And no man who is not given authority by God, as...”"
+          "“Nobody decides for himself to become a leader of the priests....”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“And no man who is not given authority by God, as...”",
+        "correctAnswer": "“Nobody decides for himself to become a leader of the priests....”",
         "reference": "Hebrews 5:4",
-        "explanation": "Hebrews 5:4 records: 'And no man who is not given authority by God, as Aaron was, takes this honour for himself.'."
+        "explanation": "Hebrews 5:4 records: 'Nobody decides for himself to become a leader of the priests. God himself must choose him. That is how Aaron became a priest.'."
       },
       {
         "id": "heb-5-q5",
         "questionNumber": 5,
         "question": "According to the text, what happened or was commanded in Hebrews 5:5?",
         "options": [
-          "“In the same way Christ did not take for himself the...”",
-          "“And though he was a Son, through the pain...”",
-          "“And though by this time it would be right...”",
+          "“It is the same with Christ. He did not choose himself...”",
+          "“Jesus is God's Son, but it was necessary for...”",
+          "“After all this time as believers in Jesus, you...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“In the same way Christ did not take for himself the...”",
+        "correctAnswer": "“It is the same with Christ. He did not choose himself...”",
         "reference": "Hebrews 5:5",
-        "explanation": "Hebrews 5:5 records: 'In the same way Christ did not take for himself the glory of being made a high priest, but was given it by him who said, You are my Son, this day I have given you being:'."
+        "explanation": "Hebrews 5:5 records: 'It is the same with Christ. He did not choose himself to be God's great priest. He did not choose to make himself important like that. God chose him. God showed that Christ was very important. God said to him: ‘You are my Son. Today I have become your Father.’'."
       },
       {
         "id": "heb-5-q6",
         "questionNumber": 6,
         "question": "What central message or instruction is delivered in Hebrews 5:6?",
         "options": [
-          "“And when he had been made complete, he became...”",
-          "“As he says in another place, You are a priest for...”",
-          "“For everyone who takes milk is without experience of...”",
+          "“As a result, Jesus became the person who can...”",
+          "“And in another place in the Bible God says this: ‘You...”",
+          "“Anyone who still thinks like a baby does not...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“As he says in another place, You are a priest for...”",
+        "correctAnswer": "“And in another place in the Bible God says this: ‘You...”",
         "reference": "Hebrews 5:6",
-        "explanation": "Hebrews 5:6 records: 'As he says in another place, You are a priest for ever after the order of Melchizedek.'."
+        "explanation": "Hebrews 5:6 records: 'And in another place in the Bible God says this: ‘You will be a priest for ever, in the same way that Melchizedek was a priest long ago.’'."
       },
       {
         "id": "heb-5-q7",
         "questionNumber": 7,
         "question": "What detail regarding God's work, covenant, or people is given in Hebrews 5:7?",
         "options": [
-          "“Being named by God a high priest of the...”",
-          "“Every high priest who is taken from among men...”",
-          "“Who in the days of his flesh, having sent up prayers...”",
+          "“God has chosen Jesus to be his great priest...”",
+          "“Every leader of God's priests comes from among the...”",
+          "“When Jesus Christ lived on earth as a man, he prayed...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“Who in the days of his flesh, having sent up prayers...”",
+        "correctAnswer": "“When Jesus Christ lived on earth as a man, he prayed...”",
         "reference": "Hebrews 5:7",
-        "explanation": "Hebrews 5:7 records: 'Who in the days of his flesh, having sent up prayers and requests with strong crying and weeping to him who was able to give him salvation from death, had his prayer answered because of his fear of God.'."
+        "explanation": "Hebrews 5:7 records: 'When Jesus Christ lived on earth as a man, he prayed to God. He asked God to help him. He prayed strongly and he cried loudly with many tears. He knew that God could save him from death. And God listened to Jesus when he prayed, because Jesus respected his authority.'."
       },
       {
         "id": "heb-5-q8",
         "questionNumber": 8,
         "question": "What phrase or account is recorded in Hebrews 5:8?",
         "options": [
-          "“Of whom we have much to say which it...”",
-          "“Every high priest who is taken from among men...”",
+          "“We have a lot more to say to you...”",
+          "“Every leader of God's priests comes from among the...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“And though he was a Son, through the pain which he...”"
+          "“Jesus is God's Son, but it was necessary for him to...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“And though he was a Son, through the pain which he...”",
+        "correctAnswer": "“Jesus is God's Son, but it was necessary for him to...”",
         "reference": "Hebrews 5:8",
-        "explanation": "Hebrews 5:8 records: 'And though he was a Son, through the pain which he underwent, the knowledge came to him of what it was to be under God's orders;'."
+        "explanation": "Hebrews 5:8 records: 'Jesus is God's Son, but it was necessary for him to suffer. In that way, he learned to obey God completely.'."
       },
       {
         "id": "heb-5-q9",
         "questionNumber": 9,
         "question": "How does the passage describe the circumstances or people in Hebrews 5:9?",
         "options": [
-          "“And when he had been made complete, he became the giver...”",
-          "“And though by this time it would be right...”",
-          "“He is able to have feeling for those who...”",
+          "“As a result, Jesus became the person who can save everyone...”",
+          "“After all this time as believers in Jesus, you...”",
+          "“That priest himself may often do wrong things, because...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“And when he had been made complete, he became the giver...”",
+        "correctAnswer": "“As a result, Jesus became the person who can save everyone...”",
         "reference": "Hebrews 5:9",
-        "explanation": "Hebrews 5:9 records: 'And when he had been made complete, he became the giver of eternal salvation to all those who are under his orders;'."
+        "explanation": "Hebrews 5:9 records: 'As a result, Jesus became the person who can save everyone who obeys him. Because of Jesus, God forgives their sins for ever.'."
       },
       {
         "id": "heb-5-q10",
         "questionNumber": 10,
         "question": "In the concluding portion of the chapter, what takes place in Hebrews 5:10?",
         "options": [
-          "“For everyone who takes milk is without experience of...”",
-          "“Being named by God a high priest of the order of Melchizedek.”",
-          "“And being feeble, he has to make sin-offerings for...”",
+          "“Anyone who still thinks like a baby does not...”",
+          "“God has chosen Jesus to be his great priest in the...”",
+          "“He offers sacrifices to God on behalf of the...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“Being named by God a high priest of the order of Melchizedek.”",
+        "correctAnswer": "“God has chosen Jesus to be his great priest in the...”",
         "reference": "Hebrews 5:10",
-        "explanation": "Hebrews 5:10 records: 'Being named by God a high priest of the order of Melchizedek.'."
+        "explanation": "Hebrews 5:10 records: 'God has chosen Jesus to be his great priest in the same way that Melchizedek was.'."
       }
     ],
     "6": [
@@ -771,150 +768,150 @@
         "questionNumber": 1,
         "question": "According to Hebrews 6:1, what is the opening statement or setting of this chapter?",
         "options": [
-          "It records: “For this reason let us go on from the first things about Christ t...”",
+          "It records: “So we must go on from the first lessons that we learned about Chr...”",
           "It begins with a prayer of thanksgiving for deliverance in Hebrews",
           "It opens with a formal census and counting of the congregation",
           "It records a severe judgment pronounced against neighboring nations"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "It records: “For this reason let us go on from the first things about Christ t...”",
+        "correctAnswer": "It records: “So we must go on from the first lessons that we learned about Chr...”",
         "reference": "Hebrews 6:1",
-        "explanation": "The chapter begins directly with the statement: 'For this reason let us go on from the first things about Christ to full growth; not building again that on which it is based, that is, the turning of the heart from dead works, and faith in God,'."
+        "explanation": "The chapter begins directly with the statement: 'So we must go on from the first lessons that we learned about Christ. We must grow as believers so that we understand more and more. We should not go back to those first lessons again and again. We already know that we must turn away from wrong things that lead to death. We know that we must trust God.'."
       },
       {
         "id": "heb-6-q2",
         "questionNumber": 2,
         "question": "What key instruction, event, or declaration is set forth in Hebrews 6:2?",
         "options": [
-          "“With knowledge of the good word of God, and...”",
-          "“The teaching of baptisms, and of the putting on of hands,...”",
-          "“But, my loved ones, though we say this, we...”",
+          "“They have started to enjoy God's good message. They...”",
+          "“We have already learned about how to become clean. We know...”",
+          "“We are telling you this, our good friends, because...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“The teaching of baptisms, and of the putting on of hands,...”",
+        "correctAnswer": "“We have already learned about how to become clean. We know...”",
         "reference": "Hebrews 6:2",
-        "explanation": "Hebrews 6:2 records: 'The teaching of baptisms, and of the putting on of hands, and of the future life of the dead, and of the judging on the last day.'."
+        "explanation": "Hebrews 6:2 records: 'We have already learned about how to become clean. We know that leaders put their hands on other Christians to pray for God's help. We know that God will raise dead people to live again. And we know that God will judge every person one day at the end of time.'."
       },
       {
         "id": "heb-6-q3",
         "questionNumber": 3,
         "question": "What significant action or revelation occurs in Hebrews 6:4?",
         "options": [
-          "“For a land, drinking in the frequent rain and...”",
-          "“And it is our desire that you may all...”",
-          "“As for those who at one time saw the light, tasting...”",
+          "“Think about a field where rain has fallen many...”",
+          "“But we very much want each of you to...”",
+          "“We must not turn away from Christ, after we have first...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“As for those who at one time saw the light, tasting...”",
+        "correctAnswer": "“We must not turn away from Christ, after we have first...”",
         "reference": "Hebrews 6:4",
-        "explanation": "Hebrews 6:4 records: 'As for those who at one time saw the light, tasting the good things from heaven, and having their part in the Holy Spirit,'."
+        "explanation": "Hebrews 6:4 records: 'We must not turn away from Christ, after we have first believed in him. Some people have come into God's light. They have understood God's message. They have started to enjoy the true life that God has given them. They have received the Holy Spirit, like other believers.'."
       },
       {
         "id": "heb-6-q4",
         "questionNumber": 4,
         "question": "What truth or description is highlighted in Hebrews 6:6?",
         "options": [
-          "“But, my loved ones, though we say this, we...”",
-          "“For when God made his oath to Abraham, because...”",
+          "“We are telling you this, our good friends, because...”",
+          "“God made a promise to Abraham many years ago....”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“And then let themselves be turned away, it is not possible...”"
+          "“But after all that, they have turned against God. Then it...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“And then let themselves be turned away, it is not possible...”",
+        "correctAnswer": "“But after all that, they have turned against God. Then it...”",
         "reference": "Hebrews 6:6",
-        "explanation": "Hebrews 6:6 records: 'And then let themselves be turned away, it is not possible for their hearts to be made new a second time; because they themselves put the Son of God on the cross again, openly shaming him.'."
+        "explanation": "Hebrews 6:6 records: 'But after all that, they have turned against God. Then it is impossible for them to turn away from their sins again. It is like they are killing the Son of God on the cross again for themselves. In this way, they cause other people to insult Christ.'."
       },
       {
         "id": "heb-6-q5",
         "questionNumber": 5,
         "question": "According to the text, what happened or was commanded in Hebrews 6:8?",
         "options": [
-          "“But if it sends up thorns and evil plants, it is...”",
-          "“And it is our desire that you may all...”",
-          "“And so, when he had been waiting calmly for...”",
+          "“But a field where only weeds and thorn bushes grow is...”",
+          "“But we very much want each of you to...”",
+          "“Abraham waited patiently for a long time. Finally, he...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“But if it sends up thorns and evil plants, it is...”",
+        "correctAnswer": "“But a field where only weeds and thorn bushes grow is...”",
         "reference": "Hebrews 6:8",
-        "explanation": "Hebrews 6:8 records: 'But if it sends up thorns and evil plants, it is of no use and is ready to be cursed; its only end is to be burned.'."
+        "explanation": "Hebrews 6:8 records: 'But a field where only weeds and thorn bushes grow is worth nothing. God will very soon curse that ground. In the end, fire will burn all of it.'."
       },
       {
         "id": "heb-6-q6",
         "questionNumber": 6,
         "question": "What central message or instruction is delivered in Hebrews 6:10?",
         "options": [
-          "“For when God made his oath to Abraham, because...”",
-          "“For God is true, and will not put away from him...”",
-          "“So that when it was God's desire to make...”",
+          "“God made a promise to Abraham many years ago....”",
+          "“God is always right and fair. He will not forget all...”",
+          "“God wanted to show very clearly that he would...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“For God is true, and will not put away from him...”",
+        "correctAnswer": "“God is always right and fair. He will not forget all...”",
         "reference": "Hebrews 6:10",
-        "explanation": "Hebrews 6:10 records: 'For God is true, and will not put away from him the memory of your work and of your love for his name, in the help which you gave and still give to the saints.'."
+        "explanation": "Hebrews 6:10 records: 'God is always right and fair. He will not forget all the good things that you have done. You have shown that you love him very much, because you have helped the other believers. And you continue to help them as God's servants.'."
       },
       {
         "id": "heb-6-q7",
         "questionNumber": 7,
         "question": "What detail regarding God's work, covenant, or people is given in Hebrews 6:12?",
         "options": [
-          "“And so, when he had been waiting calmly for...”",
-          "“And this hope is like a strong band for...”",
-          "“So that you may not be slow in heart, but may...”",
+          "“Abraham waited patiently for a long time. Finally, he...”",
+          "“We know that we will receive what God has...”",
+          "“Then you will not be lazy. Instead, you will copy the...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“So that you may not be slow in heart, but may...”",
+        "correctAnswer": "“Then you will not be lazy. Instead, you will copy the...”",
         "reference": "Hebrews 6:12",
-        "explanation": "Hebrews 6:12 records: 'So that you may not be slow in heart, but may take as your example those to whom God has given their heritage, because of their faith and their long waiting.'."
+        "explanation": "Hebrews 6:12 records: 'Then you will not be lazy. Instead, you will copy the example of those people who continue to trust God. They continue to be patient when trouble happens to them. People like that receive what God has promised to his people.'."
       },
       {
         "id": "heb-6-q8",
         "questionNumber": 8,
         "question": "What phrase or account is recorded in Hebrews 6:14?",
         "options": [
-          "“So that when it was God's desire to make...”",
-          "“For this reason let us go on from the...”",
+          "“God wanted to show very clearly that he would...”",
+          "“So we must go on from the first lessons...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“Saying, Be certain that I will give you my blessing, and...”"
+          "“God said to Abraham, ‘I will certainly bless you. I will...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“Saying, Be certain that I will give you my blessing, and...”",
+        "correctAnswer": "“God said to Abraham, ‘I will certainly bless you. I will...”",
         "reference": "Hebrews 6:14",
-        "explanation": "Hebrews 6:14 records: 'Saying, Be certain that I will give you my blessing, and make your numbers very great.'."
+        "explanation": "Hebrews 6:14 records: 'God said to Abraham, ‘I will certainly bless you. I will give you many children and many descendants.’'."
       },
       {
         "id": "heb-6-q9",
         "questionNumber": 9,
         "question": "How does the passage describe the circumstances or people in Hebrews 6:16?",
         "options": [
-          "“For men at all times make their oaths by what is...”",
-          "“And this hope is like a strong band for...”",
-          "“Now we will do this, if God lets us.”",
+          "“When someone makes a strong promise, he uses the authority of...”",
+          "“We know that we will receive what God has...”",
+          "“Yes, we must choose to go on from those...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“For men at all times make their oaths by what is...”",
+        "correctAnswer": "“When someone makes a strong promise, he uses the authority of...”",
         "reference": "Hebrews 6:16",
-        "explanation": "Hebrews 6:16 records: 'For men at all times make their oaths by what is greater; and any argument is ended by the decision of the oath.'."
+        "explanation": "Hebrews 6:16 records: 'When someone makes a strong promise, he uses the authority of a person who is greater than himself. This shows that he will certainly obey his promise. Then nobody can argue about it.'."
       },
       {
         "id": "heb-6-q10",
         "questionNumber": 10,
         "question": "In the concluding portion of the chapter, what takes place in Hebrews 6:18?",
         "options": [
-          "“For this reason let us go on from the...”",
-          "“So that we, who have gone in flight from danger to...”",
-          "“With knowledge of the good word of God, and...”",
+          "“So we must go on from the first lessons...”",
+          "“These two things can never change. God cannot tell a lie....”",
+          "“They have started to enjoy God's good message. They...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“So that we, who have gone in flight from danger to...”",
+        "correctAnswer": "“These two things can never change. God cannot tell a lie....”",
         "reference": "Hebrews 6:18",
-        "explanation": "Hebrews 6:18 records: 'So that we, who have gone in flight from danger to the hope which has been put before us, may have a strong comfort in two unchanging things, in which it is not possible for God to be false;'."
+        "explanation": "Hebrews 6:18 records: 'These two things can never change. God cannot tell a lie. As a result, we can be brave and strong. We have trusted God to keep us safe with him. He will bless us as he has promised to do. We are sure about that.'."
       }
     ],
     "7": [
@@ -923,150 +920,150 @@
         "questionNumber": 1,
         "question": "According to Hebrews 7:1, what is the opening statement or setting of this chapter?",
         "options": [
-          "It records: “For this Melchizedek, the king of Salem, a priest of the Most Hig...”",
+          "It records: “Melchizedek was the king of a city called Salem. He was also a pr...”",
           "It begins with a prayer of thanksgiving for deliverance in Hebrews",
           "It opens with a formal census and counting of the congregation",
           "It records a severe judgment pronounced against neighboring nations"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "It records: “For this Melchizedek, the king of Salem, a priest of the Most Hig...”",
+        "correctAnswer": "It records: “Melchizedek was the king of a city called Salem. He was also a pr...”",
         "reference": "Hebrews 7:1",
-        "explanation": "The chapter begins directly with the statement: 'For this Melchizedek, the king of Salem, a priest of the Most High God, who gave Abraham his blessing, meeting him when he came back after putting the kings to death,'."
+        "explanation": "The chapter begins directly with the statement: 'Melchizedek was the king of a city called Salem. He was also a priest of God who rules over all. Melchizedek met Abraham when Abraham was returning from a war. Abraham's men had just won a battle against four kings with their armies. At that time, Melchizedek asked God to bless Abraham.'."
       },
       {
         "id": "heb-7-q2",
         "questionNumber": 2,
         "question": "What key instruction, event, or declaration is set forth in Hebrews 7:2?",
         "options": [
-          "“And it is true that by the law, those...”",
-          "“And to whom Abraham gave a tenth part of everything which...”",
-          "“And we may say that in Abraham, even Levi,...”",
+          "“The descendants of Levi who become priests receive gifts...”",
+          "“Abraham gave Melchizedek a tenth part of everything that he had...”",
+          "“The Levite priests receive their gifts from the people....”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“And to whom Abraham gave a tenth part of everything which...”",
+        "correctAnswer": "“Abraham gave Melchizedek a tenth part of everything that he had...”",
         "reference": "Hebrews 7:2",
-        "explanation": "Hebrews 7:2 records: 'And to whom Abraham gave a tenth part of everything which he had, being first named King of righteousness, and then in addition, King of Salem, that is to say, King of peace;'."
+        "explanation": "Hebrews 7:2 records: 'Abraham gave Melchizedek a tenth part of everything that he had won in the fight. The name ‘Melchizedek’ means ‘king of everything that is right’. His other name, ‘king of Salem’, means ‘king of peace’.'."
       },
       {
         "id": "heb-7-q3",
         "questionNumber": 3,
         "question": "What significant action or revelation occurs in Hebrews 7:4?",
         "options": [
-          "“But there is no doubt that the less gets...”",
-          "“Now if it was possible for things to be...”",
-          "“Now see how great this man was, to whom our father...”",
+          "“It is always the more important person who asks...”",
+          "“The Levite priests were a necessary part of God's...”",
+          "“So think about how great this man, Melchizedek, was! Even Abraham,...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“Now see how great this man was, to whom our father...”",
+        "correctAnswer": "“So think about how great this man, Melchizedek, was! Even Abraham,...”",
         "reference": "Hebrews 7:4",
-        "explanation": "Hebrews 7:4 records: 'Now see how great this man was, to whom our father Abraham gave a tenth part of what he had got in the fight.'."
+        "explanation": "Hebrews 7:4 records: 'So think about how great this man, Melchizedek, was! Even Abraham, the ancestor of all Israel's people, gave gifts to Melchizedek. Abraham gave him a tenth part of everything that he had won in the fight.'."
       },
       {
         "id": "heb-7-q4",
         "questionNumber": 4,
         "question": "What truth or description is highlighted in Hebrews 7:6?",
         "options": [
-          "“And we may say that in Abraham, even Levi,...”",
-          "“For he of whom these things are said comes...”",
+          "“The Levite priests receive their gifts from the people....”",
+          "“It is the Lord Jesus Christ that the Bible...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“But this man, who was not of their family, took the...”"
+          "“As for Melchizedek, he was not a descendant of Levi. But...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“But this man, who was not of their family, took the...”",
+        "correctAnswer": "“As for Melchizedek, he was not a descendant of Levi. But...”",
         "reference": "Hebrews 7:6",
-        "explanation": "Hebrews 7:6 records: 'But this man, who was not of their family, took the tenth from Abraham, and gave a blessing to him to whom God had given his undertaking.'."
+        "explanation": "Hebrews 7:6 records: 'As for Melchizedek, he was not a descendant of Levi. But he still received a tenth part of what Abraham had. He also asked God to bless Abraham. But Abraham was the one who had already received God's promises.'."
       },
       {
         "id": "heb-7-q5",
         "questionNumber": 5,
         "question": "According to the text, what happened or was commanded in Hebrews 7:8?",
         "options": [
-          "“Now at the present time, men over whom death has power...”",
-          "“Now if it was possible for things to be...”",
-          "“And this is even more clear if a second...”",
+          "“The Levite priests receive gifts, and they are people who one...”",
+          "“The Levite priests were a necessary part of God's...”",
+          "“What we have said becomes even clearer now. Another...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“Now at the present time, men over whom death has power...”",
+        "correctAnswer": "“The Levite priests receive gifts, and they are people who one...”",
         "reference": "Hebrews 7:8",
-        "explanation": "Hebrews 7:8 records: 'Now at the present time, men over whom death has power take the tenth; but then it was taken by one of whom it is witnessed that he is living.'."
+        "explanation": "Hebrews 7:8 records: 'The Levite priests receive gifts, and they are people who one day will die. Melchizedek also received gifts, but we are told that he continues to live.'."
       },
       {
         "id": "heb-7-q6",
         "questionNumber": 6,
         "question": "What central message or instruction is delivered in Hebrews 7:10?",
         "options": [
-          "“For he of whom these things are said comes...”",
-          "“Because he was still in his father's body when Melchizedek came...”",
-          "“For it has been witnessed of him, You are...”",
+          "“It is the Lord Jesus Christ that the Bible...”",
+          "“The Levite priests were a necessary part of God's Law for...”",
+          "“The Bible speaks about him as a priest like...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“Because he was still in his father's body when Melchizedek came...”",
+        "correctAnswer": "“The Levite priests were a necessary part of God's Law for...”",
         "reference": "Hebrews 7:10",
-        "explanation": "Hebrews 7:10 records: 'Because he was still in his father's body when Melchizedek came to him.'."
+        "explanation": "Hebrews 7:10 records: 'The Levite priests were a necessary part of God's Law for Israel's people. But those priests could not make the people completely right with God. If that had been possible, the Levite priests could have continued their work. But we see that God has chosen a different kind of priest to serve him. That priest is not someone from Aaron's family, as the Levite priests were. Instead, he is a priest in the same way that Melchizedek was God's priest.'."
       },
       {
         "id": "heb-7-q7",
         "questionNumber": 7,
         "question": "What detail regarding God's work, covenant, or people is given in Hebrews 7:12?",
         "options": [
-          "“And this is even more clear if a second...”",
-          "“(Because the law made nothing complete), and in its...”",
-          "“Because if the priests are changed, it is necessary to make...”",
+          "“What we have said becomes even clearer now. Another...”",
+          "“God's Laws that he gave to Moses could not...”",
+          "“When there is a change in the kind of priest like...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“Because if the priests are changed, it is necessary to make...”",
+        "correctAnswer": "“When there is a change in the kind of priest like...”",
         "reference": "Hebrews 7:12",
-        "explanation": "Hebrews 7:12 records: 'Because if the priests are changed, it is necessary to make a change in the law.'."
+        "explanation": "Hebrews 7:12 records: 'When there is a change in the kind of priest like that, there must also be a change in the law.'."
       },
       {
         "id": "heb-7-q8",
         "questionNumber": 8,
         "question": "What phrase or account is recorded in Hebrews 7:14?",
         "options": [
-          "“For it has been witnessed of him, You are...”",
-          "“(For those were made priests without an oath, but...”",
+          "“The Bible speaks about him as a priest like...”",
+          "“But when Jesus became God's priest, God made a...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“Because it is clear that our Lord comes out of Judah,...”"
+          "“We know that our Lord came from Judah's tribe. Moses never...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“Because it is clear that our Lord comes out of Judah,...”",
+        "correctAnswer": "“We know that our Lord came from Judah's tribe. Moses never...”",
         "reference": "Hebrews 7:14",
-        "explanation": "Hebrews 7:14 records: 'Because it is clear that our Lord comes out of Judah, and Moses said nothing about priests from that tribe.'."
+        "explanation": "Hebrews 7:14 records: 'We know that our Lord came from Judah's tribe. Moses never said that priests could come from Judah's tribe. So we see that the old law has changed.'."
       },
       {
         "id": "heb-7-q9",
         "questionNumber": 9,
         "question": "How does the passage describe the circumstances or people in Hebrews 7:16?",
         "options": [
-          "“That is to say, not made by a law based on...”",
-          "“(Because the law made nothing complete), and in its...”",
-          "“And it is true that there have been a...”",
+          "“Jesus did not become a priest because of a law about...”",
+          "“God's Laws that he gave to Moses could not...”",
+          "“In the past, there were many Levite priests. Each...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“That is to say, not made by a law based on...”",
+        "correctAnswer": "“Jesus did not become a priest because of a law about...”",
         "reference": "Hebrews 7:16",
-        "explanation": "Hebrews 7:16 records: 'That is to say, not made by a law based on the flesh, but by the power of a life without end:'."
+        "explanation": "Hebrews 7:16 records: 'Jesus did not become a priest because of a law about which family he came from. He became God's priest because of his powerful life that nothing could ever destroy.'."
       },
       {
         "id": "heb-7-q10",
         "questionNumber": 10,
         "question": "In the concluding portion of the chapter, what takes place in Hebrews 7:18?",
         "options": [
-          "“(For those were made priests without an oath, but...”",
-          "“So the law which went before is put on one side,...”",
-          "“So that he is fully able to be the...”",
+          "“But when Jesus became God's priest, God made a...”",
+          "“So the old law about priests no longer has authority. It...”",
+          "“Jesus is alive and he is always asking God...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“So the law which went before is put on one side,...”",
+        "correctAnswer": "“So the old law about priests no longer has authority. It...”",
         "reference": "Hebrews 7:18",
-        "explanation": "Hebrews 7:18 records: 'So the law which went before is put on one side, because it was feeble and without profit.'."
+        "explanation": "Hebrews 7:18 records: 'So the old law about priests no longer has authority. It could not help people and it was useless.'."
       }
     ],
     "8": [
@@ -1075,150 +1072,150 @@
         "questionNumber": 1,
         "question": "According to Hebrews 8:1, what is the opening statement or setting of this chapter?",
         "options": [
-          "It records: “Now of the things we are saying this is the chief point: We have ...”",
+          "It records: “The most important thing that we are saying is this: In Jesus, we...”",
           "It begins with a prayer of thanksgiving for deliverance in Hebrews",
           "It opens with a formal census and counting of the congregation",
           "It records a severe judgment pronounced against neighboring nations"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "It records: “Now of the things we are saying this is the chief point: We have ...”",
+        "correctAnswer": "It records: “The most important thing that we are saying is this: In Jesus, we...”",
         "reference": "Hebrews 8:1",
-        "explanation": "The chapter begins directly with the statement: 'Now of the things we are saying this is the chief point: We have such a high priest, who has taken his place at the right hand of God's high seat of glory in heaven,'."
+        "explanation": "The chapter begins directly with the statement: 'The most important thing that we are saying is this: In Jesus, we do have this kind of great priest. He has now sat down to rule with God in heaven. He sits at the right side of God, who rules with all authority.'."
       },
       {
         "id": "heb-8-q2",
         "questionNumber": 2,
         "question": "What key instruction, event, or declaration is set forth in Hebrews 8:2?",
         "options": [
-          "“Being servants of that which is a copy and...”",
-          "“As a servant of the holy things and of the true...”",
-          "“Not like the agreement which I made with their...”",
+          "“But the way that those Levite priests work is...”",
+          "“He serves as priest in heaven on our behalf. He is...”",
+          "“It will not be like the old covenant that...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“As a servant of the holy things and of the true...”",
+        "correctAnswer": "“He serves as priest in heaven on our behalf. He is...”",
         "reference": "Hebrews 8:2",
-        "explanation": "Hebrews 8:2 records: 'As a servant of the holy things and of the true Tent, which was put up by God, not by man.'."
+        "explanation": "Hebrews 8:2 records: 'He serves as priest in heaven on our behalf. He is in God's very special place, near to God himself. It is like the special place in the tabernacle of long ago. But it is not a tent that people have made. The Lord himself has made this special place, and it is the true tabernacle.'."
       },
       {
         "id": "heb-8-q3",
         "questionNumber": 3,
         "question": "What significant action or revelation occurs in Hebrews 8:3?",
         "options": [
-          "“But now his position as priest is higher. because...”",
-          "“For this is the agreement which I will make...”",
-          "“Now every high priest is given authority to take to God...”",
+          "“But now God has given Jesus a much better...”",
+          "“But now the Lord says this: After the time...”",
+          "“It is the duty of every leader of the priests to...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“Now every high priest is given authority to take to God...”",
+        "correctAnswer": "“It is the duty of every leader of the priests to...”",
         "reference": "Hebrews 8:3",
-        "explanation": "Hebrews 8:3 records: 'Now every high priest is given authority to take to God the things which are given and to make offerings; so that it is necessary for this man, like them, to have something for an offering.'."
+        "explanation": "Hebrews 8:3 records: 'It is the duty of every leader of the priests to offer gifts and sacrifices to God. So Jesus, as our great priest, must also have something to offer.'."
       },
       {
         "id": "heb-8-q4",
         "questionNumber": 4,
         "question": "What truth or description is highlighted in Hebrews 8:4?",
         "options": [
-          "“For if that first agreement had been as good...”",
-          "“And there will be no need for every man...”",
+          "“If there had been nothing wrong with that first...”",
+          "“Then nobody will have to teach their friends or...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“If he had been on earth he would not have been...”"
+          "“If he were now living on earth, then he would not...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“If he had been on earth he would not have been...”",
+        "correctAnswer": "“If he were now living on earth, then he would not...”",
         "reference": "Hebrews 8:4",
-        "explanation": "Hebrews 8:4 records: 'If he had been on earth he would not have been a priest at all, because there are other priests who make the offerings ordered by the law;'."
+        "explanation": "Hebrews 8:4 records: 'If he were now living on earth, then he would not be a priest. There are already priests on earth who offer gifts to God. They do this in the way that Moses' Law tells them.'."
       },
       {
         "id": "heb-8-q5",
         "questionNumber": 5,
         "question": "According to the text, what happened or was commanded in Hebrews 8:5?",
         "options": [
-          "“Being servants of that which is a copy and an image...”",
-          "“For, protesting against them, he says, See, the days...”",
-          "“And I will have mercy on their evil-doing, and...”",
+          "“But the way that those Levite priests work is only like...”",
+          "“But God did find something wrong with it. As...”",
+          "“I will be kind to them. I will forgive...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“Being servants of that which is a copy and an image...”",
+        "correctAnswer": "“But the way that those Levite priests work is only like...”",
         "reference": "Hebrews 8:5",
-        "explanation": "Hebrews 8:5 records: 'Being servants of that which is a copy and an image of the things in heaven, as Moses, when he was about to make the Tent, had special orders from God: for, See, he said, that you make everything like the design which you saw in the mountain.'."
+        "explanation": "Hebrews 8:5 records: 'But the way that those Levite priests work is only like a picture of the true things in heaven. It is like a shadow of what would happen in heaven. Long ago, when Moses was ready to make the tabernacle, God warned him about it. God said to Moses, ‘Be careful to make everything just like the plan which I showed you on the mountain.’'."
       },
       {
         "id": "heb-8-q6",
         "questionNumber": 6,
         "question": "What central message or instruction is delivered in Hebrews 8:6?",
         "options": [
-          "“Not like the agreement which I made with their...”",
-          "“But now his position as priest is higher. because through him...”",
-          "“Now of the things we are saying this is...”",
+          "“It will not be like the old covenant that...”",
+          "“But now God has given Jesus a much better way to...”",
+          "“The most important thing that we are saying is...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“But now his position as priest is higher. because through him...”",
+        "correctAnswer": "“But now God has given Jesus a much better way to...”",
         "reference": "Hebrews 8:6",
-        "explanation": "Hebrews 8:6 records: 'But now his position as priest is higher. because through him God has made a better agreement with man, based on the giving of better things.'."
+        "explanation": "Hebrews 8:6 records: 'But now God has given Jesus a much better way to serve him as a priest. The new covenant that God makes with his people is possible because of Jesus. Because of Jesus' work on our behalf, the new covenant is better than the old one. It is much better because it started with better promises.'."
       },
       {
         "id": "heb-8-q7",
         "questionNumber": 7,
         "question": "What detail regarding God's work, covenant, or people is given in Hebrews 8:7?",
         "options": [
-          "“For this is the agreement which I will make...”",
-          "“Now of the things we are saying this is...”",
-          "“For if that first agreement had been as good as possible,...”",
+          "“But now the Lord says this: After the time...”",
+          "“The most important thing that we are saying is...”",
+          "“If there had been nothing wrong with that first covenant, nobody...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“For if that first agreement had been as good as possible,...”",
+        "correctAnswer": "“If there had been nothing wrong with that first covenant, nobody...”",
         "reference": "Hebrews 8:7",
-        "explanation": "Hebrews 8:7 records: 'For if that first agreement had been as good as possible, there would have been no place for a second.'."
+        "explanation": "Hebrews 8:7 records: 'If there had been nothing wrong with that first covenant, nobody would have needed a second covenant.'."
       },
       {
         "id": "heb-8-q8",
         "questionNumber": 8,
         "question": "What phrase or account is recorded in Hebrews 8:8?",
         "options": [
-          "“And there will be no need for every man...”",
-          "“As a servant of the holy things and of...”",
+          "“Then nobody will have to teach their friends or...”",
+          "“He serves as priest in heaven on our behalf....”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“For, protesting against them, he says, See, the days are coming...”"
+          "“But God did find something wrong with it. As a result,...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“For, protesting against them, he says, See, the days are coming...”",
+        "correctAnswer": "“But God did find something wrong with it. As a result,...”",
         "reference": "Hebrews 8:8",
-        "explanation": "Hebrews 8:8 records: 'For, protesting against them, he says, See, the days are coming when I will make a new agreement with the house of Israel, and with the house of Judah;'."
+        "explanation": "Hebrews 8:8 records: 'But God did find something wrong with it. As a result, he said this to his people: ‘Listen to this! The Lord God says: A time will come when I make a new covenant with my people, with Israel's people and with Judah's people.'."
       },
       {
         "id": "heb-8-q9",
         "questionNumber": 9,
         "question": "How does the passage describe the circumstances or people in Hebrews 8:9?",
         "options": [
-          "“Not like the agreement which I made with their fathers when...”",
-          "“And I will have mercy on their evil-doing, and...”",
-          "“Now every high priest is given authority to take...”",
+          "“It will not be like the old covenant that I made...”",
+          "“I will be kind to them. I will forgive...”",
+          "“It is the duty of every leader of the...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“Not like the agreement which I made with their fathers when...”",
+        "correctAnswer": "“It will not be like the old covenant that I made...”",
         "reference": "Hebrews 8:9",
-        "explanation": "Hebrews 8:9 records: 'Not like the agreement which I made with their fathers when I took them by the hand, to be their guide out of the land of Egypt; for they did not keep the agreement with me, and I gave them up, says the Lord.'."
+        "explanation": "Hebrews 8:9 records: 'It will not be like the old covenant that I made with their ancestors. At that time, I brought my people safely out of Egypt. I led them like a father who takes his child's hand. But they did not continue to obey my covenant with them. So I turned away from them. That is what the Lord says.'."
       },
       {
         "id": "heb-8-q10",
         "questionNumber": 10,
         "question": "In the concluding portion of the chapter, what takes place in Hebrews 8:10?",
         "options": [
-          "“Now of the things we are saying this is...”",
-          "“For this is the agreement which I will make with the...”",
-          "“If he had been on earth he would not...”",
+          "“The most important thing that we are saying is...”",
+          "“But now the Lord says this: After the time of that...”",
+          "“If he were now living on earth, then he...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“For this is the agreement which I will make with the...”",
+        "correctAnswer": "“But now the Lord says this: After the time of that...”",
         "reference": "Hebrews 8:10",
-        "explanation": "Hebrews 8:10 records: 'For this is the agreement which I will make with the people of Israel after those days: I will put my laws into their minds, writing them in their hearts: and I will be their God, and they will be my people:'."
+        "explanation": "Hebrews 8:10 records: 'But now the Lord says this: After the time of that old covenant I will make a new covenant with Israel's people. It will be like this: I will put my laws into their thoughts. I will write my laws deep inside them. I will be their God and they will be my people.'."
       }
     ],
     "9": [
@@ -1227,150 +1224,150 @@
         "questionNumber": 1,
         "question": "According to Hebrews 9:1, what is the opening statement or setting of this chapter?",
         "options": [
-          "It records: “Now the first agreement had its rules of worship, and a holy orde...”",
+          "It records: “The first covenant included rules about how people should worship...”",
           "It begins with a prayer of thanksgiving for deliverance in Hebrews",
           "It opens with a formal census and counting of the congregation",
           "It records a severe judgment pronounced against neighboring nations"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "It records: “Now the first agreement had its rules of worship, and a holy orde...”",
+        "correctAnswer": "It records: “The first covenant included rules about how people should worship...”",
         "reference": "Hebrews 9:1",
-        "explanation": "The chapter begins directly with the statement: 'Now the first agreement had its rules of worship, and a holy order.'."
+        "explanation": "The chapter begins directly with the statement: 'The first covenant included rules about how people should worship God. It also spoke about a special place for people to worship God on this earth.'."
       },
       {
         "id": "heb-9-q2",
         "questionNumber": 2,
         "question": "What key instruction, event, or declaration is set forth in Hebrews 9:2?",
         "options": [
-          "“And over it were the winged ones of glory...”",
-          "“For the first Tent was made ready, having in it the...”",
-          "“And this is an image of the present time;...”",
+          "“The shapes of two special angels stood on the...”",
+          "“Israel's people made a special tent for God. The first room...”",
+          "“This is like a picture that means something for...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“For the first Tent was made ready, having in it the...”",
+        "correctAnswer": "“Israel's people made a special tent for God. The first room...”",
         "reference": "Hebrews 9:2",
-        "explanation": "Hebrews 9:2 records: 'For the first Tent was made ready, having in it the vessels for the lights and the table and the ordering of the bread; and this is named the holy place.'."
+        "explanation": "Hebrews 9:2 records: 'Israel's people made a special tent for God. The first room in that tent was called the Holy Place. The special lampstand was in this room. The special table with the bread which they offered to God was there too.'."
       },
       {
         "id": "heb-9-q3",
         "questionNumber": 3,
         "question": "What significant action or revelation occurs in Hebrews 9:4?",
         "options": [
-          "“But only the high priest went into the second,...”",
-          "“But now Christ has come as the high priest...”",
-          "“Having a vessel of gold in it for burning perfumes, and...”",
+          "“But only the leader of the priests could go...”",
+          "“But now Christ has come as our great priest....”",
+          "“The gold altar for incense was in there. The Covenant Box...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“Having a vessel of gold in it for burning perfumes, and...”",
+        "correctAnswer": "“The gold altar for incense was in there. The Covenant Box...”",
         "reference": "Hebrews 9:4",
-        "explanation": "Hebrews 9:4 records: 'Having a vessel of gold in it for burning perfumes, and the ark of the agreement, which was covered with gold and which had in it a pot made of gold for the manna, and Aaron's rod which put out buds, and the stones with the writing of the agreement;'."
+        "explanation": "Hebrews 9:4 records: 'The gold altar for incense was in there. The Covenant Box was there too. The box had gold on all its sides. Inside the box was the gold pot that contained the special food called manna. The box also contained Aaron's stick that had grown leaves. It also contained the two flat stones on which God had written the rules of his covenant with his people.'."
       },
       {
         "id": "heb-9-q4",
         "questionNumber": 4,
         "question": "What truth or description is highlighted in Hebrews 9:6?",
         "options": [
-          "“And this is an image of the present time;...”",
-          "“For if the blood of goats and oxen, and...”",
+          "“This is like a picture that means something for...”",
+          "“The old rules said that the priest must use...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“Now while these things were in existence, the priests went into...”"
+          "“So that was how they prepared the special tent. Then the...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“Now while these things were in existence, the priests went into...”",
+        "correctAnswer": "“So that was how they prepared the special tent. Then the...”",
         "reference": "Hebrews 9:6",
-        "explanation": "Hebrews 9:6 records: 'Now while these things were in existence, the priests went into the first Tent at all times, for prayer and the making of offerings.'."
+        "explanation": "Hebrews 9:6 records: 'So that was how they prepared the special tent. Then the priests would go into the first room of the tent every day. They went in there to serve God, as his rules taught.'."
       },
       {
         "id": "heb-9-q5",
         "questionNumber": 5,
         "question": "According to the text, what happened or was commanded in Hebrews 9:8?",
         "options": [
-          "“The Holy Spirit witnessing by this that the way into the...”",
-          "“But now Christ has come as the high priest...”",
-          "“And for this cause it is through him that...”",
+          "“In this way, God's Holy Spirit was showing that the most...”",
+          "“But now Christ has come as our great priest....”",
+          "“So, by Christ's death, God brings a new covenant...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“The Holy Spirit witnessing by this that the way into the...”",
+        "correctAnswer": "“In this way, God's Holy Spirit was showing that the most...”",
         "reference": "Hebrews 9:8",
-        "explanation": "Hebrews 9:8 records: 'The Holy Spirit witnessing by this that the way into the holy place had not at that time been made open, while the first Tent was still in being;'."
+        "explanation": "Hebrews 9:8 records: 'In this way, God's Holy Spirit was showing that the most holy place was not yet open to everyone. While the tent with its first room was still there, those were the rules for people to worship God.'."
       },
       {
         "id": "heb-9-q6",
         "questionNumber": 6,
         "question": "What central message or instruction is delivered in Hebrews 9:10?",
         "options": [
-          "“For if the blood of goats and oxen, and...”",
-          "“Because they are only rules of the flesh, of meats and...”",
-          "“For a testament has effect after death; for what...”",
+          "“The old rules said that the priest must use...”",
+          "“The old rules taught people about different kinds of food and...”",
+          "“The agreement only has authority after the death of...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“Because they are only rules of the flesh, of meats and...”",
+        "correctAnswer": "“The old rules taught people about different kinds of food and...”",
         "reference": "Hebrews 9:10",
-        "explanation": "Hebrews 9:10 records: 'Because they are only rules of the flesh, of meats and drinks and washings, which have their place till the time comes when things will be put right.'."
+        "explanation": "Hebrews 9:10 records: 'The old rules taught people about different kinds of food and drink. They taught about how people should wash in special ways. Those rules were about people's bodies. They had authority only until the time when God would make things new and better.'."
       },
       {
         "id": "heb-9-q7",
         "questionNumber": 7,
         "question": "What detail regarding God's work, covenant, or people is given in Hebrews 9:12?",
         "options": [
-          "“And for this cause it is through him that...”",
-          "“For when Moses had given all the rules of...”",
-          "“And has gone once and for ever into the holy place,...”",
+          "“So, by Christ's death, God brings a new covenant...”",
+          "“It was like this. Moses read God's laws aloud...”",
+          "“Christ went into the Most Holy Place on our behalf. He...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“And has gone once and for ever into the holy place,...”",
+        "correctAnswer": "“Christ went into the Most Holy Place on our behalf. He...”",
         "reference": "Hebrews 9:12",
-        "explanation": "Hebrews 9:12 records: 'And has gone once and for ever into the holy place, having got eternal salvation, not through the blood of goats and young oxen, but through his blood.'."
+        "explanation": "Hebrews 9:12 records: 'Christ went into the Most Holy Place on our behalf. He did this once, for all time. He did not take with him the blood of goats or young cows when he went in there. Instead, he took the blood of his own death to offer to God. In that way, he made us free from sin for ever.'."
       },
       {
         "id": "heb-9-q8",
         "questionNumber": 8,
         "question": "What phrase or account is recorded in Hebrews 9:14?",
         "options": [
-          "“For a testament has effect after death; for what...”",
-          "“And the blood was put on the Tent and...”",
+          "“The agreement only has authority after the death of...”",
+          "“In the same way, Moses threw some of the...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“How much more will the blood of Christ, who, being without...”"
+          "“But the blood of Christ's sacrifice will do much more than...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“How much more will the blood of Christ, who, being without...”",
+        "correctAnswer": "“But the blood of Christ's sacrifice will do much more than...”",
         "reference": "Hebrews 9:14",
-        "explanation": "Hebrews 9:14 records: 'How much more will the blood of Christ, who, being without sin, made an offering of himself to God through the Holy Spirit, make your hearts clean from dead works to be servants of the living God?'."
+        "explanation": "Hebrews 9:14 records: 'But the blood of Christ's sacrifice will do much more than that! Christ offered himself to God, in the power of his Spirit, who lives for ever. That sacrifice was completely good. There was no wrong thing in Christ. He offered his own blood to make us completely clean inside ourselves. We no longer have to do things that lead to death. Instead, we can serve the God who lives for ever.'."
       },
       {
         "id": "heb-9-q9",
         "questionNumber": 9,
         "question": "How does the passage describe the circumstances or people in Hebrews 9:16?",
         "options": [
-          "“Because where there is a testament, there has to be the...”",
-          "“For when Moses had given all the rules of...”",
-          "“For this cause it was necessary to make the...”",
+          "“Think about this. A person may make an agreement about who...”",
+          "“It was like this. Moses read God's laws aloud...”",
+          "“The tabernacle and the things that were in it...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“Because where there is a testament, there has to be the...”",
+        "correctAnswer": "“Think about this. A person may make an agreement about who...”",
         "reference": "Hebrews 9:16",
-        "explanation": "Hebrews 9:16 records: 'Because where there is a testament, there has to be the death of the man who made it.'."
+        "explanation": "Hebrews 9:16 records: 'Think about this. A person may make an agreement about who will receive his things after his death. But nobody receives anything until it is clear that the person has really died.'."
       },
       {
         "id": "heb-9-q10",
         "questionNumber": 10,
         "question": "In the concluding portion of the chapter, what takes place in Hebrews 9:18?",
         "options": [
-          "“And the blood was put on the Tent and...”",
-          "“So that even the first agreement was not made without blood.”",
-          "“And he did not have to make an offering...”",
+          "“In the same way, Moses threw some of the...”",
+          "“So even God's first covenant with his people needed the blood...”",
+          "“The leader of the priests here on earth goes...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“So that even the first agreement was not made without blood.”",
+        "correctAnswer": "“So even God's first covenant with his people needed the blood...”",
         "reference": "Hebrews 9:18",
-        "explanation": "Hebrews 9:18 records: 'So that even the first agreement was not made without blood.'."
+        "explanation": "Hebrews 9:18 records: 'So even God's first covenant with his people needed the blood of an animal. The covenant only had authority after a death.'."
       }
     ],
     "10": [
@@ -1379,150 +1376,150 @@
         "questionNumber": 1,
         "question": "According to Hebrews 10:1, what is the opening statement or setting of this chapter?",
         "options": [
-          "It records: “For the law, being only a poor copy of the future good things, an...”",
+          "It records: “The laws which God gave to Moses are like a shadow of the good th...”",
           "It begins with a prayer of thanksgiving for deliverance in Hebrews",
           "It opens with a formal census and counting of the congregation",
           "It records a severe judgment pronounced against neighboring nations"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "It records: “For the law, being only a poor copy of the future good things, an...”",
+        "correctAnswer": "It records: “The laws which God gave to Moses are like a shadow of the good th...”",
         "reference": "Hebrews 10:1",
-        "explanation": "The chapter begins directly with the statement: 'For the law, being only a poor copy of the future good things, and not the true image of those things, is never able to make the people who come to the altar every year with the same offerings completely clean.'."
+        "explanation": "The chapter begins directly with the statement: 'The laws which God gave to Moses are like a shadow of the good things that would come later. But those laws do not show exactly what those good things are like. They say that the priests must continue to offer the same sacrifices on behalf of the people, year after year. So those sacrifices can never make the people completely clean when they come to worship God.'."
       },
       {
         "id": "heb-10-q2",
         "questionNumber": 2,
         "question": "What key instruction, event, or declaration is set forth in Hebrews 10:3?",
         "options": [
-          "“You had no joy in burned offerings or in...”",
-          "“But year by year there is a memory of sins in...”",
-          "“By that pleasure we have been made holy, by...”",
+          "“Sacrifices do not make you happy. If people burn...”",
+          "“But as it is, those sacrifices every year cause people to...”",
+          "“Jesus Christ was ready to do what God wanted....”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“But year by year there is a memory of sins in...”",
+        "correctAnswer": "“But as it is, those sacrifices every year cause people to...”",
         "reference": "Hebrews 10:3",
-        "explanation": "Hebrews 10:3 records: 'But year by year there is a memory of sins in those offerings.'."
+        "explanation": "Hebrews 10:3 records: 'But as it is, those sacrifices every year cause people to remember their sins.'."
       },
       {
         "id": "heb-10-q3",
         "questionNumber": 3,
         "question": "What significant action or revelation occurs in Hebrews 10:6?",
         "options": [
-          "“Then he said, See, I have come to do...”",
-          "“And has been waiting there from that time, till...”",
-          "“You had no joy in burned offerings or in offerings for sin.”",
+          "“Then Christ said, ‘Here I am. I have come...”",
+          "“Since then, he waits for God to win against...”",
+          "“Sacrifices do not make you happy. If people burn whole animals...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“You had no joy in burned offerings or in offerings for sin.”",
+        "correctAnswer": "“Sacrifices do not make you happy. If people burn whole animals...”",
         "reference": "Hebrews 10:6",
-        "explanation": "Hebrews 10:6 records: 'You had no joy in burned offerings or in offerings for sin.'."
+        "explanation": "Hebrews 10:6 records: 'Sacrifices do not make you happy. If people burn whole animals as a sacrifice, or if they offer a sacrifice to make them clean from their sins, that does not make you happy.'."
       },
       {
         "id": "heb-10-q4",
         "questionNumber": 4,
         "question": "What truth or description is highlighted in Hebrews 10:9?",
         "options": [
-          "“But when Jesus had made one offering for sins...”",
-          "“This is the agreement which I will make with...”",
+          "“But Christ, our special priest, offered one sacrifice to...”",
+          "“‘The Lord God says: After the time of the...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“Then he said, See, I have come to do your pleasure....”"
+          "“Then Christ said, ‘Here I am. I have come to do...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“Then he said, See, I have come to do your pleasure....”",
+        "correctAnswer": "“Then Christ said, ‘Here I am. I have come to do...”",
         "reference": "Hebrews 10:9",
-        "explanation": "Hebrews 10:9 records: 'Then he said, See, I have come to do your pleasure. He took away the old order, so that he might put the new order in its place.'."
+        "explanation": "Hebrews 10:9 records: 'Then Christ said, ‘Here I am. I have come to do what you want.’ In that way, Christ took away the first covenant and its rules about sacrifices. Christ's sacrifice of his own body is the new way that God forgives our sins.'."
       },
       {
         "id": "heb-10-q5",
         "questionNumber": 5,
         "question": "According to the text, what happened or was commanded in Hebrews 10:12?",
         "options": [
-          "“But when Jesus had made one offering for sins for ever,...”",
-          "“And the Holy Spirit is a witness for us:...”",
-          "“So then, my brothers, being able to go into...”",
+          "“But Christ, our special priest, offered one sacrifice to take away...”",
+          "“God's Holy Spirit also shows us that these things...”",
+          "“So then, Christian friends, we see that Jesus died...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“But when Jesus had made one offering for sins for ever,...”",
+        "correctAnswer": "“But Christ, our special priest, offered one sacrifice to take away...”",
         "reference": "Hebrews 10:12",
-        "explanation": "Hebrews 10:12 records: 'But when Jesus had made one offering for sins for ever, he took his place at the right hand of God;'."
+        "explanation": "Hebrews 10:12 records: 'But Christ, our special priest, offered one sacrifice to take away our sins. He did that once, for all time. After that, he sat down at God's right side to rule with him.'."
       },
       {
         "id": "heb-10-q6",
         "questionNumber": 6,
         "question": "What central message or instruction is delivered in Hebrews 10:15?",
         "options": [
-          "“Now where there is forgiveness of these, there is...”",
-          "“And the Holy Spirit is a witness for us: for after...”",
-          "“Let us go in with true hearts, in certain...”",
+          "“So that is the way that God forgives our...”",
+          "“God's Holy Spirit also shows us that these things are true....”",
+          "“So we should come near to God and we...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“And the Holy Spirit is a witness for us: for after...”",
+        "correctAnswer": "“God's Holy Spirit also shows us that these things are true....”",
         "reference": "Hebrews 10:15",
-        "explanation": "Hebrews 10:15 records: 'And the Holy Spirit is a witness for us: for after he had said,'."
+        "explanation": "Hebrews 10:15 records: 'God's Holy Spirit also shows us that these things are true. He says this first:'."
       },
       {
         "id": "heb-10-q7",
         "questionNumber": 7,
         "question": "What detail regarding God's work, covenant, or people is given in Hebrews 10:18?",
         "options": [
-          "“And having a great priest over the house of...”",
-          "“Not giving up our meetings, as is the way...”",
-          "“Now where there is forgiveness of these, there is no more...”",
+          "“We have a great priest who rules the people...”",
+          "“Some people have stopped meeting with the group of...”",
+          "“So that is the way that God forgives our sins. When...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“Now where there is forgiveness of these, there is no more...”",
+        "correctAnswer": "“So that is the way that God forgives our sins. When...”",
         "reference": "Hebrews 10:18",
-        "explanation": "Hebrews 10:18 records: 'Now where there is forgiveness of these, there is no more offering for sin.'."
+        "explanation": "Hebrews 10:18 records: 'So that is the way that God forgives our sins. When God has done that, we do not need to have any other sacrifice to take away our sins.'."
       },
       {
         "id": "heb-10-q8",
         "questionNumber": 8,
         "question": "What phrase or account is recorded in Hebrews 10:21?",
         "options": [
-          "“And let us be moving one another at all...”",
-          "“A man who has gone against the law of...”",
+          "“We should think about how we can help one...”",
+          "“In the old covenant, if anyone refused to obey...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“And having a great priest over the house of God,”"
+          "“We have a great priest who rules the people of God's house.”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“And having a great priest over the house of God,”",
+        "correctAnswer": "“We have a great priest who rules the people of God's house.”",
         "reference": "Hebrews 10:21",
-        "explanation": "Hebrews 10:21 records: 'And having a great priest over the house of God,'."
+        "explanation": "Hebrews 10:21 records: 'We have a great priest who rules the people of God's house.'."
       },
       {
         "id": "heb-10-q9",
         "questionNumber": 9,
         "question": "How does the passage describe the circumstances or people in Hebrews 10:24?",
         "options": [
-          "“And let us be moving one another at all times to...”",
-          "“But only a great fear of being judged, and...”",
-          "“We may well go in fear of falling into...”",
+          "“We should think about how we can help one another. We...”",
+          "“We should then be very afraid because we know...”",
+          "“Yes, if God takes hold of you to punish...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“And let us be moving one another at all times to...”",
+        "correctAnswer": "“We should think about how we can help one another. We...”",
         "reference": "Hebrews 10:24",
-        "explanation": "Hebrews 10:24 records: 'And let us be moving one another at all times to love and good works;'."
+        "explanation": "Hebrews 10:24 records: 'We should think about how we can help one another. We want everyone to show love to each other. We want everyone to do good things to help one another.'."
       },
       {
         "id": "heb-10-q10",
         "questionNumber": 10,
         "question": "In the concluding portion of the chapter, what takes place in Hebrews 10:27?",
         "options": [
-          "“For we have had experience of him who says,...”",
-          "“But only a great fear of being judged, and of the...”",
-          "“For you had pity on those who were in...”",
+          "“We know God and his message. And God said...”",
+          "“We should then be very afraid because we know that God...”",
+          "“You were kind to Christians who were in prison....”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“But only a great fear of being judged, and of the...”",
+        "correctAnswer": "“We should then be very afraid because we know that God...”",
         "reference": "Hebrews 10:27",
-        "explanation": "Hebrews 10:27 records: 'But only a great fear of being judged, and of the fire of wrath which will be the destruction of the haters of God.'."
+        "explanation": "Hebrews 10:27 records: 'We should then be very afraid because we know that God will judge us. He will punish everyone who is against him. That punishment will be a hot fire of God's anger that destroys people.'."
       }
     ],
     "11": [
@@ -1531,150 +1528,150 @@
         "questionNumber": 1,
         "question": "According to Hebrews 11:1, what is the opening statement or setting of this chapter?",
         "options": [
-          "It records: “Now faith is the substance of things hoped for, and the sign that...”",
+          "It records: “This is what it means to trust God: We will be sure about the thi...”",
           "It begins with a prayer of thanksgiving for deliverance in Hebrews",
           "It opens with a formal census and counting of the congregation",
           "It records a severe judgment pronounced against neighboring nations"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "It records: “Now faith is the substance of things hoped for, and the sign that...”",
+        "correctAnswer": "It records: “This is what it means to trust God: We will be sure about the thi...”",
         "reference": "Hebrews 11:1",
-        "explanation": "The chapter begins directly with the statement: 'Now faith is the substance of things hoped for, and the sign that the things not seen are true.'."
+        "explanation": "The chapter begins directly with the statement: 'This is what it means to trust God: We will be sure about the things that we hope for. We will be sure in our minds about things that we cannot even see.'."
       },
       {
         "id": "heb-11-q2",
         "questionNumber": 2,
         "question": "What key instruction, event, or declaration is set forth in Hebrews 11:4?",
         "options": [
-          "“By faith Noah, being moved by the fear of...”",
-          "“By faith Abel made a better offering to God than Cain,...”",
-          "“And by faith Sarah herself had power to give...”",
+          "“Noah believed God too. God told Noah about bad...”",
+          "“Abel believed God. So he offered a better sacrifice to God...”",
+          "“Abraham and his wife, Sarah, were too old to...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“By faith Abel made a better offering to God than Cain,...”",
+        "correctAnswer": "“Abel believed God. So he offered a better sacrifice to God...”",
         "reference": "Hebrews 11:4",
-        "explanation": "Hebrews 11:4 records: 'By faith Abel made a better offering to God than Cain, and he had witness through it of his righteousness, God giving his approval of his offering: and his voice still comes to us through it though he is dead.'."
+        "explanation": "Hebrews 11:4 records: 'Abel believed God. So he offered a better sacrifice to God than Cain did. And because of Abel's faith, God accepted him as a righteous man. God said that he was pleased with Abel's gifts. Because Abel trusted God, we can still learn from his faith. Abel died long ago, but it is like he is still speaking to us.'."
       },
       {
         "id": "heb-11-q3",
         "questionNumber": 3,
         "question": "What significant action or revelation occurs in Hebrews 11:8?",
         "options": [
-          "“And by faith Sarah herself had power to give...”",
-          "“And truly if they had kept in mind the...”",
-          "“By faith Abraham did as God said when he was ordered...”",
+          "“Abraham and his wife, Sarah, were too old to...”",
+          "“They were not thinking about the country that they...”",
+          "“Abraham also believed God. When God told him to leave his...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“By faith Abraham did as God said when he was ordered...”",
+        "correctAnswer": "“Abraham also believed God. When God told him to leave his...”",
         "reference": "Hebrews 11:8",
-        "explanation": "Hebrews 11:8 records: 'By faith Abraham did as God said when he was ordered to go out into a place which was to be given to him as a heritage, and went out without knowledge of where he was going.'."
+        "explanation": "Hebrews 11:8 records: 'Abraham also believed God. When God told him to leave his home, he obeyed God. He left his home to go to another country, but he did not know where he was going. It was the place that God had promised to give to Abraham.'."
       },
       {
         "id": "heb-11-q4",
         "questionNumber": 4,
         "question": "What truth or description is highlighted in Hebrews 11:12?",
         "options": [
-          "“And truly if they had kept in mind the...”",
-          "“Judging that God was able to give life even...”",
+          "“They were not thinking about the country that they...”",
+          "“But Abraham was sure that, if Isaac died, God...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“So that from one man, who was near to death, came...”"
+          "“Abraham was so old that he was almost like a dead...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“So that from one man, who was near to death, came...”",
+        "correctAnswer": "“Abraham was so old that he was almost like a dead...”",
         "reference": "Hebrews 11:12",
-        "explanation": "Hebrews 11:12 records: 'So that from one man, who was near to death, came children in number as the stars in heaven, or as the sand by the seaside, which may not be numbered.'."
+        "explanation": "Hebrews 11:12 records: 'Abraham was so old that he was almost like a dead man. But from this one man there came very many descendants. There were so many that nobody could count them. They were like the number of stars in the sky. They were as many as the bits of sand on the shore of the sea.'."
       },
       {
         "id": "heb-11-q5",
         "questionNumber": 5,
         "question": "According to the text, what happened or was commanded in Hebrews 11:16?",
         "options": [
-          "“But now their desire is for a better country, that is...”",
-          "“Judging that God was able to give life even...”",
-          "“By faith Moses was kept secretly by his father...”",
+          "“No, they wanted very much to go to a better place,...”",
+          "“But Abraham was sure that, if Isaac died, God...”",
+          "“Moses' parents believed God. When Moses was born, they...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“But now their desire is for a better country, that is...”",
+        "correctAnswer": "“No, they wanted very much to go to a better place,...”",
         "reference": "Hebrews 11:16",
-        "explanation": "Hebrews 11:16 records: 'But now their desire is for a better country, that is to say, for one in heaven; and so it is no shame to God to be named their God; for he has made ready a town for them.'."
+        "explanation": "Hebrews 11:16 records: 'No, they wanted very much to go to a better place, in heaven. For that reason, God is not ashamed for them to call him their God. He has already prepared a city for them to live in.'."
       },
       {
         "id": "heb-11-q6",
         "questionNumber": 6,
         "question": "What central message or instruction is delivered in Hebrews 11:20?",
         "options": [
-          "“By faith Moses was kept secretly by his father...”",
-          "“By faith Isaac, blessing Jacob and Esau, gave news of things...”",
-          "“By faith he went out of Egypt, not being...”",
+          "“Moses' parents believed God. When Moses was born, they...”",
+          "“Isaac himself also believed God. As a result of his faith,...”",
+          "“As a result of his faith, Moses left Egypt....”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“By faith Isaac, blessing Jacob and Esau, gave news of things...”",
+        "correctAnswer": "“Isaac himself also believed God. As a result of his faith,...”",
         "reference": "Hebrews 11:20",
-        "explanation": "Hebrews 11:20 records: 'By faith Isaac, blessing Jacob and Esau, gave news of things to come.'."
+        "explanation": "Hebrews 11:20 records: 'Isaac himself also believed God. As a result of his faith, he asked God to bless his sons, Jacob and Esau. He trusted that God would help them in the future.'."
       },
       {
         "id": "heb-11-q7",
         "questionNumber": 7,
         "question": "What detail regarding God's work, covenant, or people is given in Hebrews 11:24?",
         "options": [
-          "“By faith he went out of Egypt, not being...”",
-          "“By faith Rahab, the loose woman, was not put...”",
-          "“By faith Moses, when he became a man, had no desire...”",
+          "“As a result of his faith, Moses left Egypt....”",
+          "“Rahab, who had been a prostitute in Jericho, also...”",
+          "“Moses himself also believed God. When he became a man, he...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“By faith Moses, when he became a man, had no desire...”",
+        "correctAnswer": "“Moses himself also believed God. When he became a man, he...”",
         "reference": "Hebrews 11:24",
-        "explanation": "Hebrews 11:24 records: 'By faith Moses, when he became a man, had no desire to be named the son of Pharaoh's daughter;'."
+        "explanation": "Hebrews 11:24 records: 'Moses himself also believed God. When he became a man, he refused to be called the son of the king's daughter.'."
       },
       {
         "id": "heb-11-q8",
         "questionNumber": 8,
         "question": "What phrase or account is recorded in Hebrews 11:28?",
         "options": [
-          "“By faith Rahab, the loose woman, was not put...”",
-          "“Women had their dead given back to them living;...”",
+          "“Rahab, who had been a prostitute in Jericho, also...”",
+          "“Some women who trusted God received their friends and...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“By faith he kept the Passover, and put the sign of...”"
+          "“As a result of his faith, Moses told Israel's people to...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“By faith he kept the Passover, and put the sign of...”",
+        "correctAnswer": "“As a result of his faith, Moses told Israel's people to...”",
         "reference": "Hebrews 11:28",
-        "explanation": "Hebrews 11:28 records: 'By faith he kept the Passover, and put the sign of the blood on the houses, so that the angel of destruction might not put their oldest sons to death.'."
+        "explanation": "Hebrews 11:28 records: 'As a result of his faith, Moses told Israel's people to prepare the first Passover meal. He told them to put blood from the sacrifice round their doors. Then the angel who destroyed each family's oldest sons came to every home in Egypt. When he saw the blood, he did not kill anyone in the families of Israel's people.'."
       },
       {
         "id": "heb-11-q9",
         "questionNumber": 9,
         "question": "How does the passage describe the circumstances or people in Hebrews 11:32?",
         "options": [
-          "“What more am I to say? For there would not be...”",
-          "“Women had their dead given back to them living;...”",
-          "“And not one of these got the good things...”",
+          "“I could say even more about other people who trusted God....”",
+          "“Some women who trusted God received their friends and...”",
+          "“God gave honour to all these people because they...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“What more am I to say? For there would not be...”",
+        "correctAnswer": "“I could say even more about other people who trusted God....”",
         "reference": "Hebrews 11:32",
-        "explanation": "Hebrews 11:32 records: 'What more am I to say? For there would not be time to give the stories of Gideon, Barak, Samson, and Jephthah, of David and Samuel and the prophets:'."
+        "explanation": "Hebrews 11:32 records: 'I could say even more about other people who trusted God. But there is not enough time to talk about all of them. I could tell you about Gideon, Barak, Samson, Jephthah, David, Samuel and all the prophets.'."
       },
       {
         "id": "heb-11-q10",
         "questionNumber": 10,
         "question": "In the concluding portion of the chapter, what takes place in Hebrews 11:36?",
         "options": [
-          "“And not one of these got the good things...”",
-          "“And others were tested by being laughed at or by blows,...”",
-          "“By faith it is clear to us that the...”",
+          "“God gave honour to all these people because they...”",
+          "“Other people who trusted God suffered in different ways. People insulted...”",
+          "“Because of faith, we understand about how God made...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“And others were tested by being laughed at or by blows,...”",
+        "correctAnswer": "“Other people who trusted God suffered in different ways. People insulted...”",
         "reference": "Hebrews 11:36",
-        "explanation": "Hebrews 11:36 records: 'And others were tested by being laughed at or by blows, and even with chains and prisons:'."
+        "explanation": "Hebrews 11:36 records: 'Other people who trusted God suffered in different ways. People insulted them, or they hit them with whips. Enemies of God tied these people up and they put them in prison.'."
       }
     ],
     "12": [
@@ -1683,150 +1680,150 @@
         "questionNumber": 1,
         "question": "According to Hebrews 12:1, what is the opening statement or setting of this chapter?",
         "options": [
-          "It records: “For this reason, as we are circled by so great a cloud of witness...”",
+          "It records: “So we have learned about many people who trusted God. They are li...”",
           "It begins with a prayer of thanksgiving for deliverance in Hebrews",
           "It opens with a formal census and counting of the congregation",
           "It records a severe judgment pronounced against neighboring nations"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "It records: “For this reason, as we are circled by so great a cloud of witness...”",
+        "correctAnswer": "It records: “So we have learned about many people who trusted God. They are li...”",
         "reference": "Hebrews 12:1",
-        "explanation": "The chapter begins directly with the statement: 'For this reason, as we are circled by so great a cloud of witnesses, putting off every weight, and the sin into which we come so readily, let us keep on running in the way which is marked out for us,'."
+        "explanation": "The chapter begins directly with the statement: 'So we have learned about many people who trusted God. They are like a very big crowd all around us to show us what is right. We must be like people who run in a race. We must throw away everything that stops us from running well. The sins that we do make us fall down very easily. We must not let those sins rule us. We must continue to be strong as we run the race that God has prepared for us.'."
       },
       {
         "id": "heb-12-q2",
         "questionNumber": 2,
         "question": "What key instruction, event, or declaration is set forth in Hebrews 12:2?",
         "options": [
-          "“And you have not kept in mind the word...”",
-          "“Having our eyes fixed on Jesus, the guide and end of...”",
-          "“And again, if the fathers of our flesh gave...”",
+          "“God speaks to you as his children. Do not...”",
+          "“As we run, we must always look towards Jesus. He is...”",
+          "“Also, we have all had human fathers who punished...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“Having our eyes fixed on Jesus, the guide and end of...”",
+        "correctAnswer": "“As we run, we must always look towards Jesus. He is...”",
         "reference": "Hebrews 12:2",
-        "explanation": "Hebrews 12:2 records: 'Having our eyes fixed on Jesus, the guide and end of our faith, who went through the pains of the cross, not caring for the shame, because of the joy which was before him, and who has now taken his place at the right hand of God's seat of power.'."
+        "explanation": "Hebrews 12:2 records: 'As we run, we must always look towards Jesus. He is the one who trusted God completely. Our faith starts with him, and he will help us to trust God all the way to the end. Jesus accepted punishment on the cross. He chose to receive much pain. He did not think about being ashamed to die like that. He knew that God had prepared something very good for him that would make him happy. Now he has sat down at the right side of God to rule with him in heaven.'."
       },
       {
         "id": "heb-12-q3",
         "questionNumber": 3,
         "question": "What significant action or revelation occurs in Hebrews 12:4?",
         "options": [
-          "“It is for your training that you undergo these...”",
-          "“At the time all punishment seems to be pain...”",
-          "“Till now you have not given your blood in your fight...”",
+          "“When you suffer in your life, you must be...”",
+          "“Punishment never makes us happy at the time when...”",
+          "“You have been fighting against sin in your lives. But you...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“Till now you have not given your blood in your fight...”",
+        "correctAnswer": "“You have been fighting against sin in your lives. But you...”",
         "reference": "Hebrews 12:4",
-        "explanation": "Hebrews 12:4 records: 'Till now you have not given your blood in your fight against sin:'."
+        "explanation": "Hebrews 12:4 records: 'You have been fighting against sin in your lives. But you have not yet had to fight like that until someone killed you.'."
       },
       {
         "id": "heb-12-q4",
         "questionNumber": 4,
         "question": "What truth or description is highlighted in Hebrews 12:6?",
         "options": [
-          "“And again, if the fathers of our flesh gave...”",
-          "“And make straight roads for your feet, so that...”",
+          "“Also, we have all had human fathers who punished...”",
+          "“Walk straight in front of you, step by step!...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“For the Lord sends punishment on his loved ones; everyone whom...”"
+          "“The Lord does that to everyone that he loves. He punishes...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“For the Lord sends punishment on his loved ones; everyone whom...”",
+        "correctAnswer": "“The Lord does that to everyone that he loves. He punishes...”",
         "reference": "Hebrews 12:6",
-        "explanation": "Hebrews 12:6 records: 'For the Lord sends punishment on his loved ones; everyone whom he takes as his son has experience of his rod.'."
+        "explanation": "Hebrews 12:6 records: 'The Lord does that to everyone that he loves. He punishes everyone that he accepts as a son.’'."
       },
       {
         "id": "heb-12-q5",
         "questionNumber": 5,
         "question": "According to the text, what happened or was commanded in Hebrews 12:8?",
         "options": [
-          "“But if you have not that punishment of which we all...”",
-          "“At the time all punishment seems to be pain...”",
-          "“Looking with care to see that no man among...”",
+          "“God teaches all his children not to do wrong things. So...”",
+          "“Punishment never makes us happy at the time when...”",
+          "“Remember that God is very kind. Nobody should refuse...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“But if you have not that punishment of which we all...”",
+        "correctAnswer": "“God teaches all his children not to do wrong things. So...”",
         "reference": "Hebrews 12:8",
-        "explanation": "Hebrews 12:8 records: 'But if you have not that punishment of which we all have our part, then you are not true sons, but children of shame.'."
+        "explanation": "Hebrews 12:8 records: 'God teaches all his children not to do wrong things. So if he does not punish you, it shows that you are not really his children. Instead, you are like children who do not really belong to him.'."
       },
       {
         "id": "heb-12-q6",
         "questionNumber": 6,
         "question": "What central message or instruction is delivered in Hebrews 12:10?",
         "options": [
-          "“And make straight roads for your feet, so that...”",
-          "“For they truly gave us punishment for a short time, as...”",
-          "“For you have knowledge that even long after, when...”",
+          "“Walk straight in front of you, step by step!...”",
+          "“Our human fathers punished us for a few years. They did...”",
+          "“As you know, after that, he still wanted to...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“For they truly gave us punishment for a short time, as...”",
+        "correctAnswer": "“Our human fathers punished us for a few years. They did...”",
         "reference": "Hebrews 12:10",
-        "explanation": "Hebrews 12:10 records: 'For they truly gave us punishment for a short time, as it seemed good to them; but he does it for our profit, so that we may become holy as he is.'."
+        "explanation": "Hebrews 12:10 records: 'Our human fathers punished us for a few years. They did this in a way that they thought was good. But God punishes us in a way that will really help us. As a result, we can become completely good, like he is.'."
       },
       {
         "id": "heb-12-q7",
         "questionNumber": 7,
         "question": "What detail regarding God's work, covenant, or people is given in Hebrews 12:12?",
         "options": [
-          "“Looking with care to see that no man among...”",
-          "“And to the sound of a horn, and the...”",
-          "“For this cause let the hands which are hanging down be...”",
+          "“Remember that God is very kind. Nobody should refuse...”",
+          "“There was the loud sound of a trumpet. There...”",
+          "“So be strong as you serve God! If your hands feel...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“For this cause let the hands which are hanging down be...”",
+        "correctAnswer": "“So be strong as you serve God! If your hands feel...”",
         "reference": "Hebrews 12:12",
-        "explanation": "Hebrews 12:12 records: 'For this cause let the hands which are hanging down be lifted up, and let the feeble knees be made strong,'."
+        "explanation": "Hebrews 12:12 records: 'So be strong as you serve God! If your hands feel weak, lift them up! If your knees are not strong, stand up straight!'."
       },
       {
         "id": "heb-12-q8",
         "questionNumber": 8,
         "question": "What phrase or account is recorded in Hebrews 12:14?",
         "options": [
-          "“For you have knowledge that even long after, when...”",
-          "“And the vision was so overpowering that even Moses...”",
+          "“As you know, after that, he still wanted to...”",
+          "“Even Moses was very afraid when he saw God's...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“Let your desire be for peace with all men, and to...”"
+          "“Do everything that you can to live in peace with all...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“Let your desire be for peace with all men, and to...”",
+        "correctAnswer": "“Do everything that you can to live in peace with all...”",
         "reference": "Hebrews 12:14",
-        "explanation": "Hebrews 12:14 records: 'Let your desire be for peace with all men, and to be made holy, without which no man may see the Lord;'."
+        "explanation": "Hebrews 12:14 records: 'Do everything that you can to live in peace with all people. Be faithful to the Lord. Nobody will see the Lord unless they are holy.'."
       },
       {
         "id": "heb-12-q9",
         "questionNumber": 9,
         "question": "How does the passage describe the circumstances or people in Hebrews 12:16?",
         "options": [
-          "“And that there may not be any evil liver, or any...”",
-          "“And to the sound of a horn, and the...”",
-          "“To the great meeting and church of the first...”",
+          "“Make sure that nobody among you has sex in a wrong...”",
+          "“There was the loud sound of a trumpet. There...”",
+          "“All God's people meet together there. They are like...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“And that there may not be any evil liver, or any...”",
+        "correctAnswer": "“Make sure that nobody among you has sex in a wrong...”",
         "reference": "Hebrews 12:16",
-        "explanation": "Hebrews 12:16 records: 'And that there may not be any evil liver, or any man without respect for God, like Esau, who let his birthright go for a plate of food.'."
+        "explanation": "Hebrews 12:16 records: 'Make sure that nobody among you has sex in a wrong way. Be careful that nobody is careless about God's rules, like Esau was long ago. He gave away everything that he would have received as his father's firstborn son. He gave it all away so that he could get only one meal.'."
       },
       {
         "id": "heb-12-q10",
         "questionNumber": 10,
         "question": "In the concluding portion of the chapter, what takes place in Hebrews 12:18?",
         "options": [
-          "“And the vision was so overpowering that even Moses...”",
-          "“You have not come to a mountain which may be touched,...”",
-          "“See that you give ear to his voice which...”",
+          "“Even Moses was very afraid when he saw God's...”",
+          "“You have come near to God. But you have not come...”",
+          "“So be careful! Always be ready to listen when...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“You have not come to a mountain which may be touched,...”",
+        "correctAnswer": "“You have come near to God. But you have not come...”",
         "reference": "Hebrews 12:18",
-        "explanation": "Hebrews 12:18 records: 'You have not come to a mountain which may be touched, and is burning with fire, and to a black cloud, and a dark smoke, and a violent wind,'."
+        "explanation": "Hebrews 12:18 records: 'You have come near to God. But you have not come to a place that you can touch, like Mount Sinai. That mountain burned with fire. But where the people stood, it was completely dark. They could not see at all. There was also a very strong wind and a storm.'."
       }
     ],
     "13": [
@@ -1835,150 +1832,150 @@
         "questionNumber": 1,
         "question": "According to Hebrews 13:1, what is the opening statement or setting of this chapter?",
         "options": [
-          "It records: “Go on loving your brothers in the faith.”",
+          "It records: “Continue to love each other like brothers and sisters.”",
           "It begins with a prayer of thanksgiving for deliverance in Hebrews",
           "It opens with a formal census and counting of the congregation",
           "It records a severe judgment pronounced against neighboring nations"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "It records: “Go on loving your brothers in the faith.”",
+        "correctAnswer": "It records: “Continue to love each other like brothers and sisters.”",
         "reference": "Hebrews 13:1",
-        "explanation": "The chapter begins directly with the statement: 'Go on loving your brothers in the faith.'."
+        "explanation": "The chapter begins directly with the statement: 'Continue to love each other like brothers and sisters.'."
       },
       {
         "id": "heb-13-q2",
         "questionNumber": 2,
         "question": "What key instruction, event, or declaration is set forth in Hebrews 13:2?",
         "options": [
-          "“Be free from the love of money and pleased...”",
-          "“Take care to keep open house: because in this way some...”",
-          "“Do not be turned away by different strange teachings,...”",
+          "“In the way that you live, do not want...”",
+          "“Always remember to be kind to strangers. Let them stay in...”",
+          "“Some people teach all kinds of strange new things....”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“Take care to keep open house: because in this way some...”",
+        "correctAnswer": "“Always remember to be kind to strangers. Let them stay in...”",
         "reference": "Hebrews 13:2",
-        "explanation": "Hebrews 13:2 records: 'Take care to keep open house: because in this way some have had angels as their guests, without being conscious of it.'."
+        "explanation": "Hebrews 13:2 records: 'Always remember to be kind to strangers. Let them stay in your homes. In this way, some people have received angels as visitors, and they did not know that they were angels.'."
       },
       {
         "id": "heb-13-q3",
         "questionNumber": 3,
         "question": "What significant action or revelation occurs in Hebrews 13:4?",
         "options": [
-          "“Keep in mind those who were over you, and...”",
-          "“For the bodies of the beasts whose blood is...”",
-          "“Let married life be honoured among all of you and not...”",
+          "“Remember your leaders, who taught God's message to you....”",
+          "“In the old covenant, the leader of the priests...”",
+          "“When a man and a woman have married each other, they...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“Let married life be honoured among all of you and not...”",
+        "correctAnswer": "“When a man and a woman have married each other, they...”",
         "reference": "Hebrews 13:4",
-        "explanation": "Hebrews 13:4 records: 'Let married life be honoured among all of you and not made unclean; for men untrue in married life will be judged by God.'."
+        "explanation": "Hebrews 13:4 records: 'When a man and a woman have married each other, they must each respect the marriage. Husbands and wives must only have sex with each other. God will punish anyone who has sex with another person's husband or wife. He will punish anyone who has sex in a wrong way.'."
       },
       {
         "id": "heb-13-q4",
         "questionNumber": 4,
         "question": "What truth or description is highlighted in Hebrews 13:6?",
         "options": [
-          "“Do not be turned away by different strange teachings,...”",
-          "“Let us then go out to him outside the...”",
+          "“Some people teach all kinds of strange new things....”",
+          "“Jesus died like that in a place where people...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“So that we say with a good heart, The Lord is...”"
+          "“Because of that, we can bravely say this: ‘The Lord is...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“So that we say with a good heart, The Lord is...”",
+        "correctAnswer": "“Because of that, we can bravely say this: ‘The Lord is...”",
         "reference": "Hebrews 13:6",
-        "explanation": "Hebrews 13:6 records: 'So that we say with a good heart, The Lord is my helper; I will have no fear: what is man able to do to me?'."
+        "explanation": "Hebrews 13:6 records: 'Because of that, we can bravely say this: ‘The Lord is the one who helps me, so I will not be afraid. I will not be afraid of anything that people can do to me.’'."
       },
       {
         "id": "heb-13-q5",
         "questionNumber": 5,
         "question": "According to the text, what happened or was commanded in Hebrews 13:8?",
         "options": [
-          "“Jesus Christ is the same yesterday and today and for ever.”",
-          "“For the bodies of the beasts whose blood is...”",
-          "“Let us then make offerings of praise to God...”",
+          "“Jesus Christ is always the same, yesterday, today and for ever.”",
+          "“In the old covenant, the leader of the priests...”",
+          "“So we should always praise God, because of what...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“Jesus Christ is the same yesterday and today and for ever.”",
+        "correctAnswer": "“Jesus Christ is always the same, yesterday, today and for ever.”",
         "reference": "Hebrews 13:8",
-        "explanation": "Hebrews 13:8 records: 'Jesus Christ is the same yesterday and today and for ever.'."
+        "explanation": "Hebrews 13:8 records: 'Jesus Christ is always the same, yesterday, today and for ever.'."
       },
       {
         "id": "heb-13-q6",
         "questionNumber": 6,
         "question": "What central message or instruction is delivered in Hebrews 13:10?",
         "options": [
-          "“Let us then go out to him outside the...”",
-          "“We have an altar from which those priests who are servants...”",
-          "“Give ear to those who are rulers over you,...”",
+          "“Jesus died like that in a place where people...”",
+          "“Jesus Christ is the sacrifice that saves us. Jewish priests do...”",
+          "“Respect your leaders and obey them. They watch over...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“We have an altar from which those priests who are servants...”",
+        "correctAnswer": "“Jesus Christ is the sacrifice that saves us. Jewish priests do...”",
         "reference": "Hebrews 13:10",
-        "explanation": "Hebrews 13:10 records: 'We have an altar from which those priests who are servants in the Tent may not take food.'."
+        "explanation": "Hebrews 13:10 records: 'Jesus Christ is the sacrifice that saves us. Jewish priests do not have the authority to receive anything from his sacrifice.'."
       },
       {
         "id": "heb-13-q7",
         "questionNumber": 7,
         "question": "What detail regarding God's work, covenant, or people is given in Hebrews 13:12?",
         "options": [
-          "“Let us then make offerings of praise to God...”",
-          "“I make this request more strongly, in the hope...”",
-          "“For this reason Jesus was put to death outside the walls,...”",
+          "“So we should always praise God, because of what...”",
+          "“The most important thing is this: Pray that I...”",
+          "“In the same way, Jesus also died outside the city. He...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“For this reason Jesus was put to death outside the walls,...”",
+        "correctAnswer": "“In the same way, Jesus also died outside the city. He...”",
         "reference": "Hebrews 13:12",
-        "explanation": "Hebrews 13:12 records: 'For this reason Jesus was put to death outside the walls, so that he might make the people holy by his blood.'."
+        "explanation": "Hebrews 13:12 records: 'In the same way, Jesus also died outside the city. He died as a sacrifice on our behalf. His blood has made his people clean from their sins.'."
       },
       {
         "id": "heb-13-q8",
         "questionNumber": 8,
         "question": "What phrase or account is recorded in Hebrews 13:14?",
         "options": [
-          "“Give ear to those who are rulers over you,...”",
-          "“Make you full of every good work and ready...”",
+          "“Respect your leaders and obey them. They watch over...”",
+          "“I pray that God will give you every good...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“For here we have no fixed resting-place, but our search is...”"
+          "“Here on earth, we who are believers do not have a...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“For here we have no fixed resting-place, but our search is...”",
+        "correctAnswer": "“Here on earth, we who are believers do not have a...”",
         "reference": "Hebrews 13:14",
-        "explanation": "Hebrews 13:14 records: 'For here we have no fixed resting-place, but our search is for the one which is to come.'."
+        "explanation": "Hebrews 13:14 records: 'Here on earth, we who are believers do not have a city that will always be our home. But we are waiting for God's city that will come.'."
       },
       {
         "id": "heb-13-q9",
         "questionNumber": 9,
         "question": "How does the passage describe the circumstances or people in Hebrews 13:16?",
         "options": [
-          "“But go on doing good and giving to others, because God...”",
-          "“I make this request more strongly, in the hope...”",
-          "“Our brother Timothy has been let out of prison;...”",
+          "“Remember to be kind to other people. Share with them the...”",
+          "“The most important thing is this: Pray that I...”",
+          "“I want to tell you about Timothy, who is...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“But go on doing good and giving to others, because God...”",
+        "correctAnswer": "“Remember to be kind to other people. Share with them the...”",
         "reference": "Hebrews 13:16",
-        "explanation": "Hebrews 13:16 records: 'But go on doing good and giving to others, because God is well-pleased with such offerings.'."
+        "explanation": "Hebrews 13:16 records: 'Remember to be kind to other people. Share with them the things that you have. God is happy with sacrifices like that.'."
       },
       {
         "id": "heb-13-q10",
         "questionNumber": 10,
         "question": "In the concluding portion of the chapter, what takes place in Hebrews 13:18?",
         "options": [
-          "“Make you full of every good work and ready...”",
-          "“Make prayers for us, for we are certain that our hearts...”",
-          "“Go on loving your brothers in the faith.”",
+          "“I pray that God will give you every good...”",
+          "“Pray to God for us. We are sure in our minds...”",
+          "“Continue to love each other like brothers and sisters.”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“Make prayers for us, for we are certain that our hearts...”",
+        "correctAnswer": "“Pray to God for us. We are sure in our minds...”",
         "reference": "Hebrews 13:18",
-        "explanation": "Hebrews 13:18 records: 'Make prayers for us, for we are certain that our hearts are free from the sense of sin, desiring the right way of life in all things.'."
+        "explanation": "Hebrews 13:18 records: 'Pray to God for us. We are sure in our minds that we have done nothing wrong. We always want to do only what is right.'."
       }
     ]
   }

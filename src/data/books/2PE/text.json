@@ -1,583 +1,414 @@
 {
-  "translation": "EasyEnglish Bible",
-  "book": "2 Peter",
-  "bookId": "2PE",
+  "id": "2PE",
+  "name": "2 Peter",
+  "slug": "2-peter",
+  "translation": "EasyEnglish Bible (EASY)",
+  "publisher": "MissionAssist UK",
+  "referenceUrl": "https://www.easyenglish.bible/bible/easy/2-peter/",
   "totalChapters": 3,
-  "copyrightNotice": "Scripture quotations are from the EasyEnglish Bible / Bible in Basic English. Public Domain.",
-  "officialSourceUrl": "https://www.easyenglish.bible/bible/easy/2-peter/1/",
+  "totalVerses": 60,
   "chapters": [
     {
-      "book": "2 Peter",
       "chapter": 1,
       "title": "2 Peter 1",
-      "subtitle": "2 Peter Chapter 1",
+      "subtitle": "",
+      "totalVerses": 20,
+      "sourceUrl": "https://www.easyenglish.bible/bible/easy/2-peter/1/",
       "sections": [
         {
-          "heading": "2 Peter Chapter 1",
+          "heading": "Peter writes his second letter to Christians",
           "items": [
             [
               {
                 "verse": 1,
-                "text": "Simon Peter, a servant and Apostle of Jesus Christ, to those who with us have a part in the same holy faith in the righteousness of our God and Saviour Jesus Christ:"
-              },
+                "text": "This letter is from me, Simon Peter. I am Jesus Christ's servant and his apostle."
+              }
+            ],
+            [
+              {
+                "verse": 1,
+                "text": "I am writing to you people who believe in Jesus Christ, as we do. That is a valuable gift that God has given to us all. He has done this because Jesus is completely good and right. Jesus is the one who saves us. He is the God that we serve."
+              }
+            ],
+            [
               {
                 "verse": 2,
-                "text": "May grace and peace ever be increasing in you, in the knowledge of God and of Jesus our Lord;"
-              },
+                "text": "I pray that God will help you and give you peace in your minds more and more. You will grow as believers because you know God and you know Jesus, our Lord."
+              }
+            ]
+          ]
+        },
+        {
+          "heading": "God has given us everything we need to grow as believers",
+          "items": [
+            [
               {
                 "verse": 3,
-                "text": "Because by his power he has given us everything necessary for life and righteousness, through the knowledge of him who has been our guide by his glory and virtue;"
+                "text": "God is very powerful because he is God. He has used that power to help us. He has given us everything that we need to live in a good way. We can do things that please God. This is possible because now we know him. God has chosen us to be his people because he is very great and very good."
               },
               {
                 "verse": 4,
-                "text": "And through this he has given us the hope of great rewards highly to be valued; so that by them we might have our part in God's being, and be made free from the destruction which is in the world through the desires of the flesh."
+                "text": "Because of this, God has promised that he will do very great and valuable things for us. As a result, you can do what is right, like God does. The people who belong to this world want to do bad things. Those bad things make them become worse and worse. But God gives you the power to be free from all that."
               }
             ],
             [
               {
                 "verse": 5,
-                "text": "So, for this very cause, take every care; joining virtue to faith, and knowledge to virtue,"
+                "text": "God has done all this to help you. So now that you believe in Christ, you must grow as believers. Always try to do what is good. Then you should start to know God more."
               },
               {
                 "verse": 6,
-                "text": "And self-control to knowledge, and a quiet mind to self-control, and fear of God to a quiet mind,"
+                "text": "Then you should learn to control yourselves properly. That is not all. You should also learn to be patient and brave. And you should live in a way that pleases God."
               },
               {
                 "verse": 7,
-                "text": "And love of the brothers to fear of God, and to love of the brothers, love itself."
-              },
-              {
-                "verse": 8,
-                "text": "For if you have these things in good measure, they will make you fertile and full of fruit in the knowledge of our Lord Jesus Christ."
+                "text": "You should not only please God, but you should be kind to other believers. You should not only love other believers, but you must also love all people."
               }
             ],
             [
               {
-                "verse": 9,
-                "text": "For the man who has not these things is blind, seeing only what is near, having no memory of how he was made clean from his old sins."
+                "verse": 8,
+                "text": "You should continue to grow as believers in all these ways. Then it will show that you really know our Lord Jesus Christ. People will see that your life has good results."
               },
               {
+                "verse": 9,
+                "text": "But some people do not live in these good ways. They do not think that these things are important. They are like blind people. They cannot really see anything properly. They have forgotten that God has made them clean from all the sins that they did in past times."
+              }
+            ],
+            [
+              {
                 "verse": 10,
-                "text": "For this reason, my brothers, take all the more care to make your selection and approval certain; for if you do these things you will never have a fall:"
+                "text": "So, my friends, try very much to live in a way that pleases God. God has chosen you to be his own people. Show that you really do belong to him! If you do these things, you will never turn away from God."
               },
               {
                 "verse": 11,
-                "text": "For so the way will be open to you into the eternal kingdom of our Lord and Saviour Jesus Christ."
-              },
-              {
-                "verse": 12,
-                "text": "For this reason I will be ready at all times to keep your memory of these things awake, though you have the knowledge of them now and are well based in your present faith."
+                "text": "Then God will bring you safely into the kingdom of our Lord Jesus Christ that continues for ever. Jesus Christ is our Saviour, and God will be happy to welcome you into his kingdom."
               }
             ],
             [
               {
+                "verse": 12,
+                "text": "You already know these things. You know that they are completely true. But because they are important, I will continue to tell you about them again and again."
+              },
+              {
                 "verse": 13,
-                "text": "And it seems right to me, as long as I am in this tent of flesh, to keep your minds awake by working on your memory;"
+                "text": "While I am still alive on this earth I will continue to make sure that you remember them. I think that it is right for me to do that."
               },
               {
                 "verse": 14,
-                "text": "For I am conscious that in a short time I will have to put off this tent of flesh, as our Lord Jesus Christ has made clear to me."
+                "text": "I know that I will die soon. Our Lord Jesus Christ has shown me that clearly."
               },
               {
                 "verse": 15,
-                "text": "And I will take every care so that you may have a clear memory of these things after my death."
-              },
-              {
-                "verse": 16,
-                "text": "For when we gave you news of the power and the coming of our Lord Jesus Christ, our teaching was not based on stories put together by art, but we were eye-witnesses of his glory."
+                "text": "After I am no longer with you, I want you still to remember what I have told you. So I will make sure that you have something to help you not to forget."
               }
-            ],
+            ]
+          ]
+        },
+        {
+          "heading": "Peter himself saw how great Christ is",
+          "items": [
             [
               {
-                "verse": 17,
-                "text": "For God the Father gave him honour and glory, when such a voice came to him out of the great glory, saying, This is my dearly loved Son, with whom I am well pleased."
+                "verse": 16,
+                "text": "We told you that our Lord Jesus Christ is powerful. We also told you that he will return to earth again. We were not telling you false stories that came from people's clever ideas. Instead, we were telling you what we ourselves had seen. We ourselves saw that the Lord Jesus is very great."
               },
               {
-                "verse": 18,
-                "text": "And this voice came from heaven even to our ears, when we were with him on the holy mountain."
-              },
+                "verse": 17,
+                "text": "We were with him on the holy mountain when his Father God spoke to him. God gave honour to his Son, Jesus, and he said that Jesus is great. We ourselves heard God's voice speak to Jesus from heaven above where God rules with power. He said: ‘This is my Son and I love him. He makes me very happy.’"
+              }
+            ]
+          ]
+        },
+        {
+          "heading": "God used the prophets to speak his message",
+          "items": [
+            [
               {
                 "verse": 19,
-                "text": "And so the words of the prophets are made more certain; and it is well for you to give attention to them as to a light shining in a dark place, till the dawn comes and the morning star is seen in your hearts;"
+                "text": "We also have the prophets' messages from long ago. They show us very clearly that these things are true. The prophets' words are like a light that shines in a dark place. That light continues to shine in the dark until the dawn comes. So you need to think about those messages carefully. Then the morning star will rise at dawn and it will bring light deep inside you."
               },
               {
                 "verse": 20,
-                "text": "Being conscious in the first place that no man by himself may give a special sense to the words of the prophets."
-              }
-            ],
-            [
+                "text": "It is very important that you should understand this: The prophets' messages in the Bible did not come from their own ideas. That never happens."
+              },
               {
                 "verse": 21,
-                "text": "For these words did not ever come through the impulse of men: but the prophets had them from God, being moved by the Holy Spirit."
+                "text": "None of the prophets' messages came because any person wanted to say something. Instead, God's Holy Spirit caused people to speak words that came from God."
               }
             ]
           ]
         }
       ],
-      "verses": [
-        {
-          "verse": 1,
-          "text": "Simon Peter, a servant and Apostle of Jesus Christ, to those who with us have a part in the same holy faith in the righteousness of our God and Saviour Jesus Christ:"
-        },
-        {
-          "verse": 2,
-          "text": "May grace and peace ever be increasing in you, in the knowledge of God and of Jesus our Lord;"
-        },
-        {
-          "verse": 3,
-          "text": "Because by his power he has given us everything necessary for life and righteousness, through the knowledge of him who has been our guide by his glory and virtue;"
-        },
-        {
-          "verse": 4,
-          "text": "And through this he has given us the hope of great rewards highly to be valued; so that by them we might have our part in God's being, and be made free from the destruction which is in the world through the desires of the flesh."
-        },
-        {
-          "verse": 5,
-          "text": "So, for this very cause, take every care; joining virtue to faith, and knowledge to virtue,"
-        },
-        {
-          "verse": 6,
-          "text": "And self-control to knowledge, and a quiet mind to self-control, and fear of God to a quiet mind,"
-        },
-        {
-          "verse": 7,
-          "text": "And love of the brothers to fear of God, and to love of the brothers, love itself."
-        },
-        {
-          "verse": 8,
-          "text": "For if you have these things in good measure, they will make you fertile and full of fruit in the knowledge of our Lord Jesus Christ."
-        },
-        {
-          "verse": 9,
-          "text": "For the man who has not these things is blind, seeing only what is near, having no memory of how he was made clean from his old sins."
-        },
-        {
-          "verse": 10,
-          "text": "For this reason, my brothers, take all the more care to make your selection and approval certain; for if you do these things you will never have a fall:"
-        },
-        {
-          "verse": 11,
-          "text": "For so the way will be open to you into the eternal kingdom of our Lord and Saviour Jesus Christ."
-        },
-        {
-          "verse": 12,
-          "text": "For this reason I will be ready at all times to keep your memory of these things awake, though you have the knowledge of them now and are well based in your present faith."
-        },
-        {
-          "verse": 13,
-          "text": "And it seems right to me, as long as I am in this tent of flesh, to keep your minds awake by working on your memory;"
-        },
-        {
-          "verse": 14,
-          "text": "For I am conscious that in a short time I will have to put off this tent of flesh, as our Lord Jesus Christ has made clear to me."
-        },
-        {
-          "verse": 15,
-          "text": "And I will take every care so that you may have a clear memory of these things after my death."
-        },
-        {
-          "verse": 16,
-          "text": "For when we gave you news of the power and the coming of our Lord Jesus Christ, our teaching was not based on stories put together by art, but we were eye-witnesses of his glory."
-        },
-        {
-          "verse": 17,
-          "text": "For God the Father gave him honour and glory, when such a voice came to him out of the great glory, saying, This is my dearly loved Son, with whom I am well pleased."
-        },
-        {
-          "verse": 18,
-          "text": "And this voice came from heaven even to our ears, when we were with him on the holy mountain."
-        },
-        {
-          "verse": 19,
-          "text": "And so the words of the prophets are made more certain; and it is well for you to give attention to them as to a light shining in a dark place, till the dawn comes and the morning star is seen in your hearts;"
-        },
-        {
-          "verse": 20,
-          "text": "Being conscious in the first place that no man by himself may give a special sense to the words of the prophets."
-        },
-        {
-          "verse": 21,
-          "text": "For these words did not ever come through the impulse of men: but the prophets had them from God, being moved by the Holy Spirit."
-        }
-      ],
-      "totalVerses": 21,
-      "footnotes": []
+      "notes": [
+        "Peter, James and John saw Jesus when he shone brightly on the mountain. They heard God speak to Jesus. SeeMatthew 17:1-8;Mark 9:2-8;Luke 9:28-36.",
+        "God'sprophetsspoke messages about theMessiahwho would come in the future. That was like a light which shone in a dark place. When Jesus returns to the earth, that will be like the dawn. He is like the morning star that appears in the sky just before the sunrise. It shows us that the day is coming. Jesus says that he is the morning star. SeeRevelation 22:16."
+      ]
     },
     {
-      "book": "2 Peter",
       "chapter": 2,
       "title": "2 Peter 2",
-      "subtitle": "2 Peter Chapter 2",
+      "subtitle": "",
+      "totalVerses": 22,
+      "sourceUrl": "https://www.easyenglish.bible/bible/easy/2-peter/2/",
       "sections": [
         {
-          "heading": "2 Peter Chapter 2",
+          "heading": "God will punish false teachers",
           "items": [
             [
               {
                 "verse": 1,
-                "text": "But there were false prophets among the people, as there will be false teachers among you, who will secretly put forward wrong teachings for your destruction, even turning away from the Lord who gave himself for them; whose destruction will come quickly, and they themselves will be the cause of it."
+                "text": "Many years ago, there were false prophets among God's people. They did not speak God's true messages. In the same way, there will also be false teachers among you. They will come among you and they will teach you things that are not true. Their wrong ideas will deceive people. Those false teachers will even speak against the Master, who paid the price for their sins. As a result, they will bring trouble on themselves that quickly destroys them."
               },
               {
                 "verse": 2,
-                "text": "And a great number will go with them in their evil ways, through whom the true way will have a bad name."
-              },
+                "text": "Many people will believe these false teachers. They will live in a bad way, like the false teachers. As a result, other people will say bad things against God's true way to live."
+              }
+            ],
+            [
               {
                 "verse": 3,
-                "text": "And in their desire for profit they will come to you with words of deceit, like traders doing business in souls: whose punishment has been ready for a long time and their destruction is watching for them."
-              },
+                "text": "The false teachers want you to give them money. So they will teach things that are not true. A long time ago, God already decided that he must punish them. God is ready to do that now. Certainly, he will soon destroy them."
+              }
+            ],
+            [
               {
                 "verse": 4,
-                "text": "For if God did not have pity for the angels who did evil, but sent them down into hell, to be kept in chains of eternal night till they were judged;"
+                "text": "God even punished the angels who refused to obey him. He threw them down into the deep hole of hell. He tied them up and he kept them in that completely dark place. They will remain there until the day when God will judge them."
               }
             ],
             [
               {
                 "verse": 5,
-                "text": "And did not have mercy on the world which then was, but only kept safe Noah, a preacher of righteousness, with seven others, when he let loose the waters over the world of the evil-doers;"
-              },
+                "text": "Also, a long time ago, God punished all the bad people who lived in the world. He sent water to cover over all the earth. All the people who had turned away from him drowned in the water. But God kept Noah safe. Noah had told people God's message that they should do right things. So God saved Noah, and seven other people, from the water."
+              }
+            ],
+            [
               {
                 "verse": 6,
-                "text": "And sent destruction on Sodom and Gomorrah, burning them up with fire as an example to those whose way of life might in the future be unpleasing to him;"
+                "text": "Later, God punished the people who lived in the cities of Sodom and Gomorrah. Because they did bad things, God decided to destroy them. He burned those cities completely, so that only ashes remained. When God did that, he showed what will happen to all people who refuse to obey him."
               },
               {
                 "verse": 7,
-                "text": "And kept safe Lot, the upright man, who was deeply troubled by the unclean life of the evil-doers"
+                "text": "But God saved Lot from danger. Lot was a good man. He was very sad because the people in Sodom did not obey God's laws. They lived in a very bad way."
               },
               {
                 "verse": 8,
-                "text": "(Because the soul of that upright man living among them was pained from day to day by seeing and hearing their crimes):"
+                "text": "Lot lived among those bad people. Every day, he saw the bad things that they did. Every day, he heard the bad things that they said. As a result, Lot had much trouble in his mind, because he was a good man."
               }
             ],
             [
               {
                 "verse": 9,
-                "text": "The Lord is able to keep the upright safe in the time of testing, and to keep evil-doers under punishment till the day of judging;"
+                "text": "We know that the Lord God has done all these things in past times. When people who respect him have trouble, God knows how to rescue them. But he will continue to punish the people who refuse to obey him. He will keep them until the day when he will judge them."
               },
               {
                 "verse": 10,
-                "text": "But specially those who go after the unclean desires of the flesh, and make sport of authority. Ready to take chances, uncontrolled, they have no fear of saying evil of those in high places:"
+                "text": "God will certainly punish those people who want to enjoy bad things for themselves. They do the wrong things that their bodies want to do. They do not want to obey anyone's authority."
+              }
+            ],
+            [
+              {
+                "verse": 10,
+                "text": "These false teachers are not afraid of what other people think about them. They think that they themselves are very important. They are not afraid to say many bad things against the great angels in heaven."
               },
               {
                 "verse": 11,
-                "text": "Though the angels, who are greater in strength and power, do not make use of violent language against them before the Lord."
-              },
+                "text": "The angels are more powerful than the false teachers are. But even these angels will not say bad things against them when the Lord is present."
+              }
+            ],
+            [
               {
                 "verse": 12,
-                "text": "But these men, like beasts without reason, whose natural use is to be taken and put to death, crying out against things of which they have no knowledge, will undergo that same destruction which they are designing for others;"
+                "text": "But these false teachers speak against things that they do not understand. They are like wild animals. Their minds cannot think properly. They only do what their nature causes them to do. Wild animals are born so that people can catch them and kill them. In the same way, God will destroy the false teachers."
+              },
+              {
+                "verse": 13,
+                "text": "They have caused other people to have much trouble. In return, God will cause them to have trouble."
               }
             ],
             [
               {
                 "verse": 13,
-                "text": "For the evil which overtakes them is the reward of their evil-doing: such men take their pleasure in the delights of the flesh even in the daytime; they are like the marks of a disease, like poisoned wounds among you, feasting together with you in joy;"
+                "text": "They love to do things which will give their bodies pleasure. They have wild parties, even during the day. They eat and drink too much when they eat meals with you. They enjoy all these bad ways to be happy. As a result, people think bad things about you as well. They cause people to be ashamed about you. So they are like dirty marks that spoil something which is clean."
               },
               {
                 "verse": 14,
-                "text": "Having eyes full of evil desire, never having enough of sin; turning feeble souls out of the true way; they are children of cursing, whose hearts are well used to bitter envy;"
-              },
+                "text": "All the time, they are looking for women who will have sex with them. They never stop doing wicked things. They teach people who have weak minds to believe wrong things. They just want more and more things to make themselves happy. God will certainly punish these people, because they are so bad."
+              }
+            ],
+            [
               {
                 "verse": 15,
-                "text": "Turning out of the true way, they have gone wandering in error, after the way of Balaam, the son of Beor, who was pleased to take payment for wrongdoing;"
+                "text": "These false teachers have left the way which is good and right. Like Balaam, Beor's son, they have gone the wrong way. Balaam wanted money so much that he did wrong things to get it."
               },
               {
                 "verse": 16,
-                "text": "But his wrongdoing was pointed out to him: an ass, talking with a man's voice, put a stop to the error of the prophet."
+                "text": "But a donkey told him that he was not obeying God. We know that donkeys cannot talk. But that donkey spoke with a human voice. It stopped the prophet Balaam from doing more stupid things."
               }
             ],
             [
               {
                 "verse": 17,
-                "text": "These are fountains without water, and mists before a driving storm; for whom the eternal night is kept in store."
-              },
+                "text": "These false teachers promise good things that will never happen. They are like a dry well that has no water. They are like clouds in a storm which the wind blows away so that no rain comes. God will certainly send them to the darkest place in hell. He has kept that place ready for them."
+              }
+            ],
+            [
               {
                 "verse": 18,
-                "text": "For with high-sounding false words, making use of the attraction of unclean desires of the flesh, they get into their power those newly made free from those who are living in error;"
+                "text": "The messages that these teachers speak seem very important. But their words really mean nothing. In that way, they lead people away from God. Some people have not been believers for very long. They have only just become free from the wrong things that people do. But the false teachers tell these people to do bad things that will make them happy."
               },
               {
                 "verse": 19,
-                "text": "Saying that they will be free, while they themselves are the servants of destruction; because whatever gets the better of a man makes a servant of him."
-              },
+                "text": "The false teachers tell these believers to do whatever they want to do. They promise that this will make them really free. But the false teachers themselves are not free. Instead, they are like slaves. They cannot stop doing the bad things that will destroy them. We know that if something has power over a person, then that person is its slave."
+              }
+            ],
+            [
               {
                 "verse": 20,
-                "text": "For if, after they have got free from the unclean things of the world through the knowledge of the Lord and Saviour Jesus Christ, they are again taken in the net and overcome, their last condition is worse than their first."
+                "text": "People like that learned about our Lord Jesus Christ, who saves us. As a result, they had stopped doing the bad things that belong to this world. They had become free from the power of those things. But now they have started to do those bad things again. Those things have power over them and they cannot stop doing them. So now, these false teachers are worse than they were at the beginning, before they believed in the Lord Jesus."
               }
             ],
             [
               {
                 "verse": 21,
-                "text": "For it would have been better for them to have had no knowledge of the way of righteousness, than to go back again from the holy law which was given to them, after having knowledge of it."
+                "text": "It would have been better for them if they had never known God's good way. But they did understand about the right things that God wants us to do. And then they turned away from that way of life. They stopped obeying God's good rules, that people had taught them."
               },
               {
                 "verse": 22,
-                "text": "They are an example of that true saying, The dog has gone back to the food it had put out, and the pig which had been washed to its rolling in the dirty earth."
+                "text": "You know these true proverbs: ‘After a dog has been sick, it returns to eat it again.’ Also: ‘After you wash a pig, it will quickly roll in the dirt again.’ These words describe how the false teachers live."
               }
             ]
           ]
         }
       ],
-      "verses": [
-        {
-          "verse": 1,
-          "text": "But there were false prophets among the people, as there will be false teachers among you, who will secretly put forward wrong teachings for your destruction, even turning away from the Lord who gave himself for them; whose destruction will come quickly, and they themselves will be the cause of it."
-        },
-        {
-          "verse": 2,
-          "text": "And a great number will go with them in their evil ways, through whom the true way will have a bad name."
-        },
-        {
-          "verse": 3,
-          "text": "And in their desire for profit they will come to you with words of deceit, like traders doing business in souls: whose punishment has been ready for a long time and their destruction is watching for them."
-        },
-        {
-          "verse": 4,
-          "text": "For if God did not have pity for the angels who did evil, but sent them down into hell, to be kept in chains of eternal night till they were judged;"
-        },
-        {
-          "verse": 5,
-          "text": "And did not have mercy on the world which then was, but only kept safe Noah, a preacher of righteousness, with seven others, when he let loose the waters over the world of the evil-doers;"
-        },
-        {
-          "verse": 6,
-          "text": "And sent destruction on Sodom and Gomorrah, burning them up with fire as an example to those whose way of life might in the future be unpleasing to him;"
-        },
-        {
-          "verse": 7,
-          "text": "And kept safe Lot, the upright man, who was deeply troubled by the unclean life of the evil-doers"
-        },
-        {
-          "verse": 8,
-          "text": "(Because the soul of that upright man living among them was pained from day to day by seeing and hearing their crimes):"
-        },
-        {
-          "verse": 9,
-          "text": "The Lord is able to keep the upright safe in the time of testing, and to keep evil-doers under punishment till the day of judging;"
-        },
-        {
-          "verse": 10,
-          "text": "But specially those who go after the unclean desires of the flesh, and make sport of authority. Ready to take chances, uncontrolled, they have no fear of saying evil of those in high places:"
-        },
-        {
-          "verse": 11,
-          "text": "Though the angels, who are greater in strength and power, do not make use of violent language against them before the Lord."
-        },
-        {
-          "verse": 12,
-          "text": "But these men, like beasts without reason, whose natural use is to be taken and put to death, crying out against things of which they have no knowledge, will undergo that same destruction which they are designing for others;"
-        },
-        {
-          "verse": 13,
-          "text": "For the evil which overtakes them is the reward of their evil-doing: such men take their pleasure in the delights of the flesh even in the daytime; they are like the marks of a disease, like poisoned wounds among you, feasting together with you in joy;"
-        },
-        {
-          "verse": 14,
-          "text": "Having eyes full of evil desire, never having enough of sin; turning feeble souls out of the true way; they are children of cursing, whose hearts are well used to bitter envy;"
-        },
-        {
-          "verse": 15,
-          "text": "Turning out of the true way, they have gone wandering in error, after the way of Balaam, the son of Beor, who was pleased to take payment for wrongdoing;"
-        },
-        {
-          "verse": 16,
-          "text": "But his wrongdoing was pointed out to him: an ass, talking with a man's voice, put a stop to the error of the prophet."
-        },
-        {
-          "verse": 17,
-          "text": "These are fountains without water, and mists before a driving storm; for whom the eternal night is kept in store."
-        },
-        {
-          "verse": 18,
-          "text": "For with high-sounding false words, making use of the attraction of unclean desires of the flesh, they get into their power those newly made free from those who are living in error;"
-        },
-        {
-          "verse": 19,
-          "text": "Saying that they will be free, while they themselves are the servants of destruction; because whatever gets the better of a man makes a servant of him."
-        },
-        {
-          "verse": 20,
-          "text": "For if, after they have got free from the unclean things of the world through the knowledge of the Lord and Saviour Jesus Christ, they are again taken in the net and overcome, their last condition is worse than their first."
-        },
-        {
-          "verse": 21,
-          "text": "For it would have been better for them to have had no knowledge of the way of righteousness, than to go back again from the holy law which was given to them, after having knowledge of it."
-        },
-        {
-          "verse": 22,
-          "text": "They are an example of that true saying, The dog has gone back to the food it had put out, and the pig which had been washed to its rolling in the dirty earth."
-        }
-      ],
-      "totalVerses": 22,
-      "footnotes": []
+      "notes": [
+        "In the beginning of time, some of theangelswho lived inheavenwith God turned against him. SeeJude 1:6.",
+        "SeeGenesis 6:1-7:24.",
+        "SeeGenesis 18:16-19:29.",
+        "Balaam caused the Israelites to do bad things. SeeNumbers 22-24;Deuteronomy 23:4-5;Revelation 2:14.",
+        "SeeProverbs 26:11."
+      ]
     },
     {
-      "book": "2 Peter",
       "chapter": 3,
       "title": "2 Peter 3",
-      "subtitle": "2 Peter Chapter 3",
+      "subtitle": "",
+      "totalVerses": 18,
+      "sourceUrl": "https://www.easyenglish.bible/bible/easy/2-peter/3/",
       "sections": [
         {
-          "heading": "2 Peter Chapter 3",
+          "heading": "The Lord Jesus will certainly return to this world",
           "items": [
             [
               {
                 "verse": 1,
-                "text": "My loved ones, this is now my second letter to you, and in this as in the first, I am attempting to keep your true minds awake;"
+                "text": "My friends, this is the second letter that I have written to you. I have written both these letters to help you to understand some things. You already know these things. Now I want you to think about them carefully."
               },
               {
                 "verse": 2,
-                "text": "So that you may keep in mind the words of the holy prophets in the past, and the law of the Lord and Saviour which was given to you by his Apostles."
-              },
+                "text": "I want you to remember the messages from God that his own prophets spoke a long time ago. Also, I want you to remember what our Lord Jesus told you to do. He is the one who saves us. He sent us, his apostles, to teach you his message."
+              }
+            ],
+            [
               {
                 "verse": 3,
-                "text": "Having first of all the knowledge that in the last days there will be men who, ruled by their evil desires, will make sport of holy things,"
+                "text": "The first thing that you should understand is this. In the last days of this world, some people will laugh at you because you believe in God. These people will do whatever bad things they want to do."
               },
               {
                 "verse": 4,
-                "text": "Saying, Where is the hope of his coming? From the death of the fathers till now everything has gone on as it was from the making of the world."
+                "text": "They will say, ‘Christ promised that he would return to this world. But he has not returned! Our ancestors have already died, but since God made the world in the beginning, nothing has changed.’"
               }
             ],
             [
               {
                 "verse": 5,
-                "text": "But in taking this view they put out of their minds the memory that in the old days there was a heaven, and an earth lifted out of the water and circled by water, by the word of God;"
+                "text": "These people choose to forget things that they really know. A long time ago, God spoke his word and he made the sky and the earth. He caused land to come up through water. He made the land to be separate from the water."
               },
               {
                 "verse": 6,
-                "text": "And that the world which then was came to an end through the overflowing of the waters."
+                "text": "Also, God used water to destroy that same world long ago. He spoke his word and he covered the land with water."
               },
               {
                 "verse": 7,
-                "text": "But the present heaven and the present earth have been kept for destruction by fire, which is waiting for them on the day of the judging and destruction of evil men."
-              },
+                "text": "But God has also spoken his word to say what will happen to the world in a future time. The sky and the earth that we see now will continue for a time. But God is keeping them until the day when he will destroy them with fire. On that day he will judge all people. He will destroy the people who have turned away from him."
+              }
+            ]
+          ]
+        },
+        {
+          "heading": "Christians must be ready for Christ to return",
+          "items": [
+            [
               {
                 "verse": 8,
-                "text": "But, my loved ones, keep in mind this one thing, that with the Lord one day is the same as a thousand years, and a thousand years are no more than one day."
+                "text": "My friends, here is one thing that you must remember. In the Lord God's mind, one day and 1,000 years are the same. For him, 1,000 years is like a single day."
+              },
+              {
+                "verse": 9,
+                "text": "The Lord is not being slow to do what he has promised to do. Some people may think that he is being slow to do it. But he is being patient with you. He does not want to destroy anyone. He wants all people to turn away from the wrong things that they do."
               }
             ],
             [
               {
-                "verse": 9,
-                "text": "The Lord is not slow in keeping his word, as he seems to some, but he is waiting in mercy for you, not desiring the destruction of any, but that all may be turned from their evil ways."
-              },
-              {
                 "verse": 10,
-                "text": "But the day of the Lord will come like a thief; and in that day the heavens will be rolled up with a great noise, and the substance of the earth will be changed by violent heat, and the world and everything in it will be burned up."
-              },
+                "text": "The great day of the Lord will suddenly happen. That will surprise people, like when someone comes to rob them. There will be a very loud noise in the sky. The whole sky will go away. Fire will burn the whole universe and it will destroy everything. The earth and everything that people have done on it will then be in the open."
+              }
+            ],
+            [
               {
                 "verse": 11,
-                "text": "Seeing then that all these things are coming to such an end, what sort of persons is it right for you to be, in all holy behaviour and righteousness,"
+                "text": "Certainly, God will destroy everything in this way one day. So think about how you should live now. You should be the kind of people that please God. You should show that you belong to God."
               },
               {
                 "verse": 12,
-                "text": "Looking for and truly desiring the coming of the day of God, when the heavens will come to an end through fire, and the substance of the earth will be changed by the great heat?"
+                "text": "Yes, you should continue to obey God while you are waiting for Christ to return. God has chosen that day. Try to live in a way that will make that day come soon. On that day, fire will completely burn the whole sky so that it is no longer there. Heat will cause the universe to melt."
+              },
+              {
+                "verse": 13,
+                "text": "But God has promised to make a new sky and a new earth. That is what we are waiting for. That will be a home for everything that is good and right."
+              }
+            ]
+          ]
+        },
+        {
+          "heading": "Peter tells Christians to be faithful to God",
+          "items": [
+            [
+              {
+                "verse": 14,
+                "text": "So, my friends, live in a good way, because you are waiting for these things to happen. Try very much to do what makes God happy. Then, when you meet God, he will see that you are clean. He will see that you have peace in your minds."
               }
             ],
             [
               {
-                "verse": 13,
-                "text": "But having faith in his word, we are looking for a new heaven and a new earth, which will be the resting-place of righteousness."
-              },
-              {
-                "verse": 14,
-                "text": "For this reason, my loved ones, as you are looking for these things, take great care that when he comes you may be in peace before him, free from sin and every evil thing."
-              },
-              {
                 "verse": 15,
-                "text": "And be certain that the long waiting of the Lord is for salvation; even as our brother Paul has said in his letters to you, from the wisdom which was given to him;"
+                "text": "Remember that our Lord wants to save people from their sins. That is why he is now waiting patiently for people to turn to him before he will return. Paul has also written to you about these things. He is our friend that we love like a brother. God helped him to understand these things."
               },
               {
                 "verse": 16,
-                "text": "And as he said in all his letters, which had to do with these things; in which are some hard sayings, so that, like the rest of the holy Writings, they are twisted by those who are uncertain and without knowledge, to the destruction of their souls."
+                "text": "He wrote about them in all his letters. Some things that he has written are difficult for people to understand. Some people have weak minds and they are not sure about what they believe. They explain Paul's teaching in a way that deceives people. They also explain other things in the Bible wrongly. As a result, those people will destroy themselves and God will punish them."
               }
             ],
             [
               {
                 "verse": 17,
-                "text": "For this reason, my loved ones, having knowledge of these things before they take place, take care that you are not turned away by the error of the uncontrolled, so falling from your true faith."
+                "text": "My friends, you already know about these false teachers. So be very careful that you do not believe those bad people. Do not let them lead you away from God. You know what is true, so do not leave that safe place."
               },
               {
                 "verse": 18,
-                "text": "But be increased in grace and in the knowledge of our Lord and Saviour Jesus Christ. May he have glory now and for ever. So be it."
+                "text": "Instead, you must grow as believers in our Lord Jesus Christ, who saves us. Continue to know him better and better. He will be kind to you and he will help you more and more. We praise him as he deserves! He is great now and he will be great for ever!"
               }
             ]
           ]
         }
       ],
-      "verses": [
-        {
-          "verse": 1,
-          "text": "My loved ones, this is now my second letter to you, and in this as in the first, I am attempting to keep your true minds awake;"
-        },
-        {
-          "verse": 2,
-          "text": "So that you may keep in mind the words of the holy prophets in the past, and the law of the Lord and Saviour which was given to you by his Apostles."
-        },
-        {
-          "verse": 3,
-          "text": "Having first of all the knowledge that in the last days there will be men who, ruled by their evil desires, will make sport of holy things,"
-        },
-        {
-          "verse": 4,
-          "text": "Saying, Where is the hope of his coming? From the death of the fathers till now everything has gone on as it was from the making of the world."
-        },
-        {
-          "verse": 5,
-          "text": "But in taking this view they put out of their minds the memory that in the old days there was a heaven, and an earth lifted out of the water and circled by water, by the word of God;"
-        },
-        {
-          "verse": 6,
-          "text": "And that the world which then was came to an end through the overflowing of the waters."
-        },
-        {
-          "verse": 7,
-          "text": "But the present heaven and the present earth have been kept for destruction by fire, which is waiting for them on the day of the judging and destruction of evil men."
-        },
-        {
-          "verse": 8,
-          "text": "But, my loved ones, keep in mind this one thing, that with the Lord one day is the same as a thousand years, and a thousand years are no more than one day."
-        },
-        {
-          "verse": 9,
-          "text": "The Lord is not slow in keeping his word, as he seems to some, but he is waiting in mercy for you, not desiring the destruction of any, but that all may be turned from their evil ways."
-        },
-        {
-          "verse": 10,
-          "text": "But the day of the Lord will come like a thief; and in that day the heavens will be rolled up with a great noise, and the substance of the earth will be changed by violent heat, and the world and everything in it will be burned up."
-        },
-        {
-          "verse": 11,
-          "text": "Seeing then that all these things are coming to such an end, what sort of persons is it right for you to be, in all holy behaviour and righteousness,"
-        },
-        {
-          "verse": 12,
-          "text": "Looking for and truly desiring the coming of the day of God, when the heavens will come to an end through fire, and the substance of the earth will be changed by the great heat?"
-        },
-        {
-          "verse": 13,
-          "text": "But having faith in his word, we are looking for a new heaven and a new earth, which will be the resting-place of righteousness."
-        },
-        {
-          "verse": 14,
-          "text": "For this reason, my loved ones, as you are looking for these things, take great care that when he comes you may be in peace before him, free from sin and every evil thing."
-        },
-        {
-          "verse": 15,
-          "text": "And be certain that the long waiting of the Lord is for salvation; even as our brother Paul has said in his letters to you, from the wisdom which was given to him;"
-        },
-        {
-          "verse": 16,
-          "text": "And as he said in all his letters, which had to do with these things; in which are some hard sayings, so that, like the rest of the holy Writings, they are twisted by those who are uncertain and without knowledge, to the destruction of their souls."
-        },
-        {
-          "verse": 17,
-          "text": "For this reason, my loved ones, having knowledge of these things before they take place, take care that you are not turned away by the error of the uncontrolled, so falling from your true faith."
-        },
-        {
-          "verse": 18,
-          "text": "But be increased in grace and in the knowledge of our Lord and Saviour Jesus Christ. May he have glory now and for ever. So be it."
-        }
-      ],
-      "totalVerses": 18,
-      "footnotes": []
+      "notes": [
+        "SeeGenesis 1:1-10.",
+        "SeeGenesis 6:9-7:24.",
+        "After fire has destroyed everything else, nothing will hide the things that people have done.",
+        "SeeRevelation 21:1-22:21."
+      ]
     }
   ]
 }

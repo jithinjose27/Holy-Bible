@@ -1,9 +1,6 @@
 {
-  "book": "Ecclesiastes",
   "bookId": "ECC",
-  "totalChapters": 12,
-  "totalQuestions": 120,
-  "questionsPerChapter": 10,
+  "bookName": "Ecclesiastes",
   "chapters": {
     "1": [
       {
@@ -11,150 +8,150 @@
         "questionNumber": 1,
         "question": "According to Ecclesiastes 1:1, what is the opening statement or setting of this chapter?",
         "options": [
-          "It records: “The words of the Preacher, the son of David, king in Jerusalem.”",
+          "It records: “These are the words of the Teacher, David's son, who ruled as kin...”",
           "It begins with a prayer of thanksgiving for deliverance in Ecclesiastes",
           "It opens with a formal census and counting of the congregation",
           "It records a severe judgment pronounced against neighboring nations"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "It records: “The words of the Preacher, the son of David, king in Jerusalem.”",
+        "correctAnswer": "It records: “These are the words of the Teacher, David's son, who ruled as kin...”",
         "reference": "Ecclesiastes 1:1",
-        "explanation": "The chapter begins directly with the statement: 'The words of the Preacher, the son of David, king in Jerusalem.'."
+        "explanation": "The chapter begins directly with the statement: 'These are the words of the Teacher, David's son, who ruled as king in Jerusalem. 2 The Teacher says,‘Nothing has a purpose.Nothing that ever happens seems to have a purpose.’Everything continues in the same way 3 People work very hard while they live on the earth.But in the end, what do they receive in return for their work? 4 Old people die and then their children live after them.But the earth continues and it never changes. 5 The sun rises in the morningand it disappears in the evening.Then it quickly moves to rise again the next morning. 6 The wind blows to the south.Then it turns to the north.It blows in every direction.Then it starts again. 7 All rivers pour water into the sea,but the sea does not become full.The water returns to the rivers and it all happens again. 8 Everything continues in the same way.There is nothing important to talk about.Nothing that we see is enough to make us happy.There are always more things that we want to hear. 9 Things that are happening now will continue to happen in the future.What people have done beforeother people will do again.There is nothing truly new anywhere on the earth. 10 People may say, ‘Look! Here is something new!’But really it happened long ago,before we were born. 11 People do not remember things that happened in the past.In the future, people will not remember what has happened either.Wisdom has no purpose 12 I, the Teacher, ruled Israel as king in Jerusalem. 13 I decided to study everything that happens on the earth. I used wisdom to try to understand these things. I realized that God has given people hard work to do, which causes them to suffer. 14 I thought about all the things that people do on the earth. I realized that all these things have no purpose. It is like somebody who tries to catch the wind.1:12 15 If someone has bent something,you cannot always make it straight again.You cannot count things,if they are not there.1:15 16 I said to myself, ‘Listen! I have become very wise! I am much wiser than any of the kings who ruled in Jerusalem before me. I know a lot more things than they ever did!’ 17 So I decided to study how much wisdom and knowledge really help a person. I wanted to learn if it was better than someone who only does foolish things. But this was also useless, like somebody who tries to catch the wind. 18 The more wisdom you have,the more you will worry.The more you learn,the more you suffer.1:18'."
       },
       {
         "id": "ecc-1-q2",
         "questionNumber": 2,
         "question": "What key instruction, event, or declaration is set forth in Ecclesiastes 1:2?",
         "options": [
-          "“The sun comes up and the sun goes down,...”",
-          "“All is to no purpose, said the Preacher, all the ways...”",
-          "“That which has been, is that which is to...”",
+          "“The sun rises in the morning and it disappears...”",
+          "“The Teacher says, ‘Nothing has a purpose. Nothing that ever happens...”",
+          "“Things that are happening now will continue to happen...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“All is to no purpose, said the Preacher, all the ways...”",
+        "correctAnswer": "“The Teacher says, ‘Nothing has a purpose. Nothing that ever happens...”",
         "reference": "Ecclesiastes 1:2",
-        "explanation": "Ecclesiastes 1:2 records: 'All is to no purpose, said the Preacher, all the ways of man are to no purpose.'."
+        "explanation": "Ecclesiastes 1:2 records: 'The Teacher says, ‘Nothing has a purpose. Nothing that ever happens seems to have a purpose.’'."
       },
       {
         "id": "ecc-1-q3",
         "questionNumber": 3,
         "question": "What significant action or revelation occurs in Ecclesiastes 1:3?",
         "options": [
-          "“The wind goes to the south, turning back again...”",
-          "“Is there anything of which men say, See, this...”",
-          "“What is a man profited by all his work which he...”",
+          "“The wind blows to the south. Then it turns...”",
+          "“People may say, ‘Look! Here is something new!’ But...”",
+          "“People work very hard while they live on the earth. But...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“What is a man profited by all his work which he...”",
+        "correctAnswer": "“People work very hard while they live on the earth. But...”",
         "reference": "Ecclesiastes 1:3",
-        "explanation": "Ecclesiastes 1:3 records: 'What is a man profited by all his work which he does under the sun?'."
+        "explanation": "Ecclesiastes 1:3 records: 'People work very hard while they live on the earth. But in the end, what do they receive in return for their work?'."
       },
       {
         "id": "ecc-1-q4",
         "questionNumber": 4,
         "question": "What truth or description is highlighted in Ecclesiastes 1:4?",
         "options": [
-          "“All the rivers go down to the sea, but...”",
-          "“There is no memory of those who have gone...”",
+          "“All rivers pour water into the sea, but the...”",
+          "“People do not remember things that happened in the...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“One generation goes and another comes; but the earth is for ever.”"
+          "“Old people die and then their children live after them. But...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“One generation goes and another comes; but the earth is for ever.”",
+        "correctAnswer": "“Old people die and then their children live after them. But...”",
         "reference": "Ecclesiastes 1:4",
-        "explanation": "Ecclesiastes 1:4 records: 'One generation goes and another comes; but the earth is for ever.'."
+        "explanation": "Ecclesiastes 1:4 records: 'Old people die and then their children live after them. But the earth continues and it never changes.'."
       },
       {
         "id": "ecc-1-q5",
         "questionNumber": 5,
         "question": "According to the text, what happened or was commanded in Ecclesiastes 1:5?",
         "options": [
-          "“The sun comes up and the sun goes down, and goes...”",
-          "“All things are full of weariness; man may not...”",
-          "“I, the Preacher, was king over Israel in Jerusalem.”",
+          "“The sun rises in the morning and it disappears in the...”",
+          "“Everything continues in the same way. There is nothing...”",
+          "“I, the Teacher, ruled Israel as king in Jerusalem.”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“The sun comes up and the sun goes down, and goes...”",
+        "correctAnswer": "“The sun rises in the morning and it disappears in the...”",
         "reference": "Ecclesiastes 1:5",
-        "explanation": "Ecclesiastes 1:5 records: 'The sun comes up and the sun goes down, and goes quickly back to the place where he came up.'."
+        "explanation": "Ecclesiastes 1:5 records: 'The sun rises in the morning and it disappears in the evening. Then it quickly moves to rise again the next morning.'."
       },
       {
         "id": "ecc-1-q6",
         "questionNumber": 6,
         "question": "What central message or instruction is delivered in Ecclesiastes 1:6?",
         "options": [
-          "“That which has been, is that which is to...”",
-          "“The wind goes to the south, turning back again to the...”",
-          "“And I gave my heart to searching out in...”",
+          "“Things that are happening now will continue to happen...”",
+          "“The wind blows to the south. Then it turns to the...”",
+          "“I decided to study everything that happens on the...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“The wind goes to the south, turning back again to the...”",
+        "correctAnswer": "“The wind blows to the south. Then it turns to the...”",
         "reference": "Ecclesiastes 1:6",
-        "explanation": "Ecclesiastes 1:6 records: 'The wind goes to the south, turning back again to the north; circling round for ever.'."
+        "explanation": "Ecclesiastes 1:6 records: 'The wind blows to the south. Then it turns to the north. It blows in every direction. Then it starts again.'."
       },
       {
         "id": "ecc-1-q7",
         "questionNumber": 7,
         "question": "What detail regarding God's work, covenant, or people is given in Ecclesiastes 1:7?",
         "options": [
-          "“Is there anything of which men say, See, this...”",
-          "“I have seen all the works which are done...”",
-          "“All the rivers go down to the sea, but the sea...”",
+          "“People may say, ‘Look! Here is something new!’ But...”",
+          "“I thought about all the things that people do...”",
+          "“All rivers pour water into the sea, but the sea does...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“All the rivers go down to the sea, but the sea...”",
+        "correctAnswer": "“All rivers pour water into the sea, but the sea does...”",
         "reference": "Ecclesiastes 1:7",
-        "explanation": "Ecclesiastes 1:7 records: 'All the rivers go down to the sea, but the sea is not full; to the place where the rivers go, there they go again.'."
+        "explanation": "Ecclesiastes 1:7 records: 'All rivers pour water into the sea, but the sea does not become full. The water returns to the rivers and it all happens again.'."
       },
       {
         "id": "ecc-1-q8",
         "questionNumber": 8,
         "question": "What phrase or account is recorded in Ecclesiastes 1:8?",
         "options": [
-          "“There is no memory of those who have gone...”",
-          "“That which is bent may not be made straight,...”",
+          "“People do not remember things that happened in the...”",
+          "“If someone has bent something, you cannot always make...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“All things are full of weariness; man may not give their...”"
+          "“Everything continues in the same way. There is nothing important to...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“All things are full of weariness; man may not give their...”",
+        "correctAnswer": "“Everything continues in the same way. There is nothing important to...”",
         "reference": "Ecclesiastes 1:8",
-        "explanation": "Ecclesiastes 1:8 records: 'All things are full of weariness; man may not give their story: the eye has never enough of its seeing, or the ear of its hearing.'."
+        "explanation": "Ecclesiastes 1:8 records: 'Everything continues in the same way. There is nothing important to talk about. Nothing that we see is enough to make us happy. There are always more things that we want to hear.'."
       },
       {
         "id": "ecc-1-q9",
         "questionNumber": 9,
         "question": "How does the passage describe the circumstances or people in Ecclesiastes 1:9?",
         "options": [
-          "“That which has been, is that which is to be, and...”",
-          "“I, the Preacher, was king over Israel in Jerusalem.”",
-          "“I said to my heart, See, I have become...”",
+          "“Things that are happening now will continue to happen in the...”",
+          "“I, the Teacher, ruled Israel as king in Jerusalem.”",
+          "“I said to myself, ‘Listen! I have become very...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“That which has been, is that which is to be, and...”",
+        "correctAnswer": "“Things that are happening now will continue to happen in the...”",
         "reference": "Ecclesiastes 1:9",
-        "explanation": "Ecclesiastes 1:9 records: 'That which has been, is that which is to be, and that which has been done, is that which will be done, and there is no new thing under the sun.'."
+        "explanation": "Ecclesiastes 1:9 records: 'Things that are happening now will continue to happen in the future. What people have done before other people will do again. There is nothing truly new anywhere on the earth.'."
       },
       {
         "id": "ecc-1-q10",
         "questionNumber": 10,
         "question": "In the concluding portion of the chapter, what takes place in Ecclesiastes 1:10?",
         "options": [
-          "“And I gave my heart to searching out in...”",
-          "“Is there anything of which men say, See, this is new?...”",
-          "“And I gave my heart to getting knowledge of...”",
+          "“I decided to study everything that happens on the...”",
+          "“People may say, ‘Look! Here is something new!’ But really it...”",
+          "“So I decided to study how much wisdom and...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“Is there anything of which men say, See, this is new?...”",
+        "correctAnswer": "“People may say, ‘Look! Here is something new!’ But really it...”",
         "reference": "Ecclesiastes 1:10",
-        "explanation": "Ecclesiastes 1:10 records: 'Is there anything of which men say, See, this is new? It has been in the old time which was before us.'."
+        "explanation": "Ecclesiastes 1:10 records: 'People may say, ‘Look! Here is something new!’ But really it happened long ago, before we were born.'."
       }
     ],
     "2": [
@@ -163,150 +160,150 @@
         "questionNumber": 1,
         "question": "According to Ecclesiastes 2:1, what is the opening statement or setting of this chapter?",
         "options": [
-          "It records: “I said in my heart, I will give you joy for a test; so take your ...”",
+          "It records: “I said to myself, ‘I will enjoy the good things of life. I will s...”",
           "It begins with a prayer of thanksgiving for deliverance in Ecclesiastes",
           "It opens with a formal census and counting of the congregation",
           "It records a severe judgment pronounced against neighboring nations"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "It records: “I said in my heart, I will give you joy for a test; so take your ...”",
+        "correctAnswer": "It records: “I said to myself, ‘I will enjoy the good things of life. I will s...”",
         "reference": "Ecclesiastes 2:1",
-        "explanation": "The chapter begins directly with the statement: 'I said in my heart, I will give you joy for a test; so take your pleasure--but it was to no purpose.'."
+        "explanation": "The chapter begins directly with the statement: 'I said to myself, ‘I will enjoy the good things of life. I will see if that helps me to be happy.’ But I realized that this too had no purpose.'."
       },
       {
         "id": "ecc-2-q2",
         "questionNumber": 2,
         "question": "What key instruction, event, or declaration is set forth in Ecclesiastes 2:2?",
         "options": [
-          "“I made myself gardens and fruit gardens, planting in...”",
-          "“Of laughing I said, It is foolish; and of joy--What use...”",
-          "“And I became great; increasing more than all who...”",
+          "“I made gardens and fields of trees. I planted...”",
+          "“I said, ‘It is foolish to laugh all the time. If...”",
+          "“As a result, I was greater than anyone who...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“Of laughing I said, It is foolish; and of joy--What use...”",
+        "correctAnswer": "“I said, ‘It is foolish to laugh all the time. If...”",
         "reference": "Ecclesiastes 2:2",
-        "explanation": "Ecclesiastes 2:2 records: 'Of laughing I said, It is foolish; and of joy--What use is it?'."
+        "explanation": "Ecclesiastes 2:2 records: 'I said, ‘It is foolish to laugh all the time. If I only try to please myself, it does not really help me.’'."
       },
       {
         "id": "ecc-2-q3",
         "questionNumber": 3,
         "question": "What significant action or revelation occurs in Ecclesiastes 2:4?",
         "options": [
-          "“I got men-servants and women-servants, and they gave birth...”",
-          "“Then I saw all the works which my hands...”",
-          "“I undertook great works, building myself houses and planting vine-gardens.”",
+          "“I bought male slaves and female slaves. Their children...”",
+          "“Then I thought about everything that I had done,...”",
+          "“I also did a lot of great things for myself. I...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“I undertook great works, building myself houses and planting vine-gardens.”",
+        "correctAnswer": "“I also did a lot of great things for myself. I...”",
         "reference": "Ecclesiastes 2:4",
-        "explanation": "Ecclesiastes 2:4 records: 'I undertook great works, building myself houses and planting vine-gardens.'."
+        "explanation": "Ecclesiastes 2:4 records: 'I also did a lot of great things for myself. I built houses. I planted vineyards.'."
       },
       {
         "id": "ecc-2-q4",
         "questionNumber": 4,
         "question": "What truth or description is highlighted in Ecclesiastes 2:6?",
         "options": [
-          "“And I became great; increasing more than all who...”",
-          "“Then I saw that wisdom is better than foolish...”",
+          "“As a result, I was greater than anyone who...”",
+          "“I realized that it is better to be wise...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“I made pools to give water for the woods with their...”"
+          "“I made large pools of water. I used the water to...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“I made pools to give water for the woods with their...”",
+        "correctAnswer": "“I made large pools of water. I used the water to...”",
         "reference": "Ecclesiastes 2:6",
-        "explanation": "Ecclesiastes 2:6 records: 'I made pools to give water for the woods with their young trees.'."
+        "explanation": "Ecclesiastes 2:6 records: 'I made large pools of water. I used the water to help my trees to grow well.'."
       },
       {
         "id": "ecc-2-q5",
         "questionNumber": 5,
         "question": "According to the text, what happened or was commanded in Ecclesiastes 2:8?",
         "options": [
-          "“I got together silver and gold and the wealth of kings...”",
-          "“Then I saw all the works which my hands...”",
-          "“Then said I in my heart: As it comes...”",
+          "“I stored a lot of silver and gold for myself. Other...”",
+          "“Then I thought about everything that I had done,...”",
+          "“Then I thought, ‘I will also die, as foolish...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“I got together silver and gold and the wealth of kings...”",
+        "correctAnswer": "“I stored a lot of silver and gold for myself. Other...”",
         "reference": "Ecclesiastes 2:8",
-        "explanation": "Ecclesiastes 2:8 records: 'I got together silver and gold and the wealth of kings and of countries. I got makers of song, male and female; and the delights of the sons of men--girls of all sorts to be my brides.'."
+        "explanation": "Ecclesiastes 2:8 records: 'I stored a lot of silver and gold for myself. Other kings and rulers paid me with many valuable things. I had men and women who would sing for me. I had many beautiful slave wives to give me as much pleasure as any man could want.'."
       },
       {
         "id": "ecc-2-q6",
         "questionNumber": 6,
         "question": "What central message or instruction is delivered in Ecclesiastes 2:10?",
         "options": [
-          "“Then I saw that wisdom is better than foolish...”",
-          "“And nothing which was desired by my eyes did I keep...”",
-          "“So I was hating life, because everything under the...”",
+          "“I realized that it is better to be wise...”",
+          "“If I saw something that I wanted I took it for...”",
+          "“So I hated life. Everything that happens on the...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“And nothing which was desired by my eyes did I keep...”",
+        "correctAnswer": "“If I saw something that I wanted I took it for...”",
         "reference": "Ecclesiastes 2:10",
-        "explanation": "Ecclesiastes 2:10 records: 'And nothing which was desired by my eyes did I keep from them; I did not keep any joy from my heart, because my heart took pleasure in all my work, and this was my reward.'."
+        "explanation": "Ecclesiastes 2:10 records: 'If I saw something that I wanted I took it for myself. If something would give me pleasure, I did it. So all my work made me very happy. My hard work gave me things to enjoy.'."
       },
       {
         "id": "ecc-2-q7",
         "questionNumber": 7,
         "question": "What detail regarding God's work, covenant, or people is given in Ecclesiastes 2:12?",
         "options": [
-          "“Then said I in my heart: As it comes...”",
-          "“And who is to say if that man will...”",
-          "“And I went again in search of wisdom and of foolish...”",
+          "“Then I thought, ‘I will also die, as foolish...”",
+          "“The next king may be a wise man, or...”",
+          "“Then I decided to think about wisdom. I also thought about...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“And I went again in search of wisdom and of foolish...”",
+        "correctAnswer": "“Then I decided to think about wisdom. I also thought about...”",
         "reference": "Ecclesiastes 2:12",
-        "explanation": "Ecclesiastes 2:12 records: 'And I went again in search of wisdom and of foolish ways. What may the man do who comes after the king? The thing which he has done before.'."
+        "explanation": "Ecclesiastes 2:12 records: 'Then I decided to think about wisdom. I also thought about foolish ways to live. I thought, ‘The next king will not do any more than I have already done.’'."
       },
       {
         "id": "ecc-2-q8",
         "questionNumber": 8,
         "question": "What phrase or account is recorded in Ecclesiastes 2:14?",
         "options": [
-          "“So I was hating life, because everything under the...”",
-          "“Because there is a man whose work has been...”",
+          "“So I hated life. Everything that happens on the...”",
+          "“Some people are very wise and clever. They use...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“The wise man's eyes are in his head, but the foolish...”"
+          "“Wise people can see where they are going. Foolish people walk...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“The wise man's eyes are in his head, but the foolish...”",
+        "correctAnswer": "“Wise people can see where they are going. Foolish people walk...”",
         "reference": "Ecclesiastes 2:14",
-        "explanation": "Ecclesiastes 2:14 records: 'The wise man's eyes are in his head, but the foolish man goes walking in the dark; but still I saw that the same event comes to them all.'."
+        "explanation": "Ecclesiastes 2:14 records: 'Wise people can see where they are going. Foolish people walk in the dark. But at the end of their lives, there is no difference. They both die.'."
       },
       {
         "id": "ecc-2-q9",
         "questionNumber": 9,
         "question": "How does the passage describe the circumstances or people in Ecclesiastes 2:16?",
         "options": [
-          "“Of the wise man, as of the foolish man, there is...”",
-          "“And who is to say if that man will...”",
-          "“All his days are sorrow, and his work is...”",
+          "“People forget about wise people as quickly as they forget about...”",
+          "“The next king may be a wise man, or...”",
+          "“Every day, their work causes their bodies to suffer....”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“Of the wise man, as of the foolish man, there is...”",
+        "correctAnswer": "“People forget about wise people as quickly as they forget about...”",
         "reference": "Ecclesiastes 2:16",
-        "explanation": "Ecclesiastes 2:16 records: 'Of the wise man, as of the foolish man, there is no memory for ever, seeing that those who now are will have gone from memory in the days to come. See how death comes to the wise as to the foolish!'."
+        "explanation": "Ecclesiastes 2:16 records: 'People forget about wise people as quickly as they forget about fools. One day, nobody will remember any of them. It is true! As fools all have to die, wise people will also die.'."
       },
       {
         "id": "ecc-2-q10",
         "questionNumber": 10,
         "question": "In the concluding portion of the chapter, what takes place in Ecclesiastes 2:18?",
         "options": [
-          "“Because there is a man whose work has been...”",
-          "“Hate had I for all my work which I had done,...”",
-          "“Who may take food or have pleasure without him?”",
+          "“Some people are very wise and clever. They use...”",
+          "“I thought about all the hard work that I have done...”",
+          "“Without God's help, nobody can eat anything or enjoy...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“Hate had I for all my work which I had done,...”",
+        "correctAnswer": "“I thought about all the hard work that I have done...”",
         "reference": "Ecclesiastes 2:18",
-        "explanation": "Ecclesiastes 2:18 records: 'Hate had I for all my work which I had done, because the man who comes after me will have its fruits.'."
+        "explanation": "Ecclesiastes 2:18 records: 'I thought about all the hard work that I have done here on the earth. When I die, all the things that I worked so hard to get will belong to the next king. So I hated all my hard work.'."
       }
     ],
     "3": [
@@ -315,150 +312,150 @@
         "questionNumber": 1,
         "question": "According to Ecclesiastes 3:1, what is the opening statement or setting of this chapter?",
         "options": [
-          "It records: “For everything there is a fixed time, and a time for every busine...”",
+          "It records: “There is a right time for everything. Everything that we do on th...”",
           "It begins with a prayer of thanksgiving for deliverance in Ecclesiastes",
           "It opens with a formal census and counting of the congregation",
           "It records a severe judgment pronounced against neighboring nations"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "It records: “For everything there is a fixed time, and a time for every busine...”",
+        "correctAnswer": "It records: “There is a right time for everything. Everything that we do on th...”",
         "reference": "Ecclesiastes 3:1",
-        "explanation": "The chapter begins directly with the statement: 'For everything there is a fixed time, and a time for every business under the sun.'."
+        "explanation": "The chapter begins directly with the statement: 'There is a right time for everything. Everything that we do on the earth has a proper time.'."
       },
       {
         "id": "ecc-3-q2",
         "questionNumber": 2,
         "question": "What key instruction, event, or declaration is set forth in Ecclesiastes 3:2?",
         "options": [
-          "“A time to take stones away and a time...”",
-          "“A time for birth and a time for death; a time...”",
-          "“What profit has the worker in the work which...”",
+          "“There is a time to throw stones away. There...”",
+          "“There is a time to be born, and there is a...”",
+          "“People work very hard, but what do they receive...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“A time for birth and a time for death; a time...”",
+        "correctAnswer": "“There is a time to be born, and there is a...”",
         "reference": "Ecclesiastes 3:2",
-        "explanation": "Ecclesiastes 3:2 records: 'A time for birth and a time for death; a time for planting and a time for uprooting;'."
+        "explanation": "Ecclesiastes 3:2 records: 'There is a time to be born, and there is a time to die. There is a time to plant seeds. There is a time to pull the plants out of the ground.'."
       },
       {
         "id": "ecc-3-q3",
         "questionNumber": 3,
         "question": "What significant action or revelation occurs in Ecclesiastes 3:4?",
         "options": [
-          "“A time for undoing and a time for stitching;...”",
-          "“He has made everything right in its time; but...”",
-          "“A time for weeping and a time for laughing; a time...”",
+          "“There is a time to tear our clothes. There...”",
+          "“God has chosen a good time for all things...”",
+          "“There is a time to weep. There is a time to...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“A time for weeping and a time for laughing; a time...”",
+        "correctAnswer": "“There is a time to weep. There is a time to...”",
         "reference": "Ecclesiastes 3:4",
-        "explanation": "Ecclesiastes 3:4 records: 'A time for weeping and a time for laughing; a time for sorrow and a time for dancing;'."
+        "explanation": "Ecclesiastes 3:4 records: 'There is a time to weep. There is a time to laugh. There is a time to be sad. There is a time to dance.'."
       },
       {
         "id": "ecc-3-q4",
         "questionNumber": 4,
         "question": "What truth or description is highlighted in Ecclesiastes 3:6?",
         "options": [
-          "“What profit has the worker in the work which...”",
-          "“And for every man to take food and drink,...”",
+          "“People work very hard, but what do they receive...”",
+          "“People should be happy to eat and to drink....”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“A time for search and a time for loss; a time...”"
+          "“There is a time to look for things that you have...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“A time for search and a time for loss; a time...”",
+        "correctAnswer": "“There is a time to look for things that you have...”",
         "reference": "Ecclesiastes 3:6",
-        "explanation": "Ecclesiastes 3:6 records: 'A time for search and a time for loss; a time to keep and a time to give away;'."
+        "explanation": "Ecclesiastes 3:6 records: 'There is a time to look for things that you have lost. There is a time to accept that you have lost them. There is a time to keep things. There is a time to throw things away.'."
       },
       {
         "id": "ecc-3-q5",
         "questionNumber": 5,
         "question": "According to the text, what happened or was commanded in Ecclesiastes 3:8?",
         "options": [
-          "“A time for love and a time for hate; a time...”",
-          "“He has made everything right in its time; but...”",
-          "“Whatever is has been before, and what is to...”",
+          "“There is a time to love. There is a time to...”",
+          "“God has chosen a good time for all things...”",
+          "“Whatever is happening now has happened before. Everything that...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“A time for love and a time for hate; a time...”",
+        "correctAnswer": "“There is a time to love. There is a time to...”",
         "reference": "Ecclesiastes 3:8",
-        "explanation": "Ecclesiastes 3:8 records: 'A time for love and a time for hate; a time for war and a time for peace.'."
+        "explanation": "Ecclesiastes 3:8 records: 'There is a time to love. There is a time to hate. There is a time for war. There is a time for peace. 9 People work very hard, but what do they receive in return? 10 I have seen the difficult work that God has given people to do. He has caused them to be very busy. 11 God has chosen a good time for all things to happen. He has caused people to think about things that will continue for ever. But nobody can completely understand everything that God has done, from the beginning of their lives to the end. 12 So I realized that people should be happy. They should enjoy good things as long as they live. There is nothing better for people to do than that. 13 People should be happy to eat and to drink. They should enjoy the work that they do. All these things are gifts from God. 14 I know that everything that God does continues for ever. Nobody can add anything to it. Nobody can take anything away from it. God does these things so that people will respect his authority. 15 Whatever is happening now has happened before.Everything that will happen in the future has already happened.God causes the same things to happen again and again.3:15Only God knows what will happen in the future 16 I saw something else that happens on the earth. Judges should choose what is right,but instead they choose what is wicked.They should decide what is fair,but they do evil things. 17 I said to myself,‘One day, God will judge everyone, righteous people and wicked people.He has chosen a time for everything.So there is a right time when he will judge people.’ 18 I also thought, ‘God wants people to know that they are like animals. That is why he tests us. 19 The same thing happens to humans as happens to animals. We all breathe for a time and then we die. Humans are no different to animals. Life seems to have no purpose. 20 All living things finally go to the same place. We all come from the dust of the ground. And we all go back to the dust when we die. 21 Do the spirits of humans go up into the sky when we die? Do the spirits of animals go down into the ground? Nobody really knows.’3:203:21 22 So I realized that people should enjoy the work that they do. That is the best thing for us to do. It is what God has provided for us. I think that is best, because nobody can show us what will finally happen to us.'."
       },
       {
         "id": "ecc-3-q6",
         "questionNumber": 6,
         "question": "What central message or instruction is delivered in Ecclesiastes 3:10?",
         "options": [
-          "“And for every man to take food and drink,...”",
-          "“I saw the work which God has put on the sons...”",
-          "“I said in my heart, God will be judge...”",
+          "“People should be happy to eat and to drink....”",
+          "“I have seen the difficult work that God has given people...”",
+          "“I said to myself, ‘One day, God will judge...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“I saw the work which God has put on the sons...”",
+        "correctAnswer": "“I have seen the difficult work that God has given people...”",
         "reference": "Ecclesiastes 3:10",
-        "explanation": "Ecclesiastes 3:10 records: 'I saw the work which God has put on the sons of man.'."
+        "explanation": "Ecclesiastes 3:10 records: 'I have seen the difficult work that God has given people to do. He has caused them to be very busy.'."
       },
       {
         "id": "ecc-3-q7",
         "questionNumber": 7,
         "question": "What detail regarding God's work, covenant, or people is given in Ecclesiastes 3:12?",
         "options": [
-          "“Whatever is has been before, and what is to...”",
-          "“Because the fate of the sons of men and...”",
-          "“I am certain that there is nothing better for a man...”",
+          "“Whatever is happening now has happened before. Everything that...”",
+          "“The same thing happens to humans as happens to...”",
+          "“So I realized that people should be happy. They should enjoy...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“I am certain that there is nothing better for a man...”",
+        "correctAnswer": "“So I realized that people should be happy. They should enjoy...”",
         "reference": "Ecclesiastes 3:12",
-        "explanation": "Ecclesiastes 3:12 records: 'I am certain that there is nothing better for a man than to be glad, and to do good while life is in him.'."
+        "explanation": "Ecclesiastes 3:12 records: 'So I realized that people should be happy. They should enjoy good things as long as they live. There is nothing better for people to do than that.'."
       },
       {
         "id": "ecc-3-q8",
         "questionNumber": 8,
         "question": "What phrase or account is recorded in Ecclesiastes 3:14?",
         "options": [
-          "“I said in my heart, God will be judge...”",
-          "“Who is certain that the spirit of the sons...”",
+          "“I said to myself, ‘One day, God will judge...”",
+          "“Do the spirits of humans go up into the...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“I am certain that whatever God does will be for ever....”"
+          "“I know that everything that God does continues for ever. Nobody...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“I am certain that whatever God does will be for ever....”",
+        "correctAnswer": "“I know that everything that God does continues for ever. Nobody...”",
         "reference": "Ecclesiastes 3:14",
-        "explanation": "Ecclesiastes 3:14 records: 'I am certain that whatever God does will be for ever. No addition may be made to it, nothing may be taken from it; and God has done it so that man may be in fear before him.'."
+        "explanation": "Ecclesiastes 3:14 records: 'I know that everything that God does continues for ever. Nobody can add anything to it. Nobody can take anything away from it. God does these things so that people will respect his authority.'."
       },
       {
         "id": "ecc-3-q9",
         "questionNumber": 9,
         "question": "How does the passage describe the circumstances or people in Ecclesiastes 3:16?",
         "options": [
-          "“And again, I saw under the sun, in the place of...”",
-          "“Because the fate of the sons of men and...”",
-          "“For everything there is a fixed time, and a...”",
+          "“I saw something else that happens on the earth. Judges should...”",
+          "“The same thing happens to humans as happens to...”",
+          "“There is a right time for everything. Everything that...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“And again, I saw under the sun, in the place of...”",
+        "correctAnswer": "“I saw something else that happens on the earth. Judges should...”",
         "reference": "Ecclesiastes 3:16",
-        "explanation": "Ecclesiastes 3:16 records: 'And again, I saw under the sun, in the place of the judges, that evil was there; and in the place of righteousness, that evil was there.'."
+        "explanation": "Ecclesiastes 3:16 records: 'I saw something else that happens on the earth. Judges should choose what is right, but instead they choose what is wicked. They should decide what is fair, but they do evil things.'."
       },
       {
         "id": "ecc-3-q10",
         "questionNumber": 10,
         "question": "In the concluding portion of the chapter, what takes place in Ecclesiastes 3:18?",
         "options": [
-          "“Who is certain that the spirit of the sons...”",
-          "“I said in my heart, It is because of the sons...”",
-          "“A time to put to death and a time...”",
+          "“Do the spirits of humans go up into the...”",
+          "“I also thought, ‘God wants people to know that they are...”",
+          "“There is a time to kill people. There is...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“I said in my heart, It is because of the sons...”",
+        "correctAnswer": "“I also thought, ‘God wants people to know that they are...”",
         "reference": "Ecclesiastes 3:18",
-        "explanation": "Ecclesiastes 3:18 records: 'I said in my heart, It is because of the sons of men, so that God may put them to the test and that they may see themselves as beasts.'."
+        "explanation": "Ecclesiastes 3:18 records: 'I also thought, ‘God wants people to know that they are like animals. That is why he tests us.'."
       }
     ],
     "4": [
@@ -467,150 +464,150 @@
         "questionNumber": 1,
         "question": "According to Ecclesiastes 4:1, what is the opening statement or setting of this chapter?",
         "options": [
-          "It records: “And again I saw all the cruel things which are done under the sun...”",
+          "It records: “I saw again all the ways that people are cruel on the earth. I sa...”",
           "It begins with a prayer of thanksgiving for deliverance in Ecclesiastes",
           "It opens with a formal census and counting of the congregation",
           "It records a severe judgment pronounced against neighboring nations"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "It records: “And again I saw all the cruel things which are done under the sun...”",
+        "correctAnswer": "It records: “I saw again all the ways that people are cruel on the earth. I sa...”",
         "reference": "Ecclesiastes 4:1",
-        "explanation": "The chapter begins directly with the statement: 'And again I saw all the cruel things which are done under the sun; there was the weeping of those who have evil done to them, and they had no comforter: and from the hands of the evil-doers there went out power, but they had no comforter.'."
+        "explanation": "The chapter begins directly with the statement: 'I saw again all the ways that people are cruel on the earth. I saw some people who were crying because cruel people were hurting them. There was nobody who could help them. Nobody could rescue them from those cruel people.'."
       },
       {
         "id": "ecc-4-q2",
         "questionNumber": 2,
         "question": "What key instruction, event, or declaration is set forth in Ecclesiastes 4:2?",
         "options": [
-          "“The foolish man, folding his hands, takes the flesh...”",
-          "“So my praise was for the dead who have gone to...”",
-          "“Two are better than one, because they have a...”",
+          "“Foolish people refuse to work. They sit and they...”",
+          "“I thought about people who are already dead. I decided that...”",
+          "“Two people who work together are better than one...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“So my praise was for the dead who have gone to...”",
+        "correctAnswer": "“I thought about people who are already dead. I decided that...”",
         "reference": "Ecclesiastes 4:2",
-        "explanation": "Ecclesiastes 4:2 records: 'So my praise was for the dead who have gone to their death, more than for the living who still have life.'."
+        "explanation": "Ecclesiastes 4:2 records: 'I thought about people who are already dead. I decided that they are happier than the people who are still alive.'."
       },
       {
         "id": "ecc-4-q3",
         "questionNumber": 3,
         "question": "What significant action or revelation occurs in Ecclesiastes 4:3?",
         "options": [
-          "“One hand full of rest is better than two...”",
-          "“And if one has a fall, the other will...”",
-          "“Yes, happier than the dead or the living seemed he who...”",
+          "“It is good to have only a little food...”",
+          "“If one of them falls down, his friend can...”",
+          "“But people who have not yet been born are even happier!...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“Yes, happier than the dead or the living seemed he who...”",
+        "correctAnswer": "“But people who have not yet been born are even happier!...”",
         "reference": "Ecclesiastes 4:3",
-        "explanation": "Ecclesiastes 4:3 records: 'Yes, happier than the dead or the living seemed he who has not ever been, who has not seen the evil which is done under the sun.'."
+        "explanation": "Ecclesiastes 4:3 records: 'But people who have not yet been born are even happier! They have not seen the evil things that happen on the earth. 4 I also thought about the clever work that people do. I saw that people work hard because they are jealous of each other. They want to do better than other people. I realized that this has no purpose. It is like somebody who tries to catch the wind. 5 Foolish people refuse to work.They sit and they do nothing.So they become hungry and they die. 6 It is good to have only a little food and be happy.It is better than too much hard work that gives you a lot of food.That is as useless as somebody who tries to catch the wind. 7 I thought about something else on the earth that seems to have no purpose. 8 There are people who live alone.They have no friends, children or brothers.They work hard every day.They want to get more riches for themselves.But they are never happy with the things that they have.They should ask themselves,‘Why am I working so hard?Am I helping anybody?I am not doing things that make me happy.’Their work seems to have no purpose.It only brings trouble to their lives.Friends can help each other 9 Two people who work togetherare better than one person who works alone.They can help each other to work well. 10 If one of them falls down,his friend can help him to get up.But it is terrible if you fall down when you are alone.There is nobody who can help you to stand up again. 11 Also, if two people sleep together,they help each other to be warm.But if you sleep alone,it is difficult to be warm. 12 If you are alone, one person might attack you and hurt you.But two people together can help each other to win the fight.If you use three strings to make a rope,it is difficult for anyone to break it. 13 A young man may be very poor. But if he is wise, he is better than a king who is foolish. When the king is old, he may not listen to his friends' advice. 14 A young man who is wise may even become king himself one day. He may have been in prison. He may have been born in a poor family in that kingdom. But he may later rule there as king. 15 I thought about all the people who live on the earth. I realized that one of them would also become king one day. He would rule instead of the other young man who became king. 16 Large crowds of people give him honour as their king. But in future years, nobody will praise him. I realized that this has no purpose. It is like somebody who tries to catch the wind.'."
       },
       {
         "id": "ecc-4-q4",
         "questionNumber": 4,
         "question": "What truth or description is highlighted in Ecclesiastes 4:4?",
         "options": [
-          "“Then I came back, and I saw an example...”",
-          "“So again, if two are sleeping together they are...”",
+          "“I thought about something else on the earth that...”",
+          "“Also, if two people sleep together, they help each...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“And I saw that the cause of all the work and...”"
+          "“I also thought about the clever work that people do. I...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“And I saw that the cause of all the work and...”",
+        "correctAnswer": "“I also thought about the clever work that people do. I...”",
         "reference": "Ecclesiastes 4:4",
-        "explanation": "Ecclesiastes 4:4 records: 'And I saw that the cause of all the work and of everything which is done well was man's envy of his neighbour. This again is to no purpose and a desire for wind.'."
+        "explanation": "Ecclesiastes 4:4 records: 'I also thought about the clever work that people do. I saw that people work hard because they are jealous of each other. They want to do better than other people. I realized that this has no purpose. It is like somebody who tries to catch the wind.'."
       },
       {
         "id": "ecc-4-q5",
         "questionNumber": 5,
         "question": "According to the text, what happened or was commanded in Ecclesiastes 4:5?",
         "options": [
-          "“The foolish man, folding his hands, takes the flesh of his...”",
-          "“It is one who is by himself, without a...”",
-          "“And two attacked by one would be safe, and...”",
+          "“Foolish people refuse to work. They sit and they do nothing....”",
+          "“There are people who live alone. They have no...”",
+          "“If you are alone, one person might attack you...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“The foolish man, folding his hands, takes the flesh of his...”",
+        "correctAnswer": "“Foolish people refuse to work. They sit and they do nothing....”",
         "reference": "Ecclesiastes 4:5",
-        "explanation": "Ecclesiastes 4:5 records: 'The foolish man, folding his hands, takes the flesh of his body for food.'."
+        "explanation": "Ecclesiastes 4:5 records: 'Foolish people refuse to work. They sit and they do nothing. So they become hungry and they die.'."
       },
       {
         "id": "ecc-4-q6",
         "questionNumber": 6,
         "question": "What central message or instruction is delivered in Ecclesiastes 4:6?",
         "options": [
-          "“Two are better than one, because they have a...”",
-          "“One hand full of rest is better than two hands full...”",
-          "“A young man who is poor and wise is...”",
+          "“Two people who work together are better than one...”",
+          "“It is good to have only a little food and be...”",
+          "“A young man may be very poor. But if...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“One hand full of rest is better than two hands full...”",
+        "correctAnswer": "“It is good to have only a little food and be...”",
         "reference": "Ecclesiastes 4:6",
-        "explanation": "Ecclesiastes 4:6 records: 'One hand full of rest is better than two hands full of trouble and desire for wind.'."
+        "explanation": "Ecclesiastes 4:6 records: 'It is good to have only a little food and be happy. It is better than too much hard work that gives you a lot of food. That is as useless as somebody who tries to catch the wind. 7 I thought about something else on the earth that seems to have no purpose. 8 There are people who live alone.They have no friends, children or brothers.They work hard every day.They want to get more riches for themselves.But they are never happy with the things that they have.They should ask themselves,‘Why am I working so hard?Am I helping anybody?I am not doing things that make me happy.’Their work seems to have no purpose.It only brings trouble to their lives.Friends can help each other 9 Two people who work togetherare better than one person who works alone.They can help each other to work well. 10 If one of them falls down,his friend can help him to get up.But it is terrible if you fall down when you are alone.There is nobody who can help you to stand up again. 11 Also, if two people sleep together,they help each other to be warm.But if you sleep alone,it is difficult to be warm. 12 If you are alone, one person might attack you and hurt you.But two people together can help each other to win the fight.If you use three strings to make a rope,it is difficult for anyone to break it. 13 A young man may be very poor. But if he is wise, he is better than a king who is foolish. When the king is old, he may not listen to his friends' advice. 14 A young man who is wise may even become king himself one day. He may have been in prison. He may have been born in a poor family in that kingdom. But he may later rule there as king. 15 I thought about all the people who live on the earth. I realized that one of them would also become king one day. He would rule instead of the other young man who became king. 16 Large crowds of people give him honour as their king. But in future years, nobody will praise him. I realized that this has no purpose. It is like somebody who tries to catch the wind.'."
       },
       {
         "id": "ecc-4-q7",
         "questionNumber": 7,
         "question": "What detail regarding God's work, covenant, or people is given in Ecclesiastes 4:7?",
         "options": [
-          "“And if one has a fall, the other will...”",
-          "“Because out of a prison the young man comes...”",
-          "“Then I came back, and I saw an example of what...”",
+          "“If one of them falls down, his friend can...”",
+          "“A young man who is wise may even become...”",
+          "“I thought about something else on the earth that seems to...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“Then I came back, and I saw an example of what...”",
+        "correctAnswer": "“I thought about something else on the earth that seems to...”",
         "reference": "Ecclesiastes 4:7",
-        "explanation": "Ecclesiastes 4:7 records: 'Then I came back, and I saw an example of what is to no purpose under the sun.'."
+        "explanation": "Ecclesiastes 4:7 records: 'I thought about something else on the earth that seems to have no purpose.'."
       },
       {
         "id": "ecc-4-q8",
         "questionNumber": 8,
         "question": "What phrase or account is recorded in Ecclesiastes 4:8?",
         "options": [
-          "“So again, if two are sleeping together they are...”",
-          "“I saw all the living under the sun round...”",
+          "“Also, if two people sleep together, they help each...”",
+          "“I thought about all the people who live on...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“It is one who is by himself, without a second, and...”"
+          "“There are people who live alone. They have no friends, children...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“It is one who is by himself, without a second, and...”",
+        "correctAnswer": "“There are people who live alone. They have no friends, children...”",
         "reference": "Ecclesiastes 4:8",
-        "explanation": "Ecclesiastes 4:8 records: 'It is one who is by himself, without a second, and without son or brother; but there is no end to all his work, and he has never enough of wealth. For whom, then, am I working and keeping myself from pleasure? This again is to no purpose, and a bitter work.'."
+        "explanation": "Ecclesiastes 4:8 records: 'There are people who live alone. They have no friends, children or brothers. They work hard every day. They want to get more riches for themselves. But they are never happy with the things that they have. They should ask themselves, ‘Why am I working so hard? Am I helping anybody? I am not doing things that make me happy.’ Their work seems to have no purpose. It only brings trouble to their lives.'."
       },
       {
         "id": "ecc-4-q9",
         "questionNumber": 9,
         "question": "How does the passage describe the circumstances or people in Ecclesiastes 4:9?",
         "options": [
-          "“Two are better than one, because they have a good reward...”",
-          "“And two attacked by one would be safe, and...”",
-          "“And again I saw all the cruel things which...”",
+          "“Two people who work together are better than one person who...”",
+          "“If you are alone, one person might attack you...”",
+          "“I saw again all the ways that people are...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“Two are better than one, because they have a good reward...”",
+        "correctAnswer": "“Two people who work together are better than one person who...”",
         "reference": "Ecclesiastes 4:9",
-        "explanation": "Ecclesiastes 4:9 records: 'Two are better than one, because they have a good reward for their work.'."
+        "explanation": "Ecclesiastes 4:9 records: 'Two people who work together are better than one person who works alone. They can help each other to work well.'."
       },
       {
         "id": "ecc-4-q10",
         "questionNumber": 10,
         "question": "In the concluding portion of the chapter, what takes place in Ecclesiastes 4:10?",
         "options": [
-          "“A young man who is poor and wise is...”",
-          "“And if one has a fall, the other will give him...”",
-          "“And again I saw all the cruel things which...”",
+          "“A young man may be very poor. But if...”",
+          "“If one of them falls down, his friend can help him...”",
+          "“I saw again all the ways that people are...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“And if one has a fall, the other will give him...”",
+        "correctAnswer": "“If one of them falls down, his friend can help him...”",
         "reference": "Ecclesiastes 4:10",
-        "explanation": "Ecclesiastes 4:10 records: 'And if one has a fall, the other will give him a hand; but unhappy is the man who is by himself, because he has no helper.'."
+        "explanation": "Ecclesiastes 4:10 records: 'If one of them falls down, his friend can help him to get up. But it is terrible if you fall down when you are alone. There is nobody who can help you to stand up again.'."
       }
     ],
     "5": [
@@ -619,150 +616,150 @@
         "questionNumber": 1,
         "question": "According to Ecclesiastes 5:1, what is the opening statement or setting of this chapter?",
         "options": [
-          "It records: “Put your feet down with care when you go to the house of God, for...”",
+          "It records: “When you go to God's temple, be careful what you do. Listen caref...”",
           "It begins with a prayer of thanksgiving for deliverance in Ecclesiastes",
           "It opens with a formal census and counting of the congregation",
           "It records a severe judgment pronounced against neighboring nations"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "It records: “Put your feet down with care when you go to the house of God, for...”",
+        "correctAnswer": "It records: “When you go to God's temple, be careful what you do. Listen caref...”",
         "reference": "Ecclesiastes 5:1",
-        "explanation": "The chapter begins directly with the statement: 'Put your feet down with care when you go to the house of God, for it is better to give ear than to make the burned offerings of the foolish, whose knowledge is only of doing evil.'."
+        "explanation": "The chapter begins directly with the statement: 'When you go to God's temple, be careful what you do. Listen carefully when you come near to God. Do not offer sacrifices in the way that foolish people do. They do not even know that they are doing something bad.'."
       },
       {
         "id": "ecc-5-q2",
         "questionNumber": 2,
         "question": "What key instruction, event, or declaration is set forth in Ecclesiastes 5:2?",
         "options": [
-          "“It is better not to take an oath than...”",
-          "“Be not unwise with your mouth, and let not your heart...”",
-          "“It is good generally for a country where the...”",
+          "“It is better not to promise anything than to...”",
+          "“You should not speak too soon. Think carefully before you make...”",
+          "“All of them take something for themselves from the...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“Be not unwise with your mouth, and let not your heart...”",
+        "correctAnswer": "“You should not speak too soon. Think carefully before you make...”",
         "reference": "Ecclesiastes 5:2",
-        "explanation": "Ecclesiastes 5:2 records: 'Be not unwise with your mouth, and let not your heart be quick to say anything before God, because God is in heaven and you are on the earth--so let not the number of your words be great.'."
+        "explanation": "Ecclesiastes 5:2 records: 'You should not speak too soon. Think carefully before you make a promise to God. God is in heaven and you are here on the earth. So do not say too much.'."
       },
       {
         "id": "ecc-5-q3",
         "questionNumber": 3,
         "question": "What significant action or revelation occurs in Ecclesiastes 5:4?",
         "options": [
-          "“Because much talk comes from dreams and things of...”",
-          "“When goods are increased, the number of those who...”",
-          "“When you take an oath before God, put it quickly into...”",
+          "“If you dream all the time or if you...”",
+          "“As a person's money becomes more, there are more...”",
+          "“If you make a promise to God, quickly do what you...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“When you take an oath before God, put it quickly into...”",
+        "correctAnswer": "“If you make a promise to God, quickly do what you...”",
         "reference": "Ecclesiastes 5:4",
-        "explanation": "Ecclesiastes 5:4 records: 'When you take an oath before God, put it quickly into effect, because he has no pleasure in the foolish; keep the oath you have taken.'."
+        "explanation": "Ecclesiastes 5:4 records: 'If you make a promise to God, quickly do what you have promised. God is not pleased with foolish people. So give what you have promised to give.'."
       },
       {
         "id": "ecc-5-q4",
         "questionNumber": 4,
         "question": "What truth or description is highlighted in Ecclesiastes 5:6?",
         "options": [
-          "“It is good generally for a country where the...”",
-          "“There is a great evil which I have seen...”",
+          "“All of them take something for themselves from the...”",
+          "“I have seen another terrible thing that happens on...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“Let not your mouth make your flesh do evil. And say...”"
+          "“Do not say things that cause you to do something wrong....”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“Let not your mouth make your flesh do evil. And say...”",
+        "correctAnswer": "“Do not say things that cause you to do something wrong....”",
         "reference": "Ecclesiastes 5:6",
-        "explanation": "Ecclesiastes 5:6 records: 'Let not your mouth make your flesh do evil. And say not before the angel, It was an error. So that God may not be angry with your words and put an end to the work of your hands.'."
+        "explanation": "Ecclesiastes 5:6 records: 'Do not say things that cause you to do something wrong. Do not say to the priest, ‘My promise was a mistake.’ That would make God angry with you. He might destroy everything that you have worked to get for yourself.'."
       },
       {
         "id": "ecc-5-q5",
         "questionNumber": 5,
         "question": "According to the text, what happened or was commanded in Ecclesiastes 5:8?",
         "options": [
-          "“If you see the poor under a cruel yoke, and law...”",
-          "“When goods are increased, the number of those who...”",
-          "“As he came from his mother at birth, so...”",
+          "“You may see a place where poor people are suffering. Powerful...”",
+          "“As a person's money becomes more, there are more...”",
+          "“When people are born, they bring nothing with them....”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“If you see the poor under a cruel yoke, and law...”",
+        "correctAnswer": "“You may see a place where poor people are suffering. Powerful...”",
         "reference": "Ecclesiastes 5:8",
-        "explanation": "Ecclesiastes 5:8 records: 'If you see the poor under a cruel yoke, and law and right being violently overturned in a country, be not surprised, because one authority is keeping watch on another and there are higher than they.'."
+        "explanation": "Ecclesiastes 5:8 records: 'You may see a place where poor people are suffering. Powerful people may be hurting them. Do not be surprised if you see that. The judges may not be doing what is right and fair. That happens because the government's officers have to obey people who are more important than them.'."
       },
       {
         "id": "ecc-5-q6",
         "questionNumber": 6,
         "question": "What central message or instruction is delivered in Ecclesiastes 5:10?",
         "options": [
-          "“There is a great evil which I have seen...”",
-          "“He who has a love for silver never has enough silver,...”",
-          "“All his days are in the dark, and he...”",
+          "“I have seen another terrible thing that happens on...”",
+          "“People who love money never have enough. They may get more...”",
+          "“Even if people are rich, they do not enjoy...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“He who has a love for silver never has enough silver,...”",
+        "correctAnswer": "“People who love money never have enough. They may get more...”",
         "reference": "Ecclesiastes 5:10",
-        "explanation": "Ecclesiastes 5:10 records: 'He who has a love for silver never has enough silver, or he who has love for wealth, enough profit. This again is to no purpose.'."
+        "explanation": "Ecclesiastes 5:10 records: 'People who love money never have enough. They may get more and more valuable things, but they are never happy. This also seems to have no purpose.'."
       },
       {
         "id": "ecc-5-q7",
         "questionNumber": 7,
         "question": "What detail regarding God's work, covenant, or people is given in Ecclesiastes 5:12?",
         "options": [
-          "“As he came from his mother at birth, so...”",
-          "“Every man to whom God has given money and...”",
-          "“The sleep of a working man is sweet, if he has...”",
+          "“When people are born, they bring nothing with them....”",
+          "“God gives some people a lot of money and...”",
+          "“Someone who has worked hard all day will sleep well at...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“The sleep of a working man is sweet, if he has...”",
+        "correctAnswer": "“Someone who has worked hard all day will sleep well at...”",
         "reference": "Ecclesiastes 5:12",
-        "explanation": "Ecclesiastes 5:12 records: 'The sleep of a working man is sweet, if he has little food or much; but to him who is full, sleep will not come.'."
+        "explanation": "Ecclesiastes 5:12 records: 'Someone who has worked hard all day will sleep well at night. That is true even if they have not had much food to eat. But the rich man worries about his riches. So he does not sleep well. 13 I have seen another terrible thing that happens on the earth.Some people may store their riches,but it does not help them in a time of trouble. 14 Something may happen in the futurethat causes their money to disappear.After they die,no money remains for their children. 15 When people are born,they bring nothing with them.When they die,they take nothing away with them.All their hard work finally leaves them with nothing. 16 This is also a terrible thing to happen.People leave this earth with nothing,as they came into it with nothing.All their hard work has been useless,like someone who tries to catch the wind. 17 Even if people are rich, they do not enjoy their food.They suffer all through their lives.They are upset, angry and sick.Enjoy the good things that God gives to you 18 But I realized that there is one good thing for people to do. We should be happy to eat and to drink. And we should enjoy the hard work that we do on the earth. That is what God wants us to do during the short time that he has given us on this earth. 19 God gives some people a lot of money and valuable things. He helps them to enjoy those things and to be happy with their work. All of this is a gift from God. 20 People like that do not think a lot about what has happened in their lives. God helps them to be happy as they are busy with their work.'."
       },
       {
         "id": "ecc-5-q8",
         "questionNumber": 8,
         "question": "What phrase or account is recorded in Ecclesiastes 5:14?",
         "options": [
-          "“All his days are in the dark, and he...”",
-          "“Put your feet down with care when you go...”",
+          "“Even if people are rich, they do not enjoy...”",
+          "“When you go to God's temple, be careful what...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“And I saw the destruction of his wealth by an evil...”"
+          "“Something may happen in the future that causes their money to...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“And I saw the destruction of his wealth by an evil...”",
+        "correctAnswer": "“Something may happen in the future that causes their money to...”",
         "reference": "Ecclesiastes 5:14",
-        "explanation": "Ecclesiastes 5:14 records: 'And I saw the destruction of his wealth by an evil chance; and when he became the father of a son he had nothing in his hand.'."
+        "explanation": "Ecclesiastes 5:14 records: 'Something may happen in the future that causes their money to disappear. After they die, no money remains for their children.'."
       },
       {
         "id": "ecc-5-q9",
         "questionNumber": 9,
         "question": "How does the passage describe the circumstances or people in Ecclesiastes 5:16?",
         "options": [
-          "“And this again is a great evil, that in all points...”",
-          "“Every man to whom God has given money and...”",
-          "“As a dream comes from much business, so the...”",
+          "“This is also a terrible thing to happen. People leave this...”",
+          "“God gives some people a lot of money and...”",
+          "“If you worry about many things, you will have...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“And this again is a great evil, that in all points...”",
+        "correctAnswer": "“This is also a terrible thing to happen. People leave this...”",
         "reference": "Ecclesiastes 5:16",
-        "explanation": "Ecclesiastes 5:16 records: 'And this again is a great evil, that in all points as he came so will he go; and what profit has he in working for the wind?'."
+        "explanation": "Ecclesiastes 5:16 records: 'This is also a terrible thing to happen. People leave this earth with nothing, as they came into it with nothing. All their hard work has been useless, like someone who tries to catch the wind.'."
       },
       {
         "id": "ecc-5-q10",
         "questionNumber": 10,
         "question": "In the concluding portion of the chapter, what takes place in Ecclesiastes 5:18?",
         "options": [
-          "“Put your feet down with care when you go...”",
-          "“This is what I have seen: it is good and fair...”",
-          "“It is better not to take an oath than...”",
+          "“When you go to God's temple, be careful what...”",
+          "“But I realized that there is one good thing for people...”",
+          "“It is better not to promise anything than to...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“This is what I have seen: it is good and fair...”",
+        "correctAnswer": "“But I realized that there is one good thing for people...”",
         "reference": "Ecclesiastes 5:18",
-        "explanation": "Ecclesiastes 5:18 records: 'This is what I have seen: it is good and fair for a man to take meat and drink and to have joy in all his work under the sun, all the days of his life which God has given him; that is his reward.'."
+        "explanation": "Ecclesiastes 5:18 records: 'But I realized that there is one good thing for people to do. We should be happy to eat and to drink. And we should enjoy the hard work that we do on the earth. That is what God wants us to do during the short time that he has given us on this earth.'."
       }
     ],
     "6": [
@@ -771,150 +768,150 @@
         "questionNumber": 1,
         "question": "According to Ecclesiastes 6:1, what is the opening statement or setting of this chapter?",
         "options": [
-          "It records: “There is an evil which I have seen under the sun, and it is hard ...”",
+          "It records: “I have seen another terrible thing that happens on the earth. It ...”",
           "It begins with a prayer of thanksgiving for deliverance in Ecclesiastes",
           "It opens with a formal census and counting of the congregation",
           "It records a severe judgment pronounced against neighboring nations"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "It records: “There is an evil which I have seen under the sun, and it is hard ...”",
+        "correctAnswer": "It records: “I have seen another terrible thing that happens on the earth. It ...”",
         "reference": "Ecclesiastes 6:1",
-        "explanation": "The chapter begins directly with the statement: 'There is an evil which I have seen under the sun, and it is hard on men;'."
+        "explanation": "The chapter begins directly with the statement: 'I have seen another terrible thing that happens on the earth. It causes people to have a lot of trouble.'."
       },
       {
         "id": "ecc-6-q2",
         "questionNumber": 2,
         "question": "What key instruction, event, or declaration is set forth in Ecclesiastes 6:2?",
         "options": [
-          "“Yes, it saw not the sun, and it had...”",
-          "“A man to whom God gives money, wealth, and honour so...”",
-          "“What the eyes see is better than the wandering...”",
+          "“He never sees the light of day. He never...”",
+          "“God may give someone lots of money and valuable things. People...”",
+          "“It is good to enjoy the things that we...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“A man to whom God gives money, wealth, and honour so...”",
+        "correctAnswer": "“God may give someone lots of money and valuable things. People...”",
         "reference": "Ecclesiastes 6:2",
-        "explanation": "Ecclesiastes 6:2 records: 'A man to whom God gives money, wealth, and honour so that he has all his desires but God does not give him the power to have joy of it, and a strange man takes it. This is to no purpose and an evil disease.'."
+        "explanation": "Ecclesiastes 6:2 records: 'God may give someone lots of money and valuable things. People also respect that person. He has everything that he wants. He has worked hard to get them. But God does not allow him to enjoy those things. Instead, a stranger enjoys all that person's things. This seems to have no purpose. It is a terrible thing to happen to someone.'."
       },
       {
         "id": "ecc-6-q3",
         "questionNumber": 3,
         "question": "What significant action or revelation occurs in Ecclesiastes 6:3?",
         "options": [
-          "“And though he goes on living a thousand years...”",
-          "“That which is, has been named before, and of...”",
-          "“If a man has a hundred children, and his life is...”",
+          "“A rich person might live for 2,000 years. But...”",
+          "“Everything that is here today already has its name....”",
+          "“Someone may have many children and he may live for a...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“If a man has a hundred children, and his life is...”",
+        "correctAnswer": "“Someone may have many children and he may live for a...”",
         "reference": "Ecclesiastes 6:3",
-        "explanation": "Ecclesiastes 6:3 records: 'If a man has a hundred children, and his life is long so that the days of his years are great in number, but his soul takes no pleasure in good, and he is not honoured at his death; I say that a birth before its time is better than he.'."
+        "explanation": "Ecclesiastes 6:3 records: 'Someone may have many children and he may live for a long time. But even if he lives until he is very old, he may not enjoy a good life. After he dies, people may not bury him with honour. His life would be useless. Even a child that is dead at birth is happier than that person. That is what I think.'."
       },
       {
         "id": "ecc-6-q4",
         "questionNumber": 4,
         "question": "What truth or description is highlighted in Ecclesiastes 6:4?",
         "options": [
-          "“All the work of man is for his mouth,...”",
-          "“There are words without number for increasing what is...”",
+          "“The reason people work so hard is to get...”",
+          "“If we talk too much, we will say silly...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“In wind it came and to the dark it will go,...”"
+          "“The child's birth has no purpose. He immediately goes to a...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“In wind it came and to the dark it will go,...”",
+        "correctAnswer": "“The child's birth has no purpose. He immediately goes to a...”",
         "reference": "Ecclesiastes 6:4",
-        "explanation": "Ecclesiastes 6:4 records: 'In wind it came and to the dark it will go, and with the dark will its name be covered.'."
+        "explanation": "Ecclesiastes 6:4 records: 'The child's birth has no purpose. He immediately goes to a dark place. Nobody ever speaks his name.'."
       },
       {
         "id": "ecc-6-q5",
         "questionNumber": 5,
         "question": "According to the text, what happened or was commanded in Ecclesiastes 6:5?",
         "options": [
-          "“Yes, it saw not the sun, and it had no knowledge;...”",
-          "“What have the wise more than the foolish? and...”",
-          "“There is an evil which I have seen under...”",
+          "“He never sees the light of day. He never knows anything....”",
+          "“Does a wise person have a better life than...”",
+          "“I have seen another terrible thing that happens on...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“Yes, it saw not the sun, and it had no knowledge;...”",
+        "correctAnswer": "“He never sees the light of day. He never knows anything....”",
         "reference": "Ecclesiastes 6:5",
-        "explanation": "Ecclesiastes 6:5 records: 'Yes, it saw not the sun, and it had no knowledge; it is better with this than with the other.'."
+        "explanation": "Ecclesiastes 6:5 records: 'He never sees the light of day. He never knows anything. But he enjoys more rest than that rich person.'."
       },
       {
         "id": "ecc-6-q6",
         "questionNumber": 6,
         "question": "What central message or instruction is delivered in Ecclesiastes 6:6?",
         "options": [
-          "“What the eyes see is better than the wandering...”",
-          "“And though he goes on living a thousand years twice over...”",
-          "“There is an evil which I have seen under...”",
+          "“It is good to enjoy the things that we...”",
+          "“A rich person might live for 2,000 years. But if he...”",
+          "“I have seen another terrible thing that happens on...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“And though he goes on living a thousand years twice over...”",
+        "correctAnswer": "“A rich person might live for 2,000 years. But if he...”",
         "reference": "Ecclesiastes 6:6",
-        "explanation": "Ecclesiastes 6:6 records: 'And though he goes on living a thousand years twice over and does not see good, are not the two going to the same place?'."
+        "explanation": "Ecclesiastes 6:6 records: 'A rich person might live for 2,000 years. But if he never enjoys his riches, it would be better if he died at birth. Remember that, after death, we all go into our graves.'."
       },
       {
         "id": "ecc-6-q7",
         "questionNumber": 7,
         "question": "What detail regarding God's work, covenant, or people is given in Ecclesiastes 6:7?",
         "options": [
-          "“That which is, has been named before, and of...”",
-          "“A man to whom God gives money, wealth, and...”",
-          "“All the work of man is for his mouth, and still...”",
+          "“Everything that is here today already has its name....”",
+          "“God may give someone lots of money and valuable...”",
+          "“The reason people work so hard is to get food. But...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“All the work of man is for his mouth, and still...”",
+        "correctAnswer": "“The reason people work so hard is to get food. But...”",
         "reference": "Ecclesiastes 6:7",
-        "explanation": "Ecclesiastes 6:7 records: 'All the work of man is for his mouth, and still he has a desire for food.'."
+        "explanation": "Ecclesiastes 6:7 records: 'The reason people work so hard is to get food. But they never have enough to eat.'."
       },
       {
         "id": "ecc-6-q8",
         "questionNumber": 8,
         "question": "What phrase or account is recorded in Ecclesiastes 6:8?",
         "options": [
-          "“There are words without number for increasing what is...”",
-          "“If a man has a hundred children, and his...”",
+          "“If we talk too much, we will say silly...”",
+          "“Someone may have many children and he may live...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“What have the wise more than the foolish? and what has...”"
+          "“Does a wise person have a better life than a foolish...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“What have the wise more than the foolish? and what has...”",
+        "correctAnswer": "“Does a wise person have a better life than a foolish...”",
         "reference": "Ecclesiastes 6:8",
-        "explanation": "Ecclesiastes 6:8 records: 'What have the wise more than the foolish? and what has the poor man by walking wisely before the living?'."
+        "explanation": "Ecclesiastes 6:8 records: 'Does a wise person have a better life than a foolish person? No, he does not! Does it help a poor person if he knows how to live well? No!'."
       },
       {
         "id": "ecc-6-q9",
         "questionNumber": 9,
         "question": "How does the passage describe the circumstances or people in Ecclesiastes 6:9?",
         "options": [
-          "“What the eyes see is better than the wandering of desire....”",
-          "“There is an evil which I have seen under...”",
-          "“In wind it came and to the dark it...”",
+          "“It is good to enjoy the things that we have. That...”",
+          "“I have seen another terrible thing that happens on...”",
+          "“The child's birth has no purpose. He immediately goes...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“What the eyes see is better than the wandering of desire....”",
+        "correctAnswer": "“It is good to enjoy the things that we have. That...”",
         "reference": "Ecclesiastes 6:9",
-        "explanation": "Ecclesiastes 6:9 records: 'What the eyes see is better than the wandering of desire. This is to no purpose and a desire for wind.'."
+        "explanation": "Ecclesiastes 6:9 records: 'It is good to enjoy the things that we have. That is better than to want more things all the time. If you always try to get more things, that has no purpose. It is like somebody who tries to catch the wind. 10 Everything that is here today already has its name.Everyone knows what we humans are like.It is useless to argue with someone who is more powerful than we are. 11 If we talk too much,we will say silly things.So it will not help anyone to talk with many words. 12 Nobody knows the best way for us to live our lives.We live for only a few yearsand our lives seem to have no purpose.Our lives quickly disappear, like a shadow.Nobody can tell us what will happen on the earth after our death.'."
       },
       {
         "id": "ecc-6-q10",
         "questionNumber": 10,
         "question": "In the concluding portion of the chapter, what takes place in Ecclesiastes 6:10?",
         "options": [
-          "“There is an evil which I have seen under...”",
-          "“That which is, has been named before, and of what man...”",
-          "“Yes, it saw not the sun, and it had...”",
+          "“I have seen another terrible thing that happens on...”",
+          "“Everything that is here today already has its name. Everyone knows...”",
+          "“He never sees the light of day. He never...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“That which is, has been named before, and of what man...”",
+        "correctAnswer": "“Everything that is here today already has its name. Everyone knows...”",
         "reference": "Ecclesiastes 6:10",
-        "explanation": "Ecclesiastes 6:10 records: 'That which is, has been named before, and of what man is there is knowledge. He has no power against one stronger than he.'."
+        "explanation": "Ecclesiastes 6:10 records: 'Everything that is here today already has its name. Everyone knows what we humans are like. It is useless to argue with someone who is more powerful than we are.'."
       }
     ],
     "7": [
@@ -923,150 +920,150 @@
         "questionNumber": 1,
         "question": "According to Ecclesiastes 7:1, what is the opening statement or setting of this chapter?",
         "options": [
-          "It records: “A good name is better than oil of great price, and the day of dea...”",
+          "It records: “If people respect you as a good person, that is better than expen...”",
           "It begins with a prayer of thanksgiving for deliverance in Ecclesiastes",
           "It opens with a formal census and counting of the congregation",
           "It records a severe judgment pronounced against neighboring nations"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "It records: “A good name is better than oil of great price, and the day of dea...”",
+        "correctAnswer": "It records: “If people respect you as a good person, that is better than expen...”",
         "reference": "Ecclesiastes 7:1",
-        "explanation": "The chapter begins directly with the statement: 'A good name is better than oil of great price, and the day of death than the day of birth.'."
+        "explanation": "The chapter begins directly with the statement: 'If people respect you as a good person, that is better than expensive perfume. The day of your death is better than the day of your birth.'."
       },
       {
         "id": "ecc-7-q2",
         "questionNumber": 2,
         "question": "What key instruction, event, or declaration is set forth in Ecclesiastes 7:2?",
         "options": [
-          "“It is better to take note of the protest...”",
-          "“It is better to go to the house of weeping, than...”",
-          "“Be not quick to let your spirit be angry;...”",
+          "“If a wise person warns you, listen to him....”",
+          "“If you go to a house where there is a funeral,...”",
+          "“Control your angry thoughts. Only fools allow their anger...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“It is better to go to the house of weeping, than...”",
+        "correctAnswer": "“If you go to a house where there is a funeral,...”",
         "reference": "Ecclesiastes 7:2",
-        "explanation": "Ecclesiastes 7:2 records: 'It is better to go to the house of weeping, than to go to the house of feasting; because that is the end of every man, and the living will take it to their hearts.'."
+        "explanation": "Ecclesiastes 7:2 records: 'If you go to a house where there is a funeral, that is better for you than to go to a party. Everyone will die one day. People should think about death while they are still alive.'."
       },
       {
         "id": "ecc-7-q3",
         "questionNumber": 3,
         "question": "What significant action or revelation occurs in Ecclesiastes 7:4?",
         "options": [
-          "“The wise are troubled by the ways of the...”",
-          "“Wisdom together with a heritage is good, and a...”",
-          "“The hearts of the wise are in the house of weeping;...”",
+          "“If a wise person cheats people, he becomes a...”",
+          "“It is good to have wisdom, like money that...”",
+          "“A wise person thinks about funerals and what they mean. A...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“The hearts of the wise are in the house of weeping;...”",
+        "correctAnswer": "“A wise person thinks about funerals and what they mean. A...”",
         "reference": "Ecclesiastes 7:4",
-        "explanation": "Ecclesiastes 7:4 records: 'The hearts of the wise are in the house of weeping; but the hearts of the foolish are in the house of joy.'."
+        "explanation": "Ecclesiastes 7:4 records: 'A wise person thinks about funerals and what they mean. A foolish person thinks about how to enjoy a party.'."
       },
       {
         "id": "ecc-7-q4",
         "questionNumber": 4,
         "question": "What truth or description is highlighted in Ecclesiastes 7:6?",
         "options": [
-          "“Be not quick to let your spirit be angry;...”",
-          "“Give thought to the work of God. Who will...”",
+          "“Control your angry thoughts. Only fools allow their anger...”",
+          "“Think about the things that God has done. If...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“Like the cracking of thorns under a pot, so is the...”"
+          "“If you use thorn bushes to make a fire, they make...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“Like the cracking of thorns under a pot, so is the...”",
+        "correctAnswer": "“If you use thorn bushes to make a fire, they make...”",
         "reference": "Ecclesiastes 7:6",
-        "explanation": "Ecclesiastes 7:6 records: 'Like the cracking of thorns under a pot, so is the laugh of a foolish man; and this again is to no purpose.'."
+        "explanation": "Ecclesiastes 7:6 records: 'If you use thorn bushes to make a fire, they make a lot of noise but they burn too quickly. When a foolish person laughs, their noise also has no purpose.'."
       },
       {
         "id": "ecc-7-q5",
         "questionNumber": 5,
         "question": "According to the text, what happened or was commanded in Ecclesiastes 7:8?",
         "options": [
-          "“The end of a thing is better than its start, and...”",
-          "“Wisdom together with a heritage is good, and a...”",
-          "“These two have I seen in my life which...”",
+          "“If you finish some work, that is better than to start...”",
+          "“It is good to have wisdom, like money that...”",
+          "“In my short life on the earth, I have...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“The end of a thing is better than its start, and...”",
+        "correctAnswer": "“If you finish some work, that is better than to start...”",
         "reference": "Ecclesiastes 7:8",
-        "explanation": "Ecclesiastes 7:8 records: 'The end of a thing is better than its start, and a gentle spirit is better than pride.'."
+        "explanation": "Ecclesiastes 7:8 records: 'If you finish some work, that is better than to start something new. It is better to be patient than to be proud.'."
       },
       {
         "id": "ecc-7-q6",
         "questionNumber": 6,
         "question": "What central message or instruction is delivered in Ecclesiastes 7:10?",
         "options": [
-          "“Give thought to the work of God. Who will...”",
-          "“Say not, Why were the days which have gone by better...”",
-          "“Be not evil overmuch, and be not foolish. Why...”",
+          "“Think about the things that God has done. If...”",
+          "“Do not say, ‘Everything was a lot better in the past.’...”",
+          "“But do not be too wicked. Do not be...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“Say not, Why were the days which have gone by better...”",
+        "correctAnswer": "“Do not say, ‘Everything was a lot better in the past.’...”",
         "reference": "Ecclesiastes 7:10",
-        "explanation": "Ecclesiastes 7:10 records: 'Say not, Why were the days which have gone by better than these? Such a question comes not from wisdom.'."
+        "explanation": "Ecclesiastes 7:10 records: 'Do not say, ‘Everything was a lot better in the past.’ Those are not wise thoughts.'."
       },
       {
         "id": "ecc-7-q7",
         "questionNumber": 7,
         "question": "What detail regarding God's work, covenant, or people is given in Ecclesiastes 7:12?",
         "options": [
-          "“These two have I seen in my life which...”",
-          "“Wisdom makes a wise man stronger than ten rulers...”",
-          "“Wisdom keeps a man from danger even as money does; but...”",
+          "“In my short life on the earth, I have...”",
+          "“Wisdom makes a wise person more powerful than ten...”",
+          "“Both wisdom and money can keep you safe. But wisdom is...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“Wisdom keeps a man from danger even as money does; but...”",
+        "correctAnswer": "“Both wisdom and money can keep you safe. But wisdom is...”",
         "reference": "Ecclesiastes 7:12",
-        "explanation": "Ecclesiastes 7:12 records: 'Wisdom keeps a man from danger even as money does; but the value of knowledge is that wisdom gives life to its owner.'."
+        "explanation": "Ecclesiastes 7:12 records: 'Both wisdom and money can keep you safe. But wisdom is better. If you are wise, your knowledge can save your life. 13 Think about the things that God has done.If God has bent something,nobody can make it straight again. 14 If your life is good, you should be happy.But if you have trouble, think about this:God causes both joy and trouble in our lives.We do not know what will happen next.We can never know everything 15 In my short life on the earth,I have seen these things which are difficult to understand:Sometimes righteous people may die when they are still young.They did good things, but they died.And sometimes wicked people continue to live for a long time.They did evil things, but they continued to live. 16 So do not try to be too good or too wise.That might cause you to have trouble. 17 But do not be too wicked. Do not be a fool.That might cause you to die when you are still young. 18 Remember both these things.Do not forget either of them.You can do that if you respect God and you obey him.7:18 19 Wisdom makes a wise person more powerfulthan ten rulers in a city. 20 There is nobody on the earth who is so righteousthat they always do what is right.There is nobody who never does a wrong thing. 21 Do not listen to all the things that people say about you.You might hear your servant when he is cursing you! 22 Do not forget that you also have often cursed other people. 23 I have used wisdom to study all these things.I tried very much to understand everything that happens.But I could not do it. 24 People cannot understand these things.The meaning of life is too difficult for anyone to understand. 25 I decided to study many thingsso that I would become wise.I wanted to understand the reason why things happen.I also wanted to know why it is stupid to be wicked,and why it is crazy to do foolish things. 26 I learned this:Some women are like a trap that catches animals.Women like that are more dangerous than death.They may pretend to love you.They may hold you in their arms.But really their arms are like chains.They want to catch you,as hunters catch animals.Women like that will easily catcha man who has turned away from God.But a man who pleases Godwill escape from them. 27 This is what I, the Teacher, have learned.I studied everything very carefully.I wanted to know the reason why things happen. 28 I continued to try to learn more and more.But I could not find the answers.Among one thousand people,I found one good man.But among them all,I did not find a good woman. 29 I did learn this:God made people to do what is right.But people have chosen their own way to do things.'."
       },
       {
         "id": "ecc-7-q8",
         "questionNumber": 8,
         "question": "What phrase or account is recorded in Ecclesiastes 7:14?",
         "options": [
-          "“Be not evil overmuch, and be not foolish. Why...”",
-          "“Do not give ear to all the words which...”",
+          "“But do not be too wicked. Do not be...”",
+          "“Do not listen to all the things that people...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“In the day of wealth have joy, but in the day...”"
+          "“If your life is good, you should be happy. But if...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“In the day of wealth have joy, but in the day...”",
+        "correctAnswer": "“If your life is good, you should be happy. But if...”",
         "reference": "Ecclesiastes 7:14",
-        "explanation": "Ecclesiastes 7:14 records: 'In the day of wealth have joy, but in the day of evil take thought: God has put the one against the other, so that man may not be certain what will be after him.'."
+        "explanation": "Ecclesiastes 7:14 records: 'If your life is good, you should be happy. But if you have trouble, think about this: God causes both joy and trouble in our lives. We do not know what will happen next.'."
       },
       {
         "id": "ecc-7-q9",
         "questionNumber": 9,
         "question": "How does the passage describe the circumstances or people in Ecclesiastes 7:16?",
         "options": [
-          "“Be not given overmuch to righteousness and be not over-wise. Why...”",
-          "“Wisdom makes a wise man stronger than ten rulers...”",
-          "“All this I have put to the test by...”",
+          "“So do not try to be too good or too wise....”",
+          "“Wisdom makes a wise person more powerful than ten...”",
+          "“I have used wisdom to study all these things....”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“Be not given overmuch to righteousness and be not over-wise. Why...”",
+        "correctAnswer": "“So do not try to be too good or too wise....”",
         "reference": "Ecclesiastes 7:16",
-        "explanation": "Ecclesiastes 7:16 records: 'Be not given overmuch to righteousness and be not over-wise. Why let destruction come on you?'."
+        "explanation": "Ecclesiastes 7:16 records: 'So do not try to be too good or too wise. That might cause you to have trouble.'."
       },
       {
         "id": "ecc-7-q10",
         "questionNumber": 10,
         "question": "In the concluding portion of the chapter, what takes place in Ecclesiastes 7:18?",
         "options": [
-          "“Do not give ear to all the words which...”",
-          "“It is good to take this in your hand and not...”",
-          "“I gave my mind to knowledge and to searching...”",
+          "“Do not listen to all the things that people...”",
+          "“Remember both these things. Do not forget either of them. You...”",
+          "“I decided to study many things so that I...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“It is good to take this in your hand and not...”",
+        "correctAnswer": "“Remember both these things. Do not forget either of them. You...”",
         "reference": "Ecclesiastes 7:18",
-        "explanation": "Ecclesiastes 7:18 records: 'It is good to take this in your hand and not to keep your hand from that; he who has the fear of God will be free of the two.'."
+        "explanation": "Ecclesiastes 7:18 records: 'Remember both these things. Do not forget either of them. You can do that if you respect God and you obey him. 19 Wisdom makes a wise person more powerfulthan ten rulers in a city. 20 There is nobody on the earth who is so righteousthat they always do what is right.There is nobody who never does a wrong thing. 21 Do not listen to all the things that people say about you.You might hear your servant when he is cursing you! 22 Do not forget that you also have often cursed other people. 23 I have used wisdom to study all these things.I tried very much to understand everything that happens.But I could not do it. 24 People cannot understand these things.The meaning of life is too difficult for anyone to understand. 25 I decided to study many thingsso that I would become wise.I wanted to understand the reason why things happen.I also wanted to know why it is stupid to be wicked,and why it is crazy to do foolish things. 26 I learned this:Some women are like a trap that catches animals.Women like that are more dangerous than death.They may pretend to love you.They may hold you in their arms.But really their arms are like chains.They want to catch you,as hunters catch animals.Women like that will easily catcha man who has turned away from God.But a man who pleases Godwill escape from them. 27 This is what I, the Teacher, have learned.I studied everything very carefully.I wanted to know the reason why things happen. 28 I continued to try to learn more and more.But I could not find the answers.Among one thousand people,I found one good man.But among them all,I did not find a good woman. 29 I did learn this:God made people to do what is right.But people have chosen their own way to do things.'."
       }
     ],
     "8": [
@@ -1075,150 +1072,150 @@
         "questionNumber": 1,
         "question": "According to Ecclesiastes 8:1, what is the opening statement or setting of this chapter?",
         "options": [
-          "It records: “Who is like the wise man? and to whom is the sense of anything cl...”",
+          "It records: “This is what I know about people who are truly wise. They know ho...”",
           "It begins with a prayer of thanksgiving for deliverance in Ecclesiastes",
           "It opens with a formal census and counting of the congregation",
           "It records a severe judgment pronounced against neighboring nations"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "It records: “Who is like the wise man? and to whom is the sense of anything cl...”",
+        "correctAnswer": "It records: “This is what I know about people who are truly wise. They know ho...”",
         "reference": "Ecclesiastes 8:1",
-        "explanation": "The chapter begins directly with the statement: 'Who is like the wise man? and to whom is the sense of anything clear? A man's wisdom makes his face shining, and his hard face will be changed.'."
+        "explanation": "The chapter begins directly with the statement: 'This is what I know about people who are truly wise. They know how to explain things. Wisdom helps a person to be happy. It causes them to smile even when they have trouble.'."
       },
       {
         "id": "ecc-8-q2",
         "questionNumber": 2,
         "question": "What key instruction, event, or declaration is set forth in Ecclesiastes 8:2?",
         "options": [
-          "“Whoever keeps the law will come to no evil:...”",
-          "“I say to you, Keep the king's law, from respect for...”",
-          "“All this have I seen, and have given my...”",
+          "“Trouble will not come to anyone who obeys the...”",
+          "“You promised God that you would serve the king faithfully. So...”",
+          "“I saw all these things that happen on the...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“I say to you, Keep the king's law, from respect for...”",
+        "correctAnswer": "“You promised God that you would serve the king faithfully. So...”",
         "reference": "Ecclesiastes 8:2",
-        "explanation": "Ecclesiastes 8:2 records: 'I say to you, Keep the king's law, from respect for the oath of God.'."
+        "explanation": "Ecclesiastes 8:2 records: 'You promised God that you would serve the king faithfully. So obey the king's commands.'."
       },
       {
         "id": "ecc-8-q3",
         "questionNumber": 3,
         "question": "What significant action or revelation occurs in Ecclesiastes 8:3?",
         "options": [
-          "“For every purpose there is a time and a...”",
-          "“And then I saw evil men put to rest,...”",
-          "“Be not quick to go from before him. Be not fixed...”",
+          "“There is a right time for things to happen....”",
+          "“I also saw that some wicked people receive honour...”",
+          "“If you are with the king, do not leave in a...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“Be not quick to go from before him. Be not fixed...”",
+        "correctAnswer": "“If you are with the king, do not leave in a...”",
         "reference": "Ecclesiastes 8:3",
-        "explanation": "Ecclesiastes 8:3 records: 'Be not quick to go from before him. Be not fixed in an evil design, because he does whatever is pleasing to him.'."
+        "explanation": "Ecclesiastes 8:3 records: 'If you are with the king, do not leave in a hurry. Do not join with people who plan to hurt him. Remember that the king can do anything that he wants to do.'."
       },
       {
         "id": "ecc-8-q4",
         "questionNumber": 4,
         "question": "What truth or description is highlighted in Ecclesiastes 8:4?",
         "options": [
-          "“No one is certain what is to be, and...”",
-          "“Because punishment for an evil work comes not quickly,...”",
+          "“Nobody knows what will happen in the future. Nobody...”",
+          "“People who are guilty should receive their punishment quickly....”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“The word of a king has authority; and who may say...”"
+          "“The king's command has complete power. Nobody can tell him that...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“The word of a king has authority; and who may say...”",
+        "correctAnswer": "“The king's command has complete power. Nobody can tell him that...”",
         "reference": "Ecclesiastes 8:4",
-        "explanation": "Ecclesiastes 8:4 records: 'The word of a king has authority; and who may say to him, What is this you are doing?'."
+        "explanation": "Ecclesiastes 8:4 records: 'The king's command has complete power. Nobody can tell him that he is wrong.'."
       },
       {
         "id": "ecc-8-q5",
         "questionNumber": 5,
         "question": "According to the text, what happened or was commanded in Ecclesiastes 8:5?",
         "options": [
-          "“Whoever keeps the law will come to no evil: and a...”",
-          "“No man has authority over the wind, to keep...”",
-          "“Though a sinner does evil a hundred times and...”",
+          "“Trouble will not come to anyone who obeys the king's command....”",
+          "“Nobody has the power to control the wind. Also,...”",
+          "“People who do lots of wicked things may live...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“Whoever keeps the law will come to no evil: and a...”",
+        "correctAnswer": "“Trouble will not come to anyone who obeys the king's command....”",
         "reference": "Ecclesiastes 8:5",
-        "explanation": "Ecclesiastes 8:5 records: 'Whoever keeps the law will come to no evil: and a wise man's heart has knowledge of time and of decision.'."
+        "explanation": "Ecclesiastes 8:5 records: 'Trouble will not come to anyone who obeys the king's command. A wise person knows the right time to do things. He also knows the right way to do them.'."
       },
       {
         "id": "ecc-8-q6",
         "questionNumber": 6,
         "question": "What central message or instruction is delivered in Ecclesiastes 8:6?",
         "options": [
-          "“All this have I seen, and have given my...”",
-          "“For every purpose there is a time and a decision, because...”",
-          "“But it will not be well for the evil-doer;...”",
+          "“I saw all these things that happen on the...”",
+          "“There is a right time for things to happen. There is...”",
+          "“Wicked people will surely not enjoy a good life....”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“For every purpose there is a time and a decision, because...”",
+        "correctAnswer": "“There is a right time for things to happen. There is...”",
         "reference": "Ecclesiastes 8:6",
-        "explanation": "Ecclesiastes 8:6 records: 'For every purpose there is a time and a decision, because the sorrow of man is great in him.'."
+        "explanation": "Ecclesiastes 8:6 records: 'There is a right time for things to happen. There is a right way to do things. But trouble comes to people anyway.'."
       },
       {
         "id": "ecc-8-q7",
         "questionNumber": 7,
         "question": "What detail regarding God's work, covenant, or people is given in Ecclesiastes 8:7?",
         "options": [
-          "“And then I saw evil men put to rest,...”",
-          "“There is a thing which is to no purpose...”",
-          "“No one is certain what is to be, and who is...”",
+          "“I also saw that some wicked people receive honour...”",
+          "“But this is something else that is difficult to...”",
+          "“Nobody knows what will happen in the future. Nobody can tell...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“No one is certain what is to be, and who is...”",
+        "correctAnswer": "“Nobody knows what will happen in the future. Nobody can tell...”",
         "reference": "Ecclesiastes 8:7",
-        "explanation": "Ecclesiastes 8:7 records: 'No one is certain what is to be, and who is able to say to him when it will be?'."
+        "explanation": "Ecclesiastes 8:7 records: 'Nobody knows what will happen in the future. Nobody can tell us about it.'."
       },
       {
         "id": "ecc-8-q8",
         "questionNumber": 8,
         "question": "What phrase or account is recorded in Ecclesiastes 8:8?",
         "options": [
-          "“Because punishment for an evil work comes not quickly,...”",
-          "“So I gave praise to joy, because there is...”",
+          "“People who are guilty should receive their punishment quickly....”",
+          "“So I think that we should enjoy our lives....”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“No man has authority over the wind, to keep the wind;...”"
+          "“Nobody has the power to control the wind. Also, nobody has...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“No man has authority over the wind, to keep the wind;...”",
+        "correctAnswer": "“Nobody has the power to control the wind. Also, nobody has...”",
         "reference": "Ecclesiastes 8:8",
-        "explanation": "Ecclesiastes 8:8 records: 'No man has authority over the wind, to keep the wind; or is ruler over the day of his death. In war no man's time is free, and evil will not keep the sinner safe.'."
+        "explanation": "Ecclesiastes 8:8 records: 'Nobody has the power to control the wind. Also, nobody has the power to decide the day of their death. Soldiers are not allowed to leave a battle. Also, if people do wicked things, that will not rescue them.'."
       },
       {
         "id": "ecc-8-q9",
         "questionNumber": 9,
         "question": "How does the passage describe the circumstances or people in Ecclesiastes 8:9?",
         "options": [
-          "“All this have I seen, and have given my heart to...”",
-          "“Though a sinner does evil a hundred times and...”",
-          "“When I gave my mind to the knowledge of...”",
+          "“I saw all these things that happen on the earth. I...”",
+          "“People who do lots of wicked things may live...”",
+          "“I tried very much to become wise. I wanted...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“All this have I seen, and have given my heart to...”",
+        "correctAnswer": "“I saw all these things that happen on the earth. I...”",
         "reference": "Ecclesiastes 8:9",
-        "explanation": "Ecclesiastes 8:9 records: 'All this have I seen, and have given my heart to all the work which is done under the sun: there is a time when man has power over man for his destruction.'."
+        "explanation": "Ecclesiastes 8:9 records: 'I saw all these things that happen on the earth. I thought about them a lot. I thought about the things that happen on the earth. I saw that people sometimes use their power to hurt other people.'."
       },
       {
         "id": "ecc-8-q10",
         "questionNumber": 10,
         "question": "In the concluding portion of the chapter, what takes place in Ecclesiastes 8:10?",
         "options": [
-          "“But it will not be well for the evil-doer;...”",
-          "“And then I saw evil men put to rest, taken even...”",
-          "“Who is like the wise man? and to whom...”",
+          "“Wicked people will surely not enjoy a good life....”",
+          "“I also saw that some wicked people receive honour after their...”",
+          "“This is what I know about people who are...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“And then I saw evil men put to rest, taken even...”",
+        "correctAnswer": "“I also saw that some wicked people receive honour after their...”",
         "reference": "Ecclesiastes 8:10",
-        "explanation": "Ecclesiastes 8:10 records: 'And then I saw evil men put to rest, taken even from the holy place; and they went about and were praised in the town because of what they had done. This again is to no purpose.'."
+        "explanation": "Ecclesiastes 8:10 records: 'I also saw that some wicked people receive honour after their death. Those wicked people had gone in and out of the holy place. People praised them in the city where they had done evil things. This also is difficult to understand.'."
       }
     ],
     "9": [
@@ -1227,150 +1224,150 @@
         "questionNumber": 1,
         "question": "According to Ecclesiastes 9:1, what is the opening statement or setting of this chapter?",
         "options": [
-          "It records: “All this I took to heart, and my heart saw it all: that the uprig...”",
+          "It records: “I thought about all these things so that I could understand them....”",
           "It begins with a prayer of thanksgiving for deliverance in Ecclesiastes",
           "It opens with a formal census and counting of the congregation",
           "It records a severe judgment pronounced against neighboring nations"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "It records: “All this I took to heart, and my heart saw it all: that the uprig...”",
+        "correctAnswer": "It records: “I thought about all these things so that I could understand them....”",
         "reference": "Ecclesiastes 9:1",
-        "explanation": "The chapter begins directly with the statement: 'All this I took to heart, and my heart saw it all: that the upright and the wise and their works are in the hand of God; and men may not be certain if it will be love or hate; all is to no purpose before them.'."
+        "explanation": "The chapter begins directly with the statement: 'I thought about all these things so that I could understand them. I realized that God controls what happens to people. That includes righteous people and wise people. God decides the things that they do. Nobody knows what will happen in their lives. Other people may love them, or they may hate them.'."
       },
       {
         "id": "ecc-9-q2",
         "questionNumber": 2,
         "question": "What key instruction, event, or declaration is set forth in Ecclesiastes 9:2?",
         "options": [
-          "“The living are conscious that death will come to...”",
-          "“Because to all there is one event, to the upright man...”",
-          "“Have joy with the woman of your love all...”",
+          "“People who are alive know that they will die...”",
+          "“But there is something which happens to everyone. It happens to...”",
+          "“Love your wife and enjoy your life together with...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“Because to all there is one event, to the upright man...”",
+        "correctAnswer": "“But there is something which happens to everyone. It happens to...”",
         "reference": "Ecclesiastes 9:2",
-        "explanation": "Ecclesiastes 9:2 records: 'Because to all there is one event, to the upright man and to the evil, to the clean and to the unclean, to him who makes an offering and to him who makes no offering; as is the good so is the sinner; he who takes an oath is as he who has fear of it.'."
+        "explanation": "Ecclesiastes 9:2 records: 'But there is something which happens to everyone. It happens to righteous people and it happens to wicked people. It happens to good people and it happens to bad people. It happens to people who are clean in front of God and it happens to people who are unclean. It happens to people who offer sacrifices to God and it happens to people who do not do that. It happens to good people and to people who turn away from God. It happens to people who make promises to God. It also happens to people who are afraid to do that.'."
       },
       {
         "id": "ecc-9-q3",
         "questionNumber": 3,
         "question": "What significant action or revelation occurs in Ecclesiastes 9:3?",
         "options": [
-          "“Their love and their hate and their envy are...”",
-          "“Whatever comes to your hand to do with all...”",
-          "“This is evil in all things which are done under the...”",
+          "“Everything that they did in the world has finished....”",
+          "“Use all your strength to do the work that...”",
+          "“Finally, the same thing happens to everyone on the earth. That...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“This is evil in all things which are done under the...”",
+        "correctAnswer": "“Finally, the same thing happens to everyone on the earth. That...”",
         "reference": "Ecclesiastes 9:3",
-        "explanation": "Ecclesiastes 9:3 records: 'This is evil in all things which are done under the sun: that there is one fate for all, and the hearts of the sons of men are full of evil; while they have life their hearts are foolish, and after that--to the dead.'."
+        "explanation": "Ecclesiastes 9:3 records: 'Finally, the same thing happens to everyone on the earth. That seems to be a terrible thing. People choose to do evil things. While they are alive, they choose to live like fools. And after that, they die.'."
       },
       {
         "id": "ecc-9-q4",
         "questionNumber": 4,
         "question": "What truth or description is highlighted in Ecclesiastes 9:4?",
         "options": [
-          "“Come, take your bread with joy, and your wine...”",
-          "“And again I saw under the sun that the...”",
+          "“So be happy as you eat your food. Be...”",
+          "“I have seen another thing that happens here on...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“For him who is joined to all the living there is...”"
+          "“Anyone who is alive in the world still hopes for good...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“For him who is joined to all the living there is...”",
+        "correctAnswer": "“Anyone who is alive in the world still hopes for good...”",
         "reference": "Ecclesiastes 9:4",
-        "explanation": "Ecclesiastes 9:4 records: 'For him who is joined to all the living there is hope; a living dog is better than a dead lion.'."
+        "explanation": "Ecclesiastes 9:4 records: 'Anyone who is alive in the world still hopes for good things in the future. It is better to be a dog that is alive than to be a lion that is dead.'."
       },
       {
         "id": "ecc-9-q5",
         "questionNumber": 5,
         "question": "According to the text, what happened or was commanded in Ecclesiastes 9:5?",
         "options": [
-          "“The living are conscious that death will come to them, but...”",
-          "“Let your clothing be white at all times, and...”",
-          "“Even man has no knowledge of his time; like...”",
+          "“People who are alive know that they will die one day....”",
+          "“Always dress yourself well in good clothes. Use as...”",
+          "“Nobody knows the time when trouble may come to...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“The living are conscious that death will come to them, but...”",
+        "correctAnswer": "“People who are alive know that they will die one day....”",
         "reference": "Ecclesiastes 9:5",
-        "explanation": "Ecclesiastes 9:5 records: 'The living are conscious that death will come to them, but the dead are not conscious of anything, and they no longer have a reward, because there is no memory of them.'."
+        "explanation": "Ecclesiastes 9:5 records: 'People who are alive know that they will die one day. But dead people do not know anything. No more good things can happen to them. Nobody remembers them.'."
       },
       {
         "id": "ecc-9-q6",
         "questionNumber": 6,
         "question": "What central message or instruction is delivered in Ecclesiastes 9:6?",
         "options": [
-          "“Have joy with the woman of your love all...”",
-          "“Their love and their hate and their envy are now ended;...”",
-          "“This again I have seen under the sun as...”",
+          "“Love your wife and enjoy your life together with...”",
+          "“Everything that they did in the world has finished. If they...”",
+          "“I saw something else that happens on the earth....”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“Their love and their hate and their envy are now ended;...”",
+        "correctAnswer": "“Everything that they did in the world has finished. If they...”",
         "reference": "Ecclesiastes 9:6",
-        "explanation": "Ecclesiastes 9:6 records: 'Their love and their hate and their envy are now ended; and they have no longer a part for ever in anything which is done under the sun.'."
+        "explanation": "Ecclesiastes 9:6 records: 'Everything that they did in the world has finished. If they loved people, if they hated people, if they were jealous of people, all that has finished. They no longer have anything to do with the things that happen on the earth.'."
       },
       {
         "id": "ecc-9-q7",
         "questionNumber": 7,
         "question": "What detail regarding God's work, covenant, or people is given in Ecclesiastes 9:7?",
         "options": [
-          "“Whatever comes to your hand to do with all...”",
-          "“There was a little town and the number of...”",
-          "“Come, take your bread with joy, and your wine with a...”",
+          "“Use all your strength to do the work that...”",
+          "“There was a small city and only a few...”",
+          "“So be happy as you eat your food. Be happy as...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“Come, take your bread with joy, and your wine with a...”",
+        "correctAnswer": "“So be happy as you eat your food. Be happy as...”",
         "reference": "Ecclesiastes 9:7",
-        "explanation": "Ecclesiastes 9:7 records: 'Come, take your bread with joy, and your wine with a glad heart. God has taken pleasure in your works.'."
+        "explanation": "Ecclesiastes 9:7 records: 'So be happy as you eat your food. Be happy as you drink your wine. God is pleased with you as you do these things.'."
       },
       {
         "id": "ecc-9-q8",
         "questionNumber": 8,
         "question": "What phrase or account is recorded in Ecclesiastes 9:8?",
         "options": [
-          "“And again I saw under the sun that the...”",
-          "“Now there was in the town a poor, wise...”",
+          "“I have seen another thing that happens here on...”",
+          "“There was a man who lived in the city....”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“Let your clothing be white at all times, and let not...”"
+          "“Always dress yourself well in good clothes. Use as much sweet...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“Let your clothing be white at all times, and let not...”",
+        "correctAnswer": "“Always dress yourself well in good clothes. Use as much sweet...”",
         "reference": "Ecclesiastes 9:8",
-        "explanation": "Ecclesiastes 9:8 records: 'Let your clothing be white at all times, and let not your head be without oil.'."
+        "explanation": "Ecclesiastes 9:8 records: 'Always dress yourself well in good clothes. Use as much sweet oil as you need on your head.'."
       },
       {
         "id": "ecc-9-q9",
         "questionNumber": 9,
         "question": "How does the passage describe the circumstances or people in Ecclesiastes 9:9?",
         "options": [
-          "“Have joy with the woman of your love all the days...”",
-          "“Even man has no knowledge of his time; like...”",
-          "“Then I said, Wisdom is better than strength, but...”",
+          "“Love your wife and enjoy your life together with her. God...”",
+          "“Nobody knows the time when trouble may come to...”",
+          "“So I realized that wisdom is better than power....”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“Have joy with the woman of your love all the days...”",
+        "correctAnswer": "“Love your wife and enjoy your life together with her. God...”",
         "reference": "Ecclesiastes 9:9",
-        "explanation": "Ecclesiastes 9:9 records: 'Have joy with the woman of your love all the days of your foolish life which he gives you under the sun. Because that is your part in life and in your work which you do under the sun.'."
+        "explanation": "Ecclesiastes 9:9 records: 'Love your wife and enjoy your life together with her. God has given you your life. It is a short life and it is difficult to understand everything that happens. God wants you to enjoy these things as you do hard work during your life on the earth.'."
       },
       {
         "id": "ecc-9-q10",
         "questionNumber": 10,
         "question": "In the concluding portion of the chapter, what takes place in Ecclesiastes 9:10?",
         "options": [
-          "“This again I have seen under the sun as...”",
-          "“Whatever comes to your hand to do with all your power,...”",
-          "“The words of the wise which come quietly to...”",
+          "“I saw something else that happens on the earth....”",
+          "“Use all your strength to do the work that you are...”",
+          "“A wise person speaks quietly. But it is good...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“Whatever comes to your hand to do with all your power,...”",
+        "correctAnswer": "“Use all your strength to do the work that you are...”",
         "reference": "Ecclesiastes 9:10",
-        "explanation": "Ecclesiastes 9:10 records: 'Whatever comes to your hand to do with all your power, do it because there is no work, or thought, or knowledge, or wisdom in the place of the dead to which you are going.'."
+        "explanation": "Ecclesiastes 9:10 records: 'Use all your strength to do the work that you are doing. One day you will die and you will go into your grave. Then you will not have any work, or ideas, or knowledge or wisdom. So do your work well while you are alive.'."
       }
     ],
     "10": [
@@ -1379,150 +1376,150 @@
         "questionNumber": 1,
         "question": "According to Ecclesiastes 10:1, what is the opening statement or setting of this chapter?",
         "options": [
-          "It records: “Dead flies make the oil of the perfumer give out an evil smell; m...”",
+          "It records: “A few dead flies in a bottle of perfume cause it to have a bad sm...”",
           "It begins with a prayer of thanksgiving for deliverance in Ecclesiastes",
           "It opens with a formal census and counting of the congregation",
           "It records a severe judgment pronounced against neighboring nations"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "It records: “Dead flies make the oil of the perfumer give out an evil smell; m...”",
+        "correctAnswer": "It records: “A few dead flies in a bottle of perfume cause it to have a bad sm...”",
         "reference": "Ecclesiastes 10:1",
-        "explanation": "The chapter begins directly with the statement: 'Dead flies make the oil of the perfumer give out an evil smell; more valued is a little wisdom than the great glory of the foolish.'."
+        "explanation": "The chapter begins directly with the statement: 'A few dead flies in a bottle of perfume cause it to have a bad smell. In the same way, one foolish thing can destroy a lot of wisdom.'."
       },
       {
         "id": "ecc-10-q2",
         "questionNumber": 2,
         "question": "What key instruction, event, or declaration is set forth in Ecclesiastes 10:2?",
         "options": [
-          "“There is an evil which I have seen under...”",
-          "“The heart of the wise man goes in the right direction;...”",
-          "“He who gets out stones from the earth will...”",
+          "“I have seen another terrible thing that happens on...”",
+          "“If you are wise, you know the right way to go....”",
+          "“If you cut stones out of the ground, a...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“The heart of the wise man goes in the right direction;...”",
+        "correctAnswer": "“If you are wise, you know the right way to go....”",
         "reference": "Ecclesiastes 10:2",
-        "explanation": "Ecclesiastes 10:2 records: 'The heart of the wise man goes in the right direction; but the heart of a foolish man in the wrong.'."
+        "explanation": "Ecclesiastes 10:2 records: 'If you are wise, you know the right way to go. But a fool is stupid and he goes the wrong way.'."
       },
       {
         "id": "ecc-10-q3",
         "questionNumber": 3,
         "question": "What significant action or revelation occurs in Ecclesiastes 10:4?",
         "options": [
-          "“I have seen servants on horses, and rulers walking...”",
-          "“If a snake gives a bite before the word...”",
-          "“If the wrath of the ruler is against you, keep in...”",
+          "“Slaves ride on horses, as important people do. At...”",
+          "“Someone may have power over dangerous snakes. But that...”",
+          "“If your master becomes angry with you, do not leave your...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“If the wrath of the ruler is against you, keep in...”",
+        "correctAnswer": "“If your master becomes angry with you, do not leave your...”",
         "reference": "Ecclesiastes 10:4",
-        "explanation": "Ecclesiastes 10:4 records: 'If the wrath of the ruler is against you, keep in your place; in him who keeps quiet even great sins may be overlooked.'."
+        "explanation": "Ecclesiastes 10:4 records: 'If your master becomes angry with you, do not leave your place. Be patient and answer him quietly. Then he will forgive your mistakes. 5 I have seen another terrible thing that happens on the earth.It happens when a ruler does a silly thing. 6 A ruler may give fools too much authority.At the same time, rich people have no authority. 7 Slaves ride on horses, as important people do.At the same time, princes have to walk, as slaves do. 8 If you dig a deep hole, you might fall into it.If you knock down a wall, a snake might bite you. 9 If you cut stones out of the ground, a stone might hurt you.If you cut wood into pieces, a piece of it might hurt you. 10 If your axe is not sharp,you will need to be very strong to use it.If you are wise, you will make the axe's edge sharp again.That is how wisdom helps you to do things well. 11 Someone may have power over dangerous snakes.But that will not help him if the snake bites him first. 12 People respect a wise person,because of the things that he says.But the words of a fool will destroy him. 13 When a fool starts to speak,he says silly things.When he finishes,he is saying crazy things that are wicked. 14 But he never stops talking.Nobody knows what will happen in the future.Nobody can tell us what will happen after we die. 15 When a fool does any work,he quickly becomes tired.He is so tired that he forgets the way to town. 16 A country is in terrible troubleif its ruler is young and foolish.If its leaders go to parties all day,a country is in trouble. 17 But if a country's ruler belongs to a good family,that country will be a happy place.Its leaders only enjoy parties at the proper time.They control themselves and they do not become drunk. 18 If a man is too lazy to work on his house,its roof will fall down.Rain will make his rooms wet. 19 Good food and wine help us to laugh and to be happy.But you need to have money to buy everything. 20 Do not say bad things about the king.Do not even think about it!Even when you are in your bedroom,do not say bad things about rich people.A little bird might hear you.It might tell people what you have said.'."
       },
       {
         "id": "ecc-10-q4",
         "questionNumber": 4,
         "question": "What truth or description is highlighted in Ecclesiastes 10:6?",
         "options": [
-          "“He who gets out stones from the earth will...”",
-          "“The first words of his mouth are foolish, and...”",
+          "“If you cut stones out of the ground, a...”",
+          "“When a fool starts to speak, he says silly...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“The foolish are placed in high positions, but men of wealth...”"
+          "“A ruler may give fools too much authority. At the same...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“The foolish are placed in high positions, but men of wealth...”",
+        "correctAnswer": "“A ruler may give fools too much authority. At the same...”",
         "reference": "Ecclesiastes 10:6",
-        "explanation": "Ecclesiastes 10:6 records: 'The foolish are placed in high positions, but men of wealth are kept low.'."
+        "explanation": "Ecclesiastes 10:6 records: 'A ruler may give fools too much authority. At the same time, rich people have no authority.'."
       },
       {
         "id": "ecc-10-q5",
         "questionNumber": 5,
         "question": "According to the text, what happened or was commanded in Ecclesiastes 10:8?",
         "options": [
-          "“He who makes a hole for others will himself go into...”",
-          "“If a snake gives a bite before the word...”",
-          "“The work of the foolish will be a weariness...”",
+          "“If you dig a deep hole, you might fall into it....”",
+          "“Someone may have power over dangerous snakes. But that...”",
+          "“When a fool does any work, he quickly becomes...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“He who makes a hole for others will himself go into...”",
+        "correctAnswer": "“If you dig a deep hole, you might fall into it....”",
         "reference": "Ecclesiastes 10:8",
-        "explanation": "Ecclesiastes 10:8 records: 'He who makes a hole for others will himself go into it, and for him who makes a hole through a wall the bite of a snake will be a punishment.'."
+        "explanation": "Ecclesiastes 10:8 records: 'If you dig a deep hole, you might fall into it. If you knock down a wall, a snake might bite you.'."
       },
       {
         "id": "ecc-10-q6",
         "questionNumber": 6,
         "question": "What central message or instruction is delivered in Ecclesiastes 10:10?",
         "options": [
-          "“The first words of his mouth are foolish, and...”",
-          "“If the iron has no edge, and he does not make...”",
-          "“Happy is the land whose ruler is of noble...”",
+          "“When a fool starts to speak, he says silly...”",
+          "“If your axe is not sharp, you will need to be...”",
+          "“But if a country's ruler belongs to a good...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“If the iron has no edge, and he does not make...”",
+        "correctAnswer": "“If your axe is not sharp, you will need to be...”",
         "reference": "Ecclesiastes 10:10",
-        "explanation": "Ecclesiastes 10:10 records: 'If the iron has no edge, and he does not make it sharp, then he has to put out more strength; but wisdom makes things go well.'."
+        "explanation": "Ecclesiastes 10:10 records: 'If your axe is not sharp, you will need to be very strong to use it. If you are wise, you will make the axe's edge sharp again. That is how wisdom helps you to do things well.'."
       },
       {
         "id": "ecc-10-q7",
         "questionNumber": 7,
         "question": "What detail regarding God's work, covenant, or people is given in Ecclesiastes 10:12?",
         "options": [
-          "“The work of the foolish will be a weariness...”",
-          "“A feast is for laughing, and wine makes glad...”",
-          "“The words of a wise man's mouth are sweet to all,...”",
+          "“When a fool does any work, he quickly becomes...”",
+          "“Good food and wine help us to laugh and...”",
+          "“People respect a wise person, because of the things that he...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“The words of a wise man's mouth are sweet to all,...”",
+        "correctAnswer": "“People respect a wise person, because of the things that he...”",
         "reference": "Ecclesiastes 10:12",
-        "explanation": "Ecclesiastes 10:12 records: 'The words of a wise man's mouth are sweet to all, but the lips of a foolish man are his destruction.'."
+        "explanation": "Ecclesiastes 10:12 records: 'People respect a wise person, because of the things that he says. But the words of a fool will destroy him.'."
       },
       {
         "id": "ecc-10-q8",
         "questionNumber": 8,
         "question": "What phrase or account is recorded in Ecclesiastes 10:14?",
         "options": [
-          "“Happy is the land whose ruler is of noble...”",
-          "“Dead flies make the oil of the perfumer give...”",
+          "“But if a country's ruler belongs to a good...”",
+          "“A few dead flies in a bottle of perfume...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“The foolish are full of words; man has no knowledge of...”"
+          "“But he never stops talking. Nobody knows what will happen in...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“The foolish are full of words; man has no knowledge of...”",
+        "correctAnswer": "“But he never stops talking. Nobody knows what will happen in...”",
         "reference": "Ecclesiastes 10:14",
-        "explanation": "Ecclesiastes 10:14 records: 'The foolish are full of words; man has no knowledge of what will be; and who is able to say what will be after him?'."
+        "explanation": "Ecclesiastes 10:14 records: 'But he never stops talking. Nobody knows what will happen in the future. Nobody can tell us what will happen after we die.'."
       },
       {
         "id": "ecc-10-q9",
         "questionNumber": 9,
         "question": "How does the passage describe the circumstances or people in Ecclesiastes 10:16?",
         "options": [
-          "“Unhappy is the land whose king is a boy, and whose...”",
-          "“A feast is for laughing, and wine makes glad...”",
-          "“And when the foolish man is walking in the...”",
+          "“A country is in terrible trouble if its ruler is young...”",
+          "“Good food and wine help us to laugh and...”",
+          "“Even when fools walk along the road, they show...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“Unhappy is the land whose king is a boy, and whose...”",
+        "correctAnswer": "“A country is in terrible trouble if its ruler is young...”",
         "reference": "Ecclesiastes 10:16",
-        "explanation": "Ecclesiastes 10:16 records: 'Unhappy is the land whose king is a boy, and whose rulers are feasting in the morning.'."
+        "explanation": "Ecclesiastes 10:16 records: 'A country is in terrible trouble if its ruler is young and foolish. If its leaders go to parties all day, a country is in trouble.'."
       },
       {
         "id": "ecc-10-q10",
         "questionNumber": 10,
         "question": "In the concluding portion of the chapter, what takes place in Ecclesiastes 10:18?",
         "options": [
-          "“Dead flies make the oil of the perfumer give...”",
-          "“When no work is done the roof goes in, and when...”",
-          "“There is an evil which I have seen under...”",
+          "“A few dead flies in a bottle of perfume...”",
+          "“If a man is too lazy to work on his house,...”",
+          "“I have seen another terrible thing that happens on...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“When no work is done the roof goes in, and when...”",
+        "correctAnswer": "“If a man is too lazy to work on his house,...”",
         "reference": "Ecclesiastes 10:18",
-        "explanation": "Ecclesiastes 10:18 records: 'When no work is done the roof goes in, and when the hands do nothing water comes into the house.'."
+        "explanation": "Ecclesiastes 10:18 records: 'If a man is too lazy to work on his house, its roof will fall down. Rain will make his rooms wet.'."
       }
     ],
     "11": [
@@ -1531,150 +1528,150 @@
         "questionNumber": 1,
         "question": "According to Ecclesiastes 11:1, what is the opening statement or setting of this chapter?",
         "options": [
-          "It records: “Put out your bread on the face of the waters; for after a long ti...”",
+          "It records: “Freely give your things to other people. If you do that, one day ...”",
           "It begins with a prayer of thanksgiving for deliverance in Ecclesiastes",
           "It opens with a formal census and counting of the congregation",
           "It records a severe judgment pronounced against neighboring nations"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "It records: “Put out your bread on the face of the waters; for after a long ti...”",
+        "correctAnswer": "It records: “Freely give your things to other people. If you do that, one day ...”",
         "reference": "Ecclesiastes 11:1",
-        "explanation": "The chapter begins directly with the statement: 'Put out your bread on the face of the waters; for after a long time it will come back to you again.'."
+        "explanation": "The chapter begins directly with the statement: 'Freely give your things to other people. If you do that, one day you will receive your things back again.'."
       },
       {
         "id": "ecc-11-q2",
         "questionNumber": 2,
         "question": "What key instruction, event, or declaration is set forth in Ecclesiastes 11:2?",
         "options": [
-          "“As you have no knowledge of the way of...”",
-          "“Give a part to seven or even to eight, because you...”",
-          "“Have joy, O young man, while you are young;...”",
+          "“We do not know the path that the wind...”",
+          "“Share your things with several other people. You do not know...”",
+          "“Young people, enjoy your life while you are young....”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“Give a part to seven or even to eight, because you...”",
+        "correctAnswer": "“Share your things with several other people. You do not know...”",
         "reference": "Ecclesiastes 11:2",
-        "explanation": "Ecclesiastes 11:2 records: 'Give a part to seven or even to eight, because you have no knowledge of the evil which will be on the earth.'."
+        "explanation": "Ecclesiastes 11:2 records: 'Share your things with several other people. You do not know when trouble will come. Then those people can help you.'."
       },
       {
         "id": "ecc-11-q3",
         "questionNumber": 3,
         "question": "What significant action or revelation occurs in Ecclesiastes 11:3?",
         "options": [
-          "“In the morning put your seed into the earth,...”",
-          "“Put out your bread on the face of the...”",
-          "“If the clouds are full of rain, they send it down...”",
+          "“Plant your seeds in the morning, and continue to...”",
+          "“Freely give your things to other people. If you...”",
+          "“When clouds are full of water, rain will fall on the...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“If the clouds are full of rain, they send it down...”",
+        "correctAnswer": "“When clouds are full of water, rain will fall on the...”",
         "reference": "Ecclesiastes 11:3",
-        "explanation": "Ecclesiastes 11:3 records: 'If the clouds are full of rain, they send it down on the earth; and if a tree comes down to the south, or the north, in whatever place it comes down, there it will be.'."
+        "explanation": "Ecclesiastes 11:3 records: 'When clouds are full of water, rain will fall on the earth. If a tree falls to the ground, it will stay there, in the same place.'."
       },
       {
         "id": "ecc-11-q4",
         "questionNumber": 4,
         "question": "What truth or description is highlighted in Ecclesiastes 11:4?",
         "options": [
-          "“Truly the light is sweet, and it is good...”",
-          "“Put out your bread on the face of the...”",
+          "“Light makes people happy. It is good to see...”",
+          "“Freely give your things to other people. If you...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“He who is watching the wind will not get the seed...”"
+          "“A farmer who waits for the right wind will never plant...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“He who is watching the wind will not get the seed...”",
+        "correctAnswer": "“A farmer who waits for the right wind will never plant...”",
         "reference": "Ecclesiastes 11:4",
-        "explanation": "Ecclesiastes 11:4 records: 'He who is watching the wind will not get the seed planted, and he who is looking at the clouds will not get in the grain.'."
+        "explanation": "Ecclesiastes 11:4 records: 'A farmer who waits for the right wind will never plant any seeds. If he is always looking at the clouds, he will never bring in his crops.'."
       },
       {
         "id": "ecc-11-q5",
         "questionNumber": 5,
         "question": "According to the text, what happened or was commanded in Ecclesiastes 11:5?",
         "options": [
-          "“As you have no knowledge of the way of the wind,...”",
-          "“But even if a man's life is long and...”",
-          "“Give a part to seven or even to eight,...”",
+          "“We do not know the path that the wind blows along....”",
+          "“People may live for many years, and they should...”",
+          "“Share your things with several other people. You do...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“As you have no knowledge of the way of the wind,...”",
+        "correctAnswer": "“We do not know the path that the wind blows along....”",
         "reference": "Ecclesiastes 11:5",
-        "explanation": "Ecclesiastes 11:5 records: 'As you have no knowledge of the way of the wind, or of the growth of the bones in the body of her who is with child, even so you have no knowledge of the works of God who has made all.'."
+        "explanation": "Ecclesiastes 11:5 records: 'We do not know the path that the wind blows along. Nor do we know how a baby's body grows inside a pregnant woman. So nobody can explain the things that God does. He is the one who has made everything.'."
       },
       {
         "id": "ecc-11-q6",
         "questionNumber": 6,
         "question": "What central message or instruction is delivered in Ecclesiastes 11:6?",
         "options": [
-          "“Have joy, O young man, while you are young;...”",
-          "“In the morning put your seed into the earth, and till...”",
-          "“If the clouds are full of rain, they send...”",
+          "“Young people, enjoy your life while you are young....”",
+          "“Plant your seeds in the morning, and continue to work until...”",
+          "“When clouds are full of water, rain will fall...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“In the morning put your seed into the earth, and till...”",
+        "correctAnswer": "“Plant your seeds in the morning, and continue to work until...”",
         "reference": "Ecclesiastes 11:6",
-        "explanation": "Ecclesiastes 11:6 records: 'In the morning put your seed into the earth, and till the evening let not your hand be at rest; because you are not certain which will do well, this or that--or if the two will be equally good.'."
+        "explanation": "Ecclesiastes 11:6 records: 'Plant your seeds in the morning, and continue to work until the evening. You do not know which seeds will become strong plants. Perhaps only some of them will grow. Perhaps they will all grow well.'."
       },
       {
         "id": "ecc-11-q7",
         "questionNumber": 7,
         "question": "What detail regarding God's work, covenant, or people is given in Ecclesiastes 11:7?",
         "options": [
-          "“Put out your bread on the face of the...”",
-          "“He who is watching the wind will not get...”",
-          "“Truly the light is sweet, and it is good for the...”",
+          "“Freely give your things to other people. If you...”",
+          "“A farmer who waits for the right wind will...”",
+          "“Light makes people happy. It is good to see the sun...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“Truly the light is sweet, and it is good for the...”",
+        "correctAnswer": "“Light makes people happy. It is good to see the sun...”",
         "reference": "Ecclesiastes 11:7",
-        "explanation": "Ecclesiastes 11:7 records: 'Truly the light is sweet, and it is good for the eyes to see the sun.'."
+        "explanation": "Ecclesiastes 11:7 records: 'Light makes people happy. It is good to see the sun rise in the morning.'."
       },
       {
         "id": "ecc-11-q8",
         "questionNumber": 8,
         "question": "What phrase or account is recorded in Ecclesiastes 11:8?",
         "options": [
-          "“Put out your bread on the face of the...”",
-          "“As you have no knowledge of the way of...”",
+          "“Freely give your things to other people. If you...”",
+          "“We do not know the path that the wind...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“But even if a man's life is long and he has...”"
+          "“People may live for many years, and they should happily enjoy...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“But even if a man's life is long and he has...”",
+        "correctAnswer": "“People may live for many years, and they should happily enjoy...”",
         "reference": "Ecclesiastes 11:8",
-        "explanation": "Ecclesiastes 11:8 records: 'But even if a man's life is long and he has joy in all his years, let him keep in mind the dark days, because they will be great in number. Whatever may come is to no purpose.'."
+        "explanation": "Ecclesiastes 11:8 records: 'People may live for many years, and they should happily enjoy every day. But they should remember that their lives will end in death. There will be many days of trouble ahead. We cannot understand everything that will happen to us in the future. 9 Young people, enjoy your life while you are young.Do the things that you think are good.Enjoy the things that you see.But remember that God will judge youfor all the things that you do. 10 Do not worry about things.Do not let your body cause you to have pain.You will not be young and strong for very long.We all become old too quickly.'."
       },
       {
         "id": "ecc-11-q9",
         "questionNumber": 9,
         "question": "How does the passage describe the circumstances or people in Ecclesiastes 11:9?",
         "options": [
-          "“Have joy, O young man, while you are young; and let...”",
-          "“Give a part to seven or even to eight,...”",
-          "“In the morning put your seed into the earth,...”",
+          "“Young people, enjoy your life while you are young. Do the...”",
+          "“Share your things with several other people. You do...”",
+          "“Plant your seeds in the morning, and continue to...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“Have joy, O young man, while you are young; and let...”",
+        "correctAnswer": "“Young people, enjoy your life while you are young. Do the...”",
         "reference": "Ecclesiastes 11:9",
-        "explanation": "Ecclesiastes 11:9 records: 'Have joy, O young man, while you are young; and let your heart be glad in the days of your strength, and go in the ways of your heart, and in the desire of your eyes; but be certain that for all these things God will be your judge.'."
+        "explanation": "Ecclesiastes 11:9 records: 'Young people, enjoy your life while you are young. Do the things that you think are good. Enjoy the things that you see. But remember that God will judge you for all the things that you do.'."
       },
       {
         "id": "ecc-11-q10",
         "questionNumber": 10,
         "question": "In the concluding portion of the chapter, what takes place in Ecclesiastes 11:10?",
         "options": [
-          "“If the clouds are full of rain, they send...”",
-          "“So put away trouble from your heart, and sorrow from your...”",
-          "“Truly the light is sweet, and it is good...”",
+          "“When clouds are full of water, rain will fall...”",
+          "“Do not worry about things. Do not let your body cause...”",
+          "“Light makes people happy. It is good to see...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“So put away trouble from your heart, and sorrow from your...”",
+        "correctAnswer": "“Do not worry about things. Do not let your body cause...”",
         "reference": "Ecclesiastes 11:10",
-        "explanation": "Ecclesiastes 11:10 records: 'So put away trouble from your heart, and sorrow from your flesh; because the early years and the best years are to no purpose.'."
+        "explanation": "Ecclesiastes 11:10 records: 'Do not worry about things. Do not let your body cause you to have pain. You will not be young and strong for very long. We all become old too quickly.'."
       }
     ],
     "12": [
@@ -1683,150 +1680,150 @@
         "questionNumber": 1,
         "question": "According to Ecclesiastes 12:1, what is the opening statement or setting of this chapter?",
         "options": [
-          "It records: “Let your mind be turned to your Maker in the days of your strengt...”",
+          "It records: “Remember to serve God while you are young. He is the one who made...”",
           "It begins with a prayer of thanksgiving for deliverance in Ecclesiastes",
           "It opens with a formal census and counting of the congregation",
           "It records a severe judgment pronounced against neighboring nations"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "It records: “Let your mind be turned to your Maker in the days of your strengt...”",
+        "correctAnswer": "It records: “Remember to serve God while you are young. He is the one who made...”",
         "reference": "Ecclesiastes 12:1",
-        "explanation": "The chapter begins directly with the statement: 'Let your mind be turned to your Maker in the days of your strength, while the evil days come not, and the years are far away when you will say, I have no pleasure in them;'."
+        "explanation": "The chapter begins directly with the statement: 'Remember to serve God while you are young. He is the one who made you. Your life will have many troubles in the future. During those years, you will say, ‘I do not enjoy my life any more.’'."
       },
       {
         "id": "ecc-12-q2",
         "questionNumber": 2,
         "question": "What key instruction, event, or declaration is set forth in Ecclesiastes 12:2?",
         "options": [
-          "“And he is in fear of that which is...”",
-          "“While the sun, or the light, or the moon, or the...”",
-          "“And because the Preacher was wise he still gave...”",
+          "“You will be afraid to stand on high places....”",
+          "“When you are old, the light from the sun will not...”",
+          "“The Teacher was a wise man. He also taught...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“While the sun, or the light, or the moon, or the...”",
+        "correctAnswer": "“When you are old, the light from the sun will not...”",
         "reference": "Ecclesiastes 12:2",
-        "explanation": "Ecclesiastes 12:2 records: 'While the sun, or the light, or the moon, or the stars, are not dark, and the clouds come not back after the rain;'."
+        "explanation": "Ecclesiastes 12:2 records: 'When you are old, the light from the sun will not seem to be bright. You will not see the moon or the stars. There will always be dark clouds after the rain.'."
       },
       {
         "id": "ecc-12-q3",
         "questionNumber": 3,
         "question": "What significant action or revelation occurs in Ecclesiastes 12:3?",
         "options": [
-          "“Before ever the silver cord is cut, or the...”",
-          "“The Preacher made search for words which were pleasing,...”",
-          "“In the day when the keepers of the house are shaking...”",
+          "“Remember to serve God while you are young, because...”",
+          "“The Teacher tried to find the right words, so...”",
+          "“Your arms that have kept you safe will shake. Your legs...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“In the day when the keepers of the house are shaking...”",
+        "correctAnswer": "“Your arms that have kept you safe will shake. Your legs...”",
         "reference": "Ecclesiastes 12:3",
-        "explanation": "Ecclesiastes 12:3 records: 'In the day when the keepers of the house are shaking for fear, and the strong men are bent down, and the women who were crushing the grain are at rest because their number is small, and those looking out of the windows are unable to see;'."
+        "explanation": "Ecclesiastes 12:3 records: 'Your arms that have kept you safe will shake. Your legs will become weak. You will have only a few teeth to eat with. Your eyes will no longer see very well.'."
       },
       {
         "id": "ecc-12-q4",
         "questionNumber": 4,
         "question": "What truth or description is highlighted in Ecclesiastes 12:4?",
         "options": [
-          "“And the dust goes back to the earth as...”",
-          "“The words of the wise are pointed, and sayings...”",
+          "“Our bodies go back into the ground as dust....”",
+          "“The words of wise people are like sharp sticks...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“When the doors are shut in the street, and the sound...”"
+          "“Your ears will not hear noises outside in the streets. You...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“When the doors are shut in the street, and the sound...”",
+        "correctAnswer": "“Your ears will not hear noises outside in the streets. You...”",
         "reference": "Ecclesiastes 12:4",
-        "explanation": "Ecclesiastes 12:4 records: 'When the doors are shut in the street, and the sound of the crushing is low, and the voice of the bird is soft, and the daughters of music will be made low;'."
+        "explanation": "Ecclesiastes 12:4 records: 'Your ears will not hear noises outside in the streets. You will not hear the sound of people as they work. You will not hear the sound of people as they sing songs. But a bird's song will wake you when you want to sleep.'."
       },
       {
         "id": "ecc-12-q5",
         "questionNumber": 5,
         "question": "According to the text, what happened or was commanded in Ecclesiastes 12:5?",
         "options": [
-          "“And he is in fear of that which is high, and...”",
-          "“All things are to no purpose, says the Preacher,...”",
-          "“And further, my son, take note of this: of...”",
+          "“You will be afraid to stand on high places. You will...”",
+          "“So I, the Teacher, say, ‘All these things seem...”",
+          "“My son, I warn you to be careful about...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“And he is in fear of that which is high, and...”",
+        "correctAnswer": "“You will be afraid to stand on high places. You will...”",
         "reference": "Ecclesiastes 12:5",
-        "explanation": "Ecclesiastes 12:5 records: 'And he is in fear of that which is high, and danger is in the road, and the tree is white with flower, and the least thing is a weight, and desire is at an end, because man goes to his last resting-place, and those who are sorrowing are in the streets;'."
+        "explanation": "Ecclesiastes 12:5 records: 'You will be afraid to stand on high places. You will worry about danger in the streets. When you are old, your hair will become white, like the flowers on an almond tree. You will feel too tired to move yourself, like an old grasshopper. You will not want to have sex. Finally, we will all die and go to our home in the ground. Many people will weep at our funeral.'."
       },
       {
         "id": "ecc-12-q6",
         "questionNumber": 6,
         "question": "What central message or instruction is delivered in Ecclesiastes 12:6?",
         "options": [
-          "“And because the Preacher was wise he still gave...”",
-          "“Before ever the silver cord is cut, or the vessel of...”",
-          "“This is the last word. All has been said....”",
+          "“The Teacher was a wise man. He also taught...”",
+          "“Remember to serve God while you are young, because one day...”",
+          "“Now I have heard everything and this is what...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“Before ever the silver cord is cut, or the vessel of...”",
+        "correctAnswer": "“Remember to serve God while you are young, because one day...”",
         "reference": "Ecclesiastes 12:6",
-        "explanation": "Ecclesiastes 12:6 records: 'Before ever the silver cord is cut, or the vessel of gold is broken, or the pot is broken at the fountain, or the wheel broken at the water-hole;'."
+        "explanation": "Ecclesiastes 12:6 records: 'Remember to serve God while you are young, because one day your life will finish. It will be like a silver chain that breaks; like a gold bowl that breaks; like a water pot at the well that breaks into pieces; like a rope at the well that breaks apart.'."
       },
       {
         "id": "ecc-12-q7",
         "questionNumber": 7,
         "question": "What detail regarding God's work, covenant, or people is given in Ecclesiastes 12:7?",
         "options": [
-          "“The Preacher made search for words which were pleasing,...”",
-          "“Let your mind be turned to your Maker in...”",
-          "“And the dust goes back to the earth as it was,...”",
+          "“The Teacher tried to find the right words, so...”",
+          "“Remember to serve God while you are young. He...”",
+          "“Our bodies go back into the ground as dust. The breath...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“And the dust goes back to the earth as it was,...”",
+        "correctAnswer": "“Our bodies go back into the ground as dust. The breath...”",
         "reference": "Ecclesiastes 12:7",
-        "explanation": "Ecclesiastes 12:7 records: 'And the dust goes back to the earth as it was, and the spirit goes back to God who gave it.'."
+        "explanation": "Ecclesiastes 12:7 records: 'Our bodies go back into the ground as dust. The breath of our life goes back to God, who gave it to us. 8 So I, the Teacher, say,‘All these things seem to have no purpose.We cannot understand why they happen.’About the Teacher 9 The Teacher was a wise man. He also taught the people to understand things. He studied many proverbs and he wrote them down carefully. 10 The Teacher tried to find the right words, so that he could show the true meaning of what he wrote. 11 The words of wise people are like sharp sticks that a farmer uses to move his animals along. Their messages are like strong nails in a piece of wood. It is God, our one Shepherd, who gives these messages to us.Worship God and obey him 12 My son, I warn you to be careful about any other teaching. There will always be more and more books to read. If you try to study everything, you will become very weak and tired. 13 Now I have heard everything and this is what I have decided: Respect God and obey his commands. That is God's purpose for all people. 14 Remember that God will judge everything that we do, to see if it is good or it is bad. He knows even the things that we do secretly.'."
       },
       {
         "id": "ecc-12-q8",
         "questionNumber": 8,
         "question": "What phrase or account is recorded in Ecclesiastes 12:8?",
         "options": [
-          "“The words of the wise are pointed, and sayings...”",
-          "“Let your mind be turned to your Maker in...”",
+          "“The words of wise people are like sharp sticks...”",
+          "“Remember to serve God while you are young. He...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“All things are to no purpose, says the Preacher, all is...”"
+          "“So I, the Teacher, say, ‘All these things seem to have...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“All things are to no purpose, says the Preacher, all is...”",
+        "correctAnswer": "“So I, the Teacher, say, ‘All these things seem to have...”",
         "reference": "Ecclesiastes 12:8",
-        "explanation": "Ecclesiastes 12:8 records: 'All things are to no purpose, says the Preacher, all is to no purpose.'."
+        "explanation": "Ecclesiastes 12:8 records: 'So I, the Teacher, say, ‘All these things seem to have no purpose. We cannot understand why they happen.’'."
       },
       {
         "id": "ecc-12-q9",
         "questionNumber": 9,
         "question": "How does the passage describe the circumstances or people in Ecclesiastes 12:9?",
         "options": [
-          "“And because the Preacher was wise he still gave the people...”",
-          "“And further, my son, take note of this: of...”",
-          "“While the sun, or the light, or the moon,...”",
+          "“The Teacher was a wise man. He also taught the people...”",
+          "“My son, I warn you to be careful about...”",
+          "“When you are old, the light from the sun...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“And because the Preacher was wise he still gave the people...”",
+        "correctAnswer": "“The Teacher was a wise man. He also taught the people...”",
         "reference": "Ecclesiastes 12:9",
-        "explanation": "Ecclesiastes 12:9 records: 'And because the Preacher was wise he still gave the people knowledge; searching out, testing, and putting in order a great number of wise sayings.'."
+        "explanation": "Ecclesiastes 12:9 records: 'The Teacher was a wise man. He also taught the people to understand things. He studied many proverbs and he wrote them down carefully.'."
       },
       {
         "id": "ecc-12-q10",
         "questionNumber": 10,
         "question": "In the concluding portion of the chapter, what takes place in Ecclesiastes 12:10?",
         "options": [
-          "“This is the last word. All has been said....”",
-          "“The Preacher made search for words which were pleasing, but his...”",
-          "“In the day when the keepers of the house...”",
+          "“Now I have heard everything and this is what...”",
+          "“The Teacher tried to find the right words, so that he...”",
+          "“Your arms that have kept you safe will shake....”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“The Preacher made search for words which were pleasing, but his...”",
+        "correctAnswer": "“The Teacher tried to find the right words, so that he...”",
         "reference": "Ecclesiastes 12:10",
-        "explanation": "Ecclesiastes 12:10 records: 'The Preacher made search for words which were pleasing, but his writing was in words upright and true.'."
+        "explanation": "Ecclesiastes 12:10 records: 'The Teacher tried to find the right words, so that he could show the true meaning of what he wrote.'."
       }
     ]
   }

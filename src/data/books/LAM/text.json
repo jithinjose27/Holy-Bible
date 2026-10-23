@@ -1,1409 +1,3324 @@
 {
-  "translation": "EasyEnglish Bible",
-  "book": "Lamentations",
-  "bookId": "LAM",
+  "id": "LAM",
+  "name": "Lamentations",
+  "slug": "lamentations",
+  "translation": "EasyEnglish Bible (EASY)",
+  "publisher": "MissionAssist UK",
+  "referenceUrl": "https://www.easyenglish.bible/bible/easy/lamentations/",
   "totalChapters": 5,
-  "copyrightNotice": "Scripture quotations are from the EasyEnglish Bible / Bible in Basic English. Public Domain.",
-  "officialSourceUrl": "https://www.easyenglish.bible/bible/easy/lamentations/1/",
+  "totalVerses": 154,
   "chapters": [
     {
-      "book": "Lamentations",
       "chapter": 1,
       "title": "Lamentations 1",
-      "subtitle": "Lamentations Chapter 1",
+      "subtitle": "",
+      "totalVerses": 22,
+      "sourceUrl": "https://www.easyenglish.bible/bible/easy/lamentations/1/",
       "sections": [
         {
-          "heading": "Lamentations Chapter 1",
+          "heading": "The prophet speaks about Jerusalem",
           "items": [
             [
               {
                 "verse": 1,
-                "text": "See her seated by herself, the town which was full of people! She who was great among the nations has become like a widow! She who was a princess among the countries has come under the yoke of forced work!"
-              },
+                "text": "Look! The city at one time was full of people."
+              }
+            ],
+            [
+              {
+                "verse": 1,
+                "text": "But now it is completely alone."
+              }
+            ],
+            [
+              {
+                "verse": 1,
+                "text": "She was a famous city among the nations of the world."
+              }
+            ],
+            [
+              {
+                "verse": 1,
+                "text": "But now she is alone, like a widow."
+              }
+            ],
+            [
+              {
+                "verse": 1,
+                "text": "She ruled other countries like a queen."
+              }
+            ],
+            [
+              {
+                "verse": 1,
+                "text": "But now she has become a slave."
+              }
+            ],
+            [
               {
                 "verse": 2,
-                "text": "She is sorrowing bitterly in the night, and her face is wet with weeping; among all her lovers she has no comforter: all her friends have been false to her, they have become her haters."
-              },
+                "text": "She weeps aloud in the night."
+              }
+            ],
+            [
+              {
+                "verse": 2,
+                "text": "There are tears on her face."
+              }
+            ],
+            [
+              {
+                "verse": 2,
+                "text": "She had many lovers."
+              }
+            ],
+            [
+              {
+                "verse": 2,
+                "text": "But now there is no one to comfort her."
+              }
+            ],
+            [
+              {
+                "verse": 2,
+                "text": "All her friends have turned away from her."
+              }
+            ],
+            [
+              {
+                "verse": 2,
+                "text": "They have become her enemies."
+              }
+            ],
+            [
               {
                 "verse": 3,
-                "text": "Judah has been taken away as a prisoner because of trouble and hard work; her living-place is among the nations, there is no rest for her: all her attackers have overtaken her in a narrow place."
-              },
+                "text": "Judah's enemies have taken her people away as prisoners."
+              }
+            ],
+            [
+              {
+                "verse": 3,
+                "text": "The people suffer as slaves of cruel enemies."
+              }
+            ],
+            [
+              {
+                "verse": 3,
+                "text": "Judah's people live among foreign nations."
+              }
+            ],
+            [
+              {
+                "verse": 3,
+                "text": "They have nowhere to rest safely."
+              }
+            ],
+            [
+              {
+                "verse": 3,
+                "text": "Their enemies chased them and they caught them."
+              }
+            ],
+            [
+              {
+                "verse": 3,
+                "text": "Judah's people could not escape."
+              }
+            ],
+            [
               {
                 "verse": 4,
-                "text": "The ways of Zion are sad, because no one comes to the holy meeting; all her doorways are made waste, her priests are breathing out sorrow: her virgins are troubled, and it is bitter for her."
+                "text": "The roads to Zion are sad places now."
+              }
+            ],
+            [
+              {
+                "verse": 4,
+                "text": "Nobody travels along them to come to the festivals."
+              }
+            ],
+            [
+              {
+                "verse": 4,
+                "text": "No people meet at the city gates."
+              }
+            ],
+            [
+              {
+                "verse": 4,
+                "text": "The priests are sad."
+              }
+            ],
+            [
+              {
+                "verse": 4,
+                "text": "The young women weep."
+              }
+            ],
+            [
+              {
+                "verse": 4,
+                "text": "The people of Zion are very upset."
               }
             ],
             [
               {
                 "verse": 5,
-                "text": "Those who are against her have become the head, everything goes well for her haters; for the Lord has sent sorrow on her because of the great number of her sins: her young children have gone away as prisoners before the attacker."
-              },
+                "text": "Jerusalem's enemies now rule her people."
+              }
+            ],
+            [
+              {
+                "verse": 5,
+                "text": "They live an easy life."
+              }
+            ],
+            [
+              {
+                "verse": 5,
+                "text": "The Lord has caused Jerusalem to suffer"
+              }
+            ],
+            [
+              {
+                "verse": 5,
+                "text": "because of the many sins of her people."
+              }
+            ],
+            [
+              {
+                "verse": 5,
+                "text": "Enemies have taken her children away"
+              }
+            ],
+            [
+              {
+                "verse": 5,
+                "text": "as their prisoners."
+              }
+            ],
+            [
               {
                 "verse": 6,
-                "text": "And all her glory has gone from the daughter of Zion: her rulers have become like harts with no place for food, and they have gone in flight without strength before the attacker."
-              },
+                "text": "Zion is not a beautiful city any more."
+              }
+            ],
+            [
+              {
+                "verse": 6,
+                "text": "Her leaders are like deer"
+              }
+            ],
+            [
+              {
+                "verse": 6,
+                "text": "that can find no food to eat."
+              }
+            ],
+            [
+              {
+                "verse": 6,
+                "text": "They are too weak to escape"
+              }
+            ],
+            [
+              {
+                "verse": 6,
+                "text": "from the people who are chasing them."
+              }
+            ],
+            [
               {
                 "verse": 7,
-                "text": "Jerusalem keeps in mind, in the days of her sorrow and of her wanderings, all the desired things which were hers in days gone by; when her people came into the power of her hater and she had no helper, her attackers saw their desire effected on her and made sport of her destruction."
-              },
+                "text": "Jerusalem's people are suffering"
+              }
+            ],
+            [
+              {
+                "verse": 7,
+                "text": "and they have no homes to live in."
+              }
+            ],
+            [
+              {
+                "verse": 7,
+                "text": "So they remember how great their city was,"
+              }
+            ],
+            [
+              {
+                "verse": 7,
+                "text": "and the valuable things that they had long ago."
+              }
+            ],
+            [
+              {
+                "verse": 7,
+                "text": "When their enemies took the city for themselves,"
+              }
+            ],
+            [
+              {
+                "verse": 7,
+                "text": "nobody came to help them."
+              }
+            ],
+            [
+              {
+                "verse": 7,
+                "text": "Jerusalem's enemies laughed"
+              }
+            ],
+            [
+              {
+                "verse": 7,
+                "text": "while they destroyed the city."
+              }
+            ],
+            [
               {
                 "verse": 8,
-                "text": "Great is the sin of Jerusalem; for this cause she has become an unclean thing: all those who gave her honour are looking down on her, because they have seen her shame: now truly, breathing out grief, she is turned back."
+                "text": "Jerusalem's sins are very bad."
+              }
+            ],
+            [
+              {
+                "verse": 8,
+                "text": "That is why it has become an unclean place."
+              }
+            ],
+            [
+              {
+                "verse": 8,
+                "text": "At one time, people gave her honour."
+              }
+            ],
+            [
+              {
+                "verse": 8,
+                "text": "But now they do not respect her."
+              }
+            ],
+            [
+              {
+                "verse": 8,
+                "text": "They have seen her great shame."
+              }
+            ],
+            [
+              {
+                "verse": 8,
+                "text": "Jerusalem's people are upset."
+              }
+            ],
+            [
+              {
+                "verse": 8,
+                "text": "They hide their faces because they are ashamed."
               }
             ],
             [
               {
                 "verse": 9,
-                "text": "In her skirts were her unclean ways; she gave no thought to her end; and her fall has been a wonder; she has no comforter: see her sorrow, O Lord; for the attacker is lifted up."
-              },
+                "text": "Everyone can see that Jerusalem has become an unclean place."
+              }
+            ],
+            [
+              {
+                "verse": 9,
+                "text": "The people did not think about their sins."
+              }
+            ],
+            [
+              {
+                "verse": 9,
+                "text": "They did not worry about what would happen."
+              }
+            ],
+            [
+              {
+                "verse": 9,
+                "text": "But a terrible thing happened when enemies destroyed their city."
+              }
+            ],
+            [
+              {
+                "verse": 9,
+                "text": "There was nobody who could comfort them."
+              }
+            ]
+          ]
+        },
+        {
+          "heading": "Jerusalem's people call for help",
+          "items": [
+            [
+              {
+                "verse": 9,
+                "text": "They called to God for help,"
+              }
+            ],
+            [
+              {
+                "verse": 9,
+                "text": "‘Lord, see our trouble!"
+              }
+            ],
+            [
+              {
+                "verse": 9,
+                "text": "Our enemies are boasting"
+              }
+            ],
+            [
+              {
+                "verse": 9,
+                "text": "that they have won against us!’"
+              }
+            ],
+            [
               {
                 "verse": 10,
-                "text": "The hand of her hater is stretched out over all her desired things; for she has seen that the nations have come into her holy place, about whom you gave orders that they were not to come into the meeting of your people."
-              },
+                "text": "Enemies have taken all Jerusalem's valuable things for themselves."
+              }
+            ],
+            [
+              {
+                "verse": 10,
+                "text": "Her people watched"
+              }
+            ],
+            [
+              {
+                "verse": 10,
+                "text": "as foreigners went into the holy temple."
+              }
+            ],
+            [
+              {
+                "verse": 10,
+                "text": "But the Lord himself had said,"
+              }
+            ],
+            [
+              {
+                "verse": 10,
+                "text": "‘Foreign people must not go into that special place.’"
+              }
+            ],
+            [
               {
                 "verse": 11,
-                "text": "Breathing out grief all her people are looking for bread; they have given their desired things for food to give them life: see, O Lord, and take note; for she has become a thing of shame."
-              },
+                "text": "All Jerusalem's people cry"
+              }
+            ],
+            [
+              {
+                "verse": 11,
+                "text": "as they look for a bit of food to eat."
+              }
+            ],
+            [
+              {
+                "verse": 11,
+                "text": "They have to sell their valuable things"
+              }
+            ],
+            [
+              {
+                "verse": 11,
+                "text": "to buy enough food to keep them alive."
+              }
+            ],
+            [
+              {
+                "verse": 11,
+                "text": "The people say, ‘Lord, look at us!"
+              }
+            ],
+            [
+              {
+                "verse": 11,
+                "text": "Nobody respects us!’"
+              }
+            ],
+            [
               {
                 "verse": 12,
-                "text": "Come to me, all you who go by! Keep your eyes on me, and see if there is any pain like the pain of my wound, which the Lord has sent on me in the day of his burning wrath."
+                "text": "They say to those who go past the city,"
+              }
+            ],
+            [
+              {
+                "verse": 12,
+                "text": "‘Will you do nothing to help us?"
+              }
+            ],
+            [
+              {
+                "verse": 12,
+                "text": "Look at us!"
+              }
+            ],
+            [
+              {
+                "verse": 12,
+                "text": "See that we are suffering very much."
+              }
+            ],
+            [
+              {
+                "verse": 12,
+                "text": "The Lord has caused us to suffer"
+              }
+            ],
+            [
+              {
+                "verse": 12,
+                "text": "because he is very angry with us."
               }
             ],
             [
               {
                 "verse": 13,
-                "text": "From on high he has sent fire into my bones, and it has overcome them: his net is stretched out for my feet, I am turned back by him; he has made me waste and feeble all the day."
-              },
+                "text": "He has sent down fire from above to hurt us."
+              }
+            ],
+            [
+              {
+                "verse": 13,
+                "text": "It has destroyed our strength."
+              }
+            ],
+            [
+              {
+                "verse": 13,
+                "text": "He has prepared a trap to catch our feet,"
+              }
+            ],
+            [
+              {
+                "verse": 13,
+                "text": "so that we have to turn back."
+              }
+            ],
+            [
+              {
+                "verse": 13,
+                "text": "He has left us weak and alone."
+              }
+            ],
+            [
+              {
+                "verse": 13,
+                "text": "We have pain all day, every day."
+              }
+            ],
+            [
               {
                 "verse": 14,
-                "text": "A watch is kept on my sins; they are joined together by his hand, they have come on to my neck; he has made my strength give way: the Lord has given me up into the hands of those against whom I have no power."
-              },
+                "text": "Our sins seem to be like a yoke around our necks."
+              }
+            ],
+            [
+              {
+                "verse": 14,
+                "text": "The Lord himself has tied that heavy load on us."
+              }
+            ],
+            [
+              {
+                "verse": 14,
+                "text": "We were strong,"
+              }
+            ],
+            [
+              {
+                "verse": 14,
+                "text": "but he has caused us to become weak."
+              }
+            ],
+            [
+              {
+                "verse": 14,
+                "text": "He has put us under the power of our enemies."
+              }
+            ],
+            [
+              {
+                "verse": 14,
+                "text": "We can do nothing to stop them."
+              }
+            ],
+            [
               {
                 "verse": 15,
-                "text": "The Lord has made sport of all my men of war in me, he has got men together against me to send destruction on my young men: the virgin daughter of Judah has been crushed like grapes under the feet of the Lord."
-              },
+                "text": "The Lord God has removed all the strong fighters"
+              }
+            ],
+            [
+              {
+                "verse": 15,
+                "text": "who were ready to fight for us."
+              }
+            ],
+            [
+              {
+                "verse": 15,
+                "text": "He brought a big army to fight against us,"
+              }
+            ],
+            [
+              {
+                "verse": 15,
+                "text": "and to destroy our young men."
+              }
+            ],
+            [
+              {
+                "verse": 15,
+                "text": "The Lord God has stamped on us, the people of Judah,"
+              }
+            ],
+            [
+              {
+                "verse": 15,
+                "text": "like people stamp on grapes to make wine."
+              }
+            ],
+            [
               {
                 "verse": 16,
-                "text": "For these things I am weeping; my eye is streaming with water; because the comforter who might give me new life is far from me: my children are made waste, because the hater is strong."
+                "text": "We weep because these things have happened to us."
+              }
+            ],
+            [
+              {
+                "verse": 16,
+                "text": "Tears pour out of our eyes."
+              }
+            ],
+            [
+              {
+                "verse": 16,
+                "text": "There is nobody here who can comfort us."
+              }
+            ],
+            [
+              {
+                "verse": 16,
+                "text": "Nobody can make us strong and brave."
+              }
+            ],
+            [
+              {
+                "verse": 16,
+                "text": "Our enemies have won against us,"
+              }
+            ],
+            [
+              {
+                "verse": 16,
+                "text": "so our children no longer hope for anything good.’"
+              }
+            ]
+          ]
+        },
+        {
+          "heading": "God is punishing Jerusalem's people",
+          "items": [
+            [
+              {
+                "verse": 17,
+                "text": "Zion's people call out for help,"
               }
             ],
             [
               {
                 "verse": 17,
-                "text": "Zion's hands are outstretched; she has no comforter; the Lord has given orders to the attackers of Jacob round about him: Jerusalem has become like an unclean thing among them."
-              },
+                "text": "but there is nobody to comfort them."
+              }
+            ],
+            [
+              {
+                "verse": 17,
+                "text": "The Lord has decided to punish Jacob's descendants."
+              }
+            ],
+            [
+              {
+                "verse": 17,
+                "text": "The nations around Judah have become her enemies."
+              }
+            ],
+            [
+              {
+                "verse": 17,
+                "text": "Jerusalem has become like a heap of dirty rubbish"
+              }
+            ],
+            [
+              {
+                "verse": 17,
+                "text": "among the other nations."
+              }
+            ]
+          ]
+        },
+        {
+          "heading": "Jerusalem's people agree that they are wrong",
+          "items": [
+            [
               {
                 "verse": 18,
-                "text": "The Lord is upright; for I have gone against his orders: give ear, now, all you peoples, and see my pain, my virgins and my young men have gone away as prisoners."
-              },
+                "text": "‘The Lord is right to punish us!"
+              }
+            ],
+            [
+              {
+                "verse": 18,
+                "text": "We have refused to obey his commands."
+              }
+            ],
+            [
+              {
+                "verse": 18,
+                "text": "Listen to us, all you nations."
+              }
+            ],
+            [
+              {
+                "verse": 18,
+                "text": "See how much we are suffering."
+              }
+            ],
+            [
+              {
+                "verse": 18,
+                "text": "Enemies have taken away our young women and our young men"
+              }
+            ],
+            [
+              {
+                "verse": 18,
+                "text": "as their prisoners."
+              }
+            ],
+            [
               {
                 "verse": 19,
-                "text": "I sent for my lovers, but they were false to me: my priests and my responsible men were breathing their last breath in the town, while they were looking for food to give them new life."
-              },
+                "text": "We called to our lovers to help us."
+              }
+            ],
+            [
+              {
+                "verse": 19,
+                "text": "But they refused to help us."
+              }
+            ],
+            [
+              {
+                "verse": 19,
+                "text": "Our priests and our leaders died in the city's streets."
+              }
+            ],
+            [
+              {
+                "verse": 19,
+                "text": "They were looking for food to keep themselves alive."
+              }
+            ],
+            [
               {
                 "verse": 20,
-                "text": "See, O Lord, for I am in trouble; the inmost parts of my body are deeply moved; my heart is turned in me; for I have been uncontrolled: outside the children are put to the sword, and in the house there is death."
+                "text": "Lord, see how much we are suffering!"
+              }
+            ],
+            [
+              {
+                "verse": 20,
+                "text": "We are very upset."
+              }
+            ],
+            [
+              {
+                "verse": 20,
+                "text": "We have turned against you"
+              }
+            ],
+            [
+              {
+                "verse": 20,
+                "text": "and now we are sad deep inside ourselves."
+              }
+            ],
+            [
+              {
+                "verse": 20,
+                "text": "In the streets, our enemies attack us and they kill us."
+              }
+            ],
+            [
+              {
+                "verse": 20,
+                "text": "In our homes, there is also death."
               }
             ],
             [
               {
                 "verse": 21,
-                "text": "Give ear to the voice of my grief; I have no comforter; all my haters have news of my troubles, they are glad because you have done it: let the day of fate come when they will be like me."
-              },
+                "text": "People have heard that we are crying,"
+              }
+            ],
+            [
+              {
+                "verse": 21,
+                "text": "but nobody comes to comfort us."
+              }
+            ],
+            [
+              {
+                "verse": 21,
+                "text": "Our enemies know about our great trouble."
+              }
+            ],
+            [
+              {
+                "verse": 21,
+                "text": "They are happy to see that you have punished us."
+              }
+            ],
+            [
+              {
+                "verse": 21,
+                "text": "Please now make our enemies suffer as we have suffered."
+              }
+            ],
+            [
+              {
+                "verse": 21,
+                "text": "You have promised to do that. Please do it soon!"
+              }
+            ],
+            [
               {
                 "verse": 22,
-                "text": "Let all their evil-doing come before you; do to them as you have done to me for all my sins: for loud is the sound of my grief, and the strength of my heart is gone."
+                "text": "Remember all the wicked things that they have done."
+              }
+            ],
+            [
+              {
+                "verse": 22,
+                "text": "Punish them as you have punished us for all our sins."
+              }
+            ],
+            [
+              {
+                "verse": 22,
+                "text": "Now we are very sad and we cry a lot."
+              }
+            ],
+            [
+              {
+                "verse": 22,
+                "text": "We no longer hope for anything good.’"
               }
             ]
           ]
         }
       ],
-      "verses": [
-        {
-          "verse": 1,
-          "text": "See her seated by herself, the town which was full of people! She who was great among the nations has become like a widow! She who was a princess among the countries has come under the yoke of forced work!"
-        },
-        {
-          "verse": 2,
-          "text": "She is sorrowing bitterly in the night, and her face is wet with weeping; among all her lovers she has no comforter: all her friends have been false to her, they have become her haters."
-        },
-        {
-          "verse": 3,
-          "text": "Judah has been taken away as a prisoner because of trouble and hard work; her living-place is among the nations, there is no rest for her: all her attackers have overtaken her in a narrow place."
-        },
-        {
-          "verse": 4,
-          "text": "The ways of Zion are sad, because no one comes to the holy meeting; all her doorways are made waste, her priests are breathing out sorrow: her virgins are troubled, and it is bitter for her."
-        },
-        {
-          "verse": 5,
-          "text": "Those who are against her have become the head, everything goes well for her haters; for the Lord has sent sorrow on her because of the great number of her sins: her young children have gone away as prisoners before the attacker."
-        },
-        {
-          "verse": 6,
-          "text": "And all her glory has gone from the daughter of Zion: her rulers have become like harts with no place for food, and they have gone in flight without strength before the attacker."
-        },
-        {
-          "verse": 7,
-          "text": "Jerusalem keeps in mind, in the days of her sorrow and of her wanderings, all the desired things which were hers in days gone by; when her people came into the power of her hater and she had no helper, her attackers saw their desire effected on her and made sport of her destruction."
-        },
-        {
-          "verse": 8,
-          "text": "Great is the sin of Jerusalem; for this cause she has become an unclean thing: all those who gave her honour are looking down on her, because they have seen her shame: now truly, breathing out grief, she is turned back."
-        },
-        {
-          "verse": 9,
-          "text": "In her skirts were her unclean ways; she gave no thought to her end; and her fall has been a wonder; she has no comforter: see her sorrow, O Lord; for the attacker is lifted up."
-        },
-        {
-          "verse": 10,
-          "text": "The hand of her hater is stretched out over all her desired things; for she has seen that the nations have come into her holy place, about whom you gave orders that they were not to come into the meeting of your people."
-        },
-        {
-          "verse": 11,
-          "text": "Breathing out grief all her people are looking for bread; they have given their desired things for food to give them life: see, O Lord, and take note; for she has become a thing of shame."
-        },
-        {
-          "verse": 12,
-          "text": "Come to me, all you who go by! Keep your eyes on me, and see if there is any pain like the pain of my wound, which the Lord has sent on me in the day of his burning wrath."
-        },
-        {
-          "verse": 13,
-          "text": "From on high he has sent fire into my bones, and it has overcome them: his net is stretched out for my feet, I am turned back by him; he has made me waste and feeble all the day."
-        },
-        {
-          "verse": 14,
-          "text": "A watch is kept on my sins; they are joined together by his hand, they have come on to my neck; he has made my strength give way: the Lord has given me up into the hands of those against whom I have no power."
-        },
-        {
-          "verse": 15,
-          "text": "The Lord has made sport of all my men of war in me, he has got men together against me to send destruction on my young men: the virgin daughter of Judah has been crushed like grapes under the feet of the Lord."
-        },
-        {
-          "verse": 16,
-          "text": "For these things I am weeping; my eye is streaming with water; because the comforter who might give me new life is far from me: my children are made waste, because the hater is strong."
-        },
-        {
-          "verse": 17,
-          "text": "Zion's hands are outstretched; she has no comforter; the Lord has given orders to the attackers of Jacob round about him: Jerusalem has become like an unclean thing among them."
-        },
-        {
-          "verse": 18,
-          "text": "The Lord is upright; for I have gone against his orders: give ear, now, all you peoples, and see my pain, my virgins and my young men have gone away as prisoners."
-        },
-        {
-          "verse": 19,
-          "text": "I sent for my lovers, but they were false to me: my priests and my responsible men were breathing their last breath in the town, while they were looking for food to give them new life."
-        },
-        {
-          "verse": 20,
-          "text": "See, O Lord, for I am in trouble; the inmost parts of my body are deeply moved; my heart is turned in me; for I have been uncontrolled: outside the children are put to the sword, and in the house there is death."
-        },
-        {
-          "verse": 21,
-          "text": "Give ear to the voice of my grief; I have no comforter; all my haters have news of my troubles, they are glad because you have done it: let the day of fate come when they will be like me."
-        },
-        {
-          "verse": 22,
-          "text": "Let all their evil-doing come before you; do to them as you have done to me for all my sins: for loud is the sound of my grief, and the strength of my heart is gone."
-        }
-      ],
-      "totalVerses": 22,
-      "footnotes": []
+      "notes": [
+        "The writer talks about Jerusalem as if the city is a woman. God made Jerusalem great, like an important lady. But he will cause her to become poor and alone, like awidow.",
+        "Judah was the land that belonged to the Israelitetribeof Judah. When thenationof Israeldividedinto twokingdoms, Judah was the name of thekingdomin the south. Jerusalem was the capital city of Judah.",
+        "When we writeLordlike this, it is a special name for God. Sometimes people write it as the Hebrew name ‘Yahweh’. It is God's own name that he told Moses. SeeExodus 3:14. It means ‘I am who I am’. This shows that God has always been there and he always will be there.",
+        "SeeDeuteronomy 23:3.",
+        "The fire and thetrapare pictures of God'spunishment.",
+        "This means that God haspunishedhis people.",
+        "Jacob was Abraham's grandson. God gave Jacob a new name, ‘Israel’. The 12tribesof Israel weredescendantsof Jacob's 12 sons."
+      ]
     },
     {
-      "book": "Lamentations",
       "chapter": 2,
       "title": "Lamentations 2",
-      "subtitle": "Lamentations Chapter 2",
+      "subtitle": "",
+      "totalVerses": 22,
+      "sourceUrl": "https://www.easyenglish.bible/bible/easy/lamentations/2/",
       "sections": [
         {
-          "heading": "Lamentations Chapter 2",
+          "heading": "God punishes Jerusalem because he is angry",
           "items": [
             [
               {
                 "verse": 1,
-                "text": "How has the daughter of Zion been covered with a cloud by the Lord in his wrath! he has sent down from heaven to earth the glory of Israel, and has not kept in memory the resting-place of his feet in the day of his wrath."
-              },
+                "text": "The Lord God has become very angry."
+              }
+            ],
+            [
+              {
+                "verse": 1,
+                "text": "He has caused a dark cloud to cover Zion's people."
+              }
+            ],
+            [
+              {
+                "verse": 1,
+                "text": "Jerusalem was the most beautiful city in Israel."
+              }
+            ],
+            [
+              {
+                "verse": 1,
+                "text": "But now, from heaven,"
+              }
+            ],
+            [
+              {
+                "verse": 1,
+                "text": "God has caused it to fall to the ground."
+              }
+            ],
+            [
+              {
+                "verse": 1,
+                "text": "He has become so angry,"
+              }
+            ],
+            [
+              {
+                "verse": 1,
+                "text": "he has not kept his own home safe."
+              }
+            ],
+            [
               {
                 "verse": 2,
-                "text": "The Lord has given up to destruction all the living-places of Jacob without pity; pulling down in his wrath the strong places of the daughter of Judah, stretching out on the earth the wounded, even her king and her rulers."
-              },
+                "text": "The Lord God has destroyed all the homes of Jacob's descendants."
+              }
+            ],
+            [
+              {
+                "verse": 2,
+                "text": "He would not forgive them."
+              }
+            ],
+            [
+              {
+                "verse": 2,
+                "text": "Because of his anger,"
+              }
+            ],
+            [
+              {
+                "verse": 2,
+                "text": "he has destroyed all Judah's strong towns."
+              }
+            ],
+            [
+              {
+                "verse": 2,
+                "text": "He has knocked them all down to become heaps of stones."
+              }
+            ],
+            [
+              {
+                "verse": 2,
+                "text": "The kingdom and its rulers are now ashamed."
+              }
+            ],
+            [
               {
                 "verse": 3,
-                "text": "In his burning wrath every horn of Israel has been cut off; his right hand has been turned back before the attacker: he has put a fire in Jacob, causing destruction round about."
-              },
+                "text": "Because of God's great anger,"
+              }
+            ],
+            [
+              {
+                "verse": 3,
+                "text": "he has completely destroyed Israel's army."
+              }
+            ],
+            [
+              {
+                "verse": 3,
+                "text": "When Israel's enemies attacked them,"
+              }
+            ],
+            [
+              {
+                "verse": 3,
+                "text": "God refused to help them with his power."
+              }
+            ],
+            [
+              {
+                "verse": 3,
+                "text": "He destroyed Jacob's descendants,"
+              }
+            ],
+            [
+              {
+                "verse": 3,
+                "text": "like a fire that burns everything."
+              }
+            ],
+            [
               {
                 "verse": 4,
-                "text": "His bow has been bent for the attack, he has taken his place with his hand ready, in his hate he has put to death all who were pleasing to the eye: on the tent of the daughter of Zion he has let loose his passion like fire."
+                "text": "He prepared his bow and his arrows,"
+              }
+            ],
+            [
+              {
+                "verse": 4,
+                "text": "as if he was Israel's enemy."
+              }
+            ],
+            [
+              {
+                "verse": 4,
+                "text": "He has used his power to attack us as an enemy!"
+              }
+            ],
+            [
+              {
+                "verse": 4,
+                "text": "He has killed our brave men that we were proud of."
+              }
+            ],
+            [
+              {
+                "verse": 4,
+                "text": "He has become very angry with Zion's people."
+              }
+            ],
+            [
+              {
+                "verse": 4,
+                "text": "His anger is like a hot fire that destroys everything."
               }
             ],
             [
               {
                 "verse": 5,
-                "text": "The Lord has become like one fighting against her, sending destruction on Israel; he has sent destruction on all her great houses, making waste his strong places: increasing the grief and the sorrow of the daughter of Judah."
-              },
+                "text": "The Lord God has become like Israel's enemy."
+              }
+            ],
+            [
+              {
+                "verse": 5,
+                "text": "He has destroyed Israel."
+              }
+            ],
+            [
+              {
+                "verse": 5,
+                "text": "He has destroyed all her palaces."
+              }
+            ],
+            [
+              {
+                "verse": 5,
+                "text": "He has caused her strong cities to become heaps of stones."
+              }
+            ],
+            [
+              {
+                "verse": 5,
+                "text": "He has caused all Judah's people to weep."
+              }
+            ],
+            [
+              {
+                "verse": 5,
+                "text": "They cannot stop crying."
+              }
+            ],
+            [
               {
                 "verse": 6,
-                "text": "And he has violently taken away his tent, as from a garden; he has made waste his meeting-place: the Lord has taken away the memory of feast and Sabbath in Zion, and in the passion of his wrath he is against king and priest."
-              },
+                "text": "God has knocked down his temple,"
+              }
+            ],
+            [
+              {
+                "verse": 6,
+                "text": "as if it was a hut in a garden."
+              }
+            ],
+            [
+              {
+                "verse": 6,
+                "text": "He has destroyed his special meeting place."
+              }
+            ],
+            [
+              {
+                "verse": 6,
+                "text": "The Lord has caused Zion's people to forget"
+              }
+            ],
+            [
+              {
+                "verse": 6,
+                "text": "the festival days and the Sabbath days."
+              }
+            ],
+            [
+              {
+                "verse": 6,
+                "text": "Because he is very angry,"
+              }
+            ],
+            [
+              {
+                "verse": 6,
+                "text": "he has turned against our king and our priests."
+              }
+            ],
+            [
               {
                 "verse": 7,
-                "text": "The Lord has given up his altar and has been turned in hate from his holy place; he has given up into the hands of the attacker the walls of her great houses: their voices have been loud in the house of the Lord as in the day of a holy meeting."
-              },
+                "text": "The Lord God no longer accepts sacrifices on his altar."
+              }
+            ],
+            [
+              {
+                "verse": 7,
+                "text": "He has gone away from his temple."
+              }
+            ],
+            [
+              {
+                "verse": 7,
+                "text": "He has given Jerusalem's palaces to her enemies."
+              }
+            ],
+            [
+              {
+                "verse": 7,
+                "text": "They shout loudly in the Lord's temple,"
+              }
+            ],
+            [
+              {
+                "verse": 7,
+                "text": "as if it is a happy festival day."
+              }
+            ],
+            [
               {
                 "verse": 8,
-                "text": "It is the Lord's purpose to make waste the wall of the daughter of Zion; his line has been stretched out, he has not kept back his hand from destruction: he has sent sorrow on tower and wall, they have become feeble together."
+                "text": "The Lord decided to destroy"
+              }
+            ],
+            [
+              {
+                "verse": 8,
+                "text": "the strong walls of Zion."
+              }
+            ],
+            [
+              {
+                "verse": 8,
+                "text": "He did it carefully, stone by stone,"
+              }
+            ],
+            [
+              {
+                "verse": 8,
+                "text": "and he did not stop."
+              }
+            ],
+            [
+              {
+                "verse": 8,
+                "text": "The towers and the strong walls around the city"
+              }
+            ],
+            [
+              {
+                "verse": 8,
+                "text": "now lie on the ground."
+              }
+            ],
+            [
+              {
+                "verse": 8,
+                "text": "It is very sad to see this."
               }
             ],
             [
               {
                 "verse": 9,
-                "text": "Her doors have gone down into the earth; he has sent destruction on her locks: her king and her princes are among the nations where the law is not; even her prophets have had no vision from the Lord."
-              },
+                "text": "The gates of the city have fallen down on the ground."
+              }
+            ],
+            [
+              {
+                "verse": 9,
+                "text": "God has destroyed the metal bars that lock the gates."
+              }
+            ],
+            [
+              {
+                "verse": 9,
+                "text": "The king and his officers are prisoners in other lands."
+              }
+            ],
+            [
+              {
+                "verse": 9,
+                "text": "There is nobody to teach God's Law."
+              }
+            ],
+            [
+              {
+                "verse": 9,
+                "text": "The prophets no longer receive"
+              }
+            ],
+            [
+              {
+                "verse": 9,
+                "text": "any visions from the Lord."
+              }
+            ],
+            [
               {
                 "verse": 10,
-                "text": "The responsible men of the daughter of Zion are seated on the earth without a word; they have put dust on their heads, they are clothed in haircloth: the heads of the virgins of Jerusalem are bent down to the earth."
-              },
+                "text": "Zion's leaders sit on the ground."
+              }
+            ],
+            [
+              {
+                "verse": 10,
+                "text": "They are saying nothing."
+              }
+            ],
+            [
+              {
+                "verse": 10,
+                "text": "They have dressed themselves in sackcloth."
+              }
+            ],
+            [
+              {
+                "verse": 10,
+                "text": "They have put dirt on their heads."
+              }
+            ],
+            [
+              {
+                "verse": 10,
+                "text": "The young women of Jerusalem are also sad."
+              }
+            ],
+            [
+              {
+                "verse": 10,
+                "text": "They turn their faces down towards the ground."
+              }
+            ],
+            [
               {
                 "verse": 11,
-                "text": "My eyes are wasted with weeping, the inmost parts of my body are deeply moved, my inner parts are drained out on the earth, for the destruction of the daughter of my people; because of the young children and babies at the breast who are falling without strength in the open squares of the town."
-              },
+                "text": "I have cried so much that my eyes have become weak."
+              }
+            ],
+            [
+              {
+                "verse": 11,
+                "text": "Deep inside me, I am very upset."
+              }
+            ],
+            [
+              {
+                "verse": 11,
+                "text": "I feel ill because my people are helpless"
+              }
+            ],
+            [
+              {
+                "verse": 11,
+                "text": "and they are dying."
+              }
+            ],
+            [
+              {
+                "verse": 11,
+                "text": "Children and babies fall in the city's streets"
+              }
+            ],
+            [
+              {
+                "verse": 11,
+                "text": "because they are so weak."
+              }
+            ],
+            [
               {
                 "verse": 12,
-                "text": "They say to their mothers, Where is grain and wine? when they are falling like the wounded in the open squares of the town, when their life is drained out on their mother's breast."
+                "text": "Hungry children ask their mothers,"
+              }
+            ],
+            [
+              {
+                "verse": 12,
+                "text": "‘Where is our food and our drink?’"
+              }
+            ],
+            [
+              {
+                "verse": 12,
+                "text": "They soon fall down on the streets of the city,"
+              }
+            ],
+            [
+              {
+                "verse": 12,
+                "text": "like a soldier with a wound."
+              }
+            ],
+            [
+              {
+                "verse": 12,
+                "text": "They die slowly in their mothers' arms."
               }
             ],
             [
               {
                 "verse": 13,
-                "text": "What example am I to give you? what comparison am I to make for you, O daughter of Jerusalem? what am I to make equal to you, so that I may give you comfort, O virgin daughter of Zion? for your destruction is great like the sea: who is able to make you well?"
-              },
+                "text": "Dear people of Jerusalem,"
+              }
+            ],
+            [
+              {
+                "verse": 13,
+                "text": "has anyone suffered as much as you have?"
+              }
+            ],
+            [
+              {
+                "verse": 13,
+                "text": "What can I say that will help you?"
+              }
+            ],
+            [
+              {
+                "verse": 13,
+                "text": "I cannot comfort you."
+              }
+            ],
+            [
+              {
+                "verse": 13,
+                "text": "Your trouble is very great."
+              }
+            ],
+            [
+              {
+                "verse": 13,
+                "text": "It is as deep as the sea."
+              }
+            ],
+            [
+              {
+                "verse": 13,
+                "text": "Can anyone make you well again?"
+              }
+            ],
+            [
               {
                 "verse": 14,
-                "text": "The visions which your prophets have seen for you are false and foolish; they have not made clear to you your sin so that your fate might be changed: but they have seen for you false words, driving you away."
-              },
+                "text": "Your prophets had useless visions"
+              }
+            ],
+            [
+              {
+                "verse": 14,
+                "text": "that deceived you."
+              }
+            ],
+            [
+              {
+                "verse": 14,
+                "text": "They should have told you that your sins were very bad."
+              }
+            ],
+            [
+              {
+                "verse": 14,
+                "text": "Then you would have been safe from your trouble."
+              }
+            ],
+            [
+              {
+                "verse": 14,
+                "text": "But they deceived you with their messages,"
+              }
+            ],
+            [
+              {
+                "verse": 14,
+                "text": "which were useless lies."
+              }
+            ],
+            [
               {
                 "verse": 15,
-                "text": "All who go by make a noise with their hands at you; they make hisses, shaking their heads at the daughter of Jerusalem, and saying, Is this the town which was the crown of everything beautiful, the joy of all the earth?"
-              },
+                "text": "Everyone who goes past the city laughs at you."
+              }
+            ],
+            [
+              {
+                "verse": 15,
+                "text": "They are happy to see your trouble."
+              }
+            ],
+            [
+              {
+                "verse": 15,
+                "text": "They insult beautiful Jerusalem"
+              }
+            ],
+            [
+              {
+                "verse": 15,
+                "text": "and they say,"
+              }
+            ],
+            [
+              {
+                "verse": 15,
+                "text": "‘Is this the place that people called the most beautiful city?"
+              }
+            ],
+            [
+              {
+                "verse": 15,
+                "text": "Did it really bring joy to the whole earth?’"
+              }
+            ],
+            [
               {
                 "verse": 16,
-                "text": "All your haters are opening their mouths wide against you; making hisses and whistling through their teeth, they say, We have made a meal of her: certainly this is the day we have been looking for; it has come, we have seen it."
+                "text": "All your enemies laugh at you."
+              }
+            ],
+            [
+              {
+                "verse": 16,
+                "text": "They hate you and they insult you."
+              }
+            ],
+            [
+              {
+                "verse": 16,
+                "text": "They say ‘We have destroyed this city!"
+              }
+            ],
+            [
+              {
+                "verse": 16,
+                "text": "We have waited a long time for this day."
+              }
+            ],
+            [
+              {
+                "verse": 16,
+                "text": "Now we have finally seen it happen!’"
               }
             ],
             [
               {
                 "verse": 17,
-                "text": "The Lord has done that which was his purpose; he has put into force the orders which he gave in the days which are past; pulling down without pity, he has made your hater glad over you, lifting up the horn of those who were against you."
-              },
+                "text": "The Lord has done everything that he decided to do."
+              }
+            ],
+            [
+              {
+                "verse": 17,
+                "text": "He has done what he promised to do a long time ago."
+              }
+            ],
+            [
+              {
+                "verse": 17,
+                "text": "He has destroyed your city"
+              }
+            ],
+            [
+              {
+                "verse": 17,
+                "text": "and he has not felt sorry about it."
+              }
+            ],
+            [
+              {
+                "verse": 17,
+                "text": "He has given your enemies a reason to be happy."
+              }
+            ],
+            [
+              {
+                "verse": 17,
+                "text": "He has made them stronger than you."
+              }
+            ],
+            [
               {
                 "verse": 18,
-                "text": "Let your cry go up to the Lord: O wall of the daughter of Zion, let your weeping be flowing down like a stream day and night; give yourself no rest, let not your eyes keep back the drops of sorrow."
-              },
+                "text": "City of Zion, cry to the Lord God with all your strength."
+              }
+            ],
+            [
+              {
+                "verse": 18,
+                "text": "Let your tears pour from your eyes like a river."
+              }
+            ],
+            [
+              {
+                "verse": 18,
+                "text": "All day and all night, do not rest."
+              }
+            ],
+            [
+              {
+                "verse": 18,
+                "text": "Do not stop weeping."
+              }
+            ],
+            [
               {
                 "verse": 19,
-                "text": "Up! give cries in the night, at the starting of the night-watches; let your heart be flowing out like water before the face of the Lord, lifting up your hands to him for the life of your young children who are falling down, feeble for need of food, at the top of every street."
-              },
+                "text": "Get up in the night and call for God's help."
+              }
+            ],
+            [
+              {
+                "verse": 19,
+                "text": "Do this all through every night."
+              }
+            ],
+            [
+              {
+                "verse": 19,
+                "text": "Tell the Lord God everything that you think and you feel."
+              }
+            ],
+            [
+              {
+                "verse": 19,
+                "text": "Let it pour out like water from a jar."
+              }
+            ],
+            [
+              {
+                "verse": 19,
+                "text": "Lift up your hands and pray to him."
+              }
+            ],
+            [
+              {
+                "verse": 19,
+                "text": "Ask him to save the lives of your children."
+              }
+            ],
+            [
+              {
+                "verse": 19,
+                "text": "They fall down on every street in the city"
+              }
+            ],
+            [
+              {
+                "verse": 19,
+                "text": "because they have no food to eat."
+              }
+            ]
+          ]
+        },
+        {
+          "heading": "Jerusalem's people complain about their punishment",
+          "items": [
+            [
               {
                 "verse": 20,
-                "text": "Look! O Lord, see to whom you have done this! Are the women to take as their food the fruit of their bodies, the children who are folded in their arms? are the priest and the prophet to be put to death in the holy place of the Lord?"
+                "text": "‘Look at us, Lord!"
+              }
+            ],
+            [
+              {
+                "verse": 20,
+                "text": "You have caused us to suffer more than anyone else!"
+              }
+            ],
+            [
+              {
+                "verse": 20,
+                "text": "Women eat their own children now!"
+              }
+            ],
+            [
+              {
+                "verse": 20,
+                "text": "They are the children that they have taken care of."
+              }
+            ],
+            [
+              {
+                "verse": 20,
+                "text": "Enemies have killed your priests and your prophets"
+              }
+            ],
+            [
+              {
+                "verse": 20,
+                "text": "in your own temple!"
               }
             ],
             [
               {
                 "verse": 21,
-                "text": "The young men and the old are stretched on the earth in the streets; my virgins and my young men have been put to the sword: you have sent death on them in the day of your wrath, causing death without pity."
-              },
+                "text": "Young people and old people lie dead in the streets."
+              }
+            ],
+            [
+              {
+                "verse": 21,
+                "text": "The enemy's swords have killed our young women and our young men."
+              }
+            ],
+            [
+              {
+                "verse": 21,
+                "text": "You killed our people because you were angry,"
+              }
+            ],
+            [
+              {
+                "verse": 21,
+                "text": "and you did not feel sorry."
+              }
+            ],
+            [
               {
                 "verse": 22,
-                "text": "As in the day of a holy meeting you have made fears come round me on every side, and no one got away or was kept safe in the day of the Lord's wrath: those who were folded in my arms, whom I took care of, have been sent to their destruction by my hater."
+                "text": "You called our enemies to come for a feast!"
+              }
+            ],
+            [
+              {
+                "verse": 22,
+                "text": "They attacked us from all around."
+              }
+            ],
+            [
+              {
+                "verse": 22,
+                "text": "At that time of your great anger,"
+              }
+            ],
+            [
+              {
+                "verse": 22,
+                "text": "nobody could escape and save their lives."
+              }
+            ],
+            [
+              {
+                "verse": 22,
+                "text": "Our enemies have destroyed our own children,"
+              }
+            ],
+            [
+              {
+                "verse": 22,
+                "text": "the children that we gave birth to and we took care of.’"
               }
             ]
           ]
         }
       ],
-      "verses": [
-        {
-          "verse": 1,
-          "text": "How has the daughter of Zion been covered with a cloud by the Lord in his wrath! he has sent down from heaven to earth the glory of Israel, and has not kept in memory the resting-place of his feet in the day of his wrath."
-        },
-        {
-          "verse": 2,
-          "text": "The Lord has given up to destruction all the living-places of Jacob without pity; pulling down in his wrath the strong places of the daughter of Judah, stretching out on the earth the wounded, even her king and her rulers."
-        },
-        {
-          "verse": 3,
-          "text": "In his burning wrath every horn of Israel has been cut off; his right hand has been turned back before the attacker: he has put a fire in Jacob, causing destruction round about."
-        },
-        {
-          "verse": 4,
-          "text": "His bow has been bent for the attack, he has taken his place with his hand ready, in his hate he has put to death all who were pleasing to the eye: on the tent of the daughter of Zion he has let loose his passion like fire."
-        },
-        {
-          "verse": 5,
-          "text": "The Lord has become like one fighting against her, sending destruction on Israel; he has sent destruction on all her great houses, making waste his strong places: increasing the grief and the sorrow of the daughter of Judah."
-        },
-        {
-          "verse": 6,
-          "text": "And he has violently taken away his tent, as from a garden; he has made waste his meeting-place: the Lord has taken away the memory of feast and Sabbath in Zion, and in the passion of his wrath he is against king and priest."
-        },
-        {
-          "verse": 7,
-          "text": "The Lord has given up his altar and has been turned in hate from his holy place; he has given up into the hands of the attacker the walls of her great houses: their voices have been loud in the house of the Lord as in the day of a holy meeting."
-        },
-        {
-          "verse": 8,
-          "text": "It is the Lord's purpose to make waste the wall of the daughter of Zion; his line has been stretched out, he has not kept back his hand from destruction: he has sent sorrow on tower and wall, they have become feeble together."
-        },
-        {
-          "verse": 9,
-          "text": "Her doors have gone down into the earth; he has sent destruction on her locks: her king and her princes are among the nations where the law is not; even her prophets have had no vision from the Lord."
-        },
-        {
-          "verse": 10,
-          "text": "The responsible men of the daughter of Zion are seated on the earth without a word; they have put dust on their heads, they are clothed in haircloth: the heads of the virgins of Jerusalem are bent down to the earth."
-        },
-        {
-          "verse": 11,
-          "text": "My eyes are wasted with weeping, the inmost parts of my body are deeply moved, my inner parts are drained out on the earth, for the destruction of the daughter of my people; because of the young children and babies at the breast who are falling without strength in the open squares of the town."
-        },
-        {
-          "verse": 12,
-          "text": "They say to their mothers, Where is grain and wine? when they are falling like the wounded in the open squares of the town, when their life is drained out on their mother's breast."
-        },
-        {
-          "verse": 13,
-          "text": "What example am I to give you? what comparison am I to make for you, O daughter of Jerusalem? what am I to make equal to you, so that I may give you comfort, O virgin daughter of Zion? for your destruction is great like the sea: who is able to make you well?"
-        },
-        {
-          "verse": 14,
-          "text": "The visions which your prophets have seen for you are false and foolish; they have not made clear to you your sin so that your fate might be changed: but they have seen for you false words, driving you away."
-        },
-        {
-          "verse": 15,
-          "text": "All who go by make a noise with their hands at you; they make hisses, shaking their heads at the daughter of Jerusalem, and saying, Is this the town which was the crown of everything beautiful, the joy of all the earth?"
-        },
-        {
-          "verse": 16,
-          "text": "All your haters are opening their mouths wide against you; making hisses and whistling through their teeth, they say, We have made a meal of her: certainly this is the day we have been looking for; it has come, we have seen it."
-        },
-        {
-          "verse": 17,
-          "text": "The Lord has done that which was his purpose; he has put into force the orders which he gave in the days which are past; pulling down without pity, he has made your hater glad over you, lifting up the horn of those who were against you."
-        },
-        {
-          "verse": 18,
-          "text": "Let your cry go up to the Lord: O wall of the daughter of Zion, let your weeping be flowing down like a stream day and night; give yourself no rest, let not your eyes keep back the drops of sorrow."
-        },
-        {
-          "verse": 19,
-          "text": "Up! give cries in the night, at the starting of the night-watches; let your heart be flowing out like water before the face of the Lord, lifting up your hands to him for the life of your young children who are falling down, feeble for need of food, at the top of every street."
-        },
-        {
-          "verse": 20,
-          "text": "Look! O Lord, see to whom you have done this! Are the women to take as their food the fruit of their bodies, the children who are folded in their arms? are the priest and the prophet to be put to death in the holy place of the Lord?"
-        },
-        {
-          "verse": 21,
-          "text": "The young men and the old are stretched on the earth in the streets; my virgins and my young men have been put to the sword: you have sent death on them in the day of your wrath, causing death without pity."
-        },
-        {
-          "verse": 22,
-          "text": "As in the day of a holy meeting you have made fears come round me on every side, and no one got away or was kept safe in the day of the Lord's wrath: those who were folded in my arms, whom I took care of, have been sent to their destruction by my hater."
-        }
-      ],
-      "totalVerses": 22,
-      "footnotes": []
+      "notes": [
+        "Jacob was theancestorof all the Israelites.",
+        "Foreign people should not be in thetemple. SeeDeuteronomy 23:3.",
+        "People sometimes put dirt on their heads and they put onroughclothes made ofsackcloth. They did this to show that they were very sad.",
+        "God had told the people many times that they must not listen to these falseprophets. SeeJeremiah 23:16-22.",
+        "God had promised to let enemies win against his people if they did not obey him. SeeDeuteronomy 28:15,25."
+      ]
     },
     {
-      "book": "Lamentations",
       "chapter": 3,
       "title": "Lamentations 3",
-      "subtitle": "Lamentations Chapter 3",
+      "subtitle": "",
+      "totalVerses": 66,
+      "sourceUrl": "https://www.easyenglish.bible/bible/easy/lamentations/3/",
       "sections": [
         {
-          "heading": "Lamentations Chapter 3",
+          "heading": "The prophet remembers that God is always faithful",
           "items": [
             [
               {
                 "verse": 1,
-                "text": "I am the man who has seen trouble by the rod of his wrath."
-              },
+                "text": "I am the man who has suffered."
+              }
+            ],
+            [
+              {
+                "verse": 1,
+                "text": "God punished me because he was angry."
+              }
+            ],
+            [
               {
                 "verse": 2,
-                "text": "By him I have been made to go in the dark where there is no light."
-              },
+                "text": "He took me into very dark places."
+              }
+            ],
+            [
+              {
+                "verse": 2,
+                "text": "I had to walk in the dark instead of in the light."
+              }
+            ],
+            [
               {
                 "verse": 3,
-                "text": "Truly against me his hand has been turned again and again all the day."
-              },
+                "text": "He has continued to attack me many times."
+              }
+            ],
+            [
+              {
+                "verse": 3,
+                "text": "All day, every day, he punishes me."
+              }
+            ],
+            [
               {
                 "verse": 4,
-                "text": "My flesh and my skin have been used up by him and my bones broken."
+                "text": "He has caused my body and skin to spoil."
+              }
+            ],
+            [
+              {
+                "verse": 4,
+                "text": "He has broken my bones."
               }
             ],
             [
               {
                 "verse": 5,
-                "text": "He has put up a wall against me, shutting me in with bitter sorrow."
-              },
+                "text": "He has attacked me from every side,"
+              }
+            ],
+            [
+              {
+                "verse": 5,
+                "text": "so that I have pain and trouble."
+              }
+            ],
+            [
               {
                 "verse": 6,
-                "text": "He has kept me in dark places, like those who have been long dead."
-              },
+                "text": "He has made me live in a very dark place,"
+              }
+            ],
+            [
+              {
+                "verse": 6,
+                "text": "like people who died long ago."
+              }
+            ],
+            [
               {
                 "verse": 7,
-                "text": "He has put a wall round me, so that I am not able to go out; he has made great the weight of my chain."
-              },
+                "text": "He has put heavy chains on me like a prisoner."
+              }
+            ],
+            [
+              {
+                "verse": 7,
+                "text": "I cannot escape from my troubles."
+              }
+            ],
+            [
               {
                 "verse": 8,
-                "text": "Even when I send up a cry for help, he keeps my prayer shut out."
+                "text": "I call out loudly for God to help me,"
+              }
+            ],
+            [
+              {
+                "verse": 8,
+                "text": "but God does not listen to my prayer."
               }
             ],
             [
               {
                 "verse": 9,
-                "text": "He has put up a wall of cut stones about my ways, he has made my roads twisted."
-              },
+                "text": "He has used big rocks to build a wall across every road where I go."
+              }
+            ],
+            [
+              {
+                "verse": 9,
+                "text": "I cannot go anywhere."
+              }
+            ],
+            [
               {
                 "verse": 10,
-                "text": "He is like a bear waiting for me, like a lion in secret places."
-              },
+                "text": "God waits to attack me, like a bear."
+              }
+            ],
+            [
+              {
+                "verse": 10,
+                "text": "He hides like a lion that wants to kill."
+              }
+            ],
+            [
               {
                 "verse": 11,
-                "text": "By him my ways have been turned on one side and I have been pulled in bits; he has made me waste."
-              },
+                "text": "He has pulled me away from the road."
+              }
+            ],
+            [
+              {
+                "verse": 11,
+                "text": "He has torn me in pieces."
+              }
+            ],
+            [
+              {
+                "verse": 11,
+                "text": "He has left me without any help."
+              }
+            ],
+            [
               {
                 "verse": 12,
-                "text": "With his bow bent, he has made me the mark for his arrows."
+                "text": "He is like a soldier who is ready to shoot his arrows."
+              }
+            ],
+            [
+              {
+                "verse": 12,
+                "text": "I am the one that he wants to hit!"
               }
             ],
             [
               {
                 "verse": 13,
-                "text": "He has let loose his arrows into the inmost parts of my body."
-              },
+                "text": "He has shot his arrows and he has hit me."
+              }
+            ],
+            [
+              {
+                "verse": 13,
+                "text": "It hurts me deep inside."
+              }
+            ],
+            [
               {
                 "verse": 14,
-                "text": "I have become the sport of all the peoples; I am their song all the day."
-              },
+                "text": "All my people laugh at me."
+              }
+            ],
+            [
+              {
+                "verse": 14,
+                "text": "All the time, they sing songs that insult me."
+              }
+            ],
+            [
               {
                 "verse": 15,
-                "text": "He has made my life nothing but pain, he has given me the bitter root in full measure."
-              },
+                "text": "God has caused me to suffer very much,"
+              }
+            ],
+            [
+              {
+                "verse": 15,
+                "text": "as if I have drunk a bitter drink."
+              }
+            ],
+            [
               {
                 "verse": 16,
-                "text": "By him my teeth have been broken with crushed stones, and I am bent low in the dust."
+                "text": "He has made me eat stones that break my teeth."
+              }
+            ],
+            [
+              {
+                "verse": 16,
+                "text": "He has pushed me down into the dirt on the ground."
               }
             ],
             [
               {
                 "verse": 17,
-                "text": "My soul is sent far away from peace, I have no more memory of good."
-              },
+                "text": "I have no peace in my mind."
+              }
+            ],
+            [
+              {
+                "verse": 17,
+                "text": "I cannot remember the happy days that I had before."
+              }
+            ],
+            [
               {
                 "verse": 18,
-                "text": "And I said, My strength is cut off, and my hope from the Lord."
-              },
+                "text": "I tell myself, ‘I have no strength to live any more."
+              }
+            ],
+            [
+              {
+                "verse": 18,
+                "text": "I no longer hope that the Lord will help me.’"
+              }
+            ],
+            [
               {
                 "verse": 19,
-                "text": "Keep in mind my trouble and my wandering, the bitter root and the poison."
-              },
+                "text": "I think about my troubles, with no home to go to."
+              }
+            ],
+            [
+              {
+                "verse": 19,
+                "text": "It is like a bitter poison that I have to drink."
+              }
+            ],
+            [
               {
                 "verse": 20,
-                "text": "My soul still keeps the memory of them; and is bent down in me."
+                "text": "I think about these things all the time,"
+              }
+            ],
+            [
+              {
+                "verse": 20,
+                "text": "and I feel very upset."
               }
             ],
             [
               {
                 "verse": 21,
-                "text": "This I keep in mind, and because of this I have hope."
-              },
+                "text": "But now I remember what God is like,"
+              }
+            ],
+            [
+              {
+                "verse": 21,
+                "text": "so I still hope that he will help me."
+              }
+            ],
+            [
               {
                 "verse": 22,
-                "text": "It is through the Lord's love that we have not come to destruction, because his mercies have no limit."
-              },
+                "text": "The Lord's faithful love never comes to an end."
+              }
+            ],
+            [
+              {
+                "verse": 22,
+                "text": "He never stops being kind to us."
+              }
+            ],
+            [
               {
                 "verse": 23,
-                "text": "They are new every morning; great is your good faith."
-              },
+                "text": "Every day, we can trust him to be kind."
+              }
+            ],
+            [
+              {
+                "verse": 23,
+                "text": "Yes God, you are always faithful!"
+              }
+            ],
+            [
               {
                 "verse": 24,
-                "text": "I said to myself, The Lord is my heritage; and because of this I will have hope in him."
+                "text": "I say to myself, ‘The Lord God is with me and that is enough."
+              }
+            ],
+            [
+              {
+                "verse": 24,
+                "text": "I will trust him to help me.’"
               }
             ],
             [
               {
                 "verse": 25,
-                "text": "The Lord is good to those who are waiting for him, to the soul which is looking for him."
-              },
+                "text": "The Lord is kind to people who trust in him."
+              }
+            ],
+            [
+              {
+                "verse": 25,
+                "text": "He helps those who turn to him."
+              }
+            ],
+            [
               {
                 "verse": 26,
-                "text": "It is good to go on hoping and quietly waiting for the salvation of the Lord."
-              },
+                "text": "It is good when people wait quietly"
+              }
+            ],
+            [
+              {
+                "verse": 26,
+                "text": "for the Lord to rescue them."
+              }
+            ],
+            [
               {
                 "verse": 27,
-                "text": "It is good for a man to undergo the yoke when he is young."
-              },
+                "text": "It is good if you learn to accept trouble"
+              }
+            ],
+            [
+              {
+                "verse": 27,
+                "text": "when you are still young."
+              }
+            ],
+            [
               {
                 "verse": 28,
-                "text": "Let him be seated by himself, saying nothing, because he has put it on him."
+                "text": "When the Lord causes us to suffer,"
+              }
+            ],
+            [
+              {
+                "verse": 28,
+                "text": "we should sit alone quietly."
               }
             ],
             [
               {
                 "verse": 29,
-                "text": "Let him put his mouth in the dust, if by chance there may be hope."
-              },
+                "text": "We should be humble as we suffer."
+              }
+            ],
+            [
+              {
+                "verse": 29,
+                "text": "Then we may hope for God to help us."
+              }
+            ],
+            [
               {
                 "verse": 30,
-                "text": "Let his face be turned to him who gives him blows; let him be full of shame."
-              },
+                "text": "If somebody hits us on one side of our face,"
+              }
+            ],
+            [
+              {
+                "verse": 30,
+                "text": "we should let them hit the other side too."
+              }
+            ],
+            [
+              {
+                "verse": 30,
+                "text": "If people insult us, we should accept it."
+              }
+            ],
+            [
               {
                 "verse": 31,
-                "text": "For the Lord does not give a man up for ever."
-              },
+                "text": "The Lord God will not turn against his people for ever."
+              }
+            ],
+            [
               {
                 "verse": 32,
-                "text": "For though he sends grief, still he will have pity in the full measure of his love."
+                "text": "He may cause us to suffer for a time,"
+              }
+            ],
+            [
+              {
+                "verse": 32,
+                "text": "but then he will be kind to us,"
+              }
+            ],
+            [
+              {
+                "verse": 32,
+                "text": "because his faithful love is very great."
               }
             ],
             [
               {
                 "verse": 33,
-                "text": "For he has no pleasure in troubling and causing grief to the children of men."
-              },
+                "text": "It does not please him to make people suffer."
+              }
+            ],
+            [
+              {
+                "verse": 33,
+                "text": "He does not like to give them pain."
+              }
+            ],
+            [
               {
                 "verse": 34,
-                "text": "In a man's crushing under his feet all the prisoners of the earth,"
-              },
+                "text": "If anyone is cruel to all the prisoners in the land,"
+              }
+            ],
+            [
+              {
+                "verse": 34,
+                "text": "that is not good."
+              }
+            ],
+            [
               {
                 "verse": 35,
-                "text": "In his turning away the right of a man before the face of the Most High."
-              },
+                "text": "If anyone turns against the Most High God and cheats people,"
+              }
+            ],
+            [
+              {
+                "verse": 35,
+                "text": "that is not good."
+              }
+            ],
+            [
               {
                 "verse": 36,
-                "text": "In his doing wrong to a man in his cause, the Lord has no pleasure."
+                "text": "If anyone tells lies in court,"
+              }
+            ],
+            [
+              {
+                "verse": 36,
+                "text": "that is not good."
+              }
+            ],
+            [
+              {
+                "verse": 36,
+                "text": "The Lord God is not happy when he sees any of these bad things."
               }
             ],
             [
               {
                 "verse": 37,
-                "text": "Who is able to say a thing, and give effect to it, if it has not been ordered by the Lord?"
-              },
+                "text": "Nobody can command things to happen"
+              }
+            ],
+            [
+              {
+                "verse": 37,
+                "text": "unless the Lord God says it must happen."
+              }
+            ],
+            [
               {
                 "verse": 38,
-                "text": "Do not evil and good come from the mouth of the Most High?"
-              },
+                "text": "The Most High God says what will happen,"
+              }
+            ],
+            [
+              {
+                "verse": 38,
+                "text": "both good things and bad things."
+              }
+            ],
+            [
               {
                 "verse": 39,
-                "text": "What protest may a living man make, even a man about the punishment of his sin?"
-              },
+                "text": "When God punishes us for our sins"
+              }
+            ],
+            [
+              {
+                "verse": 39,
+                "text": "we have no reason to complain."
+              }
+            ],
+            [
               {
                 "verse": 40,
-                "text": "Let us make search and put our ways to the test, turning again to the Lord;"
+                "text": "Instead, we should think carefully about how we live."
+              }
+            ],
+            [
+              {
+                "verse": 40,
+                "text": "We should turn back to the Lord again."
               }
             ],
             [
               {
                 "verse": 41,
-                "text": "Lifting up our hearts with our hands to God in the heavens."
-              },
+                "text": "We should be honest with God in heaven,"
+              }
+            ],
+            [
+              {
+                "verse": 41,
+                "text": "lift up our hands and pray to him:"
+              }
+            ],
+            [
               {
                 "verse": 42,
-                "text": "We have done wrong and gone against your law; we have not had your forgiveness."
-              },
+                "text": "‘We have completely turned against you."
+              }
+            ],
+            [
+              {
+                "verse": 42,
+                "text": "You have not forgiven us."
+              }
+            ],
+            [
               {
                 "verse": 43,
-                "text": "Covering yourself with wrath you have gone after us, cutting us off without pity;"
-              },
+                "text": "You have chased after us with your great anger."
+              }
+            ],
+            [
+              {
+                "verse": 43,
+                "text": "You have not felt sorry to kill us."
+              }
+            ],
+            [
               {
                 "verse": 44,
-                "text": "Covering yourself with a cloud, so that prayer may not get through."
+                "text": "You have hidden yourself from us in a cloud."
+              }
+            ],
+            [
+              {
+                "verse": 44,
+                "text": "So our prayers cannot reach you."
               }
             ],
             [
               {
                 "verse": 45,
-                "text": "You have made us like waste and that for which there is no use, among the peoples."
-              },
+                "text": "You have caused us to become like dirty rubbish."
+              }
+            ],
+            [
+              {
+                "verse": 45,
+                "text": "So the people of other nations do not respect us."
+              }
+            ],
+            [
               {
                 "verse": 46,
-                "text": "The mouths of all our haters are open wide against us."
-              },
+                "text": "All our enemies are happy"
+              }
+            ],
+            [
+              {
+                "verse": 46,
+                "text": "to see that we have trouble."
+              }
+            ],
+            [
               {
                 "verse": 47,
-                "text": "Fear and deep waters have come on us, wasting and destruction."
-              },
+                "text": "Terrible troubles have come to destroy us."
+              }
+            ],
+            [
+              {
+                "verse": 47,
+                "text": "So we are very afraid.’"
+              }
+            ],
+            [
               {
                 "verse": 48,
-                "text": "Rivers of water are running down from my eyes, for the destruction of the daughter of my people."
+                "text": "Tears pour from my eyes like a river,"
+              }
+            ],
+            [
+              {
+                "verse": 48,
+                "text": "because enemies have destroyed my people."
               }
             ],
             [
               {
                 "verse": 49,
-                "text": "My eyes are streaming without stopping, they have no rest,"
-              },
+                "text": "My tears will continue to pour out."
+              }
+            ],
+            [
+              {
+                "verse": 49,
+                "text": "They will never stop,"
+              }
+            ],
+            [
               {
                 "verse": 50,
-                "text": "Till the Lord's eye is turned on me, till he sees my trouble from heaven."
-              },
+                "text": "until the Lord looks down from heaven."
+              }
+            ],
+            [
+              {
+                "verse": 50,
+                "text": "He will see what is happening to us."
+              }
+            ],
+            [
               {
                 "verse": 51,
-                "text": "The Lord is unkind to my soul, more than all the daughters of my town."
-              },
+                "text": "I see how much the young women of my city are suffering."
+              }
+            ],
+            [
+              {
+                "verse": 51,
+                "text": "It makes me very upset."
+              }
+            ],
+            [
               {
                 "verse": 52,
-                "text": "They who are against me without cause have gone hard after me as if I was a bird;"
+                "text": "My enemies had no reason to hate me,"
+              }
+            ],
+            [
+              {
+                "verse": 52,
+                "text": "but they caught me like people catch birds."
               }
             ],
             [
               {
                 "verse": 53,
-                "text": "They have put an end to my life in the prison, stoning me with stones."
-              },
+                "text": "They threw me into a deep hole in the ground"
+              }
+            ],
+            [
+              {
+                "verse": 53,
+                "text": "and they threw stones at me to kill me."
+              }
+            ],
+            [
               {
                 "verse": 54,
-                "text": "Waters were flowing over my head; I said, I am cut off."
-              },
+                "text": "The water in the hole rose up my head."
+              }
+            ],
+            [
+              {
+                "verse": 54,
+                "text": "Then I thought, ‘I will soon die.’"
+              }
+            ],
+            [
               {
                 "verse": 55,
-                "text": "I was making prayer to your name, O Lord, out of the lowest prison."
-              },
+                "text": "From the bottom of the deep hole"
+              }
+            ],
+            [
+              {
+                "verse": 55,
+                "text": "I called your name, Lord."
+              }
+            ],
+            [
               {
                 "verse": 56,
-                "text": "My voice came to you; let not your ear be shut to my breathing, to my cry."
+                "text": "I said, ‘Please listen to me as I call to you for help.’"
+              }
+            ],
+            [
+              {
+                "verse": 56,
+                "text": "You heard my prayer."
               }
             ],
             [
               {
                 "verse": 57,
-                "text": "You came near in the day when I made my prayer to you: you said, Have no fear."
-              },
+                "text": "You came near to me when I prayed to you."
+              }
+            ],
+            [
+              {
+                "verse": 57,
+                "text": "You said to me, ‘Do not be afraid.’"
+              }
+            ],
+            [
               {
                 "verse": 58,
-                "text": "O Lord, you have taken up the cause of my soul, you have made my life safe."
-              },
+                "text": "Lord God, you spoke on my behalf."
+              }
+            ],
+            [
+              {
+                "verse": 58,
+                "text": "You rescued me from death."
+              }
+            ],
+            [
               {
                 "verse": 59,
-                "text": "O Lord, you have seen my wrong; be judge in my cause."
-              },
+                "text": "You have seen how my enemies have been cruel to me."
+              }
+            ],
+            [
+              {
+                "verse": 59,
+                "text": "Judge fairly and show that I am right!"
+              }
+            ],
+            [
               {
                 "verse": 60,
-                "text": "You have seen all the evil rewards they have sent on me, and all their designs against me."
+                "text": "You have seen that my enemies hate me"
+              }
+            ],
+            [
+              {
+                "verse": 60,
+                "text": "and they make plans to hurt me."
               }
             ],
             [
               {
                 "verse": 61,
-                "text": "Their bitter words have come to your ears, O Lord, and all their designs against me;"
-              },
+                "text": "Lord, you have heard them when they insult me."
+              }
+            ],
+            [
+              {
+                "verse": 61,
+                "text": "You know about their plans to hurt me."
+              }
+            ],
+            [
               {
                 "verse": 62,
-                "text": "The lips of those who came up against me, and their thoughts against me all the day."
-              },
+                "text": "My enemies say bad things about me."
+              }
+            ],
+            [
+              {
+                "verse": 62,
+                "text": "They are always thinking about ways to attack me."
+              }
+            ],
+            [
               {
                 "verse": 63,
-                "text": "Take note of them when they are seated, and when they get up; I am their song."
-              },
+                "text": "Watch them as they sing songs to insult me."
+              }
+            ],
+            [
+              {
+                "verse": 63,
+                "text": "They sing them all the time."
+              }
+            ],
+            [
               {
                 "verse": 64,
-                "text": "You will give them their reward, O Lord, answering to the work of their hands."
+                "text": "Lord, punish them as they deserve"
+              }
+            ],
+            [
+              {
+                "verse": 64,
+                "text": "for all the bad things that they have done."
               }
             ],
             [
               {
                 "verse": 65,
-                "text": "You will let their hearts be covered over with your curse on them."
-              },
+                "text": "Cause them to be very upset."
+              }
+            ],
+            [
+              {
+                "verse": 65,
+                "text": "Curse them so that they suffer!"
+              }
+            ],
+            [
               {
                 "verse": 66,
-                "text": "You will go after them in wrath, and put an end to them from under the heavens of the Lord."
+                "text": "Chase after them in your anger."
+              }
+            ],
+            [
+              {
+                "verse": 66,
+                "text": "Cause them to disappear from the whole earth."
               }
             ]
           ]
         }
       ],
-      "verses": [
-        {
-          "verse": 1,
-          "text": "I am the man who has seen trouble by the rod of his wrath."
-        },
-        {
-          "verse": 2,
-          "text": "By him I have been made to go in the dark where there is no light."
-        },
-        {
-          "verse": 3,
-          "text": "Truly against me his hand has been turned again and again all the day."
-        },
-        {
-          "verse": 4,
-          "text": "My flesh and my skin have been used up by him and my bones broken."
-        },
-        {
-          "verse": 5,
-          "text": "He has put up a wall against me, shutting me in with bitter sorrow."
-        },
-        {
-          "verse": 6,
-          "text": "He has kept me in dark places, like those who have been long dead."
-        },
-        {
-          "verse": 7,
-          "text": "He has put a wall round me, so that I am not able to go out; he has made great the weight of my chain."
-        },
-        {
-          "verse": 8,
-          "text": "Even when I send up a cry for help, he keeps my prayer shut out."
-        },
-        {
-          "verse": 9,
-          "text": "He has put up a wall of cut stones about my ways, he has made my roads twisted."
-        },
-        {
-          "verse": 10,
-          "text": "He is like a bear waiting for me, like a lion in secret places."
-        },
-        {
-          "verse": 11,
-          "text": "By him my ways have been turned on one side and I have been pulled in bits; he has made me waste."
-        },
-        {
-          "verse": 12,
-          "text": "With his bow bent, he has made me the mark for his arrows."
-        },
-        {
-          "verse": 13,
-          "text": "He has let loose his arrows into the inmost parts of my body."
-        },
-        {
-          "verse": 14,
-          "text": "I have become the sport of all the peoples; I am their song all the day."
-        },
-        {
-          "verse": 15,
-          "text": "He has made my life nothing but pain, he has given me the bitter root in full measure."
-        },
-        {
-          "verse": 16,
-          "text": "By him my teeth have been broken with crushed stones, and I am bent low in the dust."
-        },
-        {
-          "verse": 17,
-          "text": "My soul is sent far away from peace, I have no more memory of good."
-        },
-        {
-          "verse": 18,
-          "text": "And I said, My strength is cut off, and my hope from the Lord."
-        },
-        {
-          "verse": 19,
-          "text": "Keep in mind my trouble and my wandering, the bitter root and the poison."
-        },
-        {
-          "verse": 20,
-          "text": "My soul still keeps the memory of them; and is bent down in me."
-        },
-        {
-          "verse": 21,
-          "text": "This I keep in mind, and because of this I have hope."
-        },
-        {
-          "verse": 22,
-          "text": "It is through the Lord's love that we have not come to destruction, because his mercies have no limit."
-        },
-        {
-          "verse": 23,
-          "text": "They are new every morning; great is your good faith."
-        },
-        {
-          "verse": 24,
-          "text": "I said to myself, The Lord is my heritage; and because of this I will have hope in him."
-        },
-        {
-          "verse": 25,
-          "text": "The Lord is good to those who are waiting for him, to the soul which is looking for him."
-        },
-        {
-          "verse": 26,
-          "text": "It is good to go on hoping and quietly waiting for the salvation of the Lord."
-        },
-        {
-          "verse": 27,
-          "text": "It is good for a man to undergo the yoke when he is young."
-        },
-        {
-          "verse": 28,
-          "text": "Let him be seated by himself, saying nothing, because he has put it on him."
-        },
-        {
-          "verse": 29,
-          "text": "Let him put his mouth in the dust, if by chance there may be hope."
-        },
-        {
-          "verse": 30,
-          "text": "Let his face be turned to him who gives him blows; let him be full of shame."
-        },
-        {
-          "verse": 31,
-          "text": "For the Lord does not give a man up for ever."
-        },
-        {
-          "verse": 32,
-          "text": "For though he sends grief, still he will have pity in the full measure of his love."
-        },
-        {
-          "verse": 33,
-          "text": "For he has no pleasure in troubling and causing grief to the children of men."
-        },
-        {
-          "verse": 34,
-          "text": "In a man's crushing under his feet all the prisoners of the earth,"
-        },
-        {
-          "verse": 35,
-          "text": "In his turning away the right of a man before the face of the Most High."
-        },
-        {
-          "verse": 36,
-          "text": "In his doing wrong to a man in his cause, the Lord has no pleasure."
-        },
-        {
-          "verse": 37,
-          "text": "Who is able to say a thing, and give effect to it, if it has not been ordered by the Lord?"
-        },
-        {
-          "verse": 38,
-          "text": "Do not evil and good come from the mouth of the Most High?"
-        },
-        {
-          "verse": 39,
-          "text": "What protest may a living man make, even a man about the punishment of his sin?"
-        },
-        {
-          "verse": 40,
-          "text": "Let us make search and put our ways to the test, turning again to the Lord;"
-        },
-        {
-          "verse": 41,
-          "text": "Lifting up our hearts with our hands to God in the heavens."
-        },
-        {
-          "verse": 42,
-          "text": "We have done wrong and gone against your law; we have not had your forgiveness."
-        },
-        {
-          "verse": 43,
-          "text": "Covering yourself with wrath you have gone after us, cutting us off without pity;"
-        },
-        {
-          "verse": 44,
-          "text": "Covering yourself with a cloud, so that prayer may not get through."
-        },
-        {
-          "verse": 45,
-          "text": "You have made us like waste and that for which there is no use, among the peoples."
-        },
-        {
-          "verse": 46,
-          "text": "The mouths of all our haters are open wide against us."
-        },
-        {
-          "verse": 47,
-          "text": "Fear and deep waters have come on us, wasting and destruction."
-        },
-        {
-          "verse": 48,
-          "text": "Rivers of water are running down from my eyes, for the destruction of the daughter of my people."
-        },
-        {
-          "verse": 49,
-          "text": "My eyes are streaming without stopping, they have no rest,"
-        },
-        {
-          "verse": 50,
-          "text": "Till the Lord's eye is turned on me, till he sees my trouble from heaven."
-        },
-        {
-          "verse": 51,
-          "text": "The Lord is unkind to my soul, more than all the daughters of my town."
-        },
-        {
-          "verse": 52,
-          "text": "They who are against me without cause have gone hard after me as if I was a bird;"
-        },
-        {
-          "verse": 53,
-          "text": "They have put an end to my life in the prison, stoning me with stones."
-        },
-        {
-          "verse": 54,
-          "text": "Waters were flowing over my head; I said, I am cut off."
-        },
-        {
-          "verse": 55,
-          "text": "I was making prayer to your name, O Lord, out of the lowest prison."
-        },
-        {
-          "verse": 56,
-          "text": "My voice came to you; let not your ear be shut to my breathing, to my cry."
-        },
-        {
-          "verse": 57,
-          "text": "You came near in the day when I made my prayer to you: you said, Have no fear."
-        },
-        {
-          "verse": 58,
-          "text": "O Lord, you have taken up the cause of my soul, you have made my life safe."
-        },
-        {
-          "verse": 59,
-          "text": "O Lord, you have seen my wrong; be judge in my cause."
-        },
-        {
-          "verse": 60,
-          "text": "You have seen all the evil rewards they have sent on me, and all their designs against me."
-        },
-        {
-          "verse": 61,
-          "text": "Their bitter words have come to your ears, O Lord, and all their designs against me;"
-        },
-        {
-          "verse": 62,
-          "text": "The lips of those who came up against me, and their thoughts against me all the day."
-        },
-        {
-          "verse": 63,
-          "text": "Take note of them when they are seated, and when they get up; I am their song."
-        },
-        {
-          "verse": 64,
-          "text": "You will give them their reward, O Lord, answering to the work of their hands."
-        },
-        {
-          "verse": 65,
-          "text": "You will let their hearts be covered over with your curse on them."
-        },
-        {
-          "verse": 66,
-          "text": "You will go after them in wrath, and put an end to them from under the heavens of the Lord."
-        }
-      ],
-      "totalVerses": 66,
-      "footnotes": []
+      "notes": [
+        "In the Bible, when people do not know thetruthabout God, it is like they are living in a dark place. God gives light so that people know the truth.",
+        "Theprophetbegins to have hope again when he thinks about God. The verses which follow describe what God is like.",
+        "Jesus spoke about this too. SeeMatthew 5:39."
+      ]
     },
     {
-      "book": "Lamentations",
       "chapter": 4,
       "title": "Lamentations 4",
-      "subtitle": "Lamentations Chapter 4",
+      "subtitle": "",
+      "totalVerses": 22,
+      "sourceUrl": "https://www.easyenglish.bible/bible/easy/lamentations/4/",
       "sections": [
         {
-          "heading": "Lamentations Chapter 4",
+          "heading": "The prophet speaks about Jerusalem's punishment",
           "items": [
             [
               {
                 "verse": 1,
-                "text": "How dark has the gold become! how changed the best gold! the stones of the holy place are dropping out at the top of every street."
-              },
+                "text": "Look! The city's gold is no longer beautiful."
+              }
+            ],
+            [
+              {
+                "verse": 1,
+                "text": "Even pure gold has become useless."
+              }
+            ],
+            [
+              {
+                "verse": 1,
+                "text": "The jewels from the temple lie on the ground"
+              }
+            ],
+            [
+              {
+                "verse": 1,
+                "text": "in all the city's streets."
+              }
+            ],
+            [
               {
                 "verse": 2,
-                "text": "The valued sons of Zion, whose price was the best gold, are looked on as vessels of earth, the work of the hands of the potter!"
-              },
+                "text": "Zion's young men were more valuable to us than gold."
+              }
+            ],
+            [
+              {
+                "verse": 2,
+                "text": "But now they seem to have no value."
+              }
+            ],
+            [
+              {
+                "verse": 2,
+                "text": "They are like ordinary pots"
+              }
+            ],
+            [
+              {
+                "verse": 2,
+                "text": "that a potter has made."
+              }
+            ],
+            [
               {
                 "verse": 3,
-                "text": "Even the beasts of the waste land have full breasts, they give milk to their young ones: the daughter of my people has become cruel like the ostriches in the waste land."
-              },
+                "text": "Even jackals feed their babies at their breasts."
+              }
+            ],
+            [
+              {
+                "verse": 3,
+                "text": "But Jerusalem's young women have become cruel."
+              }
+            ],
+            [
+              {
+                "verse": 3,
+                "text": "They are like ostriches"
+              }
+            ],
+            [
+              {
+                "verse": 3,
+                "text": "that leave their eggs in the desert."
+              }
+            ],
+            [
               {
                 "verse": 4,
-                "text": "The tongue of the child at the breast is fixed to the roof of his mouth for need of drink: the young children are crying out for bread, and no man gives it to them."
+                "text": "Babies' mouths are completely dry,"
+              }
+            ],
+            [
+              {
+                "verse": 4,
+                "text": "because they are so thirsty."
+              }
+            ],
+            [
+              {
+                "verse": 4,
+                "text": "Young children ask people to give them food,"
+              }
+            ],
+            [
+              {
+                "verse": 4,
+                "text": "but nobody has any food to share with them."
               }
             ],
             [
               {
                 "verse": 5,
-                "text": "Those who were used to feasting on delicate food are wasted in the streets: those who as children were dressed in purple are stretched out on the dust."
-              },
+                "text": "People who were rich and who ate the best food"
+              }
+            ],
+            [
+              {
+                "verse": 5,
+                "text": "now die in the streets with nothing to eat."
+              }
+            ],
+            [
+              {
+                "verse": 5,
+                "text": "Rich people who wore expensive clothes"
+              }
+            ],
+            [
+              {
+                "verse": 5,
+                "text": "now die among the rubbish."
+              }
+            ],
+            [
               {
                 "verse": 6,
-                "text": "For the punishment of the daughter of my people is greater than the punishment of Sodom, which was overturned suddenly without any hand falling on her."
-              },
+                "text": "God destroyed the city of Sodom in a moment"
+              }
+            ],
+            [
+              {
+                "verse": 6,
+                "text": "and nobody was there to help them."
+              }
+            ],
+            [
+              {
+                "verse": 6,
+                "text": "Now he has punished my people"
+              }
+            ],
+            [
+              {
+                "verse": 6,
+                "text": "even more than he punished Sodom's people."
+              }
+            ],
+            [
               {
                 "verse": 7,
-                "text": "Her holy ones were cleaner than snow, they were whiter than milk, their bodies were redder than corals, their form was as the sapphire:"
-              },
+                "text": "The leaders of Jerusalem were very pure,"
+              }
+            ],
+            [
+              {
+                "verse": 7,
+                "text": "whiter than snow or milk."
+              }
+            ],
+            [
+              {
+                "verse": 7,
+                "text": "They were strong and healthy."
+              }
+            ],
+            [
+              {
+                "verse": 7,
+                "text": "Their bodies seemed to shine like valuable jewels."
+              }
+            ],
+            [
               {
                 "verse": 8,
-                "text": "Their face is blacker than night; in the streets no one has knowledge of them: their skin is hanging on their bones, they are dry, they have become like wood."
+                "text": "Now their faces are dirty, blacker than coal."
+              }
+            ],
+            [
+              {
+                "verse": 8,
+                "text": "When they go out, people do not recognize them."
+              }
+            ],
+            [
+              {
+                "verse": 8,
+                "text": "Their skin hangs on their bones."
+              }
+            ],
+            [
+              {
+                "verse": 8,
+                "text": "Their skin is as dry as a stick."
               }
             ],
             [
               {
                 "verse": 9,
-                "text": "Those who have been put to the sword are better off than those whose death is caused by need of food; for these come to death slowly, burned up like the fruit of the field."
-              },
+                "text": "It is better for people who died in a battle"
+              }
+            ],
+            [
+              {
+                "verse": 9,
+                "text": "than for people who have nothing to eat."
+              }
+            ],
+            [
+              {
+                "verse": 9,
+                "text": "The fields provided no crops"
+              }
+            ],
+            [
+              {
+                "verse": 9,
+                "text": "so people died slowly without food."
+              }
+            ],
+            [
               {
                 "verse": 10,
-                "text": "The hands of kind-hearted women have been boiling their children; they were their food in the destruction of the daughter of my people."
-              },
+                "text": "Women who had been kind mothers"
+              }
+            ],
+            [
+              {
+                "verse": 10,
+                "text": "have now cooked their own children."
+              }
+            ],
+            [
+              {
+                "verse": 10,
+                "text": "Their children became their food,"
+              }
+            ],
+            [
+              {
+                "verse": 10,
+                "text": "when enemies were attacking the city."
+              }
+            ],
+            [
               {
                 "verse": 11,
-                "text": "The Lord has given full effect to his passion, he has let loose his burning wrath; he has made a fire in Zion, causing the destruction of its bases."
-              },
+                "text": "The Lord showed that he was very angry."
+              }
+            ],
+            [
+              {
+                "verse": 11,
+                "text": "He started a fire in Zion."
+              }
+            ],
+            [
+              {
+                "verse": 11,
+                "text": "The fire destroyed the whole city,"
+              }
+            ],
+            [
+              {
+                "verse": 11,
+                "text": "even its foundations."
+              }
+            ],
+            [
               {
                 "verse": 12,
-                "text": "To the kings of the earth and to all the people of the world it did not seem possible that the attackers and the haters would go into the doors of Jerusalem."
+                "text": "None of the kings of the earth,"
+              }
+            ],
+            [
+              {
+                "verse": 12,
+                "text": "or the people of any nation could believe it."
+              }
+            ],
+            [
+              {
+                "verse": 12,
+                "text": "They never thought that an enemy"
+              }
+            ],
+            [
+              {
+                "verse": 12,
+                "text": "could march through Jerusalem's gates."
               }
             ],
             [
               {
                 "verse": 13,
-                "text": "It is because of the sins of her prophets and the evil-doing of her priests, by whom the blood of the upright has been drained out in her."
-              },
+                "text": "But it happened because of the sins"
+              }
+            ],
+            [
+              {
+                "verse": 13,
+                "text": "of Jerusalem's prophets and her priests."
+              }
+            ],
+            [
+              {
+                "verse": 13,
+                "text": "The city became an unclean place"
+              }
+            ],
+            [
+              {
+                "verse": 13,
+                "text": "because its leaders caused good people to die there."
+              }
+            ],
+            [
               {
                 "verse": 14,
-                "text": "They are wandering like blind men in the streets, they are made unclean with blood, so that their robes may not be touched by men."
-              },
+                "text": "They walked around in the city's streets"
+              }
+            ],
+            [
+              {
+                "verse": 14,
+                "text": "like people who are blind."
+              }
+            ],
+            [
+              {
+                "verse": 14,
+                "text": "There was blood on their clothes"
+              }
+            ],
+            [
+              {
+                "verse": 14,
+                "text": "and people were afraid to touch them."
+              }
+            ],
+            [
               {
                 "verse": 15,
-                "text": "Away! unclean! they were crying out to them, Away! away! let there be no touching: when they went away in flight and wandering, men said among the nations, There is no further resting-place for them."
-              },
+                "text": "People shouted at them, ‘Go away! You are unclean!"
+              }
+            ],
+            [
+              {
+                "verse": 15,
+                "text": "Go away! Do not touch us!’"
+              }
+            ],
+            [
+              {
+                "verse": 15,
+                "text": "So they went away to look for homes in other places."
+              }
+            ],
+            [
+              {
+                "verse": 15,
+                "text": "But foreign nations said, ‘They cannot stay here with us!’"
+              }
+            ],
+            [
               {
                 "verse": 16,
-                "text": "The face of the Lord has sent them in all directions; he will no longer take care of them: they had no respect for the priests, they gave no honour to the old men."
+                "text": "The Lord himself has sent them away."
+              }
+            ],
+            [
+              {
+                "verse": 16,
+                "text": "He does not take care of them any longer."
+              }
+            ],
+            [
+              {
+                "verse": 16,
+                "text": "People do not respect the priests."
+              }
+            ],
+            [
+              {
+                "verse": 16,
+                "text": "Nobody is kind to the leaders."
               }
             ],
             [
               {
                 "verse": 17,
-                "text": "Our eyes are still wasting away in looking for our false help: we have been watching for a nation unable to give salvation."
-              },
+                "text": "Our eyes became weak"
+              }
+            ],
+            [
+              {
+                "verse": 17,
+                "text": "as we watched to see if help would come."
+              }
+            ],
+            [
+              {
+                "verse": 17,
+                "text": "We continued to hope for help from another nation."
+              }
+            ],
+            [
+              {
+                "verse": 17,
+                "text": "But no nation was able to rescue us."
+              }
+            ],
+            [
               {
                 "verse": 18,
-                "text": "They go after our steps so that we may not go in our streets: our end is near, our days are numbered; for our end has come."
-              },
+                "text": "Our enemies watched us wherever we went."
+              }
+            ],
+            [
+              {
+                "verse": 18,
+                "text": "We could not walk in our own streets."
+              }
+            ],
+            [
+              {
+                "verse": 18,
+                "text": "We knew that our end would soon come."
+              }
+            ],
+            [
+              {
+                "verse": 18,
+                "text": "Only a few days remained. The time had finally come!"
+              }
+            ],
+            [
               {
                 "verse": 19,
-                "text": "Those who went after us were quicker than the eagles of the heaven, driving us before them on the mountains, waiting secretly for us in the waste land."
-              },
+                "text": "Our enemies could chase us"
+              }
+            ],
+            [
+              {
+                "verse": 19,
+                "text": "more quickly than eagles that fly high in the sky."
+              }
+            ],
+            [
+              {
+                "verse": 19,
+                "text": "They chased us across the mountains."
+              }
+            ],
+            [
+              {
+                "verse": 19,
+                "text": "They hid to attack us in the desert."
+              }
+            ],
+            [
               {
                 "verse": 20,
-                "text": "Our breath of life, he on whom the holy oil was put, was taken in their holes; of whom we said, Under his shade we will be living among the nations."
+                "text": "The king that the Lord had chosen to rule over us"
+              }
+            ],
+            [
+              {
+                "verse": 20,
+                "text": "was the one who gave us life."
+              }
+            ],
+            [
+              {
+                "verse": 20,
+                "text": "We had thought, ‘He will keep us safe from the armies of other nations.’"
+              }
+            ],
+            [
+              {
+                "verse": 20,
+                "text": "But now our enemies have caught him in their traps."
               }
             ],
             [
               {
                 "verse": 21,
-                "text": "Have joy and be glad, O daughter of Edom, living in the land of Uz: the cup will be given to you in your turn, and you will be overcome with wine and your shame will be seen."
-              },
+                "text": "Edom's people who live in the land of Uz,"
+              }
+            ],
+            [
+              {
+                "verse": 21,
+                "text": "You may be happy now."
+              }
+            ],
+            [
+              {
+                "verse": 21,
+                "text": "But the Lord will punish you too."
+              }
+            ],
+            [
+              {
+                "verse": 21,
+                "text": "You will become drunk and be ashamed with no clothes to wear."
+              }
+            ],
+            [
               {
                 "verse": 22,
-                "text": "The punishment of your evil-doing is complete, O daughter of Zion; never again will he take you away as a prisoner: he will give you the reward of your evil-doing, O daughter of Edom; he will let your sin be uncovered."
+                "text": "People of Zion, your punishment for your sin will soon finish."
+              }
+            ],
+            [
+              {
+                "verse": 22,
+                "text": "God will not leave you to live in foreign countries any longer."
+              }
+            ],
+            [
+              {
+                "verse": 22,
+                "text": "But you, Edom's people, God will punish you for your sin."
+              }
+            ],
+            [
+              {
+                "verse": 22,
+                "text": "He will show everyone the wicked things that you have done."
               }
             ]
           ]
         }
       ],
-      "verses": [
-        {
-          "verse": 1,
-          "text": "How dark has the gold become! how changed the best gold! the stones of the holy place are dropping out at the top of every street."
-        },
-        {
-          "verse": 2,
-          "text": "The valued sons of Zion, whose price was the best gold, are looked on as vessels of earth, the work of the hands of the potter!"
-        },
-        {
-          "verse": 3,
-          "text": "Even the beasts of the waste land have full breasts, they give milk to their young ones: the daughter of my people has become cruel like the ostriches in the waste land."
-        },
-        {
-          "verse": 4,
-          "text": "The tongue of the child at the breast is fixed to the roof of his mouth for need of drink: the young children are crying out for bread, and no man gives it to them."
-        },
-        {
-          "verse": 5,
-          "text": "Those who were used to feasting on delicate food are wasted in the streets: those who as children were dressed in purple are stretched out on the dust."
-        },
-        {
-          "verse": 6,
-          "text": "For the punishment of the daughter of my people is greater than the punishment of Sodom, which was overturned suddenly without any hand falling on her."
-        },
-        {
-          "verse": 7,
-          "text": "Her holy ones were cleaner than snow, they were whiter than milk, their bodies were redder than corals, their form was as the sapphire:"
-        },
-        {
-          "verse": 8,
-          "text": "Their face is blacker than night; in the streets no one has knowledge of them: their skin is hanging on their bones, they are dry, they have become like wood."
-        },
-        {
-          "verse": 9,
-          "text": "Those who have been put to the sword are better off than those whose death is caused by need of food; for these come to death slowly, burned up like the fruit of the field."
-        },
-        {
-          "verse": 10,
-          "text": "The hands of kind-hearted women have been boiling their children; they were their food in the destruction of the daughter of my people."
-        },
-        {
-          "verse": 11,
-          "text": "The Lord has given full effect to his passion, he has let loose his burning wrath; he has made a fire in Zion, causing the destruction of its bases."
-        },
-        {
-          "verse": 12,
-          "text": "To the kings of the earth and to all the people of the world it did not seem possible that the attackers and the haters would go into the doors of Jerusalem."
-        },
-        {
-          "verse": 13,
-          "text": "It is because of the sins of her prophets and the evil-doing of her priests, by whom the blood of the upright has been drained out in her."
-        },
-        {
-          "verse": 14,
-          "text": "They are wandering like blind men in the streets, they are made unclean with blood, so that their robes may not be touched by men."
-        },
-        {
-          "verse": 15,
-          "text": "Away! unclean! they were crying out to them, Away! away! let there be no touching: when they went away in flight and wandering, men said among the nations, There is no further resting-place for them."
-        },
-        {
-          "verse": 16,
-          "text": "The face of the Lord has sent them in all directions; he will no longer take care of them: they had no respect for the priests, they gave no honour to the old men."
-        },
-        {
-          "verse": 17,
-          "text": "Our eyes are still wasting away in looking for our false help: we have been watching for a nation unable to give salvation."
-        },
-        {
-          "verse": 18,
-          "text": "They go after our steps so that we may not go in our streets: our end is near, our days are numbered; for our end has come."
-        },
-        {
-          "verse": 19,
-          "text": "Those who went after us were quicker than the eagles of the heaven, driving us before them on the mountains, waiting secretly for us in the waste land."
-        },
-        {
-          "verse": 20,
-          "text": "Our breath of life, he on whom the holy oil was put, was taken in their holes; of whom we said, Under his shade we will be living among the nations."
-        },
-        {
-          "verse": 21,
-          "text": "Have joy and be glad, O daughter of Edom, living in the land of Uz: the cup will be given to you in your turn, and you will be overcome with wine and your shame will be seen."
-        },
-        {
-          "verse": 22,
-          "text": "The punishment of your evil-doing is complete, O daughter of Zion; never again will he take you away as a prisoner: he will give you the reward of your evil-doing, O daughter of Edom; he will let your sin be uncovered."
-        }
-      ],
-      "totalVerses": 22,
-      "footnotes": []
+      "notes": [
+        "People did not think that ordinary pots were valuable.",
+        "Ostriches are large birds that lay their eggs in the sand. They do not take care of their babies. SeeJob 39:14-16.",
+        "Sodom's people werewickedand they did not obey God. SeeGenesis 18:16-19:29. They all died quickly.",
+        "The king was Zedekiah. He was the last king of Judah. SeeJeremiah 39:1-8.",
+        "Edom was a country near Israel. It was also called Seir.",
+        "Edom's people did not help the people of Jerusalem when the Babylonian army attacked the city. They were happy to see the enemy take Jerusalem for themselves. God willpunishEdom's people because they werecruelto God's people. Edom is a country that is near Israel. It was also called Seir."
+      ]
     },
     {
-      "book": "Lamentations",
       "chapter": 5,
       "title": "Lamentations 5",
-      "subtitle": "Lamentations Chapter 5",
+      "subtitle": "",
+      "totalVerses": 22,
+      "sourceUrl": "https://www.easyenglish.bible/bible/easy/lamentations/5/",
       "sections": [
         {
-          "heading": "Lamentations Chapter 5",
+          "heading": "Jerusalem's people pray to God",
           "items": [
             [
               {
                 "verse": 1,
-                "text": "Keep in mind, O Lord, what has come to us: take note and see our shame."
-              },
+                "text": "Lord, please think about what has happened to us."
+              }
+            ],
+            [
+              {
+                "verse": 1,
+                "text": "See how ashamed we have become."
+              }
+            ],
+            [
               {
                 "verse": 2,
-                "text": "Our heritage is given up to men of strange lands, our houses to those who are not our countrymen."
-              },
+                "text": "Strangers have taken our land for themselves."
+              }
+            ],
+            [
+              {
+                "verse": 2,
+                "text": "Foreign people live in our homes."
+              }
+            ],
+            [
               {
                 "verse": 3,
-                "text": "We are children without fathers, our mothers are like widows."
-              },
+                "text": "We have become children without fathers."
+              }
+            ],
+            [
+              {
+                "verse": 3,
+                "text": "Our mothers have become widows."
+              }
+            ],
+            [
               {
                 "verse": 4,
-                "text": "We give money for a drink of water, we get our wood for a price."
+                "text": "We must pay money for the water that we drink."
+              }
+            ],
+            [
+              {
+                "verse": 4,
+                "text": "We must buy expensive wood for our fires."
               }
             ],
             [
               {
                 "verse": 5,
-                "text": "Our attackers are on our necks: overcome with weariness, we have no rest."
-              },
+                "text": "Our enemies make us work very hard."
+              }
+            ],
+            [
+              {
+                "verse": 5,
+                "text": "We are tired and we have no rest."
+              }
+            ],
+            [
               {
                 "verse": 6,
-                "text": "We have given our hands to the Egyptians and to the Assyrians so that we might have enough bread."
-              },
+                "text": "We have agreed to serve the Egyptians and the Assyrians,"
+              }
+            ],
+            [
+              {
+                "verse": 6,
+                "text": "so that we could get food to eat."
+              }
+            ],
+            [
               {
                 "verse": 7,
-                "text": "Our fathers were sinners and are dead; and the weight of their evil-doing is on us."
-              },
+                "text": "Our ancestors did wrong things but they are now dead."
+              }
+            ],
+            [
+              {
+                "verse": 7,
+                "text": "We receive the punishment that they deserved."
+              }
+            ],
+            [
               {
                 "verse": 8,
-                "text": "Servants are ruling over us, and there is no one to make us free from their hands."
+                "text": "Slaves now rule over us."
+              }
+            ],
+            [
+              {
+                "verse": 8,
+                "text": "There is nobody to rescue us from their power."
               }
             ],
             [
               {
                 "verse": 9,
-                "text": "We put our lives in danger to get our bread, because of the sword of the waste land."
-              },
+                "text": "Robbers hide in the fields,"
+              }
+            ],
+            [
+              {
+                "verse": 9,
+                "text": "so our lives are in danger when we look for food."
+              }
+            ],
+            [
               {
                 "verse": 10,
-                "text": "Our skin is heated like an oven because of our burning heat from need of food."
-              },
+                "text": "Our skin feels as hot as an oven."
+              }
+            ],
+            [
+              {
+                "verse": 10,
+                "text": "We are so hungry that we have a fever."
+              }
+            ],
+            [
               {
                 "verse": 11,
-                "text": "They took by force the women in Zion, the virgins in the towns of Judah."
-              },
+                "text": "Our enemies have taken hold of the women in Zion."
+              }
+            ],
+            [
+              {
+                "verse": 11,
+                "text": "They have sex with the young women in Judah's cities."
+              }
+            ],
+            [
               {
                 "verse": 12,
-                "text": "Their hands put princes to death by hanging: the faces of old men were not honoured."
+                "text": "They have hung our rulers by their hands."
+              }
+            ],
+            [
+              {
+                "verse": 12,
+                "text": "They have been cruel to our leaders."
               }
             ],
             [
               {
                 "verse": 13,
-                "text": "The young men were crushing the grain, and the boys were falling under the wood."
-              },
+                "text": "They force the young men to work like slaves."
+              }
+            ],
+            [
+              {
+                "verse": 13,
+                "text": "Our boys fall down as they carry heavy loads of wood."
+              }
+            ],
+            [
               {
                 "verse": 14,
-                "text": "The old men are no longer seated in the doorway, and the music of the young men has come to an end."
-              },
+                "text": "Our leaders can no longer meet at the city gate."
+              }
+            ],
+            [
+              {
+                "verse": 14,
+                "text": "The young men no longer make their music."
+              }
+            ],
+            [
               {
                 "verse": 15,
-                "text": "The joy of our hearts is ended; our dancing is changed into sorrow."
-              },
+                "text": "We are not happy any more."
+              }
+            ],
+            [
+              {
+                "verse": 15,
+                "text": "We no longer dance, but we weep."
+              }
+            ],
+            [
               {
                 "verse": 16,
-                "text": "The crown has been taken from our head: sorrow is ours, for we are sinners."
+                "text": "We have nothing to be proud of any more."
+              }
+            ],
+            [
+              {
+                "verse": 16,
+                "text": "Terrible trouble will happen to us, because of our sins."
               }
             ],
             [
               {
                 "verse": 17,
-                "text": "Because of this our hearts are feeble; for these things our eyes are dark;"
-              },
+                "text": "Because of this, we are very upset."
+              }
+            ],
+            [
+              {
+                "verse": 17,
+                "text": "Our eyes are full of tears and we cannot see properly."
+              }
+            ],
+            [
               {
                 "verse": 18,
-                "text": "Because of the mountain of Zion which is a waste; jackals go over it."
-              },
+                "text": "Mount Zion has become a heap of stones."
+              }
+            ],
+            [
+              {
+                "verse": 18,
+                "text": "Wild animals walk all over it."
+              }
+            ],
+            [
+              {
+                "verse": 18,
+                "text": "19 But Lord, you rule as king for ever.Your kingdom will continue for all time. 20 Why do you still forget about us?Why have you not come to help us for so long? 21 Lord, bring us back. Help us to return to you.Let us live well, as we did before. 22 We are sure that you have not completely turned away from us.Do not continue to be so angry with us."
+              }
+            ],
+            [
               {
                 "verse": 19,
-                "text": "You, O Lord, are seated as King for ever; the seat of your power is eternal."
-              },
+                "text": "But Lord, you rule as king for ever."
+              }
+            ],
+            [
+              {
+                "verse": 19,
+                "text": "Your kingdom will continue for all time."
+              }
+            ],
+            [
               {
                 "verse": 20,
-                "text": "Why have we gone from your memory for ever? why have you been turned away from us for so long?"
+                "text": "Why do you still forget about us?"
+              }
+            ],
+            [
+              {
+                "verse": 20,
+                "text": "Why have you not come to help us for so long?"
               }
             ],
             [
               {
                 "verse": 21,
-                "text": "Make us come back to you, O Lord, and let us be turned; make our days new again as in the past."
-              },
+                "text": "Lord, bring us back. Help us to return to you."
+              }
+            ],
+            [
+              {
+                "verse": 21,
+                "text": "Let us live well, as we did before."
+              }
+            ],
+            [
               {
                 "verse": 22,
-                "text": "But you have quite given us up; you are full of wrath against us."
+                "text": "We are sure that you have not completely turned away from us."
+              }
+            ],
+            [
+              {
+                "verse": 22,
+                "text": "Do not continue to be so angry with us."
               }
             ]
           ]
         }
       ],
-      "verses": [
-        {
-          "verse": 1,
-          "text": "Keep in mind, O Lord, what has come to us: take note and see our shame."
-        },
-        {
-          "verse": 2,
-          "text": "Our heritage is given up to men of strange lands, our houses to those who are not our countrymen."
-        },
-        {
-          "verse": 3,
-          "text": "We are children without fathers, our mothers are like widows."
-        },
-        {
-          "verse": 4,
-          "text": "We give money for a drink of water, we get our wood for a price."
-        },
-        {
-          "verse": 5,
-          "text": "Our attackers are on our necks: overcome with weariness, we have no rest."
-        },
-        {
-          "verse": 6,
-          "text": "We have given our hands to the Egyptians and to the Assyrians so that we might have enough bread."
-        },
-        {
-          "verse": 7,
-          "text": "Our fathers were sinners and are dead; and the weight of their evil-doing is on us."
-        },
-        {
-          "verse": 8,
-          "text": "Servants are ruling over us, and there is no one to make us free from their hands."
-        },
-        {
-          "verse": 9,
-          "text": "We put our lives in danger to get our bread, because of the sword of the waste land."
-        },
-        {
-          "verse": 10,
-          "text": "Our skin is heated like an oven because of our burning heat from need of food."
-        },
-        {
-          "verse": 11,
-          "text": "They took by force the women in Zion, the virgins in the towns of Judah."
-        },
-        {
-          "verse": 12,
-          "text": "Their hands put princes to death by hanging: the faces of old men were not honoured."
-        },
-        {
-          "verse": 13,
-          "text": "The young men were crushing the grain, and the boys were falling under the wood."
-        },
-        {
-          "verse": 14,
-          "text": "The old men are no longer seated in the doorway, and the music of the young men has come to an end."
-        },
-        {
-          "verse": 15,
-          "text": "The joy of our hearts is ended; our dancing is changed into sorrow."
-        },
-        {
-          "verse": 16,
-          "text": "The crown has been taken from our head: sorrow is ours, for we are sinners."
-        },
-        {
-          "verse": 17,
-          "text": "Because of this our hearts are feeble; for these things our eyes are dark;"
-        },
-        {
-          "verse": 18,
-          "text": "Because of the mountain of Zion which is a waste; jackals go over it."
-        },
-        {
-          "verse": 19,
-          "text": "You, O Lord, are seated as King for ever; the seat of your power is eternal."
-        },
-        {
-          "verse": 20,
-          "text": "Why have we gone from your memory for ever? why have you been turned away from us for so long?"
-        },
-        {
-          "verse": 21,
-          "text": "Make us come back to you, O Lord, and let us be turned; make our days new again as in the past."
-        },
-        {
-          "verse": 22,
-          "text": "But you have quite given us up; you are full of wrath against us."
-        }
-      ],
-      "totalVerses": 22,
-      "footnotes": []
+      "notes": [
+        "Their fathers had died when they fought against the enemy.",
+        "Assyria was country that was north of Israel. It was in what are now called northern Iraq and south-east Turkey. The Assyrians were enemies of the Israelites.",
+        "Their enemies, who had been slaves, now ruled over them. SeeProverbs 30:21-22.",
+        "Fever means that illness has made a person's body very hot.",
+        "A city's leaders met together at the city gate to talk about things and to decide what is right."
+      ]
     }
   ]
 }

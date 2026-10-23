@@ -1,683 +1,1896 @@
 {
-  "translation": "EasyEnglish Bible",
-  "book": "Joel",
-  "bookId": "JOL",
+  "id": "JOL",
+  "name": "Joel",
+  "slug": "joel",
+  "translation": "EasyEnglish Bible (EASY)",
+  "publisher": "MissionAssist UK",
+  "referenceUrl": "https://www.easyenglish.bible/bible/easy/joel/",
   "totalChapters": 3,
-  "copyrightNotice": "Scripture quotations are from the EasyEnglish Bible / Bible in Basic English. Public Domain.",
-  "officialSourceUrl": "https://www.easyenglish.bible/bible/easy/joel/1/",
+  "totalVerses": 73,
   "chapters": [
     {
-      "book": "Joel",
       "chapter": 1,
       "title": "Joel 1",
-      "subtitle": "Joel Chapter 1",
+      "subtitle": "",
+      "totalVerses": 20,
+      "sourceUrl": "https://www.easyenglish.bible/bible/easy/joel/1/",
       "sections": [
         {
-          "heading": "Joel Chapter 1",
+          "heading": "Locusts eat all the plants in Israel",
           "items": [
             [
               {
                 "verse": 1,
-                "text": "The word of the Lord which came to Joel, the son of Pethuel."
-              },
+                "text": "This is the Lord's message that he gave to Joel, son of Pethuel."
+              }
+            ],
+            [
               {
                 "verse": 2,
-                "text": "Give ear to this, you old men, and take note, you people of the land. Has this ever been in your days, or in the days of your fathers?"
-              },
+                "text": "You leaders of Israel, listen to this!"
+              }
+            ],
+            [
+              {
+                "verse": 2,
+                "text": "Listen carefully, everyone who lives in this country."
+              }
+            ],
+            [
+              {
+                "verse": 2,
+                "text": "Nothing like this has happened while you have been alive."
+              }
+            ],
+            [
+              {
+                "verse": 2,
+                "text": "And it never happened when your ancestors were alive."
+              }
+            ],
+            [
               {
                 "verse": 3,
-                "text": "Give the story of it to your children, and let them give it to their children, and their children to another generation."
-              },
+                "text": "Tell your children about it."
+              }
+            ],
+            [
+              {
+                "verse": 3,
+                "text": "They must tell it to their children,"
+              }
+            ],
+            [
+              {
+                "verse": 3,
+                "text": "who must also tell their own children."
+              }
+            ],
+            [
               {
                 "verse": 4,
-                "text": "What the worm did not make a meal of, has been taken by the locust; and what the locust did not take, has been food for the plant-worm; and what the plant-worm did not take, has been food for the field-fly."
+                "text": "Great armies of locusts have eaten all our crops."
+              }
+            ],
+            [
+              {
+                "verse": 4,
+                "text": "Any leaves that first army of locusts left,"
+              }
+            ],
+            [
+              {
+                "verse": 4,
+                "text": "the second army has eaten."
+              }
+            ],
+            [
+              {
+                "verse": 4,
+                "text": "And anything that the second army left,"
+              }
+            ],
+            [
+              {
+                "verse": 4,
+                "text": "the next army has eaten."
+              }
+            ],
+            [
+              {
+                "verse": 4,
+                "text": "Another army of locusts has eaten what remains."
+              }
+            ],
+            [
+              {
+                "verse": 4,
+                "text": "And finally another army has completely destroyed everything."
               }
             ],
             [
               {
                 "verse": 5,
-                "text": "Come out of your sleep, you who are overcome with wine, and give yourselves to weeping; give cries of sorrow, all you drinkers of wine, because of the sweet wine; for it has been cut off from your mouths."
-              },
+                "text": "Wake up and weep, you people who have drunk too much wine!"
+              }
+            ],
+            [
+              {
+                "verse": 5,
+                "text": "Everyone who likes to drink wine, cry loudly!"
+              }
+            ],
+            [
+              {
+                "verse": 5,
+                "text": "Weep, because your new wine has disappeared."
+              }
+            ],
+            [
+              {
+                "verse": 5,
+                "text": "Nothing remains for you to drink!"
+              }
+            ],
+            [
               {
                 "verse": 6,
-                "text": "For a nation has come up over my land, strong and without number; his teeth are the teeth of a lion, and he has the back teeth of a great lion."
-              },
+                "text": "A great army has attacked our land."
+              }
+            ],
+            [
+              {
+                "verse": 6,
+                "text": "It has too many soldiers for us to count!"
+              }
+            ],
+            [
+              {
+                "verse": 6,
+                "text": "They have teeth like a lion's teeth."
+              }
+            ],
+            [
+              {
+                "verse": 6,
+                "text": "Their teeth are strong and sharp."
+              }
+            ],
+            [
               {
                 "verse": 7,
-                "text": "By him my vine is made waste and my fig-tree broken: he has taken all its fruit and sent it down to the earth; its branches are made white."
-              },
+                "text": "They have destroyed our vines."
+              }
+            ],
+            [
+              {
+                "verse": 7,
+                "text": "They have cut our fig trees into pieces."
+              }
+            ],
+            [
+              {
+                "verse": 7,
+                "text": "They have cut off the bark"
+              }
+            ],
+            [
+              {
+                "verse": 7,
+                "text": "so that the branches are white."
+              }
+            ]
+          ]
+        },
+        {
+          "heading": "Joel tells the people to be sad and cry",
+          "items": [
+            [
               {
                 "verse": 8,
-                "text": "Make sounds of grief like a virgin dressed in haircloth for the husband of her early years."
+                "text": "Cry loudly, like a young woman who is wearing sackcloth."
+              }
+            ],
+            [
+              {
+                "verse": 8,
+                "text": "She is crying at the funeral of the man that she hoped to marry."
               }
             ],
             [
               {
                 "verse": 9,
-                "text": "The meal offering and the drink offering have been cut off from the house of the Lord; the priests, the Lord's servants, are sorrowing."
-              },
+                "text": "There is no grain or wine that we can bring"
+              }
+            ],
+            [
+              {
+                "verse": 9,
+                "text": "as offerings to the Lord's temple."
+              }
+            ],
+            [
+              {
+                "verse": 9,
+                "text": "So the priests who serve the Lord are weeping."
+              }
+            ],
+            [
               {
                 "verse": 10,
-                "text": "The fields are wasted, the land has become dry; for the grain is wasted, the new wine is kept back, the oil is poor."
-              },
+                "text": "The fields have no crops in them."
+              }
+            ],
+            [
+              {
+                "verse": 10,
+                "text": "The ground is dry and empty."
+              }
+            ],
+            [
+              {
+                "verse": 10,
+                "text": "There is no grain."
+              }
+            ],
+            [
+              {
+                "verse": 10,
+                "text": "There are no grapes to make new wine."
+              }
+            ],
+            [
+              {
+                "verse": 10,
+                "text": "There is no olive oil."
+              }
+            ],
+            [
               {
                 "verse": 11,
-                "text": "The farmers are shamed, the workers in the vine-gardens give cries of grief, for the wheat and the barley; for the produce of the fields has come to destruction."
-              },
+                "text": "You farmers should be very upset."
+              }
+            ],
+            [
+              {
+                "verse": 11,
+                "text": "You people who take care of the vines must cry loudly."
+              }
+            ],
+            [
+              {
+                "verse": 11,
+                "text": "Cry because there is no wheat or barley."
+              }
+            ],
+            [
+              {
+                "verse": 11,
+                "text": "There are no crops to bring home for food."
+              }
+            ],
+            [
               {
                 "verse": 12,
-                "text": "The vine has become dry and the fig-tree is feeble; the pomegranate and the palm-tree and the apple-tree, even all the trees of the field, are dry: because joy has gone from the sons of men."
+                "text": "The vines and the fig trees have no water"
+              }
+            ],
+            [
+              {
+                "verse": 12,
+                "text": "and they are dying."
+              }
+            ],
+            [
+              {
+                "verse": 12,
+                "text": "There are no pomegranates, dates or apples on the trees."
+              }
+            ],
+            [
+              {
+                "verse": 12,
+                "text": "None of the trees have any fruit."
+              }
+            ],
+            [
+              {
+                "verse": 12,
+                "text": "And none of the people have any joy."
+              }
+            ]
+          ]
+        },
+        {
+          "heading": "Joel tells people to turn away from their sins",
+          "items": [
+            [
+              {
+                "verse": 13,
+                "text": "You priests, dress yourselves in funeral clothes!"
               }
             ],
             [
               {
                 "verse": 13,
-                "text": "Put haircloth round you and give yourselves to sorrow, you priests; give cries of grief, you servants of the altar: come in, and, clothed in haircloth, let the night go past, you servants of my God: for the meal offering and the drink offering have been kept back from the house of your God."
-              },
+                "text": "Weep as you serve the Lord at his altar."
+              }
+            ],
+            [
+              {
+                "verse": 13,
+                "text": "You servants of my God,"
+              }
+            ],
+            [
+              {
+                "verse": 13,
+                "text": "wear sackcloth every night."
+              }
+            ],
+            [
+              {
+                "verse": 13,
+                "text": "Weep, because no one brings offerings to the temple of your God."
+              }
+            ],
+            [
+              {
+                "verse": 13,
+                "text": "There is no more grain or wine for people to bring as offerings."
+              }
+            ],
+            [
               {
                 "verse": 14,
-                "text": "Let a time be fixed for going without food, have a holy meeting, let the old men, even all the people of the land, come together to the house of the Lord your God, crying out to the Lord."
-              },
+                "text": "Tell people that they must fast."
+              }
+            ],
+            [
+              {
+                "verse": 14,
+                "text": "They must meet together to worship the Lord."
+              }
+            ],
+            [
+              {
+                "verse": 14,
+                "text": "Speak to the leaders and all the people who live in this country."
+              }
+            ],
+            [
+              {
+                "verse": 14,
+                "text": "Tell them all to come to the house of the Lord your God"
+              }
+            ],
+            [
+              {
+                "verse": 14,
+                "text": "They must call to the Lord for help."
+              }
+            ],
+            [
               {
                 "verse": 15,
-                "text": "Sorrow for the day! for the day of the Lord is near, and as destruction from the Ruler of all it will come."
-              },
+                "text": "That will be a terrible day!"
+              }
+            ],
+            [
+              {
+                "verse": 15,
+                "text": "The day of the Lord will soon come."
+              }
+            ],
+            [
+              {
+                "verse": 15,
+                "text": "It will be a day when God Almighty brings great trouble."
+              }
+            ],
+            [
               {
                 "verse": 16,
-                "text": "Is not food cut off before our eyes? joy and delight from the house of our God?"
+                "text": "We stand and we watch"
+              }
+            ],
+            [
+              {
+                "verse": 16,
+                "text": "as all our food has disappeared!"
+              }
+            ],
+            [
+              {
+                "verse": 16,
+                "text": "The temple of our God is no longer a place"
+              }
+            ],
+            [
+              {
+                "verse": 16,
+                "text": "where we are happy."
               }
             ],
             [
               {
                 "verse": 17,
-                "text": "The grains have become small and dry under the spade; the store-houses are made waste, the grain-stores are broken down; for the grain is dry and dead."
-              },
+                "text": "The seeds have died in the dry ground."
+              }
+            ],
+            [
+              {
+                "verse": 17,
+                "text": "There are no crops to store at harvest time."
+              }
+            ],
+            [
+              {
+                "verse": 17,
+                "text": "We have knocked down our store rooms"
+              }
+            ],
+            [
+              {
+                "verse": 17,
+                "text": "because there is no grain to put in them."
+              }
+            ],
+            [
               {
                 "verse": 18,
-                "text": "What sounds of pain come from the beasts! the herds of cattle are at a loss because there is no grass for them; even the flocks of sheep are no longer to be seen."
-              },
+                "text": "The cows move around as they look for grass to eat."
+              }
+            ],
+            [
+              {
+                "verse": 18,
+                "text": "You can hear them cry because they are so hungry."
+              }
+            ],
+            [
+              {
+                "verse": 18,
+                "text": "Even the sheep are suffering."
+              }
+            ],
+            [
               {
                 "verse": 19,
-                "text": "O Lord, my cry goes up to you: for fire has put an end to the grass-lands of the waste, and all the trees of the field are burned with its flame."
-              },
+                "text": "Lord, I call to you for help."
+              }
+            ],
+            [
+              {
+                "verse": 19,
+                "text": "Heat, like fire, has destroyed the grass in the fields."
+              }
+            ],
+            [
+              {
+                "verse": 19,
+                "text": "It has destroyed all the trees."
+              }
+            ],
+            [
               {
                 "verse": 20,
-                "text": "The beasts of the field are turning to you with desire: for the water-streams are dry and fire has put an end to the grass-lands of the waste."
+                "text": "Even the wild animals are so thirsty"
+              }
+            ],
+            [
+              {
+                "verse": 20,
+                "text": "that they call to you for help."
+              }
+            ],
+            [
+              {
+                "verse": 20,
+                "text": "The rivers have become dry."
+              }
+            ],
+            [
+              {
+                "verse": 20,
+                "text": "Heat, like fire, has destroyed all the grass in the fields."
               }
             ]
           ]
         }
       ],
-      "verses": [
-        {
-          "verse": 1,
-          "text": "The word of the Lord which came to Joel, the son of Pethuel."
-        },
-        {
-          "verse": 2,
-          "text": "Give ear to this, you old men, and take note, you people of the land. Has this ever been in your days, or in the days of your fathers?"
-        },
-        {
-          "verse": 3,
-          "text": "Give the story of it to your children, and let them give it to their children, and their children to another generation."
-        },
-        {
-          "verse": 4,
-          "text": "What the worm did not make a meal of, has been taken by the locust; and what the locust did not take, has been food for the plant-worm; and what the plant-worm did not take, has been food for the field-fly."
-        },
-        {
-          "verse": 5,
-          "text": "Come out of your sleep, you who are overcome with wine, and give yourselves to weeping; give cries of sorrow, all you drinkers of wine, because of the sweet wine; for it has been cut off from your mouths."
-        },
-        {
-          "verse": 6,
-          "text": "For a nation has come up over my land, strong and without number; his teeth are the teeth of a lion, and he has the back teeth of a great lion."
-        },
-        {
-          "verse": 7,
-          "text": "By him my vine is made waste and my fig-tree broken: he has taken all its fruit and sent it down to the earth; its branches are made white."
-        },
-        {
-          "verse": 8,
-          "text": "Make sounds of grief like a virgin dressed in haircloth for the husband of her early years."
-        },
-        {
-          "verse": 9,
-          "text": "The meal offering and the drink offering have been cut off from the house of the Lord; the priests, the Lord's servants, are sorrowing."
-        },
-        {
-          "verse": 10,
-          "text": "The fields are wasted, the land has become dry; for the grain is wasted, the new wine is kept back, the oil is poor."
-        },
-        {
-          "verse": 11,
-          "text": "The farmers are shamed, the workers in the vine-gardens give cries of grief, for the wheat and the barley; for the produce of the fields has come to destruction."
-        },
-        {
-          "verse": 12,
-          "text": "The vine has become dry and the fig-tree is feeble; the pomegranate and the palm-tree and the apple-tree, even all the trees of the field, are dry: because joy has gone from the sons of men."
-        },
-        {
-          "verse": 13,
-          "text": "Put haircloth round you and give yourselves to sorrow, you priests; give cries of grief, you servants of the altar: come in, and, clothed in haircloth, let the night go past, you servants of my God: for the meal offering and the drink offering have been kept back from the house of your God."
-        },
-        {
-          "verse": 14,
-          "text": "Let a time be fixed for going without food, have a holy meeting, let the old men, even all the people of the land, come together to the house of the Lord your God, crying out to the Lord."
-        },
-        {
-          "verse": 15,
-          "text": "Sorrow for the day! for the day of the Lord is near, and as destruction from the Ruler of all it will come."
-        },
-        {
-          "verse": 16,
-          "text": "Is not food cut off before our eyes? joy and delight from the house of our God?"
-        },
-        {
-          "verse": 17,
-          "text": "The grains have become small and dry under the spade; the store-houses are made waste, the grain-stores are broken down; for the grain is dry and dead."
-        },
-        {
-          "verse": 18,
-          "text": "What sounds of pain come from the beasts! the herds of cattle are at a loss because there is no grass for them; even the flocks of sheep are no longer to be seen."
-        },
-        {
-          "verse": 19,
-          "text": "O Lord, my cry goes up to you: for fire has put an end to the grass-lands of the waste, and all the trees of the field are burned with its flame."
-        },
-        {
-          "verse": 20,
-          "text": "The beasts of the field are turning to you with desire: for the water-streams are dry and fire has put an end to the grass-lands of the waste."
-        }
-      ],
-      "totalVerses": 20,
-      "footnotes": []
+      "notes": [
+        "When we writeLordlike this, it is a special name for God. Sometimes people write it as the Hebrew name ‘Yahweh’. It is God's own name that he told Moses. SeeExodus 3:14. It means ‘I am who I am’. This shows that God has always been there and he always will be there.",
+        "Each crowd oflocustswas like an army that was attacking the land. There were four different kinds of locusts in each army.",
+        "The bark is the thin wood that covers the branches."
+      ]
     },
     {
-      "book": "Joel",
       "chapter": 2,
       "title": "Joel 2",
-      "subtitle": "Joel Chapter 2",
+      "subtitle": "",
+      "totalVerses": 32,
+      "sourceUrl": "https://www.easyenglish.bible/bible/easy/joel/2/",
       "sections": [
         {
-          "heading": "Joel Chapter 2",
+          "heading": "God warns the people about an army of locusts",
           "items": [
             [
               {
                 "verse": 1,
-                "text": "Let the horn be sounded in Zion, and a war-cry in my holy mountain; let all the people of the land be troubled: for the day of the Lord is coming;"
-              },
+                "text": "Make a loud noise with a trumpet in Zion!"
+              }
+            ],
+            [
+              {
+                "verse": 1,
+                "text": "Do this on my holy hill to warn people of danger."
+              }
+            ],
+            [
+              {
+                "verse": 1,
+                "text": "All the people who live in this country should shake with fear."
+              }
+            ],
+            [
+              {
+                "verse": 1,
+                "text": "They should be afraid"
+              }
+            ],
+            [
+              {
+                "verse": 1,
+                "text": "because the day of the Lord will soon come."
+              }
+            ],
+            [
+              {
+                "verse": 1,
+                "text": "Yes, it is very near!"
+              }
+            ],
+            [
               {
                 "verse": 2,
-                "text": "For a day of dark and deep shade is near, a day of cloud and black night: like a black cloud a great and strong people is covering the mountains; there has never been any like them and will not be after them again, from generation to generation."
-              },
+                "text": "It will be completely dark on that day."
+              }
+            ],
+            [
+              {
+                "verse": 2,
+                "text": "Black clouds will cover the whole earth."
+              }
+            ],
+            [
+              {
+                "verse": 2,
+                "text": "A great army is coming."
+              }
+            ],
+            [
+              {
+                "verse": 2,
+                "text": "Like darkness it covers the mountains."
+              }
+            ],
+            [
+              {
+                "verse": 2,
+                "text": "No army has ever been as powerful as this one is."
+              }
+            ],
+            [
+              {
+                "verse": 2,
+                "text": "There will never be an army like it in the future."
+              }
+            ],
+            [
               {
                 "verse": 3,
-                "text": "Before them fire sends destruction, and after them flame is burning: the land is like the garden of Eden before them, and after them an unpeopled waste; truly, nothing has been kept safe from them."
-              },
+                "text": "As they move, they destroy everything in front of them."
+              }
+            ],
+            [
+              {
+                "verse": 3,
+                "text": "It is like a fire all around them."
+              }
+            ],
+            [
+              {
+                "verse": 3,
+                "text": "The land in front of them is like the Garden of Eden."
+              }
+            ],
+            [
+              {
+                "verse": 3,
+                "text": "But behind them, it becomes like an empty desert."
+              }
+            ],
+            [
+              {
+                "verse": 3,
+                "text": "Nothing can escape from them."
+              }
+            ],
+            [
               {
                 "verse": 4,
-                "text": "Their form is like the form of horses, and they are running like war-horses."
+                "text": "They look like horses."
+              }
+            ],
+            [
+              {
+                "verse": 4,
+                "text": "They are like horses that are running to a battle."
               }
             ],
             [
               {
                 "verse": 5,
-                "text": "Like the sound of war-carriages they go jumping on the tops of the mountains; like the noise of a flame of fire burning up the grain-stems, like a strong people lined up for the fight."
-              },
+                "text": "They make a noise like chariots"
+              }
+            ],
+            [
+              {
+                "verse": 5,
+                "text": "as they jump over the tops of the mountains."
+              }
+            ],
+            [
+              {
+                "verse": 5,
+                "text": "They make the sound of a fire"
+              }
+            ],
+            [
+              {
+                "verse": 5,
+                "text": "as it burns dry grass."
+              }
+            ],
+            [
+              {
+                "verse": 5,
+                "text": "They are like a great army"
+              }
+            ],
+            [
+              {
+                "verse": 5,
+                "text": "that is preparing for a battle."
+              }
+            ],
+            [
               {
                 "verse": 6,
-                "text": "At their coming the people are bent with pain: all faces become red together."
-              },
+                "text": "Nations are very afraid when they see this army."
+              }
+            ],
+            [
+              {
+                "verse": 6,
+                "text": "Everyone's face becomes white with fear."
+              }
+            ],
+            [
               {
                 "verse": 7,
-                "text": "They are running like strong men, they go over the wall like men of war; every man goes straight on his way, their lines are not broken."
-              },
+                "text": "The great army runs forward to attack."
+              }
+            ],
+            [
+              {
+                "verse": 7,
+                "text": "Like soldiers, they climb over the walls of cities."
+              }
+            ],
+            [
+              {
+                "verse": 7,
+                "text": "They march forward in their proper places."
+              }
+            ],
+            [
+              {
+                "verse": 7,
+                "text": "They do not change their direction."
+              }
+            ],
+            [
               {
                 "verse": 8,
-                "text": "No one is pushing against another; everyone goes straight on his way: bursting through the sword points, their order is not broken."
+                "text": "They do not push against each other."
+              }
+            ],
+            [
+              {
+                "verse": 8,
+                "text": "Each one of them goes straight forward."
+              }
+            ],
+            [
+              {
+                "verse": 8,
+                "text": "No weapons are able to stop them"
+              }
+            ],
+            [
+              {
+                "verse": 8,
+                "text": "as they move forward together."
               }
             ],
             [
               {
                 "verse": 9,
-                "text": "They make a rush on the town, running on the wall; they go up into the houses and in through the windows like a thief."
-              },
+                "text": "They quickly attack a city"
+              }
+            ],
+            [
+              {
+                "verse": 9,
+                "text": "and they run over its walls."
+              }
+            ],
+            [
+              {
+                "verse": 9,
+                "text": "They climb into the houses."
+              }
+            ],
+            [
+              {
+                "verse": 9,
+                "text": "as they go through the windows like robbers."
+              }
+            ],
+            [
               {
                 "verse": 10,
-                "text": "The earth is troubled before them and the heavens are shaking: the sun and the moon have become dark, and the stars keep back their shining:"
-              },
+                "text": "The earth shakes as they move forward."
+              }
+            ],
+            [
+              {
+                "verse": 10,
+                "text": "Even the sky itself shakes."
+              }
+            ],
+            [
+              {
+                "verse": 10,
+                "text": "The sun and moon become dark."
+              }
+            ],
+            [
+              {
+                "verse": 10,
+                "text": "The stars no longer give any light."
+              }
+            ],
+            [
               {
                 "verse": 11,
-                "text": "And the Lord is thundering before his forces; for very great is his army; for he is strong who gives effect to his word: for the day of the Lord is great and greatly to be feared, and who has strength against it?"
-              },
+                "text": "The Lord's voice shouts like thunder"
+              }
+            ],
+            [
+              {
+                "verse": 11,
+                "text": "as he leads his army."
+              }
+            ],
+            [
+              {
+                "verse": 11,
+                "text": "His soldiers are too many to count."
+              }
+            ],
+            [
+              {
+                "verse": 11,
+                "text": "They obey all his commands."
+              }
+            ],
+            [
+              {
+                "verse": 11,
+                "text": "The day of the Lord is great and terrible!"
+              }
+            ],
+            [
+              {
+                "verse": 11,
+                "text": "It seems that nobody will remain alive."
+              }
+            ]
+          ]
+        },
+        {
+          "heading": "God tells the people to turn back to him",
+          "items": [
+            [
               {
                 "verse": 12,
-                "text": "But even now, says the Lord, come back to me with all your heart, keeping from food, with weeping and with sorrow:"
+                "text": "The Lord says, ‘Even now it is not too late!"
+              }
+            ],
+            [
+              {
+                "verse": 12,
+                "text": "Show that you are sorry and return to me."
+              }
+            ],
+            [
+              {
+                "verse": 12,
+                "text": "Fast, weep and cry to show that you are sad."
               }
             ],
             [
               {
                 "verse": 13,
-                "text": "Let your hearts be broken, and not your clothing, and come back to the Lord your God: for he is full of grace and pity, slow to be angry and great in mercy, ready to be turned from his purpose of punishment."
-              },
+                "text": "Show me that you are really upset."
+              }
+            ],
+            [
+              {
+                "verse": 13,
+                "text": "Do not only tear your clothes. That is not enough.’"
+              }
+            ],
+            [
+              {
+                "verse": 13,
+                "text": "Return to the Lord your God.He is kind and he forgives people.He does not quickly become angry,and his faithful love is very great.He does not like to punish you. 14 No one knows what the Lord your God will do.Perhaps he will change his mind.Perhaps he will not punish you as he has said he will.After that he may bless you.He may give you grain and wine,so that you can offer them to him. 15 Make a loud noise with a trumpet in Zion!Tell the people that they must fast.Tell them to meet to worship the Lord. 16 Bring all the people together.Prepare them to worship the Lord.Bring the old people together,as well as the children and the babies.Even men who have just married must come from their rooms.And brides must also come from their rooms. 17 The priests should weep,as they serve the Lordbetween the temple door and the altar.They must pray, ‘Lord, Please be kind to your people.Do not allow the people of foreign nationsto laugh at your own people.Do not allow them to insult us.They should not say about us,“Their God cannot help them.” ’God promises to bless his people 18 Then the Lord showed that he loved his land.He chose to be kind to his people. 19 He answered them,‘Listen! I will now give you plenty of grain, new wine and olive oil.You will have as much as you need.I will never again allow people of foreign nations to laugh at you. 20 I will take the army from the north far away from you.I will send it to a dry land where nothing grows.Those who march in the front of that armyI will send into the Salt Sea in the east.2:20And I will send those who are at the backinto the Mediterranean Sea in the west.Their dead bodies will make a disgusting smell.’Yes, the Lord has done great things! 21 Land, do not be afraid!Instead, be very happy,because the Lord has done great things. 22 Wild animals, do not be afraid!The fields in the wilderness again have grassand they are green.Fruit is growing on the trees.The fig trees and the vines have plenty of fruit. 23 Shout with joy, people of Zion!Be very happy because of the thingsthat the Lord your God has done.He has shown you that he is faithful.He has given you rain in the right seasons,as he has done before. 24 Now there is plenty of grain on your threshing floors.Your jars are full of new wine and olive oil. 25 The Lord says,‘I will give back to you the food that the locusts destroyed.I sent that great army of locusts to punish you.But I will now give you back as much foodas all the different locusts ate during those years. 26 You will have plenty to eat.You will not be hungry any more.I have done great things for you.So you will praise the name of the Lord your God.My people will never again be ashamed. 27 You will know that I am among my people in Israel.I am the Lord your God.There is no one else.My people will never again be ashamed.God promises to send his Spirit on all people 28 After all that, I will pour out my Spirit on all people.Your sons and daughters will speak my message to people.Your old men will see things in their dreams.Your young men will see visions. 29 At that time, I will pour out my Spirit on all my servants,both men and women. 30 I will cause strange things to appear in the skyand on the earth.There will be blood, fire and clouds of smoke. 31 The sun will become dark.The moon will become red like the colour of blood.Then the day of the Lord will come.It will be a great and terrible day! 32 At that time, everyone who calls to the Lord for help will be safe.This is what I, the Lord, have promised.Some people on Mount Zion and in Jerusalem will escape.2:32The people who remain alive will be those that I choose to belong to me.’"
+              }
+            ],
+            [
+              {
+                "verse": 13,
+                "text": "Return to the Lord your God."
+              }
+            ],
+            [
+              {
+                "verse": 13,
+                "text": "He is kind and he forgives people."
+              }
+            ],
+            [
+              {
+                "verse": 13,
+                "text": "He does not quickly become angry,"
+              }
+            ],
+            [
+              {
+                "verse": 13,
+                "text": "and his faithful love is very great."
+              }
+            ],
+            [
+              {
+                "verse": 13,
+                "text": "He does not like to punish you."
+              }
+            ],
+            [
               {
                 "verse": 14,
-                "text": "May it not be that he will again let his purpose be changed and let a blessing come after him, even a meal offering and a drink offering for the Lord your God?"
-              },
+                "text": "No one knows what the Lord your God will do."
+              }
+            ],
+            [
+              {
+                "verse": 14,
+                "text": "Perhaps he will change his mind."
+              }
+            ],
+            [
+              {
+                "verse": 14,
+                "text": "Perhaps he will not punish you as he has said he will."
+              }
+            ],
+            [
+              {
+                "verse": 14,
+                "text": "After that he may bless you."
+              }
+            ],
+            [
+              {
+                "verse": 14,
+                "text": "He may give you grain and wine,"
+              }
+            ],
+            [
+              {
+                "verse": 14,
+                "text": "so that you can offer them to him."
+              }
+            ],
+            [
+              {
+                "verse": 14,
+                "text": "15 Make a loud noise with a trumpet in Zion!Tell the people that they must fast.Tell them to meet to worship the Lord. 16 Bring all the people together.Prepare them to worship the Lord.Bring the old people together,as well as the children and the babies.Even men who have just married must come from their rooms.And brides must also come from their rooms. 17 The priests should weep,as they serve the Lordbetween the temple door and the altar.They must pray, ‘Lord, Please be kind to your people.Do not allow the people of foreign nationsto laugh at your own people.Do not allow them to insult us.They should not say about us,“Their God cannot help them.” ’God promises to bless his people 18 Then the Lord showed that he loved his land.He chose to be kind to his people. 19 He answered them,‘Listen! I will now give you plenty of grain, new wine and olive oil.You will have as much as you need.I will never again allow people of foreign nations to laugh at you. 20 I will take the army from the north far away from you.I will send it to a dry land where nothing grows.Those who march in the front of that armyI will send into the Salt Sea in the east.2:20And I will send those who are at the backinto the Mediterranean Sea in the west.Their dead bodies will make a disgusting smell.’Yes, the Lord has done great things! 21 Land, do not be afraid!Instead, be very happy,because the Lord has done great things. 22 Wild animals, do not be afraid!The fields in the wilderness again have grassand they are green.Fruit is growing on the trees.The fig trees and the vines have plenty of fruit. 23 Shout with joy, people of Zion!Be very happy because of the thingsthat the Lord your God has done.He has shown you that he is faithful.He has given you rain in the right seasons,as he has done before. 24 Now there is plenty of grain on your threshing floors.Your jars are full of new wine and olive oil. 25 The Lord says,‘I will give back to you the food that the locusts destroyed.I sent that great army of locusts to punish you.But I will now give you back as much foodas all the different locusts ate during those years. 26 You will have plenty to eat.You will not be hungry any more.I have done great things for you.So you will praise the name of the Lord your God.My people will never again be ashamed. 27 You will know that I am among my people in Israel.I am the Lord your God.There is no one else.My people will never again be ashamed.God promises to send his Spirit on all people 28 After all that, I will pour out my Spirit on all people.Your sons and daughters will speak my message to people.Your old men will see things in their dreams.Your young men will see visions. 29 At that time, I will pour out my Spirit on all my servants,both men and women. 30 I will cause strange things to appear in the skyand on the earth.There will be blood, fire and clouds of smoke. 31 The sun will become dark.The moon will become red like the colour of blood.Then the day of the Lord will come.It will be a great and terrible day! 32 At that time, everyone who calls to the Lord for help will be safe.This is what I, the Lord, have promised.Some people on Mount Zion and in Jerusalem will escape.2:32The people who remain alive will be those that I choose to belong to me.’"
+              }
+            ],
+            [
               {
                 "verse": 15,
-                "text": "Let a horn be sounded in Zion, let a time be fixed for going without food, have a holy meeting:"
-              },
+                "text": "Make a loud noise with a trumpet in Zion!"
+              }
+            ],
+            [
+              {
+                "verse": 15,
+                "text": "Tell the people that they must fast."
+              }
+            ],
+            [
+              {
+                "verse": 15,
+                "text": "Tell them to meet to worship the Lord."
+              }
+            ],
+            [
               {
                 "verse": 16,
-                "text": "Get the people together, make the mass of the people holy, send for the old men, get together the children and babies at the breast: let the newly married man come out of his room and the bride from her tent."
+                "text": "Bring all the people together."
+              }
+            ],
+            [
+              {
+                "verse": 16,
+                "text": "Prepare them to worship the Lord."
+              }
+            ],
+            [
+              {
+                "verse": 16,
+                "text": "Bring the old people together,"
+              }
+            ],
+            [
+              {
+                "verse": 16,
+                "text": "as well as the children and the babies."
+              }
+            ],
+            [
+              {
+                "verse": 16,
+                "text": "Even men who have just married must come from their rooms."
+              }
+            ],
+            [
+              {
+                "verse": 16,
+                "text": "And brides must also come from their rooms."
               }
             ],
             [
               {
                 "verse": 17,
-                "text": "Let the priests, the servants of the Lord, be weeping between the covered way and the altar, and let them say, Have mercy on your people, O Lord, do not give up your heritage to shame, so that the nations become their rulers: why let them say among the peoples, Where is their God?"
-              },
+                "text": "The priests should weep,"
+              }
+            ],
+            [
+              {
+                "verse": 17,
+                "text": "as they serve the Lord"
+              }
+            ],
+            [
+              {
+                "verse": 17,
+                "text": "between the temple door and the altar."
+              }
+            ],
+            [
+              {
+                "verse": 17,
+                "text": "They must pray, ‘Lord, Please be kind to your people."
+              }
+            ],
+            [
+              {
+                "verse": 17,
+                "text": "Do not allow the people of foreign nations"
+              }
+            ],
+            [
+              {
+                "verse": 17,
+                "text": "to laugh at your own people."
+              }
+            ],
+            [
+              {
+                "verse": 17,
+                "text": "Do not allow them to insult us."
+              }
+            ],
+            [
+              {
+                "verse": 17,
+                "text": "They should not say about us,"
+              }
+            ],
+            [
+              {
+                "verse": 17,
+                "text": "“Their God cannot help them.” ’"
+              }
+            ]
+          ]
+        },
+        {
+          "heading": "God promises to bless his people",
+          "items": [
+            [
               {
                 "verse": 18,
-                "text": "Then the Lord had a care for the honour of his land and had pity on his people."
-              },
+                "text": "Then the Lord showed that he loved his land."
+              }
+            ],
+            [
+              {
+                "verse": 18,
+                "text": "He chose to be kind to his people."
+              }
+            ],
+            [
               {
                 "verse": 19,
-                "text": "And the Lord made answer and said to his people, See, I will send you grain and wine and oil in full measure: and I will no longer let you be shamed among the nations:"
-              },
+                "text": "He answered them,"
+              }
+            ],
+            [
+              {
+                "verse": 19,
+                "text": "‘Listen! I will now give you plenty of grain, new wine and olive oil."
+              }
+            ],
+            [
+              {
+                "verse": 19,
+                "text": "You will have as much as you need."
+              }
+            ],
+            [
+              {
+                "verse": 19,
+                "text": "I will never again allow people of foreign nations to laugh at you."
+              }
+            ],
+            [
               {
                 "verse": 20,
-                "text": "I will send the one from the north far away from you, driving him into a dry and waste land, with his front to the sea of the east and his back to the sea of the west, and the smell of him will go up, even his evil smell will go up."
+                "text": "I will take the army from the north far away from you."
+              }
+            ],
+            [
+              {
+                "verse": 20,
+                "text": "I will send it to a dry land where nothing grows."
+              }
+            ],
+            [
+              {
+                "verse": 20,
+                "text": "Those who march in the front of that army"
+              }
+            ],
+            [
+              {
+                "verse": 20,
+                "text": "I will send into the Salt Sea in the east."
+              }
+            ],
+            [
+              {
+                "verse": 20,
+                "text": "And I will send those who are at the back"
+              }
+            ],
+            [
+              {
+                "verse": 20,
+                "text": "into the Mediterranean Sea in the west."
+              }
+            ],
+            [
+              {
+                "verse": 20,
+                "text": "Their dead bodies will make a disgusting smell.’"
+              }
+            ],
+            [
+              {
+                "verse": 20,
+                "text": "Yes, the Lord has done great things! 21 Land, do not be afraid!Instead, be very happy,because the Lord has done great things. 22 Wild animals, do not be afraid!The fields in the wilderness again have grassand they are green.Fruit is growing on the trees.The fig trees and the vines have plenty of fruit. 23 Shout with joy, people of Zion!Be very happy because of the thingsthat the Lord your God has done.He has shown you that he is faithful.He has given you rain in the right seasons,as he has done before. 24 Now there is plenty of grain on your threshing floors.Your jars are full of new wine and olive oil. 25 The Lord says,‘I will give back to you the food that the locusts destroyed.I sent that great army of locusts to punish you.But I will now give you back as much foodas all the different locusts ate during those years. 26 You will have plenty to eat.You will not be hungry any more.I have done great things for you.So you will praise the name of the Lord your God.My people will never again be ashamed. 27 You will know that I am among my people in Israel.I am the Lord your God.There is no one else.My people will never again be ashamed.God promises to send his Spirit on all people 28 After all that, I will pour out my Spirit on all people.Your sons and daughters will speak my message to people.Your old men will see things in their dreams.Your young men will see visions. 29 At that time, I will pour out my Spirit on all my servants,both men and women. 30 I will cause strange things to appear in the skyand on the earth.There will be blood, fire and clouds of smoke. 31 The sun will become dark.The moon will become red like the colour of blood.Then the day of the Lord will come.It will be a great and terrible day! 32 At that time, everyone who calls to the Lord for help will be safe.This is what I, the Lord, have promised.Some people on Mount Zion and in Jerusalem will escape.2:32The people who remain alive will be those that I choose to belong to me.’"
+              }
+            ],
+            [
+              {
+                "verse": 20,
+                "text": "Yes, the Lord has done great things!"
               }
             ],
             [
               {
                 "verse": 21,
-                "text": "Have no fear, O land; be glad with great joy; for the Lord has done great things."
-              },
+                "text": "Land, do not be afraid!"
+              }
+            ],
+            [
+              {
+                "verse": 21,
+                "text": "Instead, be very happy,"
+              }
+            ],
+            [
+              {
+                "verse": 21,
+                "text": "because the Lord has done great things."
+              }
+            ],
+            [
               {
                 "verse": 22,
-                "text": "Have no fear, you beasts of the field, for the grass-lands of the waste are becoming green, for the trees are producing fruit, the fig-tree and the vine give out their strength."
-              },
+                "text": "Wild animals, do not be afraid!"
+              }
+            ],
+            [
+              {
+                "verse": 22,
+                "text": "The fields in the wilderness again have grass"
+              }
+            ],
+            [
+              {
+                "verse": 22,
+                "text": "and they are green."
+              }
+            ],
+            [
+              {
+                "verse": 22,
+                "text": "Fruit is growing on the trees."
+              }
+            ],
+            [
+              {
+                "verse": 22,
+                "text": "The fig trees and the vines have plenty of fruit."
+              }
+            ],
+            [
               {
                 "verse": 23,
-                "text": "Be glad, then, you children of Zion, and have joy in the Lord your God: for he gives you food in full measure, making the rain come down for you, the early and the late rain as at the first."
-              },
+                "text": "Shout with joy, people of Zion!"
+              }
+            ],
+            [
+              {
+                "verse": 23,
+                "text": "Be very happy because of the things"
+              }
+            ],
+            [
+              {
+                "verse": 23,
+                "text": "that the Lord your God has done."
+              }
+            ],
+            [
+              {
+                "verse": 23,
+                "text": "He has shown you that he is faithful."
+              }
+            ],
+            [
+              {
+                "verse": 23,
+                "text": "He has given you rain in the right seasons,"
+              }
+            ],
+            [
+              {
+                "verse": 23,
+                "text": "as he has done before."
+              }
+            ],
+            [
               {
                 "verse": 24,
-                "text": "And the floors will be full of grain, and the crushing-places overflowing with wine and oil."
+                "text": "Now there is plenty of grain on your threshing floors."
+              }
+            ],
+            [
+              {
+                "verse": 24,
+                "text": "Your jars are full of new wine and olive oil."
               }
             ],
             [
               {
                 "verse": 25,
-                "text": "I will give back to you the years which were food for the locust, the plant-worm, the field-fly, and the worm, my great army which I sent among you."
-              },
+                "text": "The Lord says,"
+              }
+            ],
+            [
+              {
+                "verse": 25,
+                "text": "‘I will give back to you the food that the locusts destroyed."
+              }
+            ],
+            [
+              {
+                "verse": 25,
+                "text": "I sent that great army of locusts to punish you."
+              }
+            ],
+            [
+              {
+                "verse": 25,
+                "text": "But I will now give you back as much food"
+              }
+            ],
+            [
+              {
+                "verse": 25,
+                "text": "as all the different locusts ate during those years."
+              }
+            ],
+            [
               {
                 "verse": 26,
-                "text": "You will have food in full measure, and give praise to the name of the Lord your God, who has done wonders for you:"
-              },
+                "text": "You will have plenty to eat."
+              }
+            ],
+            [
+              {
+                "verse": 26,
+                "text": "You will not be hungry any more."
+              }
+            ],
+            [
+              {
+                "verse": 26,
+                "text": "I have done great things for you."
+              }
+            ],
+            [
+              {
+                "verse": 26,
+                "text": "So you will praise the name of the Lord your God."
+              }
+            ],
+            [
+              {
+                "verse": 26,
+                "text": "My people will never again be ashamed."
+              }
+            ],
+            [
               {
                 "verse": 27,
-                "text": "And you will be certain that I am in Israel, and that I am the Lord your God, and there is no other: and my people will never be shamed."
-              },
+                "text": "You will know that I am among my people in Israel."
+              }
+            ],
+            [
+              {
+                "verse": 27,
+                "text": "I am the Lord your God."
+              }
+            ],
+            [
+              {
+                "verse": 27,
+                "text": "There is no one else."
+              }
+            ],
+            [
+              {
+                "verse": 27,
+                "text": "My people will never again be ashamed."
+              }
+            ]
+          ]
+        },
+        {
+          "heading": "God promises to send his Spirit on all people",
+          "items": [
+            [
               {
                 "verse": 28,
-                "text": "And after that, it will come about, says the Lord, that I will send my spirit on all flesh; and your sons and your daughters will be prophets, your old men will have dreams, your young men will see visions:"
+                "text": "After all that, I will pour out my Spirit on all people."
+              }
+            ],
+            [
+              {
+                "verse": 28,
+                "text": "Your sons and daughters will speak my message to people."
+              }
+            ],
+            [
+              {
+                "verse": 28,
+                "text": "Your old men will see things in their dreams."
+              }
+            ],
+            [
+              {
+                "verse": 28,
+                "text": "Your young men will see visions."
               }
             ],
             [
               {
                 "verse": 29,
-                "text": "And on the servants and the servant-girls in those days I will send my spirit."
-              },
+                "text": "At that time, I will pour out my Spirit on all my servants,"
+              }
+            ],
+            [
+              {
+                "verse": 29,
+                "text": "both men and women."
+              }
+            ],
+            [
               {
                 "verse": 30,
-                "text": "And I will let wonders be seen in the heavens and on the earth, blood and fire and pillars of smoke."
-              },
+                "text": "I will cause strange things to appear in the sky"
+              }
+            ],
+            [
+              {
+                "verse": 30,
+                "text": "and on the earth."
+              }
+            ],
+            [
+              {
+                "verse": 30,
+                "text": "There will be blood, fire and clouds of smoke."
+              }
+            ],
+            [
               {
                 "verse": 31,
-                "text": "The sun will be made dark and the moon turned to blood, before the great day of the Lord comes, a day to be feared."
-              },
+                "text": "The sun will become dark."
+              }
+            ],
+            [
+              {
+                "verse": 31,
+                "text": "The moon will become red like the colour of blood."
+              }
+            ],
+            [
+              {
+                "verse": 31,
+                "text": "Then the day of the Lord will come."
+              }
+            ],
+            [
+              {
+                "verse": 31,
+                "text": "It will be a great and terrible day!"
+              }
+            ],
+            [
               {
                 "verse": 32,
-                "text": "And it will be that whoever makes his prayer to the name of the Lord will be kept safe: for in Mount Zion and in Jerusalem some will be kept safe, as the Lord has said, and will be among the small band marked out by the Lord."
+                "text": "At that time, everyone who calls to the Lord for help will be safe."
+              }
+            ],
+            [
+              {
+                "verse": 32,
+                "text": "This is what I, the Lord, have promised."
+              }
+            ],
+            [
+              {
+                "verse": 32,
+                "text": "Some people on Mount Zion and in Jerusalem will escape."
+              }
+            ],
+            [
+              {
+                "verse": 32,
+                "text": "The people who remain alive will be those that I choose to belong to me.’"
               }
             ]
           ]
         }
       ],
-      "verses": [
-        {
-          "verse": 1,
-          "text": "Let the horn be sounded in Zion, and a war-cry in my holy mountain; let all the people of the land be troubled: for the day of the Lord is coming;"
-        },
-        {
-          "verse": 2,
-          "text": "For a day of dark and deep shade is near, a day of cloud and black night: like a black cloud a great and strong people is covering the mountains; there has never been any like them and will not be after them again, from generation to generation."
-        },
-        {
-          "verse": 3,
-          "text": "Before them fire sends destruction, and after them flame is burning: the land is like the garden of Eden before them, and after them an unpeopled waste; truly, nothing has been kept safe from them."
-        },
-        {
-          "verse": 4,
-          "text": "Their form is like the form of horses, and they are running like war-horses."
-        },
-        {
-          "verse": 5,
-          "text": "Like the sound of war-carriages they go jumping on the tops of the mountains; like the noise of a flame of fire burning up the grain-stems, like a strong people lined up for the fight."
-        },
-        {
-          "verse": 6,
-          "text": "At their coming the people are bent with pain: all faces become red together."
-        },
-        {
-          "verse": 7,
-          "text": "They are running like strong men, they go over the wall like men of war; every man goes straight on his way, their lines are not broken."
-        },
-        {
-          "verse": 8,
-          "text": "No one is pushing against another; everyone goes straight on his way: bursting through the sword points, their order is not broken."
-        },
-        {
-          "verse": 9,
-          "text": "They make a rush on the town, running on the wall; they go up into the houses and in through the windows like a thief."
-        },
-        {
-          "verse": 10,
-          "text": "The earth is troubled before them and the heavens are shaking: the sun and the moon have become dark, and the stars keep back their shining:"
-        },
-        {
-          "verse": 11,
-          "text": "And the Lord is thundering before his forces; for very great is his army; for he is strong who gives effect to his word: for the day of the Lord is great and greatly to be feared, and who has strength against it?"
-        },
-        {
-          "verse": 12,
-          "text": "But even now, says the Lord, come back to me with all your heart, keeping from food, with weeping and with sorrow:"
-        },
-        {
-          "verse": 13,
-          "text": "Let your hearts be broken, and not your clothing, and come back to the Lord your God: for he is full of grace and pity, slow to be angry and great in mercy, ready to be turned from his purpose of punishment."
-        },
-        {
-          "verse": 14,
-          "text": "May it not be that he will again let his purpose be changed and let a blessing come after him, even a meal offering and a drink offering for the Lord your God?"
-        },
-        {
-          "verse": 15,
-          "text": "Let a horn be sounded in Zion, let a time be fixed for going without food, have a holy meeting:"
-        },
-        {
-          "verse": 16,
-          "text": "Get the people together, make the mass of the people holy, send for the old men, get together the children and babies at the breast: let the newly married man come out of his room and the bride from her tent."
-        },
-        {
-          "verse": 17,
-          "text": "Let the priests, the servants of the Lord, be weeping between the covered way and the altar, and let them say, Have mercy on your people, O Lord, do not give up your heritage to shame, so that the nations become their rulers: why let them say among the peoples, Where is their God?"
-        },
-        {
-          "verse": 18,
-          "text": "Then the Lord had a care for the honour of his land and had pity on his people."
-        },
-        {
-          "verse": 19,
-          "text": "And the Lord made answer and said to his people, See, I will send you grain and wine and oil in full measure: and I will no longer let you be shamed among the nations:"
-        },
-        {
-          "verse": 20,
-          "text": "I will send the one from the north far away from you, driving him into a dry and waste land, with his front to the sea of the east and his back to the sea of the west, and the smell of him will go up, even his evil smell will go up."
-        },
-        {
-          "verse": 21,
-          "text": "Have no fear, O land; be glad with great joy; for the Lord has done great things."
-        },
-        {
-          "verse": 22,
-          "text": "Have no fear, you beasts of the field, for the grass-lands of the waste are becoming green, for the trees are producing fruit, the fig-tree and the vine give out their strength."
-        },
-        {
-          "verse": 23,
-          "text": "Be glad, then, you children of Zion, and have joy in the Lord your God: for he gives you food in full measure, making the rain come down for you, the early and the late rain as at the first."
-        },
-        {
-          "verse": 24,
-          "text": "And the floors will be full of grain, and the crushing-places overflowing with wine and oil."
-        },
-        {
-          "verse": 25,
-          "text": "I will give back to you the years which were food for the locust, the plant-worm, the field-fly, and the worm, my great army which I sent among you."
-        },
-        {
-          "verse": 26,
-          "text": "You will have food in full measure, and give praise to the name of the Lord your God, who has done wonders for you:"
-        },
-        {
-          "verse": 27,
-          "text": "And you will be certain that I am in Israel, and that I am the Lord your God, and there is no other: and my people will never be shamed."
-        },
-        {
-          "verse": 28,
-          "text": "And after that, it will come about, says the Lord, that I will send my spirit on all flesh; and your sons and your daughters will be prophets, your old men will have dreams, your young men will see visions:"
-        },
-        {
-          "verse": 29,
-          "text": "And on the servants and the servant-girls in those days I will send my spirit."
-        },
-        {
-          "verse": 30,
-          "text": "And I will let wonders be seen in the heavens and on the earth, blood and fire and pillars of smoke."
-        },
-        {
-          "verse": 31,
-          "text": "The sun will be made dark and the moon turned to blood, before the great day of the Lord comes, a day to be feared."
-        },
-        {
-          "verse": 32,
-          "text": "And it will be that whoever makes his prayer to the name of the Lord will be kept safe: for in Mount Zion and in Jerusalem some will be kept safe, as the Lord has said, and will be among the small band marked out by the Lord."
-        }
-      ],
-      "totalVerses": 32,
-      "footnotes": []
+      "notes": [
+        "The Garden of Eden was a beautiful place. SeeGenesis 2:8-9.",
+        "Joel is describing the army oflocusts. The heads of locusts have the same shape as horses' heads.",
+        "People would tear their clothes to show that they wereupsetabout something.",
+        "The Salt Sea is called the Dead Sea today.",
+        "Mount Zionwas the hill in Jerusalem where King Solomon built God'stemple."
+      ]
     },
     {
-      "book": "Joel",
       "chapter": 3,
       "title": "Joel 3",
-      "subtitle": "Joel Chapter 3",
+      "subtitle": "",
+      "totalVerses": 21,
+      "sourceUrl": "https://www.easyenglish.bible/bible/easy/joel/3/",
       "sections": [
         {
-          "heading": "Joel Chapter 3",
+          "heading": "God will punish Judah's enemies",
           "items": [
             [
               {
                 "verse": 1,
-                "text": "For in those days and in that time, when I let the fate of Judah and Jerusalem be changed,"
-              },
-              {
-                "verse": 2,
-                "text": "I will get together all the nations, and make them come down into the valley of Jehoshaphat; and there I will take up with them the cause of my people and of my heritage Israel, whom they have sent wandering among the nations, and of my land which has been parted by them."
-              },
-              {
-                "verse": 3,
-                "text": "And they have put the fate of my people to the decision of chance: giving a boy for the price of a loose woman and a girl for a drink of wine."
-              },
-              {
-                "verse": 4,
-                "text": "And further, what are you to me, O Tyre and Zidon and all the circle of Philistia? will you give me back any payment? and if you do, quickly and suddenly I will send it back on your head,"
+                "text": "‘Listen! At that time, I will cause the people of Judah and Jerusalem to return."
               }
             ],
             [
               {
+                "verse": 1,
+                "text": "They will have success again."
+              }
+            ],
+            [
+              {
+                "verse": 2,
+                "text": "Then I will bring all the nations together."
+              }
+            ],
+            [
+              {
+                "verse": 2,
+                "text": "I will take them down to the Valley of Jehoshaphat."
+              }
+            ],
+            [
+              {
+                "verse": 2,
+                "text": "There I will judge them."
+              }
+            ],
+            [
+              {
+                "verse": 2,
+                "text": "I will punish them"
+              }
+            ],
+            [
+              {
+                "verse": 2,
+                "text": "because of what they did to my own people, Israel."
+              }
+            ],
+            [
+              {
+                "verse": 2,
+                "text": "Those nations took my people away"
+              }
+            ],
+            [
+              {
+                "verse": 2,
+                "text": "to live among other nations."
+              }
+            ],
+            [
+              {
+                "verse": 2,
+                "text": "They divided my land into parts for themselves."
+              }
+            ],
+            [
+              {
+                "verse": 3,
+                "text": "They threw dice to win my people for themselves."
+              }
+            ],
+            [
+              {
+                "verse": 3,
+                "text": "They sold boys to pay for prostitutes."
+              }
+            ],
+            [
+              {
+                "verse": 3,
+                "text": "They sold girls to buy wine to drink."
+              }
+            ],
+            [
+              {
+                "verse": 3,
+                "text": "4 What are you trying to do, you people of Tyre, Sidon and the regions of Philistia? Do you want to pay me back for something that I have done to you? If so, I myself will quickly pay you back with punishment. 5 You took my silver and my gold. You took all my valuable things to put in your own temples. 6 You sold the people of Judah and Jerusalem to the Greek people. You sent them far away from their own country. 7 But now I will cause my people to return home. I will bring them back from the places to which you sold them. Then I will do to you what you have done to them. 8 I will sell your sons and daughters to the people of Judah. And they will sell them to the Sabeans, who live far away.I, the Lord, have spoken.’ 9 Tell this news to the people of all nations:‘Prepare to fight a war! Command your soldiers to come together.Tell them to march forward and attack! 10 Take your ploughsand make them into swords.Take your knives that you use to cut your vinesand make them into spears.3:10Even weak people must fight like strong soldiers. 11 Come quickly, you nations that are all around.Meet together in the valley.’Now Lord, send down your army to attack them! 12 ‘All the nations must prepare themselves.They must march to the Valley of Jehoshaphat.That is where I will sit to judge the nations from all around. 13 Bring your knives to cut down the crops!They are ready to eat!Stamp on the grapes!The winepress is full of them!There is too much wine for the jars to hold.Yes, punish those nationsbecause they are very wicked!’ 14 Great crowds of people are in the Valley of Punishment.It is there that the day of the Lord will soon come. 15 The sun and the moon become dark.The stars stop shining. 16 The Lord shouts from Zion.His voice calls loudly from Jerusalem.The sky and the earth shake.But the Lord is a place where his people are safe.He is a strong place for Israel's people.God will keep his people safe 17 The Lord says,‘Then you will know that I am the Lord your God.I live on Zion, my holy hill.Jerusalem will be a holy place.Foreign armies will never come into the city again. 18 On that day, the vines on the mountainswill provide plenty of sweet wine.The cows on the hills will provide plenty of milk.All the streams in Judah will have plenty of water.A spring of water will come from the Lord's temple.It will bring water to the Valley of acacia trees. 19 But Egypt will be an empty place.3:19Edom will become a wilderness.They were cruel to the people of Judah.They killed people there who did not deserve to die. 20 Now Judah will for ever be a place where people can live safely.Jerusalem will always be a safe city. 21 But I will surely punish those who killed my people.I have not forgiven them.I, the Lord, live in Zion!’"
+              }
+            ],
+            [
+              {
+                "verse": 4,
+                "text": "What are you trying to do, you people of Tyre, Sidon and the regions of Philistia? Do you want to pay me back for something that I have done to you? If so, I myself will quickly pay you back with punishment."
+              },
+              {
                 "verse": 5,
-                "text": "For you have taken my silver and my gold, putting in the houses of your gods my beautiful and pleasing things."
+                "text": "You took my silver and my gold. You took all my valuable things to put in your own temples."
               },
               {
                 "verse": 6,
-                "text": "And the children of Judah and the children of Jerusalem you have given for a price to the sons of the Greeks, to send them far away from their land:"
-              },
+                "text": "You sold the people of Judah and Jerusalem to the Greek people. You sent them far away from their own country."
+              }
+            ],
+            [
               {
                 "verse": 7,
-                "text": "See, I will have them moved from the place where you have sent them, and will let what you have done come back on your head;"
+                "text": "But now I will cause my people to return home. I will bring them back from the places to which you sold them. Then I will do to you what you have done to them."
               },
               {
                 "verse": 8,
-                "text": "I will give your sons and your daughters into the hands of the children of Judah for a price, and they will give them for a price to the men of Sheba, a nation far off: for the Lord has said it."
+                "text": "I will sell your sons and daughters to the people of Judah. And they will sell them to the Sabeans, who live far away."
+              }
+            ],
+            [
+              {
+                "verse": 8,
+                "text": "I, the Lord, have spoken.’"
+              }
+            ],
+            [
+              {
+                "verse": 8,
+                "text": "9 Tell this news to the people of all nations:‘Prepare to fight a war! Command your soldiers to come together.Tell them to march forward and attack! 10 Take your ploughsand make them into swords.Take your knives that you use to cut your vinesand make them into spears.3:10Even weak people must fight like strong soldiers. 11 Come quickly, you nations that are all around.Meet together in the valley.’Now Lord, send down your army to attack them! 12 ‘All the nations must prepare themselves.They must march to the Valley of Jehoshaphat.That is where I will sit to judge the nations from all around. 13 Bring your knives to cut down the crops!They are ready to eat!Stamp on the grapes!The winepress is full of them!There is too much wine for the jars to hold.Yes, punish those nationsbecause they are very wicked!’ 14 Great crowds of people are in the Valley of Punishment.It is there that the day of the Lord will soon come. 15 The sun and the moon become dark.The stars stop shining. 16 The Lord shouts from Zion.His voice calls loudly from Jerusalem.The sky and the earth shake.But the Lord is a place where his people are safe.He is a strong place for Israel's people.God will keep his people safe 17 The Lord says,‘Then you will know that I am the Lord your God.I live on Zion, my holy hill.Jerusalem will be a holy place.Foreign armies will never come into the city again. 18 On that day, the vines on the mountainswill provide plenty of sweet wine.The cows on the hills will provide plenty of milk.All the streams in Judah will have plenty of water.A spring of water will come from the Lord's temple.It will bring water to the Valley of acacia trees. 19 But Egypt will be an empty place.3:19Edom will become a wilderness.They were cruel to the people of Judah.They killed people there who did not deserve to die. 20 Now Judah will for ever be a place where people can live safely.Jerusalem will always be a safe city. 21 But I will surely punish those who killed my people.I have not forgiven them.I, the Lord, live in Zion!’"
               }
             ],
             [
               {
                 "verse": 9,
-                "text": "Give this out among the nations; make ready for war: get the strong men awake; let all the men of war come near, let them come up."
-              },
+                "text": "Tell this news to the people of all nations:"
+              }
+            ],
+            [
+              {
+                "verse": 9,
+                "text": "‘Prepare to fight a war!"
+              }
+            ],
+            [
+              {
+                "verse": 9,
+                "text": "Command your soldiers to come together."
+              }
+            ],
+            [
+              {
+                "verse": 9,
+                "text": "Tell them to march forward and attack!"
+              }
+            ],
+            [
               {
                 "verse": 10,
-                "text": "Get your plough-blades hammered into swords, and your vine-knives into spears: let the feeble say, I am strong."
-              },
+                "text": "Take your ploughs"
+              }
+            ],
+            [
+              {
+                "verse": 10,
+                "text": "and make them into swords."
+              }
+            ],
+            [
+              {
+                "verse": 10,
+                "text": "Take your knives that you use to cut your vines"
+              }
+            ],
+            [
+              {
+                "verse": 10,
+                "text": "and make them into spears."
+              }
+            ],
+            [
+              {
+                "verse": 10,
+                "text": "Even weak people must fight like strong soldiers."
+              }
+            ],
+            [
               {
                 "verse": 11,
-                "text": "Come quickly, all you nations round about, and get yourselves together there: make your strong ones come down, O Lord."
-              },
+                "text": "Come quickly, you nations that are all around."
+              }
+            ],
+            [
+              {
+                "verse": 11,
+                "text": "Meet together in the valley.’"
+              }
+            ],
+            [
+              {
+                "verse": 11,
+                "text": "Now Lord, send down your army to attack them! 12 ‘All the nations must prepare themselves.They must march to the Valley of Jehoshaphat.That is where I will sit to judge the nations from all around. 13 Bring your knives to cut down the crops!They are ready to eat!Stamp on the grapes!The winepress is full of them!There is too much wine for the jars to hold.Yes, punish those nationsbecause they are very wicked!’ 14 Great crowds of people are in the Valley of Punishment.It is there that the day of the Lord will soon come. 15 The sun and the moon become dark.The stars stop shining. 16 The Lord shouts from Zion.His voice calls loudly from Jerusalem.The sky and the earth shake.But the Lord is a place where his people are safe.He is a strong place for Israel's people.God will keep his people safe 17 The Lord says,‘Then you will know that I am the Lord your God.I live on Zion, my holy hill.Jerusalem will be a holy place.Foreign armies will never come into the city again. 18 On that day, the vines on the mountainswill provide plenty of sweet wine.The cows on the hills will provide plenty of milk.All the streams in Judah will have plenty of water.A spring of water will come from the Lord's temple.It will bring water to the Valley of acacia trees. 19 But Egypt will be an empty place.3:19Edom will become a wilderness.They were cruel to the people of Judah.They killed people there who did not deserve to die. 20 Now Judah will for ever be a place where people can live safely.Jerusalem will always be a safe city. 21 But I will surely punish those who killed my people.I have not forgiven them.I, the Lord, live in Zion!’"
+              }
+            ],
+            [
+              {
+                "verse": 11,
+                "text": "Now Lord, send down your army to attack them!"
+              }
+            ],
+            [
+              {
+                "verse": 11,
+                "text": "12 ‘All the nations must prepare themselves.They must march to the Valley of Jehoshaphat.That is where I will sit to judge the nations from all around. 13 Bring your knives to cut down the crops!They are ready to eat!Stamp on the grapes!The winepress is full of them!There is too much wine for the jars to hold.Yes, punish those nationsbecause they are very wicked!’ 14 Great crowds of people are in the Valley of Punishment.It is there that the day of the Lord will soon come. 15 The sun and the moon become dark.The stars stop shining. 16 The Lord shouts from Zion.His voice calls loudly from Jerusalem.The sky and the earth shake.But the Lord is a place where his people are safe.He is a strong place for Israel's people.God will keep his people safe 17 The Lord says,‘Then you will know that I am the Lord your God.I live on Zion, my holy hill.Jerusalem will be a holy place.Foreign armies will never come into the city again. 18 On that day, the vines on the mountainswill provide plenty of sweet wine.The cows on the hills will provide plenty of milk.All the streams in Judah will have plenty of water.A spring of water will come from the Lord's temple.It will bring water to the Valley of acacia trees. 19 But Egypt will be an empty place.3:19Edom will become a wilderness.They were cruel to the people of Judah.They killed people there who did not deserve to die. 20 Now Judah will for ever be a place where people can live safely.Jerusalem will always be a safe city. 21 But I will surely punish those who killed my people.I have not forgiven them.I, the Lord, live in Zion!’"
+              }
+            ],
+            [
               {
                 "verse": 12,
-                "text": "Let the nations be awake, and come to the valley of Jehoshaphat: for there I will be seated as judge of all the nations round about."
+                "text": "‘All the nations must prepare themselves."
+              }
+            ],
+            [
+              {
+                "verse": 12,
+                "text": "They must march to the Valley of Jehoshaphat."
+              }
+            ],
+            [
+              {
+                "verse": 12,
+                "text": "That is where I will sit to judge the nations from all around."
               }
             ],
             [
               {
                 "verse": 13,
-                "text": "Put in the blade, for the grain is ready: come, get you down, for the wine-crusher is full, the vessels are overflowing; for great is their evil-doing."
-              },
+                "text": "Bring your knives to cut down the crops!"
+              }
+            ],
+            [
+              {
+                "verse": 13,
+                "text": "They are ready to eat!"
+              }
+            ],
+            [
+              {
+                "verse": 13,
+                "text": "Stamp on the grapes!"
+              }
+            ],
+            [
+              {
+                "verse": 13,
+                "text": "The winepress is full of them!"
+              }
+            ],
+            [
+              {
+                "verse": 13,
+                "text": "There is too much wine for the jars to hold."
+              }
+            ],
+            [
+              {
+                "verse": 13,
+                "text": "Yes, punish those nations"
+              }
+            ],
+            [
+              {
+                "verse": 13,
+                "text": "because they are very wicked!’"
+              }
+            ],
+            [
+              {
+                "verse": 13,
+                "text": "14 Great crowds of people are in the Valley of Punishment.It is there that the day of the Lord will soon come. 15 The sun and the moon become dark.The stars stop shining. 16 The Lord shouts from Zion.His voice calls loudly from Jerusalem.The sky and the earth shake.But the Lord is a place where his people are safe.He is a strong place for Israel's people.God will keep his people safe 17 The Lord says,‘Then you will know that I am the Lord your God.I live on Zion, my holy hill.Jerusalem will be a holy place.Foreign armies will never come into the city again. 18 On that day, the vines on the mountainswill provide plenty of sweet wine.The cows on the hills will provide plenty of milk.All the streams in Judah will have plenty of water.A spring of water will come from the Lord's temple.It will bring water to the Valley of acacia trees. 19 But Egypt will be an empty place.3:19Edom will become a wilderness.They were cruel to the people of Judah.They killed people there who did not deserve to die. 20 Now Judah will for ever be a place where people can live safely.Jerusalem will always be a safe city. 21 But I will surely punish those who killed my people.I have not forgiven them.I, the Lord, live in Zion!’"
+              }
+            ],
+            [
               {
                 "verse": 14,
-                "text": "Masses on masses in the valley of decision! for the day of the Lord is near in the valley of decision."
-              },
+                "text": "Great crowds of people are in the Valley of Punishment."
+              }
+            ],
+            [
+              {
+                "verse": 14,
+                "text": "It is there that the day of the Lord will soon come."
+              }
+            ],
+            [
               {
                 "verse": 15,
-                "text": "The sun and the moon have become dark, and the stars keep back their shining."
-              },
+                "text": "The sun and the moon become dark."
+              }
+            ],
+            [
+              {
+                "verse": 15,
+                "text": "The stars stop shining."
+              }
+            ],
+            [
               {
                 "verse": 16,
-                "text": "And the Lord will be thundering from Zion, and his voice will be sounding from Jerusalem; and the heavens and the earth will be shaking: but the Lord will be a breastplate for his people and a strong place for the children of Israel."
+                "text": "The Lord shouts from Zion."
+              }
+            ],
+            [
+              {
+                "verse": 16,
+                "text": "His voice calls loudly from Jerusalem."
+              }
+            ],
+            [
+              {
+                "verse": 16,
+                "text": "The sky and the earth shake."
+              }
+            ],
+            [
+              {
+                "verse": 16,
+                "text": "But the Lord is a place where his people are safe."
+              }
+            ],
+            [
+              {
+                "verse": 16,
+                "text": "He is a strong place for Israel's people."
+              }
+            ]
+          ]
+        },
+        {
+          "heading": "God will keep his people safe",
+          "items": [
+            [
+              {
+                "verse": 17,
+                "text": "The Lord says,"
               }
             ],
             [
               {
                 "verse": 17,
-                "text": "And you will be certain that I am the Lord your God, living in Zion, my holy mountain: and Jerusalem will be holy, and no strange person will ever again go through her."
-              },
+                "text": "‘Then you will know that I am the Lord your God."
+              }
+            ],
+            [
+              {
+                "verse": 17,
+                "text": "I live on Zion, my holy hill."
+              }
+            ],
+            [
+              {
+                "verse": 17,
+                "text": "Jerusalem will be a holy place."
+              }
+            ],
+            [
+              {
+                "verse": 17,
+                "text": "Foreign armies will never come into the city again."
+              }
+            ],
+            [
               {
                 "verse": 18,
-                "text": "And it will come about in that day that the mountains will be dropping sweet wine, and the hills will be flowing with milk, and all the streams of Judah will be flowing with water; and a fountain will come out from the house of the Lord, watering the valley of acacia-trees."
-              },
+                "text": "On that day, the vines on the mountains"
+              }
+            ],
+            [
+              {
+                "verse": 18,
+                "text": "will provide plenty of sweet wine."
+              }
+            ],
+            [
+              {
+                "verse": 18,
+                "text": "The cows on the hills will provide plenty of milk."
+              }
+            ],
+            [
+              {
+                "verse": 18,
+                "text": "All the streams in Judah will have plenty of water."
+              }
+            ],
+            [
+              {
+                "verse": 18,
+                "text": "A spring of water will come from the Lord's temple."
+              }
+            ],
+            [
+              {
+                "verse": 18,
+                "text": "It will bring water to the Valley of acacia trees."
+              }
+            ],
+            [
               {
                 "verse": 19,
-                "text": "Egypt will be a waste and Edom a land of destruction, because of the evil done to the children of Judah, because they have let blood be drained out in their land without cause."
-              },
+                "text": "But Egypt will be an empty place."
+              }
+            ],
+            [
+              {
+                "verse": 19,
+                "text": "Edom will become a wilderness."
+              }
+            ],
+            [
+              {
+                "verse": 19,
+                "text": "They were cruel to the people of Judah."
+              }
+            ],
+            [
+              {
+                "verse": 19,
+                "text": "They killed people there who did not deserve to die."
+              }
+            ],
+            [
               {
                 "verse": 20,
-                "text": "But Judah will be peopled for ever, and Jerusalem from generation to generation."
+                "text": "Now Judah will for ever be a place where people can live safely."
+              }
+            ],
+            [
+              {
+                "verse": 20,
+                "text": "Jerusalem will always be a safe city."
               }
             ],
             [
               {
                 "verse": 21,
-                "text": "And I will send punishment for their blood, for which punishment has not been sent, for the Lord is living in Zion."
+                "text": "But I will surely punish those who killed my people."
+              }
+            ],
+            [
+              {
+                "verse": 21,
+                "text": "I have not forgiven them."
+              }
+            ],
+            [
+              {
+                "verse": 21,
+                "text": "I, the Lord, live in Zion!’"
               }
             ]
           ]
         }
       ],
-      "verses": [
-        {
-          "verse": 1,
-          "text": "For in those days and in that time, when I let the fate of Judah and Jerusalem be changed,"
-        },
-        {
-          "verse": 2,
-          "text": "I will get together all the nations, and make them come down into the valley of Jehoshaphat; and there I will take up with them the cause of my people and of my heritage Israel, whom they have sent wandering among the nations, and of my land which has been parted by them."
-        },
-        {
-          "verse": 3,
-          "text": "And they have put the fate of my people to the decision of chance: giving a boy for the price of a loose woman and a girl for a drink of wine."
-        },
-        {
-          "verse": 4,
-          "text": "And further, what are you to me, O Tyre and Zidon and all the circle of Philistia? will you give me back any payment? and if you do, quickly and suddenly I will send it back on your head,"
-        },
-        {
-          "verse": 5,
-          "text": "For you have taken my silver and my gold, putting in the houses of your gods my beautiful and pleasing things."
-        },
-        {
-          "verse": 6,
-          "text": "And the children of Judah and the children of Jerusalem you have given for a price to the sons of the Greeks, to send them far away from their land:"
-        },
-        {
-          "verse": 7,
-          "text": "See, I will have them moved from the place where you have sent them, and will let what you have done come back on your head;"
-        },
-        {
-          "verse": 8,
-          "text": "I will give your sons and your daughters into the hands of the children of Judah for a price, and they will give them for a price to the men of Sheba, a nation far off: for the Lord has said it."
-        },
-        {
-          "verse": 9,
-          "text": "Give this out among the nations; make ready for war: get the strong men awake; let all the men of war come near, let them come up."
-        },
-        {
-          "verse": 10,
-          "text": "Get your plough-blades hammered into swords, and your vine-knives into spears: let the feeble say, I am strong."
-        },
-        {
-          "verse": 11,
-          "text": "Come quickly, all you nations round about, and get yourselves together there: make your strong ones come down, O Lord."
-        },
-        {
-          "verse": 12,
-          "text": "Let the nations be awake, and come to the valley of Jehoshaphat: for there I will be seated as judge of all the nations round about."
-        },
-        {
-          "verse": 13,
-          "text": "Put in the blade, for the grain is ready: come, get you down, for the wine-crusher is full, the vessels are overflowing; for great is their evil-doing."
-        },
-        {
-          "verse": 14,
-          "text": "Masses on masses in the valley of decision! for the day of the Lord is near in the valley of decision."
-        },
-        {
-          "verse": 15,
-          "text": "The sun and the moon have become dark, and the stars keep back their shining."
-        },
-        {
-          "verse": 16,
-          "text": "And the Lord will be thundering from Zion, and his voice will be sounding from Jerusalem; and the heavens and the earth will be shaking: but the Lord will be a breastplate for his people and a strong place for the children of Israel."
-        },
-        {
-          "verse": 17,
-          "text": "And you will be certain that I am the Lord your God, living in Zion, my holy mountain: and Jerusalem will be holy, and no strange person will ever again go through her."
-        },
-        {
-          "verse": 18,
-          "text": "And it will come about in that day that the mountains will be dropping sweet wine, and the hills will be flowing with milk, and all the streams of Judah will be flowing with water; and a fountain will come out from the house of the Lord, watering the valley of acacia-trees."
-        },
-        {
-          "verse": 19,
-          "text": "Egypt will be a waste and Edom a land of destruction, because of the evil done to the children of Judah, because they have let blood be drained out in their land without cause."
-        },
-        {
-          "verse": 20,
-          "text": "But Judah will be peopled for ever, and Jerusalem from generation to generation."
-        },
-        {
-          "verse": 21,
-          "text": "And I will send punishment for their blood, for which punishment has not been sent, for the Lord is living in Zion."
-        }
-      ],
-      "totalVerses": 21,
-      "footnotes": []
+      "notes": [
+        "Jerusalem was the capital city of Judah.",
+        "‘Jehoshaphat’ means a place where Godjudgespeople.",
+        "SeeIsaiah 2:4;Micah 4:3.",
+        "Egypt is a country in north Africa that was south of Israel. Pharaohs were the rulers of Egypt."
+      ]
     }
   ]
 }

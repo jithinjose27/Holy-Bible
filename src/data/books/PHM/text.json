@@ -1,241 +1,172 @@
 {
-  "translation": "EasyEnglish Bible",
-  "book": "Philemon",
-  "bookId": "PHM",
+  "id": "PHM",
+  "name": "Philemon",
+  "slug": "philemon",
+  "translation": "EasyEnglish Bible (EASY)",
+  "publisher": "MissionAssist UK",
+  "referenceUrl": "https://www.easyenglish.bible/bible/easy/philemon/",
   "totalChapters": 1,
-  "copyrightNotice": "Scripture quotations are from the EasyEnglish Bible / Bible in Basic English. Public Domain.",
-  "officialSourceUrl": "https://www.easyenglish.bible/bible/easy/philemon/1/",
+  "totalVerses": 25,
   "chapters": [
     {
-      "book": "Philemon",
       "chapter": 1,
       "title": "Philemon 1",
-      "subtitle": "Philemon Chapter 1",
+      "subtitle": "",
+      "totalVerses": 25,
+      "sourceUrl": "https://www.easyenglish.bible/bible/easy/philemon/1/",
       "sections": [
         {
-          "heading": "Philemon Chapter 1",
+          "heading": "Paul writes a letter to Philemon",
           "items": [
             [
               {
                 "verse": 1,
-                "text": "Paul, a prisoner of Jesus Christ, and Timothy our brother, to Philemon, our dear helper in the faith,"
+                "text": "This letter is from me, Paul. I am in prison because I serve Christ Jesus. Our Christian friend Timothy is here with me."
+              }
+            ],
+            [
+              {
+                "verse": 1,
+                "text": "We are writing to you, Philemon. You are our friend, and we love you. You work on behalf of Christ, as we do."
               },
               {
                 "verse": 2,
-                "text": "And to Apphia, our sister, and to Archippus, our brother in God's army, and to the church in your house:"
-              },
-              {
-                "verse": 3,
-                "text": "Grace to you and peace from God our Father and the Lord Jesus Christ."
-              },
-              {
-                "verse": 4,
-                "text": "I give praise to God at all times and make prayer for you,"
+                "text": "We say ‘hello’ also to Apphia, who is like a sister to us. And we say ‘hello’ to Archippus, who serves Christ like a soldier, as we do. We also say ‘hello’ to the group of Christians who meet in your home."
               }
             ],
             [
               {
+                "verse": 3,
+                "text": "I pray that God, our Father, and the Lord Jesus Christ will continue to help you. I pray that they will give you peace in your minds."
+              }
+            ]
+          ]
+        },
+        {
+          "heading": "Paul thanks God for Philemon's love and faith",
+          "items": [
+            [
+              {
+                "verse": 4,
+                "text": "When I pray for you, I always thank my God as I think about you."
+              },
+              {
                 "verse": 5,
-                "text": "Hearing of the love and the faith which you have to the Lord Jesus and to all the saints;"
+                "text": "I thank God because people tell me good things about you. You love all God's people and you trust in the Lord Jesus."
               },
               {
                 "verse": 6,
-                "text": "That the faith which you have in common with them may be working with power, in the knowledge of every good thing in you, for Christ."
+                "text": "We each have the same faith in Christ as we serve him. So I pray that, as a result, you will become strong. I pray that you will understand more about every good thing that is ours because of Christ."
               },
               {
                 "verse": 7,
-                "text": "For I had great joy and comfort in your love, because the hearts of the saints have been made strong again through you, brother."
-              },
-              {
-                "verse": 8,
-                "text": "And so, though I might, in the name of Christ, give you orders to do what is right,"
+                "text": "My friend, you have helped God's people to feel stronger. Your love for them has made me very happy. It makes me feel stronger too."
               }
-            ],
+            ]
+          ]
+        },
+        {
+          "heading": "Paul asks Philemon to help Onesimus",
+          "items": [
             [
               {
+                "verse": 8,
+                "text": "I want to ask you to do something. I am sure that Christ has given me authority. So I could tell you strongly what you should do."
+              },
+              {
                 "verse": 9,
-                "text": "Still, because of love, in place of an order, I make a request to you, I, Paul, an old man and now a prisoner of Christ Jesus:"
+                "text": "But instead, because of love, I will ask you, ‘Please do it.’ I, Paul, am an old man. Also, I am in prison now because I serve Christ Jesus."
               },
               {
                 "verse": 10,
-                "text": "My request is for my child Onesimus, the child of my chains,"
+                "text": "So I am asking you to help Onesimus, who is like my own child. I taught him about Jesus while I was in prison. Because of that, he now has life with God. I am like his father."
               },
               {
                 "verse": 11,
-                "text": "Who in the past was of no profit to you, but now is of profit to you and to me:"
-              },
-              {
-                "verse": 12,
-                "text": "Whom I have sent back to you, him who is my very heart:"
+                "text": "Before he trusted Jesus, Onesimus did not really help you. But now he can help both you and me."
               }
             ],
             [
               {
+                "verse": 12,
+                "text": "So I am now sending him back to you. He is someone that I love very much."
+              },
+              {
                 "verse": 13,
-                "text": "Though my desire was to keep him with me, to be my servant in the chains of the good news, in your place:"
+                "text": "I wanted to keep him here with me, to help me on your behalf. I am in prison here because I taught people the good news about Jesus."
               },
               {
                 "verse": 14,
-                "text": "But without your approval I would do nothing; so that your good works might not be forced, but done freely from your heart."
-              },
+                "text": "But I did not want to do anything unless you agreed. I wanted you to help me because you really want to help. I did not want to make you do it."
+              }
+            ],
+            [
               {
                 "verse": 15,
-                "text": "For it is possible that for this reason he was parted from you for a time, so that you might have him for ever;"
+                "text": "When Onesimus ran away from you, perhaps God let that happen. Onesimus left you for a short time so that you could now have him back for ever."
               },
               {
                 "verse": 16,
-                "text": "No longer as a servant, but more than a servant, a brother, very dear to me specially, but much more to you, in the flesh as well as in the Lord."
+                "text": "You can have him back again not only as your slave. He will be something much better than a slave for you. He will be like a brother that you love. I love him very much. But now you will love him even more. He will serve you as a slave, but he will also serve the Lord, as you do."
               }
             ],
             [
               {
                 "verse": 17,
-                "text": "If then you take me to be your friend and brother, take him in as myself."
+                "text": "I am your friend. Together we serve God. If you agree with that, please be kind to Onesimus. Accept him in the same way that you would accept me."
               },
               {
                 "verse": 18,
-                "text": "If he has done you any wrong or is in debt to you for anything, put it to my account."
+                "text": "If Onesimus has done anything wrong to you, I will make it right again. If he took money from you, I will pay it back."
               },
               {
                 "verse": 19,
-                "text": "I, Paul, writing this myself, say, I will make payment to you: and I do not say to you that you are in debt to me even for your life."
-              },
-              {
-                "verse": 20,
-                "text": "So brother, let me have joy of you in the Lord: give new life to my heart in Christ."
+                "text": "I, Paul, am writing this myself: ‘I will pay the money back to you.’ But you should remember what I have already given to you. You have life with God because I told you the good news about Jesus."
               }
             ],
             [
               {
-                "verse": 21,
-                "text": "Being certain that you will do my desire, I am writing to you, in the knowledge that you will do even more than I say."
+                "verse": 20,
+                "text": "Yes, my friend, please help me now, because we both belong to the Lord. As a Christian friend, help me to feel happier."
               },
+              {
+                "verse": 21,
+                "text": "I am sure that you will do what I ask. That is why I have written this letter to you. I know that you will do even more than this to help me."
+              }
+            ],
+            [
               {
                 "verse": 22,
-                "text": "And make a room ready for me; for I am hoping that through your prayers I will be given to you."
-              },
+                "text": "I want to ask you one more thing. Please prepare a room in your home where I can stay. I know that all of you are praying for God to let me go free. As a result, I hope that I will be able to visit you again."
+              }
+            ]
+          ]
+        },
+        {
+          "heading": "Paul finishes his letter",
+          "items": [
+            [
               {
                 "verse": 23,
-                "text": "Epaphras, my brother-prisoner in Christ Jesus, sends you his love;"
+                "text": "Epaphras is also here in prison with me because he serves Christ Jesus. He says ‘hello’ to you."
               },
               {
                 "verse": 24,
-                "text": "And so do Mark, Aristarchus, Demas, and Luke, my brother-workers."
+                "text": "Mark, Aristarchus, Demas and Luke, who work with me here, also say ‘hello’ to you."
               }
             ],
             [
               {
                 "verse": 25,
-                "text": "The grace of our Lord Jesus Christ be with your spirit. So be it."
+                "text": "I pray that the Lord Jesus Christ will continue to be very kind to all of you."
               }
             ]
           ]
         }
       ],
-      "verses": [
-        {
-          "verse": 1,
-          "text": "Paul, a prisoner of Jesus Christ, and Timothy our brother, to Philemon, our dear helper in the faith,"
-        },
-        {
-          "verse": 2,
-          "text": "And to Apphia, our sister, and to Archippus, our brother in God's army, and to the church in your house:"
-        },
-        {
-          "verse": 3,
-          "text": "Grace to you and peace from God our Father and the Lord Jesus Christ."
-        },
-        {
-          "verse": 4,
-          "text": "I give praise to God at all times and make prayer for you,"
-        },
-        {
-          "verse": 5,
-          "text": "Hearing of the love and the faith which you have to the Lord Jesus and to all the saints;"
-        },
-        {
-          "verse": 6,
-          "text": "That the faith which you have in common with them may be working with power, in the knowledge of every good thing in you, for Christ."
-        },
-        {
-          "verse": 7,
-          "text": "For I had great joy and comfort in your love, because the hearts of the saints have been made strong again through you, brother."
-        },
-        {
-          "verse": 8,
-          "text": "And so, though I might, in the name of Christ, give you orders to do what is right,"
-        },
-        {
-          "verse": 9,
-          "text": "Still, because of love, in place of an order, I make a request to you, I, Paul, an old man and now a prisoner of Christ Jesus:"
-        },
-        {
-          "verse": 10,
-          "text": "My request is for my child Onesimus, the child of my chains,"
-        },
-        {
-          "verse": 11,
-          "text": "Who in the past was of no profit to you, but now is of profit to you and to me:"
-        },
-        {
-          "verse": 12,
-          "text": "Whom I have sent back to you, him who is my very heart:"
-        },
-        {
-          "verse": 13,
-          "text": "Though my desire was to keep him with me, to be my servant in the chains of the good news, in your place:"
-        },
-        {
-          "verse": 14,
-          "text": "But without your approval I would do nothing; so that your good works might not be forced, but done freely from your heart."
-        },
-        {
-          "verse": 15,
-          "text": "For it is possible that for this reason he was parted from you for a time, so that you might have him for ever;"
-        },
-        {
-          "verse": 16,
-          "text": "No longer as a servant, but more than a servant, a brother, very dear to me specially, but much more to you, in the flesh as well as in the Lord."
-        },
-        {
-          "verse": 17,
-          "text": "If then you take me to be your friend and brother, take him in as myself."
-        },
-        {
-          "verse": 18,
-          "text": "If he has done you any wrong or is in debt to you for anything, put it to my account."
-        },
-        {
-          "verse": 19,
-          "text": "I, Paul, writing this myself, say, I will make payment to you: and I do not say to you that you are in debt to me even for your life."
-        },
-        {
-          "verse": 20,
-          "text": "So brother, let me have joy of you in the Lord: give new life to my heart in Christ."
-        },
-        {
-          "verse": 21,
-          "text": "Being certain that you will do my desire, I am writing to you, in the knowledge that you will do even more than I say."
-        },
-        {
-          "verse": 22,
-          "text": "And make a room ready for me; for I am hoping that through your prayers I will be given to you."
-        },
-        {
-          "verse": 23,
-          "text": "Epaphras, my brother-prisoner in Christ Jesus, sends you his love;"
-        },
-        {
-          "verse": 24,
-          "text": "And so do Mark, Aristarchus, Demas, and Luke, my brother-workers."
-        },
-        {
-          "verse": 25,
-          "text": "The grace of our Lord Jesus Christ be with your spirit. So be it."
-        }
-      ],
-      "totalVerses": 25,
-      "footnotes": []
+      "notes": [
+        "The name Onesimus means ‘good helper’."
+      ]
     }
   ]
 }

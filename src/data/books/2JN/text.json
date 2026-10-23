@@ -1,139 +1,114 @@
 {
-  "translation": "EasyEnglish Bible",
-  "book": "2 John",
-  "bookId": "2JN",
+  "id": "2JN",
+  "name": "2 John",
+  "slug": "2-john",
+  "translation": "EasyEnglish Bible (EASY)",
+  "publisher": "MissionAssist UK",
+  "referenceUrl": "https://www.easyenglish.bible/bible/easy/2-john/",
   "totalChapters": 1,
-  "copyrightNotice": "Scripture quotations are from the EasyEnglish Bible / Bible in Basic English. Public Domain.",
-  "officialSourceUrl": "https://www.easyenglish.bible/bible/easy/2-john/1/",
+  "totalVerses": 13,
   "chapters": [
     {
-      "book": "2 John",
       "chapter": 1,
       "title": "2 John 1",
-      "subtitle": "2 John Chapter 1",
+      "subtitle": "",
+      "totalVerses": 13,
+      "sourceUrl": "https://www.easyenglish.bible/bible/easy/2-john/1/",
       "sections": [
         {
-          "heading": "2 John Chapter 1",
+          "heading": "John writes to a special lady and her children",
           "items": [
             [
               {
                 "verse": 1,
-                "text": "I, a ruler in the church, send word to the noble sister who is of God's selection, and to her children, for whom I have true love; and not only I, but all who have knowledge of what is true;"
+                "text": "This letter comes from me, the leader of the believers. I am writing to you, a special lady that God has chosen, and to your children. I love all of you, because you have believed God's true message. And I am not the only one who loves you. Everyone who knows the true message about God really loves you."
               },
               {
                 "verse": 2,
-                "text": "Because of this true knowledge which is in us, and will be with us for ever:"
-              },
-              {
-                "verse": 3,
-                "text": "May grace, mercy, and peace be with us from God the Father, and from Jesus Christ, the Son of the Father, in all true love."
-              },
-              {
-                "verse": 4,
-                "text": "It gave me great joy to see some of your children walking in the true way, even as we were ordered to do by the Father."
+                "text": "I love you because we have all come to understand what is true. It will remain with us for ever."
               }
             ],
+            [
+              {
+                "verse": 3,
+                "text": "God our Father, and his Son Jesus Christ will help us. He will be kind to us and he will give us peace in our minds. This will happen because God loves us and because we believe his true message."
+              }
+            ],
+            [
+              {
+                "verse": 4,
+                "text": "I was very happy to hear about some of your children. I am happy because they are living in a good way. They are obeying the true message about God. They are doing what God our Father has told us to do."
+              }
+            ]
+          ]
+        },
+        {
+          "heading": "Continue to love each other",
+          "items": [
             [
               {
                 "verse": 5,
-                "text": "And now, my sister, I make a request to you, not sending you a new law, but the law which we had from the first, that we have love for one another."
+                "text": "So now, dear lady, I want you to do something. I want all of us to love one another. I am not telling you a new command to obey. This is a command that we have had from the beginning."
               },
               {
                 "verse": 6,
-                "text": "And love is the keeping of his laws. This is the law which was given to you from the first, so that you might keep it."
-              },
+                "text": "How do we show real love? We show it when we live in a way that makes God happy. We obey his commands. He tells us to love one another, and that is how you should live. You have heard that command from the beginning."
+              }
+            ]
+          ]
+        },
+        {
+          "heading": "Do not believe false teachers",
+          "items": [
+            [
               {
                 "verse": 7,
-                "text": "Because a number of false teachers have gone out into the world, who do not give witness that Jesus Christ came in the flesh. Such a one is a false teacher and Antichrist."
+                "text": "I say this because many false teachers are travelling around everywhere. They do not agree that Jesus Christ was born as a human baby. People like that are telling lies. They are enemies of Christ."
               },
               {
                 "verse": 8,
-                "text": "Keep watch over yourselves, so that you do not make our work of no effect, but may get your full reward."
+                "text": "So be careful! Do not believe their lies. Do not lose the good things that we have worked for. Make sure that you receive all the good things that God has promised to give you."
+              },
+              {
+                "verse": 9,
+                "text": "Remember the message which Christ taught. Anyone who teaches his own ideas instead of Christ's true message does not belong to God. Continue to believe what Christ taught. Anyone who does that belongs to God the Father and to his Son, Jesus."
               }
             ],
             [
               {
-                "verse": 9,
-                "text": "Anyone who goes on and does not keep to the teaching of Christ, has not God: he who keeps to the teaching has the Father and the Son."
-              },
-              {
                 "verse": 10,
-                "text": "If anyone comes to you not having this teaching, do not take him into your house or give him words of love:"
+                "text": "Someone may come to you and teach you something that is different. Do not receive that person into your house. Do not receive him as a Christian."
               },
               {
                 "verse": 11,
-                "text": "For he who gives him words of love has a part in his evil works."
-              },
+                "text": "If you receive people like that as Christian people, you are making yourself the same as them. You also are doing the same kind of bad work."
+              }
+            ]
+          ]
+        },
+        {
+          "heading": "John hopes to visit the believers",
+          "items": [
+            [
               {
                 "verse": 12,
-                "text": "Having much to say to you, it is not my purpose to put it all down with paper and ink: but I am hoping to come to you, and to have talk with you face to face, so that your joy may be full."
+                "text": "I want to tell you many more things, but I do not want to write about them in a letter. Instead, I hope to come and visit you. Then I can see you and we can talk together. Then we will be completely happy."
               }
             ],
             [
               {
                 "verse": 13,
-                "text": "The children of your noble sister, who is of God's selection, send you their love."
+                "text": "The believers here say ‘hello’ to you. They are the children of your sister that God has chosen."
               }
             ]
           ]
         }
       ],
-      "verses": [
-        {
-          "verse": 1,
-          "text": "I, a ruler in the church, send word to the noble sister who is of God's selection, and to her children, for whom I have true love; and not only I, but all who have knowledge of what is true;"
-        },
-        {
-          "verse": 2,
-          "text": "Because of this true knowledge which is in us, and will be with us for ever:"
-        },
-        {
-          "verse": 3,
-          "text": "May grace, mercy, and peace be with us from God the Father, and from Jesus Christ, the Son of the Father, in all true love."
-        },
-        {
-          "verse": 4,
-          "text": "It gave me great joy to see some of your children walking in the true way, even as we were ordered to do by the Father."
-        },
-        {
-          "verse": 5,
-          "text": "And now, my sister, I make a request to you, not sending you a new law, but the law which we had from the first, that we have love for one another."
-        },
-        {
-          "verse": 6,
-          "text": "And love is the keeping of his laws. This is the law which was given to you from the first, so that you might keep it."
-        },
-        {
-          "verse": 7,
-          "text": "Because a number of false teachers have gone out into the world, who do not give witness that Jesus Christ came in the flesh. Such a one is a false teacher and Antichrist."
-        },
-        {
-          "verse": 8,
-          "text": "Keep watch over yourselves, so that you do not make our work of no effect, but may get your full reward."
-        },
-        {
-          "verse": 9,
-          "text": "Anyone who goes on and does not keep to the teaching of Christ, has not God: he who keeps to the teaching has the Father and the Son."
-        },
-        {
-          "verse": 10,
-          "text": "If anyone comes to you not having this teaching, do not take him into your house or give him words of love:"
-        },
-        {
-          "verse": 11,
-          "text": "For he who gives him words of love has a part in his evil works."
-        },
-        {
-          "verse": 12,
-          "text": "Having much to say to you, it is not my purpose to put it all down with paper and ink: but I am hoping to come to you, and to have talk with you face to face, so that your joy may be full."
-        },
-        {
-          "verse": 13,
-          "text": "The children of your noble sister, who is of God's selection, send you their love."
-        }
-      ],
-      "totalVerses": 13,
-      "footnotes": []
+      "notes": [
+        "When John wrote this letter to ‘a special lady’, he may have meant a group ofbelievers. Or he may have meant someone who had a home where the believers met.",
+        "Christ is a name for Jesus in theGreeklanguage that means the same asMessiahin theHebrewlanguage. It means someone that God chose as a special king for his people.",
+        "John is talking about the group ofbelieverswho are with him. The words ‘lady’ (in verse 1) and ‘sister’ (in verse 13) probably mean the groups of believers in two places."
+      ]
     }
   ]
 }

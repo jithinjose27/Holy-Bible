@@ -1,788 +1,586 @@
 {
-  "translation": "EasyEnglish Bible",
-  "book": "2 Timothy",
-  "bookId": "2TI",
+  "id": "2TI",
+  "name": "2 Timothy",
+  "slug": "2-timothy",
+  "translation": "EasyEnglish Bible (EASY)",
+  "publisher": "MissionAssist UK",
+  "referenceUrl": "https://www.easyenglish.bible/bible/easy/2-timothy/",
   "totalChapters": 4,
-  "copyrightNotice": "Scripture quotations are from the EasyEnglish Bible / Bible in Basic English. Public Domain.",
-  "officialSourceUrl": "https://www.easyenglish.bible/bible/easy/2-timothy/1/",
+  "totalVerses": 83,
   "chapters": [
     {
-      "book": "2 Timothy",
       "chapter": 1,
       "title": "2 Timothy 1",
-      "subtitle": "2 Timothy Chapter 1",
+      "subtitle": "",
+      "totalVerses": 18,
+      "sourceUrl": "https://www.easyenglish.bible/bible/easy/2-timothy/1/",
       "sections": [
         {
-          "heading": "2 Timothy Chapter 1",
+          "heading": "Paul writes a second letter to Timothy",
           "items": [
             [
               {
                 "verse": 1,
-                "text": "Paul, an Apostle of Jesus Christ by the purpose of God, in the hope of the life which is in Christ Jesus,"
-              },
+                "text": "This letter is from me, Paul. God chose me to be an apostle of Christ Jesus. God sent me to tell people about the true life that he has promised us. We receive this life when we belong to Christ Jesus."
+              }
+            ],
+            [
               {
                 "verse": 2,
-                "text": "To Timothy, my well-loved child: Grace, mercy, peace, from God the Father and Christ Jesus our Lord."
-              },
+                "text": "I am writing to you, Timothy. You are like my own child, and I love you very much."
+              }
+            ],
+            [
+              {
+                "verse": 2,
+                "text": "I pray that God the Father and Christ Jesus our Lord will continue to help you and be kind to you. I pray that they will give you peace in your mind."
+              }
+            ],
+            [
               {
                 "verse": 3,
-                "text": "I give praise to God, whose servant I have been, with a heart free from sin, from the time of my fathers, because in my prayers at all times the thought of you is with me, night and day"
+                "text": "Like my ancestors, I serve God in a good way, that I know is right. When I pray to God, at night and during the day, I always remember to pray for you. And I thank God for you."
               },
               {
                 "verse": 4,
-                "text": "Desiring to see you, keeping in my memory your weeping, so that I may be full of joy;"
+                "text": "I remember how you wept when I said ‘goodbye’ to you. I want to see you again very much, so that I may be completely happy."
               }
             ],
             [
               {
                 "verse": 5,
-                "text": "Having in mind your true faith, which first was in your mother's mother Lois, and in your mother Eunice, and, I am certain, is now in you."
+                "text": "I also remember how you truly believe in Christ. Your grandmother, Lois, and your mother, Eunice, already believed in Christ before you did. Now I am sure that you yourself also really trust him."
               },
               {
                 "verse": 6,
-                "text": "For this reason I say to you, Let that grace of God which is in you, given to you by my hands, have living power."
+                "text": "For that reason, I want you to remember the spiritual gift that God gave you when I put my hands on you. Use that gift more and more to serve God well."
               },
               {
                 "verse": 7,
-                "text": "For God did not give us a spirit of fear, but of power and of love and of self-control."
-              },
+                "text": "Be strong, because God has given us his Spirit. And his Spirit does not cause us to be afraid. Instead, his Spirit causes us to be powerful to serve God. He helps us to love God and other people. And he helps us to control ourselves properly."
+              }
+            ]
+          ]
+        },
+        {
+          "heading": "Paul tells Timothy to teach God's message faithfully",
+          "items": [
+            [
               {
                 "verse": 8,
-                "text": "Have no feeling of shame, then, for the witness of our Lord or for me, his prisoner: but undergo all things for the good news in the measure of the power of God;"
+                "text": "So do not be ashamed of the message about our Lord that we tell people. And do not be ashamed of me because I am in a prison. I am a prisoner because I serve Christ. You must understand that you will have trouble because you tell people the good news about Jesus Christ. So be ready to have the same kind of trouble as I have. Let God make you strong when you have trouble."
               }
             ],
             [
               {
                 "verse": 9,
-                "text": "Who gave us salvation, marking us out for his purpose, not on account of our works, but in the measure of his purpose and his grace, which was given to us in Christ Jesus before times eternal,"
+                "text": "God is the one who has saved us. He has chosen us to serve him with good, clean lives. He did not save us because of any good things that we have done. He chose to do it because he is very kind. He decided to do that before time began, because of what Christ Jesus would do for us."
               },
               {
                 "verse": 10,
-                "text": "But has now been made clear by the revelation of our Saviour Christ Jesus, who put an end to death and made life unending come to light through the good news,"
-              },
+                "text": "Now Christ Jesus has come to save us, and we have seen how kind God is. Christ has destroyed death's power over us. We have heard the good news that he brought to us. So now we understand about life with God for ever."
+              }
+            ],
+            [
               {
                 "verse": 11,
-                "text": "Of which I was made a preacher and an Apostle and a teacher;"
+                "text": "That is the same good news that God has chosen me to tell to people. He has sent me as his apostle to teach his message to people."
               },
               {
                 "verse": 12,
-                "text": "And for which I undergo these things: but I have no feeling of shame. For I have knowledge of him in whom I have faith, and I am certain that he is able to keep that which I have given into his care till that day."
+                "text": "That is why I am suffering like this. But I am not ashamed to be in prison. I have believed in Christ and I know him well. I know that I can trust him to keep his message safe. God has given me the authority to speak that message to people at this time. Christ has the power to keep it safe until that great day when he comes back."
               }
             ],
             [
               {
                 "verse": 13,
-                "text": "Keep the form of those true words which you had from me, in faith and love which is in Christ Jesus."
+                "text": "You have heard me tell you about God's true message. Let those words be an example to you, so that you also teach what is true. Do this because you belong to Christ Jesus. Continue to trust him and to love his people."
               },
               {
                 "verse": 14,
-                "text": "That good thing which was given to you keep safe, through the Holy Spirit which is in us."
-              },
+                "text": "God has given you his good message to keep safe. God's Holy Spirit, who lives in us, will help you to keep it safe."
+              }
+            ]
+          ]
+        },
+        {
+          "heading": "Onesiphorus has helped Paul in prison",
+          "items": [
+            [
               {
                 "verse": 15,
-                "text": "You have had news that all those in Asia went away from me; among whom are Phygelus and Hermogenes:"
-              },
-              {
-                "verse": 16,
-                "text": "May the Lord give mercy to the house of Onesiphorus because he frequently gave me help, and had no feeling of shame because I was in chains;"
+                "text": "You know that almost all the believers in Asia region have turned against me. They include Phygelus and Hermogenes."
               }
             ],
             [
               {
+                "verse": 16,
+                "text": "But Onesiphorus has stayed to help me. I pray that the Lord will be kind to his family. He often came to help me not to be sad. I am in prison, but he was not ashamed to help me."
+              },
+              {
                 "verse": 17,
-                "text": "But when he was in Rome, he went in search of me everywhere, and came to me"
+                "text": "When he came here to Rome, he looked carefully for me until he found me."
               },
               {
                 "verse": 18,
-                "text": "(May he have the Lord's mercy in that day); and of all he did for me at Ephesus you have full knowledge."
+                "text": "I pray that the Lord will be kind to Onesiphorus on that great day when he judges people. You know very well how much Onesiphorus helped me in Ephesus."
               }
             ]
           ]
         }
       ],
-      "verses": [
-        {
-          "verse": 1,
-          "text": "Paul, an Apostle of Jesus Christ by the purpose of God, in the hope of the life which is in Christ Jesus,"
-        },
-        {
-          "verse": 2,
-          "text": "To Timothy, my well-loved child: Grace, mercy, peace, from God the Father and Christ Jesus our Lord."
-        },
-        {
-          "verse": 3,
-          "text": "I give praise to God, whose servant I have been, with a heart free from sin, from the time of my fathers, because in my prayers at all times the thought of you is with me, night and day"
-        },
-        {
-          "verse": 4,
-          "text": "Desiring to see you, keeping in my memory your weeping, so that I may be full of joy;"
-        },
-        {
-          "verse": 5,
-          "text": "Having in mind your true faith, which first was in your mother's mother Lois, and in your mother Eunice, and, I am certain, is now in you."
-        },
-        {
-          "verse": 6,
-          "text": "For this reason I say to you, Let that grace of God which is in you, given to you by my hands, have living power."
-        },
-        {
-          "verse": 7,
-          "text": "For God did not give us a spirit of fear, but of power and of love and of self-control."
-        },
-        {
-          "verse": 8,
-          "text": "Have no feeling of shame, then, for the witness of our Lord or for me, his prisoner: but undergo all things for the good news in the measure of the power of God;"
-        },
-        {
-          "verse": 9,
-          "text": "Who gave us salvation, marking us out for his purpose, not on account of our works, but in the measure of his purpose and his grace, which was given to us in Christ Jesus before times eternal,"
-        },
-        {
-          "verse": 10,
-          "text": "But has now been made clear by the revelation of our Saviour Christ Jesus, who put an end to death and made life unending come to light through the good news,"
-        },
-        {
-          "verse": 11,
-          "text": "Of which I was made a preacher and an Apostle and a teacher;"
-        },
-        {
-          "verse": 12,
-          "text": "And for which I undergo these things: but I have no feeling of shame. For I have knowledge of him in whom I have faith, and I am certain that he is able to keep that which I have given into his care till that day."
-        },
-        {
-          "verse": 13,
-          "text": "Keep the form of those true words which you had from me, in faith and love which is in Christ Jesus."
-        },
-        {
-          "verse": 14,
-          "text": "That good thing which was given to you keep safe, through the Holy Spirit which is in us."
-        },
-        {
-          "verse": 15,
-          "text": "You have had news that all those in Asia went away from me; among whom are Phygelus and Hermogenes:"
-        },
-        {
-          "verse": 16,
-          "text": "May the Lord give mercy to the house of Onesiphorus because he frequently gave me help, and had no feeling of shame because I was in chains;"
-        },
-        {
-          "verse": 17,
-          "text": "But when he was in Rome, he went in search of me everywhere, and came to me"
-        },
-        {
-          "verse": 18,
-          "text": "(May he have the Lord's mercy in that day); and of all he did for me at Ephesus you have full knowledge."
-        }
-      ],
-      "totalVerses": 18,
-      "footnotes": []
+      "notes": [
+        "The Christian leaders had put their hands on Timothy and they had prayed for him when he started to serve God. See1 Timothy 4:14. At that time, God had given Timothy aspiritualgift so that he could be a good leader of thechurchand a teacher.",
+        "Christ had chosen Paul to teach his good news. So Paul is probably saying that hetrustsChrist to keep that message safe. The great day when Jesus comes back is the day when he willjudgeeveryone.",
+        "At the time of the Bible, Asia was aregionwhich the Romans ruled. It was in the west part of the country that we now call Turkey."
+      ]
     },
     {
-      "book": "2 Timothy",
       "chapter": 2,
       "title": "2 Timothy 2",
-      "subtitle": "2 Timothy Chapter 2",
+      "subtitle": "",
+      "totalVerses": 26,
+      "sourceUrl": "https://www.easyenglish.bible/bible/easy/2-timothy/2/",
       "sections": [
         {
-          "heading": "2 Timothy Chapter 2",
+          "heading": "Timothy should serve God faithfully like a good soldier",
           "items": [
             [
               {
                 "verse": 1,
-                "text": "So then, my child, be strong in the grace which is in Christ Jesus."
+                "text": "Timothy, you are like my own child. Let God make you strong. He is kind, so trust him to help you, because you belong to Christ Jesus."
               },
               {
                 "verse": 2,
-                "text": "And the things which I have said to you before a number of witnesses, give to those of the faith, so that they may be teachers of others."
-              },
+                "text": "You have heard the message that I have taught. Many other people also heard it and they agree that it is true. Now you must tell the same message to other people who will be able to teach it to even more people. They should be people that you can trust as honest people and who can teach well."
+              }
+            ],
+            [
               {
                 "verse": 3,
-                "text": "Be ready to do without the comforts of life, as one of the army of Christ Jesus."
+                "text": "Be patient through the troubles that we Christians have. Be brave and strong, like a good soldier for Christ Jesus."
               },
               {
                 "verse": 4,
-                "text": "A fighting man, when he is with the army, keeps himself free from the business of this life so that he may be pleasing to him who has taken him into his army."
-              }
-            ],
-            [
+                "text": "Any soldier who fights in a war does not become busy with other things. He only wants to fight well to make his captain happy."
+              },
               {
                 "verse": 5,
-                "text": "And if a man takes part in a competition he does not get the crown if he has not kept the rules."
+                "text": "It is the same with an athlete who runs a race. He cannot win the race unless he obeys the rules."
               },
               {
                 "verse": 6,
-                "text": "It is right for the worker in the fields to be the first to take of the fruit."
+                "text": "A farmer works hard to grow plants for food. So he should be the first person to receive some of that food."
               },
               {
                 "verse": 7,
-                "text": "Give thought to what I say; for the Lord will give you wisdom in all things."
-              },
-              {
-                "verse": 8,
-                "text": "Keep in mind Jesus Christ, of the seed of David, who came back from the dead, as my good news gives witness:"
+                "text": "Think carefully about what I am saying to you. The Lord will help you to understand all these things."
               }
             ],
             [
               {
-                "verse": 9,
-                "text": "In which I put up with the hardest conditions, even prison chains, like one who has done a crime; but the word of God is not in chains."
+                "verse": 8,
+                "text": "Jesus Christ is a descendant of King David. God caused Jesus to become alive again after his death. Remember that! These facts are part of the good news that I tell people."
               },
+              {
+                "verse": 9,
+                "text": "And I have many troubles because I tell that good news to people. They have even put me in a prison, like someone who has done something bad. But nobody can keep God's message in a prison!"
+              }
+            ],
+            [
               {
                 "verse": 10,
-                "text": "But I undergo all things for the saints, so that they may have salvation in Christ Jesus with eternal glory."
-              },
+                "text": "So I continue to be patient and brave during all these troubles. I do that so that I can help the people that God has chosen to belong to him. I want God to save them too, because of what Christ Jesus has done for them. As a result, they will live with God for ever, in the beautiful place where he lives."
+              }
+            ],
+            [
               {
                 "verse": 11,
-                "text": "This is a true saying: If we undergo death with him, then will we be living with him:"
-              },
+                "text": "We all know that this is true:"
+              }
+            ],
+            [
+              {
+                "verse": 11,
+                "text": "‘If we have died with Christ in this world,"
+              }
+            ],
+            [
+              {
+                "verse": 11,
+                "text": "we will also live with him in the future world."
+              }
+            ],
+            [
               {
                 "verse": 12,
-                "text": "If we go on to the end, then we will be ruling with him: if we say we have no knowledge of him, then he will say he has no knowledge of us:"
+                "text": "If we continue to be strong during troubles here,"
+              }
+            ],
+            [
+              {
+                "verse": 12,
+                "text": "we will also rule with him there in heaven."
+              }
+            ],
+            [
+              {
+                "verse": 12,
+                "text": "But if we say that we do not know Christ,"
+              }
+            ],
+            [
+              {
+                "verse": 12,
+                "text": "he will also say that he does not know us."
               }
             ],
             [
               {
                 "verse": 13,
-                "text": "If we are without faith, still he keeps faith, for he will never be untrue to himself."
-              },
+                "text": "Even if we no longer trust him,"
+              }
+            ],
+            [
+              {
+                "verse": 13,
+                "text": "he will still be someone that people can trust."
+              }
+            ],
+            [
+              {
+                "verse": 13,
+                "text": "He will always remain true to his nature.’"
+              }
+            ]
+          ]
+        },
+        {
+          "heading": "Serve God in a way that pleases him",
+          "items": [
+            [
               {
                 "verse": 14,
-                "text": "Put these things before them, giving them orders in the name of the Lord to keep themselves from fighting about words, which is of no profit, only causing error in their hearers."
-              },
+                "text": "Continue to tell these things to God's people there, so that they remember them. Use God's authority and warn them not to argue about words. To argue about little things does not help anyone. Instead, it destroys those people who listen."
+              }
+            ],
+            [
               {
                 "verse": 15,
-                "text": "Let it be your care to get the approval of God, as a workman who has no cause for shame, giving the true word in the right way."
+                "text": "Always try very much to serve God in a way that makes him happy. Then he will accept you as a good worker that he can trust. You must teach God's true message correctly. Then you will have no reason to be ashamed of your work."
               },
               {
                 "verse": 16,
-                "text": "But take no part in wrong and foolish talk, for those who do so will go farther into evil,"
-              }
-            ],
-            [
+                "text": "But stay away from people who talk about silly things that are not important to God. A message like that causes people to live more and more in a way that does not please God."
+              },
               {
                 "verse": 17,
-                "text": "And their words will be like poisoned wounds in the flesh: such are Hymenaeus and Philetus;"
+                "text": "It causes people to become sick in their spirits. More and more people become sick as a result. Hymenaeus and Philetus are two of the people who teach that kind of false message."
               },
               {
                 "verse": 18,
-                "text": "Men whose ideas are all false, who say that the coming back from the dead has even now taken place, overturning the faith of some."
-              },
-              {
-                "verse": 19,
-                "text": "But God's strong base is unchanging, having this sign, The Lord has knowledge of those who are his: and, Let everyone by whom the name of the Lord is named be turned away from evil."
-              },
-              {
-                "verse": 20,
-                "text": "Now in a great house there are not only vessels of gold and silver, but others of wood and earth, and some which are honoured and some without honour."
+                "text": "They no longer teach God's true message. They say that God will not raise dead people any more. They say that he has already given life to dead people. In this way they have confused the minds of some people, so that they no longer believe in Christ."
               }
             ],
             [
               {
-                "verse": 21,
-                "text": "If a man makes himself clean from these, he will be a vessel for honour, made holy, ready for the master's use, ready for every good work."
+                "verse": 19,
+                "text": "But the group of true believers remains strong, like the foundation under a building. God has written his message there. It says, ‘The Lord knows who his own people are.’ It also says, ‘Everyone who says that he belongs to the Lord must stop doing bad things.’"
+              }
+            ],
+            [
+              {
+                "verse": 20,
+                "text": "In a big house, there are different kinds of dishes. There are some dishes that people have made from gold or from silver. They see those dishes as valuable things. There are also dishes that people have made from wood or from clay. Those dishes are not special things and they may get dirty."
               },
+              {
+                "verse": 21,
+                "text": "It is like that with people who serve God as their Master. People who keep themselves clean from those bad things will be like valuable dishes. Their master can use them for a special purpose. They will be ready for him to use them for every kind of good work."
+              }
+            ],
+            [
               {
                 "verse": 22,
-                "text": "But keep yourself from those desires of the flesh which are strong when the body is young, and go after righteousness, faith, love, peace, with those whose prayers go up to the Lord from a clean heart."
-              },
+                "text": "Be careful not to do the kind of bad things that young people often want to do. Instead, always try to do what is right and fair. Continue to trust God. Love other people and live in peace with them. Join with people who are clean inside and who pray to the Lord."
+              }
+            ],
+            [
               {
                 "verse": 23,
-                "text": "And put away foolish and uncontrolled questionings, seeing that they are a cause of trouble."
+                "text": "Do not join with people who want to argue about silly things that do not mean anything. You know that silly things like that only cause people to argue."
               },
               {
                 "verse": 24,
-                "text": "For it is not right for the Lord's servant to make trouble, but he is to be gentle to all, ready in teaching, putting up with wrong,"
-              }
-            ],
-            [
+                "text": "As the Lord's servant, you must not argue. Instead, you must be kind to everyone. You must be able to teach them well. And you must be patient when people cause you to have trouble."
+              },
               {
                 "verse": 25,
-                "text": "Gently guiding those who go against the teaching; if by chance God may give them a change of heart and true knowledge,"
+                "text": "When people speak against God's true message, teach them carefully. Help them to understand what is right. Maybe God will change how they think so that they believe the true message."
               },
               {
                 "verse": 26,
-                "text": "And so they may get themselves free from the net of the Evil One, being made the prisoners of the Lord's servant, for the purpose of God."
+                "text": "Their minds will start to think clearly. It is the devil who has made them believe wrong things. He has made them do what he wants. Now they can get free from his power."
               }
             ]
           ]
         }
       ],
-      "verses": [
-        {
-          "verse": 1,
-          "text": "So then, my child, be strong in the grace which is in Christ Jesus."
-        },
-        {
-          "verse": 2,
-          "text": "And the things which I have said to you before a number of witnesses, give to those of the faith, so that they may be teachers of others."
-        },
-        {
-          "verse": 3,
-          "text": "Be ready to do without the comforts of life, as one of the army of Christ Jesus."
-        },
-        {
-          "verse": 4,
-          "text": "A fighting man, when he is with the army, keeps himself free from the business of this life so that he may be pleasing to him who has taken him into his army."
-        },
-        {
-          "verse": 5,
-          "text": "And if a man takes part in a competition he does not get the crown if he has not kept the rules."
-        },
-        {
-          "verse": 6,
-          "text": "It is right for the worker in the fields to be the first to take of the fruit."
-        },
-        {
-          "verse": 7,
-          "text": "Give thought to what I say; for the Lord will give you wisdom in all things."
-        },
-        {
-          "verse": 8,
-          "text": "Keep in mind Jesus Christ, of the seed of David, who came back from the dead, as my good news gives witness:"
-        },
-        {
-          "verse": 9,
-          "text": "In which I put up with the hardest conditions, even prison chains, like one who has done a crime; but the word of God is not in chains."
-        },
-        {
-          "verse": 10,
-          "text": "But I undergo all things for the saints, so that they may have salvation in Christ Jesus with eternal glory."
-        },
-        {
-          "verse": 11,
-          "text": "This is a true saying: If we undergo death with him, then will we be living with him:"
-        },
-        {
-          "verse": 12,
-          "text": "If we go on to the end, then we will be ruling with him: if we say we have no knowledge of him, then he will say he has no knowledge of us:"
-        },
-        {
-          "verse": 13,
-          "text": "If we are without faith, still he keeps faith, for he will never be untrue to himself."
-        },
-        {
-          "verse": 14,
-          "text": "Put these things before them, giving them orders in the name of the Lord to keep themselves from fighting about words, which is of no profit, only causing error in their hearers."
-        },
-        {
-          "verse": 15,
-          "text": "Let it be your care to get the approval of God, as a workman who has no cause for shame, giving the true word in the right way."
-        },
-        {
-          "verse": 16,
-          "text": "But take no part in wrong and foolish talk, for those who do so will go farther into evil,"
-        },
-        {
-          "verse": 17,
-          "text": "And their words will be like poisoned wounds in the flesh: such are Hymenaeus and Philetus;"
-        },
-        {
-          "verse": 18,
-          "text": "Men whose ideas are all false, who say that the coming back from the dead has even now taken place, overturning the faith of some."
-        },
-        {
-          "verse": 19,
-          "text": "But God's strong base is unchanging, having this sign, The Lord has knowledge of those who are his: and, Let everyone by whom the name of the Lord is named be turned away from evil."
-        },
-        {
-          "verse": 20,
-          "text": "Now in a great house there are not only vessels of gold and silver, but others of wood and earth, and some which are honoured and some without honour."
-        },
-        {
-          "verse": 21,
-          "text": "If a man makes himself clean from these, he will be a vessel for honour, made holy, ready for the master's use, ready for every good work."
-        },
-        {
-          "verse": 22,
-          "text": "But keep yourself from those desires of the flesh which are strong when the body is young, and go after righteousness, faith, love, peace, with those whose prayers go up to the Lord from a clean heart."
-        },
-        {
-          "verse": 23,
-          "text": "And put away foolish and uncontrolled questionings, seeing that they are a cause of trouble."
-        },
-        {
-          "verse": 24,
-          "text": "For it is not right for the Lord's servant to make trouble, but he is to be gentle to all, ready in teaching, putting up with wrong,"
-        },
-        {
-          "verse": 25,
-          "text": "Gently guiding those who go against the teaching; if by chance God may give them a change of heart and true knowledge,"
-        },
-        {
-          "verse": 26,
-          "text": "And so they may get themselves free from the net of the Evil One, being made the prisoners of the Lord's servant, for the purpose of God."
-        }
-      ],
-      "totalVerses": 26,
-      "footnotes": []
+      "notes": [
+        "An athlete is a strong person who runs in games andraces.",
+        "David was a great king of Israel's people, about 1,000 years before Christ came to the earth. See2 Samuel 7:8-9;8:15.",
+        "When Jesus died on thecrossto save us from oursins, it is as if we also died with him. God hasforgivenus for our sins and we have become like new people. Our old lives have finished and we have started to live new lives.",
+        "These words may be part of a song that the Christians knew.",
+        "SeeNumbers 16:5."
+      ]
     },
     {
-      "book": "2 Timothy",
       "chapter": 3,
       "title": "2 Timothy 3",
-      "subtitle": "2 Timothy Chapter 3",
+      "subtitle": "",
+      "totalVerses": 17,
+      "sourceUrl": "https://www.easyenglish.bible/bible/easy/2-timothy/3/",
       "sections": [
         {
-          "heading": "2 Timothy Chapter 3",
+          "heading": "People will turn away from God in the last days",
           "items": [
             [
               {
                 "verse": 1,
-                "text": "But be certain of this, that in the last days times of trouble will come."
+                "text": "Let me tell you this. During the last days of this world, there will be times of great trouble."
               },
               {
                 "verse": 2,
-                "text": "For men will be lovers of self, lovers of money, uplifted in pride, given to bitter words, going against the authority of their fathers, never giving praise, having no religion,"
+                "text": "People will love only themselves, and they will want lots of money for themselves. They will be proud and they will say how great they are. They will insult other people. They will not obey their parents. They will not thank anyone who helps them. They will not respect anything that is good."
               },
               {
                 "verse": 3,
-                "text": "Without natural love, bitter haters, saying evil of others, violent and uncontrolled, hating all good,"
+                "text": "They will not be kind to other people, but they will like to argue. They will tell lies to hurt other people. They will be unable to control themselves properly. They will be cruel and they will hate anything that is good."
               },
               {
                 "verse": 4,
-                "text": "False to their friends, acting without thought, lifted up in mind, loving pleasure more than God;"
+                "text": "People will turn against their friends. They will do foolish things. They will boast that they are very important. They will not love God, but instead they will only want to enjoy themselves."
+              },
+              {
+                "verse": 5,
+                "text": "Those people will seem to be serving God. But really they refuse to accept God's power to help them. You must stay away from people like that."
               }
             ],
             [
               {
-                "verse": 5,
-                "text": "Having a form of religion, but turning their backs on the power of it: go not with these."
-              },
-              {
                 "verse": 6,
-                "text": "For these are they who go secretly into houses, making prisoners of foolish women, weighted down with sin, turned from the way by their evil desires,"
+                "text": "Among those people, there are some men who find a way into people's homes. They get power over silly women who feel very guilty about their sins. Those women want to do wrong things and they cannot stop themselves."
               },
               {
                 "verse": 7,
-                "text": "Ever learning, and never coming to the knowledge of what is true."
+                "text": "They are always trying to learn new things, but they can never really understand God's true message."
               },
               {
                 "verse": 8,
-                "text": "And as James and Jambres went against Moses, so do these go against what is true: men of evil minds, who, tested by faith, are seen to be false."
-              }
-            ],
-            [
-              {
-                "verse": 9,
-                "text": "But they will go no farther: for their foolish behaviour will be clear to all men, as theirs was in the end."
+                "text": "These are people who speak against God's true message, in the same way that Jannes and Jambres spoke against Moses. Their minds have become confused. The way that they serve God is false."
               },
               {
+                "verse": 9,
+                "text": "But they will not continue to do many more bad things. Everyone will see clearly that they are fools. That is what happened to Jannes and Jambres."
+              }
+            ]
+          ]
+        },
+        {
+          "heading": "Timothy should expect to suffer like Paul",
+          "items": [
+            [
+              {
                 "verse": 10,
-                "text": "But you took as your example my teaching, behaviour, purpose, and faith; my long waiting, my love, my quiet undergoing of trouble;"
+                "text": "But you, Timothy, have heard my message and you know it well. You also know the way in which I have lived. You know my purpose in life. You know how I trust God. You know how patient I have been. You know my love for God and for other people. You know that I have been strong during troubles."
               },
               {
                 "verse": 11,
-                "text": "My punishments and pain; the things which came to me at Antioch, at Iconium, at Lystra; the cruel attacks made on me: and the Lord made me free from them all."
-              },
-              {
-                "verse": 12,
-                "text": "Yes, and all whose purpose is to be living in the knowledge of God in Christ Jesus, will be cruelly attacked."
+                "text": "You also know what happened to me in the cities of Antioch, Iconium and Lystra. People caused me to suffer very much in those places. But I was patient and brave in those bad troubles! And the Lord kept me safe in all those dangerous times."
               }
             ],
             [
               {
-                "verse": 13,
-                "text": "Evil and false men will become worse and worse, using deceit and themselves overcome by deceit."
+                "verse": 12,
+                "text": "It is not only me. Every Christian who wants to live in a way that pleases God will have trouble from other people."
               },
               {
+                "verse": 13,
+                "text": "Bad people like that will become even worse. Some of them will teach a false message and people will believe their lies. Those false teachers even believe their own lies!"
+              }
+            ]
+          ]
+        },
+        {
+          "heading": "God has given us the Bible to show us what is right",
+          "items": [
+            [
+              {
                 "verse": 14,
-                "text": "But see that you keep to the teaching you have been given and the things of which you are certain, conscious of who has been your teacher;"
+                "text": "But you must continue to believe the things that you have learned. You know that those things are true. You know the teachers who taught you those things."
               },
               {
                 "verse": 15,
-                "text": "And that from the time when you were a child, you have had knowledge of the holy Writings, which are able to make you wise to salvation, through faith in Christ Jesus."
+                "text": "Even when you were a child, you already knew the message of the Bible. The Bible has taught you how you can be truly wise. You understand that God saves you because you believe in Christ Jesus."
               },
               {
                 "verse": 16,
-                "text": "Every holy Writing which comes from God is of profit for teaching, for training, for guiding, for education in righteousness:"
-              }
-            ],
-            [
+                "text": "Everything that is written in the Bible comes from God's Spirit. It helps us in many ways. The Bible teaches us what is true. It warns us when we are doing wrong things. It shows us what is right. It teaches us how to live good lives."
+              },
               {
                 "verse": 17,
-                "text": "So that the man of God may be complete, trained and made ready for every good work."
+                "text": "As a result, people who want to serve God can know how to live properly. They will be people who are ready to do all kinds of good things."
               }
             ]
           ]
         }
       ],
-      "verses": [
-        {
-          "verse": 1,
-          "text": "But be certain of this, that in the last days times of trouble will come."
-        },
-        {
-          "verse": 2,
-          "text": "For men will be lovers of self, lovers of money, uplifted in pride, given to bitter words, going against the authority of their fathers, never giving praise, having no religion,"
-        },
-        {
-          "verse": 3,
-          "text": "Without natural love, bitter haters, saying evil of others, violent and uncontrolled, hating all good,"
-        },
-        {
-          "verse": 4,
-          "text": "False to their friends, acting without thought, lifted up in mind, loving pleasure more than God;"
-        },
-        {
-          "verse": 5,
-          "text": "Having a form of religion, but turning their backs on the power of it: go not with these."
-        },
-        {
-          "verse": 6,
-          "text": "For these are they who go secretly into houses, making prisoners of foolish women, weighted down with sin, turned from the way by their evil desires,"
-        },
-        {
-          "verse": 7,
-          "text": "Ever learning, and never coming to the knowledge of what is true."
-        },
-        {
-          "verse": 8,
-          "text": "And as James and Jambres went against Moses, so do these go against what is true: men of evil minds, who, tested by faith, are seen to be false."
-        },
-        {
-          "verse": 9,
-          "text": "But they will go no farther: for their foolish behaviour will be clear to all men, as theirs was in the end."
-        },
-        {
-          "verse": 10,
-          "text": "But you took as your example my teaching, behaviour, purpose, and faith; my long waiting, my love, my quiet undergoing of trouble;"
-        },
-        {
-          "verse": 11,
-          "text": "My punishments and pain; the things which came to me at Antioch, at Iconium, at Lystra; the cruel attacks made on me: and the Lord made me free from them all."
-        },
-        {
-          "verse": 12,
-          "text": "Yes, and all whose purpose is to be living in the knowledge of God in Christ Jesus, will be cruelly attacked."
-        },
-        {
-          "verse": 13,
-          "text": "Evil and false men will become worse and worse, using deceit and themselves overcome by deceit."
-        },
-        {
-          "verse": 14,
-          "text": "But see that you keep to the teaching you have been given and the things of which you are certain, conscious of who has been your teacher;"
-        },
-        {
-          "verse": 15,
-          "text": "And that from the time when you were a child, you have had knowledge of the holy Writings, which are able to make you wise to salvation, through faith in Christ Jesus."
-        },
-        {
-          "verse": 16,
-          "text": "Every holy Writing which comes from God is of profit for teaching, for training, for guiding, for education in righteousness:"
-        },
-        {
-          "verse": 17,
-          "text": "So that the man of God may be complete, trained and made ready for every good work."
-        }
-      ],
-      "totalVerses": 17,
-      "footnotes": []
+      "notes": [
+        "Moses was a great leader of the Israelites, who gaveGod's lawsto the people. Jannes and Jambres may have been Egyptian men in the time of Moses. They didmagicfor the king of Egypt. SeeExodus 7:11-12,22;8:7,18-19;9:11.",
+        "SeeActs 13:50;14:1-6,19-20. Timothy's home was in Lystra. SeeActs 16:1-5.",
+        "When Paul wrote this letter to Timothy, people had only the first part of the Bible that we call theOld Testament. That part describes what happened before Jesus came to the earth. It was the Bible that the Jews read."
+      ]
     },
     {
-      "book": "2 Timothy",
       "chapter": 4,
       "title": "2 Timothy 4",
-      "subtitle": "2 Timothy Chapter 4",
+      "subtitle": "",
+      "totalVerses": 22,
+      "sourceUrl": "https://www.easyenglish.bible/bible/easy/2-timothy/4/",
       "sections": [
         {
-          "heading": "2 Timothy Chapter 4",
+          "heading": "Timothy must always be ready to teach God's message",
           "items": [
             [
               {
                 "verse": 1,
-                "text": "I give you orders, before God and Christ Jesus, who will be the judge of the living and the dead, and by his revelation and his kingdom;"
+                "text": "Timothy, I tell you this seriously, as God and Christ Jesus see everything that we do. When Christ Jesus comes to rule as king, he will judge everyone. He will judge the people who are alive and also those who have already died. When he appears, he will decide what should happen to them all. So I tell you this now:"
               },
               {
                 "verse": 2,
-                "text": "Be preaching the word at all times, in every place; make protests, say sharp words, give comfort, with long waiting and teaching;"
-              },
+                "text": "Tell God's message to people. Always be ready to speak God's message clearly to people, whether they want to listen to you or not. Warn people when they are doing something wrong. Tell them to stop doing wrong things, and explain to them what they ought to do. But be very patient while you teach them what is true."
+              }
+            ],
+            [
               {
                 "verse": 3,
-                "text": "For the time will come when they will not take the true teaching; but, moved by their desires, they will get for themselves a great number of teachers for the pleasure of hearing them;"
+                "text": "Do this, because a time will come when people will not listen to God's true message. Instead, they will want to hear all kinds of new messages that will make them happy. So they will find many teachers for themselves who will tell them what they want to hear."
               },
               {
                 "verse": 4,
-                "text": "And shutting their ears to what is true, will be turned away to belief in foolish stories."
+                "text": "People will refuse to listen to God's true message. Instead, they will want to listen to silly stories that are false."
+              },
+              {
+                "verse": 5,
+                "text": "But you yourself must continue to think seriously and clearly. Be patient and brave when troubles come. Continue to tell the good news about Christ to people. Do all the work that God has given you to do as his servant."
               }
             ],
             [
               {
-                "verse": 5,
-                "text": "But be self-controlled in all things, do without comfort, go on preaching the good news, completing the work which has been given you to do."
-              },
-              {
                 "verse": 6,
-                "text": "For I am even now being offered, and my end is near."
+                "text": "As for me, it is nearly time for me to die. My death will be like a drink offering that they pour out to God. My life as God's servant will end."
               },
               {
                 "verse": 7,
-                "text": "I have made a good fight, I have come to the end of my journey, I have kept the faith:"
+                "text": "I have worked to serve Christ well. I have finished everything that God wanted me to do. I am like a runner who has run to the end of the race. I have continued to believe God's true message."
               },
               {
                 "verse": 8,
-                "text": "From now on, the crown of righteousness is made ready for me, which the Lord, the upright judge, Will give to me at that day: and not only to me, but to all those who have had love for his revelation."
+                "text": "So now a gift is waiting for me. The Lord will make me completely right with him. That will be like a crown which the Lord will give me on that great day when he judges people. He is the judge who is fair and right. He will not only give that gift to me. He will give it to all those people who love him. They will be happy to see him when he comes again."
+              }
+            ]
+          ]
+        },
+        {
+          "heading": "Paul finishes his second letter to Timothy",
+          "items": [
+            [
+              {
+                "verse": 9,
+                "text": "Timothy, please come to see me as soon as you can."
+              },
+              {
+                "verse": 10,
+                "text": "Demas has left me and he has gone to Thessalonica city. He wanted to enjoy the things of this world too much. Crescens has gone to Galatia region. Titus has gone to Dalmatia region."
               }
             ],
             [
               {
-                "verse": 9,
-                "text": "Do your best to come to me before long:"
-              },
-              {
-                "verse": 10,
-                "text": "For Demas has gone away from me, for love of this present life, and has gone to Thessalonica: Crescens has gone to Galatia, Titus to Dalmatia."
-              },
-              {
                 "verse": 11,
-                "text": "Only Luke is with me. Get Mark and take him with you; for he is of use to me in the work."
+                "text": "Only Luke is with me now. Bring Mark with you when you come. He can help me very much with the work for God."
               },
               {
                 "verse": 12,
-                "text": "Tychicus I sent to Ephesus."
+                "text": "I have sent Tychicus to Ephesus."
               }
             ],
             [
               {
                 "verse": 13,
-                "text": "The coat which I did not take from Troas and which is with Carpus, get when you come, and the books, specially the papers."
-              },
-              {
-                "verse": 14,
-                "text": "Alexander the copper-worker did me much wrong: the Lord will give him the reward of his works:"
-              },
-              {
-                "verse": 15,
-                "text": "But be on the watch for him, for he was violent in his attacks on our teaching."
-              },
-              {
-                "verse": 16,
-                "text": "At my first meeting with my judges, no one took my part, but all went away from me. May it not be put to their account."
+                "text": "I left a coat with Carpus in Troas. Bring it when you come. Also bring the books for me. If you cannot bring all of them, then be sure to bring my special papers."
               }
             ],
             [
               {
+                "verse": 14,
+                "text": "Alexander, the man who makes things from metal, caused a lot of trouble for me. The Lord will punish him because of the wrong things that he did."
+              },
+              {
+                "verse": 15,
+                "text": "You must also be careful that he does not cause trouble for you. He argued very strongly against our message."
+              }
+            ],
+            [
+              {
+                "verse": 16,
+                "text": "I had to explain to a judge that I had not done anything wrong. The first time I did that, nobody helped me. All my friends stayed away. I pray that God will forgive them for that."
+              },
+              {
                 "verse": 17,
-                "text": "But the Lord was by my side and gave me strength; so that through me the news might be given out in full measure, and all the Gentiles might give ear: and I was taken out of the mouth of the lion."
+                "text": "But the Lord was there to help me. He made me strong so that I could tell his message clearly. Gentile people from many countries could hear what I said. So the Lord saved me from the danger of death."
               },
               {
                 "verse": 18,
-                "text": "The Lord will keep me safe from every evil work and will give me salvation in his kingdom in heaven: to whom be glory for ever and ever. So be it."
-              },
+                "text": "The Lord will continue to save me from every bad thing. And he will bring me safely to heaven, where he rules. He is great and we should praise him for ever! Amen."
+              }
+            ],
+            [
               {
                 "verse": 19,
-                "text": "Give my love to Prisca and Aquila and those of the house of Onesiphorus."
+                "text": "Say ‘hello’ for me to Priscilla and Aquila, and to the family of Onesiphorus."
               },
               {
                 "verse": 20,
-                "text": "Erastus was stopping at Corinth; but Trophimus, when I last saw him was at Miletus, ill."
+                "text": "Erastus remained at Corinth city. I left Trophimus at Miletus city because he was ill."
               }
             ],
             [
               {
                 "verse": 21,
-                "text": "Do your best to come before the winter. Eubulus sends you his love, and Pudens and Linus and Claudia, and all the brothers."
-              },
+                "text": "Please try to come before the winter. Eubulus, Pudens, Linus and Claudia say ‘hello’ to you. All the other believers here also say ‘hello’."
+              }
+            ],
+            [
               {
                 "verse": 22,
-                "text": "The Lord be with your spirit. Grace be with you."
+                "text": "I pray that the Lord will continue to make you strong in your spirit. I pray that he will be kind to all of you."
               }
             ]
           ]
         }
       ],
-      "verses": [
-        {
-          "verse": 1,
-          "text": "I give you orders, before God and Christ Jesus, who will be the judge of the living and the dead, and by his revelation and his kingdom;"
-        },
-        {
-          "verse": 2,
-          "text": "Be preaching the word at all times, in every place; make protests, say sharp words, give comfort, with long waiting and teaching;"
-        },
-        {
-          "verse": 3,
-          "text": "For the time will come when they will not take the true teaching; but, moved by their desires, they will get for themselves a great number of teachers for the pleasure of hearing them;"
-        },
-        {
-          "verse": 4,
-          "text": "And shutting their ears to what is true, will be turned away to belief in foolish stories."
-        },
-        {
-          "verse": 5,
-          "text": "But be self-controlled in all things, do without comfort, go on preaching the good news, completing the work which has been given you to do."
-        },
-        {
-          "verse": 6,
-          "text": "For I am even now being offered, and my end is near."
-        },
-        {
-          "verse": 7,
-          "text": "I have made a good fight, I have come to the end of my journey, I have kept the faith:"
-        },
-        {
-          "verse": 8,
-          "text": "From now on, the crown of righteousness is made ready for me, which the Lord, the upright judge, Will give to me at that day: and not only to me, but to all those who have had love for his revelation."
-        },
-        {
-          "verse": 9,
-          "text": "Do your best to come to me before long:"
-        },
-        {
-          "verse": 10,
-          "text": "For Demas has gone away from me, for love of this present life, and has gone to Thessalonica: Crescens has gone to Galatia, Titus to Dalmatia."
-        },
-        {
-          "verse": 11,
-          "text": "Only Luke is with me. Get Mark and take him with you; for he is of use to me in the work."
-        },
-        {
-          "verse": 12,
-          "text": "Tychicus I sent to Ephesus."
-        },
-        {
-          "verse": 13,
-          "text": "The coat which I did not take from Troas and which is with Carpus, get when you come, and the books, specially the papers."
-        },
-        {
-          "verse": 14,
-          "text": "Alexander the copper-worker did me much wrong: the Lord will give him the reward of his works:"
-        },
-        {
-          "verse": 15,
-          "text": "But be on the watch for him, for he was violent in his attacks on our teaching."
-        },
-        {
-          "verse": 16,
-          "text": "At my first meeting with my judges, no one took my part, but all went away from me. May it not be put to their account."
-        },
-        {
-          "verse": 17,
-          "text": "But the Lord was by my side and gave me strength; so that through me the news might be given out in full measure, and all the Gentiles might give ear: and I was taken out of the mouth of the lion."
-        },
-        {
-          "verse": 18,
-          "text": "The Lord will keep me safe from every evil work and will give me salvation in his kingdom in heaven: to whom be glory for ever and ever. So be it."
-        },
-        {
-          "verse": 19,
-          "text": "Give my love to Prisca and Aquila and those of the house of Onesiphorus."
-        },
-        {
-          "verse": 20,
-          "text": "Erastus was stopping at Corinth; but Trophimus, when I last saw him was at Miletus, ill."
-        },
-        {
-          "verse": 21,
-          "text": "Do your best to come before the winter. Eubulus sends you his love, and Pudens and Linus and Claudia, and all the brothers."
-        },
-        {
-          "verse": 22,
-          "text": "The Lord be with your spirit. Grace be with you."
-        }
-      ],
-      "totalVerses": 22,
-      "footnotes": []
+      "notes": [
+        "When the IsraelitesworshippedGod, they offered gifts to him. These gifts includedwine. They poured out the wine as adrink offeringto God. SeeNumbers 15:5-10;28:7. Paul is saying that he himself is like the drink offering. His life on earth will soon end. He has lived to serve God, and now he is ready to die for God.",
+        "At that time, people often gave acrownto somebody who had won arace. Paul is using the crown as a picture of what God will give to his people. God will givehonourto everyone who belongs to Christ. We will be completely right and happy as we will live with him for ever.",
+        "Thessalonica was a city in the north part of the country that we call Greece.",
+        "Galatia was the east part of the country that we call Turkey.",
+        "Titus was a man who had worked with Paul to teach the Christian message. SeeGalatians 2:1;2 Corinthians 2:13;7:6;Titus 1:4-5. Dalmatia was north-west of Greece.",
+        "Luke had travelled and worked with Paul. He wrote the books called Luke and Acts. SeeActs 16:10-13;Colossians 4:14;Philemon 1:24.",
+        "Paul may have sent Tychicus to Ephesus to help with Timothy's work there.",
+        "Troas was a city on the west coast of the country that we now call Turkey.",
+        "Priscilla and her husband, Aquila, had met Paul at Corinth city. SeeActs 18:1-3. Then they went with Paul to Ephesus and they stayed there for some time. SeeActs 18:18-26and1 Corinthians 16:19. Later they went to Rome. SeeRomans 16:3-4. They must have been in Ephesus again when Paul wrote this letter. Paul writes about Onesiphorus in2 Timothy 1:16.",
+        "Corinth was a city in the south part of the country that we call Greece.",
+        "Miletus was an important city on the coast, south of Ephesus, in the country we now call Turkey."
+      ]
     }
   ]
 }

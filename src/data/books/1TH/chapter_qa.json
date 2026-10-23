@@ -1,9 +1,6 @@
 {
-  "book": "1 Thessalonians",
   "bookId": "1TH",
-  "totalChapters": 5,
-  "totalQuestions": 50,
-  "questionsPerChapter": 10,
+  "bookName": "1 Thessalonians",
   "chapters": {
     "1": [
       {
@@ -11,150 +8,150 @@
         "questionNumber": 1,
         "question": "According to 1 Thessalonians 1:1, what is the opening statement or setting of this chapter?",
         "options": [
-          "It records: “Paul and Silvanus and Timothy, to the church of the Thessalonians...”",
+          "It records: “This letter is from Paul, Silas and Timothy. We are writing to th...”",
           "It begins with a prayer of thanksgiving for deliverance in 1 Thessalonians",
           "It opens with a formal census and counting of the congregation",
           "It records a severe judgment pronounced against neighboring nations"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "It records: “Paul and Silvanus and Timothy, to the church of the Thessalonians...”",
+        "correctAnswer": "It records: “This letter is from Paul, Silas and Timothy. We are writing to th...”",
         "reference": "1 Thessalonians 1:1",
-        "explanation": "The chapter begins directly with the statement: 'Paul and Silvanus and Timothy, to the church of the Thessalonians in God the Father and the Lord Jesus Christ: Grace to you and peace.'."
+        "explanation": "The chapter begins directly with the statement: 'This letter is from Paul, Silas and Timothy. We are writing to the people of the church in Thessalonica. You belong to God the Father and to the Lord Jesus Christ. We pray that God will continue to help you. We pray that he will give you peace in your minds.'."
       },
       {
         "id": "1th-1-q2",
         "questionNumber": 2,
         "question": "What key instruction, event, or declaration is set forth in 1 Thessalonians 1:2?",
         "options": [
-          "“Because our good news came to you, not in...”",
-          "“We give praise to God at all times for you, keeping...”",
-          "“For they themselves give the news of how we...”",
+          "“When we told you God's good news, it was...”",
+          "“We always thank God for all of you. Every time that...”",
+          "“Those people themselves speak about how you accepted us....”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“We give praise to God at all times for you, keeping...”",
+        "correctAnswer": "“We always thank God for all of you. Every time that...”",
         "reference": "1 Thessalonians 1:2",
-        "explanation": "1 Thessalonians 1:2 records: 'We give praise to God at all times for you, keeping you in memory in our prayers;'."
+        "explanation": "1 Thessalonians 1:2 records: 'We always thank God for all of you. Every time that we pray, we pray for you.'."
       },
       {
         "id": "1th-1-q3",
         "questionNumber": 3,
         "question": "What significant action or revelation occurs in 1 Thessalonians 1:3?",
         "options": [
-          "“And you took us and the Lord as your...”",
-          "“Paul and Silvanus and Timothy, to the church of...”",
-          "“Having ever in mind your work of faith and acts of...”",
+          "“In your lives also, you copied our example and...”",
+          "“This letter is from Paul, Silas and Timothy. We...”",
+          "“As we pray to our Father God, we remember how you...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“Having ever in mind your work of faith and acts of...”",
+        "correctAnswer": "“As we pray to our Father God, we remember how you...”",
         "reference": "1 Thessalonians 1:3",
-        "explanation": "1 Thessalonians 1:3 records: 'Having ever in mind your work of faith and acts of love and the strength of your hope in our Lord Jesus Christ, before our God and Father;'."
+        "explanation": "1 Thessalonians 1:3 records: 'As we pray to our Father God, we remember how you live. You do good things because you believe in Christ. You work hard to help other people because you love them and you love God. You are also strong and patient because you hope in our Lord Jesus Christ.'."
       },
       {
         "id": "1th-1-q4",
         "questionNumber": 4,
         "question": "What truth or description is highlighted in 1 Thessalonians 1:4?",
         "options": [
-          "“So that you became an example to all those...”",
-          "“Paul and Silvanus and Timothy, to the church of...”",
+          "“As a result, you became an example to all...”",
+          "“This letter is from Paul, Silas and Timothy. We...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“Being conscious, my brothers, dear to God, that you have been...”"
+          "“Our Christian friends, God loves you. We know that he has...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“Being conscious, my brothers, dear to God, that you have been...”",
+        "correctAnswer": "“Our Christian friends, God loves you. We know that he has...”",
         "reference": "1 Thessalonians 1:4",
-        "explanation": "1 Thessalonians 1:4 records: 'Being conscious, my brothers, dear to God, that you have been marked out by God's purpose;'."
+        "explanation": "1 Thessalonians 1:4 records: 'Our Christian friends, God loves you. We know that he has chosen you to belong to him.'."
       },
       {
         "id": "1th-1-q5",
         "questionNumber": 5,
         "question": "According to the text, what happened or was commanded in 1 Thessalonians 1:5?",
         "options": [
-          "“Because our good news came to you, not in word only,...”",
-          "“For not only was the word of the Lord...”",
-          "“We give praise to God at all times for...”",
+          "“When we told you God's good news, it was not only...”",
+          "“Because of you, people in many places have clearly...”",
+          "“We always thank God for all of you. Every...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“Because our good news came to you, not in word only,...”",
+        "correctAnswer": "“When we told you God's good news, it was not only...”",
         "reference": "1 Thessalonians 1:5",
-        "explanation": "1 Thessalonians 1:5 records: 'Because our good news came to you, not in word only, but in power, and in the Holy Spirit, so that you were completely certain of it; even as you saw what our behaviour to you was like from our love to you.'."
+        "explanation": "1 Thessalonians 1:5 records: 'When we told you God's good news, it was not only words that we spoke to you. God helped us with his power and with the Holy Spirit. As a result, you were sure that our message was true. You also know that we lived among you in a good way. We had come to help you.'."
       },
       {
         "id": "1th-1-q6",
         "questionNumber": 6,
         "question": "What central message or instruction is delivered in 1 Thessalonians 1:6?",
         "options": [
-          "“For they themselves give the news of how we...”",
-          "“And you took us and the Lord as your example, after...”",
-          "“Having ever in mind your work of faith and...”",
+          "“Those people themselves speak about how you accepted us....”",
+          "“In your lives also, you copied our example and the example...”",
+          "“As we pray to our Father God, we remember...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“And you took us and the Lord as your example, after...”",
+        "correctAnswer": "“In your lives also, you copied our example and the example...”",
         "reference": "1 Thessalonians 1:6",
-        "explanation": "1 Thessalonians 1:6 records: 'And you took us and the Lord as your example, after the word had come to you in much trouble, with joy in the Holy Spirit;'."
+        "explanation": "1 Thessalonians 1:6 records: 'In your lives also, you copied our example and the example of the Lord Jesus. When you believed our message, people caused you to suffer very much. But God's Holy Spirit helped you to be happy.'."
       },
       {
         "id": "1th-1-q7",
         "questionNumber": 7,
         "question": "What detail regarding God's work, covenant, or people is given in 1 Thessalonians 1:7?",
         "options": [
-          "“Paul and Silvanus and Timothy, to the church of...”",
-          "“Being conscious, my brothers, dear to God, that you...”",
-          "“So that you became an example to all those who have...”",
+          "“This letter is from Paul, Silas and Timothy. We...”",
+          "“Our Christian friends, God loves you. We know that...”",
+          "“As a result, you became an example to all the believers...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“So that you became an example to all those who have...”",
+        "correctAnswer": "“As a result, you became an example to all the believers...”",
         "reference": "1 Thessalonians 1:7",
-        "explanation": "1 Thessalonians 1:7 records: 'So that you became an example to all those who have faith in Christ in Macedonia and Achaia.'."
+        "explanation": "1 Thessalonians 1:7 records: 'As a result, you became an example to all the believers in Macedonia and in Achaia.'."
       },
       {
         "id": "1th-1-q8",
         "questionNumber": 8,
         "question": "What phrase or account is recorded in 1 Thessalonians 1:8?",
         "options": [
-          "“Paul and Silvanus and Timothy, to the church of...”",
-          "“Because our good news came to you, not in...”",
+          "“This letter is from Paul, Silas and Timothy. We...”",
+          "“When we told you God's good news, it was...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“For not only was the word of the Lord sounding out...”"
+          "“Because of you, people in many places have clearly heard the...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“For not only was the word of the Lord sounding out...”",
+        "correctAnswer": "“Because of you, people in many places have clearly heard the...”",
         "reference": "1 Thessalonians 1:8",
-        "explanation": "1 Thessalonians 1:8 records: 'For not only was the word of the Lord sounding out from you in Macedonia and Achaia, but in every place your faith in God is made clear; so that we have no need to say anything.'."
+        "explanation": "1 Thessalonians 1:8 records: 'Because of you, people in many places have clearly heard the message about the Lord. It is not only the people in Macedonia and in Achaia who have heard it. People everywhere now know that you trust God. So, as we travel to different places, we do not need to tell people anything.'."
       },
       {
         "id": "1th-1-q9",
         "questionNumber": 9,
         "question": "How does the passage describe the circumstances or people in 1 Thessalonians 1:9?",
         "options": [
-          "“For they themselves give the news of how we came among...”",
-          "“We give praise to God at all times for...”",
-          "“And you took us and the Lord as your...”",
+          "“Those people themselves speak about how you accepted us. They tell...”",
+          "“We always thank God for all of you. Every...”",
+          "“In your lives also, you copied our example and...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“For they themselves give the news of how we came among...”",
+        "correctAnswer": "“Those people themselves speak about how you accepted us. They tell...”",
         "reference": "1 Thessalonians 1:9",
-        "explanation": "1 Thessalonians 1:9 records: 'For they themselves give the news of how we came among you; and how you were turned from images to God, to the worship of a true and living God,'."
+        "explanation": "1 Thessalonians 1:9 records: 'Those people themselves speak about how you accepted us. They tell us how you stopped worshipping false gods. They know that you now serve the true God who always lives.'."
       },
       {
         "id": "1th-1-q10",
         "questionNumber": 10,
         "question": "In the concluding portion of the chapter, what takes place in 1 Thessalonians 1:10?",
         "options": [
-          "“Having ever in mind your work of faith and...”",
-          "“Waiting for his Son from heaven, who came back from the...”",
-          "“So that you became an example to all those...”",
+          "“As we pray to our Father God, we remember...”",
+          "“They also tell us that you are waiting patiently for God's...”",
+          "“As a result, you became an example to all...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“Waiting for his Son from heaven, who came back from the...”",
+        "correctAnswer": "“They also tell us that you are waiting patiently for God's...”",
         "reference": "1 Thessalonians 1:10",
-        "explanation": "1 Thessalonians 1:10 records: 'Waiting for his Son from heaven, who came back from the dead, even Jesus, our Saviour from the wrath to come.'."
+        "explanation": "1 Thessalonians 1:10 records: 'They also tell us that you are waiting patiently for God's Son to return from heaven. God raised him up after his death on the cross. He is Jesus, the one who saves us. He keeps us safe from God's anger that will surely come.'."
       }
     ],
     "2": [
@@ -163,150 +160,150 @@
         "questionNumber": 1,
         "question": "According to 1 Thessalonians 2:1, what is the opening statement or setting of this chapter?",
         "options": [
-          "It records: “For you yourselves, brothers, are conscious that our coming among...”",
+          "It records: “Our Christian friends, you yourselves know that our visit to you ...”",
           "It begins with a prayer of thanksgiving for deliverance in 1 Thessalonians",
           "It opens with a formal census and counting of the congregation",
           "It records a severe judgment pronounced against neighboring nations"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "It records: “For you yourselves, brothers, are conscious that our coming among...”",
+        "correctAnswer": "It records: “Our Christian friends, you yourselves know that our visit to you ...”",
         "reference": "1 Thessalonians 2:1",
-        "explanation": "The chapter begins directly with the statement: 'For you yourselves, brothers, are conscious that our coming among you was not without effect:'."
+        "explanation": "The chapter begins directly with the statement: 'Our Christian friends, you yourselves know that our visit to you had good results.'."
       },
       {
         "id": "1th-2-q2",
         "questionNumber": 2,
         "question": "What key instruction, event, or declaration is set forth in 1 Thessalonians 2:2?",
         "options": [
-          "“For it is common knowledge among you that we...”",
-          "“But after we had first undergone much pain and been cruelly...”",
-          "“For you have the memory, my brothers, of our...”",
+          "“When we came to you, we did not say...”",
+          "“You know what happened to us before we came to you....”",
+          "“Our Christian friends, remember how we worked so hard...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“But after we had first undergone much pain and been cruelly...”",
+        "correctAnswer": "“You know what happened to us before we came to you....”",
         "reference": "1 Thessalonians 2:2",
-        "explanation": "1 Thessalonians 2:2 records: 'But after we had first undergone much pain and been cruelly attacked as you saw, at Philippi, by the help of God we gave you the good news without fear, though everything was against us.'."
+        "explanation": "1 Thessalonians 2:2 records: 'You know what happened to us before we came to you. The people at Philippi had done bad things to us. They had caused us to suffer. When we came to you, our God helped us to be brave. We were not afraid to tell you his good news. Many people tried to stop us, but we told you God's message.'."
       },
       {
         "id": "1th-2-q3",
         "questionNumber": 3,
         "question": "What significant action or revelation occurs in 1 Thessalonians 2:4?",
         "options": [
-          "“But we were gentle among you, like a woman...”",
-          "“Even as you saw how, like a father with...”",
-          "“But even as the good news was given to us by...”",
+          "“We could have used our authority over you, because...”",
+          "“You know that we helped you, like a father...”",
+          "“Instead, we say what God wants us to say. He has...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“But even as the good news was given to us by...”",
+        "correctAnswer": "“Instead, we say what God wants us to say. He has...”",
         "reference": "1 Thessalonians 2:4",
-        "explanation": "1 Thessalonians 2:4 records: 'But even as the good news was given to us by the approval of God, so we give it out; not as pleasing men, but God by whom our hearts are tested.'."
+        "explanation": "1 Thessalonians 2:4 records: 'Instead, we say what God wants us to say. He has chosen us to tell his good news to people. So we are not trying to please people. God is the one that we want to please. He knows all our thoughts.'."
       },
       {
         "id": "1th-2-q4",
         "questionNumber": 4,
         "question": "What truth or description is highlighted in 1 Thessalonians 2:6?",
         "options": [
-          "“For you have the memory, my brothers, of our...”",
-          "“And for this cause we still give praise to...”",
+          "“Our Christian friends, remember how we worked so hard...”",
+          "“There is another reason why we always continue to...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“Or looking for glory from men, from you or from others,...”"
+          "“We did not want you, or anyone else, to praise us.”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“Or looking for glory from men, from you or from others,...”",
+        "correctAnswer": "“We did not want you, or anyone else, to praise us.”",
         "reference": "1 Thessalonians 2:6",
-        "explanation": "1 Thessalonians 2:6 records: 'Or looking for glory from men, from you or from others, when we might have made ourselves a care to you as Apostles of Christ.'."
+        "explanation": "1 Thessalonians 2:6 records: 'We did not want you, or anyone else, to praise us.'."
       },
       {
         "id": "1th-2-q5",
         "questionNumber": 5,
         "question": "According to the text, what happened or was commanded in 1 Thessalonians 2:8?",
         "options": [
-          "“Even so, being full of loving desire for you, we took...”",
-          "“Even as you saw how, like a father with...”",
-          "“Who put to death the Lord Jesus and the...”",
+          "“We loved you very much, so we wanted to tell you...”",
+          "“You know that we helped you, like a father...”",
+          "“It was people like that who killed the Lord...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“Even so, being full of loving desire for you, we took...”",
+        "correctAnswer": "“We loved you very much, so we wanted to tell you...”",
         "reference": "1 Thessalonians 2:8",
-        "explanation": "1 Thessalonians 2:8 records: 'Even so, being full of loving desire for you, we took delight in giving you not only God's good news, but even our lives, because you were dear to us.'."
+        "explanation": "1 Thessalonians 2:8 records: 'We loved you very much, so we wanted to tell you God's good news. We wanted to share our lives with you too.'."
       },
       {
         "id": "1th-2-q6",
         "questionNumber": 6,
         "question": "What central message or instruction is delivered in 1 Thessalonians 2:10?",
         "options": [
-          "“And for this cause we still give praise to...”",
-          "“You are witnesses, with God, how holy and upright and free...”",
-          "“But we, my brothers, being away from you for...”",
+          "“There is another reason why we always continue to...”",
+          "“You know that we lived in a good way when we...”",
+          "“Our friends, we have had to go away from...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“You are witnesses, with God, how holy and upright and free...”",
+        "correctAnswer": "“You know that we lived in a good way when we...”",
         "reference": "1 Thessalonians 2:10",
-        "explanation": "1 Thessalonians 2:10 records: 'You are witnesses, with God, how holy and upright and free from all evil was our way of life among you who have faith;'."
+        "explanation": "1 Thessalonians 2:10 records: 'You know that we lived in a good way when we were with you. God also knows that. We were completely honest with you believers. Nobody could say that we did anything wrong.'."
       },
       {
         "id": "1th-2-q7",
         "questionNumber": 7,
         "question": "What detail regarding God's work, covenant, or people is given in 1 Thessalonians 2:12?",
         "options": [
-          "“Who put to death the Lord Jesus and the...”",
-          "“For what is our hope or joy or crown...”",
-          "“So that your lives might be pleasing to God, who has...”",
+          "“It was people like that who killed the Lord...”",
+          "“You are the people who make us very happy!...”",
+          "“We taught you clearly what is true. We helped you to...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“So that your lives might be pleasing to God, who has...”",
+        "correctAnswer": "“We taught you clearly what is true. We helped you to...”",
         "reference": "1 Thessalonians 2:12",
-        "explanation": "1 Thessalonians 2:12 records: 'So that your lives might be pleasing to God, who has given you a part in his kingdom and his glory.'."
+        "explanation": "1 Thessalonians 2:12 records: 'We taught you clearly what is true. We helped you to be strong as believers. God has chosen you to be his own people. You belong to his great kingdom, where he rules. So we told you to live in a way that pleases him.'."
       },
       {
         "id": "1th-2-q8",
         "questionNumber": 8,
         "question": "What phrase or account is recorded in 1 Thessalonians 2:14?",
         "options": [
-          "“But we, my brothers, being away from you for...”",
-          "“For you yourselves, brothers, are conscious that our coming...”",
+          "“Our friends, we have had to go away from...”",
+          "“Our Christian friends, you yourselves know that our visit...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“For you, my brothers, took as your examples the churches of...”"
+          "“Our Christian friends, you have suffered in the same way that...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“For you, my brothers, took as your examples the churches of...”",
+        "correctAnswer": "“Our Christian friends, you have suffered in the same way that...”",
         "reference": "1 Thessalonians 2:14",
-        "explanation": "1 Thessalonians 2:14 records: 'For you, my brothers, took as your examples the churches of God which are in Judaea in Christ Jesus; because you underwent the same things from your countrymen as they did from the Jews;'."
+        "explanation": "1 Thessalonians 2:14 records: 'Our Christian friends, you have suffered in the same way that the people in the churches of Judea suffered. People in your own country have caused you to suffer. The people in Judea who believed in Christ Jesus received trouble from their own Jewish people.'."
       },
       {
         "id": "1th-2-q9",
         "questionNumber": 9,
         "question": "How does the passage describe the circumstances or people in 1 Thessalonians 2:16?",
         "options": [
-          "“Who, to make the measure of their sins complete, kept us...”",
-          "“For what is our hope or joy or crown...”",
-          "“For our witness does not come from error or...”",
+          "“because they try to stop us speaking to Gentiles. They do...”",
+          "“You are the people who make us very happy!...”",
+          "“When we tell people to obey God's message, we...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“Who, to make the measure of their sins complete, kept us...”",
+        "correctAnswer": "“because they try to stop us speaking to Gentiles. They do...”",
         "reference": "1 Thessalonians 2:16",
-        "explanation": "1 Thessalonians 2:16 records: 'Who, to make the measure of their sins complete, kept us from giving the word of salvation to the Gentiles: but the wrath of God is about to come on them in the fullest degree.'."
+        "explanation": "1 Thessalonians 2:16 records: 'because they try to stop us speaking to Gentiles. They do not want God to save anyone from another nation. In this way, they continue to do more and more bad things. When their sins become too many, God has to stop them. Now he has become so angry that he will finally punish them.'."
       },
       {
         "id": "1th-2-q10",
         "questionNumber": 10,
         "question": "In the concluding portion of the chapter, what takes place in 1 Thessalonians 2:18?",
         "options": [
-          "“For you yourselves, brothers, are conscious that our coming...”",
-          "“For which reason we made attempts to come to you, even...”",
-          "“For it is common knowledge among you that we...”",
+          "“Our Christian friends, you yourselves know that our visit...”",
+          "“Yes, we really wanted to visit you. Certainly, I, Paul, tried...”",
+          "“When we came to you, we did not say...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“For which reason we made attempts to come to you, even...”",
+        "correctAnswer": "“Yes, we really wanted to visit you. Certainly, I, Paul, tried...”",
         "reference": "1 Thessalonians 2:18",
-        "explanation": "1 Thessalonians 2:18 records: 'For which reason we made attempts to come to you, even I, Paul, once and again; but Satan kept us from coming.'."
+        "explanation": "1 Thessalonians 2:18 records: 'Yes, we really wanted to visit you. Certainly, I, Paul, tried many times to come to you, but Satan stopped us.'."
       }
     ],
     "3": [
@@ -315,150 +312,150 @@
         "questionNumber": 1,
         "question": "According to 1 Thessalonians 3:1, what is the opening statement or setting of this chapter?",
         "options": [
-          "It records: “At last our desire to have news of you was so strong that, while ...”",
+          "It records: “After a long time, we could not be patient any longer. So we sent...”",
           "It begins with a prayer of thanksgiving for deliverance in 1 Thessalonians",
           "It opens with a formal census and counting of the congregation",
           "It records a severe judgment pronounced against neighboring nations"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "It records: “At last our desire to have news of you was so strong that, while ...”",
+        "correctAnswer": "It records: “After a long time, we could not be patient any longer. So we sent...”",
         "reference": "1 Thessalonians 3:1",
-        "explanation": "The chapter begins directly with the statement: 'At last our desire to have news of you was so strong that, while we ourselves were waiting at Athens,'."
+        "explanation": "The chapter begins directly with the statement: 'After a long time, we could not be patient any longer. So we sent our friend Timothy to come to you. We ourselves decided to stay here in Athens. Timothy serves God with us here. He tells people the good news about Christ. We sent him to you so that he could help you to trust Christ more and more.'."
       },
       {
         "id": "1th-3-q2",
         "questionNumber": 2,
         "question": "What key instruction, event, or declaration is set forth in 1 Thessalonians 3:2?",
         "options": [
-          "“For this reason, when I was no longer able...”",
-          "“We sent Timothy, our brother and God's servant in the good...”",
-          "“For how great is the praise which we give...”",
+          "“That is why I had to send Timothy to...”",
+          "“You are suffering very much. We did not want anyone among...”",
+          "“We thank God very much for you! You make...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“We sent Timothy, our brother and God's servant in the good...”",
+        "correctAnswer": "“You are suffering very much. We did not want anyone among...”",
         "reference": "1 Thessalonians 3:2",
-        "explanation": "1 Thessalonians 3:2 records: 'We sent Timothy, our brother and God's servant in the good news of Christ, to give you strength and comfort in your faith;'."
+        "explanation": "1 Thessalonians 3:2 records: 'You are suffering very much. We did not want anyone among you to turn away from Christ because of that. You already know that we who are believers must receive these kinds of troubles.'."
       },
       {
         "id": "1th-3-q3",
         "questionNumber": 3,
         "question": "What significant action or revelation occurs in 1 Thessalonians 3:3?",
         "options": [
-          "“But now that Timothy has come to us from...”",
-          "“Night and day requesting God again and again that...”",
-          "“So that no man might be moved by these troubles; because...”",
+          "“But now Timothy has come back to us. And...”",
+          "“We pray very much for you, during the day...”",
+          "“You are suffering very much. We did not want anyone among...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“So that no man might be moved by these troubles; because...”",
+        "correctAnswer": "“You are suffering very much. We did not want anyone among...”",
         "reference": "1 Thessalonians 3:3",
-        "explanation": "1 Thessalonians 3:3 records: 'So that no man might be moved by these troubles; because you see that these things are part of God's purpose for us.'."
+        "explanation": "1 Thessalonians 3:3 records: 'You are suffering very much. We did not want anyone among you to turn away from Christ because of that. You already know that we who are believers must receive these kinds of troubles.'."
       },
       {
         "id": "1th-3-q4",
         "questionNumber": 4,
         "question": "What truth or description is highlighted in 1 Thessalonians 3:4?",
         "options": [
-          "“For this cause, brothers, in all our trouble and...”",
-          "“Now may our God and Father himself and our...”",
+          "“So we have become happy again because of you,...”",
+          "“We pray that our Father God himself and our...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“And when we were with you, we said to you that...”"
+          "“Even when we were there with you, we told you that...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“And when we were with you, we said to you that...”",
+        "correctAnswer": "“Even when we were there with you, we told you that...”",
         "reference": "1 Thessalonians 3:4",
-        "explanation": "1 Thessalonians 3:4 records: 'And when we were with you, we said to you that trouble was before us; and so it came about, as you see.'."
+        "explanation": "1 Thessalonians 3:4 records: 'Even when we were there with you, we told you that people would cause us to suffer. Now it has really happened, so you know that it is true.'."
       },
       {
         "id": "1th-3-q5",
         "questionNumber": 5,
         "question": "According to the text, what happened or was commanded in 1 Thessalonians 3:5?",
         "options": [
-          "“For this reason, when I was no longer able to keep...”",
-          "“For it is life to us if you keep...”",
-          "“And the Lord give you increase of love in...”",
+          "“That is why I had to send Timothy to come to...”",
+          "“Yes, we are like people who have become alive...”",
+          "“After a long time, we could not be patient...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“For this reason, when I was no longer able to keep...”",
+        "correctAnswer": "“That is why I had to send Timothy to come to...”",
         "reference": "1 Thessalonians 3:5",
-        "explanation": "1 Thessalonians 3:5 records: 'For this reason, when I was no longer able to keep quiet, I sent to get news of your faith, fearing that you might be tested by the Evil One and that our work might come to nothing.'."
+        "explanation": "1 Thessalonians 3:5 records: 'That is why I had to send Timothy to come to you. I could not wait to hear news about you any longer. I wanted to know whether you still trusted Christ. I was afraid that Satan had deceived you. If he had made you turn away from Christ, our work among you would have had no results.'."
       },
       {
         "id": "1th-3-q6",
         "questionNumber": 6,
         "question": "What central message or instruction is delivered in 1 Thessalonians 3:6?",
         "options": [
-          "“For how great is the praise which we give...”",
-          "“But now that Timothy has come to us from you, and...”",
-          "“At last our desire to have news of you...”",
+          "“We thank God very much for you! You make...”",
+          "“But now Timothy has come back to us. And he has...”",
+          "“After a long time, we could not be patient...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“But now that Timothy has come to us from you, and...”",
+        "correctAnswer": "“But now Timothy has come back to us. And he has...”",
         "reference": "1 Thessalonians 3:6",
-        "explanation": "1 Thessalonians 3:6 records: 'But now that Timothy has come to us from you, and has given us good news of your faith and love, and that you have happy memories of us, desiring greatly to see us, even as we do to see you;'."
+        "explanation": "1 Thessalonians 3:6 records: 'But now Timothy has come back to us. And he has told us good news about you. He has told us that you continue to trust Christ and you love one another. He says that you always think about us in a good way. You want very much to meet us again, as we also want to meet you.'."
       },
       {
         "id": "1th-3-q7",
         "questionNumber": 7,
         "question": "What detail regarding God's work, covenant, or people is given in 1 Thessalonians 3:7?",
         "options": [
-          "“Night and day requesting God again and again that...”",
-          "“At last our desire to have news of you...”",
-          "“For this cause, brothers, in all our trouble and grief we...”",
+          "“We pray very much for you, during the day...”",
+          "“You are suffering very much. We did not want...”",
+          "“So we have become happy again because of you, our Christian...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“For this cause, brothers, in all our trouble and grief we...”",
+        "correctAnswer": "“So we have become happy again because of you, our Christian...”",
         "reference": "1 Thessalonians 3:7",
-        "explanation": "1 Thessalonians 3:7 records: 'For this cause, brothers, in all our trouble and grief we were comforted about you because of your faith;'."
+        "explanation": "1 Thessalonians 3:7 records: 'So we have become happy again because of you, our Christian friends. We continue to suffer and we have much trouble. But we are happy because you continue to trust Christ.'."
       },
       {
         "id": "1th-3-q8",
         "questionNumber": 8,
         "question": "What phrase or account is recorded in 1 Thessalonians 3:8?",
         "options": [
-          "“Now may our God and Father himself and our...”",
-          "“We sent Timothy, our brother and God's servant in...”",
+          "“We pray that our Father God himself and our...”",
+          "“You are suffering very much. We did not want...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“For it is life to us if you keep your faith...”"
+          "“Yes, we are like people who have become alive again. We...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“For it is life to us if you keep your faith...”",
+        "correctAnswer": "“Yes, we are like people who have become alive again. We...”",
         "reference": "1 Thessalonians 3:8",
-        "explanation": "1 Thessalonians 3:8 records: 'For it is life to us if you keep your faith in the Lord unchanged.'."
+        "explanation": "1 Thessalonians 3:8 records: 'Yes, we are like people who have become alive again. We know that you are strong as you trust the Lord.'."
       },
       {
         "id": "1th-3-q9",
         "questionNumber": 9,
         "question": "How does the passage describe the circumstances or people in 1 Thessalonians 3:9?",
         "options": [
-          "“For how great is the praise which we give to God...”",
-          "“And the Lord give you increase of love in...”",
-          "“So that no man might be moved by these...”",
+          "“We thank God very much for you! You make us very...”",
+          "“After a long time, we could not be patient...”",
+          "“Even when we were there with you, we told...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“For how great is the praise which we give to God...”",
+        "correctAnswer": "“We thank God very much for you! You make us very...”",
         "reference": "1 Thessalonians 3:9",
-        "explanation": "1 Thessalonians 3:9 records: 'For how great is the praise which we give to God for you, and how great the joy with which we are glad because of you before our God;'."
+        "explanation": "1 Thessalonians 3:9 records: 'We thank God very much for you! You make us very happy when we talk to God about you.'."
       },
       {
         "id": "1th-3-q10",
         "questionNumber": 10,
         "question": "In the concluding portion of the chapter, what takes place in 1 Thessalonians 3:10?",
         "options": [
-          "“At last our desire to have news of you...”",
-          "“Night and day requesting God again and again that we may...”",
-          "“And when we were with you, we said to...”",
+          "“After a long time, we could not be patient...”",
+          "“We pray very much for you, during the day and during...”",
+          "“That is why I had to send Timothy to...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“Night and day requesting God again and again that we may...”",
+        "correctAnswer": "“We pray very much for you, during the day and during...”",
         "reference": "1 Thessalonians 3:10",
-        "explanation": "1 Thessalonians 3:10 records: 'Night and day requesting God again and again that we may see your face and make your faith complete.'."
+        "explanation": "1 Thessalonians 3:10 records: 'We pray very much for you, during the day and during the night. We ask God to give us the chance to visit you again. We want to help you to understand the things that you still need to know. Then you will be able to trust Christ even more.'."
       }
     ],
     "4": [
@@ -467,150 +464,150 @@
         "questionNumber": 1,
         "question": "According to 1 Thessalonians 4:1, what is the opening statement or setting of this chapter?",
         "options": [
-          "It records: “And last of all, the prayer which we make to you from our heart a...”",
+          "It records: “Christian friends, there are a few more things that we need to sa...”",
           "It begins with a prayer of thanksgiving for deliverance in 1 Thessalonians",
           "It opens with a formal census and counting of the congregation",
           "It records a severe judgment pronounced against neighboring nations"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "It records: “And last of all, the prayer which we make to you from our heart a...”",
+        "correctAnswer": "It records: “Christian friends, there are a few more things that we need to sa...”",
         "reference": "1 Thessalonians 4:1",
-        "explanation": "The chapter begins directly with the statement: 'And last of all, the prayer which we make to you from our heart and in the name of the Lord Jesus, is this: that as we made clear to you what sort of behaviour is pleasing to God, as in fact you are doing now, so you will go on in these ways, but more and more.'."
+        "explanation": "The chapter begins directly with the statement: 'Christian friends, there are a few more things that we need to say. We have already taught you how to live in a way that pleases God. And we know that you are living in that way. Now we ask you to continue to live like that even more. On behalf of the Lord Jesus, we seriously ask you to do this.'."
       },
       {
         "id": "1th-4-q2",
         "questionNumber": 2,
         "question": "What key instruction, event, or declaration is set forth in 1 Thessalonians 4:2?",
         "options": [
-          "“Not in the passion of evil desires, like the...”",
-          "“Because you have in mind the orders we gave you through...”",
-          "“But about loving the brothers, there is no need...”",
+          "“People who do not know God want to have...”",
+          "“You surely remember what we taught you with the authority of...”",
+          "“But I do not need to write to you...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“Because you have in mind the orders we gave you through...”",
+        "correctAnswer": "“You surely remember what we taught you with the authority of...”",
         "reference": "1 Thessalonians 4:2",
-        "explanation": "1 Thessalonians 4:2 records: 'Because you have in mind the orders we gave you through the Lord Jesus.'."
+        "explanation": "1 Thessalonians 4:2 records: 'You surely remember what we taught you with the authority of the Lord Jesus.'."
       },
       {
         "id": "1th-4-q3",
         "questionNumber": 3,
         "question": "What significant action or revelation occurs in 1 Thessalonians 4:3?",
         "options": [
-          "“And that no man may make attempts to get...”",
-          "“And, truly, you are lovers of all the brothers...”",
-          "“For the purpose of God for you is this: that you...”",
+          "“No man among you should ever have sex with...”",
+          "“Certainly, you love all the believers in all the...”",
+          "“This is how God wants you to live: as his own...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“For the purpose of God for you is this: that you...”",
+        "correctAnswer": "“This is how God wants you to live: as his own...”",
         "reference": "1 Thessalonians 4:3",
-        "explanation": "1 Thessalonians 4:3 records: 'For the purpose of God for you is this: that you may be holy, and may keep yourselves from the desires of the flesh;'."
+        "explanation": "1 Thessalonians 4:3 records: 'This is how God wants you to live: as his own people, he wants you to be completely good. So you must not have sex in a way that is wrong.'."
       },
       {
         "id": "1th-4-q4",
         "questionNumber": 4,
         "question": "What truth or description is highlighted in 1 Thessalonians 4:4?",
         "options": [
-          "“Because it is God's purpose that our way of...”",
-          "“And that you may take pride in being quiet...”",
+          "“God has chosen us to belong to him. He...”",
+          "“Try very much to live at peace with other...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“So that every one of you may keep his body holy...”"
+          "“Each of you men must learn to control his own body...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“So that every one of you may keep his body holy...”",
+        "correctAnswer": "“Each of you men must learn to control his own body...”",
         "reference": "1 Thessalonians 4:4",
-        "explanation": "1 Thessalonians 4:4 records: 'So that every one of you may keep his body holy and in honour;'."
+        "explanation": "1 Thessalonians 4:4 records: 'Each of you men must learn to control his own body properly. Then you will do only what is pure and right.'."
       },
       {
         "id": "1th-4-q5",
         "questionNumber": 5,
         "question": "According to the text, what happened or was commanded in 1 Thessalonians 4:5?",
         "options": [
-          "“Not in the passion of evil desires, like the Gentiles, who...”",
-          "“Whoever, then, goes against this word, goes against not...”",
-          "“That you may be respected by those who are...”",
+          "“People who do not know God want to have sex in...”",
+          "“You should accept what I am saying. If not,...”",
+          "“If you live in this way, other people who...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“Not in the passion of evil desires, like the Gentiles, who...”",
+        "correctAnswer": "“People who do not know God want to have sex in...”",
         "reference": "1 Thessalonians 4:5",
-        "explanation": "1 Thessalonians 4:5 records: 'Not in the passion of evil desires, like the Gentiles, who have no knowledge of God;'."
+        "explanation": "1 Thessalonians 4:5 records: 'People who do not know God want to have sex in a wrong way. They cannot control themselves. You must not be like those people.'."
       },
       {
         "id": "1th-4-q6",
         "questionNumber": 6,
         "question": "What central message or instruction is delivered in 1 Thessalonians 4:6?",
         "options": [
-          "“But about loving the brothers, there is no need...”",
-          "“And that no man may make attempts to get the better...”",
-          "“But it is our desire, brothers, that you may...”",
+          "“But I do not need to write to you...”",
+          "“No man among you should ever have sex with the wife...”",
+          "“Our Christian friends, we want you to understand properly...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“And that no man may make attempts to get the better...”",
+        "correctAnswer": "“No man among you should ever have sex with the wife...”",
         "reference": "1 Thessalonians 4:6",
-        "explanation": "1 Thessalonians 4:6 records: 'And that no man may make attempts to get the better of his brother in business: for the Lord is the judge in all these things, as we said to you before and gave witness.'."
+        "explanation": "1 Thessalonians 4:6 records: 'No man among you should ever have sex with the wife of a Christian friend. That would be the same as if you robbed him. It would be a bad thing to do against him. Remember that the Lord will punish everyone who does things like that. We have already told you this. We warned you very seriously about it.'."
       },
       {
         "id": "1th-4-q7",
         "questionNumber": 7,
         "question": "What detail regarding God's work, covenant, or people is given in 1 Thessalonians 4:7?",
         "options": [
-          "“And, truly, you are lovers of all the brothers...”",
-          "“For if we have faith that Jesus underwent death...”",
-          "“Because it is God's purpose that our way of life may...”",
+          "“Certainly, you love all the believers in all the...”",
+          "“We believe that Jesus died and he rose again...”",
+          "“God has chosen us to belong to him. He does not...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“Because it is God's purpose that our way of life may...”",
+        "correctAnswer": "“God has chosen us to belong to him. He does not...”",
         "reference": "1 Thessalonians 4:7",
-        "explanation": "1 Thessalonians 4:7 records: 'Because it is God's purpose that our way of life may be not unclean but holy.'."
+        "explanation": "1 Thessalonians 4:7 records: 'God has chosen us to belong to him. He does not want us to do disgusting things. As his people, he wants us to be holy.'."
       },
       {
         "id": "1th-4-q8",
         "questionNumber": 8,
         "question": "What phrase or account is recorded in 1 Thessalonians 4:8?",
         "options": [
-          "“And that you may take pride in being quiet...”",
-          "“For this we say to you by the word...”",
+          "“Try very much to live at peace with other...”",
+          "“We are telling you the message that the Lord...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“Whoever, then, goes against this word, goes against not man but...”"
+          "“You should accept what I am saying. If not, it is...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“Whoever, then, goes against this word, goes against not man but...”",
+        "correctAnswer": "“You should accept what I am saying. If not, it is...”",
         "reference": "1 Thessalonians 4:8",
-        "explanation": "1 Thessalonians 4:8 records: 'Whoever, then, goes against this word, goes against not man but God, who gives his Holy Spirit to you.'."
+        "explanation": "1 Thessalonians 4:8 records: 'You should accept what I am saying. If not, it is not just human teaching that you refuse to obey. You are refusing to obey God himself. And God is the one who has given his Holy Spirit to you.'."
       },
       {
         "id": "1th-4-q9",
         "questionNumber": 9,
         "question": "How does the passage describe the circumstances or people in 1 Thessalonians 4:9?",
         "options": [
-          "“But about loving the brothers, there is no need for me...”",
-          "“That you may be respected by those who are...”",
-          "“Because the Lord himself will come down from heaven...”",
+          "“But I do not need to write to you about how...”",
+          "“If you live in this way, other people who...”",
+          "“On that day, the Lord himself will come down...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“But about loving the brothers, there is no need for me...”",
+        "correctAnswer": "“But I do not need to write to you about how...”",
         "reference": "1 Thessalonians 4:9",
-        "explanation": "1 Thessalonians 4:9 records: 'But about loving the brothers, there is no need for me to say anything to you in this letter: for you have the teaching of God that love for one another is right and necessary;'."
+        "explanation": "1 Thessalonians 4:9 records: 'But I do not need to write to you about how you should love other believers. God himself has taught you how to love each other.'."
       },
       {
         "id": "1th-4-q10",
         "questionNumber": 10,
         "question": "In the concluding portion of the chapter, what takes place in 1 Thessalonians 4:10?",
         "options": [
-          "“But it is our desire, brothers, that you may...”",
-          "“And, truly, you are lovers of all the brothers in Macedonia;...”",
-          "“Then we who are still living will be taken...”",
+          "“Our Christian friends, we want you to understand properly...”",
+          "“Certainly, you love all the believers in all the region of...”",
+          "“After that, those of us who are still alive...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“And, truly, you are lovers of all the brothers in Macedonia;...”",
+        "correctAnswer": "“Certainly, you love all the believers in all the region of...”",
         "reference": "1 Thessalonians 4:10",
-        "explanation": "1 Thessalonians 4:10 records: 'And, truly, you are lovers of all the brothers in Macedonia; but it is our desire that your love may be increased still more;'."
+        "explanation": "1 Thessalonians 4:10 records: 'Certainly, you love all the believers in all the region of Macedonia. And now we ask you, as our Christian friends, ‘Please love each other more and more.’'."
       }
     ],
     "5": [
@@ -619,150 +616,150 @@
         "questionNumber": 1,
         "question": "According to 1 Thessalonians 5:1, what is the opening statement or setting of this chapter?",
         "options": [
-          "It records: “But about the times and their order, my brothers, there is no nee...”",
+          "It records: “Friends, we do not need to write anything to you about the dates ...”",
           "It begins with a prayer of thanksgiving for deliverance in 1 Thessalonians",
           "It opens with a formal census and counting of the congregation",
           "It records a severe judgment pronounced against neighboring nations"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "It records: “But about the times and their order, my brothers, there is no nee...”",
+        "correctAnswer": "It records: “Friends, we do not need to write anything to you about the dates ...”",
         "reference": "1 Thessalonians 5:1",
-        "explanation": "The chapter begins directly with the statement: 'But about the times and their order, my brothers, there is no need for me to say anything to you.'."
+        "explanation": "The chapter begins directly with the statement: 'Friends, we do not need to write anything to you about the dates and times when these things will happen.'."
       },
       {
         "id": "1th-5-q2",
         "questionNumber": 2,
         "question": "What key instruction, event, or declaration is set forth in 1 Thessalonians 5:2?",
         "options": [
-          "“For you are all sons of light and of...”",
-          "“For you yourselves have the knowledge that the day of the...”",
-          "“For God's purpose for us is not wrath, but...”",
+          "“All of you are people who belong to the...”",
+          "“You know very well about how the great day of the...”",
+          "“God did not choose us as his people so...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“For you yourselves have the knowledge that the day of the...”",
+        "correctAnswer": "“You know very well about how the great day of the...”",
         "reference": "1 Thessalonians 5:2",
-        "explanation": "1 Thessalonians 5:2 records: 'For you yourselves have the knowledge that the day of the Lord will come like a thief in the night.'."
+        "explanation": "1 Thessalonians 5:2 records: 'You know very well about how the great day of the Lord will happen. That day will surprise people very much, like when a robber comes in the night.'."
       },
       {
         "id": "1th-5-q3",
         "questionNumber": 3,
         "question": "What significant action or revelation occurs in 1 Thessalonians 5:4?",
         "options": [
-          "“For those who are sleeping do so in the...”",
-          "“So then, go on comforting and building up one...”",
-          "“But you, my brothers, are not in the dark, for that...”",
+          "“It is at night that people sleep. It is...”",
+          "“Because of that, you should help each other to...”",
+          "“But you, our Christian friends, know about these things. You are...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“But you, my brothers, are not in the dark, for that...”",
+        "correctAnswer": "“But you, our Christian friends, know about these things. You are...”",
         "reference": "1 Thessalonians 5:4",
-        "explanation": "1 Thessalonians 5:4 records: 'But you, my brothers, are not in the dark, for that day to overtake you like a thief:'."
+        "explanation": "1 Thessalonians 5:4 records: 'But you, our Christian friends, know about these things. You are not like people who live in the dark. So when the great day of the Lord happens, it should not suddenly surprise you, like a robber might surprise you.'."
       },
       {
         "id": "1th-5-q4",
         "questionNumber": 4,
         "question": "What truth or description is highlighted in 1 Thessalonians 5:6?",
         "options": [
-          "“For God's purpose for us is not wrath, but...”",
-          "“And have a high opinion of them in love...”",
+          "“God did not choose us as his people so...”",
+          "“Show them how valuable they are to you. And...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“So then, let us not take our rest as the others...”"
+          "“So we must watch carefully. We should be like people who...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“So then, let us not take our rest as the others...”",
+        "correctAnswer": "“So we must watch carefully. We should be like people who...”",
         "reference": "1 Thessalonians 5:6",
-        "explanation": "1 Thessalonians 5:6 records: 'So then, let us not take our rest as the others do, but let us be self-controlled and awake.'."
+        "explanation": "1 Thessalonians 5:6 records: 'So we must watch carefully. We should be like people who stay awake. We should not be like other people who are sleeping.'."
       },
       {
         "id": "1th-5-q5",
         "questionNumber": 5,
         "question": "According to the text, what happened or was commanded in 1 Thessalonians 5:8?",
         "options": [
-          "“But let us, who are of the day, be serious, putting...”",
-          "“So then, go on comforting and building up one...”",
-          "“Let no one give evil for evil; but ever...”",
+          "“But we belong to the day, not to the night. So...”",
+          "“Because of that, you should help each other to...”",
+          "“If someone does something bad against you, do not...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“But let us, who are of the day, be serious, putting...”",
+        "correctAnswer": "“But we belong to the day, not to the night. So...”",
         "reference": "1 Thessalonians 5:8",
-        "explanation": "1 Thessalonians 5:8 records: 'But let us, who are of the day, be serious, putting on the breastplate of faith and love, and on our heads, the hope of salvation.'."
+        "explanation": "1 Thessalonians 5:8 records: 'But we belong to the day, not to the night. So we should think clearly. We must prepare ourselves like a soldier who puts on his armour. We must continue to trust God and to love him. That will be like a metal shirt that keeps our body safe. We must also continue to hope that God will save us. That will be like a strong helmet that keeps our head safe.'."
       },
       {
         "id": "1th-5-q6",
         "questionNumber": 6,
         "question": "What central message or instruction is delivered in 1 Thessalonians 5:10?",
         "options": [
-          "“And have a high opinion of them in love...”",
-          "“Who was put to death for us, so that, awake or...”",
-          "“Keep on with your prayers.”",
+          "“Show them how valuable they are to you. And...”",
+          "“Jesus died on our behalf so that we can live together...”",
+          "“Pray at all times.”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“Who was put to death for us, so that, awake or...”",
+        "correctAnswer": "“Jesus died on our behalf so that we can live together...”",
         "reference": "1 Thessalonians 5:10",
-        "explanation": "1 Thessalonians 5:10 records: 'Who was put to death for us, so that, awake or sleeping, we may have a part in his life.'."
+        "explanation": "1 Thessalonians 5:10 records: 'Jesus died on our behalf so that we can live together with him. It does not matter whether we are alive or dead when he returns. We will all go to live with him.'."
       },
       {
         "id": "1th-5-q7",
         "questionNumber": 7,
         "question": "What detail regarding God's work, covenant, or people is given in 1 Thessalonians 5:12?",
         "options": [
-          "“Let no one give evil for evil; but ever...”",
-          "“Do not put out the light of the Spirit;”",
-          "“But we make this request to you, my brothers: give attention...”",
+          "“If someone does something bad against you, do not...”",
+          "“Do not stop the work of God's Spirit.”",
+          "“Our friends, we ask you to respect your leaders who work...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“But we make this request to you, my brothers: give attention...”",
+        "correctAnswer": "“Our friends, we ask you to respect your leaders who work...”",
         "reference": "1 Thessalonians 5:12",
-        "explanation": "1 Thessalonians 5:12 records: 'But we make this request to you, my brothers: give attention to those who are working among you, who are over you in the Lord to keep order among you;'."
+        "explanation": "1 Thessalonians 5:12 records: 'Our friends, we ask you to respect your leaders who work hard among you. On the Lord's behalf, they lead you and they teach you what is right.'."
       },
       {
         "id": "1th-5-q8",
         "questionNumber": 8,
         "question": "What phrase or account is recorded in 1 Thessalonians 5:14?",
         "options": [
-          "“Keep on with your prayers.”",
-          "“Let all things be tested; keep to what is...”",
+          "“Pray at all times.”",
+          "“Instead, think carefully about everything, to see if it...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“And our desire is that you will keep control over those...”"
+          "“Friends, you must warn lazy people. Tell them that they should...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“And our desire is that you will keep control over those...”",
+        "correctAnswer": "“Friends, you must warn lazy people. Tell them that they should...”",
         "reference": "1 Thessalonians 5:14",
-        "explanation": "1 Thessalonians 5:14 records: 'And our desire is that you will keep control over those whose lives are not well ordered, giving comfort to the feeble-hearted, supporting those with little strength, and putting up with much from all.'."
+        "explanation": "1 Thessalonians 5:14 records: 'Friends, you must warn lazy people. Tell them that they should work. If people are afraid, help them to be brave. If people are weak, take care of them. Be patient with everyone.'."
       },
       {
         "id": "1th-5-q9",
         "questionNumber": 9,
         "question": "How does the passage describe the circumstances or people in 1 Thessalonians 5:16?",
         "options": [
-          "“Have joy at all times.”",
-          "“Do not put out the light of the Spirit;”",
-          "“And may the God of peace himself make you...”",
+          "“Always be happy.”",
+          "“Do not stop the work of God's Spirit.”",
+          "“I pray that God will help you to be...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“Have joy at all times.”",
+        "correctAnswer": "“Always be happy.”",
         "reference": "1 Thessalonians 5:16",
-        "explanation": "1 Thessalonians 5:16 records: 'Have joy at all times.'."
+        "explanation": "1 Thessalonians 5:16 records: 'Always be happy.'."
       },
       {
         "id": "1th-5-q10",
         "questionNumber": 10,
         "question": "In the concluding portion of the chapter, what takes place in 1 Thessalonians 5:18?",
         "options": [
-          "“Let all things be tested; keep to what is...”",
-          "“In everything give praise: for this is the purpose of God...”",
-          "“Brothers, keep us in mind in your prayers.”",
+          "“Instead, think carefully about everything, to see if it...”",
+          "“Whatever may happen to you, continue to thank God. God wants...”",
+          "“Our Christian friends, please pray for us.”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“In everything give praise: for this is the purpose of God...”",
+        "correctAnswer": "“Whatever may happen to you, continue to thank God. God wants...”",
         "reference": "1 Thessalonians 5:18",
-        "explanation": "1 Thessalonians 5:18 records: 'In everything give praise: for this is the purpose of God in Christ Jesus for you.'."
+        "explanation": "1 Thessalonians 5:18 records: 'Whatever may happen to you, continue to thank God. God wants you to do that, because you belong to Christ Jesus.'."
       }
     ]
   }

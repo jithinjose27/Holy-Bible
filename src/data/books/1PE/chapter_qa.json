@@ -1,9 +1,6 @@
 {
-  "book": "1 Peter",
   "bookId": "1PE",
-  "totalChapters": 5,
-  "totalQuestions": 50,
-  "questionsPerChapter": 10,
+  "bookName": "1 Peter",
   "chapters": {
     "1": [
       {
@@ -11,150 +8,150 @@
         "questionNumber": 1,
         "question": "According to 1 Peter 1:1, what is the opening statement or setting of this chapter?",
         "options": [
-          "It records: “Peter, an Apostle of Jesus Christ, to the saints who are living i...”",
+          "It records: “This letter is from me, Peter. I am an apostle of Jesus Christ. I...”",
           "It begins with a prayer of thanksgiving for deliverance in 1 Peter",
           "It opens with a formal census and counting of the congregation",
           "It records a severe judgment pronounced against neighboring nations"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "It records: “Peter, an Apostle of Jesus Christ, to the saints who are living i...”",
+        "correctAnswer": "It records: “This letter is from me, Peter. I am an apostle of Jesus Christ. I...”",
         "reference": "1 Peter 1:1",
-        "explanation": "The chapter begins directly with the statement: 'Peter, an Apostle of Jesus Christ, to the saints who are living in Pontus, Galatia, Cappadocia, Asia, and Bithynia,'."
+        "explanation": "The chapter begins directly with the statement: 'This letter is from me, Peter. I am an apostle of Jesus Christ. I am writing to you, God's own people that he has chosen. You are now living in many different places, in the regions called Pontus, Galatia, Cappadocia, Asia and Bithynia. You are living in these foreign places as strangers.'."
       },
       {
         "id": "1pe-1-q2",
         "questionNumber": 2,
         "question": "What key instruction, event, or declaration is set forth in 1 Peter 1:2?",
         "options": [
-          "“Who, by the power of God are kept, through...”",
-          "“Who, through the purpose of God, have been made holy by...”",
-          "“For so you have the true end of your...”",
+          "“God is using his great power to keep you...”",
+          "“God the Father already decided that you should be his people....”",
+          "“You are happy now because God is saving you...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“Who, through the purpose of God, have been made holy by...”",
+        "correctAnswer": "“God the Father already decided that you should be his people....”",
         "reference": "1 Peter 1:2",
-        "explanation": "1 Peter 1:2 records: 'Who, through the purpose of God, have been made holy by the Spirit, disciples of Jesus, made clean by his blood: May you have grace and peace in full measure.'."
+        "explanation": "1 Peter 1:2 records: 'God the Father already decided that you should be his people. God's Spirit has made you special people who would obey Jesus Christ. God chose you so that Jesus Christ's blood would make you really clean. I pray that God will help you and give you peace in your minds more and more.'."
       },
       {
         "id": "1pe-1-q3",
         "questionNumber": 3,
         "question": "What significant action or revelation occurs in 1 Peter 1:4?",
         "options": [
-          "“So that the true metal of your faith, being...”",
-          "“Attempting to see what sort of time the Spirit...”",
-          "“And a heritage fair, holy and for ever new, waiting in...”",
+          "“The purpose of these troubles is to show whether...”",
+          "“They wanted to know when God's Messiah would come...”",
+          "“We wait to receive all the good things that he has...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“And a heritage fair, holy and for ever new, waiting in...”",
+        "correctAnswer": "“We wait to receive all the good things that he has...”",
         "reference": "1 Peter 1:4",
-        "explanation": "1 Peter 1:4 records: 'And a heritage fair, holy and for ever new, waiting in heaven for you,'."
+        "explanation": "1 Peter 1:4 records: 'We wait to receive all the good things that he has prepared for us. Nobody can ever destroy those things. Nothing can spoil them. They will never become old or less beautiful. God is keeping those things in heaven for you.'."
       },
       {
         "id": "1pe-1-q4",
         "questionNumber": 4,
         "question": "What truth or description is highlighted in 1 Peter 1:6?",
         "options": [
-          "“For so you have the true end of your...”",
-          "“So make your minds ready, and keep on the...”",
+          "“You are happy now because God is saving you...”",
+          "“So now, prepare your minds, so that you are...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“You have cause for great joy in this, though it may...”"
+          "“All this causes you to be very happy, even when you...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“You have cause for great joy in this, though it may...”",
+        "correctAnswer": "“All this causes you to be very happy, even when you...”",
         "reference": "1 Peter 1:6",
-        "explanation": "1 Peter 1:6 records: 'You have cause for great joy in this, though it may have been necessary for you to be troubled for a little time, being tested in all sorts of ways,'."
+        "explanation": "1 Peter 1:6 records: 'All this causes you to be very happy, even when you have troubles. For a short time now, different kinds of troubles may make you sad.'."
       },
       {
         "id": "1pe-1-q5",
         "questionNumber": 5,
         "question": "According to the text, what happened or was commanded in 1 Peter 1:8?",
         "options": [
-          "“To whom your love is given, though you have not seen...”",
-          "“Attempting to see what sort of time the Spirit...”",
-          "“But be holy in every detail of your lives,...”",
+          "“You have never seen Jesus, but still you love him. You...”",
+          "“They wanted to know when God's Messiah would come...”",
+          "“God has chosen you to be his own people....”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“To whom your love is given, though you have not seen...”",
+        "correctAnswer": "“You have never seen Jesus, but still you love him. You...”",
         "reference": "1 Peter 1:8",
-        "explanation": "1 Peter 1:8 records: 'To whom your love is given, though you have not seen him; and the faith which you have in him, though you do not see him now, gives you joy greater than words and full of glory:'."
+        "explanation": "1 Peter 1:8 records: 'You have never seen Jesus, but still you love him. You do not see him now, but you believe in him. As a result, you are very happy. There are no words to describe how happy you are.'."
       },
       {
         "id": "1pe-1-q6",
         "questionNumber": 6,
         "question": "What central message or instruction is delivered in 1 Peter 1:10?",
         "options": [
-          "“So make your minds ready, and keep on the...”",
-          "“For the prophets who gave the news of the grace which...”",
-          "“And if you give the name of Father to...”",
+          "“So now, prepare your minds, so that you are...”",
+          "“A long time ago, God's prophets spoke about this. They said...”",
+          "“God knows what each person has done, and he...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“For the prophets who gave the news of the grace which...”",
+        "correctAnswer": "“A long time ago, God's prophets spoke about this. They said...”",
         "reference": "1 Peter 1:10",
-        "explanation": "1 Peter 1:10 records: 'For the prophets who gave the news of the grace which would come to you, made search with all care for knowledge of this salvation;'."
+        "explanation": "1 Peter 1:10 records: 'A long time ago, God's prophets spoke about this. They said that God would be very kind to you, his people. They studied carefully to learn how God would save people.'."
       },
       {
         "id": "1pe-1-q7",
         "questionNumber": 7,
         "question": "What detail regarding God's work, covenant, or people is given in 1 Peter 1:12?",
         "options": [
-          "“But be holy in every detail of your lives,...”",
-          "“But through holy blood, like that of a clean...”",
-          "“And it was made clear to those prophets that they were...”",
+          "“God has chosen you to be his own people....”",
+          "“Instead, he bought you with the very valuable blood...”",
+          "“God showed his prophets that his messages about these things were...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“And it was made clear to those prophets that they were...”",
+        "correctAnswer": "“God showed his prophets that his messages about these things were...”",
         "reference": "1 Peter 1:12",
-        "explanation": "1 Peter 1:12 records: 'And it was made clear to those prophets that they were God's servants not for themselves but for you, to give you word of the things which have now come to your ears from the preachers of the good news through the Holy Spirit sent down from heaven; things which even angels have a desire to see.'."
+        "explanation": "1 Peter 1:12 records: 'God showed his prophets that his messages about these things were not really to help them. Instead, God sent his message to the prophets to help you. That message is the good news about Jesus Christ which you have now heard. God sent his Holy Spirit from heaven to help people to tell the good news to you. Even the angels would like to understand more about these things.'."
       },
       {
         "id": "1pe-1-q8",
         "questionNumber": 8,
         "question": "What phrase or account is recorded in 1 Peter 1:14?",
         "options": [
-          "“And if you give the name of Father to...”",
-          "“Who through him have faith in God who took...”",
+          "“God knows what each person has done, and he...”",
+          "“Yes, it is because of Christ that you now...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“Like children ruled by God, do not go back to the...”"
+          "“Obey God, like good children who obey their father. Before you...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“Like children ruled by God, do not go back to the...”",
+        "correctAnswer": "“Obey God, like good children who obey their father. Before you...”",
         "reference": "1 Peter 1:14",
-        "explanation": "1 Peter 1:14 records: 'Like children ruled by God, do not go back to the old desires of the time when you were without knowledge:'."
+        "explanation": "1 Peter 1:14 records: 'Obey God, like good children who obey their father. Before you knew the true message about Christ, you very much wanted to do bad things. But now you should not agree to live in that bad way.'."
       },
       {
         "id": "1pe-1-q9",
         "questionNumber": 9,
         "question": "How does the passage describe the circumstances or people in 1 Peter 1:16?",
         "options": [
-          "“Because it has been said in the Writings, You are to...”",
-          "“But through holy blood, like that of a clean...”",
-          "“Because you have had a new birth, not from...”",
+          "“In the Bible God says this: ‘You must be holy, because...”",
+          "“Instead, he bought you with the very valuable blood...”",
+          "“You now have a new life! It is not...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“Because it has been said in the Writings, You are to...”",
+        "correctAnswer": "“In the Bible God says this: ‘You must be holy, because...”",
         "reference": "1 Peter 1:16",
-        "explanation": "1 Peter 1:16 records: 'Because it has been said in the Writings, You are to be holy, for I am holy.'."
+        "explanation": "1 Peter 1:16 records: 'In the Bible God says this: ‘You must be holy, because I am holy.’'."
       },
       {
         "id": "1pe-1-q10",
         "questionNumber": 10,
         "question": "In the concluding portion of the chapter, what takes place in 1 Peter 1:18?",
         "options": [
-          "“Who through him have faith in God who took...”",
-          "“Being conscious that you have been made free from that foolish...”",
-          "“Peter, an Apostle of Jesus Christ, to the saints...”",
+          "“Yes, it is because of Christ that you now...”",
+          "“Your ancestors lived in a way that did not make them...”",
+          "“This letter is from me, Peter. I am an...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“Being conscious that you have been made free from that foolish...”",
+        "correctAnswer": "“Your ancestors lived in a way that did not make them...”",
         "reference": "1 Peter 1:18",
-        "explanation": "1 Peter 1:18 records: 'Being conscious that you have been made free from that foolish way of life which was your heritage from your fathers, not through a payment of things like silver or gold which come to destruction,'."
+        "explanation": "1 Peter 1:18 records: 'Your ancestors lived in a way that did not make them truly happy. That is the way that you learned to live as well. But now God has saved you from that way of life. You know that he has bought you for himself. He did not buy you with things that do not continue for ever, like silver or gold.'."
       }
     ],
     "2": [
@@ -163,150 +160,150 @@
         "questionNumber": 1,
         "question": "According to 1 Peter 2:1, what is the opening statement or setting of this chapter?",
         "options": [
-          "It records: “So putting away all wrongdoing, and all tricks and deceits and en...”",
+          "It records: “So you must refuse to do any evil things. Do not tell lies to dec...”",
           "It begins with a prayer of thanksgiving for deliverance in 1 Peter",
           "It opens with a formal census and counting of the congregation",
           "It records a severe judgment pronounced against neighboring nations"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "It records: “So putting away all wrongdoing, and all tricks and deceits and en...”",
+        "correctAnswer": "It records: “So you must refuse to do any evil things. Do not tell lies to dec...”",
         "reference": "1 Peter 2:1",
-        "explanation": "The chapter begins directly with the statement: 'So putting away all wrongdoing, and all tricks and deceits and envies and evil talk,'."
+        "explanation": "The chapter begins directly with the statement: 'So you must refuse to do any evil things. Do not tell lies to deceive people. Do not be hypocrites. Do not be jealous of other people. Do not say bad things against other people.'."
       },
       {
         "id": "1pe-2-q2",
         "questionNumber": 2,
         "question": "What key instruction, event, or declaration is set forth in 1 Peter 2:2?",
         "options": [
-          "“You, as living stones, are being made into a...”",
-          "“Be full of desire for the true milk of the word,...”",
-          "“But you are a special people, a holy nation,...”",
+          "“You yourselves are also like stones that are alive....”",
+          "“Instead, you should want to learn about God more and more....”",
+          "“But you are not like that. You are a...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“Be full of desire for the true milk of the word,...”",
+        "correctAnswer": "“Instead, you should want to learn about God more and more....”",
         "reference": "1 Peter 2:2",
-        "explanation": "1 Peter 2:2 records: 'Be full of desire for the true milk of the word, as babies at their mothers' breasts, so that you may go on to salvation;'."
+        "explanation": "1 Peter 2:2 records: 'Instead, you should want to learn about God more and more. New babies always want their mothers' milk, which makes them grow strong. God's message is like good food that will make you strong in your spirits. Then you will continue to grow as believers so that God saves you.'."
       },
       {
         "id": "1pe-2-q3",
         "questionNumber": 3,
         "question": "What significant action or revelation occurs in 1 Peter 2:4?",
         "options": [
-          "“And the value is for you who have faith;...”",
-          "“My loved ones, I make this request with all...”",
-          "“To whom you come, as to a living stone, not honoured...”",
+          "“This stone is very valuable to you who believe...”",
+          "“My friends, remember that you are really strangers in...”",
+          "“So come to the Lord Jesus. He is like a strong...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“To whom you come, as to a living stone, not honoured...”",
+        "correctAnswer": "“So come to the Lord Jesus. He is like a strong...”",
         "reference": "1 Peter 2:4",
-        "explanation": "1 Peter 2:4 records: 'To whom you come, as to a living stone, not honoured by men, but of great and special value to God;'."
+        "explanation": "1 Peter 2:4 records: 'So come to the Lord Jesus. He is like a strong stone that a builder uses to build a house. But he is alive. People decided that he was not important. So they refused to accept him. But God had chosen him. To God, Jesus is very valuable.'."
       },
       {
         "id": "1pe-2-q4",
         "questionNumber": 4,
         "question": "What truth or description is highlighted in 1 Peter 2:6?",
         "options": [
-          "“But you are a special people, a holy nation,...”",
-          "“Keep all the laws of men because of the...”",
+          "“But you are not like that. You are a...”",
+          "“Obey all people who have authority in this world....”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“Because it is said in the Writings, See, I am placing...”"
+          "“In the Bible, God says this: ‘Look, I have chosen a...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“Because it is said in the Writings, See, I am placing...”",
+        "correctAnswer": "“In the Bible, God says this: ‘Look, I have chosen a...”",
         "reference": "1 Peter 2:6",
-        "explanation": "1 Peter 2:6 records: 'Because it is said in the Writings, See, I am placing a keystone in Zion, of great and special value; and the man who has faith in him will not be put to shame.'."
+        "explanation": "1 Peter 2:6 records: 'In the Bible, God says this: ‘Look, I have chosen a stone that is very valuable. I have chosen this stone as the most important stone, for the corner of my house in Zion. Anyone who believes in him will never become disappointed.’ 7 This stone is very valuable to you who believe in Jesus. But the Bible says this about people who do not believe in him:‘The builders refused to use a certain stone.They thought that it had no value.But now that stone has become the most important stoneat the corner of the building.’2:7 8 The Bible also says this:‘This stone will cause people to fall to the ground.It is a rock that will make them fall down.’2:8They fall down like that because they refuse to obey God's message. God already decided that this would happen to them. 9 But you are not like that. You are a special group of people that God has chosen. You serve God like priests who serve a King. You are his own holy people who belong to him. He has taken you out of the dark place of sin, and he has brought you into his great light. God has done all this so that you can tell people how great he is. 10 In past times, you were not people who knew God. But now you are God's people. In past times, God did not forgive you. But now he has been very kind to you and he has forgiven you.2:92:10 11 My friends, remember that you are really strangers in this world. You do not belong here. So I am telling you not to do the bad things that your bodies may want to do. Those bad things fight against what is good for your soul. 12 You are living among people who do not know God. So be very careful that you always live in a good way. Sometimes these people may wrongly say that you do bad things. But if you continue to live in a good way, they will see that you really do good things. As a result, on the day when God comes as judge, they will give honour to him.Christians should obey people who have authority 13 Obey all people who have authority in this world. Obey them, because you are servants of the Lord Jesus. First of all, obey the king, who rules everyone. 14 Also obey the officers that serve the king. He has sent them to punish people who do bad things. And they praise people who do good things. 15 God wants you to do only what is good. Then silly people will not be able to say bad things against you. Those people do not really know what is true. 16 You are free people. But you are servants of God. So do not think, ‘Because I am free, I can do any bad thing that I want to do.’ 17 Respect all people. Love the believers as you would love your family. Obey God as your master. Respect the king. 18 You who are slaves must obey your masters. Always respect them. Do that to every kind of master. Obey those who are good and kind. But also obey masters who are not fair to you. 19 This makes God happy. Maybe your master will punish you when you have done nothing wrong. If you know that you are serving God, continue to be patient and brave. 20 But if you do something wrong, then your master ought to punish you. That is only fair. Even if you are brave when he is cruel to you, nobody should praise you for that. But your master may punish you even when you have done good things. Then God will be happy if you are patient and brave. 21 When God chose you to be his servants, he wanted you to be brave like that. Christ suffered on your behalf. He has shown you how you should live when trouble comes. 22 The Bible says this:‘He never did anything that was wrong.He never said anything that was not true.’2:22 23 People insulted Christ, but he did not say any bad thing to answer them. People caused him to have trouble, but he never tried to hurt them in return. Instead, Christ trusted God to help him. He knew that God always judges people fairly. 24 When Christ died on the cross, he carried our sins in his own body. He took this punishment so that sin would no longer rule over us. Instead, we can now do the right things that God wants us to do. Because people hurt Christ's body, you have now become well. 25 Before, you were like sheep that were going the wrong way. But now you have turned round and come to Christ. He is your Shepherd, and he keeps you completely safe.2:24'."
       },
       {
         "id": "1pe-2-q5",
         "questionNumber": 5,
         "question": "According to the text, what happened or was commanded in 1 Peter 2:8?",
         "options": [
-          "“And, A stone of falling, a rock of trouble; the word...”",
-          "“My loved ones, I make this request with all...”",
-          "“Because it is God's pleasure that foolish and narrow-minded...”",
+          "“The Bible also says this: ‘This stone will cause people to...”",
+          "“My friends, remember that you are really strangers in...”",
+          "“God wants you to do only what is good....”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“And, A stone of falling, a rock of trouble; the word...”",
+        "correctAnswer": "“The Bible also says this: ‘This stone will cause people to...”",
         "reference": "1 Peter 2:8",
-        "explanation": "1 Peter 2:8 records: 'And, A stone of falling, a rock of trouble; the word is the cause of their fall, because they go against it, and this was the purpose of God.'."
+        "explanation": "1 Peter 2:8 records: 'The Bible also says this: ‘This stone will cause people to fall to the ground. It is a rock that will make them fall down.’ They fall down like that because they refuse to obey God's message. God already decided that this would happen to them. 9 But you are not like that. You are a special group of people that God has chosen. You serve God like priests who serve a King. You are his own holy people who belong to him. He has taken you out of the dark place of sin, and he has brought you into his great light. God has done all this so that you can tell people how great he is. 10 In past times, you were not people who knew God. But now you are God's people. In past times, God did not forgive you. But now he has been very kind to you and he has forgiven you.2:92:10 11 My friends, remember that you are really strangers in this world. You do not belong here. So I am telling you not to do the bad things that your bodies may want to do. Those bad things fight against what is good for your soul. 12 You are living among people who do not know God. So be very careful that you always live in a good way. Sometimes these people may wrongly say that you do bad things. But if you continue to live in a good way, they will see that you really do good things. As a result, on the day when God comes as judge, they will give honour to him.Christians should obey people who have authority 13 Obey all people who have authority in this world. Obey them, because you are servants of the Lord Jesus. First of all, obey the king, who rules everyone. 14 Also obey the officers that serve the king. He has sent them to punish people who do bad things. And they praise people who do good things. 15 God wants you to do only what is good. Then silly people will not be able to say bad things against you. Those people do not really know what is true. 16 You are free people. But you are servants of God. So do not think, ‘Because I am free, I can do any bad thing that I want to do.’ 17 Respect all people. Love the believers as you would love your family. Obey God as your master. Respect the king. 18 You who are slaves must obey your masters. Always respect them. Do that to every kind of master. Obey those who are good and kind. But also obey masters who are not fair to you. 19 This makes God happy. Maybe your master will punish you when you have done nothing wrong. If you know that you are serving God, continue to be patient and brave. 20 But if you do something wrong, then your master ought to punish you. That is only fair. Even if you are brave when he is cruel to you, nobody should praise you for that. But your master may punish you even when you have done good things. Then God will be happy if you are patient and brave. 21 When God chose you to be his servants, he wanted you to be brave like that. Christ suffered on your behalf. He has shown you how you should live when trouble comes. 22 The Bible says this:‘He never did anything that was wrong.He never said anything that was not true.’2:22 23 People insulted Christ, but he did not say any bad thing to answer them. People caused him to have trouble, but he never tried to hurt them in return. Instead, Christ trusted God to help him. He knew that God always judges people fairly. 24 When Christ died on the cross, he carried our sins in his own body. He took this punishment so that sin would no longer rule over us. Instead, we can now do the right things that God wants us to do. Because people hurt Christ's body, you have now become well. 25 Before, you were like sheep that were going the wrong way. But now you have turned round and come to Christ. He is your Shepherd, and he keeps you completely safe.2:24 They fall down like that because they refuse to obey God's message. God already decided that this would happen to them.'."
       },
       {
         "id": "1pe-2-q6",
         "questionNumber": 6,
         "question": "What central message or instruction is delivered in 1 Peter 2:10?",
         "options": [
-          "“Keep all the laws of men because of the...”",
-          "“In the past you were not a people, but now you...”",
-          "“Have respect for all, loving the brothers, fearing God,...”",
+          "“Obey all people who have authority in this world....”",
+          "“In past times, you were not people who knew God. But...”",
+          "“Respect all people. Love the believers as you would...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“In the past you were not a people, but now you...”",
+        "correctAnswer": "“In past times, you were not people who knew God. But...”",
         "reference": "1 Peter 2:10",
-        "explanation": "1 Peter 2:10 records: 'In the past you were not a people, but now you are the people of God; then there was no mercy for you, but now mercy has been given to you.'."
+        "explanation": "1 Peter 2:10 records: 'In past times, you were not people who knew God. But now you are God's people. In past times, God did not forgive you. But now he has been very kind to you and he has forgiven you.'."
       },
       {
         "id": "1pe-2-q7",
         "questionNumber": 7,
         "question": "What detail regarding God's work, covenant, or people is given in 1 Peter 2:12?",
         "options": [
-          "“Because it is God's pleasure that foolish and narrow-minded...”",
-          "“For it is a sign of grace if a...”",
-          "“Being of good behaviour among the Gentiles; so that though they...”",
+          "“God wants you to do only what is good....”",
+          "“This makes God happy. Maybe your master will punish...”",
+          "“You are living among people who do not know God. So...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“Being of good behaviour among the Gentiles; so that though they...”",
+        "correctAnswer": "“You are living among people who do not know God. So...”",
         "reference": "1 Peter 2:12",
-        "explanation": "1 Peter 2:12 records: 'Being of good behaviour among the Gentiles; so that though they say now that you are evil-doers, they may see your good works and give glory to God when he comes to be their judge.'."
+        "explanation": "1 Peter 2:12 records: 'You are living among people who do not know God. So be very careful that you always live in a good way. Sometimes these people may wrongly say that you do bad things. But if you continue to live in a good way, they will see that you really do good things. As a result, on the day when God comes as judge, they will give honour to him.'."
       },
       {
         "id": "1pe-2-q8",
         "questionNumber": 8,
         "question": "What phrase or account is recorded in 1 Peter 2:14?",
         "options": [
-          "“Have respect for all, loving the brothers, fearing God,...”",
-          "“This is God's purpose for you: because Jesus himself...”",
+          "“Respect all people. Love the believers as you would...”",
+          "“When God chose you to be his servants, he...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“And those of the rulers who are sent by him for...”"
+          "“Also obey the officers that serve the king. He has sent...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“And those of the rulers who are sent by him for...”",
+        "correctAnswer": "“Also obey the officers that serve the king. He has sent...”",
         "reference": "1 Peter 2:14",
-        "explanation": "1 Peter 2:14 records: 'And those of the rulers who are sent by him for the punishment of evil-doers and for the praise of those who do well.'."
+        "explanation": "1 Peter 2:14 records: 'Also obey the officers that serve the king. He has sent them to punish people who do bad things. And they praise people who do good things.'."
       },
       {
         "id": "1pe-2-q9",
         "questionNumber": 9,
         "question": "How does the passage describe the circumstances or people in 1 Peter 2:16?",
         "options": [
-          "“As those who are free, not using your free position as...”",
-          "“For it is a sign of grace if a...”",
-          "“To sharp words he gave no sharp answer; when...”",
+          "“You are free people. But you are servants of God. So...”",
+          "“This makes God happy. Maybe your master will punish...”",
+          "“People insulted Christ, but he did not say any...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“As those who are free, not using your free position as...”",
+        "correctAnswer": "“You are free people. But you are servants of God. So...”",
         "reference": "1 Peter 2:16",
-        "explanation": "1 Peter 2:16 records: 'As those who are free, not using your free position as a cover for wrongdoing, but living as the servants of God;'."
+        "explanation": "1 Peter 2:16 records: 'You are free people. But you are servants of God. So do not think, ‘Because I am free, I can do any bad thing that I want to do.’'."
       },
       {
         "id": "1pe-2-q10",
         "questionNumber": 10,
         "question": "In the concluding portion of the chapter, what takes place in 1 Peter 2:18?",
         "options": [
-          "“This is God's purpose for you: because Jesus himself...”",
-          "“Servants, take orders from your masters with all respect; not only...”",
-          "“So putting away all wrongdoing, and all tricks and...”",
+          "“When God chose you to be his servants, he...”",
+          "“You who are slaves must obey your masters. Always respect them....”",
+          "“So you must refuse to do any evil things....”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“Servants, take orders from your masters with all respect; not only...”",
+        "correctAnswer": "“You who are slaves must obey your masters. Always respect them....”",
         "reference": "1 Peter 2:18",
-        "explanation": "1 Peter 2:18 records: 'Servants, take orders from your masters with all respect; not only if they are good and gentle, but even if they are bad-humoured.'."
+        "explanation": "1 Peter 2:18 records: 'You who are slaves must obey your masters. Always respect them. Do that to every kind of master. Obey those who are good and kind. But also obey masters who are not fair to you.'."
       }
     ],
     "3": [
@@ -315,150 +312,150 @@
         "questionNumber": 1,
         "question": "According to 1 Peter 3:1, what is the opening statement or setting of this chapter?",
         "options": [
-          "It records: “Wives, be ruled by your husbands; so that even if some of them gi...”",
+          "It records: “I need to speak to you wives. You should each respect the authori...”",
           "It begins with a prayer of thanksgiving for deliverance in 1 Peter",
           "It opens with a formal census and counting of the congregation",
           "It records a severe judgment pronounced against neighboring nations"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "It records: “Wives, be ruled by your husbands; so that even if some of them gi...”",
+        "correctAnswer": "It records: “I need to speak to you wives. You should each respect the authori...”",
         "reference": "1 Peter 3:1",
-        "explanation": "The chapter begins directly with the statement: 'Wives, be ruled by your husbands; so that even if some of them give no attention to the word, their hearts may be changed by the behaviour of their wives,'."
+        "explanation": "The chapter begins directly with the statement: 'I need to speak to you wives. You should each respect the authority of your own husband. Even if your husband does not believe God's message about Jesus Christ, you should still respect him. If you do that, he may then turn to God and believe his message. You will not need to tell him what is true. He will see the good way that you live.'."
       },
       {
         "id": "1pe-3-q2",
         "questionNumber": 2,
         "question": "What key instruction, event, or declaration is set forth in 1 Peter 3:2?",
         "options": [
-          "“And these were the ornaments of the holy women...”",
-          "“When they see your holy behaviour in the fear of God.”",
-          "“Not giving back evil for evil, or curse for...”",
+          "“That was how holy women made themselves beautiful many...”",
+          "“He will see that you obey God and that you do...”",
+          "“If people do bad things to you, do not...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“When they see your holy behaviour in the fear of God.”",
+        "correctAnswer": "“He will see that you obey God and that you do...”",
         "reference": "1 Peter 3:2",
-        "explanation": "1 Peter 3:2 records: 'When they see your holy behaviour in the fear of God.'."
+        "explanation": "1 Peter 3:2 records: 'He will see that you obey God and that you do things that are completely good.'."
       },
       {
         "id": "1pe-3-q3",
         "questionNumber": 3,
         "question": "What significant action or revelation occurs in 1 Peter 3:4?",
         "options": [
-          "“And you husbands, give thought to your way of...”",
-          "“And let him be turned from evil and do...”",
-          "“But let them be those of the unseen man of the...”",
+          "“You husbands must also respect your wives. Be kind...”",
+          "“Stop doing evil things. Instead, do things that are...”",
+          "“Do not only think about your body, but think about what...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“But let them be those of the unseen man of the...”",
+        "correctAnswer": "“Do not only think about your body, but think about what...”",
         "reference": "1 Peter 3:4",
-        "explanation": "1 Peter 3:4 records: 'But let them be those of the unseen man of the heart, the ever-shining ornament of a gentle and quiet spirit, which is of great price in the eyes of God.'."
+        "explanation": "1 Peter 3:4 records: 'Do not only think about your body, but think about what you are really like inside yourself. Be patient and do not become angry easily. Then you will always continue to be beautiful. If you are beautiful in your spirit, God likes that very much.'."
       },
       {
         "id": "1pe-3-q4",
         "questionNumber": 4,
         "question": "What truth or description is highlighted in 1 Peter 3:6?",
         "options": [
-          "“Not giving back evil for evil, or curse for...”",
-          "“Who will do you any damage if you keep...”",
+          "“If people do bad things to you, do not...”",
+          "“If you always try to do good things, then...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“As Sarah was ruled by Abraham, naming him lord; whose children...”"
+          "“Sarah was a woman like that. She obeyed her husband, Abraham....”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“As Sarah was ruled by Abraham, naming him lord; whose children...”",
+        "correctAnswer": "“Sarah was a woman like that. She obeyed her husband, Abraham....”",
         "reference": "1 Peter 3:6",
-        "explanation": "1 Peter 3:6 records: 'As Sarah was ruled by Abraham, naming him lord; whose children you are if you do well, and are not put in fear by any danger.'."
+        "explanation": "1 Peter 3:6 records: 'Sarah was a woman like that. She obeyed her husband, Abraham. She called him, ‘My master’. So you wives also should do what is right. Do not let anything make you afraid. Then you will be like true daughters of Sarah.'."
       },
       {
         "id": "1pe-3-q5",
         "questionNumber": 5,
         "question": "According to the text, what happened or was commanded in 1 Peter 3:8?",
         "options": [
-          "“Last of all, see that you are all in agreement; feeling...”",
-          "“And let him be turned from evil and do...”",
-          "“But give honour to Christ in your hearts as...”",
+          "“Now I want to say this to you before I finish...”",
+          "“Stop doing evil things. Instead, do things that are...”",
+          "“Instead, always remember that Christ is your Lord. Let...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“Last of all, see that you are all in agreement; feeling...”",
+        "correctAnswer": "“Now I want to say this to you before I finish...”",
         "reference": "1 Peter 3:8",
-        "explanation": "1 Peter 3:8 records: 'Last of all, see that you are all in agreement; feeling for one another, loving one another like brothers, full of pity, without pride:'."
+        "explanation": "1 Peter 3:8 records: 'Now I want to say this to you before I finish my letter. All of you should agree with each other in what you think. You should try to understand how other people are feeling. Love each other as brothers and sisters. Be kind to each other. Do not think that you are more important than other people.'."
       },
       {
         "id": "1pe-3-q6",
         "questionNumber": 6,
         "question": "What central message or instruction is delivered in 1 Peter 3:10?",
         "options": [
-          "“Who will do you any damage if you keep...”",
-          "“For it is said, Let the man who has a love...”",
-          "“Because if it is God's purpose for you to...”",
+          "“If you always try to do good things, then...”",
+          "“The Bible says this: ‘Do you want to enjoy your life?...”",
+          "“God may allow you to suffer even when you...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“For it is said, Let the man who has a love...”",
+        "correctAnswer": "“The Bible says this: ‘Do you want to enjoy your life?...”",
         "reference": "1 Peter 3:10",
-        "explanation": "1 Peter 3:10 records: 'For it is said, Let the man who has a love of life, desiring to see good days, keep his tongue from evil and his lips from words of deceit:'."
+        "explanation": "1 Peter 3:10 records: 'The Bible says this: ‘Do you want to enjoy your life? Do you want to be happy? Then you must be careful not to say evil things. Do not tell any lies.'."
       },
       {
         "id": "1pe-3-q7",
         "questionNumber": 7,
         "question": "What detail regarding God's work, covenant, or people is given in 1 Peter 3:12?",
         "options": [
-          "“But give honour to Christ in your hearts as...”",
-          "“By whom he went to the spirits in prison,...”",
-          "“For the eyes of the Lord are on the upright, and...”",
+          "“Instead, always remember that Christ is your Lord. Let...”",
+          "“Like this, Jesus went to the spirits who were...”",
+          "“Remember that the Lord God sees what everyone does. He takes...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“For the eyes of the Lord are on the upright, and...”",
+        "correctAnswer": "“Remember that the Lord God sees what everyone does. He takes...”",
         "reference": "1 Peter 3:12",
-        "explanation": "1 Peter 3:12 records: 'For the eyes of the Lord are on the upright, and his ears are open to their prayers: but the face of the Lord is against those who do evil.'."
+        "explanation": "1 Peter 3:12 records: 'Remember that the Lord God sees what everyone does. He takes care of people who do what is right. When they pray, he listens to them. But the Lord God turns against people who do evil things.’ 13 If you always try to do good things, then nobody should hurt you. 14 But you may suffer, even when you do what is right. If that happens, God will bless you. So do not be afraid of what people may do to you. Do not worry about it. 15 Instead, always remember that Christ is your Lord. Let him rule how you live.People may ask you, ‘Why do you trust God to help you?’ You must always be ready to answer them about that. 16 But when you tell them, be kind and respect them. Do only what you know is right. Then those people will see that you live in a good way because you believe in Christ. When they say bad things against you, they will become ashamed. 17 God may allow you to suffer even when you have done good things. But that is better than if you suffer because you have done bad things. 18 Christ himself always did what was right. But he suffered on behalf of people who do what is wrong. He died once to take away all those wrong things. He did that to bring you near to God. People killed Christ's body, but God's Spirit made him alive again. 19 Like this, Jesus went to the spirits who were in prison. He told them God's true message. 20 Those were the spirits of people who had refused to obey God long ago. At that time God waited patiently for them to turn to him while Noah was building a large ship. But only a few people agreed to go into that ship. God saved only eight people when the ship sailed on the deep water. 21 That shows how God now saves you. It is like a picture of baptism. The water of baptism does not wash dirt from a person's body. Instead, it shows that a person has decided to obey God. He is choosing to do what is right. That saves you, because Jesus Christ became alive again after his death.3:20 22 After that, Jesus went into heaven. Now he is sitting at God's right side. He rules over angels and over everything that has authority and power.3:22'."
       },
       {
         "id": "1pe-3-q8",
         "questionNumber": 8,
         "question": "What phrase or account is recorded in 1 Peter 3:14?",
         "options": [
-          "“Because if it is God's purpose for you to...”",
-          "“And baptism, of which this is an image, now...”",
+          "“God may allow you to suffer even when you...”",
+          "“That shows how God now saves you. It is...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“But you are happy if you undergo pain because of righteousness;...”"
+          "“But you may suffer, even when you do what is right....”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“But you are happy if you undergo pain because of righteousness;...”",
+        "correctAnswer": "“But you may suffer, even when you do what is right....”",
         "reference": "1 Peter 3:14",
-        "explanation": "1 Peter 3:14 records: 'But you are happy if you undergo pain because of righteousness; have no part in their fear and do not be troubled;'."
+        "explanation": "1 Peter 3:14 records: 'But you may suffer, even when you do what is right. If that happens, God will bless you. So do not be afraid of what people may do to you. Do not worry about it.'."
       },
       {
         "id": "1pe-3-q9",
         "questionNumber": 9,
         "question": "How does the passage describe the circumstances or people in 1 Peter 3:16?",
         "options": [
-          "“Being conscious that you have done no wrong; so that those...”",
-          "“By whom he went to the spirits in prison,...”",
-          "“Wives, be ruled by your husbands; so that even...”",
+          "“But when you tell them, be kind and respect them. Do...”",
+          "“Like this, Jesus went to the spirits who were...”",
+          "“I need to speak to you wives. You should...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“Being conscious that you have done no wrong; so that those...”",
+        "correctAnswer": "“But when you tell them, be kind and respect them. Do...”",
         "reference": "1 Peter 3:16",
-        "explanation": "1 Peter 3:16 records: 'Being conscious that you have done no wrong; so that those who say evil things about your good way of life as Christians may be put to shame.'."
+        "explanation": "1 Peter 3:16 records: 'But when you tell them, be kind and respect them. Do only what you know is right. Then those people will see that you live in a good way because you believe in Christ. When they say bad things against you, they will become ashamed.'."
       },
       {
         "id": "1pe-3-q10",
         "questionNumber": 10,
         "question": "In the concluding portion of the chapter, what takes place in 1 Peter 3:18?",
         "options": [
-          "“And baptism, of which this is an image, now...”",
-          "“Because Christ once went through pain for sins, the upright one...”",
-          "“Do not let your ornaments be those of the...”",
+          "“That shows how God now saves you. It is...”",
+          "“Christ himself always did what was right. But he suffered on...”",
+          "“Think about what makes you beautiful. The way that...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“Because Christ once went through pain for sins, the upright one...”",
+        "correctAnswer": "“Christ himself always did what was right. But he suffered on...”",
         "reference": "1 Peter 3:18",
-        "explanation": "1 Peter 3:18 records: 'Because Christ once went through pain for sins, the upright one taking the place of sinners, so that through him we might come back to God; being put to death in the flesh, but given life in the Spirit;'."
+        "explanation": "1 Peter 3:18 records: 'Christ himself always did what was right. But he suffered on behalf of people who do what is wrong. He died once to take away all those wrong things. He did that to bring you near to God. People killed Christ's body, but God's Spirit made him alive again.'."
       }
     ],
     "4": [
@@ -467,150 +464,150 @@
         "questionNumber": 1,
         "question": "According to 1 Peter 4:1, what is the opening statement or setting of this chapter?",
         "options": [
-          "It records: “So that as Jesus was put to death in the flesh, do you yourselves...”",
+          "It records: “Christ suffered while he lived in his human body. So you should p...”",
           "It begins with a prayer of thanksgiving for deliverance in 1 Peter",
           "It opens with a formal census and counting of the congregation",
           "It records a severe judgment pronounced against neighboring nations"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "It records: “So that as Jesus was put to death in the flesh, do you yourselves...”",
+        "correctAnswer": "It records: “Christ suffered while he lived in his human body. So you should p...”",
         "reference": "1 Peter 4:1",
-        "explanation": "The chapter begins directly with the statement: 'So that as Jesus was put to death in the flesh, do you yourselves be of the same mind; for the death of the flesh puts an end to sin;'."
+        "explanation": "The chapter begins directly with the statement: 'Christ suffered while he lived in his human body. So you should prepare yourselves to suffer too. Think about it in the same way that Christ did. If someone suffers in his body, he has finished with sin.'."
       },
       {
         "id": "1pe-4-q2",
         "questionNumber": 2,
         "question": "What key instruction, event, or declaration is set forth in 1 Peter 4:2?",
         "options": [
-          "“But they will have to give an account of...”",
-          "“So that you may give the rest of your lives in...”",
-          "“Keep open house for all with a glad heart;”",
+          "“But those people will have to explain to God...”",
+          "“As a result, that person will want to do what God...”",
+          "“Always be happy to have other believers as visitors...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“So that you may give the rest of your lives in...”",
+        "correctAnswer": "“As a result, that person will want to do what God...”",
         "reference": "1 Peter 4:2",
-        "explanation": "1 Peter 4:2 records: 'So that you may give the rest of your lives in the flesh, not to the desires of men, but to the purpose of God.'."
+        "explanation": "1 Peter 4:2 records: 'As a result, that person will want to do what God wants him to do. In his life in this world, he will not want to do the bad things that people think are good.'."
       },
       {
         "id": "1pe-4-q3",
         "questionNumber": 3,
         "question": "What significant action or revelation occurs in 1 Peter 4:3?",
         "options": [
-          "“For this was the reason why the good news...”",
-          "“Making distribution among one another of whatever has been...”",
-          "“Because for long enough, in times past, we have been living...”",
+          "“That is why even people who have already died...”",
+          "“God has helped each of you with a certain...”",
+          "“You have already had enough time in your life to do...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“Because for long enough, in times past, we have been living...”",
+        "correctAnswer": "“You have already had enough time in your life to do...”",
         "reference": "1 Peter 4:3",
-        "explanation": "1 Peter 4:3 records: 'Because for long enough, in times past, we have been living after the way of the Gentiles, given up to the desires of the flesh, to drinking and feasting and loose behaviour and unclean worship of images;'."
+        "explanation": "1 Peter 4:3 records: 'You have already had enough time in your life to do bad things. Those are the kinds of things that people who do not know God like to do. You did many evil things that your bodies wanted to do. You had sex in a wrong way. You often became drunk. You went to wild parties where you drank too much alcohol. You also worshipped useless idols.'."
       },
       {
         "id": "1pe-4-q4",
         "questionNumber": 4,
         "question": "What truth or description is highlighted in 1 Peter 4:4?",
         "options": [
-          "“But the end of all things is near: so...”",
-          "“If anyone has anything to say, let it be...”",
+          "“All things in this world will soon come to...”",
+          "“Has God helped you to speak well? Then speak...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“And they are wondering that you no longer go with them...”"
+          "“But now you no longer live in the same wicked way...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“And they are wondering that you no longer go with them...”",
+        "correctAnswer": "“But now you no longer live in the same wicked way...”",
         "reference": "1 Peter 4:4",
-        "explanation": "1 Peter 4:4 records: 'And they are wondering that you no longer go with them in this violent wasting of life, and are saying evil things of you:'."
+        "explanation": "1 Peter 4:4 records: 'But now you no longer live in the same wicked way as those people do. They continue to enjoy those wrong things all the time. But you do not join with them. So they insult you.'."
       },
       {
         "id": "1pe-4-q5",
         "questionNumber": 5,
         "question": "According to the text, what happened or was commanded in 1 Peter 4:5?",
         "options": [
-          "“But they will have to give an account of themselves to...”",
-          "“And most of all be warm in your love...”",
-          "“Dear brothers, do not be surprised, as if it...”",
+          "“But those people will have to explain to God what they...”",
+          "“Continue to love each other very much. That is...”",
+          "“My friends, I know that people are causing you...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“But they will have to give an account of themselves to...”",
+        "correctAnswer": "“But those people will have to explain to God what they...”",
         "reference": "1 Peter 4:5",
-        "explanation": "1 Peter 4:5 records: 'But they will have to give an account of themselves to him who is ready to be the judge of the living and the dead.'."
+        "explanation": "1 Peter 4:5 records: 'But those people will have to explain to God what they have done. He is ready to judge every person, whether they are alive now or they have already died.'."
       },
       {
         "id": "1pe-4-q6",
         "questionNumber": 6,
         "question": "What central message or instruction is delivered in 1 Peter 4:6?",
         "options": [
-          "“Keep open house for all with a glad heart;”",
-          "“For this was the reason why the good news of Jesus...”",
-          "“But be glad that you are given a part...”",
+          "“Always be happy to have other believers as visitors...”",
+          "“That is why even people who have already died needed to...”",
+          "“Instead, be happy when you have trouble. Remember that...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“For this was the reason why the good news of Jesus...”",
+        "correctAnswer": "“That is why even people who have already died needed to...”",
         "reference": "1 Peter 4:6",
-        "explanation": "1 Peter 4:6 records: 'For this was the reason why the good news of Jesus was given even to the dead, so that they might be judged as men in the flesh, but might be living before God in the spirit.'."
+        "explanation": "1 Peter 4:6 records: 'That is why even people who have already died needed to hear the good news about Christ. Their bodies had to die, as all people must die. But they heard the good news so that their spirits could live, as God wants them to live.'."
       },
       {
         "id": "1pe-4-q7",
         "questionNumber": 7,
         "question": "What detail regarding God's work, covenant, or people is given in 1 Peter 4:7?",
         "options": [
-          "“Making distribution among one another of whatever has been...”",
-          "“If men say evil things of you because of...”",
-          "“But the end of all things is near: so be serious...”",
+          "“God has helped each of you with a certain...”",
+          "“People may insult you because you belong to Christ....”",
+          "“All things in this world will soon come to an end....”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“But the end of all things is near: so be serious...”",
+        "correctAnswer": "“All things in this world will soon come to an end....”",
         "reference": "1 Peter 4:7",
-        "explanation": "1 Peter 4:7 records: 'But the end of all things is near: so be serious in your behaviour and keep on the watch with prayer;'."
+        "explanation": "1 Peter 4:7 records: 'All things in this world will soon come to an end. So you must think clearly. Then you will be able to pray in a serious way.'."
       },
       {
         "id": "1pe-4-q8",
         "questionNumber": 8,
         "question": "What phrase or account is recorded in 1 Peter 4:8?",
         "options": [
-          "“If anyone has anything to say, let it be...”",
-          "“Let no one among you undergo punishment as a...”",
+          "“Has God helped you to speak well? Then speak...”",
+          "“Do not murder anyone. Do not rob anyone. Do...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“And most of all be warm in your love for one...”"
+          "“Continue to love each other very much. That is more important...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“And most of all be warm in your love for one...”",
+        "correctAnswer": "“Continue to love each other very much. That is more important...”",
         "reference": "1 Peter 4:8",
-        "explanation": "1 Peter 4:8 records: 'And most of all be warm in your love for one another; because in love there is forgiveness for sins without number:'."
+        "explanation": "1 Peter 4:8 records: 'Continue to love each other very much. That is more important than anything else. If you love people, you will forgive them for any wrong things that they have done.'."
       },
       {
         "id": "1pe-4-q9",
         "questionNumber": 9,
         "question": "How does the passage describe the circumstances or people in 1 Peter 4:9?",
         "options": [
-          "“Keep open house for all with a glad heart;”",
-          "“Dear brothers, do not be surprised, as if it...”",
-          "“But if he undergoes punishment as a Christian, that...”",
+          "“Always be happy to have other believers as visitors in your homes.”",
+          "“My friends, I know that people are causing you...”",
+          "“But if you receive trouble because you are a...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“Keep open house for all with a glad heart;”",
+        "correctAnswer": "“Always be happy to have other believers as visitors in your homes.”",
         "reference": "1 Peter 4:9",
-        "explanation": "1 Peter 4:9 records: 'Keep open house for all with a glad heart;'."
+        "explanation": "1 Peter 4:9 records: 'Always be happy to have other believers as visitors in your homes.'."
       },
       {
         "id": "1pe-4-q10",
         "questionNumber": 10,
         "question": "In the concluding portion of the chapter, what takes place in 1 Peter 4:10?",
         "options": [
-          "“But be glad that you are given a part...”",
-          "“Making distribution among one another of whatever has been given to...”",
-          "“For the time has come for the judging, starting...”",
+          "“Instead, be happy when you have trouble. Remember that...”",
+          "“God has helped each of you with a certain gift. Think...”",
+          "“The time has come when God will start to...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“Making distribution among one another of whatever has been given to...”",
+        "correctAnswer": "“God has helped each of you with a certain gift. Think...”",
         "reference": "1 Peter 4:10",
-        "explanation": "1 Peter 4:10 records: 'Making distribution among one another of whatever has been given to you, like true servants of the unmeasured grace of God;'."
+        "explanation": "1 Peter 4:10 records: 'God has helped each of you with a certain gift. Think carefully about how to use that gift from God well. Remember that God has given many different gifts to his people so that they can help each other.'."
       }
     ],
     "5": [
@@ -619,150 +616,150 @@
         "questionNumber": 1,
         "question": "According to 1 Peter 5:1, what is the opening statement or setting of this chapter?",
         "options": [
-          "It records: “I who am myself one of the rulers of the church, and a witness of...”",
+          "It records: “Now I want to say something to you who are leaders of the groups ...”",
           "It begins with a prayer of thanksgiving for deliverance in 1 Peter",
           "It opens with a formal census and counting of the congregation",
           "It records a severe judgment pronounced against neighboring nations"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "It records: “I who am myself one of the rulers of the church, and a witness of...”",
+        "correctAnswer": "It records: “Now I want to say something to you who are leaders of the groups ...”",
         "reference": "1 Peter 5:1",
-        "explanation": "The chapter begins directly with the statement: 'I who am myself one of the rulers of the church, and a witness of the death of Christ, having my part in the coming glory, send this serious request to the chief men among you:'."
+        "explanation": "The chapter begins directly with the statement: 'Now I want to say something to you who are leaders of the groups of believers. Like you, I am also a leader. I myself saw how people caused Christ to have great pain so that he died. One day people will see how great he really is. Then I will be among those people who join with him in heaven. So I say this to you who are leaders:'."
       },
       {
         "id": "1pe-5-q2",
         "questionNumber": 2,
         "question": "What key instruction, event, or declaration is set forth in 1 Peter 5:2?",
         "options": [
-          "“And in the same way, let the younger men...”",
-          "“Keep watch over the flock of God which is in your...”",
-          "“Do not give way to him but be strong...”",
+          "“I want to say the same thing to you...”",
+          "“Watch over the group of believers that God has given to...”",
+          "“But you must be strong to fight against him....”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“Keep watch over the flock of God which is in your...”",
+        "correctAnswer": "“Watch over the group of believers that God has given to...”",
         "reference": "1 Peter 5:2",
-        "explanation": "1 Peter 5:2 records: 'Keep watch over the flock of God which is in your care, using your authority, not as forced to do so, but gladly; and not for unclean profit but with a ready mind;'."
+        "explanation": "1 Peter 5:2 records: 'Watch over the group of believers that God has given to you. Be like a shepherd that takes care of his sheep. Lead them well because you want to do it. Do not do it only because you have to do it. Do it in the way that God wants for you. Do not be a leader because you want to receive money for yourself. Instead, do it because you want to help people.'."
       },
       {
         "id": "1pe-5-q3",
         "questionNumber": 3,
         "question": "What significant action or revelation occurs in 1 Peter 5:3?",
         "options": [
-          "“For this cause make yourselves low under the strong...”",
-          "“And after you have undergone pain for a little...”",
-          "“Not as lords over God's heritage, but making yourselves examples to...”",
+          "“Remember that God is strong and powerful. So be...”",
+          "“Yes, you will have trouble like this for a...”",
+          "“God has given you a group of believers to take care...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“Not as lords over God's heritage, but making yourselves examples to...”",
+        "correctAnswer": "“God has given you a group of believers to take care...”",
         "reference": "1 Peter 5:3",
-        "explanation": "1 Peter 5:3 records: 'Not as lords over God's heritage, but making yourselves examples to the flock.'."
+        "explanation": "1 Peter 5:3 records: 'God has given you a group of believers to take care of them. Do not try to rule over them with power. Instead, show them how to live in a good way, so that they can copy you.'."
       },
       {
         "id": "1pe-5-q4",
         "questionNumber": 4,
         "question": "What truth or description is highlighted in 1 Peter 5:4?",
         "options": [
-          "“Putting all your troubles on him, for he takes...”",
-          "“His is the power for ever. So be it.”",
+          "“If you have any kind of trouble in your...”",
+          "“Yes, God rules with power for ever! Amen.”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“And at the coming of the chief Keeper of the sheep,...”"
+          "“Then our master, Christ, will give you a beautiful crown when...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“And at the coming of the chief Keeper of the sheep,...”",
+        "correctAnswer": "“Then our master, Christ, will give you a beautiful crown when...”",
         "reference": "1 Peter 5:4",
-        "explanation": "1 Peter 5:4 records: 'And at the coming of the chief Keeper of the sheep, you will be given the eternal crown of glory.'."
+        "explanation": "1 Peter 5:4 records: 'Then our master, Christ, will give you a beautiful crown when he appears. That is a great gift that will never become old or less beautiful. He is the great Shepherd who takes care of us.'."
       },
       {
         "id": "1pe-5-q5",
         "questionNumber": 5,
         "question": "According to the text, what happened or was commanded in 1 Peter 5:5?",
         "options": [
-          "“And in the same way, let the younger men be ruled...”",
-          "“Be serious and keep watch; the Evil One, who...”",
-          "“I have sent you this short letter by Silvanus,...”",
+          "“I want to say the same thing to you who are...”",
+          "“Think seriously about how you live. Watch carefully for...”",
+          "“Silas has helped me to write this short letter...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“And in the same way, let the younger men be ruled...”",
+        "correctAnswer": "“I want to say the same thing to you who are...”",
         "reference": "1 Peter 5:5",
-        "explanation": "1 Peter 5:5 records: 'And in the same way, let the younger men be ruled by the older ones. Let all of you put away pride and make yourselves ready to be servants: for God is a hater of pride, but he gives grace to those who make themselves low.'."
+        "explanation": "1 Peter 5:5 records: 'I want to say the same thing to you who are young men. You must respect the authority of the leaders. All of you who are believers must respect one another. Do not think that you are more important than other people. The Bible says: ‘God is against proud people. But he is kind to humble people.’'."
       },
       {
         "id": "1pe-5-q6",
         "questionNumber": 6,
         "question": "What central message or instruction is delivered in 1 Peter 5:6?",
         "options": [
-          "“Do not give way to him but be strong...”",
-          "“For this cause make yourselves low under the strong hand of...”",
-          "“She who is in Babylon, who has a part...”",
+          "“But you must be strong to fight against him....”",
+          "“Remember that God is strong and powerful. So be humble in...”",
+          "“The believers here in Babylon say ‘hello’ to you....”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“For this cause make yourselves low under the strong hand of...”",
+        "correctAnswer": "“Remember that God is strong and powerful. So be humble in...”",
         "reference": "1 Peter 5:6",
-        "explanation": "1 Peter 5:6 records: 'For this cause make yourselves low under the strong hand of God, so that when the time comes you may be lifted up;'."
+        "explanation": "1 Peter 5:6 records: 'Remember that God is strong and powerful. So be humble in front of him. Then he will lift you up to a good place at the right time.'."
       },
       {
         "id": "1pe-5-q7",
         "questionNumber": 7,
         "question": "What detail regarding God's work, covenant, or people is given in 1 Peter 5:7?",
         "options": [
-          "“And after you have undergone pain for a little...”",
-          "“I who am myself one of the rulers of...”",
-          "“Putting all your troubles on him, for he takes care of you.”",
+          "“Yes, you will have trouble like this for a...”",
+          "“Now I want to say something to you who...”",
+          "“If you have any kind of trouble in your mind, give...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“Putting all your troubles on him, for he takes care of you.”",
+        "correctAnswer": "“If you have any kind of trouble in your mind, give...”",
         "reference": "1 Peter 5:7",
-        "explanation": "1 Peter 5:7 records: 'Putting all your troubles on him, for he takes care of you.'."
+        "explanation": "1 Peter 5:7 records: 'If you have any kind of trouble in your mind, give it to God. God has promised to take care of you.'."
       },
       {
         "id": "1pe-5-q8",
         "questionNumber": 8,
         "question": "What phrase or account is recorded in 1 Peter 5:8?",
         "options": [
-          "“His is the power for ever. So be it.”",
-          "“I who am myself one of the rulers of...”",
+          "“Yes, God rules with power for ever! Amen.”",
+          "“Now I want to say something to you who...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“Be serious and keep watch; the Evil One, who is against...”"
+          "“Think seriously about how you live. Watch carefully for danger. Remember...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“Be serious and keep watch; the Evil One, who is against...”",
+        "correctAnswer": "“Think seriously about how you live. Watch carefully for danger. Remember...”",
         "reference": "1 Peter 5:8",
-        "explanation": "1 Peter 5:8 records: 'Be serious and keep watch; the Evil One, who is against you, goes about like a lion with open mouth in search of food;'."
+        "explanation": "1 Peter 5:8 records: 'Think seriously about how you live. Watch carefully for danger. Remember that the devil is your enemy. He wants to hurt you. He walks about like a hungry lion. He is looking for someone to kill and then eat!'."
       },
       {
         "id": "1pe-5-q9",
         "questionNumber": 9,
         "question": "How does the passage describe the circumstances or people in 1 Peter 5:9?",
         "options": [
-          "“Do not give way to him but be strong in your...”",
-          "“I have sent you this short letter by Silvanus,...”",
-          "“Keep watch over the flock of God which is...”",
+          "“But you must be strong to fight against him. Trust God...”",
+          "“Silas has helped me to write this short letter...”",
+          "“Watch over the group of believers that God has...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“Do not give way to him but be strong in your...”",
+        "correctAnswer": "“But you must be strong to fight against him. Trust God...”",
         "reference": "1 Peter 5:9",
-        "explanation": "1 Peter 5:9 records: 'Do not give way to him but be strong in your faith, in the knowledge that your brothers who are in the world undergo the same troubles.'."
+        "explanation": "1 Peter 5:9 records: 'But you must be strong to fight against him. Trust God completely. Remember this: Believers all over the world are having the same kind of trouble.'."
       },
       {
         "id": "1pe-5-q10",
         "questionNumber": 10,
         "question": "In the concluding portion of the chapter, what takes place in 1 Peter 5:10?",
         "options": [
-          "“She who is in Babylon, who has a part...”",
-          "“And after you have undergone pain for a little time, the...”",
-          "“Not as lords over God's heritage, but making yourselves...”",
+          "“The believers here in Babylon say ‘hello’ to you....”",
+          "“Yes, you will have trouble like this for a short time....”",
+          "“God has given you a group of believers to...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“And after you have undergone pain for a little time, the...”",
+        "correctAnswer": "“Yes, you will have trouble like this for a short time....”",
         "reference": "1 Peter 5:10",
-        "explanation": "1 Peter 5:10 records: 'And after you have undergone pain for a little time, the God of all grace who has given you a part in his eternal glory through Christ Jesus, will himself give you strength and support, and make you complete in every good thing;'."
+        "explanation": "1 Peter 5:10 records: 'Yes, you will have trouble like this for a short time. But after that, God will make everything right. He is completely kind and he will always help you. Because you belong to Christ, God has chosen you to live with him in heaven for ever. You will join him in that beautiful place. Then God will make you well again. He will make you strong in your spirits. You will be able to stand strongly.'."
       }
     ]
   }

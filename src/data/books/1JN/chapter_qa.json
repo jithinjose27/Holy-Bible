@@ -1,9 +1,6 @@
 {
-  "book": "1 John",
   "bookId": "1JN",
-  "totalChapters": 5,
-  "totalQuestions": 50,
-  "questionsPerChapter": 10,
+  "bookName": "1 John",
   "chapters": {
     "1": [
       {
@@ -11,150 +8,150 @@
         "questionNumber": 1,
         "question": "According to 1 John 1:1, what is the opening statement or setting of this chapter?",
         "options": [
-          "It records: “That which was from the first, which has come to our ears, and wh...”",
+          "It records: “We have an important message to tell you. We want to tell you abo...”",
           "It begins with a prayer of thanksgiving for deliverance in 1 John",
           "It opens with a formal census and counting of the congregation",
           "It records a severe judgment pronounced against neighboring nations"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "It records: “That which was from the first, which has come to our ears, and wh...”",
+        "correctAnswer": "It records: “We have an important message to tell you. We want to tell you abo...”",
         "reference": "1 John 1:1",
-        "explanation": "The chapter begins directly with the statement: 'That which was from the first, which has come to our ears, and which we have seen with our eyes, looking on it and touching it with our hands, about the Word of life'."
+        "explanation": "The chapter begins directly with the statement: 'We have an important message to tell you. We want to tell you about the person who was already there before the beginning of the world. We have heard him speak. We have seen him with our own eyes. We watched him and we touched him. He is the Word that gives us life with God.'."
       },
       {
         "id": "1jn-1-q2",
         "questionNumber": 2,
         "question": "What key instruction, event, or declaration is set forth in 1 John 1:2?",
         "options": [
-          "“This is the word which came to us from...”",
-          "“(And the life was made clear to us, and we have...”",
-          "“If we say openly that we have done wrong,...”",
+          "“We are telling you the good news that Jesus...”",
+          "“He showed himself clearly when he lived on this earth. From...”",
+          "“Instead, we should agree that we have done wrong...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“(And the life was made clear to us, and we have...”",
+        "correctAnswer": "“He showed himself clearly when he lived on this earth. From...”",
         "reference": "1 John 1:2",
-        "explanation": "1 John 1:2 records: '(And the life was made clear to us, and we have seen it and are witnessing to it and giving you word of that eternal life which was with the Father and was seen by us);'."
+        "explanation": "1 John 1:2 records: 'He showed himself clearly when he lived on this earth. From long ago he was together with God the Father, and he lives for ever. We saw him and we are telling you what is true. He is the one who has shown himself to us.'."
       },
       {
         "id": "1jn-1-q3",
         "questionNumber": 3,
         "question": "What significant action or revelation occurs in 1 John 1:3?",
         "options": [
-          "“If we say we are joined to him, and...”",
-          "“That which was from the first, which has come...”",
-          "“We give you word of all we have seen and everything...”",
+          "“Do you say that you share in the life...”",
+          "“We have an important message to tell you. We...”",
+          "“We also want you to share this new life with us....”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“We give you word of all we have seen and everything...”",
+        "correctAnswer": "“We also want you to share this new life with us....”",
         "reference": "1 John 1:3",
-        "explanation": "1 John 1:3 records: 'We give you word of all we have seen and everything which has come to our ears, so that you may be united with us; and we are united with the Father and with his Son Jesus Christ:'."
+        "explanation": "1 John 1:3 records: 'We also want you to share this new life with us. We share this life with God the Father and Jesus Christ his Son. That is why we are telling you about everything that we have seen and heard.'."
       },
       {
         "id": "1jn-1-q4",
         "questionNumber": 4,
         "question": "What truth or description is highlighted in 1 John 1:4?",
         "options": [
-          "“But if we are walking in the light, as...”",
-          "“That which was from the first, which has come...”",
+          "“But when we live in a right way, it...”",
+          "“We have an important message to tell you. We...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“And we are writing these things to you so that our...”"
+          "“We are writing to you so that together we all may...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“And we are writing these things to you so that our...”",
+        "correctAnswer": "“We are writing to you so that together we all may...”",
         "reference": "1 John 1:4",
-        "explanation": "1 John 1:4 records: 'And we are writing these things to you so that our joy may be made complete.'."
+        "explanation": "1 John 1:4 records: 'We are writing to you so that together we all may be completely happy.'."
       },
       {
         "id": "1jn-1-q5",
         "questionNumber": 5,
         "question": "According to the text, what happened or was commanded in 1 John 1:5?",
         "options": [
-          "“This is the word which came to us from him and...”",
-          "“If we say that we have no sin, we...”",
-          "“(And the life was made clear to us, and...”",
+          "“We are telling you the good news that Jesus Christ spoke...”",
+          "“If we say that we never do any wrong...”",
+          "“He showed himself clearly when he lived on this...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“This is the word which came to us from him and...”",
+        "correctAnswer": "“We are telling you the good news that Jesus Christ spoke...”",
         "reference": "1 John 1:5",
-        "explanation": "1 John 1:5 records: 'This is the word which came to us from him and which we give to you, that God is light and in him there is nothing dark.'."
+        "explanation": "1 John 1:5 records: 'We are telling you the good news that Jesus Christ spoke to us. This is the message: God is completely pure, like light. There is nothing dark in him.'."
       },
       {
         "id": "1jn-1-q6",
         "questionNumber": 6,
         "question": "What central message or instruction is delivered in 1 John 1:6?",
         "options": [
-          "“If we say openly that we have done wrong,...”",
-          "“If we say we are joined to him, and are walking...”",
-          "“We give you word of all we have seen...”",
+          "“Instead, we should agree that we have done wrong...”",
+          "“Do you say that you share in the life that God...”",
+          "“We also want you to share this new life...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“If we say we are joined to him, and are walking...”",
+        "correctAnswer": "“Do you say that you share in the life that God...”",
         "reference": "1 John 1:6",
-        "explanation": "1 John 1:6 records: 'If we say we are joined to him, and are walking still in the dark, our words are false and our acts are untrue:'."
+        "explanation": "1 John 1:6 records: 'Do you say that you share in the life that God gives? If you say that, but if you still live in the dark, you are telling a lie. You are not living in God's true way.'."
       },
       {
         "id": "1jn-1-q7",
         "questionNumber": 7,
         "question": "What detail regarding God's work, covenant, or people is given in 1 John 1:7?",
         "options": [
-          "“That which was from the first, which has come...”",
-          "“And we are writing these things to you so...”",
-          "“But if we are walking in the light, as he is...”",
+          "“We have an important message to tell you. We...”",
+          "“We are writing to you so that together we...”",
+          "“But when we live in a right way, it is like...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“But if we are walking in the light, as he is...”",
+        "correctAnswer": "“But when we live in a right way, it is like...”",
         "reference": "1 John 1:7",
-        "explanation": "1 John 1:7 records: 'But if we are walking in the light, as he is in the light, we are all united with one another, and the blood of Jesus his Son makes us clean from all sin.'."
+        "explanation": "1 John 1:7 records: 'But when we live in a right way, it is like living in the light. God is always in the light. So, if we live in the light, we share together in the life which God gives. And when Jesus, the Son of God, died on the cross, he saved us from all our sins. The blood of his sacrifice makes us clean.'."
       },
       {
         "id": "1jn-1-q8",
         "questionNumber": 8,
         "question": "What phrase or account is recorded in 1 John 1:8?",
         "options": [
-          "“That which was from the first, which has come...”",
-          "“This is the word which came to us from...”",
+          "“We have an important message to tell you. We...”",
+          "“We are telling you the good news that Jesus...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“If we say that we have no sin, we are false...”"
+          "“If we say that we never do any wrong thing, we...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“If we say that we have no sin, we are false...”",
+        "correctAnswer": "“If we say that we never do any wrong thing, we...”",
         "reference": "1 John 1:8",
-        "explanation": "1 John 1:8 records: 'If we say that we have no sin, we are false to ourselves and there is nothing true in us.'."
+        "explanation": "1 John 1:8 records: 'If we say that we never do any wrong thing, we are deceiving ourselves. Even though we may think it is true, it is a lie.'."
       },
       {
         "id": "1jn-1-q9",
         "questionNumber": 9,
         "question": "How does the passage describe the circumstances or people in 1 John 1:9?",
         "options": [
-          "“If we say openly that we have done wrong, he is...”",
-          "“(And the life was made clear to us, and...”",
-          "“If we say we are joined to him, and...”",
+          "“Instead, we should agree that we have done wrong things and...”",
+          "“He showed himself clearly when he lived on this...”",
+          "“Do you say that you share in the life...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“If we say openly that we have done wrong, he is...”",
+        "correctAnswer": "“Instead, we should agree that we have done wrong things and...”",
         "reference": "1 John 1:9",
-        "explanation": "1 John 1:9 records: 'If we say openly that we have done wrong, he is upright and true to his word, giving us forgiveness of sins and making us clean from all evil.'."
+        "explanation": "1 John 1:9 records: 'Instead, we should agree that we have done wrong things and tell that to God. Then God will forgive us for our sins. He always does what he has promised to do. He always does what is right. He will forgive us and he will make us clean again, whatever bad things we may have done.'."
       },
       {
         "id": "1jn-1-q10",
         "questionNumber": 10,
         "question": "In the concluding portion of the chapter, what takes place in 1 John 1:10?",
         "options": [
-          "“We give you word of all we have seen...”",
-          "“If we say that we have no sin, we make him...”",
-          "“But if we are walking in the light, as...”",
+          "“We also want you to share this new life...”",
+          "“God says that all people have done wrong things. So, if...”",
+          "“But when we live in a right way, it...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“If we say that we have no sin, we make him...”",
+        "correctAnswer": "“God says that all people have done wrong things. So, if...”",
         "reference": "1 John 1:10",
-        "explanation": "1 John 1:10 records: 'If we say that we have no sin, we make him false and his word is not in us.'."
+        "explanation": "1 John 1:10 records: 'God says that all people have done wrong things. So, if we say that we have not done any wrong thing, we are saying that God tells lies. It shows that we have not accepted his message at all.'."
       }
     ],
     "2": [
@@ -163,150 +160,150 @@
         "questionNumber": 1,
         "question": "According to 1 John 2:1, what is the opening statement or setting of this chapter?",
         "options": [
-          "It records: “My little children, I am writing these things to you so that you ...”",
+          "It records: “I am writing this letter to you, my friends who are like my littl...”",
           "It begins with a prayer of thanksgiving for deliverance in 1 John",
           "It opens with a formal census and counting of the congregation",
           "It records a severe judgment pronounced against neighboring nations"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "It records: “My little children, I am writing these things to you so that you ...”",
+        "correctAnswer": "It records: “I am writing this letter to you, my friends who are like my littl...”",
         "reference": "1 John 2:1",
-        "explanation": "The chapter begins directly with the statement: 'My little children, I am writing these things to you so that you may be without sin. And if any man is a sinner, we have a friend and helper with the Father, Jesus Christ, the upright one:'."
+        "explanation": "The chapter begins directly with the statement: 'I am writing this letter to you, my friends who are like my little children. I am writing to you because I do not want you to do wrong things. But if anyone among you does something wrong, there is someone who will speak to God on our behalf. That person is Jesus Christ, who always does only what is right. He will ask our Father God to forgive you.'."
       },
       {
         "id": "1jn-2-q2",
         "questionNumber": 2,
         "question": "What key instruction, event, or declaration is set forth in 1 John 2:2?",
         "options": [
-          "“But in every man who keeps his word, the...”",
-          "“He is the offering for our sins; and not for ours...”",
-          "“He who says that he is in the light,...”",
+          "“But anyone who obeys God's message shows that he...”",
+          "“Jesus died as a sacrifice to take the punishment for our...”",
+          "“A person might say that he is living in...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“He is the offering for our sins; and not for ours...”",
+        "correctAnswer": "“Jesus died as a sacrifice to take the punishment for our...”",
         "reference": "1 John 2:2",
-        "explanation": "1 John 2:2 records: 'He is the offering for our sins; and not for ours only, but for all the world.'."
+        "explanation": "1 John 2:2 records: 'Jesus died as a sacrifice to take the punishment for our sin. Then God could forgive us. Jesus did that not only for us. He did it for all people in the world, so that God could forgive them for their sins.'."
       },
       {
         "id": "1jn-2-q3",
         "questionNumber": 3,
         "question": "What significant action or revelation occurs in 1 John 2:4?",
         "options": [
-          "“My loved ones, I do not give you a...”",
-          "“But he who has hate for his brother is...”",
-          "“The man who says, I have knowledge of him, and does...”",
+          "“My friends, I am telling you to love one...”",
+          "“But if someone hates other believers, he is still...”",
+          "“Someone might say, ‘I belong to God.’ But if he does...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“The man who says, I have knowledge of him, and does...”",
+        "correctAnswer": "“Someone might say, ‘I belong to God.’ But if he does...”",
         "reference": "1 John 2:4",
-        "explanation": "1 John 2:4 records: 'The man who says, I have knowledge of him, and does not keep his laws, is false, and there is nothing true in him:'."
+        "explanation": "1 John 2:4 records: 'Someone might say, ‘I belong to God.’ But if he does not obey God's commands, that person is telling a lie. He is not living in the way that God's true message teaches us.'."
       },
       {
         "id": "1jn-2-q4",
         "questionNumber": 4,
         "question": "What truth or description is highlighted in 1 John 2:6?",
         "options": [
-          "“He who says that he is in the light,...”",
-          "“I am writing to you, fathers, because you have...”",
+          "“A person might say that he is living in...”",
+          "“You who are older, like fathers, I am writing...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“He who says that he is living in him, will do...”"
+          "“If we say that we are living in God's true way,...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“He who says that he is living in him, will do...”",
+        "correctAnswer": "“If we say that we are living in God's true way,...”",
         "reference": "1 John 2:6",
-        "explanation": "1 John 2:6 records: 'He who says that he is living in him, will do as he did.'."
+        "explanation": "1 John 2:6 records: 'If we say that we are living in God's true way, then we must live in the way that Jesus lived.'."
       },
       {
         "id": "1jn-2-q5",
         "questionNumber": 5,
         "question": "According to the text, what happened or was commanded in 1 John 2:8?",
         "options": [
-          "“Again, I give you a new law, which is true in...”",
-          "“But he who has hate for his brother is...”",
-          "“Have no love for the world or for the...”",
+          "“But there is something new about it. This rule has become...”",
+          "“But if someone hates other believers, he is still...”",
+          "“Do not live like people who do not know...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“Again, I give you a new law, which is true in...”",
+        "correctAnswer": "“But there is something new about it. This rule has become...”",
         "reference": "1 John 2:8",
-        "explanation": "1 John 2:8 records: 'Again, I give you a new law, which is true in him and in you; for the night is near its end and the true light is even now shining out.'."
+        "explanation": "1 John 2:8 records: 'But there is something new about it. This rule has become true in the way that Christ lived. Now it has also become true in your lives. God's true message has brought light to shine in your lives. You no longer live in the dark where you do bad things.'."
       },
       {
         "id": "1jn-2-q6",
         "questionNumber": 6,
         "question": "What central message or instruction is delivered in 1 John 2:10?",
         "options": [
-          "“I am writing to you, fathers, because you have...”",
-          "“He who has love for his brother is in the light,...”",
-          "“And the world and its desires is coming to...”",
+          "“You who are older, like fathers, I am writing...”",
+          "“Anyone who loves other believers shows that he is living in...”",
+          "“One day, those people and the things that they...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“He who has love for his brother is in the light,...”",
+        "correctAnswer": "“Anyone who loves other believers shows that he is living in...”",
         "reference": "1 John 2:10",
-        "explanation": "1 John 2:10 records: 'He who has love for his brother is in the light, and there is no cause of error in him.'."
+        "explanation": "1 John 2:10 records: 'Anyone who loves other believers shows that he is living in the light. There is nothing that will make him turn away from God.'."
       },
       {
         "id": "1jn-2-q7",
         "questionNumber": 7,
         "question": "What detail regarding God's work, covenant, or people is given in 1 John 2:12?",
         "options": [
-          "“Have no love for the world or for the...”",
-          "“They went out from us but they were not...”",
-          "“I am writing to you, my children, because you have forgiveness...”",
+          "“Do not live like people who do not know...”",
+          "“These people used to be in our group of...”",
+          "“My little children, I am writing to you because God has...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“I am writing to you, my children, because you have forgiveness...”",
+        "correctAnswer": "“My little children, I am writing to you because God has...”",
         "reference": "1 John 2:12",
-        "explanation": "1 John 2:12 records: 'I am writing to you, my children, because you have forgiveness of sins through his name.'."
+        "explanation": "1 John 2:12 records: 'My little children, I am writing to you because God has forgiven your sins. He has done this because of Christ.'."
       },
       {
         "id": "1jn-2-q8",
         "questionNumber": 8,
         "question": "What phrase or account is recorded in 1 John 2:14?",
         "options": [
-          "“And the world and its desires is coming to...”",
-          "“I have not sent you this letter because you...”",
+          "“One day, those people and the things that they...”",
+          "“That is why I am writing to you. It...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“I have sent a letter to you, fathers, because you have...”"
+          "“Yes, my children, I write to you because you know God,...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“I have sent a letter to you, fathers, because you have...”",
+        "correctAnswer": "“Yes, my children, I write to you because you know God,...”",
         "reference": "1 John 2:14",
-        "explanation": "1 John 2:14 records: 'I have sent a letter to you, fathers, because you have knowledge of him who was from the first. I have sent a letter to you, young men, because you are strong, and the word of God is in you, and because you have overcome the Evil One.'."
+        "explanation": "1 John 2:14 records: 'Yes, my children, I write to you because you know God, our Father. Fathers, I write to you because you know Christ. He was already there before the world began. Young men, I write to you because you are strong. You continue to obey God's message, and you have won against Satan.'."
       },
       {
         "id": "1jn-2-q9",
         "questionNumber": 9,
         "question": "How does the passage describe the circumstances or people in 1 John 2:16?",
         "options": [
-          "“Because everything in the world, the desire of the flesh, the...”",
-          "“They went out from us but they were not...”",
-          "“He who has no belief in the Son has...”",
+          "“What are the wrong things that belong to this world? People...”",
+          "“These people used to be in our group of...”",
+          "“Anyone who says that Jesus is not God's Son...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“Because everything in the world, the desire of the flesh, the...”",
+        "correctAnswer": "“What are the wrong things that belong to this world? People...”",
         "reference": "1 John 2:16",
-        "explanation": "1 John 2:16 records: 'Because everything in the world, the desire of the flesh, the desire of the eyes, and the pride of life, is not of the Father but of the world.'."
+        "explanation": "1 John 2:16 records: 'What are the wrong things that belong to this world? People want to do bad things to make themselves happy. People want to have things that they see, even bad things. People want to show other people how rich they are. These ideas do not come from God, our Father. They are the thoughts of people who belong to the world.'."
       },
       {
         "id": "1jn-2-q10",
         "questionNumber": 10,
         "question": "In the concluding portion of the chapter, what takes place in 1 John 2:18?",
         "options": [
-          "“I have not sent you this letter because you...”",
-          "“Little children, it is the last hour; and as you were...”",
-          "“And this is the hope which he gave you,...”",
+          "“That is why I am writing to you. It...”",
+          "“My children, the world will soon end. You have heard that...”",
+          "“That is the real life that continues for ever....”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“Little children, it is the last hour; and as you were...”",
+        "correctAnswer": "“My children, the world will soon end. You have heard that...”",
         "reference": "1 John 2:18",
-        "explanation": "1 John 2:18 records: 'Little children, it is the last hour; and as you were given word that the Antichrist would come, so now a number of Antichrists have come to you; and by this we are certain that it is the last hour.'."
+        "explanation": "1 John 2:18 records: 'My children, the world will soon end. You have heard that the enemy of Christ will appear. You can see that many enemies of Christ have already appeared. This shows us that the world will end soon.'."
       }
     ],
     "3": [
@@ -315,150 +312,150 @@
         "questionNumber": 1,
         "question": "According to 1 John 3:1, what is the opening statement or setting of this chapter?",
         "options": [
-          "It records: “See what great love the Father has given us in naming us the chil...”",
+          "It records: “Think about how much God the Father loves us. He calls us his chi...”",
           "It begins with a prayer of thanksgiving for deliverance in 1 John",
           "It opens with a formal census and counting of the congregation",
           "It records a severe judgment pronounced against neighboring nations"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "It records: “See what great love the Father has given us in naming us the chil...”",
+        "correctAnswer": "It records: “Think about how much God the Father loves us. He calls us his chi...”",
         "reference": "1 John 3:1",
-        "explanation": "The chapter begins directly with the statement: 'See what great love the Father has given us in naming us the children of God; and such we are. For this reason the world does not see who we are, because it did not see who he was.'."
+        "explanation": "The chapter begins directly with the statement: 'Think about how much God the Father loves us. He calls us his children! God loves us so much that we really have become his children. The people who belong to this world do not understand who God is. Because of that, they do not understand who we are.'."
       },
       {
         "id": "1jn-3-q2",
         "questionNumber": 2,
         "question": "What key instruction, event, or declaration is set forth in 1 John 3:2?",
         "options": [
-          "“And you have knowledge that he came to take...”",
-          "“My loved ones, now we are children of God, and at...”",
-          "“Anyone who is a child of God does no...”",
+          "“You know that Jesus came into the world so...”",
+          "“My friends, we are already children of God. We do not...”",
+          "“Everybody who is a child of God does not...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“My loved ones, now we are children of God, and at...”",
+        "correctAnswer": "“My friends, we are already children of God. We do not...”",
         "reference": "1 John 3:2",
-        "explanation": "1 John 3:2 records: 'My loved ones, now we are children of God, and at present it is not clear what we are to be. We are certain that at his revelation we will be like him; for we will see him as he is.'."
+        "explanation": "1 John 3:2 records: 'My friends, we are already children of God. We do not yet know clearly what we will become. But we do know this: when Christ returns to this world, we will become like him. We will be like him because we will see him as he really is.'."
       },
       {
         "id": "1jn-3-q3",
         "questionNumber": 3,
         "question": "What significant action or revelation occurs in 1 John 3:4?",
         "options": [
-          "“My little children, let no man take you out...”",
-          "“Because this is the word which was given to...”",
-          "“Everyone who is a sinner goes against the law, for sin...”",
+          "“My little children, do not let anyone deceive you...”",
+          "“Yes, we must love one another. That is the...”",
+          "“If a person continues to do wrong things, he is choosing...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“Everyone who is a sinner goes against the law, for sin...”",
+        "correctAnswer": "“If a person continues to do wrong things, he is choosing...”",
         "reference": "1 John 3:4",
-        "explanation": "1 John 3:4 records: 'Everyone who is a sinner goes against the law, for sin is going against the law.'."
+        "explanation": "1 John 3:4 records: 'If a person continues to do wrong things, he is choosing not to obey God's rules. Sin is when we do not obey God's rules.'."
       },
       {
         "id": "1jn-3-q4",
         "questionNumber": 4,
         "question": "What truth or description is highlighted in 1 John 3:6?",
         "options": [
-          "“Anyone who is a child of God does no...”",
-          "“Do not be surprised, my brothers, if the world...”",
+          "“Everybody who is a child of God does not...”",
+          "“So, my Christian friends, do not be surprised when...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“Anyone who is in him does no sin; anyone who is...”"
+          "“Anyone who lives together with Christ does not continue to do...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“Anyone who is in him does no sin; anyone who is...”",
+        "correctAnswer": "“Anyone who lives together with Christ does not continue to do...”",
         "reference": "1 John 3:6",
-        "explanation": "1 John 3:6 records: 'Anyone who is in him does no sin; anyone who is a sinner has not seen him and has no knowledge of him.'."
+        "explanation": "1 John 3:6 records: 'Anyone who lives together with Christ does not continue to do wrong things. If anyone continues to do wrong things, that person has not understood who Christ is. He does not know Christ.'."
       },
       {
         "id": "1jn-3-q5",
         "questionNumber": 5,
         "question": "According to the text, what happened or was commanded in 1 John 3:8?",
         "options": [
-          "“The sinner is a child of the Evil One; for the...”",
-          "“Because this is the word which was given to...”",
-          "“Anyone who has hate for his brother is a...”",
+          "“People who continue to do wrong things show that they belong...”",
+          "“Yes, we must love one another. That is the...”",
+          "“Anyone who hates other believers is like someone who...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“The sinner is a child of the Evil One; for the...”",
+        "correctAnswer": "“People who continue to do wrong things show that they belong...”",
         "reference": "1 John 3:8",
-        "explanation": "1 John 3:8 records: 'The sinner is a child of the Evil One; for the Evil One has been a sinner from the first. And the Son of God was seen on earth so that he might put an end to the works of the Evil One.'."
+        "explanation": "1 John 3:8 records: 'People who continue to do wrong things show that they belong to the devil. The devil has always been doing wrong things from the beginning. This is why the Son of God came to the world. He came to destroy everything that the devil has done.'."
       },
       {
         "id": "1jn-3-q6",
         "questionNumber": 6,
         "question": "What central message or instruction is delivered in 1 John 3:10?",
         "options": [
-          "“Do not be surprised, my brothers, if the world...”",
-          "“In this way it is clear who are the children of...”",
-          "“But if a man has this world's goods, and...”",
+          "“So, my Christian friends, do not be surprised when...”",
+          "“In this way, we can see clearly who are God's children...”",
+          "“When another believer has trouble, we need to be...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“In this way it is clear who are the children of...”",
+        "correctAnswer": "“In this way, we can see clearly who are God's children...”",
         "reference": "1 John 3:10",
-        "explanation": "1 John 3:10 records: 'In this way it is clear who are the children of God and who are the children of the Evil One; anyone who does not do righteousness or who has no love for his brother, is not a child of God.'."
+        "explanation": "1 John 3:10 records: 'In this way, we can see clearly who are God's children and who are the devil's children. Anyone who does not live in a way that is good and right does not belong to God. People like that do not love other believers.'."
       },
       {
         "id": "1jn-3-q7",
         "questionNumber": 7,
         "question": "What detail regarding God's work, covenant, or people is given in 1 John 3:12?",
         "options": [
-          "“Anyone who has hate for his brother is a...”",
-          "“In this way we may be certain that we...”",
-          "“Not being of the Evil One like Cain, who put his...”",
+          "“Anyone who hates other believers is like someone who...”",
+          "“Then we will know that we truly belong to...”",
+          "“We should not be like Cain. He belonged to Satan and...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“Not being of the Evil One like Cain, who put his...”",
+        "correctAnswer": "“We should not be like Cain. He belonged to Satan and...”",
         "reference": "1 John 3:12",
-        "explanation": "1 John 3:12 records: 'Not being of the Evil One like Cain, who put his brother to death. And why did he put him to death? Because his works were evil and his brother's works were good.'."
+        "explanation": "1 John 3:12 records: 'We should not be like Cain. He belonged to Satan and he even killed his brother, Abel. Why did he do that? Cain did bad things and he killed Abel because Abel did things that were right.'."
       },
       {
         "id": "1jn-3-q8",
         "questionNumber": 8,
         "question": "What phrase or account is recorded in 1 John 3:14?",
         "options": [
-          "“But if a man has this world's goods, and...”",
-          "“My loved ones, if our heart does not say...”",
+          "“When another believer has trouble, we need to be...”",
+          "“My friends, if our thoughts do not tell us...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“We are conscious that we have come out of death into...”"
+          "“We know that we now have new life with God. Death...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“We are conscious that we have come out of death into...”",
+        "correctAnswer": "“We know that we now have new life with God. Death...”",
         "reference": "1 John 3:14",
-        "explanation": "1 John 3:14 records: 'We are conscious that we have come out of death into life because of our love for the brothers. He who has no love is still in death.'."
+        "explanation": "1 John 3:14 records: 'We know that we now have new life with God. Death no longer has power over us. We know this because we love our Christian friends. But anyone who does not love other believers is still under the power of death.'."
       },
       {
         "id": "1jn-3-q9",
         "questionNumber": 9,
         "question": "How does the passage describe the circumstances or people in 1 John 3:16?",
         "options": [
-          "“In this we see what love is, because he gave his...”",
-          "“In this way we may be certain that we...”",
-          "“And this is his law, that we have faith...”",
+          "“This is how we know what true love is: Jesus Christ...”",
+          "“Then we will know that we truly belong to...”",
+          "“This is God's command to us: we must believe...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“In this we see what love is, because he gave his...”",
+        "correctAnswer": "“This is how we know what true love is: Jesus Christ...”",
         "reference": "1 John 3:16",
-        "explanation": "1 John 3:16 records: 'In this we see what love is, because he gave his life for us; and it is right for us to give our lives for the brothers.'."
+        "explanation": "1 John 3:16 records: 'This is how we know what true love is: Jesus Christ gave his own life on the cross. He died on our behalf. So we too ought to give our lives for other believers.'."
       },
       {
         "id": "1jn-3-q10",
         "questionNumber": 10,
         "question": "In the concluding portion of the chapter, what takes place in 1 John 3:18?",
         "options": [
-          "“My loved ones, if our heart does not say...”",
-          "“My little children, do not let our love be in word...”",
-          "“See what great love the Father has given us...”",
+          "“My friends, if our thoughts do not tell us...”",
+          "“My little children, we should not show love for each other...”",
+          "“Think about how much God the Father loves us....”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“My little children, do not let our love be in word...”",
+        "correctAnswer": "“My little children, we should not show love for each other...”",
         "reference": "1 John 3:18",
-        "explanation": "1 John 3:18 records: 'My little children, do not let our love be in word and in tongue, but let it be in act and in good faith.'."
+        "explanation": "1 John 3:18 records: 'My little children, we should not show love for each other only by what we say. We should also show true love by the things that we do.'."
       }
     ],
     "4": [
@@ -467,150 +464,150 @@
         "questionNumber": 1,
         "question": "According to 1 John 4:1, what is the opening statement or setting of this chapter?",
         "options": [
-          "It records: “My loved ones, do not put your faith in every spirit, but put the...”",
+          "It records: “My friends, do not believe everyone who says that they speak God'...”",
           "It begins with a prayer of thanksgiving for deliverance in 1 John",
           "It opens with a formal census and counting of the congregation",
           "It records a severe judgment pronounced against neighboring nations"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "It records: “My loved ones, do not put your faith in every spirit, but put the...”",
+        "correctAnswer": "It records: “My friends, do not believe everyone who says that they speak God'...”",
         "reference": "1 John 4:1",
-        "explanation": "The chapter begins directly with the statement: 'My loved ones, do not put your faith in every spirit, but put them to the test, to see if they are from God: because a great number of false prophets have gone out into the world.'."
+        "explanation": "The chapter begins directly with the statement: 'My friends, do not believe everyone who says that they speak God's message. There are many false prophets who are travelling around everywhere. They say that they have a message from God's Spirit, but the message comes from a false spirit. So check each message carefully to see if it is really from God.'."
       },
       {
         "id": "1jn-4-q2",
         "questionNumber": 2,
         "question": "What key instruction, event, or declaration is set forth in 1 John 4:2?",
         "options": [
-          "“They are of the world, so their talk is...”",
-          "“By this you may have knowledge of the Spirit of God:...”",
-          "“And the love of God was made clear to...”",
+          "“Those false prophets belong to this world. Their message...”",
+          "“How do you know whether a person has God's Spirit in...”",
+          "“This is how God showed that he loves us:...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“By this you may have knowledge of the Spirit of God:...”",
+        "correctAnswer": "“How do you know whether a person has God's Spirit in...”",
         "reference": "1 John 4:2",
-        "explanation": "1 John 4:2 records: 'By this you may have knowledge of the Spirit of God: every spirit which says that Jesus Christ has come in the flesh is of God:'."
+        "explanation": "1 John 4:2 records: 'How do you know whether a person has God's Spirit in him? He must agree that Jesus is God's Messiah who was born as a human baby. If someone says that, then he has God's Spirit.'."
       },
       {
         "id": "1jn-4-q3",
         "questionNumber": 3,
         "question": "What significant action or revelation occurs in 1 John 4:4?",
         "options": [
-          "“My loved ones, let us have love for one...”",
-          "“My loved ones, if God had such love for...”",
-          "“You are of God, my little children, and you have overcome...”",
+          "“My friends, we should all love each other. It...”",
+          "“My friends, this shows how much God has loved...”",
+          "“My little children, you belong to God. You have won against...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“You are of God, my little children, and you have overcome...”",
+        "correctAnswer": "“My little children, you belong to God. You have won against...”",
         "reference": "1 John 4:4",
-        "explanation": "1 John 4:4 records: 'You are of God, my little children, and you have overcome them because he who is in you is greater than he who is in the world.'."
+        "explanation": "1 John 4:4 records: 'My little children, you belong to God. You have won against those people with a false message. You have been able to do that because God's Holy Spirit is in you. He is more powerful than the spirit that belongs to this world.'."
       },
       {
         "id": "1jn-4-q4",
         "questionNumber": 4,
         "question": "What truth or description is highlighted in 1 John 4:6?",
         "options": [
-          "“And the love of God was made clear to...”",
-          "“And his Spirit which he has given us is...”",
+          "“This is how God showed that he loves us:...”",
+          "“God has given us his Holy Spirit to live...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“We are of God: he who has the knowledge of God...”"
+          "“But we belong to God. Everyone who knows God believes our...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“We are of God: he who has the knowledge of God...”",
+        "correctAnswer": "“But we belong to God. Everyone who knows God believes our...”",
         "reference": "1 John 4:6",
-        "explanation": "1 John 4:6 records: 'We are of God: he who has the knowledge of God gives ear to us; he who is not of God does not give ear to us. By this we may see which is the true spirit, and which is the spirit of error.'."
+        "explanation": "1 John 4:6 records: 'But we belong to God. Everyone who knows God believes our message. But anyone who does not belong to God does not believe it. So that is how we know if someone's message comes from God's Spirit or not. God's Spirit brings us a true message, but false spirits tell lies.'."
       },
       {
         "id": "1jn-4-q5",
         "questionNumber": 5,
         "question": "According to the text, what happened or was commanded in 1 John 4:8?",
         "options": [
-          "“He who has no love has no knowledge of God, because...”",
-          "“My loved ones, if God had such love for...”",
-          "“Everyone who says openly that Jesus is the Son...”",
+          "“Anyone who does not love other people does not know God....”",
+          "“My friends, this shows how much God has loved...”",
+          "“If anyone says clearly that Jesus is the Son...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“He who has no love has no knowledge of God, because...”",
+        "correctAnswer": "“Anyone who does not love other people does not know God....”",
         "reference": "1 John 4:8",
-        "explanation": "1 John 4:8 records: 'He who has no love has no knowledge of God, because God is love.'."
+        "explanation": "1 John 4:8 records: 'Anyone who does not love other people does not know God. We know this because God's own nature is love.'."
       },
       {
         "id": "1jn-4-q6",
         "questionNumber": 6,
         "question": "What central message or instruction is delivered in 1 John 4:10?",
         "options": [
-          "“And his Spirit which he has given us is...”",
-          "“And this is love, not that we had love for God,...”",
-          "“In this way love is made complete in us,...”",
+          "“God has given us his Holy Spirit to live...”",
+          "“This shows what love is: It is not that we have...”",
+          "“That is how we are able to love other...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“And this is love, not that we had love for God,...”",
+        "correctAnswer": "“This shows what love is: It is not that we have...”",
         "reference": "1 John 4:10",
-        "explanation": "1 John 4:10 records: 'And this is love, not that we had love for God, but that he had love for us, and sent his Son to be an offering for our sins.'."
+        "explanation": "1 John 4:10 records: 'This shows what love is: It is not that we have loved God, but that he loved us. He loved us so much that he sent his Son to save us from sin. He sent Jesus to die as a sacrifice, to take the punishment for our sins.'."
       },
       {
         "id": "1jn-4-q7",
         "questionNumber": 7,
         "question": "What detail regarding God's work, covenant, or people is given in 1 John 4:12?",
         "options": [
-          "“Everyone who says openly that Jesus is the Son...”",
-          "“We have the power of loving, because he first...”",
-          "“No man has ever seen God: if we have love for...”",
+          "“If anyone says clearly that Jesus is the Son...”",
+          "“We are able to love God and other people...”",
+          "“Nobody has ever seen God. But, if we love each other,...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“No man has ever seen God: if we have love for...”",
+        "correctAnswer": "“Nobody has ever seen God. But, if we love each other,...”",
         "reference": "1 John 4:12",
-        "explanation": "1 John 4:12 records: 'No man has ever seen God: if we have love for one another, God is in us and his love is made complete in us:'."
+        "explanation": "1 John 4:12 records: 'Nobody has ever seen God. But, if we love each other, it shows that God lives in us. As a result, we can love people completely, in the same way that God loves us.'."
       },
       {
         "id": "1jn-4-q8",
         "questionNumber": 8,
         "question": "What phrase or account is recorded in 1 John 4:14?",
         "options": [
-          "“In this way love is made complete in us,...”",
-          "“My loved ones, do not put your faith in...”",
+          "“That is how we are able to love other...”",
+          "“My friends, do not believe everyone who says that...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“And we have seen and give witness that the Father sent...”"
+          "“God the Father sent his Son to come into the world....”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“And we have seen and give witness that the Father sent...”",
+        "correctAnswer": "“God the Father sent his Son to come into the world....”",
         "reference": "1 John 4:14",
-        "explanation": "1 John 4:14 records: 'And we have seen and give witness that the Father sent the Son to be the Saviour of the world.'."
+        "explanation": "1 John 4:14 records: 'God the Father sent his Son to come into the world. God sent him to save the people of the world from their sins. We apostles have seen that this is true. So now we are telling people about it.'."
       },
       {
         "id": "1jn-4-q9",
         "questionNumber": 9,
         "question": "How does the passage describe the circumstances or people in 1 John 4:16?",
         "options": [
-          "“And we have seen and had faith in the love which...”",
-          "“We have the power of loving, because he first...”",
-          "“By this you may have knowledge of the Spirit...”",
+          "“So we know the kind of love that God has for...”",
+          "“We are able to love God and other people...”",
+          "“How do you know whether a person has God's...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“And we have seen and had faith in the love which...”",
+        "correctAnswer": "“So we know the kind of love that God has for...”",
         "reference": "1 John 4:16",
-        "explanation": "1 John 4:16 records: 'And we have seen and had faith in the love which God has for us. God is love, and everyone who has love is in God, and God is in him.'."
+        "explanation": "1 John 4:16 records: 'So we know the kind of love that God has for us. We believe that God has put that love in us. God's nature is love. So, if someone continues to love other people, he is living together with God. And God lives in him.'."
       },
       {
         "id": "1jn-4-q10",
         "questionNumber": 10,
         "question": "In the concluding portion of the chapter, what takes place in 1 John 4:18?",
         "options": [
-          "“My loved ones, do not put your faith in...”",
-          "“There is no fear in love: true love has no room...”",
-          "“You are of God, my little children, and you...”",
+          "“My friends, do not believe everyone who says that...”",
+          "“If we really love God, we will not be afraid of...”",
+          "“My little children, you belong to God. You have...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“There is no fear in love: true love has no room...”",
+        "correctAnswer": "“If we really love God, we will not be afraid of...”",
         "reference": "1 John 4:18",
-        "explanation": "1 John 4:18 records: 'There is no fear in love: true love has no room for fear, because where fear is, there is pain; and he who is not free from fear is not complete in love.'."
+        "explanation": "1 John 4:18 records: 'If we really love God, we will not be afraid of him. We cannot love him completely and also be afraid. We would only be afraid of God if we thought that he would punish us. So, if someone is afraid that God will punish them, it shows that they do not completely know God's love.'."
       }
     ],
     "5": [
@@ -619,150 +616,150 @@
         "questionNumber": 1,
         "question": "According to 1 John 5:1, what is the opening statement or setting of this chapter?",
         "options": [
-          "It records: “Everyone who has faith that Jesus is the Christ is a child of God...”",
+          "It records: “Everyone who believes that Jesus is God's Messiah has become a ch...”",
           "It begins with a prayer of thanksgiving for deliverance in 1 John",
           "It opens with a formal census and counting of the congregation",
           "It records a severe judgment pronounced against neighboring nations"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "It records: “Everyone who has faith that Jesus is the Christ is a child of God...”",
+        "correctAnswer": "It records: “Everyone who believes that Jesus is God's Messiah has become a ch...”",
         "reference": "1 John 5:1",
-        "explanation": "The chapter begins directly with the statement: 'Everyone who has faith that Jesus is the Christ is a child of God: and everyone who has love for the Father has love for his child.'."
+        "explanation": "The chapter begins directly with the statement: 'Everyone who believes that Jesus is God's Messiah has become a child of God. And if we love God, our Father, we will love his other children too.'."
       },
       {
         "id": "1jn-5-q2",
         "questionNumber": 2,
         "question": "What key instruction, event, or declaration is set forth in 1 John 5:2?",
         "options": [
-          "“Who is able to overcome the world but the...”",
-          "“In this way, we are certain that we have love for...”",
-          "“If we take the witness of men to be...”",
+          "“It is only people who believe that Jesus is...”",
+          "“How do we know that we love God's children? We know...”",
+          "“We believe people who tell us about things that...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“In this way, we are certain that we have love for...”",
+        "correctAnswer": "“How do we know that we love God's children? We know...”",
         "reference": "1 John 5:2",
-        "explanation": "1 John 5:2 records: 'In this way, we are certain that we have love for the children of God, when we have love for God and keep his laws.'."
+        "explanation": "1 John 5:2 records: 'How do we know that we love God's children? We know it when we love God and we do what he tells us to do.'."
       },
       {
         "id": "1jn-5-q3",
         "questionNumber": 3,
         "question": "What significant action or revelation occurs in 1 John 5:4?",
         "options": [
-          "“And the Spirit is the witness, because the Spirit...”",
-          "“And his witness is this, that God has given...”",
-          "“Anything which comes from God is able to overcome the world:...”",
+          "“So there are three things that show us clearly...”",
+          "“This is what God has told us: God has...”",
+          "“Because we have become God's children, we can live in a...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“Anything which comes from God is able to overcome the world:...”",
+        "correctAnswer": "“Because we have become God's children, we can live in a...”",
         "reference": "1 John 5:4",
-        "explanation": "1 John 5:4 records: 'Anything which comes from God is able to overcome the world: and the power by which we have overcome the world is our faith.'."
+        "explanation": "1 John 5:4 records: 'Because we have become God's children, we can live in a good way. We can refuse to live like people who belong to this world. We are able to win against the wrong ways of this world because we trust Jesus Christ.'."
       },
       {
         "id": "1jn-5-q4",
         "questionNumber": 4,
         "question": "What truth or description is highlighted in 1 John 5:6?",
         "options": [
-          "“If we take the witness of men to be...”",
-          "“I have put these things in writing for you...”",
+          "“We believe people who tell us about things that...”",
+          "“I write these things to you who believe that...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“This is he who came by water and by blood, Jesus...”"
+          "“Jesus Christ is the one who came into the world. John...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“This is he who came by water and by blood, Jesus...”",
+        "correctAnswer": "“Jesus Christ is the one who came into the world. John...”",
         "reference": "1 John 5:6",
-        "explanation": "1 John 5:6 records: 'This is he who came by water and by blood, Jesus Christ; not by water only but by water and by blood.'."
+        "explanation": "1 John 5:6 records: 'Jesus Christ is the one who came into the world. John baptized Jesus in water. When Jesus died, his blood poured out. God showed that Jesus is his Son with the water and with the blood. It was not only with the water of Jesus' baptism. It was also with the blood of his death. God's Holy Spirit also shows us that Jesus is God's Son. The Holy Spirit always says what is true.'."
       },
       {
         "id": "1jn-5-q5",
         "questionNumber": 5,
         "question": "According to the text, what happened or was commanded in 1 John 5:8?",
         "options": [
-          "“There are three witnesses, the Spirit, the water, and the blood:...”",
-          "“And his witness is this, that God has given...”",
-          "“And if we are certain that he gives ear...”",
+          "“Those things are the Holy Spirit, the water of Jesus' baptism...”",
+          "“This is what God has told us: God has...”",
+          "“Since we know that, we also know that God...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“There are three witnesses, the Spirit, the water, and the blood:...”",
+        "correctAnswer": "“Those things are the Holy Spirit, the water of Jesus' baptism...”",
         "reference": "1 John 5:8",
-        "explanation": "1 John 5:8 records: 'There are three witnesses, the Spirit, the water, and the blood: and all three are in agreement.'."
+        "explanation": "1 John 5:8 records: 'Those things are the Holy Spirit, the water of Jesus' baptism and the blood of his death on the cross. These all show us the same thing, that Jesus came from God.'."
       },
       {
         "id": "1jn-5-q6",
         "questionNumber": 6,
         "question": "What central message or instruction is delivered in 1 John 5:10?",
         "options": [
-          "“I have put these things in writing for you...”",
-          "“He who has faith in the Son of God has the...”",
-          "“All evil-doing is sin: but death is not the...”",
+          "“I write these things to you who believe that...”",
+          "“Anyone who believes in Jesus, the Son of God, will know...”",
+          "“Any wrong thing that a person does is sin....”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“He who has faith in the Son of God has the...”",
+        "correctAnswer": "“Anyone who believes in Jesus, the Son of God, will know...”",
         "reference": "1 John 5:10",
-        "explanation": "1 John 5:10 records: 'He who has faith in the Son of God has the witness in himself: he who has not faith in God makes him false, because he has not faith in the witness which God has given about his Son.'."
+        "explanation": "1 John 5:10 records: 'Anyone who believes in Jesus, the Son of God, will know that what God says is true. But anyone who does not believe God is saying that God tells lies. He does not believe the message that God has told us clearly about his Son.'."
       },
       {
         "id": "1jn-5-q7",
         "questionNumber": 7,
         "question": "What detail regarding God's work, covenant, or people is given in 1 John 5:12?",
         "options": [
-          "“And if we are certain that he gives ear...”",
-          "“We are certain that we are of God, but...”",
-          "“He who has the Son has the life; he who has...”",
+          "“Since we know that, we also know that God...”",
+          "“We know that we belong to God. We know...”",
+          "“So whoever belongs to the Son has this true life. But...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“He who has the Son has the life; he who has...”",
+        "correctAnswer": "“So whoever belongs to the Son has this true life. But...”",
         "reference": "1 John 5:12",
-        "explanation": "1 John 5:12 records: 'He who has the Son has the life; he who has not the Son of God has not the life.'."
+        "explanation": "1 John 5:12 records: 'So whoever belongs to the Son has this true life. But anyone who does not belong to the Son of God does not have this true life.'."
       },
       {
         "id": "1jn-5-q8",
         "questionNumber": 8,
         "question": "What phrase or account is recorded in 1 John 5:14?",
         "options": [
-          "“All evil-doing is sin: but death is not the...”",
-          "“Everyone who has faith that Jesus is the Christ...”",
+          "“Any wrong thing that a person does is sin....”",
+          "“Everyone who believes that Jesus is God's Messiah has...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“And we are certain that if we make any request to...”"
+          "“Also, we can trust God to help us when we turn...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“And we are certain that if we make any request to...”",
+        "correctAnswer": "“Also, we can trust God to help us when we turn...”",
         "reference": "1 John 5:14",
-        "explanation": "1 John 5:14 records: 'And we are certain that if we make any request to him which is right in his eyes, he will give ear to us:'."
+        "explanation": "1 John 5:14 records: 'Also, we can trust God to help us when we turn to him. We know that he will hear us. When we ask for anything that he wants us to have, he listens to us.'."
       },
       {
         "id": "1jn-5-q9",
         "questionNumber": 9,
         "question": "How does the passage describe the circumstances or people in 1 John 5:16?",
         "options": [
-          "“If a man sees his brother doing a sin which is...”",
-          "“We are certain that we are of God, but...”",
-          "“In this way, we are certain that we have...”",
+          "“If you see that another Christian is doing something bad, this...”",
+          "“We know that we belong to God. We know...”",
+          "“How do we know that we love God's children?...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“If a man sees his brother doing a sin which is...”",
+        "correctAnswer": "“If you see that another Christian is doing something bad, this...”",
         "reference": "1 John 5:16",
-        "explanation": "1 John 5:16 records: 'If a man sees his brother doing a sin which is not bad enough for death, let him make a prayer to God, and God will give life to him whose sin was not bad enough for death. There is a sin whose punishment is death: I do not say that he may make such a request then.'."
+        "explanation": "1 John 5:16 records: 'If you see that another Christian is doing something bad, this is what you should do. If it is a sin that does not cause death, pray that God will help him. Then God will help that person to live for ever with him. That is for a sin which does not cause death. But there is a sin that causes death. If another Christian does that, I am not saying that you should pray for God to help that person.'."
       },
       {
         "id": "1jn-5-q10",
         "questionNumber": 10,
         "question": "In the concluding portion of the chapter, what takes place in 1 John 5:18?",
         "options": [
-          "“Everyone who has faith that Jesus is the Christ...”",
-          "“We are certain that one who is a child of God...”",
-          "“Anything which comes from God is able to overcome...”",
+          "“Everyone who believes that Jesus is God's Messiah has...”",
+          "“Nobody who has become a child of God continues to do...”",
+          "“Because we have become God's children, we can live...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“We are certain that one who is a child of God...”",
+        "correctAnswer": "“Nobody who has become a child of God continues to do...”",
         "reference": "1 John 5:18",
-        "explanation": "1 John 5:18 records: 'We are certain that one who is a child of God will do no sin, but the Son of God keeps him so that he is not touched by the Evil One.'."
+        "explanation": "1 John 5:18 records: 'Nobody who has become a child of God continues to do wrong things. Instead, the Son of God keeps him safe. Satan cannot do anything against a child of God.'."
       }
     ]
   }

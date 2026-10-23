@@ -1,9 +1,6 @@
 {
-  "book": "2 Peter",
   "bookId": "2PE",
-  "totalChapters": 3,
-  "totalQuestions": 30,
-  "questionsPerChapter": 10,
+  "bookName": "2 Peter",
   "chapters": {
     "1": [
       {
@@ -11,150 +8,150 @@
         "questionNumber": 1,
         "question": "According to 2 Peter 1:1, what is the opening statement or setting of this chapter?",
         "options": [
-          "It records: “Simon Peter, a servant and Apostle of Jesus Christ, to those who ...”",
+          "It records: “This letter is from me, Simon Peter. I am Jesus Christ's servant ...”",
           "It begins with a prayer of thanksgiving for deliverance in 2 Peter",
           "It opens with a formal census and counting of the congregation",
           "It records a severe judgment pronounced against neighboring nations"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "It records: “Simon Peter, a servant and Apostle of Jesus Christ, to those who ...”",
+        "correctAnswer": "It records: “This letter is from me, Simon Peter. I am Jesus Christ's servant ...”",
         "reference": "2 Peter 1:1",
-        "explanation": "The chapter begins directly with the statement: 'Simon Peter, a servant and Apostle of Jesus Christ, to those who with us have a part in the same holy faith in the righteousness of our God and Saviour Jesus Christ:'."
+        "explanation": "The chapter begins directly with the statement: 'This letter is from me, Simon Peter. I am Jesus Christ's servant and his apostle. I am writing to you people who believe in Jesus Christ, as we do. That is a valuable gift that God has given to us all. He has done this because Jesus is completely good and right. Jesus is the one who saves us. He is the God that we serve.'."
       },
       {
         "id": "2pe-1-q2",
         "questionNumber": 2,
         "question": "What key instruction, event, or declaration is set forth in 2 Peter 1:2?",
         "options": [
-          "“So, for this very cause, take every care; joining...”",
-          "“May grace and peace ever be increasing in you, in the...”",
-          "“For the man who has not these things is...”",
+          "“God has done all this to help you. So...”",
+          "“I pray that God will help you and give you peace...”",
+          "“But some people do not live in these good...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“May grace and peace ever be increasing in you, in the...”",
+        "correctAnswer": "“I pray that God will help you and give you peace...”",
         "reference": "2 Peter 1:2",
-        "explanation": "2 Peter 1:2 records: 'May grace and peace ever be increasing in you, in the knowledge of God and of Jesus our Lord;'."
+        "explanation": "2 Peter 1:2 records: 'I pray that God will help you and give you peace in your minds more and more. You will grow as believers because you know God and you know Jesus, our Lord.'."
       },
       {
         "id": "2pe-1-q3",
         "questionNumber": 3,
         "question": "What significant action or revelation occurs in 2 Peter 1:4?",
         "options": [
-          "“And love of the brothers to fear of God,...”",
-          "“For so the way will be open to you...”",
-          "“And through this he has given us the hope of great...”",
+          "“You should not only please God, but you should...”",
+          "“Then God will bring you safely into the kingdom...”",
+          "“Because of this, God has promised that he will do very...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“And through this he has given us the hope of great...”",
+        "correctAnswer": "“Because of this, God has promised that he will do very...”",
         "reference": "2 Peter 1:4",
-        "explanation": "2 Peter 1:4 records: 'And through this he has given us the hope of great rewards highly to be valued; so that by them we might have our part in God's being, and be made free from the destruction which is in the world through the desires of the flesh.'."
+        "explanation": "2 Peter 1:4 records: 'Because of this, God has promised that he will do very great and valuable things for us. As a result, you can do what is right, like God does. The people who belong to this world want to do bad things. Those bad things make them become worse and worse. But God gives you the power to be free from all that.'."
       },
       {
         "id": "2pe-1-q4",
         "questionNumber": 4,
         "question": "What truth or description is highlighted in 2 Peter 1:6?",
         "options": [
-          "“For the man who has not these things is...”",
-          "“And it seems right to me, as long as...”",
+          "“But some people do not live in these good...”",
+          "“While I am still alive on this earth I...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“And self-control to knowledge, and a quiet mind to self-control, and...”"
+          "“Then you should learn to control yourselves properly. That is not...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“And self-control to knowledge, and a quiet mind to self-control, and...”",
+        "correctAnswer": "“Then you should learn to control yourselves properly. That is not...”",
         "reference": "2 Peter 1:6",
-        "explanation": "2 Peter 1:6 records: 'And self-control to knowledge, and a quiet mind to self-control, and fear of God to a quiet mind,'."
+        "explanation": "2 Peter 1:6 records: 'Then you should learn to control yourselves properly. That is not all. You should also learn to be patient and brave. And you should live in a way that pleases God.'."
       },
       {
         "id": "2pe-1-q5",
         "questionNumber": 5,
         "question": "According to the text, what happened or was commanded in 2 Peter 1:8?",
         "options": [
-          "“For if you have these things in good measure, they will...”",
-          "“For so the way will be open to you...”",
-          "“And I will take every care so that you...”",
+          "“You should continue to grow as believers in all these ways....”",
+          "“Then God will bring you safely into the kingdom...”",
+          "“After I am no longer with you, I want...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“For if you have these things in good measure, they will...”",
+        "correctAnswer": "“You should continue to grow as believers in all these ways....”",
         "reference": "2 Peter 1:8",
-        "explanation": "2 Peter 1:8 records: 'For if you have these things in good measure, they will make you fertile and full of fruit in the knowledge of our Lord Jesus Christ.'."
+        "explanation": "2 Peter 1:8 records: 'You should continue to grow as believers in all these ways. Then it will show that you really know our Lord Jesus Christ. People will see that your life has good results.'."
       },
       {
         "id": "2pe-1-q6",
         "questionNumber": 6,
         "question": "What central message or instruction is delivered in 2 Peter 1:10?",
         "options": [
-          "“And it seems right to me, as long as...”",
-          "“For this reason, my brothers, take all the more care to...”",
-          "“For God the Father gave him honour and glory,...”",
+          "“While I am still alive on this earth I...”",
+          "“So, my friends, try very much to live in a way...”",
+          "“We were with him on the holy mountain when...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“For this reason, my brothers, take all the more care to...”",
+        "correctAnswer": "“So, my friends, try very much to live in a way...”",
         "reference": "2 Peter 1:10",
-        "explanation": "2 Peter 1:10 records: 'For this reason, my brothers, take all the more care to make your selection and approval certain; for if you do these things you will never have a fall:'."
+        "explanation": "2 Peter 1:10 records: 'So, my friends, try very much to live in a way that pleases God. God has chosen you to be his own people. Show that you really do belong to him! If you do these things, you will never turn away from God.'."
       },
       {
         "id": "2pe-1-q7",
         "questionNumber": 7,
         "question": "What detail regarding God's work, covenant, or people is given in 2 Peter 1:12?",
         "options": [
-          "“And I will take every care so that you...”",
-          "“And so the words of the prophets are made...”",
-          "“For this reason I will be ready at all times to...”",
+          "“After I am no longer with you, I want...”",
+          "“We also have the prophets' messages from long ago....”",
+          "“You already know these things. You know that they are completely...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“For this reason I will be ready at all times to...”",
+        "correctAnswer": "“You already know these things. You know that they are completely...”",
         "reference": "2 Peter 1:12",
-        "explanation": "2 Peter 1:12 records: 'For this reason I will be ready at all times to keep your memory of these things awake, though you have the knowledge of them now and are well based in your present faith.'."
+        "explanation": "2 Peter 1:12 records: 'You already know these things. You know that they are completely true. But because they are important, I will continue to tell you about them again and again.'."
       },
       {
         "id": "2pe-1-q8",
         "questionNumber": 8,
         "question": "What phrase or account is recorded in 2 Peter 1:14?",
         "options": [
-          "“For God the Father gave him honour and glory,...”",
-          "“Simon Peter, a servant and Apostle of Jesus Christ,...”",
+          "“We were with him on the holy mountain when...”",
+          "“This letter is from me, Simon Peter. I am...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“For I am conscious that in a short time I will...”"
+          "“I know that I will die soon. Our Lord Jesus Christ...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“For I am conscious that in a short time I will...”",
+        "correctAnswer": "“I know that I will die soon. Our Lord Jesus Christ...”",
         "reference": "2 Peter 1:14",
-        "explanation": "2 Peter 1:14 records: 'For I am conscious that in a short time I will have to put off this tent of flesh, as our Lord Jesus Christ has made clear to me.'."
+        "explanation": "2 Peter 1:14 records: 'I know that I will die soon. Our Lord Jesus Christ has shown me that clearly.'."
       },
       {
         "id": "2pe-1-q9",
         "questionNumber": 9,
         "question": "How does the passage describe the circumstances or people in 2 Peter 1:16?",
         "options": [
-          "“For when we gave you news of the power and the...”",
-          "“And so the words of the prophets are made...”",
-          "“May grace and peace ever be increasing in you,...”",
+          "“We told you that our Lord Jesus Christ is powerful. We...”",
+          "“We also have the prophets' messages from long ago....”",
+          "“God is very powerful because he is God. He...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“For when we gave you news of the power and the...”",
+        "correctAnswer": "“We told you that our Lord Jesus Christ is powerful. We...”",
         "reference": "2 Peter 1:16",
-        "explanation": "2 Peter 1:16 records: 'For when we gave you news of the power and the coming of our Lord Jesus Christ, our teaching was not based on stories put together by art, but we were eye-witnesses of his glory.'."
+        "explanation": "2 Peter 1:16 records: 'We told you that our Lord Jesus Christ is powerful. We also told you that he will return to earth again. We were not telling you false stories that came from people's clever ideas. Instead, we were telling you what we ourselves had seen. We ourselves saw that the Lord Jesus is very great.'."
       },
       {
         "id": "2pe-1-q10",
         "questionNumber": 10,
         "question": "In the concluding portion of the chapter, what takes place in 2 Peter 1:18?",
         "options": [
-          "“Simon Peter, a servant and Apostle of Jesus Christ,...”",
-          "“And this voice came from heaven even to our ears, when...”",
-          "“And through this he has given us the hope...”",
+          "“This letter is from me, Simon Peter. I am...”",
+          "“We also have the prophets' messages from long ago. They show...”",
+          "“God has done all this to help you. So...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“And this voice came from heaven even to our ears, when...”",
+        "correctAnswer": "“We also have the prophets' messages from long ago. They show...”",
         "reference": "2 Peter 1:18",
-        "explanation": "2 Peter 1:18 records: 'And this voice came from heaven even to our ears, when we were with him on the holy mountain.'."
+        "explanation": "2 Peter 1:18 records: 'We also have the prophets' messages from long ago. They show us very clearly that these things are true. The prophets' words are like a light that shines in a dark place. That light continues to shine in the dark until the dawn comes. So you need to think about those messages carefully. Then the morning star will rise at dawn and it will bring light deep inside you.'."
       }
     ],
     "2": [
@@ -163,150 +160,150 @@
         "questionNumber": 1,
         "question": "According to 2 Peter 2:1, what is the opening statement or setting of this chapter?",
         "options": [
-          "It records: “But there were false prophets among the people, as there will be ...”",
+          "It records: “Many years ago, there were false prophets among God's people. The...”",
           "It begins with a prayer of thanksgiving for deliverance in 2 Peter",
           "It opens with a formal census and counting of the congregation",
           "It records a severe judgment pronounced against neighboring nations"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "It records: “But there were false prophets among the people, as there will be ...”",
+        "correctAnswer": "It records: “Many years ago, there were false prophets among God's people. The...”",
         "reference": "2 Peter 2:1",
-        "explanation": "The chapter begins directly with the statement: 'But there were false prophets among the people, as there will be false teachers among you, who will secretly put forward wrong teachings for your destruction, even turning away from the Lord who gave himself for them; whose destruction will come quickly, and they themselves will be the cause of it.'."
+        "explanation": "The chapter begins directly with the statement: 'Many years ago, there were false prophets among God's people. They did not speak God's true messages. In the same way, there will also be false teachers among you. They will come among you and they will teach you things that are not true. Their wrong ideas will deceive people. Those false teachers will even speak against the Master, who paid the price for their sins. As a result, they will bring trouble on themselves that quickly destroys them.'."
       },
       {
         "id": "2pe-2-q2",
         "questionNumber": 2,
         "question": "What key instruction, event, or declaration is set forth in 2 Peter 2:2?",
         "options": [
-          "“And did not have mercy on the world which...”",
-          "“And a great number will go with them in their evil...”",
-          "“The Lord is able to keep the upright safe...”",
+          "“Also, a long time ago, God punished all the...”",
+          "“Many people will believe these false teachers. They will live in...”",
+          "“We know that the Lord God has done all...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“And a great number will go with them in their evil...”",
+        "correctAnswer": "“Many people will believe these false teachers. They will live in...”",
         "reference": "2 Peter 2:2",
-        "explanation": "2 Peter 2:2 records: 'And a great number will go with them in their evil ways, through whom the true way will have a bad name.'."
+        "explanation": "2 Peter 2:2 records: 'Many people will believe these false teachers. They will live in a bad way, like the false teachers. As a result, other people will say bad things against God's true way to live.'."
       },
       {
         "id": "2pe-2-q3",
         "questionNumber": 3,
         "question": "What significant action or revelation occurs in 2 Peter 2:4?",
         "options": [
-          "“And kept safe Lot, the upright man, who was...”",
-          "“Though the angels, who are greater in strength and...”",
-          "“For if God did not have pity for the angels who...”",
+          "“But God saved Lot from danger. Lot was a...”",
+          "“The angels are more powerful than the false teachers...”",
+          "“God even punished the angels who refused to obey him. He...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“For if God did not have pity for the angels who...”",
+        "correctAnswer": "“God even punished the angels who refused to obey him. He...”",
         "reference": "2 Peter 2:4",
-        "explanation": "2 Peter 2:4 records: 'For if God did not have pity for the angels who did evil, but sent them down into hell, to be kept in chains of eternal night till they were judged;'."
+        "explanation": "2 Peter 2:4 records: 'God even punished the angels who refused to obey him. He threw them down into the deep hole of hell. He tied them up and he kept them in that completely dark place. They will remain there until the day when God will judge them.'."
       },
       {
         "id": "2pe-2-q4",
         "questionNumber": 4,
         "question": "What truth or description is highlighted in 2 Peter 2:6?",
         "options": [
-          "“The Lord is able to keep the upright safe...”",
-          "“For the evil which overtakes them is the reward...”",
+          "“We know that the Lord God has done all...”",
+          "“They have caused other people to have much trouble....”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“And sent destruction on Sodom and Gomorrah, burning them up with...”"
+          "“Later, God punished the people who lived in the cities of...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“And sent destruction on Sodom and Gomorrah, burning them up with...”",
+        "correctAnswer": "“Later, God punished the people who lived in the cities of...”",
         "reference": "2 Peter 2:6",
-        "explanation": "2 Peter 2:6 records: 'And sent destruction on Sodom and Gomorrah, burning them up with fire as an example to those whose way of life might in the future be unpleasing to him;'."
+        "explanation": "2 Peter 2:6 records: 'Later, God punished the people who lived in the cities of Sodom and Gomorrah. Because they did bad things, God decided to destroy them. He burned those cities completely, so that only ashes remained. When God did that, he showed what will happen to all people who refuse to obey him.'."
       },
       {
         "id": "2pe-2-q5",
         "questionNumber": 5,
         "question": "According to the text, what happened or was commanded in 2 Peter 2:8?",
         "options": [
-          "“(Because the soul of that upright man living among them was...”",
-          "“Though the angels, who are greater in strength and...”",
-          "“Turning out of the true way, they have gone...”",
+          "“Lot lived among those bad people. Every day, he saw the...”",
+          "“The angels are more powerful than the false teachers...”",
+          "“These false teachers have left the way which is...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“(Because the soul of that upright man living among them was...”",
+        "correctAnswer": "“Lot lived among those bad people. Every day, he saw the...”",
         "reference": "2 Peter 2:8",
-        "explanation": "2 Peter 2:8 records: '(Because the soul of that upright man living among them was pained from day to day by seeing and hearing their crimes):'."
+        "explanation": "2 Peter 2:8 records: 'Lot lived among those bad people. Every day, he saw the bad things that they did. Every day, he heard the bad things that they said. As a result, Lot had much trouble in his mind, because he was a good man.'."
       },
       {
         "id": "2pe-2-q6",
         "questionNumber": 6,
         "question": "What central message or instruction is delivered in 2 Peter 2:10?",
         "options": [
-          "“For the evil which overtakes them is the reward...”",
-          "“But specially those who go after the unclean desires of the...”",
-          "“These are fountains without water, and mists before a...”",
+          "“They have caused other people to have much trouble....”",
+          "“God will certainly punish those people who want to enjoy bad...”",
+          "“These false teachers promise good things that will never...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“But specially those who go after the unclean desires of the...”",
+        "correctAnswer": "“God will certainly punish those people who want to enjoy bad...”",
         "reference": "2 Peter 2:10",
-        "explanation": "2 Peter 2:10 records: 'But specially those who go after the unclean desires of the flesh, and make sport of authority. Ready to take chances, uncontrolled, they have no fear of saying evil of those in high places:'."
+        "explanation": "2 Peter 2:10 records: 'God will certainly punish those people who want to enjoy bad things for themselves. They do the wrong things that their bodies want to do. They do not want to obey anyone's authority. These false teachers are not afraid of what other people think about them. They think that they themselves are very important. They are not afraid to say many bad things against the great angels in heaven.'."
       },
       {
         "id": "2pe-2-q7",
         "questionNumber": 7,
         "question": "What detail regarding God's work, covenant, or people is given in 2 Peter 2:12?",
         "options": [
-          "“Turning out of the true way, they have gone...”",
-          "“Saying that they will be free, while they themselves...”",
-          "“But these men, like beasts without reason, whose natural use is...”",
+          "“These false teachers have left the way which is...”",
+          "“The false teachers tell these believers to do whatever...”",
+          "“But these false teachers speak against things that they do not...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“But these men, like beasts without reason, whose natural use is...”",
+        "correctAnswer": "“But these false teachers speak against things that they do not...”",
         "reference": "2 Peter 2:12",
-        "explanation": "2 Peter 2:12 records: 'But these men, like beasts without reason, whose natural use is to be taken and put to death, crying out against things of which they have no knowledge, will undergo that same destruction which they are designing for others;'."
+        "explanation": "2 Peter 2:12 records: 'But these false teachers speak against things that they do not understand. They are like wild animals. Their minds cannot think properly. They only do what their nature causes them to do. Wild animals are born so that people can catch them and kill them. In the same way, God will destroy the false teachers.'."
       },
       {
         "id": "2pe-2-q8",
         "questionNumber": 8,
         "question": "What phrase or account is recorded in 2 Peter 2:14?",
         "options": [
-          "“These are fountains without water, and mists before a...”",
-          "“For it would have been better for them to...”",
+          "“These false teachers promise good things that will never...”",
+          "“It would have been better for them if they...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“Having eyes full of evil desire, never having enough of sin;...”"
+          "“All the time, they are looking for women who will have...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“Having eyes full of evil desire, never having enough of sin;...”",
+        "correctAnswer": "“All the time, they are looking for women who will have...”",
         "reference": "2 Peter 2:14",
-        "explanation": "2 Peter 2:14 records: 'Having eyes full of evil desire, never having enough of sin; turning feeble souls out of the true way; they are children of cursing, whose hearts are well used to bitter envy;'."
+        "explanation": "2 Peter 2:14 records: 'All the time, they are looking for women who will have sex with them. They never stop doing wicked things. They teach people who have weak minds to believe wrong things. They just want more and more things to make themselves happy. God will certainly punish these people, because they are so bad.'."
       },
       {
         "id": "2pe-2-q9",
         "questionNumber": 9,
         "question": "How does the passage describe the circumstances or people in 2 Peter 2:16?",
         "options": [
-          "“But his wrongdoing was pointed out to him: an ass, talking...”",
-          "“Saying that they will be free, while they themselves...”",
-          "“But there were false prophets among the people, as...”",
+          "“But a donkey told him that he was not obeying God....”",
+          "“The false teachers tell these believers to do whatever...”",
+          "“Many years ago, there were false prophets among God's...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“But his wrongdoing was pointed out to him: an ass, talking...”",
+        "correctAnswer": "“But a donkey told him that he was not obeying God....”",
         "reference": "2 Peter 2:16",
-        "explanation": "2 Peter 2:16 records: 'But his wrongdoing was pointed out to him: an ass, talking with a man's voice, put a stop to the error of the prophet.'."
+        "explanation": "2 Peter 2:16 records: 'But a donkey told him that he was not obeying God. We know that donkeys cannot talk. But that donkey spoke with a human voice. It stopped the prophet Balaam from doing more stupid things.'."
       },
       {
         "id": "2pe-2-q10",
         "questionNumber": 10,
         "question": "In the concluding portion of the chapter, what takes place in 2 Peter 2:18?",
         "options": [
-          "“For it would have been better for them to...”",
-          "“For with high-sounding false words, making use of the attraction of...”",
-          "“And in their desire for profit they will come...”",
+          "“It would have been better for them if they...”",
+          "“The messages that these teachers speak seem very important. But their...”",
+          "“The false teachers want you to give them money....”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“For with high-sounding false words, making use of the attraction of...”",
+        "correctAnswer": "“The messages that these teachers speak seem very important. But their...”",
         "reference": "2 Peter 2:18",
-        "explanation": "2 Peter 2:18 records: 'For with high-sounding false words, making use of the attraction of unclean desires of the flesh, they get into their power those newly made free from those who are living in error;'."
+        "explanation": "2 Peter 2:18 records: 'The messages that these teachers speak seem very important. But their words really mean nothing. In that way, they lead people away from God. Some people have not been believers for very long. They have only just become free from the wrong things that people do. But the false teachers tell these people to do bad things that will make them happy.'."
       }
     ],
     "3": [
@@ -315,150 +312,150 @@
         "questionNumber": 1,
         "question": "According to 2 Peter 3:1, what is the opening statement or setting of this chapter?",
         "options": [
-          "It records: “My loved ones, this is now my second letter to you, and in this a...”",
+          "It records: “My friends, this is the second letter that I have written to you....”",
           "It begins with a prayer of thanksgiving for deliverance in 2 Peter",
           "It opens with a formal census and counting of the congregation",
           "It records a severe judgment pronounced against neighboring nations"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "It records: “My loved ones, this is now my second letter to you, and in this a...”",
+        "correctAnswer": "It records: “My friends, this is the second letter that I have written to you....”",
         "reference": "2 Peter 3:1",
-        "explanation": "The chapter begins directly with the statement: 'My loved ones, this is now my second letter to you, and in this as in the first, I am attempting to keep your true minds awake;'."
+        "explanation": "The chapter begins directly with the statement: 'My friends, this is the second letter that I have written to you. I have written both these letters to help you to understand some things. You already know these things. Now I want you to think about them carefully.'."
       },
       {
         "id": "2pe-3-q2",
         "questionNumber": 2,
         "question": "What key instruction, event, or declaration is set forth in 2 Peter 3:2?",
         "options": [
-          "“But in taking this view they put out of...”",
-          "“So that you may keep in mind the words of the...”",
-          "“The Lord is not slow in keeping his word,...”",
+          "“These people choose to forget things that they really...”",
+          "“I want you to remember the messages from God that his...”",
+          "“The Lord is not being slow to do what...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“So that you may keep in mind the words of the...”",
+        "correctAnswer": "“I want you to remember the messages from God that his...”",
         "reference": "2 Peter 3:2",
-        "explanation": "2 Peter 3:2 records: 'So that you may keep in mind the words of the holy prophets in the past, and the law of the Lord and Saviour which was given to you by his Apostles.'."
+        "explanation": "2 Peter 3:2 records: 'I want you to remember the messages from God that his own prophets spoke a long time ago. Also, I want you to remember what our Lord Jesus told you to do. He is the one who saves us. He sent us, his apostles, to teach you his message.'."
       },
       {
         "id": "2pe-3-q3",
         "questionNumber": 3,
         "question": "What significant action or revelation occurs in 2 Peter 3:3?",
         "options": [
-          "“And that the world which then was came to...”",
-          "“But the day of the Lord will come like...”",
-          "“Having first of all the knowledge that in the last days...”",
+          "“Also, God used water to destroy that same world...”",
+          "“The great day of the Lord will suddenly happen....”",
+          "“The first thing that you should understand is this. In the...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“Having first of all the knowledge that in the last days...”",
+        "correctAnswer": "“The first thing that you should understand is this. In the...”",
         "reference": "2 Peter 3:3",
-        "explanation": "2 Peter 3:3 records: 'Having first of all the knowledge that in the last days there will be men who, ruled by their evil desires, will make sport of holy things,'."
+        "explanation": "2 Peter 3:3 records: 'The first thing that you should understand is this. In the last days of this world, some people will laugh at you because you believe in God. These people will do whatever bad things they want to do.'."
       },
       {
         "id": "2pe-3-q4",
         "questionNumber": 4,
         "question": "What truth or description is highlighted in 2 Peter 3:4?",
         "options": [
-          "“But the present heaven and the present earth have...”",
-          "“Seeing then that all these things are coming to...”",
+          "“But God has also spoken his word to say...”",
+          "“Certainly, God will destroy everything in this way one...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“Saying, Where is the hope of his coming? From the death...”"
+          "“They will say, ‘Christ promised that he would return to this...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“Saying, Where is the hope of his coming? From the death...”",
+        "correctAnswer": "“They will say, ‘Christ promised that he would return to this...”",
         "reference": "2 Peter 3:4",
-        "explanation": "2 Peter 3:4 records: 'Saying, Where is the hope of his coming? From the death of the fathers till now everything has gone on as it was from the making of the world.'."
+        "explanation": "2 Peter 3:4 records: 'They will say, ‘Christ promised that he would return to this world. But he has not returned! Our ancestors have already died, but since God made the world in the beginning, nothing has changed.’'."
       },
       {
         "id": "2pe-3-q5",
         "questionNumber": 5,
         "question": "According to the text, what happened or was commanded in 2 Peter 3:5?",
         "options": [
-          "“But in taking this view they put out of their minds...”",
-          "“But, my loved ones, keep in mind this one...”",
-          "“Looking for and truly desiring the coming of the...”",
+          "“These people choose to forget things that they really know. A...”",
+          "“My friends, here is one thing that you must...”",
+          "“Yes, you should continue to obey God while you...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“But in taking this view they put out of their minds...”",
+        "correctAnswer": "“These people choose to forget things that they really know. A...”",
         "reference": "2 Peter 3:5",
-        "explanation": "2 Peter 3:5 records: 'But in taking this view they put out of their minds the memory that in the old days there was a heaven, and an earth lifted out of the water and circled by water, by the word of God;'."
+        "explanation": "2 Peter 3:5 records: 'These people choose to forget things that they really know. A long time ago, God spoke his word and he made the sky and the earth. He caused land to come up through water. He made the land to be separate from the water.'."
       },
       {
         "id": "2pe-3-q6",
         "questionNumber": 6,
         "question": "What central message or instruction is delivered in 2 Peter 3:6?",
         "options": [
-          "“The Lord is not slow in keeping his word,...”",
-          "“And that the world which then was came to an end...”",
-          "“But having faith in his word, we are looking...”",
+          "“The Lord is not being slow to do what...”",
+          "“Also, God used water to destroy that same world long ago....”",
+          "“But God has promised to make a new sky...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“And that the world which then was came to an end...”",
+        "correctAnswer": "“Also, God used water to destroy that same world long ago....”",
         "reference": "2 Peter 3:6",
-        "explanation": "2 Peter 3:6 records: 'And that the world which then was came to an end through the overflowing of the waters.'."
+        "explanation": "2 Peter 3:6 records: 'Also, God used water to destroy that same world long ago. He spoke his word and he covered the land with water.'."
       },
       {
         "id": "2pe-3-q7",
         "questionNumber": 7,
         "question": "What detail regarding God's work, covenant, or people is given in 2 Peter 3:7?",
         "options": [
-          "“But the day of the Lord will come like...”",
-          "“For this reason, my loved ones, as you are...”",
-          "“But the present heaven and the present earth have been kept...”",
+          "“The great day of the Lord will suddenly happen....”",
+          "“So, my friends, live in a good way, because...”",
+          "“But God has also spoken his word to say what will...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“But the present heaven and the present earth have been kept...”",
+        "correctAnswer": "“But God has also spoken his word to say what will...”",
         "reference": "2 Peter 3:7",
-        "explanation": "2 Peter 3:7 records: 'But the present heaven and the present earth have been kept for destruction by fire, which is waiting for them on the day of the judging and destruction of evil men.'."
+        "explanation": "2 Peter 3:7 records: 'But God has also spoken his word to say what will happen to the world in a future time. The sky and the earth that we see now will continue for a time. But God is keeping them until the day when he will destroy them with fire. On that day he will judge all people. He will destroy the people who have turned away from him.'."
       },
       {
         "id": "2pe-3-q8",
         "questionNumber": 8,
         "question": "What phrase or account is recorded in 2 Peter 3:8?",
         "options": [
-          "“Seeing then that all these things are coming to...”",
-          "“And be certain that the long waiting of the...”",
+          "“Certainly, God will destroy everything in this way one...”",
+          "“Remember that our Lord wants to save people from...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“But, my loved ones, keep in mind this one thing, that...”"
+          "“My friends, here is one thing that you must remember. In...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“But, my loved ones, keep in mind this one thing, that...”",
+        "correctAnswer": "“My friends, here is one thing that you must remember. In...”",
         "reference": "2 Peter 3:8",
-        "explanation": "2 Peter 3:8 records: 'But, my loved ones, keep in mind this one thing, that with the Lord one day is the same as a thousand years, and a thousand years are no more than one day.'."
+        "explanation": "2 Peter 3:8 records: 'My friends, here is one thing that you must remember. In the Lord God's mind, one day and 1,000 years are the same. For him, 1,000 years is like a single day.'."
       },
       {
         "id": "2pe-3-q9",
         "questionNumber": 9,
         "question": "How does the passage describe the circumstances or people in 2 Peter 3:9?",
         "options": [
-          "“The Lord is not slow in keeping his word, as he...”",
-          "“Looking for and truly desiring the coming of the...”",
-          "“And as he said in all his letters, which...”",
+          "“The Lord is not being slow to do what he has...”",
+          "“Yes, you should continue to obey God while you...”",
+          "“He wrote about them in all his letters. Some...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“The Lord is not slow in keeping his word, as he...”",
+        "correctAnswer": "“The Lord is not being slow to do what he has...”",
         "reference": "2 Peter 3:9",
-        "explanation": "2 Peter 3:9 records: 'The Lord is not slow in keeping his word, as he seems to some, but he is waiting in mercy for you, not desiring the destruction of any, but that all may be turned from their evil ways.'."
+        "explanation": "2 Peter 3:9 records: 'The Lord is not being slow to do what he has promised to do. Some people may think that he is being slow to do it. But he is being patient with you. He does not want to destroy anyone. He wants all people to turn away from the wrong things that they do.'."
       },
       {
         "id": "2pe-3-q10",
         "questionNumber": 10,
         "question": "In the concluding portion of the chapter, what takes place in 2 Peter 3:10?",
         "options": [
-          "“But having faith in his word, we are looking...”",
-          "“But the day of the Lord will come like a thief;...”",
-          "“For this reason, my loved ones, having knowledge of...”",
+          "“But God has promised to make a new sky...”",
+          "“The great day of the Lord will suddenly happen. That will...”",
+          "“My friends, you already know about these false teachers....”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“But the day of the Lord will come like a thief;...”",
+        "correctAnswer": "“The great day of the Lord will suddenly happen. That will...”",
         "reference": "2 Peter 3:10",
-        "explanation": "2 Peter 3:10 records: 'But the day of the Lord will come like a thief; and in that day the heavens will be rolled up with a great noise, and the substance of the earth will be changed by violent heat, and the world and everything in it will be burned up.'."
+        "explanation": "2 Peter 3:10 records: 'The great day of the Lord will suddenly happen. That will surprise people, like when someone comes to rob them. There will be a very loud noise in the sky. The whole sky will go away. Fire will burn the whole universe and it will destroy everything. The earth and everything that people have done on it will then be in the open.'."
       }
     ]
   }

@@ -1,9 +1,6 @@
 {
-  "book": "Habakkuk",
   "bookId": "HAB",
-  "totalChapters": 3,
-  "totalQuestions": 30,
-  "questionsPerChapter": 10,
+  "bookName": "Habakkuk",
   "chapters": {
     "1": [
       {
@@ -11,150 +8,150 @@
         "questionNumber": 1,
         "question": "According to Habakkuk 1:1, what is the opening statement or setting of this chapter?",
         "options": [
-          "It records: “The word which Habakkuk the prophet saw.”",
+          "It records: “This is the message that God showed to his prophet Habakkuk.”",
           "It begins with a prayer of thanksgiving for deliverance in Habakkuk",
           "It opens with a formal census and counting of the congregation",
           "It records a severe judgment pronounced against neighboring nations"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "It records: “The word which Habakkuk the prophet saw.”",
+        "correctAnswer": "It records: “This is the message that God showed to his prophet Habakkuk.”",
         "reference": "Habakkuk 1:1",
-        "explanation": "The chapter begins directly with the statement: 'The word which Habakkuk the prophet saw.'."
+        "explanation": "The chapter begins directly with the statement: 'This is the message that God showed to his prophet Habakkuk.'."
       },
       {
         "id": "hab-1-q2",
         "questionNumber": 2,
         "question": "What key instruction, event, or declaration is set forth in Habakkuk 1:2?",
         "options": [
-          "“See among the nations, and take note, and be...”",
-          "“How long, O Lord, will your ears be shut to my...”",
-          "“They are coming all of them with force; the...”",
+          "“‘All of you, look carefully at the other nations....”",
+          "“Lord, how long must I call out to you for help?...”",
+          "“Their whole army comes to do violent things. They...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“How long, O Lord, will your ears be shut to my...”",
+        "correctAnswer": "“Lord, how long must I call out to you for help?...”",
         "reference": "Habakkuk 1:2",
-        "explanation": "Habakkuk 1:2 records: 'How long, O Lord, will your ears be shut to my voice? I make an outcry to you about violent behaviour, but you do not send salvation.'."
+        "explanation": "Habakkuk 1:2 records: 'Lord, how long must I call out to you for help? You do not listen to me! I shout aloud to you, ‘ Violence is everywhere!’ but you do nothing to make us safe.'."
       },
       {
         "id": "hab-1-q3",
         "questionNumber": 3,
         "question": "What significant action or revelation occurs in Habakkuk 1:3?",
         "options": [
-          "“For see, I am sending the Chaldaeans, that bitter...”",
-          "“He makes little of kings, rulers are a sport...”",
-          "“Why do you make me see evil-doing, and why are my...”",
+          "“I will give more power to the Babylonians. They...”",
+          "“They insult kings, and they laugh at rulers. They...”",
+          "“You cause me to see many things that are not right....”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“Why do you make me see evil-doing, and why are my...”",
+        "correctAnswer": "“You cause me to see many things that are not right....”",
         "reference": "Habakkuk 1:3",
-        "explanation": "Habakkuk 1:3 records: 'Why do you make me see evil-doing, and why are my eyes fixed on wrong? for wasting and violent acts are before me: and there is fighting and bitter argument.'."
+        "explanation": "Habakkuk 1:3 records: 'You cause me to see many things that are not right. You do not punish people who are doing wrong things. Why do you let that happen? People do cruel things and there is violence everywhere. They argue and they fight.'."
       },
       {
         "id": "hab-1-q4",
         "questionNumber": 4,
         "question": "What truth or description is highlighted in Habakkuk 1:4?",
         "options": [
-          "“They are greatly to be feared: their right comes...”",
-          "“Then his purpose will be changed, over-stepping the limit;...”",
+          "“They cause people to be very afraid. They obey...”",
+          "“Their army quickly moves on to another place, like...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“For this reason the law is feeble and decisions are not...”"
+          "“The law has no power to make things right. There is...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“For this reason the law is feeble and decisions are not...”",
+        "correctAnswer": "“The law has no power to make things right. There is...”",
         "reference": "Habakkuk 1:4",
-        "explanation": "Habakkuk 1:4 records: 'For this reason the law is feeble and decisions are not effected: for the upright man is circled round by evil-doers; because of which right is twisted.'."
+        "explanation": "Habakkuk 1:4 records: 'The law has no power to make things right. There is no justice in the courts. Instead, wicked people win against good people. The judges decide that bad people are good.'."
       },
       {
         "id": "hab-1-q5",
         "questionNumber": 5,
         "question": "According to the text, what happened or was commanded in Habakkuk 1:5?",
         "options": [
-          "“See among the nations, and take note, and be full of...”",
-          "“And their horses are quicker than leopards and their...”",
-          "“Are you not eternal, O Lord my God, my...”",
+          "“‘All of you, look carefully at the other nations. You will...”",
+          "“Their horses run faster than leopards. They are more...”",
+          "“Lord, you have always been God, since the beginning....”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“See among the nations, and take note, and be full of...”",
+        "correctAnswer": "“‘All of you, look carefully at the other nations. You will...”",
         "reference": "Habakkuk 1:5",
-        "explanation": "Habakkuk 1:5 records: 'See among the nations, and take note, and be full of wonder: for in your days I am doing a work in which you will have no belief, even if news of it is given to you.'."
+        "explanation": "Habakkuk 1:5 records: '‘All of you, look carefully at the other nations. You will be very surprised at what is happening. While you are still alive, I will do a very surprising thing. You would not believe it even if someone told you.'."
       },
       {
         "id": "hab-1-q6",
         "questionNumber": 6,
         "question": "What central message or instruction is delivered in Habakkuk 1:6?",
         "options": [
-          "“They are coming all of them with force; the...”",
-          "“For see, I am sending the Chaldaeans, that bitter and quick-moving...”",
-          "“Before your holy eyes sin may not be seen,...”",
+          "“Their whole army comes to do violent things. They...”",
+          "“I will give more power to the Babylonians. They are a...”",
+          "“But you are too holy to accept anything that...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“For see, I am sending the Chaldaeans, that bitter and quick-moving...”",
+        "correctAnswer": "“I will give more power to the Babylonians. They are a...”",
         "reference": "Habakkuk 1:6",
-        "explanation": "Habakkuk 1:6 records: 'For see, I am sending the Chaldaeans, that bitter and quick-moving nation; who go through the wide spaces of the earth to get for themselves living-places which are not theirs.'."
+        "explanation": "Habakkuk 1:6 records: 'I will give more power to the Babylonians. They are a cruel nation with brave soldiers. They march across the whole earth. They take cities that do not belong to them.'."
       },
       {
         "id": "hab-1-q7",
         "questionNumber": 7,
         "question": "What detail regarding God's work, covenant, or people is given in Habakkuk 1:7?",
         "options": [
-          "“He makes little of kings, rulers are a sport...”",
-          "“He has made men like the fishes of the...”",
-          "“They are greatly to be feared: their right comes from themselves.”",
+          "“They insult kings, and they laugh at rulers. They...”",
+          "“It seems that you have made people like fish...”",
+          "“They cause people to be very afraid. They obey no laws...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“They are greatly to be feared: their right comes from themselves.”",
+        "correctAnswer": "“They cause people to be very afraid. They obey no laws...”",
         "reference": "Habakkuk 1:7",
-        "explanation": "Habakkuk 1:7 records: 'They are greatly to be feared: their right comes from themselves.'."
+        "explanation": "Habakkuk 1:7 records: 'They cause people to be very afraid. They obey no laws except their own rules.'."
       },
       {
         "id": "hab-1-q8",
         "questionNumber": 8,
         "question": "What phrase or account is recorded in Habakkuk 1:8?",
         "options": [
-          "“Then his purpose will be changed, over-stepping the limit;...”",
-          "“He takes them all up with his hook, he...”",
+          "“Their army quickly moves on to another place, like...”",
+          "“The Babylonians can easily catch them, like people who...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“And their horses are quicker than leopards and their horsemen more...”"
+          "“Their horses run faster than leopards. They are more cruel than...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“And their horses are quicker than leopards and their horsemen more...”",
+        "correctAnswer": "“Their horses run faster than leopards. They are more cruel than...”",
         "reference": "Habakkuk 1:8",
-        "explanation": "Habakkuk 1:8 records: 'And their horses are quicker than leopards and their horsemen more cruel than evening wolves; they come from far away, like an eagle in flight rushing on its food.'."
+        "explanation": "Habakkuk 1:8 records: 'Their horses run faster than leopards. They are more cruel than wolves that attack in the evening. Their riders come on fast horses from places that are far away. They quickly attack their enemies, like hungry eagles that fly down to catch chickens.'."
       },
       {
         "id": "hab-1-q9",
         "questionNumber": 9,
         "question": "How does the passage describe the circumstances or people in Habakkuk 1:9?",
         "options": [
-          "“They are coming all of them with force; the direction of...”",
-          "“Are you not eternal, O Lord my God, my...”",
-          "“For this reason he makes an offering to his...”",
+          "“Their whole army comes to do violent things. They march forward...”",
+          "“Lord, you have always been God, since the beginning....”",
+          "“Their nets give them everything that they need, so...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“They are coming all of them with force; the direction of...”",
+        "correctAnswer": "“Their whole army comes to do violent things. They march forward...”",
         "reference": "Habakkuk 1:9",
-        "explanation": "Habakkuk 1:9 records: 'They are coming all of them with force; the direction of their faces is forward, the number of their prisoners is like the sands of the sea.'."
+        "explanation": "Habakkuk 1:9 records: 'Their whole army comes to do violent things. They march forward like a wind from the desert. They make people their prisoners, as easily as if they are picking up sand.'."
       },
       {
         "id": "hab-1-q10",
         "questionNumber": 10,
         "question": "In the concluding portion of the chapter, what takes place in Habakkuk 1:10?",
         "options": [
-          "“Before your holy eyes sin may not be seen,...”",
-          "“He makes little of kings, rulers are a sport to him;...”",
-          "“The word which Habakkuk the prophet saw.”",
+          "“But you are too holy to accept anything that...”",
+          "“They insult kings, and they laugh at rulers. They laugh at...”",
+          "“This is the message that God showed to his...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“He makes little of kings, rulers are a sport to him;...”",
+        "correctAnswer": "“They insult kings, and they laugh at rulers. They laugh at...”",
         "reference": "Habakkuk 1:10",
-        "explanation": "Habakkuk 1:10 records: 'He makes little of kings, rulers are a sport to him; all the strong places are to be laughed at; for he makes earthworks and takes them.'."
+        "explanation": "Habakkuk 1:10 records: 'They insult kings, and they laugh at rulers. They laugh at all the strong cities of their enemies. They build heaps of earth against the walls, and they take those cities for themselves.'."
       }
     ],
     "2": [
@@ -163,150 +160,150 @@
         "questionNumber": 1,
         "question": "According to Habakkuk 2:1, what is the opening statement or setting of this chapter?",
         "options": [
-          "It records: “I will take my position and be on watch, placing myself on my tow...”",
+          "It records: “I will stand at my place on the wall of the city. I will watch fr...”",
           "It begins with a prayer of thanksgiving for deliverance in Habakkuk",
           "It opens with a formal census and counting of the congregation",
           "It records a severe judgment pronounced against neighboring nations"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "It records: “I will take my position and be on watch, placing myself on my tow...”",
+        "correctAnswer": "It records: “I will stand at my place on the wall of the city. I will watch fr...”",
         "reference": "Habakkuk 2:1",
-        "explanation": "The chapter begins directly with the statement: 'I will take my position and be on watch, placing myself on my tower, looking out to see what he will say to me, and what answer he will give to my protest.'."
+        "explanation": "The chapter begins directly with the statement: 'I will stand at my place on the wall of the city. I will watch from there. I will wait to see what God will say to me. I have complained to him and now I will see how he answers me.'."
       },
       {
         "id": "hab-2-q2",
         "questionNumber": 2,
         "question": "What key instruction, event, or declaration is set forth in Habakkuk 2:2?",
         "options": [
-          "“A curse on the cruel and false one! the...”",
-          "“And the Lord gave me an answer, and said, Put the...”",
-          "“A curse on him who gets evil profits for...”",
+          "“Wine will destroy that proud enemy. They do not...”",
+          "“The Lord answered me. He said: ‘Write down what I will...”",
+          "“It will be very bad for anyone who cheats...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“And the Lord gave me an answer, and said, Put the...”",
+        "correctAnswer": "“The Lord answered me. He said: ‘Write down what I will...”",
         "reference": "Habakkuk 2:2",
-        "explanation": "Habakkuk 2:2 records: 'And the Lord gave me an answer, and said, Put the vision in writing and make it clear on stones, so that the reader may go quickly.'."
+        "explanation": "Habakkuk 2:2 records: 'The Lord answered me. He said: ‘Write down what I will show you. Make the message very clear on the place where you write it. Then someone can easily read it, and he can tell the message to other people.'."
       },
       {
         "id": "hab-2-q3",
         "questionNumber": 3,
         "question": "What significant action or revelation occurs in Habakkuk 2:4?",
         "options": [
-          "“Will not your creditors suddenly be moved against you,...”",
-          "“For the stone will give a cry out of...”",
-          "“As for the man of pride, my soul has no pleasure...”",
+          "“The people that have lent their riches to you...”",
+          "“The stones in the walls of your houses will...”",
+          "“Look now! The enemy is very proud. They do not want...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“As for the man of pride, my soul has no pleasure...”",
+        "correctAnswer": "“Look now! The enemy is very proud. They do not want...”",
         "reference": "Habakkuk 2:4",
-        "explanation": "Habakkuk 2:4 records: 'As for the man of pride, my soul has no pleasure in him; but the upright man will have life through his good faith.'."
+        "explanation": "Habakkuk 2:4 records: 'Look now! The enemy is very proud. They do not want to do what is right. But righteous people will live because they are faithful to God.'."
       },
       {
         "id": "hab-2-q4",
         "questionNumber": 4,
         "question": "What truth or description is highlighted in Habakkuk 2:6?",
         "options": [
-          "“A curse on him who gets evil profits for...”",
-          "“See, is it not the pleasure of the Lord...”",
+          "“It will be very bad for anyone who cheats...”",
+          "“Listen! The Lord Almighty has commanded this: All the...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“Will not all these take up a word of shame against...”"
+          "“But one day, their prisoners will laugh at them. The people...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“Will not all these take up a word of shame against...”",
+        "correctAnswer": "“But one day, their prisoners will laugh at them. The people...”",
         "reference": "Habakkuk 2:6",
-        "explanation": "Habakkuk 2:6 records: 'Will not all these take up a word of shame against him and a bitter saying against him, and say, A curse on him who goes on taking what is not his and is weighted down with the property of debtors!'."
+        "explanation": "Habakkuk 2:6 records: 'But one day, their prisoners will laugh at them. The people will insult that proud nation with songs and proverbs. They will say, “You have stored for yourselves many valuable things that do not belong to you. It will be very bad for you! You have robbed other nations so that you can be rich. This will not continue much longer!”'."
       },
       {
         "id": "hab-2-q5",
         "questionNumber": 5,
         "question": "According to the text, what happened or was commanded in Habakkuk 2:8?",
         "options": [
-          "“Because you have taken their goods from great nations, all the...”",
-          "“For the stone will give a cry out of...”",
-          "“A curse on him who gives his neighbour the...”",
+          "“You have robbed many nations. You have murdered people in many...”",
+          "“The stones in the walls of your houses will...”",
+          "“It will be very bad for you! You cause...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“Because you have taken their goods from great nations, all the...”",
+        "correctAnswer": "“You have robbed many nations. You have murdered people in many...”",
         "reference": "Habakkuk 2:8",
-        "explanation": "Habakkuk 2:8 records: 'Because you have taken their goods from great nations, all the rest of the peoples will take your goods from you; because of men's blood and violent acts against the land and the town and all who are living in it.'."
+        "explanation": "Habakkuk 2:8 records: 'You have robbed many nations. You have murdered people in many lands. You have destroyed towns and the people who live in them. Now the people who remain will come to rob you.'."
       },
       {
         "id": "hab-2-q6",
         "questionNumber": 6,
         "question": "What central message or instruction is delivered in Habakkuk 2:10?",
         "options": [
-          "“See, is it not the pleasure of the Lord...”",
-          "“You have been a cause of shame to your house by...”",
-          "“For the violent acts against Lebanon will come on...”",
+          "“Listen! The Lord Almighty has commanded this: All the...”",
+          "“But the cruel things that you have done will bring shame...”",
+          "“You have done cruel things to the people in...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“You have been a cause of shame to your house by...”",
+        "correctAnswer": "“But the cruel things that you have done will bring shame...”",
         "reference": "Habakkuk 2:10",
-        "explanation": "Habakkuk 2:10 records: 'You have been a cause of shame to your house by cutting off a number of peoples, and sinning against your soul.'."
+        "explanation": "Habakkuk 2:10 records: 'But the cruel things that you have done will bring shame to your family. You decided to destroy people from many countries. Because of that, you will pay with your own life.'."
       },
       {
         "id": "hab-2-q7",
         "questionNumber": 7,
         "question": "What detail regarding God's work, covenant, or people is given in Habakkuk 2:12?",
         "options": [
-          "“A curse on him who gives his neighbour the...”",
-          "“A curse on him who says to the wood,...”",
-          "“A curse on him who is building a place with blood,...”",
+          "“It will be very bad for you! You cause...”",
+          "“It will be very bad for anyone who says...”",
+          "“It will be very bad for anyone who kills people so...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“A curse on him who is building a place with blood,...”",
+        "correctAnswer": "“It will be very bad for anyone who kills people so...”",
         "reference": "Habakkuk 2:12",
-        "explanation": "Habakkuk 2:12 records: 'A curse on him who is building a place with blood, and basing a town on evil-doing!'."
+        "explanation": "Habakkuk 2:12 records: 'It will be very bad for anyone who kills people so that he can build a city for himself. It will be bad for anyone who does wicked things to make his town great.'."
       },
       {
         "id": "hab-2-q8",
         "questionNumber": 8,
         "question": "What phrase or account is recorded in Habakkuk 2:14?",
         "options": [
-          "“For the violent acts against Lebanon will come on...”",
-          "“I will take my position and be on watch,...”",
+          "“You have done cruel things to the people in...”",
+          "“I will stand at my place on the wall...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“For the earth will be full of the knowledge of the...”"
+          "“But people everywhere will one day recognize the Lord's great glory....”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“For the earth will be full of the knowledge of the...”",
+        "correctAnswer": "“But people everywhere will one day recognize the Lord's great glory....”",
         "reference": "Habakkuk 2:14",
-        "explanation": "Habakkuk 2:14 records: 'For the earth will be full of the knowledge of the glory of the Lord as the sea is covered by the waters.'."
+        "explanation": "Habakkuk 2:14 records: 'But people everywhere will one day recognize the Lord's great glory. Those people will fill the whole earth, as the waters fill the sea.'."
       },
       {
         "id": "hab-2-q9",
         "questionNumber": 9,
         "question": "How does the passage describe the circumstances or people in Habakkuk 2:16?",
         "options": [
-          "“You are full of shame in place of glory: take your...”",
-          "“A curse on him who says to the wood,...”",
-          "“For the vision is still for the fixed time,...”",
+          "“But it is you who will become ashamed, not great. You...”",
+          "“It will be very bad for anyone who says...”",
+          "“What I will show you must happen at the...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“You are full of shame in place of glory: take your...”",
+        "correctAnswer": "“But it is you who will become ashamed, not great. You...”",
         "reference": "Habakkuk 2:16",
-        "explanation": "Habakkuk 2:16 records: 'You are full of shame in place of glory: take your part in the drinking, and let your shame be uncovered: the cup of the Lord's right hand will come round to you and your glory will be covered with shame.'."
+        "explanation": "Habakkuk 2:16 records: 'But it is you who will become ashamed, not great. You will become drunk so that people see you with no clothes on! The Lord has a cup of wine in his right hand. He is ready to give it to you as a punishment. You will no longer be great, but you will be ashamed.'."
       },
       {
         "id": "hab-2-q10",
         "questionNumber": 10,
         "question": "In the concluding portion of the chapter, what takes place in Habakkuk 2:18?",
         "options": [
-          "“I will take my position and be on watch,...”",
-          "“What profit is the pictured image to its maker? and as...”",
-          "“A curse on the cruel and false one! the...”",
+          "“I will stand at my place on the wall...”",
+          "“What value does an idol have? What help can it give?...”",
+          "“Wine will destroy that proud enemy. They do not...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“What profit is the pictured image to its maker? and as...”",
+        "correctAnswer": "“What value does an idol have? What help can it give?...”",
         "reference": "Habakkuk 2:18",
-        "explanation": "Habakkuk 2:18 records: 'What profit is the pictured image to its maker? and as for the metal image, the false teacher, why does its maker put his faith in it, making false gods without a voice?'."
+        "explanation": "Habakkuk 2:18 records: 'What value does an idol have? What help can it give? Somebody has made it as the image of a false god. It can only tell false messages. Why should its maker trust it for help? He has used wood or metal to make it and it cannot speak!'."
       }
     ],
     "3": [
@@ -315,150 +312,150 @@
         "questionNumber": 1,
         "question": "According to Habakkuk 3:1, what is the opening statement or setting of this chapter?",
         "options": [
-          "It records: “A prayer of Habakkuk the prophet, put to Shigionoth.”",
+          "It records: “These are the words that the prophet Habakkuk prayed. He used spe...”",
           "It begins with a prayer of thanksgiving for deliverance in Habakkuk",
           "It opens with a formal census and counting of the congregation",
           "It records a severe judgment pronounced against neighboring nations"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "It records: “A prayer of Habakkuk the prophet, put to Shigionoth.”",
+        "correctAnswer": "It records: “These are the words that the prophet Habakkuk prayed. He used spe...”",
         "reference": "Habakkuk 3:1",
-        "explanation": "The chapter begins directly with the statement: 'A prayer of Habakkuk the prophet, put to Shigionoth.'."
+        "explanation": "The chapter begins directly with the statement: 'These are the words that the prophet Habakkuk prayed. He used special music to sing it.'."
       },
       {
         "id": "hab-3-q2",
         "questionNumber": 2,
         "question": "What key instruction, event, or declaration is set forth in Habakkuk 3:2?",
         "options": [
-          "“Before him went disease, and flames went out at...”",
-          "“O Lord, word of you has come to my ears; I...”",
-          "“Your bow was quite uncovered. Selah. By you the...”",
+          "“As he marches to war, bad disease marches with...”",
+          "“Lord, I have heard the report about you. I see the...”",
+          "“You have prepared your bow. You are ready to...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“O Lord, word of you has come to my ears; I...”",
+        "correctAnswer": "“Lord, I have heard the report about you. I see the...”",
         "reference": "Habakkuk 3:2",
-        "explanation": "Habakkuk 3:2 records: 'O Lord, word of you has come to my ears; I have seen your work, O Lord; when the years come near make it clear; in wrath keep mercy in mind.'."
+        "explanation": "Habakkuk 3:2 records: 'Lord, I have heard the report about you. I see the things that you have done, Lord, and I respect your power. Please do great things like that again. Do them again now for us to see. When you are angry with us, please still remember to be kind!'."
       },
       {
         "id": "hab-3-q3",
         "questionNumber": 3,
         "question": "What significant action or revelation occurs in Habakkuk 3:3?",
         "options": [
-          "“From his high place he sent shaking on the...”",
-          "“The mountains saw you and were moved with fear;...”",
-          "“God came from Teman, and the Holy One from Mount Paran....”",
+          "“God stands ready to fight, and he causes the...”",
+          "“The mountains see you and they shake. Rain pours...”",
+          "“God is coming from Teman! The Holy God is coming from...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“God came from Teman, and the Holy One from Mount Paran....”",
+        "correctAnswer": "“God is coming from Teman! The Holy God is coming from...”",
         "reference": "Habakkuk 3:3",
-        "explanation": "Habakkuk 3:3 records: 'God came from Teman, and the Holy One from Mount Paran. Selah. The heavens were covered with his glory, and the earth was full of his praise.'."
+        "explanation": "Habakkuk 3:3 records: 'God is coming from Teman! The Holy God is coming from Mount Paran. His beautiful power covers the whole sky! People praise him all over the earth!'."
       },
       {
         "id": "hab-3-q4",
         "questionNumber": 4,
         "question": "What truth or description is highlighted in Habakkuk 3:4?",
         "options": [
-          "“The curtains of Cushan were troubled, and the tents...”",
-          "“At the light of your arrows they went away,...”",
+          "“I see the tents where Cushan's people live, and...”",
+          "“You shoot your bright arrows so that the sun...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“He was shining like the light; he had rays coming out...”"
+          "“He is as bright as the sunrise. His hands throw bright...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“He was shining like the light; he had rays coming out...”",
+        "correctAnswer": "“He is as bright as the sunrise. His hands throw bright...”",
         "reference": "Habakkuk 3:4",
-        "explanation": "Habakkuk 3:4 records: 'He was shining like the light; he had rays coming out from his hand: there his power was kept secret.'."
+        "explanation": "Habakkuk 3:4 records: 'He is as bright as the sunrise. His hands throw bright lightning! That is where he hides his power.'."
       },
       {
         "id": "hab-3-q5",
         "questionNumber": 5,
         "question": "According to the text, what happened or was commanded in Habakkuk 3:5?",
         "options": [
-          "“Before him went disease, and flames went out at his feet.”",
-          "“Was your wrath burning against the rivers? were you...”",
-          "“You went stepping through the land in wrath, crushing...”",
+          "“As he marches to war, bad disease marches with him.”",
+          "“Was it the rivers that made you angry, Lord?...”",
+          "“You angrily march across the earth. You knock down...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“Before him went disease, and flames went out at his feet.”",
+        "correctAnswer": "“As he marches to war, bad disease marches with him.”",
         "reference": "Habakkuk 3:5",
-        "explanation": "Habakkuk 3:5 records: 'Before him went disease, and flames went out at his feet.'."
+        "explanation": "Habakkuk 3:5 records: 'As he marches to war, bad disease marches with him.'."
       },
       {
         "id": "hab-3-q6",
         "questionNumber": 6,
         "question": "What central message or instruction is delivered in Habakkuk 3:6?",
         "options": [
-          "“Your bow was quite uncovered. Selah. By you the...”",
-          "“From his high place he sent shaking on the earth; he...”",
-          "“You went out for the salvation of your people,...”",
+          "“You have prepared your bow. You are ready to...”",
+          "“God stands ready to fight, and he causes the earth to...”",
+          "“You have marched out to rescue your people, and...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“From his high place he sent shaking on the earth; he...”",
+        "correctAnswer": "“God stands ready to fight, and he causes the earth to...”",
         "reference": "Habakkuk 3:6",
-        "explanation": "Habakkuk 3:6 records: 'From his high place he sent shaking on the earth; he saw and nations were suddenly moved: and the eternal mountains were broken, the unchanging hills were bent down; his ways are eternal.'."
+        "explanation": "Habakkuk 3:6 records: 'God stands ready to fight, and he causes the earth to shake. He looks at the nations and they shake with fear. The very old mountains break into pieces. The old hills fall down flat. He travels on roads that have been there for ever.'."
       },
       {
         "id": "hab-3-q7",
         "questionNumber": 7,
         "question": "What detail regarding God's work, covenant, or people is given in Habakkuk 3:7?",
         "options": [
-          "“The mountains saw you and were moved with fear;...”",
-          "“You have put your spears through his head, his...”",
-          "“The curtains of Cushan were troubled, and the tents of Midian...”",
+          "“The mountains see you and they shake. Rain pours...”",
+          "“You threw his own spear into his head, and...”",
+          "“I see the tents where Cushan's people live, and the people...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“The curtains of Cushan were troubled, and the tents of Midian...”",
+        "correctAnswer": "“I see the tents where Cushan's people live, and the people...”",
         "reference": "Habakkuk 3:7",
-        "explanation": "Habakkuk 3:7 records: 'The curtains of Cushan were troubled, and the tents of Midian were shaking.'."
+        "explanation": "Habakkuk 3:7 records: 'I see the tents where Cushan's people live, and the people are afraid. The people in Midian are shaking with fear.'."
       },
       {
         "id": "hab-3-q8",
         "questionNumber": 8,
         "question": "What phrase or account is recorded in Habakkuk 3:8?",
         "options": [
-          "“At the light of your arrows they went away,...”",
-          "“The feet of your horses were on the sea,...”",
+          "“You shoot your bright arrows so that the sun...”",
+          "“But you, Lord, marched across the sea with your...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“Was your wrath burning against the rivers? were you angry with...”"
+          "“Was it the rivers that made you angry, Lord? Did the...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“Was your wrath burning against the rivers? were you angry with...”",
+        "correctAnswer": "“Was it the rivers that made you angry, Lord? Did the...”",
         "reference": "Habakkuk 3:8",
-        "explanation": "Habakkuk 3:8 records: 'Was your wrath burning against the rivers? were you angry with the sea, that you went on your horses, on your war-carriages of salvation?'."
+        "explanation": "Habakkuk 3:8 records: 'Was it the rivers that made you angry, Lord? Did the sea make you so angry? You rode on your chariots as horses pulled them! You rode into battle to win against your enemies.'."
       },
       {
         "id": "hab-3-q9",
         "questionNumber": 9,
         "question": "How does the passage describe the circumstances or people in Habakkuk 3:9?",
         "options": [
-          "“Your bow was quite uncovered. Selah. By you the earth was...”",
-          "“You went stepping through the land in wrath, crushing...”",
-          "“Hearing it, my inner parts were moved, and my...”",
+          "“You have prepared your bow. You are ready to shoot your...”",
+          "“You angrily march across the earth. You knock down...”",
+          "“I listened to this and I was very afraid....”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“Your bow was quite uncovered. Selah. By you the earth was...”",
+        "correctAnswer": "“You have prepared your bow. You are ready to shoot your...”",
         "reference": "Habakkuk 3:9",
-        "explanation": "Habakkuk 3:9 records: 'Your bow was quite uncovered. Selah. By you the earth was cut through with rivers.'."
+        "explanation": "Habakkuk 3:9 records: 'You have prepared your bow. You are ready to shoot your arrows. You send rivers of water to cut the earth into pieces.'."
       },
       {
         "id": "hab-3-q10",
         "questionNumber": 10,
         "question": "In the concluding portion of the chapter, what takes place in Habakkuk 3:10?",
         "options": [
-          "“You went out for the salvation of your people,...”",
-          "“The mountains saw you and were moved with fear; the clouds...”",
-          "“For though the fig-tree has no flowers, and there...”",
+          "“You have marched out to rescue your people, and...”",
+          "“The mountains see you and they shake. Rain pours down from...”",
+          "“Whatever happens, I will continue to thank the Lord....”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“The mountains saw you and were moved with fear; the clouds...”",
+        "correctAnswer": "“The mountains see you and they shake. Rain pours down from...”",
         "reference": "Habakkuk 3:10",
-        "explanation": "Habakkuk 3:10 records: 'The mountains saw you and were moved with fear; the clouds were streaming with water: the voice of the deep was sounding; the sun did not come up, and the moon kept still in her place.'."
+        "explanation": "Habakkuk 3:10 records: 'The mountains see you and they shake. Rain pours down from the sky and it causes floods. The deep sea roars and it lifts its waves up high.'."
       }
     ]
   }

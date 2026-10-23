@@ -1,9 +1,6 @@
 {
-  "book": "Malachi",
   "bookId": "MAL",
-  "totalChapters": 4,
-  "totalQuestions": 40,
-  "questionsPerChapter": 10,
+  "bookName": "Malachi",
   "chapters": {
     "1": [
       {
@@ -11,150 +8,150 @@
         "questionNumber": 1,
         "question": "According to Malachi 1:1, what is the opening statement or setting of this chapter?",
         "options": [
-          "It records: “The word of the Lord to Israel by Malachi.”",
+          "It records: “This is the message that the Lord spoke to Malachi. Malachi knew ...”",
           "It begins with a prayer of thanksgiving for deliverance in Malachi",
           "It opens with a formal census and counting of the congregation",
           "It records a severe judgment pronounced against neighboring nations"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "It records: “The word of the Lord to Israel by Malachi.”",
+        "correctAnswer": "It records: “This is the message that the Lord spoke to Malachi. Malachi knew ...”",
         "reference": "Malachi 1:1",
-        "explanation": "The chapter begins directly with the statement: 'The word of the Lord to Israel by Malachi.'."
+        "explanation": "The chapter begins directly with the statement: 'This is the message that the Lord spoke to Malachi. Malachi knew that he must tell this message to the Israelites.'."
       },
       {
         "id": "mal-1-q2",
         "questionNumber": 2,
         "question": "What key instruction, event, or declaration is set forth in Malachi 1:2?",
         "options": [
-          "“And your eyes will see it; and you will...”",
-          "“You have been loved by me, says the Lord. But you...”",
-          "“And now, make request for the grace of God...”",
+          "“You will see with your own eyes what I...”",
+          "“The Lord says, ‘I have loved you.’ But you ask, ‘How...”",
+          "“‘Now you ask me to be kind to you....”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“You have been loved by me, says the Lord. But you...”",
+        "correctAnswer": "“The Lord says, ‘I have loved you.’ But you ask, ‘How...”",
         "reference": "Malachi 1:2",
-        "explanation": "Malachi 1:2 records: 'You have been loved by me, says the Lord. But you say, Where was your love for us? Was not Esau Jacob's brother? says the Lord: but Jacob was loved by me,'."
+        "explanation": "Malachi 1:2 records: 'The Lord says, ‘I have loved you.’ But you ask, ‘How have you loved us?’ The Lord says, ‘I chose to love Jacob and his descendants. Esau was Jacob's brother.'."
       },
       {
         "id": "mal-1-q3",
         "questionNumber": 3,
         "question": "What significant action or revelation occurs in Malachi 1:3?",
         "options": [
-          "“A son gives honour to his father, and a...”",
-          "“If only there was one among you who would...”",
-          "“And Esau was hated, and I sent destruction on his mountains,...”",
+          "“The Lord Almighty says this to the priests: ‘A...”",
+          "“‘It would be better if one of you shut...”",
+          "“But I have not loved Esau and his descendants. Instead, I...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“And Esau was hated, and I sent destruction on his mountains,...”",
+        "correctAnswer": "“But I have not loved Esau and his descendants. Instead, I...”",
         "reference": "Malachi 1:3",
-        "explanation": "Malachi 1:3 records: 'And Esau was hated, and I sent destruction on his mountains, and gave his heritage to the beasts of the waste land.'."
+        "explanation": "Malachi 1:3 records: 'But I have not loved Esau and his descendants. Instead, I have caused trouble for Esau. I caused Esau's mountains to become a wilderness. Nobody uses that land any longer. Now there are only jackals in the land that belongs to Esau.’'."
       },
       {
         "id": "mal-1-q4",
         "questionNumber": 4,
         "question": "What truth or description is highlighted in Malachi 1:4?",
         "options": [
-          "“You put unclean bread on my altar. And you...”",
-          "“For, from the coming up of the sun till...”",
+          "“You insult my name when you offer unclean sacrifices...”",
+          "“‘People in every nation of the whole world will...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“Though Edom says, We are crushed down but we will come...”"
+          "“Esau's descendants in Edom may say, ‘They have destroyed our towns,...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“Though Edom says, We are crushed down but we will come...”",
+        "correctAnswer": "“Esau's descendants in Edom may say, ‘They have destroyed our towns,...”",
         "reference": "Malachi 1:4",
-        "explanation": "Malachi 1:4 records: 'Though Edom says, We are crushed down but we will come back, building up the waste places; this is what the Lord of armies has said: They may put up buildings, but I will have them pulled down; and they will be named The land of evil-doing, and The people against whom the Lord keeps his wrath for ever.'."
+        "explanation": "Malachi 1:4 records: 'Esau's descendants in Edom may say, ‘They have destroyed our towns, but we will build our houses again.’ But the Lord Almighty says, ‘They may build again, but I will knock everything down. People will call Edom, “The Evil Land”. They will call them, “The nation that the Lord is angry with for ever”.'."
       },
       {
         "id": "mal-1-q5",
         "questionNumber": 5,
         "question": "According to the text, what happened or was commanded in Malachi 1:5?",
         "options": [
-          "“And your eyes will see it; and you will say, The...”",
-          "“And when you give what is blind for an...”",
-          "“But you make it unholy by saying, The Lord's...”",
+          "“You will see with your own eyes what I will do...”",
+          "“You offer blind animals as a sacrifice to me....”",
+          "“‘But you priests insult my name. You say that...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“And your eyes will see it; and you will say, The...”",
+        "correctAnswer": "“You will see with your own eyes what I will do...”",
         "reference": "Malachi 1:5",
-        "explanation": "Malachi 1:5 records: 'And your eyes will see it; and you will say, The Lord is great even outside the limits of Israel.'."
+        "explanation": "Malachi 1:5 records: 'You will see with your own eyes what I will do to them. Then you will say, “The Lord has great power, even beyond Israel's borders.” ’'."
       },
       {
         "id": "mal-1-q6",
         "questionNumber": 6,
         "question": "What central message or instruction is delivered in Malachi 1:6?",
         "options": [
-          "“And now, make request for the grace of God...”",
-          "“A son gives honour to his father, and a servant has...”",
-          "“And you say, See, what a weariness it is!...”",
+          "“‘Now you ask me to be kind to you....”",
+          "“The Lord Almighty says this to the priests: ‘A son respects...”",
+          "“You also say, “It is too much trouble to...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“A son gives honour to his father, and a servant has...”",
+        "correctAnswer": "“The Lord Almighty says this to the priests: ‘A son respects...”",
         "reference": "Malachi 1:6",
-        "explanation": "Malachi 1:6 records: 'A son gives honour to his father, and a servant has fear of his master: if then I am a father, where is my honour? and if I am a master, where is the fear of me? says the Lord of armies to you, O priests, who give no value to my name. And you say, How have we not given value to your name?'."
+        "explanation": "Malachi 1:6 records: 'The Lord Almighty says this to the priests: ‘A son respects his father. A servant respects his master. If I am really your father and your master, why do you not respect me? You are my priests, but you insult my name. But then you ask, “What have we done to insult your name?”'."
       },
       {
         "id": "mal-1-q7",
         "questionNumber": 7,
         "question": "What detail regarding God's work, covenant, or people is given in Malachi 1:7?",
         "options": [
-          "“If only there was one among you who would...”",
-          "“The word of the Lord to Israel by Malachi.”",
-          "“You put unclean bread on my altar. And you say, How...”",
+          "“‘It would be better if one of you shut...”",
+          "“This is the message that the Lord spoke to...”",
+          "“You insult my name when you offer unclean sacrifices to me...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“You put unclean bread on my altar. And you say, How...”",
+        "correctAnswer": "“You insult my name when you offer unclean sacrifices to me...”",
         "reference": "Malachi 1:7",
-        "explanation": "Malachi 1:7 records: 'You put unclean bread on my altar. And you say, How have we made it unclean? By your saying, The table of the Lord is of no value.'."
+        "explanation": "Malachi 1:7 records: 'You insult my name when you offer unclean sacrifices to me on my altar. But you ask, “How have we offered unclean sacrifices to you?” You have shown that you do not respect the Lord's altar as important.'."
       },
       {
         "id": "mal-1-q8",
         "questionNumber": 8,
         "question": "What phrase or account is recorded in Malachi 1:8?",
         "options": [
-          "“For, from the coming up of the sun till...”",
-          "“The word of the Lord to Israel by Malachi.”",
+          "“‘People in every nation of the whole world will...”",
+          "“This is the message that the Lord spoke to...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“And when you give what is blind for an offering, it...”"
+          "“You offer blind animals as a sacrifice to me. You know...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“And when you give what is blind for an offering, it...”",
+        "correctAnswer": "“You offer blind animals as a sacrifice to me. You know...”",
         "reference": "Malachi 1:8",
-        "explanation": "Malachi 1:8 records: 'And when you give what is blind for an offering, it is no evil! and when you give what is damaged and ill, it is no evil! Give it now to your ruler; will he be pleased with you, or will you have his approval? says the Lord of armies.'."
+        "explanation": "Malachi 1:8 records: 'You offer blind animals as a sacrifice to me. You know that is wrong. You offer to me animals that cannot walk or animals that are ill. That is also a wrong thing to do. You would not give gifts like that to your city's ruler. If you did, he would surely not accept them. He would not be happy with your gifts.’ That is what the Lord Almighty says.'."
       },
       {
         "id": "mal-1-q9",
         "questionNumber": 9,
         "question": "How does the passage describe the circumstances or people in Malachi 1:9?",
         "options": [
-          "“And now, make request for the grace of God so that...”",
-          "“But you make it unholy by saying, The Lord's...”",
-          "“You have been loved by me, says the Lord....”",
+          "“‘Now you ask me to be kind to you. You want...”",
+          "“‘But you priests insult my name. You say that...”",
+          "“The Lord says, ‘I have loved you.’ But you...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“And now, make request for the grace of God so that...”",
+        "correctAnswer": "“‘Now you ask me to be kind to you. You want...”",
         "reference": "Malachi 1:9",
-        "explanation": "Malachi 1:9 records: 'And now, make request for the grace of God so that he may have mercy on us: this has been your doing: will he give his approval to any of you? says the Lord of armies.'."
+        "explanation": "Malachi 1:9 records: '‘Now you ask me to be kind to you. You want me to forgive you. But when you offer unclean animals as gifts to me, I will not be happy with your gifts.’ That is what the Lord Almighty says.'."
       },
       {
         "id": "mal-1-q10",
         "questionNumber": 10,
         "question": "In the concluding portion of the chapter, what takes place in Malachi 1:10?",
         "options": [
-          "“And you say, See, what a weariness it is!...”",
-          "“If only there was one among you who would see that...”",
-          "“And Esau was hated, and I sent destruction on...”",
+          "“You also say, “It is too much trouble to...”",
+          "“‘It would be better if one of you shut the temple...”",
+          "“But I have not loved Esau and his descendants....”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“If only there was one among you who would see that...”",
+        "correctAnswer": "“‘It would be better if one of you shut the temple...”",
         "reference": "Malachi 1:10",
-        "explanation": "Malachi 1:10 records: 'If only there was one among you who would see that the doors were shut, so that you might not put a light to the fire on my altar for nothing! I have no pleasure in you, says the Lord of armies, and I will not take an offering from your hands.'."
+        "explanation": "Malachi 1:10 records: '‘It would be better if one of you shut the temple doors! Then you would not be able to offer useless sacrifices on my altar. I am not happy with you. I will not accept any more gifts from you.’ That is what the Lord Almighty says.'."
       }
     ],
     "2": [
@@ -163,150 +160,150 @@
         "questionNumber": 1,
         "question": "According to Malachi 2:1, what is the opening statement or setting of this chapter?",
         "options": [
-          "It records: “And now, O you priests, this order is for you.”",
+          "It records: “The Lord Almighty says this to the priests:”",
           "It begins with a prayer of thanksgiving for deliverance in Malachi",
           "It opens with a formal census and counting of the congregation",
           "It records a severe judgment pronounced against neighboring nations"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "It records: “And now, O you priests, this order is for you.”",
+        "correctAnswer": "It records: “The Lord Almighty says this to the priests:”",
         "reference": "Malachi 2:1",
-        "explanation": "The chapter begins directly with the statement: 'And now, O you priests, this order is for you.'."
+        "explanation": "The chapter begins directly with the statement: 'The Lord Almighty says this to the priests:'."
       },
       {
         "id": "mal-2-q2",
         "questionNumber": 2,
         "question": "What key instruction, event, or declaration is set forth in Malachi 2:2?",
         "options": [
-          "“My agreement with him was on my side life...”",
-          "“If you will not give ear and take it to heart,...”",
-          "“And so I have taken away your honour and...”",
+          "“I promised to give them a good life with...”",
+          "“‘Listen carefully to what I say to you. You must respect...”",
+          "“‘So I have caused all the people to insult...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“If you will not give ear and take it to heart,...”",
+        "correctAnswer": "“‘Listen carefully to what I say to you. You must respect...”",
         "reference": "Malachi 2:2",
-        "explanation": "Malachi 2:2 records: 'If you will not give ear and take it to heart, to give glory to my name, says the Lord of armies, then I will send the curse on you and will put a curse on your blessing: truly, even now I have put a curse on it, because you do not take it to heart.'."
+        "explanation": "Malachi 2:2 records: '‘Listen carefully to what I say to you. You must respect my name properly. If not, I will punish you. I will no longer bless you but I will curse you. I am already doing that because you do not respect my name as you should.'."
       },
       {
         "id": "mal-2-q3",
         "questionNumber": 3,
         "question": "What significant action or revelation occurs in Malachi 2:3?",
         "options": [
-          "“True teaching was in his mouth, and no evil...”",
-          "“Have we not all one father? has not one...”",
-          "“See, I will have your arm cut off, and will put...”",
+          "“He taught my true message. He did not teach...”",
+          "“You know that we all have one Father. It...”",
+          "“I will punish your descendants. When you offer an animal as...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“See, I will have your arm cut off, and will put...”",
+        "correctAnswer": "“I will punish your descendants. When you offer an animal as...”",
         "reference": "Malachi 2:3",
-        "explanation": "Malachi 2:3 records: 'See, I will have your arm cut off, and will put waste on your faces, even the waste from your feasts; and you will be taken away with it.'."
+        "explanation": "Malachi 2:3 records: 'I will punish your descendants. When you offer an animal as a sacrifice at your festivals, I will cover your faces with its dirty bits. Then they will throw you away with all the other dirty bits. Those are the bits that I cannot accept as clean.’'."
       },
       {
         "id": "mal-2-q4",
         "questionNumber": 4,
         "question": "What truth or description is highlighted in Malachi 2:4?",
         "options": [
-          "“For it is right for the priest's lips to...”",
-          "“Judah has been acting falsely, and a disgusting thing...”",
+          "“Priests should help people to know the truth about...”",
+          "“Judah's people have turned against God. As a result,...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“And you will be certain that I have sent this order...”"
+          "“The Lord Almighty says, ‘When I punish you like that, you...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“And you will be certain that I have sent this order...”",
+        "correctAnswer": "“The Lord Almighty says, ‘When I punish you like that, you...”",
         "reference": "Malachi 2:4",
-        "explanation": "Malachi 2:4 records: 'And you will be certain that I have sent this order to you, so that it might be my agreement with Levi, says the Lord of armies.'."
+        "explanation": "Malachi 2:4 records: 'The Lord Almighty says, ‘When I punish you like that, you will know that I have warned you. Then the covenant that I made with Levi and his descendants, the priests, can continue.'."
       },
       {
         "id": "mal-2-q5",
         "questionNumber": 5,
         "question": "According to the text, what happened or was commanded in Malachi 2:5?",
         "options": [
-          "“My agreement with him was on my side life and peace,...”",
-          "“But you are turned out of the way; you...”",
-          "“The Lord will have the man who does this...”",
+          "“I promised to give them a good life with many blessings....”",
+          "“But you priests do not serve me in the...”",
+          "“I pray that the Lord will remove all people...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“My agreement with him was on my side life and peace,...”",
+        "correctAnswer": "“I promised to give them a good life with many blessings....”",
         "reference": "Malachi 2:5",
-        "explanation": "Malachi 2:5 records: 'My agreement with him was on my side life and peace, and I gave them to him; on his side fear, and he had fear of me and gave honour to my name.'."
+        "explanation": "Malachi 2:5 records: 'I promised to give them a good life with many blessings. Levi received what I promised to him. He served me and he respected me, as a priest should do.'."
       },
       {
         "id": "mal-2-q6",
         "questionNumber": 6,
         "question": "What central message or instruction is delivered in Malachi 2:6?",
         "options": [
-          "“And so I have taken away your honour and...”",
-          "“True teaching was in his mouth, and no evil was seen...”",
-          "“And this again you do: covering the altar of...”",
+          "“‘So I have caused all the people to insult...”",
+          "“He taught my true message. He did not teach people anything...”",
+          "“Also, you weep so much that your tears cover...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“True teaching was in his mouth, and no evil was seen...”",
+        "correctAnswer": "“He taught my true message. He did not teach people anything...”",
         "reference": "Malachi 2:6",
-        "explanation": "Malachi 2:6 records: 'True teaching was in his mouth, and no evil was seen on his lips: he was walking with me in peace and righteousness, turning numbers of people away from evil-doing.'."
+        "explanation": "Malachi 2:6 records: 'He taught my true message. He did not teach people anything that was bad. He lived in a good and honest way as he served me. He helped many people to stop doing wrong things.'."
       },
       {
         "id": "mal-2-q7",
         "questionNumber": 7,
         "question": "What detail regarding God's work, covenant, or people is given in Malachi 2:7?",
         "options": [
-          "“Have we not all one father? has not one...”",
-          "“But you say, For what reason? Because the Lord...”",
-          "“For it is right for the priest's lips to keep knowledge,...”",
+          "“You know that we all have one Father. It...”",
+          "“You ask, ‘Why is the Lord not happy with...”",
+          "“Priests should help people to know the truth about God. People...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“For it is right for the priest's lips to keep knowledge,...”",
+        "correctAnswer": "“Priests should help people to know the truth about God. People...”",
         "reference": "Malachi 2:7",
-        "explanation": "Malachi 2:7 records: 'For it is right for the priest's lips to keep knowledge, and for men to be waiting for the law from his mouth: for he is the servant sent from the Lord of armies.'."
+        "explanation": "Malachi 2:7 records: 'Priests should help people to know the truth about God. People should ask the priests to teach them, because the Lord Almighty has chosen priests to speak his message.'."
       },
       {
         "id": "mal-2-q8",
         "questionNumber": 8,
         "question": "What phrase or account is recorded in Malachi 2:8?",
         "options": [
-          "“Judah has been acting falsely, and a disgusting thing...”",
-          "“... So give thought to your spirit, and let...”",
+          "“Judah's people have turned against God. As a result,...”",
+          "“The Lord has joined you together, as a man...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“But you are turned out of the way; you have made...”"
+          "“But you priests do not serve me in the right way....”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“But you are turned out of the way; you have made...”",
+        "correctAnswer": "“But you priests do not serve me in the right way....”",
         "reference": "Malachi 2:8",
-        "explanation": "Malachi 2:8 records: 'But you are turned out of the way; you have made the law hard for numbers of people; you have made the agreement of Levi of no value, says the Lord of armies.'."
+        "explanation": "Malachi 2:8 records: 'But you priests do not serve me in the right way. What you teach causes many people to do wrong things. In that way, you have spoiled the covenant that I made with Levi.’ That is what the Lord Almighty says.'."
       },
       {
         "id": "mal-2-q9",
         "questionNumber": 9,
         "question": "How does the passage describe the circumstances or people in Malachi 2:9?",
         "options": [
-          "“And so I have taken away your honour and made you...”",
-          "“The Lord will have the man who does this...”",
-          "“For I am against the putting away of a...”",
+          "“‘So I have caused all the people to insult you. They...”",
+          "“I pray that the Lord will remove all people...”",
+          "“The Lord God of Israel says this: ‘If a...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“And so I have taken away your honour and made you...”",
+        "correctAnswer": "“‘So I have caused all the people to insult you. They...”",
         "reference": "Malachi 2:9",
-        "explanation": "Malachi 2:9 records: 'And so I have taken away your honour and made you low before all the people, even as you have not kept my ways, and have given no thought to me in using the law.'."
+        "explanation": "Malachi 2:9 records: '‘So I have caused all the people to insult you. They no longer respect you, because you do not obey my rules. When you teach my people, you are kind to some of them but you cheat others.’'."
       },
       {
         "id": "mal-2-q10",
         "questionNumber": 10,
         "question": "In the concluding portion of the chapter, what takes place in Malachi 2:10?",
         "options": [
-          "“And this again you do: covering the altar of...”",
-          "“Have we not all one father? has not one God made...”",
-          "“And now, O you priests, this order is for...”",
+          "“Also, you weep so much that your tears cover...”",
+          "“You know that we all have one Father. It is God...”",
+          "“The Lord Almighty says this to the priests:”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“Have we not all one father? has not one God made...”",
+        "correctAnswer": "“You know that we all have one Father. It is God...”",
         "reference": "Malachi 2:10",
-        "explanation": "Malachi 2:10 records: 'Have we not all one father? has not one God made us? why are we, every one of us, acting falsely to his brother, putting shame on the agreement of our fathers?'."
+        "explanation": "Malachi 2:10 records: 'You know that we all have one Father. It is God himself who made all of us. But now we turn against each other. We do not respect the covenant that God made with our ancestors.'."
       }
     ],
     "3": [
@@ -315,150 +312,150 @@
         "questionNumber": 1,
         "question": "According to Malachi 3:1, what is the opening statement or setting of this chapter?",
         "options": [
-          "It records: “See, I am sending my servant, and he will make ready the way befo...”",
+          "It records: “The Lord Almighty says, ‘Look! I will send someone to speak my me...”",
           "It begins with a prayer of thanksgiving for deliverance in Malachi",
           "It opens with a formal census and counting of the congregation",
           "It records a severe judgment pronounced against neighboring nations"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "It records: “See, I am sending my servant, and he will make ready the way befo...”",
+        "correctAnswer": "It records: “The Lord Almighty says, ‘Look! I will send someone to speak my me...”",
         "reference": "Malachi 3:1",
-        "explanation": "The chapter begins directly with the statement: 'See, I am sending my servant, and he will make ready the way before me; and the Lord, whom you are looking for, will suddenly come to his Temple; and the angel of the agreement, in whom you have delight, see, he is coming, says the Lord of armies.'."
+        "explanation": "The chapter begins directly with the statement: 'The Lord Almighty says, ‘Look! I will send someone to speak my message. He will prepare the way before me. Then the Lord that you are waiting for will quickly return to his temple. The one who brings the message about my covenant will certainly come. He is the one that you really want to see.'."
       },
       {
         "id": "mal-3-q2",
         "questionNumber": 2,
         "question": "What key instruction, event, or declaration is set forth in Malachi 3:2?",
         "options": [
-          "“And I will come near to you for judging;...”",
-          "“But by whom may the day of his coming be faced?...”",
-          "“You are cursed with a curse; for you have...”",
+          "“At that time, I will come among you as...”",
+          "“But when he comes, he will be like a hot fire...”",
+          "“Yes, all of you are robbing me. The whole...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“But by whom may the day of his coming be faced?...”",
+        "correctAnswer": "“But when he comes, he will be like a hot fire...”",
         "reference": "Malachi 3:2",
-        "explanation": "Malachi 3:2 records: 'But by whom may the day of his coming be faced? and who may keep his place when he is seen? for he is like the metal-tester's fire and the cleaner's soap.'."
+        "explanation": "Malachi 3:2 records: 'But when he comes, he will be like a hot fire that makes metal pure. He will be like strong soap that makes clothes completely clean. Nobody will be able to stand in front of him when he appears. On that day, nobody will remain the same.'."
       },
       {
         "id": "mal-3-q3",
         "questionNumber": 3,
         "question": "What significant action or revelation occurs in Malachi 3:3?",
         "options": [
-          "“For I am the Lord, I am unchanged; and...”",
-          "“Let your tenths come into the store-house so that...”",
-          "“He will take his seat, testing and cleaning the sons of...”",
+          "“‘I am the Lord and I do not change....”",
+          "“Now you must bring the whole tithe that belongs...”",
+          "“He will work like a man who uses a hot fire...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“He will take his seat, testing and cleaning the sons of...”",
+        "correctAnswer": "“He will work like a man who uses a hot fire...”",
         "reference": "Malachi 3:3",
-        "explanation": "Malachi 3:3 records: 'He will take his seat, testing and cleaning the sons of Levi, burning away the evil from them as from gold and silver; so that they may make offerings to the Lord in righteousness.'."
+        "explanation": "Malachi 3:3 records: 'He will work like a man who uses a hot fire to make gold and silver pure. He will make the Levites clean and pure. He will remove their dirt. Then they can offer proper sacrifices to the Lord.'."
       },
       {
         "id": "mal-3-q4",
         "questionNumber": 4,
         "question": "What truth or description is highlighted in Malachi 3:4?",
         "options": [
-          "“From the days of your fathers you have been...”",
-          "“And on your account I will keep back the...”",
+          "“I have told you my commands. But you do...”",
+          "“I will stop insects from eating your crops. The...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“Then the offering of Judah and Jerusalem will be pleasing to...”"
+          "“The Lord will accept the gifts that the people of Judah...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“Then the offering of Judah and Jerusalem will be pleasing to...”",
+        "correctAnswer": "“The Lord will accept the gifts that the people of Judah...”",
         "reference": "Malachi 3:4",
-        "explanation": "Malachi 3:4 records: 'Then the offering of Judah and Jerusalem will be pleasing to the Lord, as in days gone by, and as in past years.'."
+        "explanation": "Malachi 3:4 records: 'The Lord will accept the gifts that the people of Judah and Jerusalem offer to him. He will be happy with them as he was in earlier times.'."
       },
       {
         "id": "mal-3-q5",
         "questionNumber": 5,
         "question": "According to the text, what happened or was commanded in Malachi 3:5?",
         "options": [
-          "“And I will come near to you for judging; I will...”",
-          "“Will a man keep back from God what is...”",
-          "“And you will be named happy by all nations:...”",
+          "“At that time, I will come among you as your judge....”",
+          "“I say to you, “A man should not rob...”",
+          "“You will be happy to live in your land....”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“And I will come near to you for judging; I will...”",
+        "correctAnswer": "“At that time, I will come among you as your judge....”",
         "reference": "Malachi 3:5",
-        "explanation": "Malachi 3:5 records: 'And I will come near to you for judging; I will quickly be a witness against the wonder-workers, against those who have been untrue in married life, against those who take false oaths; against those who keep back from the servant his payment, and who are hard on the widow and the child without a father, who do not give his rights to the man from a strange country, and have no fear of me, says the Lord of armies.'."
+        "explanation": "Malachi 3:5 records: 'At that time, I will come among you as your judge. I will speak against those who have done wrong things. I will punish the magicians, the adulterers and those who tell lies against other people. I will punish those people who are cruel to their workers and those who deceive widows or children who have no family. And I will punish those who do not help foreigners who live among them. People who do those things show that they do not respect me.’ That is what the Lord Almighty says.'."
       },
       {
         "id": "mal-3-q6",
         "questionNumber": 6,
         "question": "What central message or instruction is delivered in Malachi 3:6?",
         "options": [
-          "“You are cursed with a curse; for you have...”",
-          "“For I am the Lord, I am unchanged; and so you,...”",
-          "“Your words have been strong against me, says the...”",
+          "“Yes, all of you are robbing me. The whole...”",
+          "“‘I am the Lord and I do not change. Because of...”",
+          "“The Lord says, ‘You have spoken bad words against...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“For I am the Lord, I am unchanged; and so you,...”",
+        "correctAnswer": "“‘I am the Lord and I do not change. Because of...”",
         "reference": "Malachi 3:6",
-        "explanation": "Malachi 3:6 records: 'For I am the Lord, I am unchanged; and so you, O sons of Jacob, have not been cut off.'."
+        "explanation": "Malachi 3:6 records: '‘I am the Lord and I do not change. Because of my promises to my people, I have not destroyed you, descendants of Jacob.'."
       },
       {
         "id": "mal-3-q7",
         "questionNumber": 7,
         "question": "What detail regarding God's work, covenant, or people is given in Malachi 3:7?",
         "options": [
-          "“Let your tenths come into the store-house so that...”",
-          "“You have said, It is no use worshipping God:...”",
-          "“From the days of your fathers you have been turned away...”",
+          "“Now you must bring the whole tithe that belongs...”",
+          "“You have said, “We serve God, but that has...”",
+          "“I have told you my commands. But you do not listen...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“From the days of your fathers you have been turned away...”",
+        "correctAnswer": "“I have told you my commands. But you do not listen...”",
         "reference": "Malachi 3:7",
-        "explanation": "Malachi 3:7 records: 'From the days of your fathers you have been turned away from my rules and have not kept them. Come back to me, and I will come back to you, says the Lord of armies. But you say, How are we to come back?'."
+        "explanation": "Malachi 3:7 records: 'I have told you my commands. But you do not listen to me any longer. Since the time of your ancestors, you have not obeyed me. Now, return to me! Then I will return to bless you.’ That is what the Lord Almighty says. ‘But you ask, “How do we return to you?”'."
       },
       {
         "id": "mal-3-q8",
         "questionNumber": 8,
         "question": "What phrase or account is recorded in Malachi 3:8?",
         "options": [
-          "“And on your account I will keep back the...”",
-          "“And now to us the men of pride seem...”",
+          "“I will stop insects from eating your crops. The...”",
+          "“But it is proud people that God blesses! Yes,...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“Will a man keep back from God what is right? But...”"
+          "“I say to you, “A man should not rob God. But...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“Will a man keep back from God what is right? But...”",
+        "correctAnswer": "“I say to you, “A man should not rob God. But...”",
         "reference": "Malachi 3:8",
-        "explanation": "Malachi 3:8 records: 'Will a man keep back from God what is right? But you have kept back what is mine. But you say, What have we kept back from you? Tenths and offerings.'."
+        "explanation": "Malachi 3:8 records: 'I say to you, “A man should not rob God. But you are robbing me.” But you ask, “How do we rob you?” I say, “You do not give me the tithes and the offerings that you should give.”'."
       },
       {
         "id": "mal-3-q9",
         "questionNumber": 9,
         "question": "How does the passage describe the circumstances or people in Malachi 3:9?",
         "options": [
-          "“You are cursed with a curse; for you have kept back...”",
-          "“And you will be named happy by all nations:...”",
-          "“Then those in whom was the fear of the...”",
+          "“Yes, all of you are robbing me. The whole nation is...”",
+          "“You will be happy to live in your land....”",
+          "“Then the people who respected the Lord talked to...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“You are cursed with a curse; for you have kept back...”",
+        "correctAnswer": "“Yes, all of you are robbing me. The whole nation is...”",
         "reference": "Malachi 3:9",
-        "explanation": "Malachi 3:9 records: 'You are cursed with a curse; for you have kept back from me what is mine, even all this nation.'."
+        "explanation": "Malachi 3:9 records: 'Yes, all of you are robbing me. The whole nation is guilty. So you will receive the punishment of a curse.'."
       },
       {
         "id": "mal-3-q10",
         "questionNumber": 10,
         "question": "In the concluding portion of the chapter, what takes place in Malachi 3:10?",
         "options": [
-          "“Your words have been strong against me, says the...”",
-          "“Let your tenths come into the store-house so that there may...”",
-          "“And they will be mine, says the Lord, in...”",
+          "“The Lord says, ‘You have spoken bad words against...”",
+          "“Now you must bring the whole tithe that belongs to me....”",
+          "“The Lord Almighty says, ‘These people will belong to...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“Let your tenths come into the store-house so that there may...”",
+        "correctAnswer": "“Now you must bring the whole tithe that belongs to me....”",
         "reference": "Malachi 3:10",
-        "explanation": "Malachi 3:10 records: 'Let your tenths come into the store-house so that there may be food in my house, and put me to the test by doing so, says the Lord of armies, and see if I do not make the windows of heaven open and send down such a blessing on you that there is no room for it.'."
+        "explanation": "Malachi 3:10 records: 'Now you must bring the whole tithe that belongs to me. Store it in my temple, so that there will be food in my house. Obey me and then see what I will do.’ That is what the Lord Almighty says. ‘You will see how much I will bless you! You will not have enough room to store all the good things that I will give to you. I will pour blessings out of the sky like rain.'."
       }
     ],
     "4": [
@@ -467,150 +464,150 @@
         "questionNumber": 1,
         "question": "According to Malachi 4:1, what is the opening statement or setting of this chapter?",
         "options": [
-          "It records: “For see, the day is coming, it is burning like an oven; all the m...”",
+          "It records: “‘The great day when I come to judge people will certainly happen....”",
           "It begins with a prayer of thanksgiving for deliverance in Malachi",
           "It opens with a formal census and counting of the congregation",
           "It records a severe judgment pronounced against neighboring nations"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "It records: “For see, the day is coming, it is burning like an oven; all the m...”",
+        "correctAnswer": "It records: “‘The great day when I come to judge people will certainly happen....”",
         "reference": "Malachi 4:1",
-        "explanation": "The chapter begins directly with the statement: 'For see, the day is coming, it is burning like an oven; all the men of pride and all who do evil will be dry stems of grass: and in the day which is coming they will be burned up, says the Lord of armies, till they have not a root or a branch.'."
+        "explanation": "The chapter begins directly with the statement: '‘The great day when I come to judge people will certainly happen. Punishment will come like the great fire of a hot oven. It will destroy all the proud people who do evil things. It will completely destroy them, like a fire that destroys dry grass. Nothing will remain.’ That is what the Lord Almighty says.'."
       },
       {
         "id": "mal-4-q2",
         "questionNumber": 2,
         "question": "What key instruction, event, or declaration is set forth in Malachi 4:2?",
         "options": [
-          "“See, I am sending you Elijah the prophet before...”",
-          "“But to you who give worship to my name, the sun...”",
-          "“And the evil-doers will be crushed under you, they...”",
+          "“Look! I will send my prophet Elijah to you....”",
+          "“‘But it will be different for you who respect my name....”",
+          "“Then you will walk over the wicked people. They...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“But to you who give worship to my name, the sun...”",
+        "correctAnswer": "“‘But it will be different for you who respect my name....”",
         "reference": "Malachi 4:2",
-        "explanation": "Malachi 4:2 records: 'But to you who give worship to my name, the sun of righteousness will come up with new life in its wings; and you will go out, playing like young oxen full of food.'."
+        "explanation": "Malachi 4:2 records: '‘But it will be different for you who respect my name. On that day, I will come to make you well again, like the sun that rises to shine on you. I will show that you are right. When that happens, you will be very happy. You will jump up and down like calves when someone lets them go free.'."
       },
       {
         "id": "mal-4-q3",
         "questionNumber": 3,
         "question": "What significant action or revelation occurs in Malachi 4:3?",
         "options": [
-          "“For see, the day is coming, it is burning...”",
-          "“Keep in mind the law of Moses, my servant,...”",
-          "“And the evil-doers will be crushed under you, they will be...”",
+          "“‘The great day when I come to judge people...”",
+          "“‘Remember the laws that I gave to my servant...”",
+          "“Then you will walk over the wicked people. They will be...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“And the evil-doers will be crushed under you, they will be...”",
+        "correctAnswer": "“Then you will walk over the wicked people. They will be...”",
         "reference": "Malachi 4:3",
-        "explanation": "Malachi 4:3 records: 'And the evil-doers will be crushed under you, they will be dust under your feet, in the day when I do my work, says the Lord of armies.'."
+        "explanation": "Malachi 4:3 records: 'Then you will walk over the wicked people. They will be like ashes under your feet. That will happen on the day when I do these things.’ That is what the Lord Almighty says. 4 ‘Remember the laws that I gave to my servant Moses at Mount Sinai. Those rules and commands were for all the Israelites to obey.4:44:4 5 Look! I will send my prophet Elijah to you. He will come before that great day of the Lord arrives. That will be a day that makes people afraid. 6 He will speak my message, so that fathers and their children return to each other as friends. Then I will not have to come and bring punishment on the land.’4:5'."
       },
       {
         "id": "mal-4-q4",
         "questionNumber": 4,
         "question": "What truth or description is highlighted in Malachi 4:4?",
         "options": [
-          "“For see, the day is coming, it is burning...”",
-          "“See, I am sending you Elijah the prophet before...”",
+          "“‘The great day when I come to judge people...”",
+          "“Look! I will send my prophet Elijah to you....”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“Keep in mind the law of Moses, my servant, which I...”"
+          "“‘Remember the laws that I gave to my servant Moses at...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“Keep in mind the law of Moses, my servant, which I...”",
+        "correctAnswer": "“‘Remember the laws that I gave to my servant Moses at...”",
         "reference": "Malachi 4:4",
-        "explanation": "Malachi 4:4 records: 'Keep in mind the law of Moses, my servant, which I gave him in Horeb for all Israel, even the rules and the decisions.'."
+        "explanation": "Malachi 4:4 records: '‘Remember the laws that I gave to my servant Moses at Mount Sinai. Those rules and commands were for all the Israelites to obey.'."
       },
       {
         "id": "mal-4-q5",
         "questionNumber": 5,
         "question": "According to the text, what happened or was commanded in Malachi 4:5?",
         "options": [
-          "“See, I am sending you Elijah the prophet before the day...”",
-          "“But to you who give worship to my name,...”",
-          "“For see, the day is coming, it is burning...”",
+          "“Look! I will send my prophet Elijah to you. He will...”",
+          "“‘But it will be different for you who respect...”",
+          "“‘The great day when I come to judge people...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“See, I am sending you Elijah the prophet before the day...”",
+        "correctAnswer": "“Look! I will send my prophet Elijah to you. He will...”",
         "reference": "Malachi 4:5",
-        "explanation": "Malachi 4:5 records: 'See, I am sending you Elijah the prophet before the day of the Lord comes, that great day, greatly to be feared.'."
+        "explanation": "Malachi 4:5 records: 'Look! I will send my prophet Elijah to you. He will come before that great day of the Lord arrives. That will be a day that makes people afraid.'."
       },
       {
         "id": "mal-4-q6",
         "questionNumber": 6,
         "question": "What central message or instruction is delivered in Malachi 4:6?",
         "options": [
-          "“And the evil-doers will be crushed under you, they...”",
-          "“And by him the hearts of fathers will be turned to...”",
-          "“For see, the day is coming, it is burning...”",
+          "“Then you will walk over the wicked people. They...”",
+          "“He will speak my message, so that fathers and their children...”",
+          "“‘The great day when I come to judge people...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“And by him the hearts of fathers will be turned to...”",
+        "correctAnswer": "“He will speak my message, so that fathers and their children...”",
         "reference": "Malachi 4:6",
-        "explanation": "Malachi 4:6 records: 'And by him the hearts of fathers will be turned to their children, and the hearts of children to their fathers; for fear that I may come and put the earth under a curse.'."
+        "explanation": "Malachi 4:6 records: 'He will speak my message, so that fathers and their children return to each other as friends. Then I will not have to come and bring punishment on the land.’'."
       },
       {
         "id": "mal-4-q7",
         "questionNumber": 7,
         "question": "What detail regarding God's work, covenant, or people is given in Malachi 4:6?",
         "options": [
-          "“And the evil-doers will be crushed under you, they...”",
-          "“For see, the day is coming, it is burning...”",
-          "“And by him the hearts of fathers will be turned to...”",
+          "“Then you will walk over the wicked people. They...”",
+          "“‘The great day when I come to judge people...”",
+          "“He will speak my message, so that fathers and their children...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“And by him the hearts of fathers will be turned to...”",
+        "correctAnswer": "“He will speak my message, so that fathers and their children...”",
         "reference": "Malachi 4:6",
-        "explanation": "Malachi 4:6 records: 'And by him the hearts of fathers will be turned to their children, and the hearts of children to their fathers; for fear that I may come and put the earth under a curse.'."
+        "explanation": "Malachi 4:6 records: 'He will speak my message, so that fathers and their children return to each other as friends. Then I will not have to come and bring punishment on the land.’'."
       },
       {
         "id": "mal-4-q8",
         "questionNumber": 8,
         "question": "What phrase or account is recorded in Malachi 4:6?",
         "options": [
-          "“And the evil-doers will be crushed under you, they...”",
-          "“For see, the day is coming, it is burning...”",
+          "“Then you will walk over the wicked people. They...”",
+          "“‘The great day when I come to judge people...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“And by him the hearts of fathers will be turned to...”"
+          "“He will speak my message, so that fathers and their children...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“And by him the hearts of fathers will be turned to...”",
+        "correctAnswer": "“He will speak my message, so that fathers and their children...”",
         "reference": "Malachi 4:6",
-        "explanation": "Malachi 4:6 records: 'And by him the hearts of fathers will be turned to their children, and the hearts of children to their fathers; for fear that I may come and put the earth under a curse.'."
+        "explanation": "Malachi 4:6 records: 'He will speak my message, so that fathers and their children return to each other as friends. Then I will not have to come and bring punishment on the land.’'."
       },
       {
         "id": "mal-4-q9",
         "questionNumber": 9,
         "question": "How does the passage describe the circumstances or people in Malachi 4:6?",
         "options": [
-          "“And by him the hearts of fathers will be turned to...”",
-          "“And the evil-doers will be crushed under you, they...”",
-          "“For see, the day is coming, it is burning...”",
+          "“He will speak my message, so that fathers and their children...”",
+          "“Then you will walk over the wicked people. They...”",
+          "“‘The great day when I come to judge people...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“And by him the hearts of fathers will be turned to...”",
+        "correctAnswer": "“He will speak my message, so that fathers and their children...”",
         "reference": "Malachi 4:6",
-        "explanation": "Malachi 4:6 records: 'And by him the hearts of fathers will be turned to their children, and the hearts of children to their fathers; for fear that I may come and put the earth under a curse.'."
+        "explanation": "Malachi 4:6 records: 'He will speak my message, so that fathers and their children return to each other as friends. Then I will not have to come and bring punishment on the land.’'."
       },
       {
         "id": "mal-4-q10",
         "questionNumber": 10,
         "question": "In the concluding portion of the chapter, what takes place in Malachi 4:6?",
         "options": [
-          "“And the evil-doers will be crushed under you, they...”",
-          "“And by him the hearts of fathers will be turned to...”",
-          "“For see, the day is coming, it is burning...”",
+          "“Then you will walk over the wicked people. They...”",
+          "“He will speak my message, so that fathers and their children...”",
+          "“‘The great day when I come to judge people...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“And by him the hearts of fathers will be turned to...”",
+        "correctAnswer": "“He will speak my message, so that fathers and their children...”",
         "reference": "Malachi 4:6",
-        "explanation": "Malachi 4:6 records: 'And by him the hearts of fathers will be turned to their children, and the hearts of children to their fathers; for fear that I may come and put the earth under a curse.'."
+        "explanation": "Malachi 4:6 records: 'He will speak my message, so that fathers and their children return to each other as friends. Then I will not have to come and bring punishment on the land.’'."
       }
     ]
   }

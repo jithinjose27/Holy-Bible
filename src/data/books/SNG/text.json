@@ -1,1148 +1,3177 @@
 {
-  "translation": "EasyEnglish Bible",
-  "book": "Song of Songs",
-  "bookId": "SNG",
+  "id": "SNG",
+  "name": "Song of Songs",
+  "slug": "song-of-songs",
+  "translation": "EasyEnglish Bible (EASY)",
+  "publisher": "MissionAssist UK",
+  "referenceUrl": "https://www.easyenglish.bible/bible/easy/song-of-songs/",
   "totalChapters": 8,
-  "copyrightNotice": "Scripture quotations are from the EasyEnglish Bible / Bible in Basic English. Public Domain.",
-  "officialSourceUrl": "https://www.easyenglish.bible/bible/easy/song-of-songs/1/",
+  "totalVerses": 117,
   "chapters": [
     {
-      "book": "Song of Songs",
       "chapter": 1,
       "title": "Song of Songs 1",
-      "subtitle": "Song of Songs Chapter 1",
+      "subtitle": "",
+      "totalVerses": 17,
+      "sourceUrl": "https://www.easyenglish.bible/bible/easy/song-of-songs/1/",
       "sections": [
         {
-          "heading": "Song of Songs Chapter 1",
+          "heading": "A man and a woman who love each other",
           "items": [
             [
               {
                 "verse": 1,
-                "text": "The song of Songs, which is Solomon's."
-              },
+                "text": "This is Solomon's most beautiful song."
+              }
+            ],
+            [
+              {
+                "verse": 1,
+                "text": "The young woman: 2 Please kiss me with your lips!Your love makes me happier than wine does. 3 You have put perfume on your body.It has a lovely smell.The sound of your name causes pleasure everywhere,like sweet perfume.All the young women love you! 4 Take me away with you. Come quickly.I want the king to take me into his rooms.The woman's friends:1:4We are very happy!You make us happy.We praise your love,because it is better than wine.The young woman:I agree! The young women are right to praise you like that. 5 Young women of Jerusalem,my skin is dark but I am beautiful.1:5My skin is dark, like the tents of Kedar.It is beautiful, like the curtains of King Solomon's tent. 6 The sun has caused my skin to become dark.Please do not look at me as if I am strange.My brothers were angry with me.They caused me to work outside in the sun.I took care of the vineyards,and I could not take care of my own vineyard, my body. 7 I love you, my dear one.1:7Tell me where you take your sheep to eat grass.Where will you take them to rest at midday?I do not want to look for you everywhereamong the sheep of your friends.They might not understand what I am doing.The man and the woman praise each otherThe young man: 8 You are the most beautiful woman of all.If you do not know where to find me,follow the marks from the feet of my sheep.Take your young goats to eat grassamong the tents of the shepherds. 9 My dear friend, you are very beautiful.You seem to me like a beautiful horse that pulls one of Pharaoh's chariots.1:9 10 Your face is beautiful with jewels.A necklace makes your neck beautiful too. 11 We will use gold to make ear rings for you,and we will add pieces of silver.The young woman: 12 While the king was eating a meal,the sweet smell of my perfume was in the air. 13 My lover is like a bag of myrrhthat lies between my breasts. 14 He is like a group of henna flowersthat grow in the vineyards at En Gedi.1:14The young man: 15 My dear friend, I see that you are very beautiful!Yes, you are beautifuland your eyes are like doves.The young woman: 16 My lover, I see that you are very handsome!Yes, you are lovely!This field of fresh, green grass is our comfortable bed. 17 The cedar trees above us are the beams of our bedroom.1:17The pine trees cover us like a roof."
+              }
+            ]
+          ]
+        },
+        {
+          "heading": "The young woman:",
+          "items": [
+            [
               {
                 "verse": 2,
-                "text": "Let him give me the kisses of his mouth: for his love is better than wine."
-              },
+                "text": "Please kiss me with your lips!"
+              }
+            ],
+            [
+              {
+                "verse": 2,
+                "text": "Your love makes me happier than wine does."
+              }
+            ],
+            [
               {
                 "verse": 3,
-                "text": "Sweet is the smell of your perfumes; your name is as perfume running out; so the young girls give you their love."
-              },
+                "text": "You have put perfume on your body."
+              }
+            ],
+            [
+              {
+                "verse": 3,
+                "text": "It has a lovely smell."
+              }
+            ],
+            [
+              {
+                "verse": 3,
+                "text": "The sound of your name causes pleasure everywhere,"
+              }
+            ],
+            [
+              {
+                "verse": 3,
+                "text": "like sweet perfume."
+              }
+            ],
+            [
+              {
+                "verse": 3,
+                "text": "All the young women love you!"
+              }
+            ],
+            [
               {
                 "verse": 4,
-                "text": "Take me to you, and we will go after you: the king has taken me into his house. We will be glad and full of joy in you, we will give more thought to your love than to wine: rightly are they your lovers."
+                "text": "Take me away with you. Come quickly."
+              }
+            ],
+            [
+              {
+                "verse": 4,
+                "text": "I want the king to take me into his rooms."
+              }
+            ]
+          ]
+        },
+        {
+          "heading": "The woman's friends:",
+          "items": [
+            [
+              {
+                "verse": 4,
+                "text": "We are very happy!"
+              }
+            ],
+            [
+              {
+                "verse": 4,
+                "text": "You make us happy."
+              }
+            ],
+            [
+              {
+                "verse": 4,
+                "text": "We praise your love,"
+              }
+            ],
+            [
+              {
+                "verse": 4,
+                "text": "because it is better than wine."
+              }
+            ]
+          ]
+        },
+        {
+          "heading": "The young woman:",
+          "items": [
+            [
+              {
+                "verse": 4,
+                "text": "I agree! The young women are right to praise you like that."
+              }
+            ],
+            [
+              {
+                "verse": 4,
+                "text": "5 Young women of Jerusalem,my skin is dark but I am beautiful.1:5My skin is dark, like the tents of Kedar.It is beautiful, like the curtains of King Solomon's tent. 6 The sun has caused my skin to become dark.Please do not look at me as if I am strange.My brothers were angry with me.They caused me to work outside in the sun.I took care of the vineyards,and I could not take care of my own vineyard, my body. 7 I love you, my dear one.1:7Tell me where you take your sheep to eat grass.Where will you take them to rest at midday?I do not want to look for you everywhereamong the sheep of your friends.They might not understand what I am doing.The man and the woman praise each otherThe young man: 8 You are the most beautiful woman of all.If you do not know where to find me,follow the marks from the feet of my sheep.Take your young goats to eat grassamong the tents of the shepherds. 9 My dear friend, you are very beautiful.You seem to me like a beautiful horse that pulls one of Pharaoh's chariots.1:9 10 Your face is beautiful with jewels.A necklace makes your neck beautiful too. 11 We will use gold to make ear rings for you,and we will add pieces of silver.The young woman: 12 While the king was eating a meal,the sweet smell of my perfume was in the air. 13 My lover is like a bag of myrrhthat lies between my breasts. 14 He is like a group of henna flowersthat grow in the vineyards at En Gedi.1:14The young man: 15 My dear friend, I see that you are very beautiful!Yes, you are beautifuland your eyes are like doves.The young woman: 16 My lover, I see that you are very handsome!Yes, you are lovely!This field of fresh, green grass is our comfortable bed. 17 The cedar trees above us are the beams of our bedroom.1:17The pine trees cover us like a roof."
               }
             ],
             [
               {
                 "verse": 5,
-                "text": "I am dark, but fair of form, O daughters of Jerusalem, as the tents of Kedar, as the curtains of Solomon."
-              },
+                "text": "Young women of Jerusalem,"
+              }
+            ],
+            [
+              {
+                "verse": 5,
+                "text": "my skin is dark but I am beautiful."
+              }
+            ],
+            [
+              {
+                "verse": 5,
+                "text": "My skin is dark, like the tents of Kedar."
+              }
+            ],
+            [
+              {
+                "verse": 5,
+                "text": "It is beautiful, like the curtains of King Solomon's tent."
+              }
+            ],
+            [
               {
                 "verse": 6,
-                "text": "Let not your eyes be turned on me, because I am dark, because I was looked on by the sun; my mother's children were angry with me; they made me the keeper of the vine-gardens; but my vine-garden I have not kept."
-              },
+                "text": "The sun has caused my skin to become dark."
+              }
+            ],
+            [
+              {
+                "verse": 6,
+                "text": "Please do not look at me as if I am strange."
+              }
+            ],
+            [
+              {
+                "verse": 6,
+                "text": "My brothers were angry with me."
+              }
+            ],
+            [
+              {
+                "verse": 6,
+                "text": "They caused me to work outside in the sun."
+              }
+            ],
+            [
+              {
+                "verse": 6,
+                "text": "I took care of the vineyards,"
+              }
+            ],
+            [
+              {
+                "verse": 6,
+                "text": "and I could not take care of my own vineyard, my body."
+              }
+            ],
+            [
+              {
+                "verse": 6,
+                "text": "7 I love you, my dear one.1:7Tell me where you take your sheep to eat grass.Where will you take them to rest at midday?I do not want to look for you everywhereamong the sheep of your friends.They might not understand what I am doing.The man and the woman praise each otherThe young man: 8 You are the most beautiful woman of all.If you do not know where to find me,follow the marks from the feet of my sheep.Take your young goats to eat grassamong the tents of the shepherds. 9 My dear friend, you are very beautiful.You seem to me like a beautiful horse that pulls one of Pharaoh's chariots.1:9 10 Your face is beautiful with jewels.A necklace makes your neck beautiful too. 11 We will use gold to make ear rings for you,and we will add pieces of silver.The young woman: 12 While the king was eating a meal,the sweet smell of my perfume was in the air. 13 My lover is like a bag of myrrhthat lies between my breasts. 14 He is like a group of henna flowersthat grow in the vineyards at En Gedi.1:14The young man: 15 My dear friend, I see that you are very beautiful!Yes, you are beautifuland your eyes are like doves.The young woman: 16 My lover, I see that you are very handsome!Yes, you are lovely!This field of fresh, green grass is our comfortable bed. 17 The cedar trees above us are the beams of our bedroom.1:17The pine trees cover us like a roof."
+              }
+            ],
+            [
               {
                 "verse": 7,
-                "text": "Say, O love of my soul, where you give food to your flock, and where you make them take their rest in the heat of the day; why have I to be as one wandering by the flocks of your friends?"
-              },
+                "text": "I love you, my dear one."
+              }
+            ],
+            [
+              {
+                "verse": 7,
+                "text": "Tell me where you take your sheep to eat grass."
+              }
+            ],
+            [
+              {
+                "verse": 7,
+                "text": "Where will you take them to rest at midday?"
+              }
+            ],
+            [
+              {
+                "verse": 7,
+                "text": "I do not want to look for you everywhere"
+              }
+            ],
+            [
+              {
+                "verse": 7,
+                "text": "among the sheep of your friends."
+              }
+            ],
+            [
+              {
+                "verse": 7,
+                "text": "They might not understand what I am doing."
+              }
+            ]
+          ]
+        },
+        {
+          "heading": "The young man:",
+          "items": [
+            [
               {
                 "verse": 8,
-                "text": "If you have not knowledge, O most beautiful among women, go on your way in the footsteps of the flock, and give your young goats food by the tents of the keepers."
+                "text": "You are the most beautiful woman of all."
+              }
+            ],
+            [
+              {
+                "verse": 8,
+                "text": "If you do not know where to find me,"
+              }
+            ],
+            [
+              {
+                "verse": 8,
+                "text": "follow the marks from the feet of my sheep."
+              }
+            ],
+            [
+              {
+                "verse": 8,
+                "text": "Take your young goats to eat grass"
+              }
+            ],
+            [
+              {
+                "verse": 8,
+                "text": "among the tents of the shepherds."
               }
             ],
             [
               {
                 "verse": 9,
-                "text": "I have made a comparison of you, O my love, to a horse in Pharaoh's carriages."
-              },
+                "text": "My dear friend, you are very beautiful."
+              }
+            ],
+            [
+              {
+                "verse": 9,
+                "text": "You seem to me like a beautiful horse that pulls one of Pharaoh's chariots."
+              }
+            ],
+            [
               {
                 "verse": 10,
-                "text": "Your face is a delight with rings of hair, your neck with chains of jewels."
-              },
+                "text": "Your face is beautiful with jewels."
+              }
+            ],
+            [
+              {
+                "verse": 10,
+                "text": "A necklace makes your neck beautiful too."
+              }
+            ],
+            [
               {
                 "verse": 11,
-                "text": "We will make you chains of gold with ornaments of silver."
-              },
+                "text": "We will use gold to make ear rings for you,"
+              }
+            ],
+            [
+              {
+                "verse": 11,
+                "text": "and we will add pieces of silver."
+              }
+            ]
+          ]
+        },
+        {
+          "heading": "The young woman:",
+          "items": [
+            [
               {
                 "verse": 12,
-                "text": "While the king is seated at his table, my spices send out their perfume."
+                "text": "While the king was eating a meal,"
+              }
+            ],
+            [
+              {
+                "verse": 12,
+                "text": "the sweet smell of my perfume was in the air."
               }
             ],
             [
               {
                 "verse": 13,
-                "text": "As a bag of myrrh is my well-loved one to me, when he is at rest all night between my breasts."
-              },
+                "text": "My lover is like a bag of myrrh"
+              }
+            ],
+            [
+              {
+                "verse": 13,
+                "text": "that lies between my breasts."
+              }
+            ],
+            [
               {
                 "verse": 14,
-                "text": "My love is to me as a branch of the cypress-tree in the vine-gardens of En-gedi."
-              },
+                "text": "He is like a group of henna flowers"
+              }
+            ],
+            [
+              {
+                "verse": 14,
+                "text": "that grow in the vineyards at En Gedi."
+              }
+            ]
+          ]
+        },
+        {
+          "heading": "The young man:",
+          "items": [
+            [
               {
                 "verse": 15,
-                "text": "See, you are fair, my love, you are fair; you have the eyes of a dove."
-              },
+                "text": "My dear friend, I see that you are very beautiful!"
+              }
+            ],
+            [
+              {
+                "verse": 15,
+                "text": "Yes, you are beautiful"
+              }
+            ],
+            [
+              {
+                "verse": 15,
+                "text": "and your eyes are like doves."
+              }
+            ]
+          ]
+        },
+        {
+          "heading": "The young woman:",
+          "items": [
+            [
               {
                 "verse": 16,
-                "text": "See, you are fair, my loved one, and a pleasure; our bed is green."
+                "text": "My lover, I see that you are very handsome!"
+              }
+            ],
+            [
+              {
+                "verse": 16,
+                "text": "Yes, you are lovely!"
+              }
+            ],
+            [
+              {
+                "verse": 16,
+                "text": "This field of fresh, green grass is our comfortable bed."
               }
             ],
             [
               {
                 "verse": 17,
-                "text": "Cedar-trees are the pillars of our house; and our boards are made of fir-trees."
+                "text": "The cedar trees above us are the beams of our bedroom."
+              }
+            ],
+            [
+              {
+                "verse": 17,
+                "text": "The pine trees cover us like a roof."
               }
             ]
           ]
         }
       ],
-      "verses": [
-        {
-          "verse": 1,
-          "text": "The song of Songs, which is Solomon's."
-        },
-        {
-          "verse": 2,
-          "text": "Let him give me the kisses of his mouth: for his love is better than wine."
-        },
-        {
-          "verse": 3,
-          "text": "Sweet is the smell of your perfumes; your name is as perfume running out; so the young girls give you their love."
-        },
-        {
-          "verse": 4,
-          "text": "Take me to you, and we will go after you: the king has taken me into his house. We will be glad and full of joy in you, we will give more thought to your love than to wine: rightly are they your lovers."
-        },
-        {
-          "verse": 5,
-          "text": "I am dark, but fair of form, O daughters of Jerusalem, as the tents of Kedar, as the curtains of Solomon."
-        },
-        {
-          "verse": 6,
-          "text": "Let not your eyes be turned on me, because I am dark, because I was looked on by the sun; my mother's children were angry with me; they made me the keeper of the vine-gardens; but my vine-garden I have not kept."
-        },
-        {
-          "verse": 7,
-          "text": "Say, O love of my soul, where you give food to your flock, and where you make them take their rest in the heat of the day; why have I to be as one wandering by the flocks of your friends?"
-        },
-        {
-          "verse": 8,
-          "text": "If you have not knowledge, O most beautiful among women, go on your way in the footsteps of the flock, and give your young goats food by the tents of the keepers."
-        },
-        {
-          "verse": 9,
-          "text": "I have made a comparison of you, O my love, to a horse in Pharaoh's carriages."
-        },
-        {
-          "verse": 10,
-          "text": "Your face is a delight with rings of hair, your neck with chains of jewels."
-        },
-        {
-          "verse": 11,
-          "text": "We will make you chains of gold with ornaments of silver."
-        },
-        {
-          "verse": 12,
-          "text": "While the king is seated at his table, my spices send out their perfume."
-        },
-        {
-          "verse": 13,
-          "text": "As a bag of myrrh is my well-loved one to me, when he is at rest all night between my breasts."
-        },
-        {
-          "verse": 14,
-          "text": "My love is to me as a branch of the cypress-tree in the vine-gardens of En-gedi."
-        },
-        {
-          "verse": 15,
-          "text": "See, you are fair, my love, you are fair; you have the eyes of a dove."
-        },
-        {
-          "verse": 16,
-          "text": "See, you are fair, my loved one, and a pleasure; our bed is green."
-        },
-        {
-          "verse": 17,
-          "text": "Cedar-trees are the pillars of our house; and our boards are made of fir-trees."
-        }
-      ],
-      "totalVerses": 17,
-      "footnotes": []
+      "notes": [
+        "The woman's friends are speaking to the young man.",
+        "Jerusalem was the capital city of Israel, where Solomon was king. God'stemplewas in Jerusalem.",
+        "The woman now speaks to the young man.",
+        "Pharaoh was a name for the rulers of Egypt.",
+        "Henna is a plant that has a lovely smell. En Gedi is the name of a pool of water in adesert.",
+        "Beamsare big pieces of wood that the roof is fixed to."
+      ]
     },
     {
-      "book": "Song of Songs",
       "chapter": 2,
       "title": "Song of Songs 2",
-      "subtitle": "Song of Songs Chapter 2",
+      "subtitle": "",
+      "totalVerses": 17,
+      "sourceUrl": "https://www.easyenglish.bible/bible/easy/song-of-songs/2/",
       "sections": [
         {
-          "heading": "Song of Songs Chapter 2",
+          "heading": "The young woman:",
           "items": [
             [
               {
                 "verse": 1,
-                "text": "I am a rose of Sharon, a flower of the valleys."
-              },
+                "text": "I am like a wild flower of Sharon."
+              }
+            ],
+            [
+              {
+                "verse": 1,
+                "text": "I am a lily from the valleys."
+              }
+            ]
+          ]
+        },
+        {
+          "heading": "The young man:",
+          "items": [
+            [
               {
                 "verse": 2,
-                "text": "As the lily-flower among the thorns of the waste, so is my love among the daughters."
-              },
+                "text": "Among the other young women,"
+              }
+            ],
+            [
+              {
+                "verse": 2,
+                "text": "my dear friend is like a lily"
+              }
+            ],
+            [
+              {
+                "verse": 2,
+                "text": "that grows among thorn bushes."
+              }
+            ]
+          ]
+        },
+        {
+          "heading": "The young woman:",
+          "items": [
+            [
               {
                 "verse": 3,
-                "text": "As the apple-tree among the trees of the wood, so is my loved one among the sons. I took my rest under his shade with great delight, and his fruit was sweet to my taste."
-              },
+                "text": "Among the other young men,"
+              }
+            ],
+            [
+              {
+                "verse": 3,
+                "text": "my lover is like an apple tree"
+              }
+            ],
+            [
+              {
+                "verse": 3,
+                "text": "that grows among the trees of the forest."
+              }
+            ],
+            [
+              {
+                "verse": 3,
+                "text": "I love to sit in his shade."
+              }
+            ],
+            [
+              {
+                "verse": 3,
+                "text": "His fruit is sweet when I taste it."
+              }
+            ],
+            [
               {
                 "verse": 4,
-                "text": "He took me to the house of wine, and his flag over me was love."
+                "text": "He has taken me to the room for feasts."
+              }
+            ],
+            [
+              {
+                "verse": 4,
+                "text": "Everyone can see that he loves me."
               }
             ],
             [
               {
                 "verse": 5,
-                "text": "Make me strong with wine-cakes, let me be comforted with apples; I am overcome with love."
-              },
+                "text": "I am weak with love."
+              }
+            ],
+            [
+              {
+                "verse": 5,
+                "text": "So give me raisins to make me strong."
+              }
+            ],
+            [
+              {
+                "verse": 5,
+                "text": "Give me apples to keep me awake."
+              }
+            ],
+            [
+              {
+                "verse": 5,
+                "text": "6 His left hand is under my head.His right hand brings me near to him. 7 Promise this to me, young women of Jerusalem:Do not cause our love to wake up.Do not cause it to become too stronguntil the time is right.The gazelles and the wild deer will know about your promise.The young man comes to the young woman 8 Listen! I hear the voice of my lover!Look! He is coming!He moves quickly across the mountains.He runs across the hills. 9 My lover is like a gazelle or a young male deer.Look! There he is!He is standing behind our wall.He is looking through the window.He wants to see into the room. 10 My lover said this to me:‘My beautiful friend, I love you.Get up now and come with me. 11 Look! The winter time has finished.The heavy rains have stopped. 12 Flowers are appearing everywhere.It is now the season to sing happy songs.We can hear the voices of doves around us. 13 New fruit is growing on the fig trees.There are flowers on the vines,and their sweet smell is in the air.I love you, my beautiful friend.Please get up now and come with me!’The young man: 14 My dear friend, you are like a dove that is hiding among the rocks.You hide from me in the mountains.Show your face to mebecause it is lovely.Let me hear your voicebecause it has a sweet sound. 15 Catch the foxes for us!Our vines now have flowersand they will soon give us fruit.So catch the little foxes before they destroy our vineyards.2:15The young woman: 16 My lover belongs to me,and I belong to him.He moves among the lilies with his sheep. 17 Turn back to me, my lover.Stay until dawn comes and the shadows have gone,Be like a gazelle or a young male deerthat plays among the mountains' rocks."
+              }
+            ],
+            [
               {
                 "verse": 6,
-                "text": "His left hand is under my head, and his right hand is round about me."
-              },
+                "text": "His left hand is under my head."
+              }
+            ],
+            [
+              {
+                "verse": 6,
+                "text": "His right hand brings me near to him."
+              }
+            ],
+            [
+              {
+                "verse": 6,
+                "text": "7 Promise this to me, young women of Jerusalem:Do not cause our love to wake up.Do not cause it to become too stronguntil the time is right.The gazelles and the wild deer will know about your promise.The young man comes to the young woman 8 Listen! I hear the voice of my lover!Look! He is coming!He moves quickly across the mountains.He runs across the hills. 9 My lover is like a gazelle or a young male deer.Look! There he is!He is standing behind our wall.He is looking through the window.He wants to see into the room. 10 My lover said this to me:‘My beautiful friend, I love you.Get up now and come with me. 11 Look! The winter time has finished.The heavy rains have stopped. 12 Flowers are appearing everywhere.It is now the season to sing happy songs.We can hear the voices of doves around us. 13 New fruit is growing on the fig trees.There are flowers on the vines,and their sweet smell is in the air.I love you, my beautiful friend.Please get up now and come with me!’The young man: 14 My dear friend, you are like a dove that is hiding among the rocks.You hide from me in the mountains.Show your face to mebecause it is lovely.Let me hear your voicebecause it has a sweet sound. 15 Catch the foxes for us!Our vines now have flowersand they will soon give us fruit.So catch the little foxes before they destroy our vineyards.2:15The young woman: 16 My lover belongs to me,and I belong to him.He moves among the lilies with his sheep. 17 Turn back to me, my lover.Stay until dawn comes and the shadows have gone,Be like a gazelle or a young male deerthat plays among the mountains' rocks."
+              }
+            ],
+            [
               {
                 "verse": 7,
-                "text": "I say to you, O daughters of Jerusalem, by the roes of the field, do not let love be moved till it is ready."
-              },
+                "text": "Promise this to me, young women of Jerusalem:"
+              }
+            ],
+            [
+              {
+                "verse": 7,
+                "text": "Do not cause our love to wake up."
+              }
+            ],
+            [
+              {
+                "verse": 7,
+                "text": "Do not cause it to become too strong"
+              }
+            ],
+            [
+              {
+                "verse": 7,
+                "text": "until the time is right."
+              }
+            ],
+            [
+              {
+                "verse": 7,
+                "text": "The gazelles and the wild deer will know about your promise."
+              }
+            ]
+          ]
+        },
+        {
+          "heading": "The young man comes to the young woman",
+          "items": [
+            [
               {
                 "verse": 8,
-                "text": "The voice of my loved one! See, he comes dancing on the mountains, stepping quickly on the hills."
+                "text": "Listen! I hear the voice of my lover!"
+              }
+            ],
+            [
+              {
+                "verse": 8,
+                "text": "Look! He is coming!"
+              }
+            ],
+            [
+              {
+                "verse": 8,
+                "text": "He moves quickly across the mountains."
+              }
+            ],
+            [
+              {
+                "verse": 8,
+                "text": "He runs across the hills."
               }
             ],
             [
               {
                 "verse": 9,
-                "text": "My loved one is like a roe; see, he is on the other side of our wall, he is looking in at the windows, letting himself be seen through the spaces."
-              },
+                "text": "My lover is like a gazelle or a young male deer."
+              }
+            ],
+            [
+              {
+                "verse": 9,
+                "text": "Look! There he is!"
+              }
+            ],
+            [
+              {
+                "verse": 9,
+                "text": "He is standing behind our wall."
+              }
+            ],
+            [
+              {
+                "verse": 9,
+                "text": "He is looking through the window."
+              }
+            ],
+            [
+              {
+                "verse": 9,
+                "text": "He wants to see into the room."
+              }
+            ],
+            [
               {
                 "verse": 10,
-                "text": "My loved one said to me, Get up, my love, my fair one, and come away."
-              },
+                "text": "My lover said this to me:"
+              }
+            ],
+            [
+              {
+                "verse": 10,
+                "text": "‘My beautiful friend, I love you."
+              }
+            ],
+            [
+              {
+                "verse": 10,
+                "text": "Get up now and come with me."
+              }
+            ],
+            [
               {
                 "verse": 11,
-                "text": "For, see, the winter is past, the rain is over and gone;"
-              },
+                "text": "Look! The winter time has finished."
+              }
+            ],
+            [
+              {
+                "verse": 11,
+                "text": "The heavy rains have stopped."
+              }
+            ],
+            [
               {
                 "verse": 12,
-                "text": "The flowers are come on the earth; the time of cutting the vines is come, and the voice of the dove is sounding in our land;"
+                "text": "Flowers are appearing everywhere."
+              }
+            ],
+            [
+              {
+                "verse": 12,
+                "text": "It is now the season to sing happy songs."
+              }
+            ],
+            [
+              {
+                "verse": 12,
+                "text": "We can hear the voices of doves around us."
               }
             ],
             [
               {
                 "verse": 13,
-                "text": "The fig-tree puts out her green fruit and the vines with their young fruit give a good smell. Get up from your bed, my beautiful one, and come away."
-              },
+                "text": "New fruit is growing on the fig trees."
+              }
+            ],
+            [
+              {
+                "verse": 13,
+                "text": "There are flowers on the vines,"
+              }
+            ],
+            [
+              {
+                "verse": 13,
+                "text": "and their sweet smell is in the air."
+              }
+            ],
+            [
+              {
+                "verse": 13,
+                "text": "I love you, my beautiful friend."
+              }
+            ],
+            [
+              {
+                "verse": 13,
+                "text": "Please get up now and come with me!’"
+              }
+            ]
+          ]
+        },
+        {
+          "heading": "The young man:",
+          "items": [
+            [
               {
                 "verse": 14,
-                "text": "O my dove, you are in the holes of the mountain sides, in the cracks of the high hills; let me see your face, let your voice come to my ears; for sweet is your voice, and your face is fair."
-              },
+                "text": "My dear friend, you are like a dove that is hiding among the rocks."
+              }
+            ],
+            [
+              {
+                "verse": 14,
+                "text": "You hide from me in the mountains."
+              }
+            ],
+            [
+              {
+                "verse": 14,
+                "text": "Show your face to me"
+              }
+            ],
+            [
+              {
+                "verse": 14,
+                "text": "because it is lovely."
+              }
+            ],
+            [
+              {
+                "verse": 14,
+                "text": "Let me hear your voice"
+              }
+            ],
+            [
+              {
+                "verse": 14,
+                "text": "because it has a sweet sound."
+              }
+            ],
+            [
+              {
+                "verse": 14,
+                "text": "15 Catch the foxes for us!Our vines now have flowersand they will soon give us fruit.So catch the little foxes before they destroy our vineyards.2:15The young woman: 16 My lover belongs to me,and I belong to him.He moves among the lilies with his sheep. 17 Turn back to me, my lover.Stay until dawn comes and the shadows have gone,Be like a gazelle or a young male deerthat plays among the mountains' rocks."
+              }
+            ],
+            [
               {
                 "verse": 15,
-                "text": "Take for us the foxes, the little foxes, which do damage to the vines; our vines have young grapes."
-              },
+                "text": "Catch the foxes for us!"
+              }
+            ],
+            [
+              {
+                "verse": 15,
+                "text": "Our vines now have flowers"
+              }
+            ],
+            [
+              {
+                "verse": 15,
+                "text": "and they will soon give us fruit."
+              }
+            ],
+            [
+              {
+                "verse": 15,
+                "text": "So catch the little foxes before they destroy our vineyards."
+              }
+            ]
+          ]
+        },
+        {
+          "heading": "The young woman:",
+          "items": [
+            [
               {
                 "verse": 16,
-                "text": "My loved one is mine, and I am his: he takes his food among the flowers."
+                "text": "My lover belongs to me,"
+              }
+            ],
+            [
+              {
+                "verse": 16,
+                "text": "and I belong to him."
+              }
+            ],
+            [
+              {
+                "verse": 16,
+                "text": "He moves among the lilies with his sheep."
               }
             ],
             [
               {
                 "verse": 17,
-                "text": "Till the evening comes, and the sky slowly becomes dark, come, my loved one, and be like a roe on the mountains of Bether."
+                "text": "Turn back to me, my lover."
+              }
+            ],
+            [
+              {
+                "verse": 17,
+                "text": "Stay until dawn comes and the shadows have gone,"
+              }
+            ],
+            [
+              {
+                "verse": 17,
+                "text": "Be like a gazelle or a young male deer"
+              }
+            ],
+            [
+              {
+                "verse": 17,
+                "text": "that plays among the mountains' rocks."
               }
             ]
           ]
         }
       ],
-      "verses": [
-        {
-          "verse": 1,
-          "text": "I am a rose of Sharon, a flower of the valleys."
-        },
-        {
-          "verse": 2,
-          "text": "As the lily-flower among the thorns of the waste, so is my love among the daughters."
-        },
-        {
-          "verse": 3,
-          "text": "As the apple-tree among the trees of the wood, so is my loved one among the sons. I took my rest under his shade with great delight, and his fruit was sweet to my taste."
-        },
-        {
-          "verse": 4,
-          "text": "He took me to the house of wine, and his flag over me was love."
-        },
-        {
-          "verse": 5,
-          "text": "Make me strong with wine-cakes, let me be comforted with apples; I am overcome with love."
-        },
-        {
-          "verse": 6,
-          "text": "His left hand is under my head, and his right hand is round about me."
-        },
-        {
-          "verse": 7,
-          "text": "I say to you, O daughters of Jerusalem, by the roes of the field, do not let love be moved till it is ready."
-        },
-        {
-          "verse": 8,
-          "text": "The voice of my loved one! See, he comes dancing on the mountains, stepping quickly on the hills."
-        },
-        {
-          "verse": 9,
-          "text": "My loved one is like a roe; see, he is on the other side of our wall, he is looking in at the windows, letting himself be seen through the spaces."
-        },
-        {
-          "verse": 10,
-          "text": "My loved one said to me, Get up, my love, my fair one, and come away."
-        },
-        {
-          "verse": 11,
-          "text": "For, see, the winter is past, the rain is over and gone;"
-        },
-        {
-          "verse": 12,
-          "text": "The flowers are come on the earth; the time of cutting the vines is come, and the voice of the dove is sounding in our land;"
-        },
-        {
-          "verse": 13,
-          "text": "The fig-tree puts out her green fruit and the vines with their young fruit give a good smell. Get up from your bed, my beautiful one, and come away."
-        },
-        {
-          "verse": 14,
-          "text": "O my dove, you are in the holes of the mountain sides, in the cracks of the high hills; let me see your face, let your voice come to my ears; for sweet is your voice, and your face is fair."
-        },
-        {
-          "verse": 15,
-          "text": "Take for us the foxes, the little foxes, which do damage to the vines; our vines have young grapes."
-        },
-        {
-          "verse": 16,
-          "text": "My loved one is mine, and I am his: he takes his food among the flowers."
-        },
-        {
-          "verse": 17,
-          "text": "Till the evening comes, and the sky slowly becomes dark, come, my loved one, and be like a roe on the mountains of Bether."
-        }
-      ],
-      "totalVerses": 17,
-      "footnotes": []
+      "notes": [
+        "Sharon is a place near the sea where there are many beautiful wild flowers.Liliesare also beautiful flowers.",
+        "The man says that the young woman is more beautiful than all the other young women.",
+        "Now the woman talks to her friends again.",
+        "An apple tree would have been very special. You would not expect to find one that was growing in a forest of other trees.",
+        "Thefoxesmay mean anything thatspoilsthe love between the man and the woman."
+      ]
     },
     {
-      "book": "Song of Songs",
       "chapter": 3,
       "title": "Song of Songs 3",
-      "subtitle": "Song of Songs Chapter 3",
+      "subtitle": "",
+      "totalVerses": 11,
+      "sourceUrl": "https://www.easyenglish.bible/bible/easy/song-of-songs/3/",
       "sections": [
         {
-          "heading": "Song of Songs Chapter 3",
+          "heading": "The young woman:",
           "items": [
             [
               {
                 "verse": 1,
-                "text": "By night on my bed I was looking for him who is the love of my soul: I was looking for him, but I did not see him."
-              },
+                "text": "All night I lay on my bed."
+              }
+            ],
+            [
+              {
+                "verse": 1,
+                "text": "I wanted my lover to come to me."
+              }
+            ],
+            [
+              {
+                "verse": 1,
+                "text": "I looked for him but he did not appear."
+              }
+            ],
+            [
               {
                 "verse": 2,
-                "text": "I will get up now and go about the town, in the streets and in the wide ways I will go after him who is the love of my soul: I went after him, but I did not see him."
-              },
+                "text": "I thought, ‘I will get up now and I will go into the city."
+              }
+            ],
+            [
+              {
+                "verse": 2,
+                "text": "I will look everywhere for my lover."
+              }
+            ],
+            [
+              {
+                "verse": 2,
+                "text": "I will look in all the streets."
+              }
+            ],
+            [
+              {
+                "verse": 2,
+                "text": "I will look in all the market places.’"
+              }
+            ],
+            [
+              {
+                "verse": 2,
+                "text": "So I looked for him,"
+              }
+            ],
+            [
+              {
+                "verse": 2,
+                "text": "but I did not find him."
+              }
+            ],
+            [
               {
                 "verse": 3,
-                "text": "The watchmen who go about the town came by me; to them I said, Have you seen him who is my heart's desire?"
-              },
+                "text": "The city guards found me"
+              }
+            ],
+            [
+              {
+                "verse": 3,
+                "text": "as they walked in the streets of the city."
+              }
+            ],
+            [
+              {
+                "verse": 3,
+                "text": "I asked them,"
+              }
+            ],
+            [
+              {
+                "verse": 3,
+                "text": "‘Have you seen the man that I love?’"
+              }
+            ],
+            [
               {
                 "verse": 4,
-                "text": "I was but a little way from them, when I came face to face with him who is the love of my soul. I took him by the hands, and did not let him go, till I had taken him into my mother's house, and into the room of her who gave me birth."
+                "text": "Then, as I left them, I found my lover!"
+              }
+            ],
+            [
+              {
+                "verse": 4,
+                "text": "I hugged him and I would not let him go."
+              }
+            ],
+            [
+              {
+                "verse": 4,
+                "text": "I took him to my mother's house."
+              }
+            ],
+            [
+              {
+                "verse": 4,
+                "text": "I took him into my mother's bedroom."
+              }
+            ],
+            [
+              {
+                "verse": 4,
+                "text": "That is where my life started, inside my mother's body."
+              }
+            ],
+            [
+              {
+                "verse": 4,
+                "text": "5 Promise this to me, young women of Jerusalem:Do not cause our love to wake up.Do not cause it to become too stronguntil the time is right.The gazelles and the wild deer will know about your promise.A royal wedding 6 Who is this who is coming from the desert?3:6It seems that smoke is rising into the air!There is a lovely smell of myrrh and incense.3:6It is the smell of all the spices that a trader sells. 7 Look! They are carrying King Solomon on a throne!3:760 soldiers are travelling with it.They are Israel's bravest soldiers. 8 All of them have swords.They all know how to fight well.Their swords are ready for them to use.They are ready for any danger that comes in the night. 9 King Solomon made the throne for himself.He used wood from Lebanon to make it.3:9 10 He used silver to make the posts for it.He used gold to make its back.Its seat has valuable purple cloth to cover it.The young women of Jerusalem made it beautiful inside,to show their love. 11 Young women of Zion,come out to see King Solomon!3:11He is wearing his crown.His mother put the crown on him on his wedding day.It was the happiest day of his life!"
               }
             ],
             [
               {
                 "verse": 5,
-                "text": "I say to you, O daughters of Jerusalem, by the roes of the field, let not love be moved till it is ready."
-              },
+                "text": "Promise this to me, young women of Jerusalem:"
+              }
+            ],
+            [
+              {
+                "verse": 5,
+                "text": "Do not cause our love to wake up."
+              }
+            ],
+            [
+              {
+                "verse": 5,
+                "text": "Do not cause it to become too strong"
+              }
+            ],
+            [
+              {
+                "verse": 5,
+                "text": "until the time is right."
+              }
+            ],
+            [
+              {
+                "verse": 5,
+                "text": "The gazelles and the wild deer will know about your promise."
+              }
+            ]
+          ]
+        },
+        {
+          "heading": "A royal wedding",
+          "items": [
+            [
               {
                 "verse": 6,
-                "text": "Who is this coming out of the waste places like pillars of smoke, perfumed with sweet spices, with all the spices of the trader?"
-              },
+                "text": "Who is this who is coming from the desert?"
+              }
+            ],
+            [
+              {
+                "verse": 6,
+                "text": "It seems that smoke is rising into the air!"
+              }
+            ],
+            [
+              {
+                "verse": 6,
+                "text": "There is a lovely smell of myrrh and incense."
+              }
+            ],
+            [
+              {
+                "verse": 6,
+                "text": "It is the smell of all the spices that a trader sells."
+              }
+            ],
+            [
               {
                 "verse": 7,
-                "text": "See, it is the bed of Solomon; sixty men of war are about it, of the army of Israel,"
-              },
+                "text": "Look! They are carrying King Solomon on a throne!"
+              }
+            ],
+            [
+              {
+                "verse": 7,
+                "text": "60 soldiers are travelling with it."
+              }
+            ],
+            [
+              {
+                "verse": 7,
+                "text": "They are Israel's bravest soldiers."
+              }
+            ],
+            [
               {
                 "verse": 8,
-                "text": "All of them armed with swords, trained in war; every man has his sword at his side, because of fear in the night."
+                "text": "All of them have swords."
+              }
+            ],
+            [
+              {
+                "verse": 8,
+                "text": "They all know how to fight well."
+              }
+            ],
+            [
+              {
+                "verse": 8,
+                "text": "Their swords are ready for them to use."
+              }
+            ],
+            [
+              {
+                "verse": 8,
+                "text": "They are ready for any danger that comes in the night."
               }
             ],
             [
               {
                 "verse": 9,
-                "text": "King Solomon made himself a bed of the wood of Lebanon."
-              },
+                "text": "King Solomon made the throne for himself."
+              }
+            ],
+            [
+              {
+                "verse": 9,
+                "text": "He used wood from Lebanon to make it."
+              }
+            ],
+            [
               {
                 "verse": 10,
-                "text": "He made its pillars of silver, its base of gold, its seat of purple, the middle of it of ebony."
-              },
+                "text": "He used silver to make the posts for it."
+              }
+            ],
+            [
+              {
+                "verse": 10,
+                "text": "He used gold to make its back."
+              }
+            ],
+            [
+              {
+                "verse": 10,
+                "text": "Its seat has valuable purple cloth to cover it."
+              }
+            ],
+            [
+              {
+                "verse": 10,
+                "text": "The young women of Jerusalem made it beautiful inside,"
+              }
+            ],
+            [
+              {
+                "verse": 10,
+                "text": "to show their love."
+              }
+            ],
+            [
               {
                 "verse": 11,
-                "text": "Go out, O daughters of Jerusalem, and see King Solomon, with the crown which his mother put on his head on the day when he was married, and on the day of the joy of his heart."
+                "text": "Young women of Zion,"
+              }
+            ],
+            [
+              {
+                "verse": 11,
+                "text": "come out to see King Solomon!"
+              }
+            ],
+            [
+              {
+                "verse": 11,
+                "text": "He is wearing his crown."
+              }
+            ],
+            [
+              {
+                "verse": 11,
+                "text": "His mother put the crown on him on his wedding day."
+              }
+            ],
+            [
+              {
+                "verse": 11,
+                "text": "It was the happiest day of his life!"
               }
             ]
           ]
         }
       ],
-      "verses": [
-        {
-          "verse": 1,
-          "text": "By night on my bed I was looking for him who is the love of my soul: I was looking for him, but I did not see him."
-        },
-        {
-          "verse": 2,
-          "text": "I will get up now and go about the town, in the streets and in the wide ways I will go after him who is the love of my soul: I went after him, but I did not see him."
-        },
-        {
-          "verse": 3,
-          "text": "The watchmen who go about the town came by me; to them I said, Have you seen him who is my heart's desire?"
-        },
-        {
-          "verse": 4,
-          "text": "I was but a little way from them, when I came face to face with him who is the love of my soul. I took him by the hands, and did not let him go, till I had taken him into my mother's house, and into the room of her who gave me birth."
-        },
-        {
-          "verse": 5,
-          "text": "I say to you, O daughters of Jerusalem, by the roes of the field, let not love be moved till it is ready."
-        },
-        {
-          "verse": 6,
-          "text": "Who is this coming out of the waste places like pillars of smoke, perfumed with sweet spices, with all the spices of the trader?"
-        },
-        {
-          "verse": 7,
-          "text": "See, it is the bed of Solomon; sixty men of war are about it, of the army of Israel,"
-        },
-        {
-          "verse": 8,
-          "text": "All of them armed with swords, trained in war; every man has his sword at his side, because of fear in the night."
-        },
-        {
-          "verse": 9,
-          "text": "King Solomon made himself a bed of the wood of Lebanon."
-        },
-        {
-          "verse": 10,
-          "text": "He made its pillars of silver, its base of gold, its seat of purple, the middle of it of ebony."
-        },
-        {
-          "verse": 11,
-          "text": "Go out, O daughters of Jerusalem, and see King Solomon, with the crown which his mother put on his head on the day when he was married, and on the day of the joy of his heart."
-        }
-      ],
-      "totalVerses": 11,
-      "footnotes": []
+      "notes": [
+        "The woman tells her friends about a dream.",
+        "The speaker here may be the young woman herself, or it might be one of her friends.",
+        "The ‘smoke’ that is rising may be sand or dirt from the ground. It blows about because many people are moving. There is also a lovely smell ofspice.",
+        "People could carry someone on this kind of throne. See verse 9.",
+        "Lebanon is a country where there are mountains and many strong trees.",
+        "‘Young women ofZion’ is another name for the woman's friends."
+      ]
     },
     {
-      "book": "Song of Songs",
       "chapter": 4,
       "title": "Song of Songs 4",
-      "subtitle": "Song of Songs Chapter 4",
+      "subtitle": "",
+      "totalVerses": 16,
+      "sourceUrl": "https://www.easyenglish.bible/bible/easy/song-of-songs/4/",
       "sections": [
         {
-          "heading": "Song of Songs Chapter 4",
+          "heading": "The young man:",
           "items": [
             [
               {
                 "verse": 1,
-                "text": "See, you are fair, my love, you are fair; you have the eyes of a dove; your hair is as a flock of goats, which take their rest on the side of Gilead."
-              },
+                "text": "My dear friend, how beautiful you are!"
+              }
+            ],
+            [
+              {
+                "verse": 1,
+                "text": "Yes, you are very beautiful!"
+              }
+            ],
+            [
+              {
+                "verse": 1,
+                "text": "Your eyes behind your veil are like doves."
+              }
+            ],
+            [
+              {
+                "verse": 1,
+                "text": "Your hair is like a group of goats"
+              }
+            ],
+            [
+              {
+                "verse": 1,
+                "text": "that are coming down from Mount Gilead."
+              }
+            ],
+            [
               {
                 "verse": 2,
-                "text": "Your teeth are like a flock of sheep whose wool is newly cut, which come up from the washing; every one has two lambs, and there is not one without young."
-              },
+                "text": "Your teeth are very white like a group of sheep."
+              }
+            ],
+            [
+              {
+                "verse": 2,
+                "text": "They are like sheep after someone has cut off their dirty wool"
+              }
+            ],
+            [
+              {
+                "verse": 2,
+                "text": "and they are coming from the pool of water."
+              }
+            ],
+            [
+              {
+                "verse": 2,
+                "text": "Each tooth is one of a pair."
+              }
+            ],
+            [
+              {
+                "verse": 2,
+                "text": "Not one of them is alone."
+              }
+            ],
+            [
               {
                 "verse": 3,
-                "text": "Your red lips are like a bright thread, and your mouth is fair of form; the sides of your head are like pomegranate fruit under your veil."
-              },
+                "text": "Your lips are like bright red strings."
+              }
+            ],
+            [
+              {
+                "verse": 3,
+                "text": "Your mouth is lovely."
+              }
+            ],
+            [
+              {
+                "verse": 3,
+                "text": "The sides of your face are beautiful,"
+              }
+            ],
+            [
+              {
+                "verse": 3,
+                "text": "like the halves of a pomegranate."
+              }
+            ],
+            [
+              {
+                "verse": 3,
+                "text": "I see them through your veil."
+              }
+            ],
+            [
               {
                 "verse": 4,
-                "text": "Your neck is like the tower of David made for a store-house of arms, in which a thousand breastplates are hanging, breastplates for fighting-men."
+                "text": "Your neck is like the great tower of King David."
+              }
+            ],
+            [
+              {
+                "verse": 4,
+                "text": "It is round and strong."
+              }
+            ],
+            [
+              {
+                "verse": 4,
+                "text": "Your necklace is like the shields of 1,000 brave soldiers"
+              }
+            ],
+            [
+              {
+                "verse": 4,
+                "text": "that hang from the stones of the tower."
               }
             ],
             [
               {
                 "verse": 5,
-                "text": "Your two breasts are like two young roes of the same birth, which take their food among the lilies."
-              },
+                "text": "Your breasts are perfect,"
+              }
+            ],
+            [
+              {
+                "verse": 5,
+                "text": "like two young gazelles that are twins."
+              }
+            ],
+            [
+              {
+                "verse": 5,
+                "text": "They feed themselves among the lilies."
+              }
+            ],
+            [
               {
                 "verse": 6,
-                "text": "Till the evening comes, and the sky slowly becomes dark, I will go to the mountain of myrrh, and to the hill of frankincense."
-              },
+                "text": "I will go to the mountain of myrrh"
+              }
+            ],
+            [
+              {
+                "verse": 6,
+                "text": "and the hill of frankincense."
+              }
+            ],
+            [
+              {
+                "verse": 6,
+                "text": "I will stay among them until the dawn comes"
+              }
+            ],
+            [
+              {
+                "verse": 6,
+                "text": "and the shadows go away."
+              }
+            ],
+            [
               {
                 "verse": 7,
-                "text": "You are all fair, my love; there is no mark on you."
-              },
+                "text": "You are completely beautiful, my dear friend."
+              }
+            ],
+            [
+              {
+                "verse": 7,
+                "text": "Your body is perfect in every way."
+              }
+            ],
+            [
+              {
+                "verse": 7,
+                "text": "8 Come with me from Lebanon, my bride.Yes, come with me from Lebanon.Come down from the top of Amana, from the top of Senir.Come down from the highest part of Hermon.4:8Come away from those mountains where lions live,and where there are leopards. 9 I love you so much that I never want to leave you,my sister and my bride.4:9When you looked at me only onceand I saw one jewel in your necklace,I knew that I could never leave you. 10 Your love for me is wonderful,my sister and my bride.I enjoy your love even more than I enjoy wine.Your perfume has a smellthat is more lovely than any spice! 11 Your lips taste very sweet to me, my bride.They taste like honey that falls from the honeycomb.4:11Milk and honey are under your tongue.The smell of your clothesis like the cedar trees of Lebanon. 12 My sister and my bride, you are like a garden for methat is locked to other men.You are like a spring or a fountainthat other people may not drink water from. 13 Your body is like a special garden.It is full of pomegranate trees with their sweet fruit.There are wonderful fruits to enjoy.There are also henna and nard. 14 There are nard, saffron, calamus, cinnamonand many different spices.There are myrrh, aloesand all the best spices.4:14 15 You are like a spring of water in a garden.You are like a well that has fresh water.The water runs down from Lebanon's mountains.The young woman: 16 Wake up, north wind! Come now, south wind!Blow on my garden!Make the sweet smell of its spices move in the air.May my lover come into his garden now!Let him taste its wonderful fruits!"
+              }
+            ],
+            [
               {
                 "verse": 8,
-                "text": "Come with me from Lebanon, my bride, with me from Lebanon; see from the top of Amana, from the top of Senir and Hermon, from the places of the lions, from the mountains of the leopards."
+                "text": "Come with me from Lebanon, my bride."
+              }
+            ],
+            [
+              {
+                "verse": 8,
+                "text": "Yes, come with me from Lebanon."
+              }
+            ],
+            [
+              {
+                "verse": 8,
+                "text": "Come down from the top of Amana, from the top of Senir."
+              }
+            ],
+            [
+              {
+                "verse": 8,
+                "text": "Come down from the highest part of Hermon."
+              }
+            ],
+            [
+              {
+                "verse": 8,
+                "text": "Come away from those mountains where lions live,"
+              }
+            ],
+            [
+              {
+                "verse": 8,
+                "text": "and where there are leopards."
               }
             ],
             [
               {
                 "verse": 9,
-                "text": "You have taken away my heart, my sister, my bride; you have taken away my heart, with one look you have taken it, with one chain of your neck!"
-              },
+                "text": "I love you so much that I never want to leave you,"
+              }
+            ],
+            [
+              {
+                "verse": 9,
+                "text": "my sister and my bride."
+              }
+            ],
+            [
+              {
+                "verse": 9,
+                "text": "When you looked at me only once"
+              }
+            ],
+            [
+              {
+                "verse": 9,
+                "text": "and I saw one jewel in your necklace,"
+              }
+            ],
+            [
+              {
+                "verse": 9,
+                "text": "I knew that I could never leave you."
+              }
+            ],
+            [
               {
                 "verse": 10,
-                "text": "How fair is your love, my sister! How much better is your love than wine, and the smell of your oils than any perfume!"
-              },
+                "text": "Your love for me is wonderful,"
+              }
+            ],
+            [
+              {
+                "verse": 10,
+                "text": "my sister and my bride."
+              }
+            ],
+            [
+              {
+                "verse": 10,
+                "text": "I enjoy your love even more than I enjoy wine."
+              }
+            ],
+            [
+              {
+                "verse": 10,
+                "text": "Your perfume has a smell"
+              }
+            ],
+            [
+              {
+                "verse": 10,
+                "text": "that is more lovely than any spice!"
+              }
+            ],
+            [
               {
                 "verse": 11,
-                "text": "Your lips are dropping honey; honey and milk are under your tongue; and the smell of your clothing is like the smell of Lebanon."
-              },
+                "text": "Your lips taste very sweet to me, my bride."
+              }
+            ],
+            [
+              {
+                "verse": 11,
+                "text": "They taste like honey that falls from the honeycomb."
+              }
+            ],
+            [
+              {
+                "verse": 11,
+                "text": "Milk and honey are under your tongue."
+              }
+            ],
+            [
+              {
+                "verse": 11,
+                "text": "The smell of your clothes"
+              }
+            ],
+            [
+              {
+                "verse": 11,
+                "text": "is like the cedar trees of Lebanon."
+              }
+            ],
+            [
               {
                 "verse": 12,
-                "text": "A garden walled-in is my sister, my bride; a garden shut up, a spring of water stopped."
+                "text": "My sister and my bride, you are like a garden for me"
+              }
+            ],
+            [
+              {
+                "verse": 12,
+                "text": "that is locked to other men."
+              }
+            ],
+            [
+              {
+                "verse": 12,
+                "text": "You are like a spring or a fountain"
+              }
+            ],
+            [
+              {
+                "verse": 12,
+                "text": "that other people may not drink water from."
               }
             ],
             [
               {
                 "verse": 13,
-                "text": "The produce of the garden is pomegranates; with all the best fruits, henna and spikenard,"
-              },
+                "text": "Your body is like a special garden."
+              }
+            ],
+            [
+              {
+                "verse": 13,
+                "text": "It is full of pomegranate trees with their sweet fruit."
+              }
+            ],
+            [
+              {
+                "verse": 13,
+                "text": "There are wonderful fruits to enjoy."
+              }
+            ],
+            [
+              {
+                "verse": 13,
+                "text": "There are also henna and nard."
+              }
+            ],
+            [
               {
                 "verse": 14,
-                "text": "Spikenard and safron; calamus and cinnamon, with all trees of frankincense; myrrh and aloes, with all the chief spices."
-              },
+                "text": "There are nard, saffron, calamus, cinnamon"
+              }
+            ],
+            [
+              {
+                "verse": 14,
+                "text": "and many different spices."
+              }
+            ],
+            [
+              {
+                "verse": 14,
+                "text": "There are myrrh, aloes"
+              }
+            ],
+            [
+              {
+                "verse": 14,
+                "text": "and all the best spices."
+              }
+            ],
+            [
               {
                 "verse": 15,
-                "text": "You are a fountain of gardens, a spring of living waters, and flowing waters from Lebanon."
-              },
+                "text": "You are like a spring of water in a garden."
+              }
+            ],
+            [
+              {
+                "verse": 15,
+                "text": "You are like a well that has fresh water."
+              }
+            ],
+            [
+              {
+                "verse": 15,
+                "text": "The water runs down from Lebanon's mountains."
+              }
+            ]
+          ]
+        },
+        {
+          "heading": "The young woman:",
+          "items": [
+            [
               {
                 "verse": 16,
-                "text": "Be awake, O north wind; and come, O south, blowing on my garden, so that its spices may come out. Let my loved one come into his garden, and take of his good fruits."
+                "text": "Wake up, north wind! Come now, south wind!"
+              }
+            ],
+            [
+              {
+                "verse": 16,
+                "text": "Blow on my garden!"
+              }
+            ],
+            [
+              {
+                "verse": 16,
+                "text": "Make the sweet smell of its spices move in the air."
+              }
+            ],
+            [
+              {
+                "verse": 16,
+                "text": "May my lover come into his garden now!"
+              }
+            ],
+            [
+              {
+                "verse": 16,
+                "text": "Let him taste its wonderful fruits!"
               }
             ]
           ]
         }
       ],
-      "verses": [
-        {
-          "verse": 1,
-          "text": "See, you are fair, my love, you are fair; you have the eyes of a dove; your hair is as a flock of goats, which take their rest on the side of Gilead."
-        },
-        {
-          "verse": 2,
-          "text": "Your teeth are like a flock of sheep whose wool is newly cut, which come up from the washing; every one has two lambs, and there is not one without young."
-        },
-        {
-          "verse": 3,
-          "text": "Your red lips are like a bright thread, and your mouth is fair of form; the sides of your head are like pomegranate fruit under your veil."
-        },
-        {
-          "verse": 4,
-          "text": "Your neck is like the tower of David made for a store-house of arms, in which a thousand breastplates are hanging, breastplates for fighting-men."
-        },
-        {
-          "verse": 5,
-          "text": "Your two breasts are like two young roes of the same birth, which take their food among the lilies."
-        },
-        {
-          "verse": 6,
-          "text": "Till the evening comes, and the sky slowly becomes dark, I will go to the mountain of myrrh, and to the hill of frankincense."
-        },
-        {
-          "verse": 7,
-          "text": "You are all fair, my love; there is no mark on you."
-        },
-        {
-          "verse": 8,
-          "text": "Come with me from Lebanon, my bride, with me from Lebanon; see from the top of Amana, from the top of Senir and Hermon, from the places of the lions, from the mountains of the leopards."
-        },
-        {
-          "verse": 9,
-          "text": "You have taken away my heart, my sister, my bride; you have taken away my heart, with one look you have taken it, with one chain of your neck!"
-        },
-        {
-          "verse": 10,
-          "text": "How fair is your love, my sister! How much better is your love than wine, and the smell of your oils than any perfume!"
-        },
-        {
-          "verse": 11,
-          "text": "Your lips are dropping honey; honey and milk are under your tongue; and the smell of your clothing is like the smell of Lebanon."
-        },
-        {
-          "verse": 12,
-          "text": "A garden walled-in is my sister, my bride; a garden shut up, a spring of water stopped."
-        },
-        {
-          "verse": 13,
-          "text": "The produce of the garden is pomegranates; with all the best fruits, henna and spikenard,"
-        },
-        {
-          "verse": 14,
-          "text": "Spikenard and safron; calamus and cinnamon, with all trees of frankincense; myrrh and aloes, with all the chief spices."
-        },
-        {
-          "verse": 15,
-          "text": "You are a fountain of gardens, a spring of living waters, and flowing waters from Lebanon."
-        },
-        {
-          "verse": 16,
-          "text": "Be awake, O north wind; and come, O south, blowing on my garden, so that its spices may come out. Let my loved one come into his garden, and take of his good fruits."
-        }
-      ],
-      "totalVerses": 16,
-      "footnotes": []
+      "notes": [
+        "MountGilead is a mountain in Israel, the country where Solomon was king.",
+        "King David was Solomon's father.",
+        "Lebanon, Amana, Senir and Hermon were all places a long way away.",
+        "The man calls her ‘sister’ because now he is part of her family.",
+        "honeycomb is wherebeesmake and keep theirhoney.",
+        "Henna, nard, saffron, calamus, cinnamon,myrrhandaloesare all things that come from plants. Some have bright colours and they may smell likeperfume."
+      ]
     },
     {
-      "book": "Song of Songs",
       "chapter": 5,
       "title": "Song of Songs 5",
-      "subtitle": "Song of Songs Chapter 5",
+      "subtitle": "",
+      "totalVerses": 16,
+      "sourceUrl": "https://www.easyenglish.bible/bible/easy/song-of-songs/5/",
       "sections": [
         {
-          "heading": "Song of Songs Chapter 5",
+          "heading": "The young man:",
           "items": [
             [
               {
                 "verse": 1,
-                "text": "I have come into my garden, my sister, my bride; to take my myrrh with my spice; my wax with my honey; my wine with my milk. Take meat, O friends; take wine, yes, be overcome with love."
-              },
+                "text": "I have come into my garden, my sister, my bride."
+              }
+            ],
+            [
+              {
+                "verse": 1,
+                "text": "I have taken my myrrh with my spice."
+              }
+            ],
+            [
+              {
+                "verse": 1,
+                "text": "I have eaten my honeycomb and my honey."
+              }
+            ],
+            [
+              {
+                "verse": 1,
+                "text": "I have drunk my wine and my milk."
+              }
+            ]
+          ]
+        },
+        {
+          "heading": "The writer:",
+          "items": [
+            [
+              {
+                "verse": 1,
+                "text": "Eat, friends, and drink, you who love each other!"
+              }
+            ],
+            [
+              {
+                "verse": 1,
+                "text": "Drink until you can drink no more!"
+              }
+            ]
+          ]
+        },
+        {
+          "heading": "The young woman:",
+          "items": [
+            [
               {
                 "verse": 2,
-                "text": "I am sleeping, but my heart is awake; it is the sound of my loved one at the door, saying, Be open to me, my sister, my love, my dove, my very beautiful one; my head is wet with dew, and my hair with the drops of the night."
-              },
+                "text": "I slept but my mind was awake."
+              }
+            ],
+            [
+              {
+                "verse": 2,
+                "text": "Listen! My lover is knocking on my door!"
+              }
+            ],
+            [
+              {
+                "verse": 2,
+                "text": "He said, ‘Open the door for me, my dear friend.You are my sister,the perfect one that I love.To me, you are like a beautiful dove. Dew from the night air covers my head.My hair is very wet.’ 3 I said, ‘I have taken off my day clothes.I do not want to dress myself again.I have washed my feet.I do not want them to get dirty again.’ 4 My lover pushed his hand through the hole in the door.My heart began to beat faster because he was near. 5 I got up to open the door for my lover.My hands were wet with myrrh.Myrrh dropped from my fingersonto the handle of the door. 6 I opened the door for my lover,but he had already turned away.He had gone!I was very upset that he had gone away.I looked for him but I did not find him.I called to him but he did not answer me. 7 The city guards found meas they walked in the streets of the city.They beat me and they hurt my body.Those guards on the city walls took away my robe. 8 Young women of Jerusalem,please find my lover!Promise me to tell him this, if you find him.Tell him that my love for him has made me weak!The young women of Jerusalem: 9 Tell us this, most beautiful of all women.Why do you think that your lover is better than other men?Why must we promise to do this for you?The young woman: 10 My lover is very handsome and healthy.He is the greatest man among 10,000 men. 11 His head is like very pure gold.The hairs on his head are like waves.They are black like a raven. 12 His eyes are like doves beside streams of water.They are like doves that someone has washed in milk.They shine like jewels. 13 The sides of his face are like a garden with spice trees.Their smell is like perfume.His lips are like lilieswith myrrh that falls from them. 14 His arms are like bars of goldwith jewels in them.His body shines like bright ivory,with sapphire jewels to make it more beautiful. 15 His legs are like pillars of beautiful stone.They stand on feet that are like pure gold.He stands tall like the mountains of Lebanon.He is as handsome as its best cedar trees. 16 The taste of his mouth is very sweet.Everything about him causes me to love him.I say to you, young women of Jerusalem,this is my lover!This is my true friend."
+              }
+            ],
+            [
+              {
+                "verse": 2,
+                "text": "He said, ‘Open the door for me, my dear friend."
+              }
+            ],
+            [
+              {
+                "verse": 2,
+                "text": "You are my sister,"
+              }
+            ],
+            [
+              {
+                "verse": 2,
+                "text": "the perfect one that I love."
+              }
+            ],
+            [
+              {
+                "verse": 2,
+                "text": "To me, you are like a beautiful dove."
+              }
+            ],
+            [
+              {
+                "verse": 2,
+                "text": "Dew from the night air covers my head."
+              }
+            ],
+            [
+              {
+                "verse": 2,
+                "text": "My hair is very wet.’"
+              }
+            ],
+            [
+              {
+                "verse": 2,
+                "text": "3 I said, ‘I have taken off my day clothes.I do not want to dress myself again.I have washed my feet.I do not want them to get dirty again.’ 4 My lover pushed his hand through the hole in the door.My heart began to beat faster because he was near. 5 I got up to open the door for my lover.My hands were wet with myrrh.Myrrh dropped from my fingersonto the handle of the door. 6 I opened the door for my lover,but he had already turned away.He had gone!I was very upset that he had gone away.I looked for him but I did not find him.I called to him but he did not answer me. 7 The city guards found meas they walked in the streets of the city.They beat me and they hurt my body.Those guards on the city walls took away my robe. 8 Young women of Jerusalem,please find my lover!Promise me to tell him this, if you find him.Tell him that my love for him has made me weak!The young women of Jerusalem: 9 Tell us this, most beautiful of all women.Why do you think that your lover is better than other men?Why must we promise to do this for you?The young woman: 10 My lover is very handsome and healthy.He is the greatest man among 10,000 men. 11 His head is like very pure gold.The hairs on his head are like waves.They are black like a raven. 12 His eyes are like doves beside streams of water.They are like doves that someone has washed in milk.They shine like jewels. 13 The sides of his face are like a garden with spice trees.Their smell is like perfume.His lips are like lilieswith myrrh that falls from them. 14 His arms are like bars of goldwith jewels in them.His body shines like bright ivory,with sapphire jewels to make it more beautiful. 15 His legs are like pillars of beautiful stone.They stand on feet that are like pure gold.He stands tall like the mountains of Lebanon.He is as handsome as its best cedar trees. 16 The taste of his mouth is very sweet.Everything about him causes me to love him.I say to you, young women of Jerusalem,this is my lover!This is my true friend."
+              }
+            ],
+            [
               {
                 "verse": 3,
-                "text": "I have put off my coat; how may I put it on? My feet are washed; how may I make them unclean?"
-              },
+                "text": "I said, ‘I have taken off my day clothes."
+              }
+            ],
+            [
+              {
+                "verse": 3,
+                "text": "I do not want to dress myself again."
+              }
+            ],
+            [
+              {
+                "verse": 3,
+                "text": "I have washed my feet."
+              }
+            ],
+            [
+              {
+                "verse": 3,
+                "text": "I do not want them to get dirty again.’"
+              }
+            ],
+            [
+              {
+                "verse": 3,
+                "text": "4 My lover pushed his hand through the hole in the door.My heart began to beat faster because he was near. 5 I got up to open the door for my lover.My hands were wet with myrrh.Myrrh dropped from my fingersonto the handle of the door. 6 I opened the door for my lover,but he had already turned away.He had gone!I was very upset that he had gone away.I looked for him but I did not find him.I called to him but he did not answer me. 7 The city guards found meas they walked in the streets of the city.They beat me and they hurt my body.Those guards on the city walls took away my robe. 8 Young women of Jerusalem,please find my lover!Promise me to tell him this, if you find him.Tell him that my love for him has made me weak!The young women of Jerusalem: 9 Tell us this, most beautiful of all women.Why do you think that your lover is better than other men?Why must we promise to do this for you?The young woman: 10 My lover is very handsome and healthy.He is the greatest man among 10,000 men. 11 His head is like very pure gold.The hairs on his head are like waves.They are black like a raven. 12 His eyes are like doves beside streams of water.They are like doves that someone has washed in milk.They shine like jewels. 13 The sides of his face are like a garden with spice trees.Their smell is like perfume.His lips are like lilieswith myrrh that falls from them. 14 His arms are like bars of goldwith jewels in them.His body shines like bright ivory,with sapphire jewels to make it more beautiful. 15 His legs are like pillars of beautiful stone.They stand on feet that are like pure gold.He stands tall like the mountains of Lebanon.He is as handsome as its best cedar trees. 16 The taste of his mouth is very sweet.Everything about him causes me to love him.I say to you, young women of Jerusalem,this is my lover!This is my true friend."
+              }
+            ],
+            [
               {
                 "verse": 4,
-                "text": "My loved one put his hand on the door, and my heart was moved for him."
+                "text": "My lover pushed his hand through the hole in the door."
+              }
+            ],
+            [
+              {
+                "verse": 4,
+                "text": "My heart began to beat faster because he was near."
               }
             ],
             [
               {
                 "verse": 5,
-                "text": "I got up to let my loved one in; and my hands were dropping with myrrh, and my fingers with liquid myrrh, on the lock of the door."
-              },
+                "text": "I got up to open the door for my lover."
+              }
+            ],
+            [
+              {
+                "verse": 5,
+                "text": "My hands were wet with myrrh."
+              }
+            ],
+            [
+              {
+                "verse": 5,
+                "text": "Myrrh dropped from my fingers"
+              }
+            ],
+            [
+              {
+                "verse": 5,
+                "text": "onto the handle of the door."
+              }
+            ],
+            [
               {
                 "verse": 6,
-                "text": "I made the door open to my loved one; but my loved one had taken himself away, and was gone, my soul was feeble when his back was turned on me; I went after him, but I did not come near him; I said his name, but he gave me no answer."
-              },
+                "text": "I opened the door for my lover,"
+              }
+            ],
+            [
+              {
+                "verse": 6,
+                "text": "but he had already turned away."
+              }
+            ],
+            [
+              {
+                "verse": 6,
+                "text": "He had gone!"
+              }
+            ],
+            [
+              {
+                "verse": 6,
+                "text": "I was very upset that he had gone away."
+              }
+            ],
+            [
+              {
+                "verse": 6,
+                "text": "I looked for him but I did not find him."
+              }
+            ],
+            [
+              {
+                "verse": 6,
+                "text": "I called to him but he did not answer me."
+              }
+            ],
+            [
               {
                 "verse": 7,
-                "text": "The keepers who go about the town overtook me; they gave me blows and wounds; the keepers of the walls took away my veil from me."
-              },
+                "text": "The city guards found me"
+              }
+            ],
+            [
+              {
+                "verse": 7,
+                "text": "as they walked in the streets of the city."
+              }
+            ],
+            [
+              {
+                "verse": 7,
+                "text": "They beat me and they hurt my body."
+              }
+            ],
+            [
+              {
+                "verse": 7,
+                "text": "Those guards on the city walls took away my robe."
+              }
+            ],
+            [
+              {
+                "verse": 7,
+                "text": "8 Young women of Jerusalem,please find my lover!Promise me to tell him this, if you find him.Tell him that my love for him has made me weak!The young women of Jerusalem: 9 Tell us this, most beautiful of all women.Why do you think that your lover is better than other men?Why must we promise to do this for you?The young woman: 10 My lover is very handsome and healthy.He is the greatest man among 10,000 men. 11 His head is like very pure gold.The hairs on his head are like waves.They are black like a raven. 12 His eyes are like doves beside streams of water.They are like doves that someone has washed in milk.They shine like jewels. 13 The sides of his face are like a garden with spice trees.Their smell is like perfume.His lips are like lilieswith myrrh that falls from them. 14 His arms are like bars of goldwith jewels in them.His body shines like bright ivory,with sapphire jewels to make it more beautiful. 15 His legs are like pillars of beautiful stone.They stand on feet that are like pure gold.He stands tall like the mountains of Lebanon.He is as handsome as its best cedar trees. 16 The taste of his mouth is very sweet.Everything about him causes me to love him.I say to you, young women of Jerusalem,this is my lover!This is my true friend."
+              }
+            ],
+            [
               {
                 "verse": 8,
-                "text": "I say to you, O daughters of Jerusalem, if you see my loved one, what will you say to him? That I am overcome with love."
+                "text": "Young women of Jerusalem,"
+              }
+            ],
+            [
+              {
+                "verse": 8,
+                "text": "please find my lover!"
+              }
+            ],
+            [
+              {
+                "verse": 8,
+                "text": "Promise me to tell him this, if you find him."
+              }
+            ],
+            [
+              {
+                "verse": 8,
+                "text": "Tell him that my love for him has made me weak!"
+              }
+            ]
+          ]
+        },
+        {
+          "heading": "The young women of Jerusalem:",
+          "items": [
+            [
+              {
+                "verse": 9,
+                "text": "Tell us this, most beautiful of all women."
               }
             ],
             [
               {
                 "verse": 9,
-                "text": "What is your loved one more than another, O fairest among women? What is your loved one more than another, that you say this to us?"
-              },
+                "text": "Why do you think that your lover is better than other men?"
+              }
+            ],
+            [
+              {
+                "verse": 9,
+                "text": "Why must we promise to do this for you?"
+              }
+            ]
+          ]
+        },
+        {
+          "heading": "The young woman:",
+          "items": [
+            [
               {
                 "verse": 10,
-                "text": "My loved one is white and red, the chief among ten thousand."
-              },
+                "text": "My lover is very handsome and healthy."
+              }
+            ],
+            [
+              {
+                "verse": 10,
+                "text": "He is the greatest man among 10,000 men."
+              }
+            ],
+            [
               {
                 "verse": 11,
-                "text": "His head is as the most delicate gold; his hair is thick, and black as a raven."
-              },
+                "text": "His head is like very pure gold."
+              }
+            ],
+            [
+              {
+                "verse": 11,
+                "text": "The hairs on his head are like waves."
+              }
+            ],
+            [
+              {
+                "verse": 11,
+                "text": "They are black like a raven."
+              }
+            ],
+            [
               {
                 "verse": 12,
-                "text": "His eyes are as the eyes of doves by the water streams, washed with milk, and rightly placed."
+                "text": "His eyes are like doves beside streams of water."
+              }
+            ],
+            [
+              {
+                "verse": 12,
+                "text": "They are like doves that someone has washed in milk."
+              }
+            ],
+            [
+              {
+                "verse": 12,
+                "text": "They shine like jewels."
               }
             ],
             [
               {
                 "verse": 13,
-                "text": "His face is as beds of spices, giving out perfumes of every sort; his lips like lilies, dropping liquid myrrh."
-              },
+                "text": "The sides of his face are like a garden with spice trees."
+              }
+            ],
+            [
+              {
+                "verse": 13,
+                "text": "Their smell is like perfume."
+              }
+            ],
+            [
+              {
+                "verse": 13,
+                "text": "His lips are like lilies"
+              }
+            ],
+            [
+              {
+                "verse": 13,
+                "text": "with myrrh that falls from them."
+              }
+            ],
+            [
               {
                 "verse": 14,
-                "text": "His hands are as rings of gold ornamented with beryl-stones; his body is as a smooth plate of ivory covered with sapphires."
-              },
+                "text": "His arms are like bars of gold"
+              }
+            ],
+            [
+              {
+                "verse": 14,
+                "text": "with jewels in them."
+              }
+            ],
+            [
+              {
+                "verse": 14,
+                "text": "His body shines like bright ivory,"
+              }
+            ],
+            [
+              {
+                "verse": 14,
+                "text": "with sapphire jewels to make it more beautiful."
+              }
+            ],
+            [
               {
                 "verse": 15,
-                "text": "His legs are as pillars of stone on a base of delicate gold; his looks are as Lebanon, beautiful as the cedar-tree."
-              },
+                "text": "His legs are like pillars of beautiful stone."
+              }
+            ],
+            [
+              {
+                "verse": 15,
+                "text": "They stand on feet that are like pure gold."
+              }
+            ],
+            [
+              {
+                "verse": 15,
+                "text": "He stands tall like the mountains of Lebanon."
+              }
+            ],
+            [
+              {
+                "verse": 15,
+                "text": "He is as handsome as its best cedar trees."
+              }
+            ],
+            [
               {
                 "verse": 16,
-                "text": "His mouth is most sweet; yes, he is all beautiful. This is my loved one, and this is my friend, O daughters of Jerusalem."
+                "text": "The taste of his mouth is very sweet."
+              }
+            ],
+            [
+              {
+                "verse": 16,
+                "text": "Everything about him causes me to love him."
+              }
+            ],
+            [
+              {
+                "verse": 16,
+                "text": "I say to you, young women of Jerusalem,this is my lover!This is my true friend."
+              }
+            ],
+            [
+              {
+                "verse": 16,
+                "text": "I say to you, young women of Jerusalem,"
+              }
+            ],
+            [
+              {
+                "verse": 16,
+                "text": "this is my lover!"
+              }
+            ],
+            [
+              {
+                "verse": 16,
+                "text": "This is my true friend."
               }
             ]
           ]
         }
       ],
-      "verses": [
-        {
-          "verse": 1,
-          "text": "I have come into my garden, my sister, my bride; to take my myrrh with my spice; my wax with my honey; my wine with my milk. Take meat, O friends; take wine, yes, be overcome with love."
-        },
-        {
-          "verse": 2,
-          "text": "I am sleeping, but my heart is awake; it is the sound of my loved one at the door, saying, Be open to me, my sister, my love, my dove, my very beautiful one; my head is wet with dew, and my hair with the drops of the night."
-        },
-        {
-          "verse": 3,
-          "text": "I have put off my coat; how may I put it on? My feet are washed; how may I make them unclean?"
-        },
-        {
-          "verse": 4,
-          "text": "My loved one put his hand on the door, and my heart was moved for him."
-        },
-        {
-          "verse": 5,
-          "text": "I got up to let my loved one in; and my hands were dropping with myrrh, and my fingers with liquid myrrh, on the lock of the door."
-        },
-        {
-          "verse": 6,
-          "text": "I made the door open to my loved one; but my loved one had taken himself away, and was gone, my soul was feeble when his back was turned on me; I went after him, but I did not come near him; I said his name, but he gave me no answer."
-        },
-        {
-          "verse": 7,
-          "text": "The keepers who go about the town overtook me; they gave me blows and wounds; the keepers of the walls took away my veil from me."
-        },
-        {
-          "verse": 8,
-          "text": "I say to you, O daughters of Jerusalem, if you see my loved one, what will you say to him? That I am overcome with love."
-        },
-        {
-          "verse": 9,
-          "text": "What is your loved one more than another, O fairest among women? What is your loved one more than another, that you say this to us?"
-        },
-        {
-          "verse": 10,
-          "text": "My loved one is white and red, the chief among ten thousand."
-        },
-        {
-          "verse": 11,
-          "text": "His head is as the most delicate gold; his hair is thick, and black as a raven."
-        },
-        {
-          "verse": 12,
-          "text": "His eyes are as the eyes of doves by the water streams, washed with milk, and rightly placed."
-        },
-        {
-          "verse": 13,
-          "text": "His face is as beds of spices, giving out perfumes of every sort; his lips like lilies, dropping liquid myrrh."
-        },
-        {
-          "verse": 14,
-          "text": "His hands are as rings of gold ornamented with beryl-stones; his body is as a smooth plate of ivory covered with sapphires."
-        },
-        {
-          "verse": 15,
-          "text": "His legs are as pillars of stone on a base of delicate gold; his looks are as Lebanon, beautiful as the cedar-tree."
-        },
-        {
-          "verse": 16,
-          "text": "His mouth is most sweet; yes, he is all beautiful. This is my loved one, and this is my friend, O daughters of Jerusalem."
-        }
-      ],
-      "totalVerses": 16,
-      "footnotes": []
+      "notes": [
+        "The woman sleeps and she has another dream."
+      ]
     },
     {
-      "book": "Song of Songs",
       "chapter": 6,
       "title": "Song of Songs 6",
-      "subtitle": "Song of Songs Chapter 6",
+      "subtitle": "",
+      "totalVerses": 13,
+      "sourceUrl": "https://www.easyenglish.bible/bible/easy/song-of-songs/6/",
       "sections": [
         {
-          "heading": "Song of Songs Chapter 6",
+          "heading": "The young women of Jerusalem:",
           "items": [
             [
               {
                 "verse": 1,
-                "text": "Where is your loved one gone, O most fair among women? Where is your loved one turned away, that we may go looking for him with you?"
-              },
+                "text": "Tell us this, most beautiful of all women."
+              }
+            ],
+            [
+              {
+                "verse": 1,
+                "text": "Where has your lover gone?"
+              }
+            ],
+            [
+              {
+                "verse": 1,
+                "text": "Which way did he go?"
+              }
+            ],
+            [
+              {
+                "verse": 1,
+                "text": "Tell us, so that we can look for him with you."
+              }
+            ]
+          ]
+        },
+        {
+          "heading": "The young woman:",
+          "items": [
+            [
               {
                 "verse": 2,
-                "text": "My loved one is gone down into his garden, to the beds of spices, to take food in the gardens, and to get lilies."
-              },
+                "text": "My lover has gone down to his garden."
+              }
+            ],
+            [
+              {
+                "verse": 2,
+                "text": "He has gone to his garden of spice trees."
+              }
+            ],
+            [
+              {
+                "verse": 2,
+                "text": "He has gone there to walk in the gardens"
+              }
+            ],
+            [
+              {
+                "verse": 2,
+                "text": "and to pick lilies."
+              }
+            ],
+            [
+              {
+                "verse": 2,
+                "text": "3 My lover belongs to me,and I belong to him.He moves among the lilies with his sheep.The young man praises the young womanThe young man: 4 My dear friend, you are as beautiful as Tirzah.You are as lovely as Jerusalem.6:4You are as wonderful as an army that is waving its flags. 5 Turn your eyes away from me.They give me pleasure that is too strong for me!Your hair is like a group of goatsthat are coming down from Mount Gilead. 6 Your teeth are very whitelike a group of clean sheep that is coming from the pool of water.Each tooth is one of a pair.Not one of them is alone. 7 The sides of your face are beautiful,like the halves of a pomegranate.I see them through your veil. 8 A king may have 60 queens.He may have 80 slave wives.He may have many other young women too.There may be too many for him to count! 9 But there is only one woman that I want.Nobody is like her in any way.She is my perfect one, as lovely as a dove.She is the special daughter of her mother.Her mother loves her best among all her children.The young women saw her and they praised her.The queens and the slave wives also praised her. 10 They said, ‘She is like the light that appears at dawn.She is as beautiful as the moon.She is as bright as the sun.She is as wonderful as the stars that shine brightly in their places.’ 11 I went down to the garden of walnut trees.6:11I wanted to see the new plants that were growing in the valley;to see if the vines had new leaves now;to see if the pomegranate trees had flowers. 12 I became so happythat I did not understand what was happening.I knew that I wanted to be with her.I felt that I was riding with the king's men in their chariots.The young women of Jerusalem: 13 Come back, come back, young woman from Shulam!Yes, come back,so that we can look at you again.The young man:Why do you want to look at the young woman from Shulam?Do not look at her as if she is dancing the dance of Mahanaim.6:13"
+              }
+            ],
+            [
               {
                 "verse": 3,
-                "text": "I am for my loved one, and my loved one is for me; he takes food among the lilies."
-              },
+                "text": "My lover belongs to me,"
+              }
+            ],
+            [
+              {
+                "verse": 3,
+                "text": "and I belong to him."
+              }
+            ],
+            [
+              {
+                "verse": 3,
+                "text": "He moves among the lilies with his sheep."
+              }
+            ]
+          ]
+        },
+        {
+          "heading": "The young man:",
+          "items": [
+            [
               {
                 "verse": 4,
-                "text": "You are beautiful, O my love, as Tirzah, as fair as Jerusalem; you are to be feared like an army with flags."
+                "text": "My dear friend, you are as beautiful as Tirzah."
+              }
+            ],
+            [
+              {
+                "verse": 4,
+                "text": "You are as lovely as Jerusalem."
+              }
+            ],
+            [
+              {
+                "verse": 4,
+                "text": "You are as wonderful as an army that is waving its flags."
               }
             ],
             [
               {
                 "verse": 5,
-                "text": "Let your eyes be turned away from me; see, they have overcome me; your hair is as a flock of goats which take their rest on the side of Gilead."
-              },
+                "text": "Turn your eyes away from me."
+              }
+            ],
+            [
+              {
+                "verse": 5,
+                "text": "They give me pleasure that is too strong for me!"
+              }
+            ],
+            [
+              {
+                "verse": 5,
+                "text": "Your hair is like a group of goats"
+              }
+            ],
+            [
+              {
+                "verse": 5,
+                "text": "that are coming down from Mount Gilead."
+              }
+            ],
+            [
               {
                 "verse": 6,
-                "text": "Your teeth are like a flock of sheep which come up from the washing; every one has two lambs, and there is not one without young."
-              },
+                "text": "Your teeth are very white"
+              }
+            ],
+            [
+              {
+                "verse": 6,
+                "text": "like a group of clean sheep that is coming from the pool of water."
+              }
+            ],
+            [
+              {
+                "verse": 6,
+                "text": "Each tooth is one of a pair."
+              }
+            ],
+            [
+              {
+                "verse": 6,
+                "text": "Not one of them is alone."
+              }
+            ],
+            [
               {
                 "verse": 7,
-                "text": "Like pomegranate fruit are the sides of your head under your veil."
-              },
+                "text": "The sides of your face are beautiful,"
+              }
+            ],
+            [
+              {
+                "verse": 7,
+                "text": "like the halves of a pomegranate."
+              }
+            ],
+            [
+              {
+                "verse": 7,
+                "text": "I see them through your veil."
+              }
+            ],
+            [
+              {
+                "verse": 7,
+                "text": "8 A king may have 60 queens.He may have 80 slave wives.He may have many other young women too.There may be too many for him to count! 9 But there is only one woman that I want.Nobody is like her in any way.She is my perfect one, as lovely as a dove.She is the special daughter of her mother.Her mother loves her best among all her children.The young women saw her and they praised her.The queens and the slave wives also praised her. 10 They said, ‘She is like the light that appears at dawn.She is as beautiful as the moon.She is as bright as the sun.She is as wonderful as the stars that shine brightly in their places.’ 11 I went down to the garden of walnut trees.6:11I wanted to see the new plants that were growing in the valley;to see if the vines had new leaves now;to see if the pomegranate trees had flowers. 12 I became so happythat I did not understand what was happening.I knew that I wanted to be with her.I felt that I was riding with the king's men in their chariots.The young women of Jerusalem: 13 Come back, come back, young woman from Shulam!Yes, come back,so that we can look at you again.The young man:Why do you want to look at the young woman from Shulam?Do not look at her as if she is dancing the dance of Mahanaim.6:13"
+              }
+            ],
+            [
               {
                 "verse": 8,
-                "text": "There are sixty queens, and eighty servant-wives, and young girls without number."
+                "text": "A king may have 60 queens."
+              }
+            ],
+            [
+              {
+                "verse": 8,
+                "text": "He may have 80 slave wives."
+              }
+            ],
+            [
+              {
+                "verse": 8,
+                "text": "He may have many other young women too."
+              }
+            ],
+            [
+              {
+                "verse": 8,
+                "text": "There may be too many for him to count!"
               }
             ],
             [
               {
                 "verse": 9,
-                "text": "My dove, my very beautiful one, is but one; she is the only one of her mother, she is the dearest one of her who gave her birth. The daughters saw her, and gave her a blessing; yes, the queens and the servant-wives, and they gave her praises."
-              },
+                "text": "But there is only one woman that I want."
+              }
+            ],
+            [
+              {
+                "verse": 9,
+                "text": "Nobody is like her in any way."
+              }
+            ],
+            [
+              {
+                "verse": 9,
+                "text": "She is my perfect one, as lovely as a dove."
+              }
+            ],
+            [
+              {
+                "verse": 9,
+                "text": "She is the special daughter of her mother."
+              }
+            ],
+            [
+              {
+                "verse": 9,
+                "text": "Her mother loves her best among all her children."
+              }
+            ],
+            [
+              {
+                "verse": 9,
+                "text": "The young women saw her and they praised her."
+              }
+            ],
+            [
+              {
+                "verse": 9,
+                "text": "The queens and the slave wives also praised her."
+              }
+            ],
+            [
               {
                 "verse": 10,
-                "text": "Who is she, looking down as the morning light, fair as the moon, clear as the sun, who is to be feared like an army with flags?"
-              },
+                "text": "They said, ‘She is like the light that appears at dawn."
+              }
+            ],
+            [
+              {
+                "verse": 10,
+                "text": "She is as beautiful as the moon."
+              }
+            ],
+            [
+              {
+                "verse": 10,
+                "text": "She is as bright as the sun."
+              }
+            ],
+            [
+              {
+                "verse": 10,
+                "text": "She is as wonderful as the stars that shine brightly in their places.’"
+              }
+            ],
+            [
+              {
+                "verse": 10,
+                "text": "11 I went down to the garden of walnut trees.6:11I wanted to see the new plants that were growing in the valley;to see if the vines had new leaves now;to see if the pomegranate trees had flowers. 12 I became so happythat I did not understand what was happening.I knew that I wanted to be with her.I felt that I was riding with the king's men in their chariots.The young women of Jerusalem: 13 Come back, come back, young woman from Shulam!Yes, come back,so that we can look at you again.The young man:Why do you want to look at the young woman from Shulam?Do not look at her as if she is dancing the dance of Mahanaim.6:13"
+              }
+            ],
+            [
               {
                 "verse": 11,
-                "text": "I went down into the garden of nuts to see the green plants of the valley, and to see if the vine was in bud, and the pomegranate-trees were in flower."
-              },
+                "text": "I went down to the garden of walnut trees."
+              }
+            ],
+            [
+              {
+                "verse": 11,
+                "text": "I wanted to see the new plants that were growing in the valley;"
+              }
+            ],
+            [
+              {
+                "verse": 11,
+                "text": "to see if the vines had new leaves now;"
+              }
+            ],
+            [
+              {
+                "verse": 11,
+                "text": "to see if the pomegranate trees had flowers."
+              }
+            ],
+            [
               {
                 "verse": 12,
-                "text": "Before I was conscious of it, ..."
+                "text": "I became so happy"
+              }
+            ],
+            [
+              {
+                "verse": 12,
+                "text": "that I did not understand what was happening."
+              }
+            ],
+            [
+              {
+                "verse": 12,
+                "text": "I knew that I wanted to be with her."
+              }
+            ],
+            [
+              {
+                "verse": 12,
+                "text": "I felt that I was riding with the king's men in their chariots."
+              }
+            ]
+          ]
+        },
+        {
+          "heading": "The young women of Jerusalem:",
+          "items": [
+            [
+              {
+                "verse": 13,
+                "text": "Come back, come back, young woman from Shulam!"
               }
             ],
             [
               {
                 "verse": 13,
-                "text": "Come back, come back, O Shulammite; come back, come back, so that our eyes may see you. What will you see in the Shulammite? A sword-dance."
+                "text": "Yes, come back,"
+              }
+            ],
+            [
+              {
+                "verse": 13,
+                "text": "so that we can look at you again."
+              }
+            ]
+          ]
+        },
+        {
+          "heading": "The young man:",
+          "items": [
+            [
+              {
+                "verse": 13,
+                "text": "Why do you want to look at the young woman from Shulam?"
+              }
+            ],
+            [
+              {
+                "verse": 13,
+                "text": "Do not look at her as if she is dancing the dance of Mahanaim."
               }
             ]
           ]
         }
       ],
-      "verses": [
-        {
-          "verse": 1,
-          "text": "Where is your loved one gone, O most fair among women? Where is your loved one turned away, that we may go looking for him with you?"
-        },
-        {
-          "verse": 2,
-          "text": "My loved one is gone down into his garden, to the beds of spices, to take food in the gardens, and to get lilies."
-        },
-        {
-          "verse": 3,
-          "text": "I am for my loved one, and my loved one is for me; he takes food among the lilies."
-        },
-        {
-          "verse": 4,
-          "text": "You are beautiful, O my love, as Tirzah, as fair as Jerusalem; you are to be feared like an army with flags."
-        },
-        {
-          "verse": 5,
-          "text": "Let your eyes be turned away from me; see, they have overcome me; your hair is as a flock of goats which take their rest on the side of Gilead."
-        },
-        {
-          "verse": 6,
-          "text": "Your teeth are like a flock of sheep which come up from the washing; every one has two lambs, and there is not one without young."
-        },
-        {
-          "verse": 7,
-          "text": "Like pomegranate fruit are the sides of your head under your veil."
-        },
-        {
-          "verse": 8,
-          "text": "There are sixty queens, and eighty servant-wives, and young girls without number."
-        },
-        {
-          "verse": 9,
-          "text": "My dove, my very beautiful one, is but one; she is the only one of her mother, she is the dearest one of her who gave her birth. The daughters saw her, and gave her a blessing; yes, the queens and the servant-wives, and they gave her praises."
-        },
-        {
-          "verse": 10,
-          "text": "Who is she, looking down as the morning light, fair as the moon, clear as the sun, who is to be feared like an army with flags?"
-        },
-        {
-          "verse": 11,
-          "text": "I went down into the garden of nuts to see the green plants of the valley, and to see if the vine was in bud, and the pomegranate-trees were in flower."
-        },
-        {
-          "verse": 12,
-          "text": "Before I was conscious of it, ..."
-        },
-        {
-          "verse": 13,
-          "text": "Come back, come back, O Shulammite; come back, come back, so that our eyes may see you. What will you see in the Shulammite? A sword-dance."
-        }
-      ],
-      "totalVerses": 13,
-      "footnotes": []
+      "notes": [
+        "Tirzah and Jerusalem are both beautiful capital cities.",
+        "Walnuts are a kind of hard seeds (nuts) that people eat.",
+        "Mahanaim is the name of a place which means ‘two armies’. King David made acampthere for his soldiers before they fought against their enemy."
+      ]
     },
     {
-      "book": "Song of Songs",
       "chapter": 7,
       "title": "Song of Songs 7",
-      "subtitle": "Song of Songs Chapter 7",
+      "subtitle": "",
+      "totalVerses": 13,
+      "sourceUrl": "https://www.easyenglish.bible/bible/easy/song-of-songs/7/",
       "sections": [
         {
-          "heading": "Song of Songs Chapter 7",
+          "heading": "The young man:",
           "items": [
             [
               {
                 "verse": 1,
-                "text": "How beautiful are your feet in their shoes, O king's daughter! The curves of your legs are like jewels, the work of the hands of a good workman:"
-              },
+                "text": "Your feet are very beautiful in sandals,"
+              }
+            ],
+            [
+              {
+                "verse": 1,
+                "text": "my princess!"
+              }
+            ],
+            [
+              {
+                "verse": 1,
+                "text": "Your round hips are as beautiful as jewels"
+              }
+            ],
+            [
+              {
+                "verse": 1,
+                "text": "that a clever worker has made."
+              }
+            ],
+            [
               {
                 "verse": 2,
-                "text": "Your stomach is a store of grain with lilies round it, and in the middle a round cup full of wine."
-              },
+                "text": "Your navel is like a round bowl"
+              }
+            ],
+            [
+              {
+                "verse": 2,
+                "text": "that is always full of good wine."
+              }
+            ],
+            [
+              {
+                "verse": 2,
+                "text": "Your stomach is like a round heap of wheat"
+              }
+            ],
+            [
+              {
+                "verse": 2,
+                "text": "with lilies around the edge."
+              }
+            ],
+            [
               {
                 "verse": 3,
-                "text": "Your two breasts are like two young roes of the same birth."
-              },
+                "text": "Your breasts are like two young gazelles"
+              }
+            ],
+            [
+              {
+                "verse": 3,
+                "text": "that are twins."
+              }
+            ],
+            [
               {
                 "verse": 4,
-                "text": "Your neck is as a tower of ivory; your eyes like the waters in Heshbon, by the doorway of Bath-rabbim; your nose is as the tower on Lebanon looking over Damascus:"
+                "text": "Your neck is like an ivory tower."
+              }
+            ],
+            [
+              {
+                "verse": 4,
+                "text": "Your eyes shine like the pools in Heshbon"
+              }
+            ],
+            [
+              {
+                "verse": 4,
+                "text": "that are near the Bath Rabbim gate."
+              }
+            ],
+            [
+              {
+                "verse": 4,
+                "text": "Your nose is like the tower of Lebanon"
+              }
+            ],
+            [
+              {
+                "verse": 4,
+                "text": "that looks towards Damascus."
               }
             ],
             [
               {
                 "verse": 5,
-                "text": "Your head is like Carmel, and the hair of your head is like purple, in whose net the king is prisoner."
-              },
+                "text": "Your head stands tall on you, like Mount Carmel."
+              }
+            ],
+            [
+              {
+                "verse": 5,
+                "text": "Your long hair hangs down like a royal cloth."
+              }
+            ],
+            [
+              {
+                "verse": 5,
+                "text": "It is so beautiful that it can make the king its prisoner!"
+              }
+            ],
+            [
               {
                 "verse": 6,
-                "text": "How beautiful and how sweet you are, O love, for delight."
-              },
+                "text": "You are very beautiful, my dear friend,"
+              }
+            ],
+            [
+              {
+                "verse": 6,
+                "text": "and I love you."
+              }
+            ],
+            [
+              {
+                "verse": 6,
+                "text": "You give a lot of pleasure to me."
+              }
+            ],
+            [
+              {
+                "verse": 6,
+                "text": "7 You stand like a tall palm tree.Your breasts are like bunches of fruit that hang from the tree.7:7 8 I said, ‘I will climb the palm tree.I will take hold of its fruit.’For me, your breasts are like bunches of grapes.Your breath is like the sweet smell of apples. 9 For me, your mouth has the taste of the best wine.The young woman wants to be with her loverThe young woman:May the wine pour out for my lover.May it pour over his lips and his teeth. 10 I belong to my lover,and he wants to be with me! 11 Come with me now, my lover!Let us go and walk through the fields.We can stay in the villages for the night. 12 We can get up early in the morningand go to the vineyards.We can see if the vines have started to make new leaves.We can see if their flowers have opened.We can see if the pomegranate trees have flowers.When we are thereI will give my love to you. 13 The mandrake plants send out their sweet smell.At our door, there are many good things to eat.7:13I have stored many good things that are both old and new.I have kept them all for you, my lover."
+              }
+            ],
+            [
               {
                 "verse": 7,
-                "text": "You are tall like a palm-tree, and your breasts are like the fruit of the vine."
-              },
+                "text": "You stand like a tall palm tree."
+              }
+            ],
+            [
+              {
+                "verse": 7,
+                "text": "Your breasts are like bunches of fruit that hang from the tree."
+              }
+            ],
+            [
               {
                 "verse": 8,
-                "text": "I said, Let me go up the palm-tree, and let me take its branches in my hands: your breasts will be as the fruit of the vine, and the smell of your breath like apples;"
+                "text": "I said, ‘I will climb the palm tree."
+              }
+            ],
+            [
+              {
+                "verse": 8,
+                "text": "I will take hold of its fruit.’"
+              }
+            ],
+            [
+              {
+                "verse": 8,
+                "text": "For me, your breasts are like bunches of grapes."
+              }
+            ],
+            [
+              {
+                "verse": 8,
+                "text": "Your breath is like the sweet smell of apples."
               }
             ],
             [
               {
                 "verse": 9,
-                "text": "And the roof of your mouth like good wine flowing down smoothly for my loved one, moving gently over my lips and my teeth."
-              },
+                "text": "For me, your mouth has the taste of the best wine."
+              }
+            ]
+          ]
+        },
+        {
+          "heading": "The young woman:",
+          "items": [
+            [
+              {
+                "verse": 9,
+                "text": "May the wine pour out for my lover."
+              }
+            ],
+            [
+              {
+                "verse": 9,
+                "text": "May it pour over his lips and his teeth."
+              }
+            ],
+            [
               {
                 "verse": 10,
-                "text": "I am for my loved one, and his desire is for me."
-              },
+                "text": "I belong to my lover,"
+              }
+            ],
+            [
+              {
+                "verse": 10,
+                "text": "and he wants to be with me!"
+              }
+            ],
+            [
+              {
+                "verse": 10,
+                "text": "11 Come with me now, my lover!Let us go and walk through the fields.We can stay in the villages for the night. 12 We can get up early in the morningand go to the vineyards.We can see if the vines have started to make new leaves.We can see if their flowers have opened.We can see if the pomegranate trees have flowers.When we are thereI will give my love to you. 13 The mandrake plants send out their sweet smell.At our door, there are many good things to eat.7:13I have stored many good things that are both old and new.I have kept them all for you, my lover."
+              }
+            ],
+            [
               {
                 "verse": 11,
-                "text": "Come, my loved one, let us go out into the field; let us take rest among the cypress-trees."
-              },
+                "text": "Come with me now, my lover!"
+              }
+            ],
+            [
+              {
+                "verse": 11,
+                "text": "Let us go and walk through the fields."
+              }
+            ],
+            [
+              {
+                "verse": 11,
+                "text": "We can stay in the villages for the night."
+              }
+            ],
+            [
               {
                 "verse": 12,
-                "text": "Let us go out early to the vine-gardens; let us see if the vine is in bud, if it has put out its young fruit, and the pomegranate is in flower. There I will give you my love."
+                "text": "We can get up early in the morning"
+              }
+            ],
+            [
+              {
+                "verse": 12,
+                "text": "and go to the vineyards."
+              }
+            ],
+            [
+              {
+                "verse": 12,
+                "text": "We can see if the vines have started to make new leaves."
+              }
+            ],
+            [
+              {
+                "verse": 12,
+                "text": "We can see if their flowers have opened."
+              }
+            ],
+            [
+              {
+                "verse": 12,
+                "text": "We can see if the pomegranate trees have flowers."
+              }
+            ],
+            [
+              {
+                "verse": 12,
+                "text": "When we are there"
+              }
+            ],
+            [
+              {
+                "verse": 12,
+                "text": "I will give my love to you."
               }
             ],
             [
               {
                 "verse": 13,
-                "text": "The mandrakes give out a sweet smell, and at our doors are all sorts of good fruits, new and old, which I have kept for my loved one."
+                "text": "The mandrake plants send out their sweet smell."
+              }
+            ],
+            [
+              {
+                "verse": 13,
+                "text": "At our door, there are many good things to eat."
+              }
+            ],
+            [
+              {
+                "verse": 13,
+                "text": "I have stored many good things that are both old and new."
+              }
+            ],
+            [
+              {
+                "verse": 13,
+                "text": "I have kept them all for you, my lover."
               }
             ]
           ]
         }
       ],
-      "verses": [
-        {
-          "verse": 1,
-          "text": "How beautiful are your feet in their shoes, O king's daughter! The curves of your legs are like jewels, the work of the hands of a good workman:"
-        },
-        {
-          "verse": 2,
-          "text": "Your stomach is a store of grain with lilies round it, and in the middle a round cup full of wine."
-        },
-        {
-          "verse": 3,
-          "text": "Your two breasts are like two young roes of the same birth."
-        },
-        {
-          "verse": 4,
-          "text": "Your neck is as a tower of ivory; your eyes like the waters in Heshbon, by the doorway of Bath-rabbim; your nose is as the tower on Lebanon looking over Damascus:"
-        },
-        {
-          "verse": 5,
-          "text": "Your head is like Carmel, and the hair of your head is like purple, in whose net the king is prisoner."
-        },
-        {
-          "verse": 6,
-          "text": "How beautiful and how sweet you are, O love, for delight."
-        },
-        {
-          "verse": 7,
-          "text": "You are tall like a palm-tree, and your breasts are like the fruit of the vine."
-        },
-        {
-          "verse": 8,
-          "text": "I said, Let me go up the palm-tree, and let me take its branches in my hands: your breasts will be as the fruit of the vine, and the smell of your breath like apples;"
-        },
-        {
-          "verse": 9,
-          "text": "And the roof of your mouth like good wine flowing down smoothly for my loved one, moving gently over my lips and my teeth."
-        },
-        {
-          "verse": 10,
-          "text": "I am for my loved one, and his desire is for me."
-        },
-        {
-          "verse": 11,
-          "text": "Come, my loved one, let us go out into the field; let us take rest among the cypress-trees."
-        },
-        {
-          "verse": 12,
-          "text": "Let us go out early to the vine-gardens; let us see if the vine is in bud, if it has put out its young fruit, and the pomegranate is in flower. There I will give you my love."
-        },
-        {
-          "verse": 13,
-          "text": "The mandrakes give out a sweet smell, and at our doors are all sorts of good fruits, new and old, which I have kept for my loved one."
-        }
-      ],
-      "totalVerses": 13,
-      "footnotes": []
+      "notes": [
+        "Sandals are light shoes that do not completely cover the person's feet. A princess is a daughter of a king or aqueen.",
+        "The hips are the top part of a person's legs, where they join the body.",
+        "A person's navel is the place on their body where they were joined to their mother before birth.",
+        "Heshbon was a town in Israel.",
+        "Damascus was the capital city of Syria.",
+        "MountCarmel was a mountain in Israel.",
+        "A bunch of fruit is a group of fruits that are growing on the same piece of branch.",
+        "A mandrake is a plant that people eat. Itsroothas a shape like a human body. People thought that it helped them to enjoy sex. Sometimes people stored fruit over the door of their house. Then it would become dry, sweet fruit that people would enjoy."
+      ]
     },
     {
-      "book": "Song of Songs",
       "chapter": 8,
       "title": "Song of Songs 8",
-      "subtitle": "Song of Songs Chapter 8",
+      "subtitle": "",
+      "totalVerses": 14,
+      "sourceUrl": "https://www.easyenglish.bible/bible/easy/song-of-songs/8/",
       "sections": [
         {
-          "heading": "Song of Songs Chapter 8",
+          "heading": "The young woman:",
           "items": [
             [
               {
                 "verse": 1,
-                "text": "Oh that you were my brother, who took milk from my mother's breasts! When I came to you in the street, I would give you kisses; yes, I would not be looked down on."
-              },
+                "text": "I would like it if you were my brother"
+              }
+            ],
+            [
+              {
+                "verse": 1,
+                "text": "who drank milk from my mother's breasts!"
+              }
+            ],
+            [
+              {
+                "verse": 1,
+                "text": "If you were my brother,"
+              }
+            ],
+            [
+              {
+                "verse": 1,
+                "text": "if I met you outside, I could kiss you."
+              }
+            ],
+            [
+              {
+                "verse": 1,
+                "text": "Nobody would think that I was doing something wrong."
+              }
+            ],
+            [
               {
                 "verse": 2,
-                "text": "I would take you by the hand into my mother's house, and she would be my teacher. I would give you drink of spiced wine, drink of the pomegranate."
-              },
+                "text": "I would lead you to my mother's house."
+              }
+            ],
+            [
+              {
+                "verse": 2,
+                "text": "She is the one who has taught me."
+              }
+            ],
+            [
+              {
+                "verse": 2,
+                "text": "I would give you wine with spices to drink,"
+              }
+            ],
+            [
+              {
+                "verse": 2,
+                "text": "the juice from my pomegranates."
+              }
+            ],
+            [
+              {
+                "verse": 2,
+                "text": "3 His left hand is under my head.His right hand brings me near to him. 4 Promise this to me, young women of Jerusalem:Do not cause our love to wake up.Do not cause it to become too stronguntil the time is right.Love is very powerfulThe young women of Jerusalem: 5 Who is this who is coming from the desert?Her head is on her lover's shoulder.The young woman:Under the apple tree,I caused your love to wake.That is the place where your mother became pregnant.In that place too, your mother gave birth to you in pain. 6 Keep me near to you, like a seal over your heart.8:6Keep me like a seal on your arm.Keep me there always,because love is as powerful as death.It keeps hold of people as strongly as the grave does.Love burns like a hot fire.It burns with bright flames. 7 Even a flood of water cannot stop the flames.Rivers of water cannot carry it away.A man might try to give all his richesto buy a woman's love.But she would refuse to accept what he offers to her.The young woman's brothers: 8 We have a younger sister.Her breasts have not yet grown.What will we do to help herwhen it is the time for her to marry? 9 If she is a wall,we will use silver to build towers on her.But if she is a door,we will use boards of cedar wood to keep the door shut.The young woman: 10 I am a wall.My breasts are like strong towers.So my lover is happy when he looks at me. 11 King Solomon had a vineyard in Baal Hamon.He allowed other people to take care of it.They each paid him 1,000 silver coins for its fruit. 12 But my own vineyard belongs to me alone.I take care of it myself.You may keep the 1,000 silver coins, Solomon.And I will give 200 silver coins to those who take care of the fruit.The young man: 13 You have been staying in the gardenwith your friends who are listening to you.Let me too hear your voice!The young woman: 14 Come quickly to me now, my lover!Run like a gazelle or a young deer.Come to the mountains that have sweet spices!"
+              }
+            ],
+            [
               {
                 "verse": 3,
-                "text": "His left hand would be under my head, and his right hand about me."
-              },
+                "text": "His left hand is under my head."
+              }
+            ],
+            [
+              {
+                "verse": 3,
+                "text": "His right hand brings me near to him."
+              }
+            ],
+            [
+              {
+                "verse": 3,
+                "text": "4 Promise this to me, young women of Jerusalem:Do not cause our love to wake up.Do not cause it to become too stronguntil the time is right.Love is very powerfulThe young women of Jerusalem: 5 Who is this who is coming from the desert?Her head is on her lover's shoulder.The young woman:Under the apple tree,I caused your love to wake.That is the place where your mother became pregnant.In that place too, your mother gave birth to you in pain. 6 Keep me near to you, like a seal over your heart.8:6Keep me like a seal on your arm.Keep me there always,because love is as powerful as death.It keeps hold of people as strongly as the grave does.Love burns like a hot fire.It burns with bright flames. 7 Even a flood of water cannot stop the flames.Rivers of water cannot carry it away.A man might try to give all his richesto buy a woman's love.But she would refuse to accept what he offers to her.The young woman's brothers: 8 We have a younger sister.Her breasts have not yet grown.What will we do to help herwhen it is the time for her to marry? 9 If she is a wall,we will use silver to build towers on her.But if she is a door,we will use boards of cedar wood to keep the door shut.The young woman: 10 I am a wall.My breasts are like strong towers.So my lover is happy when he looks at me. 11 King Solomon had a vineyard in Baal Hamon.He allowed other people to take care of it.They each paid him 1,000 silver coins for its fruit. 12 But my own vineyard belongs to me alone.I take care of it myself.You may keep the 1,000 silver coins, Solomon.And I will give 200 silver coins to those who take care of the fruit.The young man: 13 You have been staying in the gardenwith your friends who are listening to you.Let me too hear your voice!The young woman: 14 Come quickly to me now, my lover!Run like a gazelle or a young deer.Come to the mountains that have sweet spices!"
+              }
+            ],
+            [
               {
                 "verse": 4,
-                "text": "I say to you, O daughters of Jerusalem, do not let love be moved till it is ready."
+                "text": "Promise this to me, young women of Jerusalem:"
+              }
+            ],
+            [
+              {
+                "verse": 4,
+                "text": "Do not cause our love to wake up."
+              }
+            ],
+            [
+              {
+                "verse": 4,
+                "text": "Do not cause it to become too strong"
+              }
+            ],
+            [
+              {
+                "verse": 4,
+                "text": "until the time is right."
+              }
+            ]
+          ]
+        },
+        {
+          "heading": "The young women of Jerusalem:",
+          "items": [
+            [
+              {
+                "verse": 5,
+                "text": "Who is this who is coming from the desert?"
               }
             ],
             [
               {
                 "verse": 5,
-                "text": "Who is this, who comes up from the waste places, resting on her loved one? It was I who made you awake under the apple-tree, where your mother gave you birth; there she was in pain at your birth."
-              },
+                "text": "Her head is on her lover's shoulder."
+              }
+            ]
+          ]
+        },
+        {
+          "heading": "The young woman:",
+          "items": [
+            [
+              {
+                "verse": 5,
+                "text": "Under the apple tree,"
+              }
+            ],
+            [
+              {
+                "verse": 5,
+                "text": "I caused your love to wake."
+              }
+            ],
+            [
+              {
+                "verse": 5,
+                "text": "That is the place where your mother became pregnant."
+              }
+            ],
+            [
+              {
+                "verse": 5,
+                "text": "In that place too, your mother gave birth to you in pain."
+              }
+            ],
+            [
+              {
+                "verse": 5,
+                "text": "6 Keep me near to you, like a seal over your heart.8:6Keep me like a seal on your arm.Keep me there always,because love is as powerful as death.It keeps hold of people as strongly as the grave does.Love burns like a hot fire.It burns with bright flames. 7 Even a flood of water cannot stop the flames.Rivers of water cannot carry it away.A man might try to give all his richesto buy a woman's love.But she would refuse to accept what he offers to her.The young woman's brothers: 8 We have a younger sister.Her breasts have not yet grown.What will we do to help herwhen it is the time for her to marry? 9 If she is a wall,we will use silver to build towers on her.But if she is a door,we will use boards of cedar wood to keep the door shut.The young woman: 10 I am a wall.My breasts are like strong towers.So my lover is happy when he looks at me. 11 King Solomon had a vineyard in Baal Hamon.He allowed other people to take care of it.They each paid him 1,000 silver coins for its fruit. 12 But my own vineyard belongs to me alone.I take care of it myself.You may keep the 1,000 silver coins, Solomon.And I will give 200 silver coins to those who take care of the fruit.The young man: 13 You have been staying in the gardenwith your friends who are listening to you.Let me too hear your voice!The young woman: 14 Come quickly to me now, my lover!Run like a gazelle or a young deer.Come to the mountains that have sweet spices!"
+              }
+            ],
+            [
               {
                 "verse": 6,
-                "text": "Put me as a sign on your heart, as a sign on your arm; love is strong as death, and wrath bitter as the underworld: its coals are coals of fire; violent are its flames."
-              },
+                "text": "Keep me near to you, like a seal over your heart."
+              }
+            ],
+            [
+              {
+                "verse": 6,
+                "text": "Keep me like a seal on your arm."
+              }
+            ],
+            [
+              {
+                "verse": 6,
+                "text": "Keep me there always,"
+              }
+            ],
+            [
+              {
+                "verse": 6,
+                "text": "because love is as powerful as death."
+              }
+            ],
+            [
+              {
+                "verse": 6,
+                "text": "It keeps hold of people as strongly as the grave does."
+              }
+            ],
+            [
+              {
+                "verse": 6,
+                "text": "Love burns like a hot fire."
+              }
+            ],
+            [
+              {
+                "verse": 6,
+                "text": "It burns with bright flames."
+              }
+            ],
+            [
               {
                 "verse": 7,
-                "text": "Much water may not put out love, or the deep waters overcome it: if a man would give all the substance of his house for love, it would be judged a price not great enough."
-              },
+                "text": "Even a flood of water cannot stop the flames."
+              }
+            ],
+            [
+              {
+                "verse": 7,
+                "text": "Rivers of water cannot carry it away."
+              }
+            ],
+            [
+              {
+                "verse": 7,
+                "text": "A man might try to give all his riches"
+              }
+            ],
+            [
+              {
+                "verse": 7,
+                "text": "to buy a woman's love."
+              }
+            ],
+            [
+              {
+                "verse": 7,
+                "text": "But she would refuse to accept what he offers to her."
+              }
+            ]
+          ]
+        },
+        {
+          "heading": "The young woman's brothers:",
+          "items": [
+            [
               {
                 "verse": 8,
-                "text": "We have a young sister, and she has no breasts; what are we to do for our sister in the day when she is given to a man?"
+                "text": "We have a younger sister."
+              }
+            ],
+            [
+              {
+                "verse": 8,
+                "text": "Her breasts have not yet grown."
+              }
+            ],
+            [
+              {
+                "verse": 8,
+                "text": "What will we do to help her"
+              }
+            ],
+            [
+              {
+                "verse": 8,
+                "text": "when it is the time for her to marry?"
               }
             ],
             [
               {
                 "verse": 9,
-                "text": "If she is a wall, we will make on her a strong base of silver; and if she is a door, we will let her be shut up with cedar-wood."
-              },
+                "text": "If she is a wall,"
+              }
+            ],
+            [
+              {
+                "verse": 9,
+                "text": "we will use silver to build towers on her."
+              }
+            ],
+            [
+              {
+                "verse": 9,
+                "text": "But if she is a door,"
+              }
+            ],
+            [
+              {
+                "verse": 9,
+                "text": "we will use boards of cedar wood to keep the door shut."
+              }
+            ]
+          ]
+        },
+        {
+          "heading": "The young woman:",
+          "items": [
+            [
               {
                 "verse": 10,
-                "text": "I am a wall, and my breasts are like towers; then was I in his eyes as one to whom good chance had come."
-              },
+                "text": "I am a wall."
+              }
+            ],
+            [
+              {
+                "verse": 10,
+                "text": "My breasts are like strong towers."
+              }
+            ],
+            [
+              {
+                "verse": 10,
+                "text": "So my lover is happy when he looks at me."
+              }
+            ],
+            [
+              {
+                "verse": 10,
+                "text": "11 King Solomon had a vineyard in Baal Hamon.He allowed other people to take care of it.They each paid him 1,000 silver coins for its fruit. 12 But my own vineyard belongs to me alone.I take care of it myself.You may keep the 1,000 silver coins, Solomon.And I will give 200 silver coins to those who take care of the fruit.The young man: 13 You have been staying in the gardenwith your friends who are listening to you.Let me too hear your voice!The young woman: 14 Come quickly to me now, my lover!Run like a gazelle or a young deer.Come to the mountains that have sweet spices!"
+              }
+            ],
+            [
               {
                 "verse": 11,
-                "text": "Solomon had a vine-garden at Baal-hamon; he let out the vine-garden to keepers; every one had to give a thousand bits of silver for its fruit."
-              },
+                "text": "King Solomon had a vineyard in Baal Hamon."
+              }
+            ],
+            [
+              {
+                "verse": 11,
+                "text": "He allowed other people to take care of it."
+              }
+            ],
+            [
+              {
+                "verse": 11,
+                "text": "They each paid him 1,000 silver coins for its fruit."
+              }
+            ],
+            [
               {
                 "verse": 12,
-                "text": "My vine-garden, which is mine, is before me: you, O Solomon, will have the thousand, and those who keep the fruit of them two hundred."
+                "text": "But my own vineyard belongs to me alone."
+              }
+            ],
+            [
+              {
+                "verse": 12,
+                "text": "I take care of it myself."
+              }
+            ],
+            [
+              {
+                "verse": 12,
+                "text": "You may keep the 1,000 silver coins, Solomon."
+              }
+            ],
+            [
+              {
+                "verse": 12,
+                "text": "And I will give 200 silver coins to those who take care of the fruit."
+              }
+            ]
+          ]
+        },
+        {
+          "heading": "The young man:",
+          "items": [
+            [
+              {
+                "verse": 13,
+                "text": "You have been staying in the garden"
               }
             ],
             [
               {
                 "verse": 13,
-                "text": "You who have your resting-place in the gardens, the friends give ear to your voice; make me give ear to it."
-              },
+                "text": "with your friends who are listening to you."
+              }
+            ],
+            [
+              {
+                "verse": 13,
+                "text": "Let me too hear your voice!"
+              }
+            ]
+          ]
+        },
+        {
+          "heading": "The young woman:",
+          "items": [
+            [
               {
                 "verse": 14,
-                "text": "Come quickly, my loved one, and be like a roe on the mountains of spice."
+                "text": "Come quickly to me now, my lover!"
+              }
+            ],
+            [
+              {
+                "verse": 14,
+                "text": "Run like a gazelle or a young deer."
+              }
+            ],
+            [
+              {
+                "verse": 14,
+                "text": "Come to the mountains that have sweet spices!"
               }
             ]
           ]
         }
       ],
-      "verses": [
-        {
-          "verse": 1,
-          "text": "Oh that you were my brother, who took milk from my mother's breasts! When I came to you in the street, I would give you kisses; yes, I would not be looked down on."
-        },
-        {
-          "verse": 2,
-          "text": "I would take you by the hand into my mother's house, and she would be my teacher. I would give you drink of spiced wine, drink of the pomegranate."
-        },
-        {
-          "verse": 3,
-          "text": "His left hand would be under my head, and his right hand about me."
-        },
-        {
-          "verse": 4,
-          "text": "I say to you, O daughters of Jerusalem, do not let love be moved till it is ready."
-        },
-        {
-          "verse": 5,
-          "text": "Who is this, who comes up from the waste places, resting on her loved one? It was I who made you awake under the apple-tree, where your mother gave you birth; there she was in pain at your birth."
-        },
-        {
-          "verse": 6,
-          "text": "Put me as a sign on your heart, as a sign on your arm; love is strong as death, and wrath bitter as the underworld: its coals are coals of fire; violent are its flames."
-        },
-        {
-          "verse": 7,
-          "text": "Much water may not put out love, or the deep waters overcome it: if a man would give all the substance of his house for love, it would be judged a price not great enough."
-        },
-        {
-          "verse": 8,
-          "text": "We have a young sister, and she has no breasts; what are we to do for our sister in the day when she is given to a man?"
-        },
-        {
-          "verse": 9,
-          "text": "If she is a wall, we will make on her a strong base of silver; and if she is a door, we will let her be shut up with cedar-wood."
-        },
-        {
-          "verse": 10,
-          "text": "I am a wall, and my breasts are like towers; then was I in his eyes as one to whom good chance had come."
-        },
-        {
-          "verse": 11,
-          "text": "Solomon had a vine-garden at Baal-hamon; he let out the vine-garden to keepers; every one had to give a thousand bits of silver for its fruit."
-        },
-        {
-          "verse": 12,
-          "text": "My vine-garden, which is mine, is before me: you, O Solomon, will have the thousand, and those who keep the fruit of them two hundred."
-        },
-        {
-          "verse": 13,
-          "text": "You who have your resting-place in the gardens, the friends give ear to your voice; make me give ear to it."
-        },
-        {
-          "verse": 14,
-          "text": "Come quickly, my loved one, and be like a roe on the mountains of spice."
-        }
-      ],
-      "totalVerses": 14,
-      "footnotes": []
+      "notes": [
+        "A man might put asealon something to show that it belongs to him."
+      ]
     }
   ]
 }

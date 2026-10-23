@@ -1,855 +1,565 @@
 {
-  "translation": "EasyEnglish Bible",
-  "book": "1 Thessalonians",
-  "bookId": "1TH",
+  "id": "1TH",
+  "name": "1 Thessalonians",
+  "slug": "1-thessalonians",
+  "translation": "EasyEnglish Bible (EASY)",
+  "publisher": "MissionAssist UK",
+  "referenceUrl": "https://www.easyenglish.bible/bible/easy/1-thessalonians/",
   "totalChapters": 5,
-  "copyrightNotice": "Scripture quotations are from the EasyEnglish Bible / Bible in Basic English. Public Domain.",
-  "officialSourceUrl": "https://www.easyenglish.bible/bible/easy/1-thessalonians/1/",
+  "totalVerses": 88,
   "chapters": [
     {
-      "book": "1 Thessalonians",
       "chapter": 1,
       "title": "1 Thessalonians 1",
-      "subtitle": "1 Thessalonians Chapter 1",
+      "subtitle": "",
+      "totalVerses": 10,
+      "sourceUrl": "https://www.easyenglish.bible/bible/easy/1-thessalonians/1/",
       "sections": [
         {
-          "heading": "1 Thessalonians Chapter 1",
+          "heading": "Paul writes to the Christians in Thessalonica",
           "items": [
             [
               {
                 "verse": 1,
-                "text": "Paul and Silvanus and Timothy, to the church of the Thessalonians in God the Father and the Lord Jesus Christ: Grace to you and peace."
-              },
+                "text": "This letter is from Paul, Silas and Timothy."
+              }
+            ],
+            [
+              {
+                "verse": 1,
+                "text": "We are writing to the people of the church in Thessalonica. You belong to God the Father and to the Lord Jesus Christ."
+              }
+            ],
+            [
+              {
+                "verse": 1,
+                "text": "We pray that God will continue to help you. We pray that he will give you peace in your minds."
+              }
+            ]
+          ]
+        },
+        {
+          "heading": "Paul thanks God for the lives of the Thessalonian Christians",
+          "items": [
+            [
               {
                 "verse": 2,
-                "text": "We give praise to God at all times for you, keeping you in memory in our prayers;"
+                "text": "We always thank God for all of you. Every time that we pray, we pray for you."
               },
               {
                 "verse": 3,
-                "text": "Having ever in mind your work of faith and acts of love and the strength of your hope in our Lord Jesus Christ, before our God and Father;"
-              },
-              {
-                "verse": 4,
-                "text": "Being conscious, my brothers, dear to God, that you have been marked out by God's purpose;"
+                "text": "As we pray to our Father God, we remember how you live. You do good things because you believe in Christ. You work hard to help other people because you love them and you love God. You are also strong and patient because you hope in our Lord Jesus Christ."
               }
             ],
             [
               {
-                "verse": 5,
-                "text": "Because our good news came to you, not in word only, but in power, and in the Holy Spirit, so that you were completely certain of it; even as you saw what our behaviour to you was like from our love to you."
+                "verse": 4,
+                "text": "Our Christian friends, God loves you. We know that he has chosen you to belong to him."
               },
               {
+                "verse": 5,
+                "text": "When we told you God's good news, it was not only words that we spoke to you. God helped us with his power and with the Holy Spirit. As a result, you were sure that our message was true. You also know that we lived among you in a good way. We had come to help you."
+              }
+            ],
+            [
+              {
                 "verse": 6,
-                "text": "And you took us and the Lord as your example, after the word had come to you in much trouble, with joy in the Holy Spirit;"
+                "text": "In your lives also, you copied our example and the example of the Lord Jesus. When you believed our message, people caused you to suffer very much. But God's Holy Spirit helped you to be happy."
               },
               {
                 "verse": 7,
-                "text": "So that you became an example to all those who have faith in Christ in Macedonia and Achaia."
-              },
-              {
-                "verse": 8,
-                "text": "For not only was the word of the Lord sounding out from you in Macedonia and Achaia, but in every place your faith in God is made clear; so that we have no need to say anything."
+                "text": "As a result, you became an example to all the believers in Macedonia and in Achaia."
               }
             ],
             [
               {
+                "verse": 8,
+                "text": "Because of you, people in many places have clearly heard the message about the Lord. It is not only the people in Macedonia and in Achaia who have heard it. People everywhere now know that you trust God. So, as we travel to different places, we do not need to tell people anything."
+              },
+              {
                 "verse": 9,
-                "text": "For they themselves give the news of how we came among you; and how you were turned from images to God, to the worship of a true and living God,"
+                "text": "Those people themselves speak about how you accepted us. They tell us how you stopped worshipping false gods. They know that you now serve the true God who always lives."
               },
               {
                 "verse": 10,
-                "text": "Waiting for his Son from heaven, who came back from the dead, even Jesus, our Saviour from the wrath to come."
+                "text": "They also tell us that you are waiting patiently for God's Son to return from heaven. God raised him up after his death on the cross. He is Jesus, the one who saves us. He keeps us safe from God's anger that will surely come."
               }
             ]
           ]
         }
       ],
-      "verses": [
-        {
-          "verse": 1,
-          "text": "Paul and Silvanus and Timothy, to the church of the Thessalonians in God the Father and the Lord Jesus Christ: Grace to you and peace."
-        },
-        {
-          "verse": 2,
-          "text": "We give praise to God at all times for you, keeping you in memory in our prayers;"
-        },
-        {
-          "verse": 3,
-          "text": "Having ever in mind your work of faith and acts of love and the strength of your hope in our Lord Jesus Christ, before our God and Father;"
-        },
-        {
-          "verse": 4,
-          "text": "Being conscious, my brothers, dear to God, that you have been marked out by God's purpose;"
-        },
-        {
-          "verse": 5,
-          "text": "Because our good news came to you, not in word only, but in power, and in the Holy Spirit, so that you were completely certain of it; even as you saw what our behaviour to you was like from our love to you."
-        },
-        {
-          "verse": 6,
-          "text": "And you took us and the Lord as your example, after the word had come to you in much trouble, with joy in the Holy Spirit;"
-        },
-        {
-          "verse": 7,
-          "text": "So that you became an example to all those who have faith in Christ in Macedonia and Achaia."
-        },
-        {
-          "verse": 8,
-          "text": "For not only was the word of the Lord sounding out from you in Macedonia and Achaia, but in every place your faith in God is made clear; so that we have no need to say anything."
-        },
-        {
-          "verse": 9,
-          "text": "For they themselves give the news of how we came among you; and how you were turned from images to God, to the worship of a true and living God,"
-        },
-        {
-          "verse": 10,
-          "text": "Waiting for his Son from heaven, who came back from the dead, even Jesus, our Saviour from the wrath to come."
-        }
-      ],
-      "totalVerses": 10,
-      "footnotes": []
+      "notes": [
+        "Thebelieversat Thessalonica were sure that Jesus would save them completely. See verse 10.",
+        "Macedonia included the north part of the country that we call Greece and part of the country that we call North Macedonia. Achaia was the south part of Greece.",
+        "One day, God willjudgeall people. If people believe in Jesus, he saves them from thepunishmentthat they deserve. SeeJohn 3:36;Ephesians 5:6;Colossians 3:6."
+      ]
     },
     {
-      "book": "1 Thessalonians",
       "chapter": 2,
       "title": "1 Thessalonians 2",
-      "subtitle": "1 Thessalonians Chapter 2",
+      "subtitle": "",
+      "totalVerses": 20,
+      "sourceUrl": "https://www.easyenglish.bible/bible/easy/1-thessalonians/2/",
       "sections": [
         {
-          "heading": "1 Thessalonians Chapter 2",
+          "heading": "Paul has served God among the Thessalonian Christians",
           "items": [
             [
               {
                 "verse": 1,
-                "text": "For you yourselves, brothers, are conscious that our coming among you was not without effect:"
+                "text": "Our Christian friends, you yourselves know that our visit to you had good results."
               },
               {
                 "verse": 2,
-                "text": "But after we had first undergone much pain and been cruelly attacked as you saw, at Philippi, by the help of God we gave you the good news without fear, though everything was against us."
-              },
+                "text": "You know what happened to us before we came to you. The people at Philippi had done bad things to us. They had caused us to suffer. When we came to you, our God helped us to be brave. We were not afraid to tell you his good news. Many people tried to stop us, but we told you God's message."
+              }
+            ],
+            [
               {
                 "verse": 3,
-                "text": "For our witness does not come from error or from an unclean heart or from deceit:"
+                "text": "When we tell people to obey God's message, we are not saying anything that is not true. We do not have a wrong purpose. We are not trying to deceive anyone."
               },
               {
                 "verse": 4,
-                "text": "But even as the good news was given to us by the approval of God, so we give it out; not as pleasing men, but God by whom our hearts are tested."
+                "text": "Instead, we say what God wants us to say. He has chosen us to tell his good news to people. So we are not trying to please people. God is the one that we want to please. He knows all our thoughts."
               }
             ],
             [
               {
                 "verse": 5,
-                "text": "For it is common knowledge among you that we never made use of smooth-sounding false words, and God is witness that at no time were we secretly desiring profit for ourselves,"
+                "text": "When we came to you, we did not say nice things only to please you. You know that we never did that. We did not try to make you give things to us. We never had a secret purpose like that. God knows that this is true."
               },
               {
                 "verse": 6,
-                "text": "Or looking for glory from men, from you or from others, when we might have made ourselves a care to you as Apostles of Christ."
+                "text": "We did not want you, or anyone else, to praise us."
               },
               {
                 "verse": 7,
-                "text": "But we were gentle among you, like a woman caring for her little ones:"
+                "text": "We could have used our authority over you, because we are Christ's apostles. But instead, we chose to be kind to you and to help you. We took care of you, like a mother takes care of her little children."
               },
               {
                 "verse": 8,
-                "text": "Even so, being full of loving desire for you, we took delight in giving you not only God's good news, but even our lives, because you were dear to us."
+                "text": "We loved you very much, so we wanted to tell you God's good news. We wanted to share our lives with you too."
               }
             ],
             [
               {
                 "verse": 9,
-                "text": "For you have the memory, my brothers, of our trouble and care; how, working night and day, so that we might not be a trouble to any of you, we gave you the good news of God."
-              },
+                "text": "Our Christian friends, remember how we worked so hard when we were with you. We worked during the day and even during the night. We did not want to cause any problems for you. So we taught you God's good news and we did not ask you to give us anything in return."
+              }
+            ],
+            [
               {
                 "verse": 10,
-                "text": "You are witnesses, with God, how holy and upright and free from all evil was our way of life among you who have faith;"
+                "text": "You know that we lived in a good way when we were with you. God also knows that. We were completely honest with you believers. Nobody could say that we did anything wrong."
               },
               {
                 "verse": 11,
-                "text": "Even as you saw how, like a father with his children, we were teaching and comforting you all, and giving witness,"
+                "text": "You know that we helped you, like a father helps his own children."
               },
               {
                 "verse": 12,
-                "text": "So that your lives might be pleasing to God, who has given you a part in his kingdom and his glory."
+                "text": "We taught you clearly what is true. We helped you to be strong as believers. God has chosen you to be his own people. You belong to his great kingdom, where he rules. So we told you to live in a way that pleases him."
               }
             ],
             [
               {
                 "verse": 13,
-                "text": "And for this cause we still give praise to God, that, when the word came to your ears through us, you took it, not as the word of man, but, as it truly is, the word of God, which has living power in you who have faith."
-              },
-              {
-                "verse": 14,
-                "text": "For you, my brothers, took as your examples the churches of God which are in Judaea in Christ Jesus; because you underwent the same things from your countrymen as they did from the Jews;"
-              },
-              {
-                "verse": 15,
-                "text": "Who put to death the Lord Jesus and the prophets, violently driving us out; who are unpleasing to God and against all men;"
-              },
-              {
-                "verse": 16,
-                "text": "Who, to make the measure of their sins complete, kept us from giving the word of salvation to the Gentiles: but the wrath of God is about to come on them in the fullest degree."
+                "text": "There is another reason why we always continue to thank God for you. When we told God's message to you, you knew that it was not human ideas. You accepted it as God's own message, and that is what it certainly is. And God continues to use his message to work among you as believers."
               }
             ],
             [
               {
+                "verse": 14,
+                "text": "Our Christian friends, you have suffered in the same way that the people in the churches of Judea suffered. People in your own country have caused you to suffer. The people in Judea who believed in Christ Jesus received trouble from their own Jewish people."
+              },
+              {
+                "verse": 15,
+                "text": "It was people like that who killed the Lord Jesus. They killed God's prophets, too. They also did cruel things to us, so that we had to leave their towns. They make God become angry. They are enemies of all people,"
+              },
+              {
+                "verse": 16,
+                "text": "because they try to stop us speaking to Gentiles. They do not want God to save anyone from another nation. In this way, they continue to do more and more bad things. When their sins become too many, God has to stop them. Now he has become so angry that he will finally punish them."
+              }
+            ]
+          ]
+        },
+        {
+          "heading": "Paul wants to return to Thessalonica",
+          "items": [
+            [
+              {
                 "verse": 17,
-                "text": "But we, my brothers, being away from you for a short time, in body but not in heart, had all the more desire to see your face;"
+                "text": "Our friends, we have had to go away from you for a short time. But we continue to think about you. We have wanted more and more to see you again."
               },
               {
                 "verse": 18,
-                "text": "For which reason we made attempts to come to you, even I, Paul, once and again; but Satan kept us from coming."
-              },
+                "text": "Yes, we really wanted to visit you. Certainly, I, Paul, tried many times to come to you, but Satan stopped us."
+              }
+            ],
+            [
               {
                 "verse": 19,
-                "text": "For what is our hope or joy or crown of glory? Are not even you, before our Lord Jesus, at his coming?"
+                "text": "You are the people who make us very happy! We know that you will continue to trust God. So, when our Lord Jesus returns, we will be proud of you. You will be like a crown that he gives us when we stand in front of him."
               },
               {
                 "verse": 20,
-                "text": "For you are our glory and our joy."
+                "text": "You show the great results of our work. Yes, it is because of you that we are very happy."
               }
             ]
           ]
         }
       ],
-      "verses": [
-        {
-          "verse": 1,
-          "text": "For you yourselves, brothers, are conscious that our coming among you was not without effect:"
-        },
-        {
-          "verse": 2,
-          "text": "But after we had first undergone much pain and been cruelly attacked as you saw, at Philippi, by the help of God we gave you the good news without fear, though everything was against us."
-        },
-        {
-          "verse": 3,
-          "text": "For our witness does not come from error or from an unclean heart or from deceit:"
-        },
-        {
-          "verse": 4,
-          "text": "But even as the good news was given to us by the approval of God, so we give it out; not as pleasing men, but God by whom our hearts are tested."
-        },
-        {
-          "verse": 5,
-          "text": "For it is common knowledge among you that we never made use of smooth-sounding false words, and God is witness that at no time were we secretly desiring profit for ourselves,"
-        },
-        {
-          "verse": 6,
-          "text": "Or looking for glory from men, from you or from others, when we might have made ourselves a care to you as Apostles of Christ."
-        },
-        {
-          "verse": 7,
-          "text": "But we were gentle among you, like a woman caring for her little ones:"
-        },
-        {
-          "verse": 8,
-          "text": "Even so, being full of loving desire for you, we took delight in giving you not only God's good news, but even our lives, because you were dear to us."
-        },
-        {
-          "verse": 9,
-          "text": "For you have the memory, my brothers, of our trouble and care; how, working night and day, so that we might not be a trouble to any of you, we gave you the good news of God."
-        },
-        {
-          "verse": 10,
-          "text": "You are witnesses, with God, how holy and upright and free from all evil was our way of life among you who have faith;"
-        },
-        {
-          "verse": 11,
-          "text": "Even as you saw how, like a father with his children, we were teaching and comforting you all, and giving witness,"
-        },
-        {
-          "verse": 12,
-          "text": "So that your lives might be pleasing to God, who has given you a part in his kingdom and his glory."
-        },
-        {
-          "verse": 13,
-          "text": "And for this cause we still give praise to God, that, when the word came to your ears through us, you took it, not as the word of man, but, as it truly is, the word of God, which has living power in you who have faith."
-        },
-        {
-          "verse": 14,
-          "text": "For you, my brothers, took as your examples the churches of God which are in Judaea in Christ Jesus; because you underwent the same things from your countrymen as they did from the Jews;"
-        },
-        {
-          "verse": 15,
-          "text": "Who put to death the Lord Jesus and the prophets, violently driving us out; who are unpleasing to God and against all men;"
-        },
-        {
-          "verse": 16,
-          "text": "Who, to make the measure of their sins complete, kept us from giving the word of salvation to the Gentiles: but the wrath of God is about to come on them in the fullest degree."
-        },
-        {
-          "verse": 17,
-          "text": "But we, my brothers, being away from you for a short time, in body but not in heart, had all the more desire to see your face;"
-        },
-        {
-          "verse": 18,
-          "text": "For which reason we made attempts to come to you, even I, Paul, once and again; but Satan kept us from coming."
-        },
-        {
-          "verse": 19,
-          "text": "For what is our hope or joy or crown of glory? Are not even you, before our Lord Jesus, at his coming?"
-        },
-        {
-          "verse": 20,
-          "text": "For you are our glory and our joy."
-        }
-      ],
-      "totalVerses": 20,
-      "footnotes": []
+      "notes": [
+        "SeeActs 16:12-40. Philippi was a city in Macedonia. It was about 115 kilometres (72 miles) east of Thessalonica. Paul and his friends had been at Philippi before they came to Thessalonica. Some people at Philippi had put Paul and Silas in prison.",
+        "Paul was explaining that he only wanted to do what was best for thebelieversat Thessalonica.",
+        "While Paul, Silas and Timothy were at Thessalonica, they worked to get some money. Paul knew how to maketents. SeeActs 18:3.",
+        "Judea was the south part of Israel."
+      ]
     },
     {
-      "book": "1 Thessalonians",
       "chapter": 3,
       "title": "1 Thessalonians 3",
-      "subtitle": "1 Thessalonians Chapter 3",
+      "subtitle": "",
+      "totalVerses": 12,
+      "sourceUrl": "https://www.easyenglish.bible/bible/easy/1-thessalonians/3/",
       "sections": [
         {
-          "heading": "1 Thessalonians Chapter 3",
+          "heading": "Timothy has brought news from Thessalonica to Paul",
           "items": [
             [
               {
                 "verse": 1,
-                "text": "At last our desire to have news of you was so strong that, while we ourselves were waiting at Athens,"
-              },
-              {
-                "verse": 2,
-                "text": "We sent Timothy, our brother and God's servant in the good news of Christ, to give you strength and comfort in your faith;"
+                "text": "After a long time, we could not be patient any longer. So we sent our friend Timothy to come to you. We ourselves decided to stay here in Athens. Timothy serves God with us here. He tells people the good news about Christ. We sent him to you so that he could help you to trust Christ more and more."
               },
               {
                 "verse": 3,
-                "text": "So that no man might be moved by these troubles; because you see that these things are part of God's purpose for us."
-              },
-              {
-                "verse": 4,
-                "text": "And when we were with you, we said to you that trouble was before us; and so it came about, as you see."
+                "text": "You are suffering very much. We did not want anyone among you to turn away from Christ because of that. You already know that we who are believers must receive these kinds of troubles."
               }
             ],
             [
               {
-                "verse": 5,
-                "text": "For this reason, when I was no longer able to keep quiet, I sent to get news of your faith, fearing that you might be tested by the Evil One and that our work might come to nothing."
+                "verse": 4,
+                "text": "Even when we were there with you, we told you that people would cause us to suffer. Now it has really happened, so you know that it is true."
               },
               {
+                "verse": 5,
+                "text": "That is why I had to send Timothy to come to you. I could not wait to hear news about you any longer. I wanted to know whether you still trusted Christ. I was afraid that Satan had deceived you. If he had made you turn away from Christ, our work among you would have had no results."
+              }
+            ],
+            [
+              {
                 "verse": 6,
-                "text": "But now that Timothy has come to us from you, and has given us good news of your faith and love, and that you have happy memories of us, desiring greatly to see us, even as we do to see you;"
+                "text": "But now Timothy has come back to us. And he has told us good news about you. He has told us that you continue to trust Christ and you love one another. He says that you always think about us in a good way. You want very much to meet us again, as we also want to meet you."
               },
               {
                 "verse": 7,
-                "text": "For this cause, brothers, in all our trouble and grief we were comforted about you because of your faith;"
+                "text": "So we have become happy again because of you, our Christian friends. We continue to suffer and we have much trouble. But we are happy because you continue to trust Christ."
               },
               {
                 "verse": 8,
-                "text": "For it is life to us if you keep your faith in the Lord unchanged."
+                "text": "Yes, we are like people who have become alive again. We know that you are strong as you trust the Lord."
               }
             ],
             [
               {
                 "verse": 9,
-                "text": "For how great is the praise which we give to God for you, and how great the joy with which we are glad because of you before our God;"
+                "text": "We thank God very much for you! You make us very happy when we talk to God about you."
               },
               {
                 "verse": 10,
-                "text": "Night and day requesting God again and again that we may see your face and make your faith complete."
-              },
-              {
-                "verse": 11,
-                "text": "Now may our God and Father himself and our Lord Jesus make a way for us to come to you;"
-              },
-              {
-                "verse": 12,
-                "text": "And the Lord give you increase of love in fullest measure to one another and to all men, even as our love to you;"
+                "text": "We pray very much for you, during the day and during the night. We ask God to give us the chance to visit you again. We want to help you to understand the things that you still need to know. Then you will be able to trust Christ even more."
               }
             ],
             [
               {
+                "verse": 11,
+                "text": "We pray that our Father God himself and our Lord Jesus will prepare the way for us. Then we will come to visit you."
+              },
+              {
+                "verse": 12,
+                "text": "We pray that the Lord will cause you to love people more and more. We love you very much. We pray that you will love each other and all people, as we love you."
+              },
+              {
                 "verse": 13,
-                "text": "So that your hearts may be strong and free from all sin before our God and Father, at the coming of our Lord Jesus with all his saints."
+                "text": "Then God will cause you to become strong inside yourselves. You will live in a completely good way. One day our Lord Jesus will come back with all the people who belong to him. Then you will stand in front of God, our Father. He will say that you are not guilty of anything that is wrong."
               }
             ]
           ]
         }
       ],
-      "verses": [
-        {
-          "verse": 1,
-          "text": "At last our desire to have news of you was so strong that, while we ourselves were waiting at Athens,"
-        },
-        {
-          "verse": 2,
-          "text": "We sent Timothy, our brother and God's servant in the good news of Christ, to give you strength and comfort in your faith;"
-        },
-        {
-          "verse": 3,
-          "text": "So that no man might be moved by these troubles; because you see that these things are part of God's purpose for us."
-        },
-        {
-          "verse": 4,
-          "text": "And when we were with you, we said to you that trouble was before us; and so it came about, as you see."
-        },
-        {
-          "verse": 5,
-          "text": "For this reason, when I was no longer able to keep quiet, I sent to get news of your faith, fearing that you might be tested by the Evil One and that our work might come to nothing."
-        },
-        {
-          "verse": 6,
-          "text": "But now that Timothy has come to us from you, and has given us good news of your faith and love, and that you have happy memories of us, desiring greatly to see us, even as we do to see you;"
-        },
-        {
-          "verse": 7,
-          "text": "For this cause, brothers, in all our trouble and grief we were comforted about you because of your faith;"
-        },
-        {
-          "verse": 8,
-          "text": "For it is life to us if you keep your faith in the Lord unchanged."
-        },
-        {
-          "verse": 9,
-          "text": "For how great is the praise which we give to God for you, and how great the joy with which we are glad because of you before our God;"
-        },
-        {
-          "verse": 10,
-          "text": "Night and day requesting God again and again that we may see your face and make your faith complete."
-        },
-        {
-          "verse": 11,
-          "text": "Now may our God and Father himself and our Lord Jesus make a way for us to come to you;"
-        },
-        {
-          "verse": 12,
-          "text": "And the Lord give you increase of love in fullest measure to one another and to all men, even as our love to you;"
-        },
-        {
-          "verse": 13,
-          "text": "So that your hearts may be strong and free from all sin before our God and Father, at the coming of our Lord Jesus with all his saints."
-        }
-      ],
-      "totalVerses": 13,
-      "footnotes": []
+      "notes": []
     },
     {
-      "book": "1 Thessalonians",
       "chapter": 4,
       "title": "1 Thessalonians 4",
-      "subtitle": "1 Thessalonians Chapter 4",
+      "subtitle": "",
+      "totalVerses": 18,
+      "sourceUrl": "https://www.easyenglish.bible/bible/easy/1-thessalonians/4/",
       "sections": [
         {
-          "heading": "1 Thessalonians Chapter 4",
+          "heading": "Live in a way that pleases God",
           "items": [
             [
               {
                 "verse": 1,
-                "text": "And last of all, the prayer which we make to you from our heart and in the name of the Lord Jesus, is this: that as we made clear to you what sort of behaviour is pleasing to God, as in fact you are doing now, so you will go on in these ways, but more and more."
+                "text": "Christian friends, there are a few more things that we need to say. We have already taught you how to live in a way that pleases God. And we know that you are living in that way. Now we ask you to continue to live like that even more. On behalf of the Lord Jesus, we seriously ask you to do this."
               },
               {
                 "verse": 2,
-                "text": "Because you have in mind the orders we gave you through the Lord Jesus."
-              },
-              {
-                "verse": 3,
-                "text": "For the purpose of God for you is this: that you may be holy, and may keep yourselves from the desires of the flesh;"
-              },
-              {
-                "verse": 4,
-                "text": "So that every one of you may keep his body holy and in honour;"
+                "text": "You surely remember what we taught you with the authority of the Lord Jesus."
               }
             ],
             [
               {
+                "verse": 3,
+                "text": "This is how God wants you to live: as his own people, he wants you to be completely good. So you must not have sex in a way that is wrong."
+              },
+              {
+                "verse": 4,
+                "text": "Each of you men must learn to control his own body properly. Then you will do only what is pure and right."
+              },
+              {
                 "verse": 5,
-                "text": "Not in the passion of evil desires, like the Gentiles, who have no knowledge of God;"
+                "text": "People who do not know God want to have sex in a wrong way. They cannot control themselves. You must not be like those people."
               },
               {
                 "verse": 6,
-                "text": "And that no man may make attempts to get the better of his brother in business: for the Lord is the judge in all these things, as we said to you before and gave witness."
-              },
+                "text": "No man among you should ever have sex with the wife of a Christian friend. That would be the same as if you robbed him. It would be a bad thing to do against him. Remember that the Lord will punish everyone who does things like that. We have already told you this. We warned you very seriously about it."
+              }
+            ],
+            [
               {
                 "verse": 7,
-                "text": "Because it is God's purpose that our way of life may be not unclean but holy."
+                "text": "God has chosen us to belong to him. He does not want us to do disgusting things. As his people, he wants us to be holy."
               },
               {
                 "verse": 8,
-                "text": "Whoever, then, goes against this word, goes against not man but God, who gives his Holy Spirit to you."
+                "text": "You should accept what I am saying. If not, it is not just human teaching that you refuse to obey. You are refusing to obey God himself. And God is the one who has given his Holy Spirit to you."
               }
             ],
             [
               {
                 "verse": 9,
-                "text": "But about loving the brothers, there is no need for me to say anything to you in this letter: for you have the teaching of God that love for one another is right and necessary;"
+                "text": "But I do not need to write to you about how you should love other believers. God himself has taught you how to love each other."
               },
               {
                 "verse": 10,
-                "text": "And, truly, you are lovers of all the brothers in Macedonia; but it is our desire that your love may be increased still more;"
+                "text": "Certainly, you love all the believers in all the region of Macedonia. And now we ask you, as our Christian friends, ‘Please love each other more and more.’"
               },
               {
                 "verse": 11,
-                "text": "And that you may take pride in being quiet and doing your business, working with your hands as we gave you orders;"
+                "text": "Try very much to live at peace with other people. Work hard at your own job. We have already told you that you must do these things."
               },
               {
                 "verse": 12,
-                "text": "That you may be respected by those who are outside, and may have need of nothing."
+                "text": "If you live in this way, other people who are not believers will respect you. Also, you will not have to ask anyone else to give you the things that you need."
               }
-            ],
+            ]
+          ]
+        },
+        {
+          "heading": "The Lord Jesus will return for his people",
+          "items": [
             [
               {
                 "verse": 13,
-                "text": "But it is our desire, brothers, that you may be certain about those who are sleeping; so that you may have no need for sorrow, as others have who are without hope."
+                "text": "Our Christian friends, we want you to understand properly about your friends who have died. People who do not hope for any life after death are sad when their friends die. But you should not be upset like those people."
               },
               {
                 "verse": 14,
-                "text": "For if we have faith that Jesus underwent death and came back again, even so those who are sleeping will come again with him by God's power."
-              },
-              {
-                "verse": 15,
-                "text": "For this we say to you by the word of the Lord, that we who are still living at the coming of the Lord, will not go before those who are sleeping."
-              },
-              {
-                "verse": 16,
-                "text": "Because the Lord himself will come down from heaven with a word of authority, with the voice of the chief angel, with the sound of a horn: and the dead in Christ will come to life first;"
+                "text": "We believe that Jesus died and he rose again after death. So we also believe that people who have died as Christians will live again. When God brings Jesus back, he will also bring back with him the Christians who have died."
               }
             ],
             [
               {
-                "verse": 17,
-                "text": "Then we who are still living will be taken up together with them into the clouds to see the Lord in the air: and so will we be for ever with the Lord."
+                "verse": 15,
+                "text": "We are telling you the message that the Lord has given to us. This is what will happen when the Lord returns. Those of us who are still alive will not go to meet the Lord first. We will not go before those people who have already died."
               },
               {
+                "verse": 16,
+                "text": "On that day, the Lord himself will come down from heaven. He will shout with authority. People will hear the voice of the leader of God's angels. They will hear the sound of God's trumpet. Then those people who have died as Christians will become alive again. They will be the first people to rise up."
+              },
+              {
+                "verse": 17,
+                "text": "After that, those of us who are still alive will join together with them. God will suddenly take us up into the clouds. In that way, we will all meet the Lord in the sky. So we will all be with the Lord for ever."
+              }
+            ],
+            [
+              {
                 "verse": 18,
-                "text": "So then, give comfort to one another with these words."
+                "text": "Because this message is true, tell it to each other. Help one another to be strong, not sad."
               }
             ]
           ]
         }
       ],
-      "verses": [
-        {
-          "verse": 1,
-          "text": "And last of all, the prayer which we make to you from our heart and in the name of the Lord Jesus, is this: that as we made clear to you what sort of behaviour is pleasing to God, as in fact you are doing now, so you will go on in these ways, but more and more."
-        },
-        {
-          "verse": 2,
-          "text": "Because you have in mind the orders we gave you through the Lord Jesus."
-        },
-        {
-          "verse": 3,
-          "text": "For the purpose of God for you is this: that you may be holy, and may keep yourselves from the desires of the flesh;"
-        },
-        {
-          "verse": 4,
-          "text": "So that every one of you may keep his body holy and in honour;"
-        },
-        {
-          "verse": 5,
-          "text": "Not in the passion of evil desires, like the Gentiles, who have no knowledge of God;"
-        },
-        {
-          "verse": 6,
-          "text": "And that no man may make attempts to get the better of his brother in business: for the Lord is the judge in all these things, as we said to you before and gave witness."
-        },
-        {
-          "verse": 7,
-          "text": "Because it is God's purpose that our way of life may be not unclean but holy."
-        },
-        {
-          "verse": 8,
-          "text": "Whoever, then, goes against this word, goes against not man but God, who gives his Holy Spirit to you."
-        },
-        {
-          "verse": 9,
-          "text": "But about loving the brothers, there is no need for me to say anything to you in this letter: for you have the teaching of God that love for one another is right and necessary;"
-        },
-        {
-          "verse": 10,
-          "text": "And, truly, you are lovers of all the brothers in Macedonia; but it is our desire that your love may be increased still more;"
-        },
-        {
-          "verse": 11,
-          "text": "And that you may take pride in being quiet and doing your business, working with your hands as we gave you orders;"
-        },
-        {
-          "verse": 12,
-          "text": "That you may be respected by those who are outside, and may have need of nothing."
-        },
-        {
-          "verse": 13,
-          "text": "But it is our desire, brothers, that you may be certain about those who are sleeping; so that you may have no need for sorrow, as others have who are without hope."
-        },
-        {
-          "verse": 14,
-          "text": "For if we have faith that Jesus underwent death and came back again, even so those who are sleeping will come again with him by God's power."
-        },
-        {
-          "verse": 15,
-          "text": "For this we say to you by the word of the Lord, that we who are still living at the coming of the Lord, will not go before those who are sleeping."
-        },
-        {
-          "verse": 16,
-          "text": "Because the Lord himself will come down from heaven with a word of authority, with the voice of the chief angel, with the sound of a horn: and the dead in Christ will come to life first;"
-        },
-        {
-          "verse": 17,
-          "text": "Then we who are still living will be taken up together with them into the clouds to see the Lord in the air: and so will we be for ever with the Lord."
-        },
-        {
-          "verse": 18,
-          "text": "So then, give comfort to one another with these words."
-        }
-      ],
-      "totalVerses": 18,
-      "footnotes": []
+      "notes": [
+        "The Christians at Thessalonica were confused about Christ's return. They were sad about their Christian friends who had died already. They did not know what would happen to those people."
+      ]
     },
     {
-      "book": "1 Thessalonians",
       "chapter": 5,
       "title": "1 Thessalonians 5",
-      "subtitle": "1 Thessalonians Chapter 5",
+      "subtitle": "",
+      "totalVerses": 28,
+      "sourceUrl": "https://www.easyenglish.bible/bible/easy/1-thessalonians/5/",
       "sections": [
         {
-          "heading": "1 Thessalonians Chapter 5",
+          "heading": "Christians must be ready for the day of the Lord",
           "items": [
             [
               {
                 "verse": 1,
-                "text": "But about the times and their order, my brothers, there is no need for me to say anything to you."
+                "text": "Friends, we do not need to write anything to you about the dates and times when these things will happen."
               },
               {
                 "verse": 2,
-                "text": "For you yourselves have the knowledge that the day of the Lord will come like a thief in the night."
+                "text": "You know very well about how the great day of the Lord will happen. That day will surprise people very much, like when a robber comes in the night."
               },
               {
                 "verse": 3,
-                "text": "When they say, There is peace and no danger, then sudden destruction will come on them, as birth-pains on a woman with child; and they will not be able to get away from it."
-              },
-              {
-                "verse": 4,
-                "text": "But you, my brothers, are not in the dark, for that day to overtake you like a thief:"
+                "text": "At that time, people will be saying, ‘We are safe and there is no trouble for us.’ But then, when they are not ready for it, great punishment will suddenly happen to them. It will be impossible for them to run away. Pain will suddenly come to them, like a woman who is giving birth to a baby."
               }
             ],
             [
               {
+                "verse": 4,
+                "text": "But you, our Christian friends, know about these things. You are not like people who live in the dark. So when the great day of the Lord happens, it should not suddenly surprise you, like a robber might surprise you."
+              },
+              {
                 "verse": 5,
-                "text": "For you are all sons of light and of the day: we are not of the night or of the dark."
+                "text": "All of you are people who belong to the light and to the day. We who are believers do not belong to the night or to the dark."
               },
               {
                 "verse": 6,
-                "text": "So then, let us not take our rest as the others do, but let us be self-controlled and awake."
+                "text": "So we must watch carefully. We should be like people who stay awake. We should not be like other people who are sleeping."
               },
               {
                 "verse": 7,
-                "text": "For those who are sleeping do so in the night; and those who are the worse for drink are so in the night;"
-              },
+                "text": "It is at night that people sleep. It is at night that people become drunk."
+              }
+            ],
+            [
               {
                 "verse": 8,
-                "text": "But let us, who are of the day, be serious, putting on the breastplate of faith and love, and on our heads, the hope of salvation."
+                "text": "But we belong to the day, not to the night. So we should think clearly. We must prepare ourselves like a soldier who puts on his armour. We must continue to trust God and to love him. That will be like a metal shirt that keeps our body safe. We must also continue to hope that God will save us. That will be like a strong helmet that keeps our head safe."
               }
             ],
             [
               {
                 "verse": 9,
-                "text": "For God's purpose for us is not wrath, but salvation through our Lord Jesus Christ,"
+                "text": "God did not choose us as his people so that he could be angry with us. He chose us so that he could save us because of what our Lord Jesus Christ has done."
               },
               {
                 "verse": 10,
-                "text": "Who was put to death for us, so that, awake or sleeping, we may have a part in his life."
+                "text": "Jesus died on our behalf so that we can live together with him. It does not matter whether we are alive or dead when he returns. We will all go to live with him."
               },
               {
                 "verse": 11,
-                "text": "So then, go on comforting and building up one another, as you have been doing."
-              },
+                "text": "Because of that, you should help each other to become stronger as believers. I know that you are already doing that."
+              }
+            ]
+          ]
+        },
+        {
+          "heading": "Paul finishes his letter",
+          "items": [
+            [
               {
                 "verse": 12,
-                "text": "But we make this request to you, my brothers: give attention to those who are working among you, who are over you in the Lord to keep order among you;"
-              }
-            ],
-            [
+                "text": "Our friends, we ask you to respect your leaders who work hard among you. On the Lord's behalf, they lead you and they teach you what is right."
+              },
               {
                 "verse": 13,
-                "text": "And have a high opinion of them in love because of their work. Be at peace among yourselves."
-              },
-              {
-                "verse": 14,
-                "text": "And our desire is that you will keep control over those whose lives are not well ordered, giving comfort to the feeble-hearted, supporting those with little strength, and putting up with much from all."
-              },
-              {
-                "verse": 15,
-                "text": "Let no one give evil for evil; but ever go after what is good, for one another and for all."
-              },
-              {
-                "verse": 16,
-                "text": "Have joy at all times."
+                "text": "Show them how valuable they are to you. And love them very much because of the work that they do. Live at peace among yourselves."
               }
             ],
             [
               {
+                "verse": 14,
+                "text": "Friends, you must warn lazy people. Tell them that they should work. If people are afraid, help them to be brave. If people are weak, take care of them. Be patient with everyone."
+              }
+            ],
+            [
+              {
+                "verse": 15,
+                "text": "If someone does something bad against you, do not do anything bad against them in return. Never do that. Instead, always try to do good things that will help each other and help everyone else."
+              }
+            ],
+            [
+              {
+                "verse": 16,
+                "text": "Always be happy."
+              },
+              {
                 "verse": 17,
-                "text": "Keep on with your prayers."
+                "text": "Pray at all times."
               },
               {
                 "verse": 18,
-                "text": "In everything give praise: for this is the purpose of God in Christ Jesus for you."
+                "text": "Whatever may happen to you, continue to thank God. God wants you to do that, because you belong to Christ Jesus."
               },
               {
                 "verse": 19,
-                "text": "Do not put out the light of the Spirit;"
+                "text": "Do not stop the work of God's Spirit."
               },
               {
                 "verse": 20,
-                "text": "Do not make little of the words of the prophets;"
-              }
-            ],
-            [
+                "text": "When people speak messages on God's behalf, do not refuse to listen."
+              },
               {
                 "verse": 21,
-                "text": "Let all things be tested; keep to what is good;"
+                "text": "Instead, think carefully about everything, to see if it is true. Accept anything that is good."
               },
               {
                 "verse": 22,
-                "text": "Keep from every form of evil."
-              },
+                "text": "But keep away from any kind of evil thing."
+              }
+            ],
+            [
+              {
+                "verse": 22,
+                "text": "23 I pray that God will help you to be completely good, as his people should be. He is the one who gives us peace in our minds. May he take care of you in every way, in your spirit, in your soul and in your body. Then you will not be guilty of anything, when our Lord Jesus Christ returns. 24 God has chosen you to be his people. We can trust him to do what he has promised to do. So he will do all this for you. 25 Our Christian friends, please pray for us. 26 Say ‘hello’ to all the believers on our behalf, and kiss them as Christian brothers and sisters. 27 I tell you very seriously on the Lord's behalf, read this letter to all the believers. 28 I pray that our Lord Jesus Christ will continue to be very kind to you."
+              }
+            ],
+            [
               {
                 "verse": 23,
-                "text": "And may the God of peace himself make you holy in every way; and may your spirit and soul and body be free from all sin at the coming of our Lord Jesus Christ."
+                "text": "I pray that God will help you to be completely good, as his people should be. He is the one who gives us peace in our minds. May he take care of you in every way, in your spirit, in your soul and in your body. Then you will not be guilty of anything, when our Lord Jesus Christ returns."
               },
               {
                 "verse": 24,
-                "text": "God, by whom you have been marked out in his purpose, is unchanging and will make it complete."
+                "text": "God has chosen you to be his people. We can trust him to do what he has promised to do. So he will do all this for you."
               }
             ],
             [
               {
                 "verse": 25,
-                "text": "Brothers, keep us in mind in your prayers."
+                "text": "Our Christian friends, please pray for us."
               },
               {
                 "verse": 26,
-                "text": "Give all the brothers a holy kiss."
-              },
+                "text": "Say ‘hello’ to all the believers on our behalf, and kiss them as Christian brothers and sisters."
+              }
+            ],
+            [
               {
                 "verse": 27,
-                "text": "I give orders in the name of the Lord that all the brothers are to be present at the reading of this letter."
+                "text": "I tell you very seriously on the Lord's behalf, read this letter to all the believers."
               },
               {
                 "verse": 28,
-                "text": "The grace of our Lord Jesus Christ be with you."
+                "text": "I pray that our Lord Jesus Christ will continue to be very kind to you."
               }
             ]
           ]
         }
       ],
-      "verses": [
-        {
-          "verse": 1,
-          "text": "But about the times and their order, my brothers, there is no need for me to say anything to you."
-        },
-        {
-          "verse": 2,
-          "text": "For you yourselves have the knowledge that the day of the Lord will come like a thief in the night."
-        },
-        {
-          "verse": 3,
-          "text": "When they say, There is peace and no danger, then sudden destruction will come on them, as birth-pains on a woman with child; and they will not be able to get away from it."
-        },
-        {
-          "verse": 4,
-          "text": "But you, my brothers, are not in the dark, for that day to overtake you like a thief:"
-        },
-        {
-          "verse": 5,
-          "text": "For you are all sons of light and of the day: we are not of the night or of the dark."
-        },
-        {
-          "verse": 6,
-          "text": "So then, let us not take our rest as the others do, but let us be self-controlled and awake."
-        },
-        {
-          "verse": 7,
-          "text": "For those who are sleeping do so in the night; and those who are the worse for drink are so in the night;"
-        },
-        {
-          "verse": 8,
-          "text": "But let us, who are of the day, be serious, putting on the breastplate of faith and love, and on our heads, the hope of salvation."
-        },
-        {
-          "verse": 9,
-          "text": "For God's purpose for us is not wrath, but salvation through our Lord Jesus Christ,"
-        },
-        {
-          "verse": 10,
-          "text": "Who was put to death for us, so that, awake or sleeping, we may have a part in his life."
-        },
-        {
-          "verse": 11,
-          "text": "So then, go on comforting and building up one another, as you have been doing."
-        },
-        {
-          "verse": 12,
-          "text": "But we make this request to you, my brothers: give attention to those who are working among you, who are over you in the Lord to keep order among you;"
-        },
-        {
-          "verse": 13,
-          "text": "And have a high opinion of them in love because of their work. Be at peace among yourselves."
-        },
-        {
-          "verse": 14,
-          "text": "And our desire is that you will keep control over those whose lives are not well ordered, giving comfort to the feeble-hearted, supporting those with little strength, and putting up with much from all."
-        },
-        {
-          "verse": 15,
-          "text": "Let no one give evil for evil; but ever go after what is good, for one another and for all."
-        },
-        {
-          "verse": 16,
-          "text": "Have joy at all times."
-        },
-        {
-          "verse": 17,
-          "text": "Keep on with your prayers."
-        },
-        {
-          "verse": 18,
-          "text": "In everything give praise: for this is the purpose of God in Christ Jesus for you."
-        },
-        {
-          "verse": 19,
-          "text": "Do not put out the light of the Spirit;"
-        },
-        {
-          "verse": 20,
-          "text": "Do not make little of the words of the prophets;"
-        },
-        {
-          "verse": 21,
-          "text": "Let all things be tested; keep to what is good;"
-        },
-        {
-          "verse": 22,
-          "text": "Keep from every form of evil."
-        },
-        {
-          "verse": 23,
-          "text": "And may the God of peace himself make you holy in every way; and may your spirit and soul and body be free from all sin at the coming of our Lord Jesus Christ."
-        },
-        {
-          "verse": 24,
-          "text": "God, by whom you have been marked out in his purpose, is unchanging and will make it complete."
-        },
-        {
-          "verse": 25,
-          "text": "Brothers, keep us in mind in your prayers."
-        },
-        {
-          "verse": 26,
-          "text": "Give all the brothers a holy kiss."
-        },
-        {
-          "verse": 27,
-          "text": "I give orders in the name of the Lord that all the brothers are to be present at the reading of this letter."
-        },
-        {
-          "verse": 28,
-          "text": "The grace of our Lord Jesus Christ be with you."
-        }
-      ],
-      "totalVerses": 28,
-      "footnotes": []
+      "notes": [
+        "People who do not know thetruthabout God are like people who live in the dark. God's light shows people the truth. Night and day are the same picture.",
+        "The Christians at Thessalonica were waiting for Jesus to return. They thought that he would come soon. Some of them may have thought that they did not need to continue to work."
+      ]
     }
   ]
 }

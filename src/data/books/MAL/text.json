@@ -1,550 +1,588 @@
 {
-  "translation": "EasyEnglish Bible",
-  "book": "Malachi",
-  "bookId": "MAL",
+  "id": "MAL",
+  "name": "Malachi",
+  "slug": "malachi",
+  "translation": "EasyEnglish Bible (EASY)",
+  "publisher": "MissionAssist UK",
+  "referenceUrl": "https://www.easyenglish.bible/bible/easy/malachi/",
   "totalChapters": 4,
-  "copyrightNotice": "Scripture quotations are from the EasyEnglish Bible / Bible in Basic English. Public Domain.",
-  "officialSourceUrl": "https://www.easyenglish.bible/bible/easy/malachi/1/",
+  "totalVerses": 55,
   "chapters": [
     {
-      "book": "Malachi",
       "chapter": 1,
       "title": "Malachi 1",
-      "subtitle": "Malachi Chapter 1",
+      "subtitle": "",
+      "totalVerses": 14,
+      "sourceUrl": "https://www.easyenglish.bible/bible/easy/malachi/1/",
       "sections": [
         {
-          "heading": "Malachi Chapter 1",
+          "heading": "God chose Jacob's descendants as his people",
           "items": [
             [
               {
                 "verse": 1,
-                "text": "The word of the Lord to Israel by Malachi."
-              },
-              {
-                "verse": 2,
-                "text": "You have been loved by me, says the Lord. But you say, Where was your love for us? Was not Esau Jacob's brother? says the Lord: but Jacob was loved by me,"
-              },
-              {
-                "verse": 3,
-                "text": "And Esau was hated, and I sent destruction on his mountains, and gave his heritage to the beasts of the waste land."
-              },
-              {
-                "verse": 4,
-                "text": "Though Edom says, We are crushed down but we will come back, building up the waste places; this is what the Lord of armies has said: They may put up buildings, but I will have them pulled down; and they will be named The land of evil-doing, and The people against whom the Lord keeps his wrath for ever."
+                "text": "This is the message that the Lord spoke to Malachi. Malachi knew that he must tell this message to the Israelites."
               }
             ],
             [
               {
-                "verse": 5,
-                "text": "And your eyes will see it; and you will say, The Lord is great even outside the limits of Israel."
+                "verse": 2,
+                "text": "The Lord says, ‘I have loved you.’"
+              }
+            ],
+            [
+              {
+                "verse": 2,
+                "text": "But you ask, ‘How have you loved us?’"
+              }
+            ],
+            [
+              {
+                "verse": 2,
+                "text": "The Lord says, ‘I chose to love Jacob and his descendants. Esau was Jacob's brother."
               },
+              {
+                "verse": 3,
+                "text": "But I have not loved Esau and his descendants."
+              }
+            ],
+            [
+              {
+                "verse": 3,
+                "text": "Instead, I have caused trouble for Esau. I caused Esau's mountains to become a wilderness. Nobody uses that land any longer. Now there are only jackals in the land that belongs to Esau.’"
+              }
+            ],
+            [
+              {
+                "verse": 4,
+                "text": "Esau's descendants in Edom may say, ‘They have destroyed our towns, but we will build our houses again.’"
+              }
+            ],
+            [
+              {
+                "verse": 4,
+                "text": "But the Lord Almighty says, ‘They may build again, but I will knock everything down. People will call Edom, “The Evil Land”. They will call them, “The nation that the Lord is angry with for ever”."
+              },
+              {
+                "verse": 5,
+                "text": "You will see with your own eyes what I will do to them. Then you will say, “The Lord has great power, even beyond Israel's borders.” ’"
+              }
+            ]
+          ]
+        },
+        {
+          "heading": "Judah's priests do not respect God",
+          "items": [
+            [
               {
                 "verse": 6,
-                "text": "A son gives honour to his father, and a servant has fear of his master: if then I am a father, where is my honour? and if I am a master, where is the fear of me? says the Lord of armies to you, O priests, who give no value to my name. And you say, How have we not given value to your name?"
-              },
+                "text": "The Lord Almighty says this to the priests:"
+              }
+            ],
+            [
+              {
+                "verse": 6,
+                "text": "‘A son respects his father. A servant respects his master. If I am really your father and your master, why do you not respect me? You are my priests, but you insult my name."
+              }
+            ],
+            [
+              {
+                "verse": 6,
+                "text": "But then you ask, “What have we done to insult your name?”"
+              }
+            ],
+            [
               {
                 "verse": 7,
-                "text": "You put unclean bread on my altar. And you say, How have we made it unclean? By your saying, The table of the Lord is of no value."
+                "text": "You insult my name when you offer unclean sacrifices to me on my altar."
+              }
+            ],
+            [
+              {
+                "verse": 7,
+                "text": "But you ask, “How have we offered unclean sacrifices to you?”"
+              }
+            ],
+            [
+              {
+                "verse": 7,
+                "text": "You have shown that you do not respect the Lord's altar as important."
               },
               {
                 "verse": 8,
-                "text": "And when you give what is blind for an offering, it is no evil! and when you give what is damaged and ill, it is no evil! Give it now to your ruler; will he be pleased with you, or will you have his approval? says the Lord of armies."
+                "text": "You offer blind animals as a sacrifice to me. You know that is wrong. You offer to me animals that cannot walk or animals that are ill. That is also a wrong thing to do. You would not give gifts like that to your city's ruler. If you did, he would surely not accept them. He would not be happy with your gifts.’"
+              }
+            ],
+            [
+              {
+                "verse": 8,
+                "text": "That is what the Lord Almighty says."
               }
             ],
             [
               {
                 "verse": 9,
-                "text": "And now, make request for the grace of God so that he may have mercy on us: this has been your doing: will he give his approval to any of you? says the Lord of armies."
-              },
+                "text": "‘Now you ask me to be kind to you. You want me to forgive you. But when you offer unclean animals as gifts to me, I will not be happy with your gifts.’"
+              }
+            ],
+            [
+              {
+                "verse": 9,
+                "text": "That is what the Lord Almighty says."
+              }
+            ],
+            [
               {
                 "verse": 10,
-                "text": "If only there was one among you who would see that the doors were shut, so that you might not put a light to the fire on my altar for nothing! I have no pleasure in you, says the Lord of armies, and I will not take an offering from your hands."
-              },
+                "text": "‘It would be better if one of you shut the temple doors! Then you would not be able to offer useless sacrifices on my altar. I am not happy with you. I will not accept any more gifts from you.’"
+              }
+            ],
+            [
+              {
+                "verse": 10,
+                "text": "That is what the Lord Almighty says."
+              }
+            ],
+            [
               {
                 "verse": 11,
-                "text": "For, from the coming up of the sun till its going down, my name is great among the Gentiles; and in every place the smell of burning flesh is offered to my name, and a clean offering: for my name is great among the Gentiles, says the Lord of armies."
-              },
+                "text": "‘People in every nation of the whole world will respect my name. People everywhere will offer incense and pure sacrifices to worship me. They will all know that I am great.’"
+              }
+            ],
+            [
+              {
+                "verse": 11,
+                "text": "That is what the Lord Almighty says."
+              }
+            ],
+            [
               {
                 "verse": 12,
-                "text": "But you make it unholy by saying, The Lord's table has become unclean, and his food is of no value."
+                "text": "‘But you priests insult my name. You say that the Lord's altar is not special. You think that the food which you offer to me has no value."
+              },
+              {
+                "verse": 13,
+                "text": "You also say, “It is too much trouble to serve the Lord.” You think that you are too important to serve me.’"
               }
             ],
             [
               {
                 "verse": 13,
-                "text": "And you say, See, what a weariness it is! and you let out your breath at it, says the Lord of armies; and you have given what has been cut about by beasts, and what is damaged in its feet and ill; this is the offering you give: will this be pleasing to me from your hands? says the Lord."
-              },
+                "text": "That is what the Lord Almighty says."
+              }
+            ],
+            [
+              {
+                "verse": 13,
+                "text": "‘You offer to me animals that cannot walk or that are ill. You have even robbed other people to get some of these animals. Do you think that I will accept these unclean animals from you? Will I be happy with them?’"
+              }
+            ],
+            [
+              {
+                "verse": 13,
+                "text": "That is what the Lord says."
+              }
+            ],
+            [
               {
                 "verse": 14,
-                "text": "A curse on the false man who has a male in his flock, and takes his oath, and gives to the Lord a damaged thing: for I am a great King, says the Lord of armies, and my name is to be feared among the Gentiles."
+                "text": "‘You may promise to offer to me a valuable male animal from among your sheep. But then you change your mind. Instead, you offer to me an animal that has no value. I will surely punish you when you cheat me like that. Remember that I am a great king. People of all nations in the world respect my name with fear.’"
+              }
+            ],
+            [
+              {
+                "verse": 14,
+                "text": "That is what the Lord Almighty says."
               }
             ]
           ]
         }
       ],
-      "verses": [
-        {
-          "verse": 1,
-          "text": "The word of the Lord to Israel by Malachi."
-        },
-        {
-          "verse": 2,
-          "text": "You have been loved by me, says the Lord. But you say, Where was your love for us? Was not Esau Jacob's brother? says the Lord: but Jacob was loved by me,"
-        },
-        {
-          "verse": 3,
-          "text": "And Esau was hated, and I sent destruction on his mountains, and gave his heritage to the beasts of the waste land."
-        },
-        {
-          "verse": 4,
-          "text": "Though Edom says, We are crushed down but we will come back, building up the waste places; this is what the Lord of armies has said: They may put up buildings, but I will have them pulled down; and they will be named The land of evil-doing, and The people against whom the Lord keeps his wrath for ever."
-        },
-        {
-          "verse": 5,
-          "text": "And your eyes will see it; and you will say, The Lord is great even outside the limits of Israel."
-        },
-        {
-          "verse": 6,
-          "text": "A son gives honour to his father, and a servant has fear of his master: if then I am a father, where is my honour? and if I am a master, where is the fear of me? says the Lord of armies to you, O priests, who give no value to my name. And you say, How have we not given value to your name?"
-        },
-        {
-          "verse": 7,
-          "text": "You put unclean bread on my altar. And you say, How have we made it unclean? By your saying, The table of the Lord is of no value."
-        },
-        {
-          "verse": 8,
-          "text": "And when you give what is blind for an offering, it is no evil! and when you give what is damaged and ill, it is no evil! Give it now to your ruler; will he be pleased with you, or will you have his approval? says the Lord of armies."
-        },
-        {
-          "verse": 9,
-          "text": "And now, make request for the grace of God so that he may have mercy on us: this has been your doing: will he give his approval to any of you? says the Lord of armies."
-        },
-        {
-          "verse": 10,
-          "text": "If only there was one among you who would see that the doors were shut, so that you might not put a light to the fire on my altar for nothing! I have no pleasure in you, says the Lord of armies, and I will not take an offering from your hands."
-        },
-        {
-          "verse": 11,
-          "text": "For, from the coming up of the sun till its going down, my name is great among the Gentiles; and in every place the smell of burning flesh is offered to my name, and a clean offering: for my name is great among the Gentiles, says the Lord of armies."
-        },
-        {
-          "verse": 12,
-          "text": "But you make it unholy by saying, The Lord's table has become unclean, and his food is of no value."
-        },
-        {
-          "verse": 13,
-          "text": "And you say, See, what a weariness it is! and you let out your breath at it, says the Lord of armies; and you have given what has been cut about by beasts, and what is damaged in its feet and ill; this is the offering you give: will this be pleasing to me from your hands? says the Lord."
-        },
-        {
-          "verse": 14,
-          "text": "A curse on the false man who has a male in his flock, and takes his oath, and gives to the Lord a damaged thing: for I am a great King, says the Lord of armies, and my name is to be feared among the Gentiles."
-        }
-      ],
-      "totalVerses": 14,
-      "footnotes": []
+      "notes": [
+        "When we writeLordlike this, it is a special name for God. Sometimes people write it as the Hebrew name ‘Yahweh’. It is God's own name that he told Moses. SeeExodus 3:14. It means ‘I am who I am’. This shows that God has always been there and he always will be there.",
+        "Esau and Jacob were brothers who weretwins. Esau was born first. So he should have received God's specialblessing. But Esau sold his blessing to Jacob. God gave Jacob a new name, ‘Israel’. The 12tribesof Israel weredescendantsof Jacob's 12 sons.",
+        "Toinsultthe name of God was to show norespectfor God himself.",
+        "Malachi says that the people and thepriestswere trying tocheatGod. Thesacrificesthat they offered to God were not good andpure."
+      ]
     },
     {
-      "book": "Malachi",
       "chapter": 2,
       "title": "Malachi 2",
-      "subtitle": "Malachi Chapter 2",
+      "subtitle": "",
+      "totalVerses": 17,
+      "sourceUrl": "https://www.easyenglish.bible/bible/easy/malachi/2/",
       "sections": [
         {
-          "heading": "Malachi Chapter 2",
+          "heading": "God warns the priests",
           "items": [
             [
               {
                 "verse": 1,
-                "text": "And now, O you priests, this order is for you."
-              },
-              {
-                "verse": 2,
-                "text": "If you will not give ear and take it to heart, to give glory to my name, says the Lord of armies, then I will send the curse on you and will put a curse on your blessing: truly, even now I have put a curse on it, because you do not take it to heart."
-              },
-              {
-                "verse": 3,
-                "text": "See, I will have your arm cut off, and will put waste on your faces, even the waste from your feasts; and you will be taken away with it."
-              },
-              {
-                "verse": 4,
-                "text": "And you will be certain that I have sent this order to you, so that it might be my agreement with Levi, says the Lord of armies."
+                "text": "The Lord Almighty says this to the priests:"
               }
             ],
             [
               {
+                "verse": 2,
+                "text": "‘Listen carefully to what I say to you. You must respect my name properly. If not, I will punish you. I will no longer bless you but I will curse you. I am already doing that because you do not respect my name as you should."
+              }
+            ],
+            [
+              {
+                "verse": 3,
+                "text": "I will punish your descendants. When you offer an animal as a sacrifice at your festivals, I will cover your faces with its dirty bits. Then they will throw you away with all the other dirty bits. Those are the bits that I cannot accept as clean.’"
+              }
+            ],
+            [
+              {
+                "verse": 4,
+                "text": "The Lord Almighty says, ‘When I punish you like that, you will know that I have warned you. Then the covenant that I made with Levi and his descendants, the priests, can continue."
+              },
+              {
                 "verse": 5,
-                "text": "My agreement with him was on my side life and peace, and I gave them to him; on his side fear, and he had fear of me and gave honour to my name."
+                "text": "I promised to give them a good life with many blessings. Levi received what I promised to him. He served me and he respected me, as a priest should do."
               },
               {
                 "verse": 6,
-                "text": "True teaching was in his mouth, and no evil was seen on his lips: he was walking with me in peace and righteousness, turning numbers of people away from evil-doing."
-              },
+                "text": "He taught my true message. He did not teach people anything that was bad. He lived in a good and honest way as he served me. He helped many people to stop doing wrong things."
+              }
+            ],
+            [
               {
                 "verse": 7,
-                "text": "For it is right for the priest's lips to keep knowledge, and for men to be waiting for the law from his mouth: for he is the servant sent from the Lord of armies."
+                "text": "Priests should help people to know the truth about God. People should ask the priests to teach them, because the Lord Almighty has chosen priests to speak his message."
               },
               {
                 "verse": 8,
-                "text": "But you are turned out of the way; you have made the law hard for numbers of people; you have made the agreement of Levi of no value, says the Lord of armies."
+                "text": "But you priests do not serve me in the right way. What you teach causes many people to do wrong things. In that way, you have spoiled the covenant that I made with Levi.’"
+              }
+            ],
+            [
+              {
+                "verse": 8,
+                "text": "That is what the Lord Almighty says."
               }
             ],
             [
               {
                 "verse": 9,
-                "text": "And so I have taken away your honour and made you low before all the people, even as you have not kept my ways, and have given no thought to me in using the law."
-              },
+                "text": "‘So I have caused all the people to insult you. They no longer respect you, because you do not obey my rules. When you teach my people, you are kind to some of them but you cheat others.’"
+              }
+            ]
+          ]
+        },
+        {
+          "heading": "Judah's people have turned against God",
+          "items": [
+            [
               {
                 "verse": 10,
-                "text": "Have we not all one father? has not one God made us? why are we, every one of us, acting falsely to his brother, putting shame on the agreement of our fathers?"
-              },
+                "text": "You know that we all have one Father. It is God himself who made all of us. But now we turn against each other. We do not respect the covenant that God made with our ancestors."
+              }
+            ],
+            [
               {
                 "verse": 11,
-                "text": "Judah has been acting falsely, and a disgusting thing has been done in Jerusalem; for Judah has made unclean the holy place of the Lord which is dear to him, and has taken as his wife the daughter of a strange god."
+                "text": "Judah's people have turned against God. As a result, people have done disgusting things in Jerusalem and in all Israel. You have spoiled the holy place, the temple that the Lord loves. You have turned away from the Lord and you worship foreign gods."
               },
               {
                 "verse": 12,
-                "text": "The Lord will have the man who does this cut off root and branch out of the tents of Jacob, and him who makes an offering to the Lord of armies."
+                "text": "I pray that the Lord will remove all people like that from among his people. Not one of them will continue to belong to the family of Jacob. They will no longer be able to offer gifts to the Lord Almighty."
               }
             ],
             [
               {
                 "verse": 13,
-                "text": "And this again you do: covering the altar of the Lord with weeping and with grief, so that he gives no more thought to the offering, and does not take it with pleasure from your hand."
+                "text": "Also, you weep so much that your tears cover the Lord's altar! You cry because the Lord no longer accepts your gifts. He is not happy with the gifts that you offer to him."
               },
               {
                 "verse": 14,
-                "text": "But you say, For what reason? Because the Lord has been a witness between you and the wife of your early years, to whom you have been untrue, though she is your friend and the wife to whom you have given your word."
-              },
+                "text": "You ask, ‘Why is the Lord not happy with our gifts?’ The Lord knows that you men have not done the right thing with your wives. When you married as a young man, you promised to take care of your wife always. But you have sent her away, when the Law says that you must stay with her as your wife."
+              }
+            ],
+            [
               {
                 "verse": 15,
-                "text": "... So give thought to your spirit, and let no one be false to the wife of his early years."
-              },
+                "text": "The Lord has joined you together, as a man with his wife. Your body and your spirit belong to him. Why did God put you together? He wanted you to have children who would belong to him. So think carefully about how you live. Do not leave the wife that you married when you were a young man."
+              }
+            ],
+            [
               {
                 "verse": 16,
-                "text": "For I am against the putting away of a wife, says the Lord, the God of Israel, and against him who is clothed with violent acts, says the Lord of armies: so give thought to your spirit and do not be false in your acts."
+                "text": "The Lord God of Israel says this: ‘If a man sends his wife away from him, I hate that! He has been cruel to his wife when he should take care of her. So be very careful! Remember your promise to take care of your wife.’"
+              }
+            ],
+            [
+              {
+                "verse": 16,
+                "text": "That is what the Lord Almighty says."
               }
             ],
             [
               {
                 "verse": 17,
-                "text": "You have made the Lord tired with your words. And still you say, How have we made him tired? By your saying, Everyone who does evil is good in the eyes of the Lord, and he has delight in them; or, Where is God the judge?"
+                "text": "The Lord has become tired as he listens to your words."
+              }
+            ],
+            [
+              {
+                "verse": 17,
+                "text": "You ask, ‘Why is he tired? What have we done to cause that?’"
+              }
+            ],
+            [
+              {
+                "verse": 17,
+                "text": "It is because you say, ‘The Lord thinks that all people who do evil things are good! He does not punish them but he is happy with them.’ You also say, ‘God is not here to bring justice!’"
               }
             ]
           ]
         }
       ],
-      "verses": [
-        {
-          "verse": 1,
-          "text": "And now, O you priests, this order is for you."
-        },
-        {
-          "verse": 2,
-          "text": "If you will not give ear and take it to heart, to give glory to my name, says the Lord of armies, then I will send the curse on you and will put a curse on your blessing: truly, even now I have put a curse on it, because you do not take it to heart."
-        },
-        {
-          "verse": 3,
-          "text": "See, I will have your arm cut off, and will put waste on your faces, even the waste from your feasts; and you will be taken away with it."
-        },
-        {
-          "verse": 4,
-          "text": "And you will be certain that I have sent this order to you, so that it might be my agreement with Levi, says the Lord of armies."
-        },
-        {
-          "verse": 5,
-          "text": "My agreement with him was on my side life and peace, and I gave them to him; on his side fear, and he had fear of me and gave honour to my name."
-        },
-        {
-          "verse": 6,
-          "text": "True teaching was in his mouth, and no evil was seen on his lips: he was walking with me in peace and righteousness, turning numbers of people away from evil-doing."
-        },
-        {
-          "verse": 7,
-          "text": "For it is right for the priest's lips to keep knowledge, and for men to be waiting for the law from his mouth: for he is the servant sent from the Lord of armies."
-        },
-        {
-          "verse": 8,
-          "text": "But you are turned out of the way; you have made the law hard for numbers of people; you have made the agreement of Levi of no value, says the Lord of armies."
-        },
-        {
-          "verse": 9,
-          "text": "And so I have taken away your honour and made you low before all the people, even as you have not kept my ways, and have given no thought to me in using the law."
-        },
-        {
-          "verse": 10,
-          "text": "Have we not all one father? has not one God made us? why are we, every one of us, acting falsely to his brother, putting shame on the agreement of our fathers?"
-        },
-        {
-          "verse": 11,
-          "text": "Judah has been acting falsely, and a disgusting thing has been done in Jerusalem; for Judah has made unclean the holy place of the Lord which is dear to him, and has taken as his wife the daughter of a strange god."
-        },
-        {
-          "verse": 12,
-          "text": "The Lord will have the man who does this cut off root and branch out of the tents of Jacob, and him who makes an offering to the Lord of armies."
-        },
-        {
-          "verse": 13,
-          "text": "And this again you do: covering the altar of the Lord with weeping and with grief, so that he gives no more thought to the offering, and does not take it with pleasure from your hand."
-        },
-        {
-          "verse": 14,
-          "text": "But you say, For what reason? Because the Lord has been a witness between you and the wife of your early years, to whom you have been untrue, though she is your friend and the wife to whom you have given your word."
-        },
-        {
-          "verse": 15,
-          "text": "... So give thought to your spirit, and let no one be false to the wife of his early years."
-        },
-        {
-          "verse": 16,
-          "text": "For I am against the putting away of a wife, says the Lord, the God of Israel, and against him who is clothed with violent acts, says the Lord of armies: so give thought to your spirit and do not be false in your acts."
-        },
-        {
-          "verse": 17,
-          "text": "You have made the Lord tired with your words. And still you say, How have we made him tired? By your saying, Everyone who does evil is good in the eyes of the Lord, and he has delight in them; or, Where is God the judge?"
-        }
-      ],
-      "totalVerses": 17,
-      "footnotes": []
+      "notes": [
+        "The dirty bits of the animals were the things that were inside its stomach. Those things could not be part of thesacrificethat they offered to God. They should take those bits away and put them on theheapofrubbish.",
+        "Levi was one of Jacob's sons. From his family, God chose the firstpriest, Aaron.",
+        "Thepriestsmay have been more kind to rich people than they were to poor people.",
+        "Theancestorsof the Israelites were Abraham, Isaac and Jacob. God changed Jacob's name to become ‘Israel’.",
+        "Judah was one of the 12 sons of Jacob. He was theancestorof theIsraelitetribecalled Judah.",
+        "Jerusalem was the capital city of Judah. God'stemplewas in Jerusalem.",
+        "‘The family of Jacob’ means theIsraelites."
+      ]
     },
     {
-      "book": "Malachi",
       "chapter": 3,
       "title": "Malachi 3",
-      "subtitle": "Malachi Chapter 3",
+      "subtitle": "",
+      "totalVerses": 18,
+      "sourceUrl": "https://www.easyenglish.bible/bible/easy/malachi/3/",
       "sections": [
         {
-          "heading": "Malachi Chapter 3",
+          "heading": "God promises to send a messenger to his people",
           "items": [
             [
               {
                 "verse": 1,
-                "text": "See, I am sending my servant, and he will make ready the way before me; and the Lord, whom you are looking for, will suddenly come to his Temple; and the angel of the agreement, in whom you have delight, see, he is coming, says the Lord of armies."
-              },
+                "text": "The Lord Almighty says, ‘Look! I will send someone to speak my message. He will prepare the way before me. Then the Lord that you are waiting for will quickly return to his temple. The one who brings the message about my covenant will certainly come. He is the one that you really want to see."
+              }
+            ],
+            [
               {
                 "verse": 2,
-                "text": "But by whom may the day of his coming be faced? and who may keep his place when he is seen? for he is like the metal-tester's fire and the cleaner's soap."
+                "text": "But when he comes, he will be like a hot fire that makes metal pure. He will be like strong soap that makes clothes completely clean. Nobody will be able to stand in front of him when he appears. On that day, nobody will remain the same."
               },
               {
                 "verse": 3,
-                "text": "He will take his seat, testing and cleaning the sons of Levi, burning away the evil from them as from gold and silver; so that they may make offerings to the Lord in righteousness."
+                "text": "He will work like a man who uses a hot fire to make gold and silver pure. He will make the Levites clean and pure. He will remove their dirt. Then they can offer proper sacrifices to the Lord."
               },
               {
                 "verse": 4,
-                "text": "Then the offering of Judah and Jerusalem will be pleasing to the Lord, as in days gone by, and as in past years."
+                "text": "The Lord will accept the gifts that the people of Judah and Jerusalem offer to him. He will be happy with them as he was in earlier times."
               }
             ],
             [
               {
                 "verse": 5,
-                "text": "And I will come near to you for judging; I will quickly be a witness against the wonder-workers, against those who have been untrue in married life, against those who take false oaths; against those who keep back from the servant his payment, and who are hard on the widow and the child without a father, who do not give his rights to the man from a strange country, and have no fear of me, says the Lord of armies."
-              },
-              {
-                "verse": 6,
-                "text": "For I am the Lord, I am unchanged; and so you, O sons of Jacob, have not been cut off."
-              },
-              {
-                "verse": 7,
-                "text": "From the days of your fathers you have been turned away from my rules and have not kept them. Come back to me, and I will come back to you, says the Lord of armies. But you say, How are we to come back?"
-              },
-              {
-                "verse": 8,
-                "text": "Will a man keep back from God what is right? But you have kept back what is mine. But you say, What have we kept back from you? Tenths and offerings."
+                "text": "At that time, I will come among you as your judge. I will speak against those who have done wrong things. I will punish the magicians, the adulterers and those who tell lies against other people. I will punish those people who are cruel to their workers and those who deceive widows or children who have no family. And I will punish those who do not help foreigners who live among them. People who do those things show that they do not respect me.’"
               }
             ],
             [
               {
-                "verse": 9,
-                "text": "You are cursed with a curse; for you have kept back from me what is mine, even all this nation."
+                "verse": 5,
+                "text": "That is what the Lord Almighty says."
+              }
+            ]
+          ]
+        },
+        {
+          "heading": "The Israelites are robbing God",
+          "items": [
+            [
+              {
+                "verse": 6,
+                "text": "‘I am the Lord and I do not change. Because of my promises to my people, I have not destroyed you, descendants of Jacob."
               },
               {
+                "verse": 7,
+                "text": "I have told you my commands. But you do not listen to me any longer. Since the time of your ancestors, you have not obeyed me. Now, return to me! Then I will return to bless you.’"
+              }
+            ],
+            [
+              {
+                "verse": 7,
+                "text": "That is what the Lord Almighty says."
+              }
+            ],
+            [
+              {
+                "verse": 7,
+                "text": "‘But you ask, “How do we return to you?”"
+              },
+              {
+                "verse": 8,
+                "text": "I say to you, “A man should not rob God. But you are robbing me.”"
+              }
+            ],
+            [
+              {
+                "verse": 8,
+                "text": "But you ask, “How do we rob you?” I say, “You do not give me the tithes and the offerings that you should give.”"
+              },
+              {
+                "verse": 9,
+                "text": "Yes, all of you are robbing me. The whole nation is guilty. So you will receive the punishment of a curse."
+              }
+            ],
+            [
+              {
                 "verse": 10,
-                "text": "Let your tenths come into the store-house so that there may be food in my house, and put me to the test by doing so, says the Lord of armies, and see if I do not make the windows of heaven open and send down such a blessing on you that there is no room for it."
+                "text": "Now you must bring the whole tithe that belongs to me. Store it in my temple, so that there will be food in my house. Obey me and then see what I will do.’"
+              }
+            ],
+            [
+              {
+                "verse": 10,
+                "text": "That is what the Lord Almighty says."
+              }
+            ],
+            [
+              {
+                "verse": 10,
+                "text": "‘You will see how much I will bless you! You will not have enough room to store all the good things that I will give to you. I will pour blessings out of the sky like rain."
               },
               {
                 "verse": 11,
-                "text": "And on your account I will keep back the locusts from wasting the fruits of your land; and the fruit of your vine will not be dropped on the field before its time, says the Lord of armies"
+                "text": "I will stop insects from eating your crops. The grapes will not fall from your vines before they are ready to eat."
               },
               {
                 "verse": 12,
-                "text": "And you will be named happy by all nations: for you will be a land of delight, says the Lord of armies."
+                "text": "You will be happy to live in your land. The people of all the other nations will see that God has blessed you.’"
+              }
+            ],
+            [
+              {
+                "verse": 12,
+                "text": "That is what the Lord Almighty says."
               }
             ],
             [
               {
                 "verse": 13,
-                "text": "Your words have been strong against me, says the Lord. And still you say, What have we said against you?"
-              },
+                "text": "The Lord says, ‘You have spoken bad words against me."
+              }
+            ],
+            [
+              {
+                "verse": 13,
+                "text": "But you ask, “What have we said against you?”"
+              }
+            ],
+            [
               {
                 "verse": 14,
-                "text": "You have said, It is no use worshipping God: what profit have we had from keeping his orders, and going in clothing of sorrow before the Lord of armies?"
+                "text": "You have said, “We serve God, but that has not helped us at all. We are careful to do what he tells us to do. When we do wrong things, we have sad faces to show the Lord Almighty that we are sorry."
               },
               {
                 "verse": 15,
-                "text": "And now to us the men of pride seem happy; yes, the evil-doers are doing well; they put God to the test and are safe."
-              },
+                "text": "But it is proud people that God blesses! Yes, it is the people who do evil things who become rich! God does not even punish people who like to test him. That is what we think.” ’"
+              }
+            ]
+          ]
+        },
+        {
+          "heading": "God will bless people who are faithful to him",
+          "items": [
+            [
               {
                 "verse": 16,
-                "text": "Then those in whom was the fear of the Lord had talk together: and the Lord gave ear, and it was recorded in a book to be kept in mind before him, for those who had the fear of the Lord and gave thought to his name."
+                "text": "Then the people who respected the Lord talked to each other. The Lord listened to what they said. While the Lord watched, someone wrote names on a scroll. Those were the names of the people who respected the Lord and who gave honour to his name. They wrote down their names so that people would remember them."
               }
             ],
             [
               {
                 "verse": 17,
-                "text": "And they will be mine, says the Lord, in the day when I make them my special property; and I will have mercy on them as a man has mercy on his son who is his servant."
+                "text": "The Lord Almighty says, ‘These people will belong to me. One day I will come to judge everyone. At that time I will bring together all my own special people. I will not punish them. I will take care of them, like a father takes care of his son who serves him."
               },
               {
                 "verse": 18,
-                "text": "Then you will again see how the upright man is different from the sinner, and the servant of God from him who is not."
+                "text": "Because of that, you will see again that I am kind to righteous people, but I punish wicked people. I show the difference between people who serve me faithfully and those who do not.’"
               }
             ]
           ]
         }
       ],
-      "verses": [
-        {
-          "verse": 1,
-          "text": "See, I am sending my servant, and he will make ready the way before me; and the Lord, whom you are looking for, will suddenly come to his Temple; and the angel of the agreement, in whom you have delight, see, he is coming, says the Lord of armies."
-        },
-        {
-          "verse": 2,
-          "text": "But by whom may the day of his coming be faced? and who may keep his place when he is seen? for he is like the metal-tester's fire and the cleaner's soap."
-        },
-        {
-          "verse": 3,
-          "text": "He will take his seat, testing and cleaning the sons of Levi, burning away the evil from them as from gold and silver; so that they may make offerings to the Lord in righteousness."
-        },
-        {
-          "verse": 4,
-          "text": "Then the offering of Judah and Jerusalem will be pleasing to the Lord, as in days gone by, and as in past years."
-        },
-        {
-          "verse": 5,
-          "text": "And I will come near to you for judging; I will quickly be a witness against the wonder-workers, against those who have been untrue in married life, against those who take false oaths; against those who keep back from the servant his payment, and who are hard on the widow and the child without a father, who do not give his rights to the man from a strange country, and have no fear of me, says the Lord of armies."
-        },
-        {
-          "verse": 6,
-          "text": "For I am the Lord, I am unchanged; and so you, O sons of Jacob, have not been cut off."
-        },
-        {
-          "verse": 7,
-          "text": "From the days of your fathers you have been turned away from my rules and have not kept them. Come back to me, and I will come back to you, says the Lord of armies. But you say, How are we to come back?"
-        },
-        {
-          "verse": 8,
-          "text": "Will a man keep back from God what is right? But you have kept back what is mine. But you say, What have we kept back from you? Tenths and offerings."
-        },
-        {
-          "verse": 9,
-          "text": "You are cursed with a curse; for you have kept back from me what is mine, even all this nation."
-        },
-        {
-          "verse": 10,
-          "text": "Let your tenths come into the store-house so that there may be food in my house, and put me to the test by doing so, says the Lord of armies, and see if I do not make the windows of heaven open and send down such a blessing on you that there is no room for it."
-        },
-        {
-          "verse": 11,
-          "text": "And on your account I will keep back the locusts from wasting the fruits of your land; and the fruit of your vine will not be dropped on the field before its time, says the Lord of armies"
-        },
-        {
-          "verse": 12,
-          "text": "And you will be named happy by all nations: for you will be a land of delight, says the Lord of armies."
-        },
-        {
-          "verse": 13,
-          "text": "Your words have been strong against me, says the Lord. And still you say, What have we said against you?"
-        },
-        {
-          "verse": 14,
-          "text": "You have said, It is no use worshipping God: what profit have we had from keeping his orders, and going in clothing of sorrow before the Lord of armies?"
-        },
-        {
-          "verse": 15,
-          "text": "And now to us the men of pride seem happy; yes, the evil-doers are doing well; they put God to the test and are safe."
-        },
-        {
-          "verse": 16,
-          "text": "Then those in whom was the fear of the Lord had talk together: and the Lord gave ear, and it was recorded in a book to be kept in mind before him, for those who had the fear of the Lord and gave thought to his name."
-        },
-        {
-          "verse": 17,
-          "text": "And they will be mine, says the Lord, in the day when I make them my special property; and I will have mercy on them as a man has mercy on his son who is his servant."
-        },
-        {
-          "verse": 18,
-          "text": "Then you will again see how the upright man is different from the sinner, and the servant of God from him who is not."
-        }
-      ],
-      "totalVerses": 18,
-      "footnotes": []
+      "notes": [
+        "The purpose of the hot fire is not to destroy the metal but to make itpure. So on this day theLordwill remove from people everything that is not good.",
+        "TheIsraeliteshad to take some of theircrops(atithe) to thetemple. The tithe would help the work of thepriestsand the Levites in the temple. God chose the Levites to do special work for him in his temple. They helped the priests in the temple."
+      ]
     },
     {
-      "book": "Malachi",
       "chapter": 4,
       "title": "Malachi 4",
-      "subtitle": "Malachi Chapter 4",
+      "subtitle": "",
+      "totalVerses": 6,
+      "sourceUrl": "https://www.easyenglish.bible/bible/easy/malachi/4/",
       "sections": [
         {
-          "heading": "Malachi Chapter 4",
+          "heading": "The great day when God will judge people",
           "items": [
             [
               {
                 "verse": 1,
-                "text": "For see, the day is coming, it is burning like an oven; all the men of pride and all who do evil will be dry stems of grass: and in the day which is coming they will be burned up, says the Lord of armies, till they have not a root or a branch."
-              },
+                "text": "‘The great day when I come to judge people will certainly happen. Punishment will come like the great fire of a hot oven. It will destroy all the proud people who do evil things. It will completely destroy them, like a fire that destroys dry grass. Nothing will remain.’"
+              }
+            ],
+            [
+              {
+                "verse": 1,
+                "text": "That is what the Lord Almighty says."
+              }
+            ],
+            [
               {
                 "verse": 2,
-                "text": "But to you who give worship to my name, the sun of righteousness will come up with new life in its wings; and you will go out, playing like young oxen full of food."
+                "text": "‘But it will be different for you who respect my name. On that day, I will come to make you well again, like the sun that rises to shine on you. I will show that you are right. When that happens, you will be very happy. You will jump up and down like calves when someone lets them go free."
               },
               {
                 "verse": 3,
-                "text": "And the evil-doers will be crushed under you, they will be dust under your feet, in the day when I do my work, says the Lord of armies."
-              },
+                "text": "Then you will walk over the wicked people. They will be like ashes under your feet. That will happen on the day when I do these things.’"
+              }
+            ],
+            [
+              {
+                "verse": 3,
+                "text": "That is what the Lord Almighty says."
+              }
+            ],
+            [
+              {
+                "verse": 3,
+                "text": "4 ‘Remember the laws that I gave to my servant Moses at Mount Sinai. Those rules and commands were for all the Israelites to obey.4:44:4 5 Look! I will send my prophet Elijah to you. He will come before that great day of the Lord arrives. That will be a day that makes people afraid. 6 He will speak my message, so that fathers and their children return to each other as friends. Then I will not have to come and bring punishment on the land.’4:5"
+              }
+            ],
+            [
               {
                 "verse": 4,
-                "text": "Keep in mind the law of Moses, my servant, which I gave him in Horeb for all Israel, even the rules and the decisions."
+                "text": "‘Remember the laws that I gave to my servant Moses at Mount Sinai. Those rules and commands were for all the Israelites to obey."
               }
             ],
             [
               {
                 "verse": 5,
-                "text": "See, I am sending you Elijah the prophet before the day of the Lord comes, that great day, greatly to be feared."
+                "text": "Look! I will send my prophet Elijah to you. He will come before that great day of the Lord arrives. That will be a day that makes people afraid."
               },
               {
                 "verse": 6,
-                "text": "And by him the hearts of fathers will be turned to their children, and the hearts of children to their fathers; for fear that I may come and put the earth under a curse."
+                "text": "He will speak my message, so that fathers and their children return to each other as friends. Then I will not have to come and bring punishment on the land.’"
               }
             ]
           ]
         }
       ],
-      "verses": [
-        {
-          "verse": 1,
-          "text": "For see, the day is coming, it is burning like an oven; all the men of pride and all who do evil will be dry stems of grass: and in the day which is coming they will be burned up, says the Lord of armies, till they have not a root or a branch."
-        },
-        {
-          "verse": 2,
-          "text": "But to you who give worship to my name, the sun of righteousness will come up with new life in its wings; and you will go out, playing like young oxen full of food."
-        },
-        {
-          "verse": 3,
-          "text": "And the evil-doers will be crushed under you, they will be dust under your feet, in the day when I do my work, says the Lord of armies."
-        },
-        {
-          "verse": 4,
-          "text": "Keep in mind the law of Moses, my servant, which I gave him in Horeb for all Israel, even the rules and the decisions."
-        },
-        {
-          "verse": 5,
-          "text": "See, I am sending you Elijah the prophet before the day of the Lord comes, that great day, greatly to be feared."
-        },
-        {
-          "verse": 6,
-          "text": "And by him the hearts of fathers will be turned to their children, and the hearts of children to their fathers; for fear that I may come and put the earth under a curse."
-        }
-      ],
-      "totalVerses": 6,
-      "footnotes": []
+      "notes": [
+        "Moses was a great leader of the Israelites, who gaveGod's lawsto the people.",
+        "SeeExodus 20:1-17.",
+        "Elijah was aprophetwho spoke God's message to the people. See1 Kings 17:1. Here, God promises that another prophet like Elijah will come. SeeMatthew 17:10-13."
+      ]
     }
   ]
 }

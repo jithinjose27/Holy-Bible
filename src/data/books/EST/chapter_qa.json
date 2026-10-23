@@ -1,9 +1,6 @@
 {
-  "book": "Esther",
   "bookId": "EST",
-  "totalChapters": 10,
-  "totalQuestions": 100,
-  "questionsPerChapter": 10,
+  "bookName": "Esther",
   "chapters": {
     "1": [
       {
@@ -11,150 +8,150 @@
         "questionNumber": 1,
         "question": "According to Esther 1:1, what is the opening statement or setting of this chapter?",
         "options": [
-          "It records: “Now it came about in the days of Ahasuerus, (that Ahasuerus who w...”",
+          "It records: “These things happened when King Xerxes ruled. He was the king who...”",
           "It begins with a prayer of thanksgiving for deliverance in Esther",
           "It opens with a formal census and counting of the congregation",
           "It records a severe judgment pronounced against neighboring nations"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "It records: “Now it came about in the days of Ahasuerus, (that Ahasuerus who w...”",
+        "correctAnswer": "It records: “These things happened when King Xerxes ruled. He was the king who...”",
         "reference": "Esther 1:1",
-        "explanation": "The chapter begins directly with the statement: 'Now it came about in the days of Ahasuerus, (that Ahasuerus who was ruler of a hundred and twenty-seven divisions of the kingdom, from India as far as Ethiopia:)'."
+        "explanation": "The chapter begins directly with the statement: 'These things happened when King Xerxes ruled. He was the king who ruled over 127 regions, from India to Ethiopia.'."
       },
       {
         "id": "est-1-q2",
         "questionNumber": 2,
         "question": "What key instruction, event, or declaration is set forth in Esther 1:2?",
         "options": [
-          "“And at the end of that time, the king...”",
-          "“That in those days, when King Ahasuerus was ruling in Shushan,...”",
-          "“And Vashti the queen gave a feast for the...”",
+          "“When this feast finished, he gave another feast for...”",
+          "“King Xerxes lived in the capital, the city of Susa.”",
+          "“At the same time, the king's wife, Queen Vashti,...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“That in those days, when King Ahasuerus was ruling in Shushan,...”",
+        "correctAnswer": "“King Xerxes lived in the capital, the city of Susa.”",
         "reference": "Esther 1:2",
-        "explanation": "Esther 1:2 records: 'That in those days, when King Ahasuerus was ruling in Shushan, his strong town,'."
+        "explanation": "Esther 1:2 records: 'King Xerxes lived in the capital, the city of Susa.'."
       },
       {
         "id": "est-1-q3",
         "questionNumber": 3,
         "question": "What significant action or revelation occurs in Esther 1:4?",
         "options": [
-          "“And they gave them drink in gold vessels, every...”",
-          "“That Vashti the queen was to come before him,...”",
-          "“And for a long time, even a hundred and eighty days,...”",
+          "“People at the feast drank from gold cups. Each...”",
+          "“He told them to bring Queen Vashti to him....”",
+          "“The feast continued for 180 days. King Xerxes wanted to show...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“And for a long time, even a hundred and eighty days,...”",
+        "correctAnswer": "“The feast continued for 180 days. King Xerxes wanted to show...”",
         "reference": "Esther 1:4",
-        "explanation": "Esther 1:4 records: 'And for a long time, even a hundred and eighty days, he let them see all the wealth and the glory of his kingdom and the great power and honour which were his.'."
+        "explanation": "Esther 1:4 records: 'The feast continued for 180 days. King Xerxes wanted to show everyone how rich and powerful he was. He wanted to show that he was a great king.'."
       },
       {
         "id": "est-1-q4",
         "questionNumber": 4,
         "question": "What truth or description is highlighted in Esther 1:6?",
         "options": [
-          "“And Vashti the queen gave a feast for the...”",
-          "“And the king said to the wise men, who...”",
+          "“At the same time, the king's wife, Queen Vashti,...”",
+          "“The king spoke to his wise advisors about what...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“There were fair hangings of white and green and blue, fixed...”"
+          "“The gardens had curtains made of expensive white linen and purple...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“There were fair hangings of white and green and blue, fixed...”",
+        "correctAnswer": "“The gardens had curtains made of expensive white linen and purple...”",
         "reference": "Esther 1:6",
-        "explanation": "Esther 1:6 records: 'There were fair hangings of white and green and blue, fixed with cords of purple and the best linen to silver rings and pillars of polished stone: the seats were of gold and silver on a floor of red and white and yellow and black stone.'."
+        "explanation": "Esther 1:6 records: 'The gardens had curtains made of expensive white linen and purple material. They hung from silver rings on white stone pillars. White and purple strings held the curtains. There were seats made from gold and silver. The floor had many kinds of valuable stones to make it beautiful.'."
       },
       {
         "id": "est-1-q5",
         "questionNumber": 5,
         "question": "According to the text, what happened or was commanded in Esther 1:8?",
         "options": [
-          "“And the drinking was in keeping with the law; no one...”",
-          "“That Vashti the queen was to come before him,...”",
-          "“What is to be done by law to Vashti...”",
+          "“Everyone could drink as much wine as they wanted. The king...”",
+          "“He told them to bring Queen Vashti to him....”",
+          "“The king asked them, ‘What should we do with...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“And the drinking was in keeping with the law; no one...”",
+        "correctAnswer": "“Everyone could drink as much wine as they wanted. The king...”",
         "reference": "Esther 1:8",
-        "explanation": "Esther 1:8 records: 'And the drinking was in keeping with the law; no one was forced: for the king had given orders to all the chief servants of his house to do as was pleasing to every man.'."
+        "explanation": "Esther 1:8 records: 'Everyone could drink as much wine as they wanted. The king told his officers to give each person what they wanted, no more and no less.'."
       },
       {
         "id": "est-1-q6",
         "questionNumber": 6,
         "question": "What central message or instruction is delivered in Esther 1:10?",
         "options": [
-          "“And the king said to the wise men, who...”",
-          "“On the seventh day, when the heart of the king was...”",
-          "“For news of what the queen has done will...”",
+          "“The king spoke to his wise advisors about what...”",
+          "“On the seventh day of the feast, King Xerxes was feeling...”",
+          "“When other women hear about this, they will not...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“On the seventh day, when the heart of the king was...”",
+        "correctAnswer": "“On the seventh day of the feast, King Xerxes was feeling...”",
         "reference": "Esther 1:10",
-        "explanation": "Esther 1:10 records: 'On the seventh day, when the heart of the king was glad with wine, he gave orders to Mehuman, Biztha, Harbona, Bigtha, and Abagtha, Zethar, and Carcas, the seven unsexed servants who were waiting before Ahasuerus the king,'."
+        "explanation": "Esther 1:10 records: 'On the seventh day of the feast, King Xerxes was feeling happy, because he had drunk so much wine. He had seven eunuchs who served him in the palace. Their names were Mehuman, Biztha, Harbona, Bigtha, Abagtha, Zethar and Carcas.'."
       },
       {
         "id": "est-1-q7",
         "questionNumber": 7,
         "question": "What detail regarding God's work, covenant, or people is given in Esther 1:12?",
         "options": [
-          "“What is to be done by law to Vashti...”",
-          "“If it is pleasing to the king, let an...”",
-          "“But when the servants gave her the king's order, Vashti the...”",
+          "“The king asked them, ‘What should we do with...”",
+          "“So we suggest this, if you agree as king....”",
+          "“The eunuchs told Queen Vashti what the king had commanded. But...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“But when the servants gave her the king's order, Vashti the...”",
+        "correctAnswer": "“The eunuchs told Queen Vashti what the king had commanded. But...”",
         "reference": "Esther 1:12",
-        "explanation": "Esther 1:12 records: 'But when the servants gave her the king's order, Vashti the queen said she would not come: then the king was very angry, and his heart was burning with wrath.'."
+        "explanation": "Esther 1:12 records: 'The eunuchs told Queen Vashti what the king had commanded. But she refused to go to him. This made the king very angry.'."
       },
       {
         "id": "est-1-q8",
         "questionNumber": 8,
         "question": "What phrase or account is recorded in Esther 1:14?",
         "options": [
-          "“For news of what the queen has done will...”",
-          "“And this suggestion seemed good to the king and...”",
+          "“When other women hear about this, they will not...”",
+          "“The king and his officers liked this idea. So...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“And second only to him were Carshena, Shethar, Admatha, Tarshish, Meres,...”"
+          "“The seven advisors who were often with the king were Carshena,...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“And second only to him were Carshena, Shethar, Admatha, Tarshish, Meres,...”",
+        "correctAnswer": "“The seven advisors who were often with the king were Carshena,...”",
         "reference": "Esther 1:14",
-        "explanation": "Esther 1:14 records: 'And second only to him were Carshena, Shethar, Admatha, Tarshish, Meres, Marsena, and Memucan, the seven rulers of Persia and Media, who were friends of the king, and had the first places in the kingdom:)'."
+        "explanation": "Esther 1:14 records: 'The seven advisors who were often with the king were Carshena, Shethar, Admatha, Tarshish, Meres, Marsena and Memukan. These men were the most important officers in the kingdom.'."
       },
       {
         "id": "est-1-q9",
         "questionNumber": 9,
         "question": "How does the passage describe the circumstances or people in Esther 1:16?",
         "options": [
-          "“And before the king and the captains, Memucan gave his answer:...”",
-          "“If it is pleasing to the king, let an...”",
-          "“Now it came about in the days of Ahasuerus,...”",
+          "“One of the advisors, Memukan, replied to the king and the...”",
+          "“So we suggest this, if you agree as king....”",
+          "“These things happened when King Xerxes ruled. He was...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“And before the king and the captains, Memucan gave his answer:...”",
+        "correctAnswer": "“One of the advisors, Memukan, replied to the king and the...”",
         "reference": "Esther 1:16",
-        "explanation": "Esther 1:16 records: 'And before the king and the captains, Memucan gave his answer: Vashti the queen has done wrong, not only to the king, but to all the captains and to all the peoples in all the divisions of the kingdom of King Ahasuerus;'."
+        "explanation": "Esther 1:16 records: 'One of the advisors, Memukan, replied to the king and the other officers. He said, ‘Queen Vashti has not only done something wrong against you, the king. She has also done a wrong thing against all the officers and all the people too. That is all the men who live in your kingdom.'."
       },
       {
         "id": "est-1-q10",
         "questionNumber": 10,
         "question": "In the concluding portion of the chapter, what takes place in Esther 1:18?",
         "options": [
-          "“And this suggestion seemed good to the king and...”",
-          "“And the wives of the captains of Persia and Media, hearing...”",
-          "“In the third year of his rule he gave...”",
+          "“The king and his officers liked this idea. So...”",
+          "“Everywhere in Persia and Media, the wives of the king's officers...”",
+          "“During the third year that he ruled, he gave...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“And the wives of the captains of Persia and Media, hearing...”",
+        "correctAnswer": "“Everywhere in Persia and Media, the wives of the king's officers...”",
         "reference": "Esther 1:18",
-        "explanation": "Esther 1:18 records: 'And the wives of the captains of Persia and Media, hearing what the queen has done, will say the same to all the king's captains. So there will be much shame and wrath.'."
+        "explanation": "Esther 1:18 records: 'Everywhere in Persia and Media, the wives of the king's officers will know what Queen Vashti has done. From today, they will refuse to obey their husbands. They will no longer respect their husbands, and the men will be very angry.'."
       }
     ],
     "2": [
@@ -163,150 +160,150 @@
         "questionNumber": 1,
         "question": "According to Esther 2:1, what is the opening statement or setting of this chapter?",
         "options": [
-          "It records: “After these things, when the king's feelings were calmer, the tho...”",
+          "It records: “Some time later, King Xerxes was not feeling so angry. He thought...”",
           "It begins with a prayer of thanksgiving for deliverance in Esther",
           "It opens with a formal census and counting of the congregation",
           "It records a severe judgment pronounced against neighboring nations"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "It records: “After these things, when the king's feelings were calmer, the tho...”",
+        "correctAnswer": "It records: “Some time later, King Xerxes was not feeling so angry. He thought...”",
         "reference": "Esther 2:1",
-        "explanation": "The chapter begins directly with the statement: 'After these things, when the king's feelings were calmer, the thought of Vashti and what she had done and the order he had made against her, came back to his mind.'."
+        "explanation": "The chapter begins directly with the statement: 'Some time later, King Xerxes was not feeling so angry. He thought about Vashti and what she had done. He remembered the law that he had made, that she should not be queen any more.'."
       },
       {
         "id": "est-2-q2",
         "questionNumber": 2,
         "question": "What key instruction, event, or declaration is set forth in Esther 2:2?",
         "options": [
-          "“Now there was a certain Jew in Shushan named...”",
-          "“Then the servants who were waiting on the king said to...”",
-          "“And he was pleased with the girl and was...”",
+          "“A Jewish man called Mordecai lived in Susa. He...”",
+          "“The king's servants who helped him in the palace said, ‘The...”",
+          "“Hegai liked Esther and he was kind to her....”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“Then the servants who were waiting on the king said to...”",
+        "correctAnswer": "“The king's servants who helped him in the palace said, ‘The...”",
         "reference": "Esther 2:2",
-        "explanation": "Esther 2:2 records: 'Then the servants who were waiting on the king said to him, Let search be made for some fair young virgins for the king:'."
+        "explanation": "Esther 2:2 records: 'The king's servants who helped him in the palace said, ‘The king should send some men to look for beautiful young women for him.'."
       },
       {
         "id": "est-2-q3",
         "questionNumber": 3,
         "question": "What significant action or revelation occurs in Esther 2:4?",
         "options": [
-          "“And he had been a father to Hadassah, that...”",
-          "“And every day Mordecai took his walk before the...”",
-          "“And let the girl who is pleasing to the king be...”",
+          "“Mordecai was taking care of a young cousin called...”",
+          "“Mordecai wanted to know what was happening to Esther....”",
+          "“The king may then choose the young woman who pleases him...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“And let the girl who is pleasing to the king be...”",
+        "correctAnswer": "“The king may then choose the young woman who pleases him...”",
         "reference": "Esther 2:4",
-        "explanation": "Esther 2:4 records: 'And let the girl who is pleasing to the king be queen in place of Vashti. And the king was pleased with this suggestion; and he did so.'."
+        "explanation": "Esther 2:4 records: 'The king may then choose the young woman who pleases him most. She could take the place of Vashti as queen.’ King Xerxes thought that this was a good idea. He did everything that the servants said.'."
       },
       {
         "id": "est-2-q4",
         "questionNumber": 4,
         "question": "What truth or description is highlighted in Esther 2:6?",
         "options": [
-          "“And he was pleased with the girl and was...”",
-          "“And in this way the girl went in to...”",
+          "“Hegai liked Esther and he was kind to her....”",
+          "“When the time came for a young woman to...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“Who had been taken away from Jerusalem among those who had...”"
+          "“When Nebuchadnezzar was king of Babylon, he had taken Kish away...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“Who had been taken away from Jerusalem among those who had...”",
+        "correctAnswer": "“When Nebuchadnezzar was king of Babylon, he had taken Kish away...”",
         "reference": "Esther 2:6",
-        "explanation": "Esther 2:6 records: 'Who had been taken away from Jerusalem among those who had been made prisoner with Jeconiah, king of Judah, when Nebuchadnezzar, king of Babylon, had taken him away.'."
+        "explanation": "Esther 2:6 records: 'When Nebuchadnezzar was king of Babylon, he had taken Kish away from Jerusalem as a prisoner. That was the time when Nebuchadnezzar also took Jeconiah, king of Judah, away to Babylon. He also took other Jews.'."
       },
       {
         "id": "est-2-q5",
         "questionNumber": 5,
         "question": "According to the text, what happened or was commanded in Esther 2:8?",
         "options": [
-          "“So when the order made by the king was publicly given...”",
-          "“And every day Mordecai took his walk before the...”",
-          "“Now when the time came for Esther, the daughter...”",
+          "“Esther was one of the young women that the king's officers...”",
+          "“Mordecai wanted to know what was happening to Esther....”",
+          "“One evening, it was the time for Abihail's daughter,...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“So when the order made by the king was publicly given...”",
+        "correctAnswer": "“Esther was one of the young women that the king's officers...”",
         "reference": "Esther 2:8",
-        "explanation": "Esther 2:8 records: 'So when the order made by the king was publicly given out, and a number of girls had been placed in the care of Hegai in the king's house in Shushan, Esther was taken into the king's house and put in the care of Hegai, the keeper of the women.'."
+        "explanation": "Esther 2:8 records: 'Esther was one of the young women that the king's officers brought to Susa. That happened because of the king's command. The beautiful young women lived in the royal harem. Hegai had the authority to take care of them.'."
       },
       {
         "id": "est-2-q6",
         "questionNumber": 6,
         "question": "What central message or instruction is delivered in Esther 2:10?",
         "options": [
-          "“And in this way the girl went in to...”",
-          "“Esther had not said what family or people she came from,...”",
-          "“And Esther was more pleasing to the king than...”",
+          "“When the time came for a young woman to...”",
+          "“Esther did not tell anyone that she was a Jew. That...”",
+          "“The king loved Esther more than he loved any...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“Esther had not said what family or people she came from,...”",
+        "correctAnswer": "“Esther did not tell anyone that she was a Jew. That...”",
         "reference": "Esther 2:10",
-        "explanation": "Esther 2:10 records: 'Esther had not said what family or people she came from, for Mordecai had given her orders not to do so.'."
+        "explanation": "Esther 2:10 records: 'Esther did not tell anyone that she was a Jew. That is what Mordecai had told her.'."
       },
       {
         "id": "est-2-q7",
         "questionNumber": 7,
         "question": "What detail regarding God's work, covenant, or people is given in Esther 2:12?",
         "options": [
-          "“Now when the time came for Esther, the daughter...”",
-          "“And when the virgins came together in the second...”",
-          "“Now every girl, when her turn came, had to go in...”",
+          "“One evening, it was the time for Abihail's daughter,...”",
+          "“Some time later, the young women all came together...”",
+          "“All the young women stayed in the harem for twelve months....”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“Now every girl, when her turn came, had to go in...”",
+        "correctAnswer": "“All the young women stayed in the harem for twelve months....”",
         "reference": "Esther 2:12",
-        "explanation": "Esther 2:12 records: 'Now every girl, when her turn came, had to go in to King Ahasuerus, after undergoing, for a space of twelve months, what was ordered by the law for the women (for this was the time necessary for making them clean, that is, six months with oil of myrrh and six months with sweet perfumes and such things as are needed for making women clean):'."
+        "explanation": "Esther 2:12 records: 'All the young women stayed in the harem for twelve months. For six months they received myrrh oil for their bodies. Then they received perfume and different kinds of oil for another six months. After that time they could each go to the king's bedroom.'."
       },
       {
         "id": "est-2-q8",
         "questionNumber": 8,
         "question": "What phrase or account is recorded in Esther 2:14?",
         "options": [
-          "“And Esther was more pleasing to the king than...”",
-          "“In those days, while Mordecai was seated at the...”",
+          "“The king loved Esther more than he loved any...”",
+          "“One day, Mordecai was sitting at the king's gate....”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“In the evening she went, and on the day after she...”"
+          "“She would go to be with the king in the evening....”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“In the evening she went, and on the day after she...”",
+        "correctAnswer": "“She would go to be with the king in the evening....”",
         "reference": "Esther 2:14",
-        "explanation": "Esther 2:14 records: 'In the evening she went, and on the day after she came back to the second house of the women, into the keeping of Shaashgaz, one of the king's unsexed servants who had the care of the king's wives: only if the king had delight in her and sent for her by name did she go in to him again.'."
+        "explanation": "Esther 2:14 records: 'She would go to be with the king in the evening. She stayed with him during that night. In the morning, she went to a different part of the harem, where the king's slave wives lived. One of the king's eunuchs, Shaashgaz, took care of them there. After that, the young woman would only see the king again if he was pleased with her. Then he would ask for her by name.'."
       },
       {
         "id": "est-2-q9",
         "questionNumber": 9,
         "question": "How does the passage describe the circumstances or people in Esther 2:16?",
         "options": [
-          "“So Esther was taken in to King Ahasuerus in his house...”",
-          "“And when the virgins came together in the second...”",
-          "“After these things, when the king's feelings were calmer,...”",
+          "“Esther went to King Xerxes in his royal rooms in the...”",
+          "“Some time later, the young women all came together...”",
+          "“Some time later, King Xerxes was not feeling so...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“So Esther was taken in to King Ahasuerus in his house...”",
+        "correctAnswer": "“Esther went to King Xerxes in his royal rooms in the...”",
         "reference": "Esther 2:16",
-        "explanation": "Esther 2:16 records: 'So Esther was taken in to King Ahasuerus in his house in the tenth month, which is the month Tebeth, in the seventh year of his rule.'."
+        "explanation": "Esther 2:16 records: 'Esther went to King Xerxes in his royal rooms in the palace. That happened in the tenth month of the year, called Tebeth. King Xerxes had ruled for seven years.'."
       },
       {
         "id": "est-2-q10",
         "questionNumber": 10,
         "question": "In the concluding portion of the chapter, what takes place in Esther 2:18?",
         "options": [
-          "“In those days, while Mordecai was seated at the...”",
-          "“Then the king gave a great feast for all his captains...”",
-          "“Then the servants who were waiting on the king...”",
+          "“One day, Mordecai was sitting at the king's gate....”",
+          "“The king gave a great feast for all the leaders and...”",
+          "“The king's servants who helped him in the palace...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“Then the king gave a great feast for all his captains...”",
+        "correctAnswer": "“The king gave a great feast for all the leaders and...”",
         "reference": "Esther 2:18",
-        "explanation": "Esther 2:18 records: 'Then the king gave a great feast for all his captains and his servants, even Esther's feast; and he gave orders through all the divisions of his kingdom for a day of rest from work, and gave wealth from his store.'."
+        "explanation": "Esther 2:18 records: 'The king gave a great feast for all the leaders and officers of his kingdom. He did it to give honour to Esther. He said that there would be a holiday for people in all the regions. He also gave expensive gifts to people.'."
       }
     ],
     "3": [
@@ -315,150 +312,150 @@
         "questionNumber": 1,
         "question": "According to Esther 3:1, what is the opening statement or setting of this chapter?",
         "options": [
-          "It records: “After these things, by the order of the king, Haman, the son of H...”",
+          "It records: “After some time, King Xerxes gave one of his officers greater aut...”",
           "It begins with a prayer of thanksgiving for deliverance in Esther",
           "It opens with a formal census and counting of the congregation",
           "It records a severe judgment pronounced against neighboring nations"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "It records: “After these things, by the order of the king, Haman, the son of H...”",
+        "correctAnswer": "It records: “After some time, King Xerxes gave one of his officers greater aut...”",
         "reference": "Esther 3:1",
-        "explanation": "The chapter begins directly with the statement: 'After these things, by the order of the king, Haman, the son of Hammedatha the Agagite, was lifted up and given a position of honour and a higher place than all the other captains who were with him.'."
+        "explanation": "The chapter begins directly with the statement: 'After some time, King Xerxes gave one of his officers greater authority. The officer's name was Haman. He was the son of Hammedatha, a descendant of Agag. Haman became the most important officer who served the king.'."
       },
       {
         "id": "est-3-q2",
         "questionNumber": 2,
         "question": "What key instruction, event, or declaration is set forth in Esther 3:2?",
         "options": [
-          "“And when Haman saw that Mordecai did not go...”",
-          "“And all the king's servants who were in the king's house...”",
-          "“If it is the king's pleasure, let a statement...”",
+          "“When Haman realized that Mordecai would not give him...”",
+          "“The king commanded that all the royal officers at the king's...”",
+          "“If you agree, we will send out a command...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“And all the king's servants who were in the king's house...”",
+        "correctAnswer": "“The king commanded that all the royal officers at the king's...”",
         "reference": "Esther 3:2",
-        "explanation": "Esther 3:2 records: 'And all the king's servants who were in the king's house went down to the earth before Haman and gave him honour: for so the king had given orders. But Mordecai did not go down before him or give him honour.'."
+        "explanation": "Esther 3:2 records: 'The king commanded that all the royal officers at the king's gate must bend down low to Haman. So they all gave Haman honour when he passed them. But Mordecai refused to bend down and give honour to Haman.'."
       },
       {
         "id": "est-3-q3",
         "questionNumber": 3,
         "question": "What significant action or revelation occurs in Esther 3:3?",
         "options": [
-          "“But it was not enough for him to make...”",
-          "“And the king took his ring from his hand...”",
-          "“Then the king's servants who were in the king's house said...”",
+          "“But he did not want to destroy only Mordecai....”",
+          "“The king took his special ring from his finger...”",
+          "“The officers at the king's gate asked Mordecai, ‘Why do you...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“Then the king's servants who were in the king's house said...”",
+        "correctAnswer": "“The officers at the king's gate asked Mordecai, ‘Why do you...”",
         "reference": "Esther 3:3",
-        "explanation": "Esther 3:3 records: 'Then the king's servants who were in the king's house said to Mordecai, Why do you go against the king's order?'."
+        "explanation": "Esther 3:3 records: 'The officers at the king's gate asked Mordecai, ‘Why do you not obey the king's command?’'."
       },
       {
         "id": "est-3-q4",
         "questionNumber": 4,
         "question": "What truth or description is highlighted in Esther 3:4?",
         "options": [
-          "“In the first month, the month Nisan, in the...”",
-          "“And the king said to Haman, The money is...”",
+          "“Haman asked his advisors when would be the right...”",
+          "“He said to Haman, ‘Keep your money. You should...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“Now when they had said this to him day after day...”"
+          "“They warned Mordecai every day. But he would not agree to...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“Now when they had said this to him day after day...”",
+        "correctAnswer": "“They warned Mordecai every day. But he would not agree to...”",
         "reference": "Esther 3:4",
-        "explanation": "Esther 3:4 records: 'Now when they had said this to him day after day and he gave no attention, they let Haman have news of it, to see if Mordecai's behaviour would be overlooked: for he had said to them that he was a Jew.'."
+        "explanation": "Esther 3:4 records: 'They warned Mordecai every day. But he would not agree to bend down low to Haman. So the officers told Haman about this. Mordecai had told them that he was a Jew. So they wanted to know if Haman would allow Mordecai to do this.'."
       },
       {
         "id": "est-3-q5",
         "questionNumber": 5,
         "question": "According to the text, what happened or was commanded in Esther 3:5?",
         "options": [
-          "“And when Haman saw that Mordecai did not go down before...”",
-          "“And Haman said to King Ahasuerus, There is a...”",
-          "“Then on the thirteenth day of the first month,...”",
+          "“When Haman realized that Mordecai would not give him honour, he...”",
+          "“Then Haman said to King Xerxes, ‘There is a...”",
+          "“On the 13th day of the first month, Haman...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“And when Haman saw that Mordecai did not go down before...”",
+        "correctAnswer": "“When Haman realized that Mordecai would not give him honour, he...”",
         "reference": "Esther 3:5",
-        "explanation": "Esther 3:5 records: 'And when Haman saw that Mordecai did not go down before him and give him honour, Haman was full of wrath.'."
+        "explanation": "Esther 3:5 records: 'When Haman realized that Mordecai would not give him honour, he became very angry.'."
       },
       {
         "id": "est-3-q6",
         "questionNumber": 6,
         "question": "What central message or instruction is delivered in Esther 3:6?",
         "options": [
-          "“If it is the king's pleasure, let a statement...”",
-          "“But it was not enough for him to make an attack...”",
-          "“And letters were sent by the runners into every...”",
+          "“If you agree, we will send out a command...”",
+          "“But he did not want to destroy only Mordecai. Haman had...”",
+          "“Men delivered the letters to all the regions of...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“But it was not enough for him to make an attack...”",
+        "correctAnswer": "“But he did not want to destroy only Mordecai. Haman had...”",
         "reference": "Esther 3:6",
-        "explanation": "Esther 3:6 records: 'But it was not enough for him to make an attack on Mordecai only; for they had made clear to him who Mordecai's people were; so Haman made it his purpose to put an end to all the Jews, even Mordecai's people, through all the kingdom of Ahasuerus.'."
+        "explanation": "Esther 3:6 records: 'But he did not want to destroy only Mordecai. Haman had discovered that Mordecai was a Jew. So he decided to destroy all the Jews who lived in Xerxes' whole kingdom.'."
       },
       {
         "id": "est-3-q7",
         "questionNumber": 7,
         "question": "What detail regarding God's work, covenant, or people is given in Esther 3:7?",
         "options": [
-          "“And the king took his ring from his hand...”",
-          "“A copy of the writing, to be made public...”",
-          "“In the first month, the month Nisan, in the twelfth year...”",
+          "“The king took his special ring from his finger...”",
+          "“Haman sent a copy of his command to every...”",
+          "“Haman asked his advisors when would be the right time to...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“In the first month, the month Nisan, in the twelfth year...”",
+        "correctAnswer": "“Haman asked his advisors when would be the right time to...”",
         "reference": "Esther 3:7",
-        "explanation": "Esther 3:7 records: 'In the first month, the month Nisan, in the twelfth year of King Ahasuerus, from day to day and from month to month they went on looking for a sign given by Pur (that is chance) before Haman, till the sign came out for the thirteenth day of the twelfth month, the month Adar.'."
+        "explanation": "Esther 3:7 records: 'Haman asked his advisors when would be the right time to make this happen. He asked them in the first month of the year (Nisan), during Xerxes' 12th year as king. Haman's advisors threw dice to decide the right time to destroy the Jews. The dice chose the 12th month of the year (Adar). The dice were called ‘Purim’.'."
       },
       {
         "id": "est-3-q8",
         "questionNumber": 8,
         "question": "What phrase or account is recorded in Esther 3:8?",
         "options": [
-          "“And the king said to Haman, The money is...”",
-          "“After these things, by the order of the king,...”",
+          "“He said to Haman, ‘Keep your money. You should...”",
+          "“After some time, King Xerxes gave one of his...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“And Haman said to King Ahasuerus, There is a certain nation...”"
+          "“Then Haman said to King Xerxes, ‘There is a group of...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“And Haman said to King Ahasuerus, There is a certain nation...”",
+        "correctAnswer": "“Then Haman said to King Xerxes, ‘There is a group of...”",
         "reference": "Esther 3:8",
-        "explanation": "Esther 3:8 records: 'And Haman said to King Ahasuerus, There is a certain nation living here and there in small groups among the people in all the divisions of your kingdom; their laws are different from those of any other nation, and they do not keep the king's laws: for this reason it is not right for the king to let them be.'."
+        "explanation": "Esther 3:8 records: 'Then Haman said to King Xerxes, ‘There is a group of people who live in many regions of your kingdom. They have different customs to all the other people. They refuse to obey the laws of your kingdom. You should not let them live among all the other people in your kingdom.'."
       },
       {
         "id": "est-3-q9",
         "questionNumber": 9,
         "question": "How does the passage describe the circumstances or people in Esther 3:9?",
         "options": [
-          "“If it is the king's pleasure, let a statement ordering their...”",
-          "“Then on the thirteenth day of the first month,...”",
-          "“After these things, by the order of the king,...”",
+          "“If you agree, we will send out a command to destroy...”",
+          "“On the 13th day of the first month, Haman...”",
+          "“After some time, King Xerxes gave one of his...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“If it is the king's pleasure, let a statement ordering their...”",
+        "correctAnswer": "“If you agree, we will send out a command to destroy...”",
         "reference": "Esther 3:9",
-        "explanation": "Esther 3:9 records: 'If it is the king's pleasure, let a statement ordering their destruction be put in writing: and I will give to those responsible for the king's business, ten thousand talents of silver for the king's store-house.'."
+        "explanation": "Esther 3:9 records: 'If you agree, we will send out a command to destroy them. Then I will give 350 tonnes of silver to the king, so that your officers can do this work.’'."
       },
       {
         "id": "est-3-q10",
         "questionNumber": 10,
         "question": "In the concluding portion of the chapter, what takes place in Esther 3:10?",
         "options": [
-          "“And letters were sent by the runners into every...”",
-          "“And the king took his ring from his hand and gave...”",
-          "“And all the king's servants who were in the...”",
+          "“Men delivered the letters to all the regions of...”",
+          "“The king took his special ring from his finger and he...”",
+          "“The king commanded that all the royal officers at...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“And the king took his ring from his hand and gave...”",
+        "correctAnswer": "“The king took his special ring from his finger and he...”",
         "reference": "Esther 3:10",
-        "explanation": "Esther 3:10 records: 'And the king took his ring from his hand and gave it to Haman, the son of Hammedatha the Agagite, the hater of the Jews.'."
+        "explanation": "Esther 3:10 records: 'The king took his special ring from his finger and he gave it to Hammedatha's son, Haman, the Jews' great enemy.'."
       }
     ],
     "4": [
@@ -467,150 +464,150 @@
         "questionNumber": 1,
         "question": "According to Esther 4:1, what is the opening statement or setting of this chapter?",
         "options": [
-          "It records: “Now when Mordecai saw what was done, pulling off his robe, he put...”",
+          "It records: “Mordecai discovered what Haman had done. He was very upset. He to...”",
           "It begins with a prayer of thanksgiving for deliverance in Esther",
           "It opens with a formal census and counting of the congregation",
           "It records a severe judgment pronounced against neighboring nations"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "It records: “Now when Mordecai saw what was done, pulling off his robe, he put...”",
+        "correctAnswer": "It records: “Mordecai discovered what Haman had done. He was very upset. He to...”",
         "reference": "Esther 4:1",
-        "explanation": "The chapter begins directly with the statement: 'Now when Mordecai saw what was done, pulling off his robe, he put on haircloth, with dust on his head, and went out into the middle of the town, crying out with a loud and bitter cry.'."
+        "explanation": "The chapter begins directly with the statement: 'Mordecai discovered what Haman had done. He was very upset. He tore his clothes and he dressed in sackcloth and ashes. He went into the city. He cried and he wept loudly as he went.'."
       },
       {
         "id": "est-4-q2",
         "questionNumber": 2,
         "question": "What key instruction, event, or declaration is set forth in Esther 4:2?",
         "options": [
-          "“Then Esther sent for Hathach, one of the king's...”",
-          "“And he came even before the king's doorway; for no one...”",
-          "“And Hathach came back and gave Esther an account...”",
+          "“Hathach was one of the king's eunuchs who served...”",
+          "“Nobody who was wearing sackcloth could go into the yard of...”",
+          "“Hathach went back into the palace. He told Esther...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“And he came even before the king's doorway; for no one...”",
+        "correctAnswer": "“Nobody who was wearing sackcloth could go into the yard of...”",
         "reference": "Esther 4:2",
-        "explanation": "Esther 4:2 records: 'And he came even before the king's doorway; for no one might come inside the king's door clothed in haircloth.'."
+        "explanation": "Esther 4:2 records: 'Nobody who was wearing sackcloth could go into the yard of the palace. So Mordecai stopped at the king's gate.'."
       },
       {
         "id": "est-4-q3",
         "questionNumber": 3,
         "question": "What significant action or revelation occurs in Esther 4:3?",
         "options": [
-          "“So Hathach went out and saw Mordecai in the...”",
-          "“Then Esther sent Hathach to say to Mordecai:”",
-          "“And in every part of the kingdom, wherever the king's word...”",
+          "“So Hathach went to speak to Mordecai. Mordecai was...”",
+          "“Then Esther sent Hathach back to Mordecai with this...”",
+          "“Jews who lived in all the regions of Xerxes' kingdom heard...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“And in every part of the kingdom, wherever the king's word...”",
+        "correctAnswer": "“Jews who lived in all the regions of Xerxes' kingdom heard...”",
         "reference": "Esther 4:3",
-        "explanation": "Esther 4:3 records: 'And in every part of the kingdom, wherever the king's word and his order came, there was great sorrow among the Jews, and weeping and crying and going without food; and numbers of them were stretched on the earth covered with dust and haircloth.'."
+        "explanation": "Esther 4:3 records: 'Jews who lived in all the regions of Xerxes' kingdom heard the king's command. So they were very sad. They were weeping and they were fasting. Many of them lay on sackcloth and ashes.'."
       },
       {
         "id": "est-4-q4",
         "questionNumber": 4,
         "question": "What truth or description is highlighted in Esther 4:4?",
         "options": [
-          "“And Mordecai gave him an account of what had...”",
-          "“It is common knowledge among all the king's servants...”",
+          "“Mordecai told Hathach everything that had happened. He told...”",
+          "“‘Everybody knows the law. People cannot go to meet...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“And Esther's women and her servants came and gave her word...”"
+          "“Esther's female servants and the eunuchs who took care of her...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“And Esther's women and her servants came and gave her word...”",
+        "correctAnswer": "“Esther's female servants and the eunuchs who took care of her...”",
         "reference": "Esther 4:4",
-        "explanation": "Esther 4:4 records: 'And Esther's women and her servants came and gave her word of it. Then great was the grief of the queen: and she sent robes for Mordecai, so that his clothing of haircloth might be taken off; but he would not have them.'."
+        "explanation": "Esther 4:4 records: 'Esther's female servants and the eunuchs who took care of her told her what Mordecai was doing. So Esther was very upset. She sent clothes for Mordecai to wear instead of the sackcloth. But Mordecai refused to wear them.'."
       },
       {
         "id": "est-4-q5",
         "questionNumber": 5,
         "question": "According to the text, what happened or was commanded in Esther 4:5?",
         "options": [
-          "“Then Esther sent for Hathach, one of the king's unsexed servants...”",
-          "“And he gave him the copy of the order...”",
-          "“And they said these words to Mordecai.”",
+          "“Hathach was one of the king's eunuchs who served Esther. Esther...”",
+          "“Mordecai gave Hathach a copy of the law that...”",
+          "“When Mordecai heard this message from Esther,”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“Then Esther sent for Hathach, one of the king's unsexed servants...”",
+        "correctAnswer": "“Hathach was one of the king's eunuchs who served Esther. Esther...”",
         "reference": "Esther 4:5",
-        "explanation": "Esther 4:5 records: 'Then Esther sent for Hathach, one of the king's unsexed servants whom he had given her for waiting on her, and she gave him orders to go to Mordecai and see what this was and why it was.'."
+        "explanation": "Esther 4:5 records: 'Hathach was one of the king's eunuchs who served Esther. Esther asked him to discover what was the matter with Mordecai.'."
       },
       {
         "id": "est-4-q6",
         "questionNumber": 6,
         "question": "What central message or instruction is delivered in Esther 4:6?",
         "options": [
-          "“And Hathach came back and gave Esther an account...”",
-          "“So Hathach went out and saw Mordecai in the open square...”",
-          "“Then Mordecai sent this answer back to Esther: Do...”",
+          "“Hathach went back into the palace. He told Esther...”",
+          "“So Hathach went to speak to Mordecai. Mordecai was outside the...”",
+          "“he sent this answer back to her: ‘Do not...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“So Hathach went out and saw Mordecai in the open square...”",
+        "correctAnswer": "“So Hathach went to speak to Mordecai. Mordecai was outside the...”",
         "reference": "Esther 4:6",
-        "explanation": "Esther 4:6 records: 'So Hathach went out and saw Mordecai in the open square of the town before the king's doorway.'."
+        "explanation": "Esther 4:6 records: 'So Hathach went to speak to Mordecai. Mordecai was outside the king's gate, in an open place.'."
       },
       {
         "id": "est-4-q7",
         "questionNumber": 7,
         "question": "What detail regarding God's work, covenant, or people is given in Esther 4:7?",
         "options": [
-          "“Then Esther sent Hathach to say to Mordecai:”",
-          "“If at this time you say nothing, then help...”",
-          "“And Mordecai gave him an account of what had taken place,...”",
+          "“Then Esther sent Hathach back to Mordecai with this...”",
+          "“You must speak now on behalf of all the...”",
+          "“Mordecai told Hathach everything that had happened. He told Hathach how...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“And Mordecai gave him an account of what had taken place,...”",
+        "correctAnswer": "“Mordecai told Hathach everything that had happened. He told Hathach how...”",
         "reference": "Esther 4:7",
-        "explanation": "Esther 4:7 records: 'And Mordecai gave him an account of what had taken place, and of the amount of money which Haman had said he would put into the king's store for the destruction of the Jews.'."
+        "explanation": "Esther 4:7 records: 'Mordecai told Hathach everything that had happened. He told Hathach how much money Haman would pay to the king when people destroyed all the Jews.'."
       },
       {
         "id": "est-4-q8",
         "questionNumber": 8,
         "question": "What phrase or account is recorded in Esther 4:8?",
         "options": [
-          "“It is common knowledge among all the king's servants...”",
-          "“Then Esther sent them back to Mordecai with this...”",
+          "“‘Everybody knows the law. People cannot go to meet...”",
+          "“Then Esther sent this answer to Mordecai:”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“And he gave him the copy of the order which had...”"
+          "“Mordecai gave Hathach a copy of the law that they had...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“And he gave him the copy of the order which had...”",
+        "correctAnswer": "“Mordecai gave Hathach a copy of the law that they had...”",
         "reference": "Esther 4:8",
-        "explanation": "Esther 4:8 records: 'And he gave him the copy of the order which had been given out in Shushan for their destruction, ordering him to let Esther see it, and to make it clear to her; and to say to her that she was to go in to the king, requesting his mercy, and making prayer for her people.'."
+        "explanation": "Esther 4:8 records: 'Mordecai gave Hathach a copy of the law that they had read aloud to the people in Susa. He told Hathach to show the law to Esther and explain it to her. Mordecai also said that Esther must go and speak to the king. She must ask the king to let her people live.'."
       },
       {
         "id": "est-4-q9",
         "questionNumber": 9,
         "question": "How does the passage describe the circumstances or people in Esther 4:9?",
         "options": [
-          "“And Hathach came back and gave Esther an account of what...”",
-          "“And they said these words to Mordecai.”",
-          "“Go, get together all the Jews who are present...”",
+          "“Hathach went back into the palace. He told Esther what Mordecai...”",
+          "“When Mordecai heard this message from Esther,”",
+          "“‘Tell all the Jews in Susa to meet together....”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“And Hathach came back and gave Esther an account of what...”",
+        "correctAnswer": "“Hathach went back into the palace. He told Esther what Mordecai...”",
         "reference": "Esther 4:9",
-        "explanation": "Esther 4:9 records: 'And Hathach came back and gave Esther an account of what Mordecai had said.'."
+        "explanation": "Esther 4:9 records: 'Hathach went back into the palace. He told Esther what Mordecai had said.'."
       },
       {
         "id": "est-4-q10",
         "questionNumber": 10,
         "question": "In the concluding portion of the chapter, what takes place in Esther 4:10?",
         "options": [
-          "“Then Mordecai sent this answer back to Esther: Do...”",
-          "“Then Esther sent Hathach to say to Mordecai:”",
-          "“Now when Mordecai saw what was done, pulling off...”",
+          "“he sent this answer back to her: ‘Do not...”",
+          "“Then Esther sent Hathach back to Mordecai with this message:”",
+          "“Mordecai discovered what Haman had done. He was very...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“Then Esther sent Hathach to say to Mordecai:”",
+        "correctAnswer": "“Then Esther sent Hathach back to Mordecai with this message:”",
         "reference": "Esther 4:10",
-        "explanation": "Esther 4:10 records: 'Then Esther sent Hathach to say to Mordecai:'."
+        "explanation": "Esther 4:10 records: 'Then Esther sent Hathach back to Mordecai with this message:'."
       }
     ],
     "5": [
@@ -619,150 +616,150 @@
         "questionNumber": 1,
         "question": "According to Esther 5:1, what is the opening statement or setting of this chapter?",
         "options": [
-          "It records: “Now on the third day, Esther put on her queen's robes, and took h...”",
+          "It records: “After the Jews had fasted for three days, Esther put on her royal...”",
           "It begins with a prayer of thanksgiving for deliverance in Esther",
           "It opens with a formal census and counting of the congregation",
           "It records a severe judgment pronounced against neighboring nations"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "It records: “Now on the third day, Esther put on her queen's robes, and took h...”",
+        "correctAnswer": "It records: “After the Jews had fasted for three days, Esther put on her royal...”",
         "reference": "Esther 5:1",
-        "explanation": "The chapter begins directly with the statement: 'Now on the third day, Esther put on her queen's robes, and took her place in the inner room of the king's house, facing the king's house: and the king was seated on his high seat in the king's house, facing the doorway of the house.'."
+        "explanation": "The chapter begins directly with the statement: 'After the Jews had fasted for three days, Esther put on her royal clothes. She went to King Xerxes' part of the palace. She stood in the yard outside his rooms. The king was sitting on his royal throne inside the palace. He could see out through the entrance of the room.'."
       },
       {
         "id": "est-5-q2",
         "questionNumber": 2,
         "question": "What key instruction, event, or declaration is set forth in Esther 5:2?",
         "options": [
-          "“Then the king said, Let Haman come quickly, so...”",
-          "“And when the king saw Esther the queen waiting in the...”",
-          "“Then on that day Haman went out full of...”",
+          "“The king said to his servants, ‘Bring Haman here...”",
+          "“The king saw Esther as she stood outside in the yard....”",
+          "“When Haman went from Queen Esther's meal that day,...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“And when the king saw Esther the queen waiting in the...”",
+        "correctAnswer": "“The king saw Esther as she stood outside in the yard....”",
         "reference": "Esther 5:2",
-        "explanation": "Esther 5:2 records: 'And when the king saw Esther the queen waiting in the inner room, looking kindly on her he put out the rod of gold in his hand to her. So Esther came near and put her fingers on the top of the rod.'."
+        "explanation": "Esther 5:2 records: 'The king saw Esther as she stood outside in the yard. He was pleased to see her. He held out his gold sceptre towards her. Esther came near to him and she touched the top of the sceptre.'."
       },
       {
         "id": "est-5-q3",
         "questionNumber": 3,
         "question": "What significant action or revelation occurs in Esther 5:3?",
         "options": [
-          "“And while they were drinking wine the king said...”",
-          "“But controlling himself, he went to his house; and...”",
-          "“Then the king said, What is your desire, Queen Esther, and...”",
+          "“While they were drinking wine, the king asked Esther,...”",
+          "“Haman did not show that he was angry at...”",
+          "“The king asked her, ‘What is your trouble, Queen Esther? How...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“Then the king said, What is your desire, Queen Esther, and...”",
+        "correctAnswer": "“The king asked her, ‘What is your trouble, Queen Esther? How...”",
         "reference": "Esther 5:3",
-        "explanation": "Esther 5:3 records: 'Then the king said, What is your desire, Queen Esther, and what is your request? I will give it to you, even to the half of my kingdom.'."
+        "explanation": "Esther 5:3 records: 'The king asked her, ‘What is your trouble, Queen Esther? How can I help you? I will do for you whatever you want. I will even give you half of my kingdom!’'."
       },
       {
         "id": "est-5-q4",
         "questionNumber": 4,
         "question": "What truth or description is highlighted in Esther 5:4?",
         "options": [
-          "“Then Esther said in answer, My prayer and my...”",
-          "“And he gave them an account of the glories...”",
+          "“Esther replied, ‘This is what I want.”",
+          "“Haman told them how rich he was, and how...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“And Esther in answer said, If it seems good to the...”"
+          "“Esther replied, ‘If the king agrees, I would like you to...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“And Esther in answer said, If it seems good to the...”",
+        "correctAnswer": "“Esther replied, ‘If the king agrees, I would like you to...”",
         "reference": "Esther 5:4",
-        "explanation": "Esther 5:4 records: 'And Esther in answer said, If it seems good to the king, let the king and Haman come today to the feast which I have made ready for him.'."
+        "explanation": "Esther 5:4 records: 'Esther replied, ‘If the king agrees, I would like you to do this. I would like the king and Haman to come to a special meal that I have prepared for you.’'."
       },
       {
         "id": "est-5-q5",
         "questionNumber": 5,
         "question": "According to the text, what happened or was commanded in Esther 5:5?",
         "options": [
-          "“Then the king said, Let Haman come quickly, so that what...”",
-          "“If I have the king's approval, and if it...”",
-          "“And Haman said further, Truly, Esther the queen let...”",
+          "“The king said to his servants, ‘Bring Haman here quickly. Then...”",
+          "“If the king is pleased with me, and if...”",
+          "“Haman said to them, ‘Queen Esther asked me to...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“Then the king said, Let Haman come quickly, so that what...”",
+        "correctAnswer": "“The king said to his servants, ‘Bring Haman here quickly. Then...”",
         "reference": "Esther 5:5",
-        "explanation": "Esther 5:5 records: 'Then the king said, Let Haman come quickly, so that what Esther has said may be done. So the king and Haman came to the feast which Esther had made ready.'."
+        "explanation": "Esther 5:5 records: 'The king said to his servants, ‘Bring Haman here quickly. Then we can do what Esther wants.’ The king and Haman went to the meal that Esther had prepared.'."
       },
       {
         "id": "est-5-q6",
         "questionNumber": 6,
         "question": "What central message or instruction is delivered in Esther 5:6?",
         "options": [
-          "“Then on that day Haman went out full of...”",
-          "“And while they were drinking wine the king said to Esther,...”",
-          "“But all this is nothing to me while I...”",
+          "“When Haman went from Queen Esther's meal that day,...”",
+          "“While they were drinking wine, the king asked Esther, ‘What do...”",
+          "“But even all these things do not make me...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“And while they were drinking wine the king said to Esther,...”",
+        "correctAnswer": "“While they were drinking wine, the king asked Esther, ‘What do...”",
         "reference": "Esther 5:6",
-        "explanation": "Esther 5:6 records: 'And while they were drinking wine the king said to Esther, What is your prayer? for it will be given to you and what is your request? for it will be done, even to the half of my kingdom.'."
+        "explanation": "Esther 5:6 records: 'While they were drinking wine, the king asked Esther, ‘What do you want? I will give you whatever you want. What do you want me to do for you? Even if you want half of my kingdom, I will give it to you.’'."
       },
       {
         "id": "est-5-q7",
         "questionNumber": 7,
         "question": "What detail regarding God's work, covenant, or people is given in Esther 5:7?",
         "options": [
-          "“But controlling himself, he went to his house; and...”",
-          "“Now on the third day, Esther put on her...”",
-          "“Then Esther said in answer, My prayer and my request is this:”",
+          "“Haman did not show that he was angry at...”",
+          "“After the Jews had fasted for three days, Esther...”",
+          "“Esther replied, ‘This is what I want.”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“Then Esther said in answer, My prayer and my request is this:”",
+        "correctAnswer": "“Esther replied, ‘This is what I want.”",
         "reference": "Esther 5:7",
-        "explanation": "Esther 5:7 records: 'Then Esther said in answer, My prayer and my request is this:'."
+        "explanation": "Esther 5:7 records: 'Esther replied, ‘This is what I want.'."
       },
       {
         "id": "est-5-q8",
         "questionNumber": 8,
         "question": "What phrase or account is recorded in Esther 5:8?",
         "options": [
-          "“And he gave them an account of the glories...”",
-          "“Now on the third day, Esther put on her...”",
+          "“Haman told them how rich he was, and how...”",
+          "“After the Jews had fasted for three days, Esther...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“If I have the king's approval, and if it is the...”"
+          "“If the king is pleased with me, and if you agree,...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“If I have the king's approval, and if it is the...”",
+        "correctAnswer": "“If the king is pleased with me, and if you agree,...”",
         "reference": "Esther 5:8",
-        "explanation": "Esther 5:8 records: 'If I have the king's approval, and if it is the king's pleasure to give me my prayer and do my request, let the king and Haman come to the feast which I will make ready for them, and tomorrow I will do as the king has said.'."
+        "explanation": "Esther 5:8 records: 'If the king is pleased with me, and if you agree, please do what I ask. I would like the king and Haman to come again tomorrow. Come to another meal that I will prepare for you. Then I will tell you what I want, as you have asked me to do.’'."
       },
       {
         "id": "est-5-q9",
         "questionNumber": 9,
         "question": "How does the passage describe the circumstances or people in Esther 5:9?",
         "options": [
-          "“Then on that day Haman went out full of joy and...”",
-          "“And Haman said further, Truly, Esther the queen let...”",
-          "“And when the king saw Esther the queen waiting...”",
+          "“When Haman went from Queen Esther's meal that day, he was...”",
+          "“Haman said to them, ‘Queen Esther asked me to...”",
+          "“The king saw Esther as she stood outside in...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“Then on that day Haman went out full of joy and...”",
+        "correctAnswer": "“When Haman went from Queen Esther's meal that day, he was...”",
         "reference": "Esther 5:9",
-        "explanation": "Esther 5:9 records: 'Then on that day Haman went out full of joy and glad in heart; but when he saw Mordecai in the king's doorway, and he did not get to his feet or give any sign of fear before him, Haman was full of wrath against Mordecai.'."
+        "explanation": "Esther 5:9 records: 'When Haman went from Queen Esther's meal that day, he was very happy. But then he saw Mordecai at the king's gate. When Haman passed him, Mordecai did not get up. He did not show that he respected Haman in any way. So Haman became very angry with Mordecai.'."
       },
       {
         "id": "est-5-q10",
         "questionNumber": 10,
         "question": "In the concluding portion of the chapter, what takes place in Esther 5:10?",
         "options": [
-          "“But all this is nothing to me while I...”",
-          "“But controlling himself, he went to his house; and he sent...”",
-          "“Then the king said, What is your desire, Queen...”",
+          "“But even all these things do not make me...”",
+          "“Haman did not show that he was angry at that time....”",
+          "“The king asked her, ‘What is your trouble, Queen...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“But controlling himself, he went to his house; and he sent...”",
+        "correctAnswer": "“Haman did not show that he was angry at that time....”",
         "reference": "Esther 5:10",
-        "explanation": "Esther 5:10 records: 'But controlling himself, he went to his house; and he sent for his friends and Zeresh, his wife.'."
+        "explanation": "Esther 5:10 records: 'Haman did not show that he was angry at that time. He went home. Then Haman told his friends and Zeresh, his wife, to meet with him.'."
       }
     ],
     "6": [
@@ -771,150 +768,150 @@
         "questionNumber": 1,
         "question": "According to Esther 6:1, what is the opening statement or setting of this chapter?",
         "options": [
-          "It records: “That night the king was unable to get any sleep; and he sent for ...”",
+          "It records: “That night the king could not sleep. He asked a servant to bring ...”",
           "It begins with a prayer of thanksgiving for deliverance in Esther",
           "It opens with a formal census and counting of the congregation",
           "It records a severe judgment pronounced against neighboring nations"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "It records: “That night the king was unable to get any sleep; and he sent for ...”",
+        "correctAnswer": "It records: “That night the king could not sleep. He asked a servant to bring ...”",
         "reference": "Esther 6:1",
-        "explanation": "The chapter begins directly with the statement: 'That night the king was unable to get any sleep; and he sent for the books of the records; and while some one was reading them to the king,'."
+        "explanation": "The chapter begins directly with the statement: 'That night the king could not sleep. He asked a servant to bring the kingdom's history book. He asked the servant to read the book to him.'."
       },
       {
         "id": "est-6-q2",
         "questionNumber": 2,
         "question": "What key instruction, event, or declaration is set forth in Esther 6:2?",
         "options": [
-          "“And the king's servants said to him, See, Haman...”",
-          "“It came out that it was recorded in the book how...”",
-          "“And let the robes and the horse be given...”",
+          "“The king's servants said to the king, ‘Haman is...”",
+          "“The history book included a report of how two of the...”",
+          "“Then give the clothes and the horse to one...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“It came out that it was recorded in the book how...”",
+        "correctAnswer": "“The history book included a report of how two of the...”",
         "reference": "Esther 6:2",
-        "explanation": "Esther 6:2 records: 'It came out that it was recorded in the book how Mordecai had given word of the designs of Bigthana and Teresh, two of the king's servants, keepers of the door, by whom an attack on the king had been designed.'."
+        "explanation": "Esther 6:2 records: 'The history book included a report of how two of the king's eunuchs wanted to kill King Xerxes. Their names were Bigthana and Teresh. The report said that Mordecai had told the king about this.'."
       },
       {
         "id": "est-6-q3",
         "questionNumber": 3,
         "question": "What significant action or revelation occurs in Esther 6:3?",
         "options": [
-          "“So Haman came in. And the king said to...”",
-          "“Then the king said to Haman, Go quickly, and...”",
-          "“And the king said, What honour and reward have been given...”",
+          "“Haman came in to the king's room. The king...”",
+          "“The king said to Haman, ‘That is a good...”",
+          "“When the king heard this, he asked his servant, ‘When Mordecai...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“And the king said, What honour and reward have been given...”",
+        "correctAnswer": "“When the king heard this, he asked his servant, ‘When Mordecai...”",
         "reference": "Esther 6:3",
-        "explanation": "Esther 6:3 records: 'And the king said, What honour and reward have been given to Mordecai for this? Then the servants who were waiting on the king said, Nothing has been done for him.'."
+        "explanation": "Esther 6:3 records: 'When the king heard this, he asked his servant, ‘When Mordecai saved my life, what great honour did we give him?’ The king's servants replied, ‘We did not do anything for him.’'."
       },
       {
         "id": "est-6-q4",
         "questionNumber": 4,
         "question": "What truth or description is highlighted in Esther 6:4?",
         "options": [
-          "“And Haman, answering the king, said, For the man...”",
-          "“Then Haman took the robes and the horse, and...”",
+          "“So Haman replied to the king, ‘This is what...”",
+          "“So Haman took the king's clothes and the king's...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“Then the king said, Who is in the outer room? Now...”"
+          "“The king said, ‘Who is now in the palace yard?’ Haman...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“Then the king said, Who is in the outer room? Now...”",
+        "correctAnswer": "“The king said, ‘Who is now in the palace yard?’ Haman...”",
         "reference": "Esther 6:4",
-        "explanation": "Esther 6:4 records: 'Then the king said, Who is in the outer room? Now Haman had come into the outer room to get the king's authority for the hanging of Mordecai on the pillar which he had made ready for him.'."
+        "explanation": "Esther 6:4 records: 'The king said, ‘Who is now in the palace yard?’ Haman had just arrived at the palace. His men had built the wooden tower. Now he wanted to ask the king to hang Mordecai on it to kill him.'."
       },
       {
         "id": "est-6-q5",
         "questionNumber": 5,
         "question": "According to the text, what happened or was commanded in Esther 6:5?",
         "options": [
-          "“And the king's servants said to him, See, Haman is waiting...”",
-          "“Let them take the robes which the king generally...”",
-          "“And Mordecai came back to the king's doorway. But...”",
+          "“The king's servants said to the king, ‘Haman is in the...”",
+          "“Your servants should bring some royal clothes that you...”",
+          "“After this, Mordecai returned to sit at the king's...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“And the king's servants said to him, See, Haman is waiting...”",
+        "correctAnswer": "“The king's servants said to the king, ‘Haman is in the...”",
         "reference": "Esther 6:5",
-        "explanation": "Esther 6:5 records: 'And the king's servants said to him, See, Haman is waiting in the outer room. And the king said, Let him come in.'."
+        "explanation": "Esther 6:5 records: 'The king's servants said to the king, ‘Haman is in the palace yard.’ The king said, ‘Bring him here to me.’'."
       },
       {
         "id": "est-6-q6",
         "questionNumber": 6,
         "question": "What central message or instruction is delivered in Esther 6:6?",
         "options": [
-          "“And let the robes and the horse be given...”",
-          "“So Haman came in. And the king said to him, What...”",
-          "“And Haman gave his wife Zeresh and all his...”",
+          "“Then give the clothes and the horse to one...”",
+          "“Haman came in to the king's room. The king asked him,...”",
+          "“He told his wife, Zeresh, and his friends about...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“So Haman came in. And the king said to him, What...”",
+        "correctAnswer": "“Haman came in to the king's room. The king asked him,...”",
         "reference": "Esther 6:6",
-        "explanation": "Esther 6:6 records: 'So Haman came in. And the king said to him, What is to be done to the man whom the king has delight in honouring? Then the thought came into Haman's mind, Whom, more than myself, would the king have pleasure in honouring?'."
+        "explanation": "Esther 6:6 records: 'Haman came in to the king's room. The king asked him, ‘If I want to give great honour to a man, what should we do for that man?’ Haman thought to himself, ‘I am sure that I am that man. The king must want to give me honour.’'."
       },
       {
         "id": "est-6-q7",
         "questionNumber": 7,
         "question": "What detail regarding God's work, covenant, or people is given in Esther 6:7?",
         "options": [
-          "“Then the king said to Haman, Go quickly, and...”",
-          "“That night the king was unable to get any...”",
-          "“And Haman, answering the king, said, For the man whom the...”",
+          "“The king said to Haman, ‘That is a good...”",
+          "“That night the king could not sleep. He asked...”",
+          "“So Haman replied to the king, ‘This is what you should...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“And Haman, answering the king, said, For the man whom the...”",
+        "correctAnswer": "“So Haman replied to the king, ‘This is what you should...”",
         "reference": "Esther 6:7",
-        "explanation": "Esther 6:7 records: 'And Haman, answering the king, said, For the man whom the king has delight in honouring,'."
+        "explanation": "Esther 6:7 records: 'So Haman replied to the king, ‘This is what you should do for that man, if you want to give him honour.'."
       },
       {
         "id": "est-6-q8",
         "questionNumber": 8,
         "question": "What phrase or account is recorded in Esther 6:8?",
         "options": [
-          "“Then Haman took the robes and the horse, and...”",
-          "“That night the king was unable to get any...”",
+          "“So Haman took the king's clothes and the king's...”",
+          "“That night the king could not sleep. He asked...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“Let them take the robes which the king generally puts on,...”"
+          "“Your servants should bring some royal clothes that you yourself have...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“Let them take the robes which the king generally puts on,...”",
+        "correctAnswer": "“Your servants should bring some royal clothes that you yourself have...”",
         "reference": "Esther 6:8",
-        "explanation": "Esther 6:8 records: 'Let them take the robes which the king generally puts on, and the horse on which the king goes, and the crown which is on his head:'."
+        "explanation": "Esther 6:8 records: 'Your servants should bring some royal clothes that you yourself have worn. They should bring a horse that you yourself have ridden on as king. They should put a crown on the horse's head to show that it belongs to you.'."
       },
       {
         "id": "est-6-q9",
         "questionNumber": 9,
         "question": "How does the passage describe the circumstances or people in Esther 6:9?",
         "options": [
-          "“And let the robes and the horse be given to one...”",
-          "“And Mordecai came back to the king's doorway. But...”",
-          "“It came out that it was recorded in the...”",
+          "“Then give the clothes and the horse to one of your...”",
+          "“After this, Mordecai returned to sit at the king's...”",
+          "“The history book included a report of how two...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“And let the robes and the horse be given to one...”",
+        "correctAnswer": "“Then give the clothes and the horse to one of your...”",
         "reference": "Esther 6:9",
-        "explanation": "Esther 6:9 records: 'And let the robes and the horse be given to one of the king's most noble captains, so that they may put them on the man whom the king has delight in honouring, and let him go on horseback through the streets of the town, with men crying out before him, So let it be done to the man whom the king has delight in honouring.'."
+        "explanation": "Esther 6:9 records: 'Then give the clothes and the horse to one of your royal officers. Tell the officer to put the king's clothes on the man that you want to give honour to. Then the officer must put the man on the king's horse. He must lead him through all the streets of the city. As he goes, the officer must shout, “This is what the king does for a man that he wants to give honour to!” ’'."
       },
       {
         "id": "est-6-q10",
         "questionNumber": 10,
         "question": "In the concluding portion of the chapter, what takes place in Esther 6:10?",
         "options": [
-          "“And Haman gave his wife Zeresh and all his...”",
-          "“Then the king said to Haman, Go quickly, and take the...”",
-          "“And the king said, What honour and reward have...”",
+          "“He told his wife, Zeresh, and his friends about...”",
+          "“The king said to Haman, ‘That is a good idea! Go...”",
+          "“When the king heard this, he asked his servant,...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“Then the king said to Haman, Go quickly, and take the...”",
+        "correctAnswer": "“The king said to Haman, ‘That is a good idea! Go...”",
         "reference": "Esther 6:10",
-        "explanation": "Esther 6:10 records: 'Then the king said to Haman, Go quickly, and take the robes and the horse, as you have said, and do even so to Mordecai the Jew, who is seated at the king's doorway: see that you do everything as you have said.'."
+        "explanation": "Esther 6:10 records: 'The king said to Haman, ‘That is a good idea! Go quickly! Get my clothes and my horse. Go and do everything that you have suggested. Do it for the Jewish man, Mordecai, who sits at the king's gate. Be careful to do for him everything that you have said.’'."
       }
     ],
     "7": [
@@ -923,150 +920,150 @@
         "questionNumber": 1,
         "question": "According to Esther 7:1, what is the opening statement or setting of this chapter?",
         "options": [
-          "It records: “So the king and Haman came to take wine with Esther the queen.”",
+          "It records: “King Xerxes and Haman went to the meal that Queen Esther had prep...”",
           "It begins with a prayer of thanksgiving for deliverance in Esther",
           "It opens with a formal census and counting of the congregation",
           "It records a severe judgment pronounced against neighboring nations"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "It records: “So the king and Haman came to take wine with Esther the queen.”",
+        "correctAnswer": "It records: “King Xerxes and Haman went to the meal that Queen Esther had prep...”",
         "reference": "Esther 7:1",
-        "explanation": "The chapter begins directly with the statement: 'So the king and Haman came to take wine with Esther the queen.'."
+        "explanation": "The chapter begins directly with the statement: 'King Xerxes and Haman went to the meal that Queen Esther had prepared.'."
       },
       {
         "id": "est-7-q2",
         "questionNumber": 2,
         "question": "What key instruction, event, or declaration is set forth in Esther 7:2?",
         "options": [
-          "“Then King Ahasuerus said to Esther the queen, Who...”",
-          "“And the king said to Esther again on the second day,...”",
-          "“Then Harbonah, one of the unsexed servants waiting before...”",
+          "“Then King Xerxes asked Queen Esther, ‘Who is this...”",
+          "“This was the second day that they ate a special meal...”",
+          "“One of the king's eunuchs, Harbona, said, ‘There is...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“And the king said to Esther again on the second day,...”",
+        "correctAnswer": "“This was the second day that they ate a special meal...”",
         "reference": "Esther 7:2",
-        "explanation": "Esther 7:2 records: 'And the king said to Esther again on the second day, while they were drinking, What is your prayer, Queen Esther? for it will be given to you; and what is your request? for it will be done, even to the half of my kingdom.'."
+        "explanation": "Esther 7:2 records: 'This was the second day that they ate a special meal together. While they were drinking wine, the king said to Esther, ‘Queen Esther, what do you want me to do for you? I will give you whatever you want. Even if you want half of my kingdom, I will give it to you.’'."
       },
       {
         "id": "est-7-q3",
         "questionNumber": 3,
         "question": "What significant action or revelation occurs in Esther 7:3?",
         "options": [
-          "“And Esther said, Our hater and attacker is this...”",
-          "“So the king and Haman came to take wine...”",
-          "“Then Esther the queen, answering, said, If I have your approval,...”",
+          "“Esther replied, ‘The enemy of our people is this...”",
+          "“King Xerxes and Haman went to the meal that...”",
+          "“Queen Esther replied, ‘Sir, I hope that you are pleased with...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“Then Esther the queen, answering, said, If I have your approval,...”",
+        "correctAnswer": "“Queen Esther replied, ‘Sir, I hope that you are pleased with...”",
         "reference": "Esther 7:3",
-        "explanation": "Esther 7:3 records: 'Then Esther the queen, answering, said, If I have your approval, O king, and if it is the king's pleasure, let my life be given to me in answer to my prayer, and my people at my request:'."
+        "explanation": "Esther 7:3 records: 'Queen Esther replied, ‘Sir, I hope that you are pleased with me. If you agree, I ask you to save my life. Also save the lives of my people. That is what I ask you to do.'."
       },
       {
         "id": "est-7-q4",
         "questionNumber": 4,
         "question": "What truth or description is highlighted in Esther 7:4?",
         "options": [
-          "“And the king in his wrath got up from...”",
-          "“So the king and Haman came to take wine...”",
+          "“The king was very angry and he stood up....”",
+          "“King Xerxes and Haman went to the meal that...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“For we are given up, I and my people, to destruction...”"
+          "“Someone has sold me and my people as if we are...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“For we are given up, I and my people, to destruction...”",
+        "correctAnswer": "“Someone has sold me and my people as if we are...”",
         "reference": "Esther 7:4",
-        "explanation": "Esther 7:4 records: 'For we are given up, I and my people, to destruction and death and to be cut off. If we had been taken as men-servants and women-servants for a price, I would have said nothing, for our trouble is little in comparison with the king's loss.'."
+        "explanation": "Esther 7:4 records: 'Someone has sold me and my people as if we are animals. Now they will kill us and completely destroy us all. If we had been sold to become slaves, I would not have spoken to the king. It would not have been important enough for that.’'."
       },
       {
         "id": "est-7-q5",
         "questionNumber": 5,
         "question": "According to the text, what happened or was commanded in Esther 7:5?",
         "options": [
-          "“Then King Ahasuerus said to Esther the queen, Who is he...”",
-          "“Then the king came back from the garden into...”",
-          "“And the king said to Esther again on the...”",
+          "“Then King Xerxes asked Queen Esther, ‘Who is this man? Who...”",
+          "“Queen Esther was lying down. Haman threw himself down...”",
+          "“This was the second day that they ate a...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“Then King Ahasuerus said to Esther the queen, Who is he...”",
+        "correctAnswer": "“Then King Xerxes asked Queen Esther, ‘Who is this man? Who...”",
         "reference": "Esther 7:5",
-        "explanation": "Esther 7:5 records: 'Then King Ahasuerus said to Esther the queen, Who is he and where is he who has had this evil thought in his heart?'."
+        "explanation": "Esther 7:5 records: 'Then King Xerxes asked Queen Esther, ‘Who is this man? Who would even think of anything like that? Where is he?’'."
       },
       {
         "id": "est-7-q6",
         "questionNumber": 6,
         "question": "What central message or instruction is delivered in Esther 7:6?",
         "options": [
-          "“Then Harbonah, one of the unsexed servants waiting before...”",
-          "“And Esther said, Our hater and attacker is this evil Haman....”",
-          "“Then Esther the queen, answering, said, If I have...”",
+          "“One of the king's eunuchs, Harbona, said, ‘There is...”",
+          "“Esther replied, ‘The enemy of our people is this wicked man,...”",
+          "“Queen Esther replied, ‘Sir, I hope that you are...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“And Esther said, Our hater and attacker is this evil Haman....”",
+        "correctAnswer": "“Esther replied, ‘The enemy of our people is this wicked man,...”",
         "reference": "Esther 7:6",
-        "explanation": "Esther 7:6 records: 'And Esther said, Our hater and attacker is this evil Haman. Then Haman was full of fear before the king and the queen.'."
+        "explanation": "Esther 7:6 records: 'Esther replied, ‘The enemy of our people is this wicked man, Haman!’ Then Haman became very afraid as he sat there with the king and the queen.'."
       },
       {
         "id": "est-7-q7",
         "questionNumber": 7,
         "question": "What detail regarding God's work, covenant, or people is given in Esther 7:7?",
         "options": [
-          "“So the king and Haman came to take wine...”",
-          "“For we are given up, I and my people,...”",
-          "“And the king in his wrath got up from the feast...”",
+          "“King Xerxes and Haman went to the meal that...”",
+          "“Someone has sold me and my people as if...”",
+          "“The king was very angry and he stood up. He left...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“And the king in his wrath got up from the feast...”",
+        "correctAnswer": "“The king was very angry and he stood up. He left...”",
         "reference": "Esther 7:7",
-        "explanation": "Esther 7:7 records: 'And the king in his wrath got up from the feast and went into the garden: and Haman got to his feet to make a prayer for his life to Esther the queen: for he saw that the king's purpose was evil against him.'."
+        "explanation": "Esther 7:7 records: 'The king was very angry and he stood up. He left his wine and he went into the palace garden. Haman realized that the king wanted to destroy him. So he stayed with Queen Esther and he asked her to save his life.'."
       },
       {
         "id": "est-7-q8",
         "questionNumber": 8,
         "question": "What phrase or account is recorded in Esther 7:8?",
         "options": [
-          "“So the king and Haman came to take wine...”",
-          "“Then King Ahasuerus said to Esther the queen, Who...”",
+          "“King Xerxes and Haman went to the meal that...”",
+          "“Then King Xerxes asked Queen Esther, ‘Who is this...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“Then the king came back from the garden into the room...”"
+          "“Queen Esther was lying down. Haman threw himself down on the...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“Then the king came back from the garden into the room...”",
+        "correctAnswer": "“Queen Esther was lying down. Haman threw himself down on the...”",
         "reference": "Esther 7:8",
-        "explanation": "Esther 7:8 records: 'Then the king came back from the garden into the room where they had been drinking; and Haman was stretched out on the seat where Esther was. Then the king said, Is he taking the queen by force before my eyes in my house? And while the words were on the king's lips, they put a cloth over Haman's face.'."
+        "explanation": "Esther 7:8 records: 'Queen Esther was lying down. Haman threw himself down on the couch where she was lying. At that moment, the king returned from the garden. The king shouted, ‘What is this man doing? He even attacks the queen when she is with me in my palace!’ While the king was still saying this, his servants covered Haman's head.'."
       },
       {
         "id": "est-7-q9",
         "questionNumber": 9,
         "question": "How does the passage describe the circumstances or people in Esther 7:9?",
         "options": [
-          "“Then Harbonah, one of the unsexed servants waiting before the king,...”",
-          "“And the king said to Esther again on the...”",
-          "“And Esther said, Our hater and attacker is this...”",
+          "“One of the king's eunuchs, Harbona, said, ‘There is a wooden...”",
+          "“This was the second day that they ate a...”",
+          "“Esther replied, ‘The enemy of our people is this...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“Then Harbonah, one of the unsexed servants waiting before the king,...”",
+        "correctAnswer": "“One of the king's eunuchs, Harbona, said, ‘There is a wooden...”",
         "reference": "Esther 7:9",
-        "explanation": "Esther 7:9 records: 'Then Harbonah, one of the unsexed servants waiting before the king, said, See, the pillar fifty cubits high, which Haman made for Mordecai, who said a good word for the king, is still in its place in Haman's house. Then the king said, Put him to death by hanging him on it.'."
+        "explanation": "Esther 7:9 records: 'One of the king's eunuchs, Harbona, said, ‘There is a wooden tower near Haman's home. It is 22 metres high. His men built it so that he could hang Mordecai on it. Mordecai is the man who saved the king's life.’ The king said, ‘Hang Haman on the tower until he is dead.’'."
       },
       {
         "id": "est-7-q10",
         "questionNumber": 10,
         "question": "In the concluding portion of the chapter, what takes place in Esther 7:10?",
         "options": [
-          "“Then Esther the queen, answering, said, If I have...”",
-          "“So Haman was put to death by hanging him on the...”",
-          "“And the king in his wrath got up from...”",
+          "“Queen Esther replied, ‘Sir, I hope that you are...”",
+          "“So they took Haman and they hanged him on the tower...”",
+          "“The king was very angry and he stood up....”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“So Haman was put to death by hanging him on the...”",
+        "correctAnswer": "“So they took Haman and they hanged him on the tower...”",
         "reference": "Esther 7:10",
-        "explanation": "Esther 7:10 records: 'So Haman was put to death by hanging him on the pillar he had made for Mordecai. Then the king's wrath became less.'."
+        "explanation": "Esther 7:10 records: 'So they took Haman and they hanged him on the tower until he was dead. It was the same tower that Haman had built to kill Mordecai on. After that, the king did not feel so angry.'."
       }
     ],
     "8": [
@@ -1075,150 +1072,150 @@
         "questionNumber": 1,
         "question": "According to Esther 8:1, what is the opening statement or setting of this chapter?",
         "options": [
-          "It records: “That day the king gave all the family of Haman, the hater of the ...”",
+          "It records: “That day, King Xerxes took everything that had belonged to Haman,...”",
           "It begins with a prayer of thanksgiving for deliverance in Esther",
           "It opens with a formal census and counting of the congregation",
           "It records a severe judgment pronounced against neighboring nations"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "It records: “That day the king gave all the family of Haman, the hater of the ...”",
+        "correctAnswer": "It records: “That day, King Xerxes took everything that had belonged to Haman,...”",
         "reference": "Esther 8:1",
-        "explanation": "The chapter begins directly with the statement: 'That day the king gave all the family of Haman, the hater of the Jews, to Esther the queen. And Mordecai came before the king, for Esther had made clear what he was to her.'."
+        "explanation": "The chapter begins directly with the statement: 'That day, King Xerxes took everything that had belonged to Haman, the enemy of the Jews. He gave it all to Queen Esther. Esther told the king that Mordecai was her cousin. So Mordecai came to meet the king.'."
       },
       {
         "id": "est-8-q2",
         "questionNumber": 2,
         "question": "What key instruction, event, or declaration is set forth in Esther 8:2?",
         "options": [
-          "“And she said, If it is the king's pleasure...”",
-          "“And the king took off his ring, which he had taken...”",
-          "“Then at that time, on the twenty-third day of...”",
+          "“Esther said to the king, ‘I hope that I...”",
+          "“The king had taken back his special ring from Haman. Now...”",
+          "“They called the king's secretaries to come and write...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“And the king took off his ring, which he had taken...”",
+        "correctAnswer": "“The king had taken back his special ring from Haman. Now...”",
         "reference": "Esther 8:2",
-        "explanation": "Esther 8:2 records: 'And the king took off his ring, which he had taken from Haman, and gave it to Mordecai. And Esther put Mordecai over the family of Haman.'."
+        "explanation": "Esther 8:2 records: 'The king had taken back his special ring from Haman. Now he took it off his own finger and he gave it to Mordecai. And Esther gave Mordecai authority over all the things that had belonged to Haman.'."
       },
       {
         "id": "est-8-q3",
         "questionNumber": 3,
         "question": "What significant action or revelation occurs in Esther 8:3?",
         "options": [
-          "“For how is it possible for me to see...”",
-          "“The letters were sent in the name of King...”",
-          "“Then Esther again came before the king, falling down at his...”",
+          "“I cannot let this evil thing happen to my...”",
+          "“Mordecai used King Xerxes' authority to write the letters....”",
+          "“Then Esther went again to speak to the king. She threw...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“Then Esther again came before the king, falling down at his...”",
+        "correctAnswer": "“Then Esther went again to speak to the king. She threw...”",
         "reference": "Esther 8:3",
-        "explanation": "Esther 8:3 records: 'Then Esther again came before the king, falling down at his feet, and made request to him with weeping, that he would put a stop to the evil purposes of Haman the Agagite and the designs which he had made against the Jews.'."
+        "explanation": "Esther 8:3 records: 'Then Esther went again to speak to the king. She threw herself down at his feet and she wept. She wanted him to stop Haman's evil idea to kill all the Jews.'."
       },
       {
         "id": "est-8-q4",
         "questionNumber": 4,
         "question": "What truth or description is highlighted in Esther 8:4?",
         "options": [
-          "“Then King Ahasuerus said to Esther the queen and...”",
-          "“In these letters the king gave authority to the...”",
+          "“King Xerxes replied to Queen Esther and to Mordecai,...”",
+          "“The king's new law said that the Jewish people...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“Then the king put out the rod of gold to Esther,...”"
+          "“The king held out his gold sceptre towards Esther. So she...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“Then the king put out the rod of gold to Esther,...”",
+        "correctAnswer": "“The king held out his gold sceptre towards Esther. So she...”",
         "reference": "Esther 8:4",
-        "explanation": "Esther 8:4 records: 'Then the king put out the rod of gold to Esther, and she got up before the king.'."
+        "explanation": "Esther 8:4 records: 'The king held out his gold sceptre towards Esther. So she stood up to speak to the king.'."
       },
       {
         "id": "est-8-q5",
         "questionNumber": 5,
         "question": "According to the text, what happened or was commanded in Esther 8:5?",
         "options": [
-          "“And she said, If it is the king's pleasure and if...”",
-          "“So now send a letter about the Jews, writing...”",
-          "“On one day in every division of the kingdom...”",
+          "“Esther said to the king, ‘I hope that I have pleased...”",
+          "“Now you must use my authority to write another...”",
+          "“The law said that the Jews in all the...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“And she said, If it is the king's pleasure and if...”",
+        "correctAnswer": "“Esther said to the king, ‘I hope that I have pleased...”",
         "reference": "Esther 8:5",
-        "explanation": "Esther 8:5 records: 'And she said, If it is the king's pleasure and if I have his approval and this thing seems right to the king and I am pleasing to him, then let letters be sent giving orders against those which Haman, the son of Hammedatha the Agagite, sent out for the destruction of the Jews in all divisions of the kingdom:'."
+        "explanation": "Esther 8:5 records: 'Esther said to the king, ‘I hope that I have pleased the king. If you agree, and if you are pleased with me, please make another law. Stop the command that Haman, the descendant of Agag, wrote. He sent letters to all the regions of your kingdom, because he wanted to destroy all the Jewish people.'."
       },
       {
         "id": "est-8-q6",
         "questionNumber": 6,
         "question": "What central message or instruction is delivered in Esther 8:6?",
         "options": [
-          "“Then at that time, on the twenty-third day of...”",
-          "“For how is it possible for me to see the evil...”",
-          "“A copy of the writing, to be made public...”",
+          "“They called the king's secretaries to come and write...”",
+          "“I cannot let this evil thing happen to my relatives. I...”",
+          "“A copy of the law would go to every...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“For how is it possible for me to see the evil...”",
+        "correctAnswer": "“I cannot let this evil thing happen to my relatives. I...”",
         "reference": "Esther 8:6",
-        "explanation": "Esther 8:6 records: 'For how is it possible for me to see the evil which is to overtake my nation? how may I see the destruction of my people?'."
+        "explanation": "Esther 8:6 records: 'I cannot let this evil thing happen to my relatives. I have to do something to stop it.’'."
       },
       {
         "id": "est-8-q7",
         "questionNumber": 7,
         "question": "What detail regarding God's work, covenant, or people is given in Esther 8:7?",
         "options": [
-          "“The letters were sent in the name of King...”",
-          "“So the men went out on the quick-running horses...”",
-          "“Then King Ahasuerus said to Esther the queen and to Mordecai...”",
+          "“Mordecai used King Xerxes' authority to write the letters....”",
+          "“The king's officers rode quickly on the royal horses...”",
+          "“King Xerxes replied to Queen Esther and to Mordecai, ‘You are...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“Then King Ahasuerus said to Esther the queen and to Mordecai...”",
+        "correctAnswer": "“King Xerxes replied to Queen Esther and to Mordecai, ‘You are...”",
         "reference": "Esther 8:7",
-        "explanation": "Esther 8:7 records: 'Then King Ahasuerus said to Esther the queen and to Mordecai the Jew, See now, I have given Esther the family of Haman, and he has come to his death by hanging, because he made an attack on the Jews.'."
+        "explanation": "Esther 8:7 records: 'King Xerxes replied to Queen Esther and to Mordecai, ‘You are right! I have already punished Haman with death because he wanted to destroy the Jews. I have also given all of his things to Esther.'."
       },
       {
         "id": "est-8-q8",
         "questionNumber": 8,
         "question": "What phrase or account is recorded in Esther 8:8?",
         "options": [
-          "“In these letters the king gave authority to the...”",
-          "“And Mordecai went out from before the king, dressed...”",
+          "“The king's new law said that the Jewish people...”",
+          "“Then Mordecai left the king's palace. He was wearing...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“So now send a letter about the Jews, writing whatever seems...”"
+          "“Now you must use my authority to write another law. Write...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“So now send a letter about the Jews, writing whatever seems...”",
+        "correctAnswer": "“Now you must use my authority to write another law. Write...”",
         "reference": "Esther 8:8",
-        "explanation": "Esther 8:8 records: 'So now send a letter about the Jews, writing whatever seems good to you, in the king's name, and stamping it with the king's ring: for a writing signed in the king's name and stamped with the king's ring may not be changed.'."
+        "explanation": "Esther 8:8 records: 'Now you must use my authority to write another law. Write a law that seems right to you. Write a law that will save your people. Then mark the letters with my special ring. Any letter that has my name and the mark of my ring on it has the king's authority. Nobody can ever change it.’'."
       },
       {
         "id": "est-8-q9",
         "questionNumber": 9,
         "question": "How does the passage describe the circumstances or people in Esther 8:9?",
         "options": [
-          "“Then at that time, on the twenty-third day of the third...”",
-          "“On one day in every division of the kingdom...”",
-          "“And the Jews had light and joy and honour.”",
+          "“They called the king's secretaries to come and write the new...”",
+          "“The law said that the Jews in all the...”",
+          "“All the Jews were very happy. Everyone respected them...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“Then at that time, on the twenty-third day of the third...”",
+        "correctAnswer": "“They called the king's secretaries to come and write the new...”",
         "reference": "Esther 8:9",
-        "explanation": "Esther 8:9 records: 'Then at that time, on the twenty-third day of the third month, which is the month Sivan, the king's scribes were sent for; and everything ordered by Mordecai was put in writing and sent to the Jews and the captains and the rulers and the chiefs of all the divisions of the kingdom from India to Ethiopia, a hundred and twenty-seven divisions, to every division in the writing commonly used there, and to every people in their language, and to the Jews in their writing and their language.'."
+        "explanation": "Esther 8:9 records: 'They called the king's secretaries to come and write the new law. They did that on the 23rd day of the third month (Sivan). Mordecai told them what to write. They sent the letters to the Jews, the rulers and the officers in all the regions of the kingdom. There were 127 regions, from India as far as Ethiopia. They wrote the letters in the languages that people spoke in each region. They also wrote to the Jews in their own language. Everyone would know what the new law said.'."
       },
       {
         "id": "est-8-q10",
         "questionNumber": 10,
         "question": "In the concluding portion of the chapter, what takes place in Esther 8:10?",
         "options": [
-          "“A copy of the writing, to be made public...”",
-          "“The letters were sent in the name of King Ahasuerus and...”",
-          "“That day the king gave all the family of...”",
+          "“A copy of the law would go to every...”",
+          "“Mordecai used King Xerxes' authority to write the letters. He made...”",
+          "“That day, King Xerxes took everything that had belonged...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“The letters were sent in the name of King Ahasuerus and...”",
+        "correctAnswer": "“Mordecai used King Xerxes' authority to write the letters. He made...”",
         "reference": "Esther 8:10",
-        "explanation": "Esther 8:10 records: 'The letters were sent in the name of King Ahasuerus and stamped with his ring, and they were taken by men on horseback, going on the quick-running horses used for the king's business, the offspring of his best horses:'."
+        "explanation": "Esther 8:10 records: 'Mordecai used King Xerxes' authority to write the letters. He made a mark on the letters with the king's special ring. Men who rode on the king's fastest horses quickly took the letters everywhere in the kingdom.'."
       }
     ],
     "9": [
@@ -1227,150 +1224,150 @@
         "questionNumber": 1,
         "question": "According to Esther 9:1, what is the opening statement or setting of this chapter?",
         "options": [
-          "It records: “Now on the thirteenth day of the twelfth month, which is the mont...”",
+          "It records: “The 13th day of the 12th month (Adar) was the day when the enemie...”",
           "It begins with a prayer of thanksgiving for deliverance in Esther",
           "It opens with a formal census and counting of the congregation",
           "It records a severe judgment pronounced against neighboring nations"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "It records: “Now on the thirteenth day of the twelfth month, which is the mont...”",
+        "correctAnswer": "It records: “The 13th day of the 12th month (Adar) was the day when the enemie...”",
         "reference": "Esther 9:1",
-        "explanation": "The chapter begins directly with the statement: 'Now on the thirteenth day of the twelfth month, which is the month Adar, when the time came for the king's order to be put into effect, on the very day when the haters of the Jews had been hoping to have rule over them; though the opposite had come about, and the Jews had rule over their haters;'."
+        "explanation": "The chapter begins directly with the statement: 'The 13th day of the 12th month (Adar) was the day when the enemies of the Jews had hoped to attack them. But now the king's new law said that the Jews could fight to keep themselves safe on that day. So the Jews won against their enemies.'."
       },
       {
         "id": "est-9-q2",
         "questionNumber": 2,
         "question": "What key instruction, event, or declaration is set forth in Esther 9:3?",
         "options": [
-          "“And in Shushan the Jews put to death five...”",
-          "“And all the chiefs and the captains and the rulers and...”",
-          "“The ten sons of Haman the son of Hammedatha,...”",
+          "“In Susa, the Jews killed 500 men.”",
+          "“All the king's officers and the rulers and leaders of each...”",
+          "“Those men were the ten sons of Haman, the...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“And all the chiefs and the captains and the rulers and...”",
+        "correctAnswer": "“All the king's officers and the rulers and leaders of each...”",
         "reference": "Esther 9:3",
-        "explanation": "Esther 9:3 records: 'And all the chiefs and the captains and the rulers and those who did the king's business gave support to the Jews; because the fear of Mordecai had come on them.'."
+        "explanation": "Esther 9:3 records: 'All the king's officers and the rulers and leaders of each region also helped the Jews. They did that because they were afraid of Mordecai's power.'."
       },
       {
         "id": "est-9-q3",
         "questionNumber": 3,
         "question": "What significant action or revelation occurs in Esther 9:6?",
         "options": [
-          "“Parmashta, Arisai, Aridai, and Vaizatha,”",
-          "“Then Esther said, If it is the king's pleasure,...”",
-          "“And in Shushan the Jews put to death five hundred men.”",
+          "“Parmashta, Arisai, Aridai and Vaizatha.”",
+          "“Esther replied, ‘If the king agrees, please let the...”",
+          "“In Susa, the Jews killed 500 men.”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“And in Shushan the Jews put to death five hundred men.”",
+        "correctAnswer": "“In Susa, the Jews killed 500 men.”",
         "reference": "Esther 9:6",
-        "explanation": "Esther 9:6 records: 'And in Shushan the Jews put to death five hundred men.'."
+        "explanation": "Esther 9:6 records: 'In Susa, the Jews killed 500 men.'."
       },
       {
         "id": "est-9-q4",
         "questionNumber": 4,
         "question": "What truth or description is highlighted in Esther 9:9?",
         "options": [
-          "“And the king said to Esther the queen, The...”",
-          "“And the other Jews in every division of the...”",
+          "“Then the king said to Queen Esther, ‘In Susa...”",
+          "“In the other regions of the kingdom, the Jews...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“Parmashta, Arisai, Aridai, and Vaizatha,”"
+          "“Parmashta, Arisai, Aridai and Vaizatha.”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“Parmashta, Arisai, Aridai, and Vaizatha,”",
+        "correctAnswer": "“Parmashta, Arisai, Aridai and Vaizatha.”",
         "reference": "Esther 9:9",
-        "explanation": "Esther 9:9 records: 'Parmashta, Arisai, Aridai, and Vaizatha,'."
+        "explanation": "Esther 9:9 records: 'Parmashta, Arisai, Aridai and Vaizatha.'."
       },
       {
         "id": "est-9-q5",
         "questionNumber": 5,
         "question": "According to the text, what happened or was commanded in Esther 9:12?",
         "options": [
-          "“And the king said to Esther the queen, The Jews have...”",
-          "“For the Jews who were in Shushan came together...”",
-          "“So the Jews of the country places living in...”",
+          "“Then the king said to Queen Esther, ‘In Susa the Jews...”",
+          "“On the 14th day of the month called Adar,...”",
+          "“That is why the Jews who live in towns...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“And the king said to Esther the queen, The Jews have...”",
+        "correctAnswer": "“Then the king said to Queen Esther, ‘In Susa the Jews...”",
         "reference": "Esther 9:12",
-        "explanation": "Esther 9:12 records: 'And the king said to Esther the queen, The Jews have put five hundred men to death in Shushan, as well as the ten sons of Haman: what then have they done in the rest of the kingdom! Now what is your prayer? for it will be given to you; what other request have you? and it will be done.'."
+        "explanation": "Esther 9:12 records: 'Then the king said to Queen Esther, ‘In Susa the Jews have killed 500 men and also the ten sons of Haman. So I think that they have killed even more of their enemies in the other regions of my kingdom! Now, what else do you want? If you ask me, I will do anything that you still want me to do.’'."
       },
       {
         "id": "est-9-q6",
         "questionNumber": 6,
         "question": "What central message or instruction is delivered in Esther 9:15?",
         "options": [
-          "“But the Jews in Shushan came together on the...”",
-          "“For the Jews who were in Shushan came together again on...”",
-          "“As days on which the Jews had rest from...”",
+          "“But the Jews in Susa did not rest until...”",
+          "“On the 14th day of the month called Adar, the Jews...”",
+          "“They should do that to remember the time when...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“For the Jews who were in Shushan came together again on...”",
+        "correctAnswer": "“On the 14th day of the month called Adar, the Jews...”",
         "reference": "Esther 9:15",
-        "explanation": "Esther 9:15 records: 'For the Jews who were in Shushan came together again on the fourteenth day of the month Adar and put to death three hundred men in Shushan; but they put not a hand on their goods.'."
+        "explanation": "Esther 9:15 records: 'On the 14th day of the month called Adar, the Jews in Susa all met together again. That day they killed 300 more men in Susa. But they did not take their enemies' things for themselves.'."
       },
       {
         "id": "est-9-q7",
         "questionNumber": 7,
         "question": "What detail regarding God's work, covenant, or people is given in Esther 9:18?",
         "options": [
-          "“Ordering them to keep the fourteenth day of the...”",
-          "“But when the business was put before the king,...”",
-          "“But the Jews in Shushan came together on the thirteenth and...”",
+          "“He told them that they should have a holiday...”",
+          "“But Esther had told the king what Haman was...”",
+          "“But the Jews in Susa did not rest until the 15th...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“But the Jews in Shushan came together on the thirteenth and...”",
+        "correctAnswer": "“But the Jews in Susa did not rest until the 15th...”",
         "reference": "Esther 9:18",
-        "explanation": "Esther 9:18 records: 'But the Jews in Shushan came together on the thirteenth and on the fourteenth day of the month; and on the fifteenth day they took their rest, and made it a day of feasting and joy.'."
+        "explanation": "Esther 9:18 records: 'But the Jews in Susa did not rest until the 15th day of the month. That was because they killed their enemies on both the 13th day and the 14th day. On the 15th day, they ate feasts and they were very happy.'."
       },
       {
         "id": "est-9-q8",
         "questionNumber": 8,
         "question": "What phrase or account is recorded in Esther 9:21?",
         "options": [
-          "“Because Haman, the son of Hammedatha the Agagite, the...”",
-          "“And that those days were to be kept in...”",
+          "“They remembered what Hammedatha's son, Haman, the descendant of...”",
+          "“From that time, every Jew must remember to keep...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“Ordering them to keep the fourteenth day of the month Adar...”"
+          "“He told them that they should have a holiday on the...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“Ordering them to keep the fourteenth day of the month Adar...”",
+        "correctAnswer": "“He told them that they should have a holiday on the...”",
         "reference": "Esther 9:21",
-        "explanation": "Esther 9:21 records: 'Ordering them to keep the fourteenth day of the month Adar and the fifteenth day of the same month, every year,'."
+        "explanation": "Esther 9:21 records: 'He told them that they should have a holiday on the 14th and 15th days of Adar every year.'."
       },
       {
         "id": "est-9-q9",
         "questionNumber": 9,
         "question": "How does the passage describe the circumstances or people in Esther 9:24?",
         "options": [
-          "“Because Haman, the son of Hammedatha the Agagite, the hater of...”",
-          "“The Jews made a rule and gave an undertaking,...”",
-          "“Giving the force of law to these days of...”",
+          "“They remembered what Hammedatha's son, Haman, the descendant of Agag, had...”",
+          "“They made a rule for all the Jews, their...”",
+          "“The 13th day of the 12th month (Adar) was...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“Because Haman, the son of Hammedatha the Agagite, the hater of...”",
+        "correctAnswer": "“They remembered what Hammedatha's son, Haman, the descendant of Agag, had...”",
         "reference": "Esther 9:24",
-        "explanation": "Esther 9:24 records: 'Because Haman, the son of Hammedatha the Agagite, the hater of all the Jews, had made designs for their destruction, attempting to get a decision by Pur (that is, chance) with a view to putting an end to them and cutting them off;'."
+        "explanation": "Esther 9:24 records: 'They remembered what Hammedatha's son, Haman, the descendant of Agag, had done. He had been the enemy of the Jews and he had tried to destroy them all. He had thrown dice, called Purim, to choose the day when he would attack them and kill them.'."
       },
       {
         "id": "est-9-q10",
         "questionNumber": 10,
         "question": "In the concluding portion of the chapter, what takes place in Esther 9:27?",
         "options": [
-          "“And he sent letters to all the Jews in...”",
-          "“The Jews made a rule and gave an undertaking, causing their...”",
-          "“On that day, the Jews came together in their...”",
+          "“So they sent letters to all the Jews who...”",
+          "“They made a rule for all the Jews, their descendants, and...”",
+          "“All the king's officers and the rulers and leaders...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“The Jews made a rule and gave an undertaking, causing their...”",
+        "correctAnswer": "“They made a rule for all the Jews, their descendants, and...”",
         "reference": "Esther 9:27",
-        "explanation": "Esther 9:27 records: 'The Jews made a rule and gave an undertaking, causing their seed and all those who were joined to them to do the same, so that it might be in force for ever, that they would keep those two days, as ordered in the letter, at the fixed time every year;'."
+        "explanation": "Esther 9:27 records: 'They made a rule for all the Jews, their descendants, and for any other people who came to join them. The rule said that they must all have a holiday on those two days every year. They must do what Mordecai had written in his letter to them.'."
       }
     ],
     "10": [
@@ -1379,150 +1376,150 @@
         "questionNumber": 1,
         "question": "According to Esther 10:1, what is the opening statement or setting of this chapter?",
         "options": [
-          "It records: “And King Ahasuerus put a tax on the land and on the islands of th...”",
+          "It records: “King Xerxes caused everyone who lived in his kingdom to pay taxes...”",
           "It begins with a prayer of thanksgiving for deliverance in Esther",
           "It opens with a formal census and counting of the congregation",
           "It records a severe judgment pronounced against neighboring nations"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "It records: “And King Ahasuerus put a tax on the land and on the islands of th...”",
+        "correctAnswer": "It records: “King Xerxes caused everyone who lived in his kingdom to pay taxes...”",
         "reference": "Esther 10:1",
-        "explanation": "The chapter begins directly with the statement: 'And King Ahasuerus put a tax on the land and on the islands of the sea.'."
+        "explanation": "The chapter begins directly with the statement: 'King Xerxes caused everyone who lived in his kingdom to pay taxes. It included those who lived far away, on the coast of the sea.'."
       },
       {
         "id": "est-10-q2",
         "questionNumber": 2,
         "question": "What key instruction, event, or declaration is set forth in Esther 10:2?",
         "options": [
-          "“And all his acts of power and his great...”",
-          "“And all his acts of power and his great strength and...”",
-          "“And King Ahasuerus put a tax on the land...”",
+          "“Everything that King Xerxes did was written down in...”",
+          "“Everything that King Xerxes did was written down in ‘The history...”",
+          "“King Xerxes caused everyone who lived in his kingdom...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“And all his acts of power and his great strength and...”",
+        "correctAnswer": "“Everything that King Xerxes did was written down in ‘The history...”",
         "reference": "Esther 10:2",
-        "explanation": "Esther 10:2 records: 'And all his acts of power and his great strength and the full story of the high place which the king gave Mordecai, are they not recorded in the book of the history of the kings of Media and Persia?'."
+        "explanation": "Esther 10:2 records: 'Everything that King Xerxes did was written down in ‘The history book of the kings of Media and Persia’. The book tells about all the great things that King Xerxes did with his power and authority. It also tells how the king gave more authority to Mordecai, who became very great.'."
       },
       {
         "id": "est-10-q3",
         "questionNumber": 3,
         "question": "What significant action or revelation occurs in Esther 10:3?",
         "options": [
-          "“And King Ahasuerus put a tax on the land...”",
+          "“King Xerxes caused everyone who lived in his kingdom...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“For Mordecai the Jew was second only to King Ahasuerus, and...”",
+          "“The Jewish man, Mordecai, was the most important Jew in the...”",
           "A general genealogy and listing of tribal leaders (3)"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“For Mordecai the Jew was second only to King Ahasuerus, and...”",
+        "correctAnswer": "“The Jewish man, Mordecai, was the most important Jew in the...”",
         "reference": "Esther 10:3",
-        "explanation": "Esther 10:3 records: 'For Mordecai the Jew was second only to King Ahasuerus, and great among the Jews and respected by the body of his countrymen; working for the good of his people, and saying words of peace to all his seed.'."
+        "explanation": "Esther 10:3 records: 'The Jewish man, Mordecai, was the most important Jew in the whole kingdom. Only King Xerxes himself had more authority than Mordecai. The other Jews respected Mordecai because he worked hard to help them. He asked the king to make sure that all his people could live safely.'."
       },
       {
         "id": "est-10-q4",
         "questionNumber": 4,
         "question": "What truth or description is highlighted in Esther 10:3?",
         "options": [
-          "“And King Ahasuerus put a tax on the land...”",
+          "“King Xerxes caused everyone who lived in his kingdom...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
           "A general genealogy and listing of tribal leaders (3)",
-          "“For Mordecai the Jew was second only to King Ahasuerus, and...”"
+          "“The Jewish man, Mordecai, was the most important Jew in the...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“For Mordecai the Jew was second only to King Ahasuerus, and...”",
+        "correctAnswer": "“The Jewish man, Mordecai, was the most important Jew in the...”",
         "reference": "Esther 10:3",
-        "explanation": "Esther 10:3 records: 'For Mordecai the Jew was second only to King Ahasuerus, and great among the Jews and respected by the body of his countrymen; working for the good of his people, and saying words of peace to all his seed.'."
+        "explanation": "Esther 10:3 records: 'The Jewish man, Mordecai, was the most important Jew in the whole kingdom. Only King Xerxes himself had more authority than Mordecai. The other Jews respected Mordecai because he worked hard to help them. He asked the king to make sure that all his people could live safely.'."
       },
       {
         "id": "est-10-q5",
         "questionNumber": 5,
         "question": "According to the text, what happened or was commanded in Esther 10:3?",
         "options": [
-          "“For Mordecai the Jew was second only to King Ahasuerus, and...”",
-          "“And King Ahasuerus put a tax on the land...”",
+          "“The Jewish man, Mordecai, was the most important Jew in the...”",
+          "“King Xerxes caused everyone who lived in his kingdom...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
           "A general genealogy and listing of tribal leaders (3)"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“For Mordecai the Jew was second only to King Ahasuerus, and...”",
+        "correctAnswer": "“The Jewish man, Mordecai, was the most important Jew in the...”",
         "reference": "Esther 10:3",
-        "explanation": "Esther 10:3 records: 'For Mordecai the Jew was second only to King Ahasuerus, and great among the Jews and respected by the body of his countrymen; working for the good of his people, and saying words of peace to all his seed.'."
+        "explanation": "Esther 10:3 records: 'The Jewish man, Mordecai, was the most important Jew in the whole kingdom. Only King Xerxes himself had more authority than Mordecai. The other Jews respected Mordecai because he worked hard to help them. He asked the king to make sure that all his people could live safely.'."
       },
       {
         "id": "est-10-q6",
         "questionNumber": 6,
         "question": "What central message or instruction is delivered in Esther 10:3?",
         "options": [
-          "“And King Ahasuerus put a tax on the land...”",
-          "“For Mordecai the Jew was second only to King Ahasuerus, and...”",
+          "“King Xerxes caused everyone who lived in his kingdom...”",
+          "“The Jewish man, Mordecai, was the most important Jew in the...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
           "A general genealogy and listing of tribal leaders (3)"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“For Mordecai the Jew was second only to King Ahasuerus, and...”",
+        "correctAnswer": "“The Jewish man, Mordecai, was the most important Jew in the...”",
         "reference": "Esther 10:3",
-        "explanation": "Esther 10:3 records: 'For Mordecai the Jew was second only to King Ahasuerus, and great among the Jews and respected by the body of his countrymen; working for the good of his people, and saying words of peace to all his seed.'."
+        "explanation": "Esther 10:3 records: 'The Jewish man, Mordecai, was the most important Jew in the whole kingdom. Only King Xerxes himself had more authority than Mordecai. The other Jews respected Mordecai because he worked hard to help them. He asked the king to make sure that all his people could live safely.'."
       },
       {
         "id": "est-10-q7",
         "questionNumber": 7,
         "question": "What detail regarding God's work, covenant, or people is given in Esther 10:3?",
         "options": [
-          "“And King Ahasuerus put a tax on the land...”",
+          "“King Xerxes caused everyone who lived in his kingdom...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“For Mordecai the Jew was second only to King Ahasuerus, and...”",
+          "“The Jewish man, Mordecai, was the most important Jew in the...”",
           "A general genealogy and listing of tribal leaders (3)"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“For Mordecai the Jew was second only to King Ahasuerus, and...”",
+        "correctAnswer": "“The Jewish man, Mordecai, was the most important Jew in the...”",
         "reference": "Esther 10:3",
-        "explanation": "Esther 10:3 records: 'For Mordecai the Jew was second only to King Ahasuerus, and great among the Jews and respected by the body of his countrymen; working for the good of his people, and saying words of peace to all his seed.'."
+        "explanation": "Esther 10:3 records: 'The Jewish man, Mordecai, was the most important Jew in the whole kingdom. Only King Xerxes himself had more authority than Mordecai. The other Jews respected Mordecai because he worked hard to help them. He asked the king to make sure that all his people could live safely.'."
       },
       {
         "id": "est-10-q8",
         "questionNumber": 8,
         "question": "What phrase or account is recorded in Esther 10:3?",
         "options": [
-          "“And King Ahasuerus put a tax on the land...”",
+          "“King Xerxes caused everyone who lived in his kingdom...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
           "A general genealogy and listing of tribal leaders (3)",
-          "“For Mordecai the Jew was second only to King Ahasuerus, and...”"
+          "“The Jewish man, Mordecai, was the most important Jew in the...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“For Mordecai the Jew was second only to King Ahasuerus, and...”",
+        "correctAnswer": "“The Jewish man, Mordecai, was the most important Jew in the...”",
         "reference": "Esther 10:3",
-        "explanation": "Esther 10:3 records: 'For Mordecai the Jew was second only to King Ahasuerus, and great among the Jews and respected by the body of his countrymen; working for the good of his people, and saying words of peace to all his seed.'."
+        "explanation": "Esther 10:3 records: 'The Jewish man, Mordecai, was the most important Jew in the whole kingdom. Only King Xerxes himself had more authority than Mordecai. The other Jews respected Mordecai because he worked hard to help them. He asked the king to make sure that all his people could live safely.'."
       },
       {
         "id": "est-10-q9",
         "questionNumber": 9,
         "question": "How does the passage describe the circumstances or people in Esther 10:3?",
         "options": [
-          "“For Mordecai the Jew was second only to King Ahasuerus, and...”",
-          "“And King Ahasuerus put a tax on the land...”",
+          "“The Jewish man, Mordecai, was the most important Jew in the...”",
+          "“King Xerxes caused everyone who lived in his kingdom...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
           "A general genealogy and listing of tribal leaders (3)"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“For Mordecai the Jew was second only to King Ahasuerus, and...”",
+        "correctAnswer": "“The Jewish man, Mordecai, was the most important Jew in the...”",
         "reference": "Esther 10:3",
-        "explanation": "Esther 10:3 records: 'For Mordecai the Jew was second only to King Ahasuerus, and great among the Jews and respected by the body of his countrymen; working for the good of his people, and saying words of peace to all his seed.'."
+        "explanation": "Esther 10:3 records: 'The Jewish man, Mordecai, was the most important Jew in the whole kingdom. Only King Xerxes himself had more authority than Mordecai. The other Jews respected Mordecai because he worked hard to help them. He asked the king to make sure that all his people could live safely.'."
       },
       {
         "id": "est-10-q10",
         "questionNumber": 10,
         "question": "In the concluding portion of the chapter, what takes place in Esther 10:3?",
         "options": [
-          "“And King Ahasuerus put a tax on the land...”",
-          "“For Mordecai the Jew was second only to King Ahasuerus, and...”",
+          "“King Xerxes caused everyone who lived in his kingdom...”",
+          "“The Jewish man, Mordecai, was the most important Jew in the...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
           "A general genealogy and listing of tribal leaders (3)"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“For Mordecai the Jew was second only to King Ahasuerus, and...”",
+        "correctAnswer": "“The Jewish man, Mordecai, was the most important Jew in the...”",
         "reference": "Esther 10:3",
-        "explanation": "Esther 10:3 records: 'For Mordecai the Jew was second only to King Ahasuerus, and great among the Jews and respected by the body of his countrymen; working for the good of his people, and saying words of peace to all his seed.'."
+        "explanation": "Esther 10:3 records: 'The Jewish man, Mordecai, was the most important Jew in the whole kingdom. Only King Xerxes himself had more authority than Mordecai. The other Jews respected Mordecai because he worked hard to help them. He asked the king to make sure that all his people could live safely.'."
       }
     ]
   }

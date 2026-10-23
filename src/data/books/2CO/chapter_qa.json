@@ -1,9 +1,6 @@
 {
-  "book": "2 Corinthians",
   "bookId": "2CO",
-  "totalChapters": 13,
-  "totalQuestions": 130,
-  "questionsPerChapter": 10,
+  "bookName": "2 Corinthians",
   "chapters": {
     "1": [
       {
@@ -11,150 +8,150 @@
         "questionNumber": 1,
         "question": "According to 2 Corinthians 1:1, what is the opening statement or setting of this chapter?",
         "options": [
-          "It records: “Paul, an Apostle of Jesus Christ by the purpose of God, and Timot...”",
+          "It records: “This letter is from me, Paul. God chose me to be an apostle of Ch...”",
           "It begins with a prayer of thanksgiving for deliverance in 2 Corinthians",
           "It opens with a formal census and counting of the congregation",
           "It records a severe judgment pronounced against neighboring nations"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "It records: “Paul, an Apostle of Jesus Christ by the purpose of God, and Timot...”",
+        "correctAnswer": "It records: “This letter is from me, Paul. God chose me to be an apostle of Ch...”",
         "reference": "2 Corinthians 1:1",
-        "explanation": "The chapter begins directly with the statement: 'Paul, an Apostle of Jesus Christ by the purpose of God, and Timothy the brother, to the church of God which is in Corinth, with all the saints who are in all Achaia:'."
+        "explanation": "The chapter begins directly with the statement: 'This letter is from me, Paul. God chose me to be an apostle of Christ Jesus. Our Christian friend Timothy is here with me as I write. I am sending this letter to you, the people of the church in Corinth city. I am sending it also to all of God's people who live in other places in Achaia.'."
       },
       {
         "id": "2co-1-q2",
         "questionNumber": 2,
         "question": "What key instruction, event, or declaration is set forth in 2 Corinthians 1:2?",
         "options": [
-          "“For as we undergo more of the pain which...”",
-          "“Grace to you and peace from God our Father and the...”",
-          "“Yes, we ourselves have had the answer of death...”",
+          "“Christ himself received much pain, and God comforted him....”",
+          "“I pray that God, our Father, and the Lord Jesus Christ...”",
+          "“We ourselves thought that we would certainly die. We...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“Grace to you and peace from God our Father and the...”",
+        "correctAnswer": "“I pray that God, our Father, and the Lord Jesus Christ...”",
         "reference": "2 Corinthians 1:2",
-        "explanation": "2 Corinthians 1:2 records: 'Grace to you and peace from God our Father and the Lord Jesus Christ.'."
+        "explanation": "2 Corinthians 1:2 records: 'I pray that God, our Father, and the Lord Jesus Christ will continue to help you. I pray that they will give you peace in your minds.'."
       },
       {
         "id": "2co-1-q3",
         "questionNumber": 3,
         "question": "What significant action or revelation occurs in 2 Corinthians 1:4?",
         "options": [
-          "“And our hope for you is certain; in the...”",
-          "“You at the same time helping together by your...”",
-          "“Who gives us comfort in all our troubles, so that we...”",
+          "“So we continue to be sure that you will...”",
+          "“We also know that you continue to help us...”",
+          "“Whenever we have trouble, he comforts us. Because of that, we...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“Who gives us comfort in all our troubles, so that we...”",
+        "correctAnswer": "“Whenever we have trouble, he comforts us. Because of that, we...”",
         "reference": "2 Corinthians 1:4",
-        "explanation": "2 Corinthians 1:4 records: 'Who gives us comfort in all our troubles, so that we may be able to give comfort to others who are in trouble, through the comfort with which we ourselves are comforted by God.'."
+        "explanation": "2 Corinthians 1:4 records: 'Whenever we have trouble, he comforts us. Because of that, we ourselves can comfort other people. When they have any kind of trouble, we can comfort them, in the same way that God has comforted us.'."
       },
       {
         "id": "2co-1-q4",
         "questionNumber": 4,
         "question": "What truth or description is highlighted in 2 Corinthians 1:6?",
         "options": [
-          "“Yes, we ourselves have had the answer of death...”",
-          "“For in our letters we say no other things...”",
+          "“We ourselves thought that we would certainly die. We...”",
+          "“We are writing to you only about things that...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“But if we are troubled, it is for your comfort and...”"
+          "“So, when we receive trouble, the result is that we can...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“But if we are troubled, it is for your comfort and...”",
+        "correctAnswer": "“So, when we receive trouble, the result is that we can...”",
         "reference": "2 Corinthians 1:6",
-        "explanation": "2 Corinthians 1:6 records: 'But if we are troubled, it is for your comfort and salvation; or if we are comforted, it is for your comfort, which takes effect through your quiet undergoing of the same troubles which we undergo:'."
+        "explanation": "2 Corinthians 1:6 records: 'So, when we receive trouble, the result is that we can comfort you. And then also, God saves you. When God comforts us, that helps us to comfort you too. As a result, when you receive the same kinds of trouble that we receive, you learn to be patient and strong.'."
       },
       {
         "id": "2co-1-q5",
         "questionNumber": 5,
         "question": "According to the text, what happened or was commanded in 2 Corinthians 1:8?",
         "options": [
-          "“For it is our desire that you may not be without...”",
-          "“You at the same time helping together by your...”",
-          "“And being certain of this, it was my purpose...”",
+          "“Our Christian friends, we want you to know about the trouble...”",
+          "“We also know that you continue to help us...”",
+          "“So, because I was sure that you trusted me,...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“For it is our desire that you may not be without...”",
+        "correctAnswer": "“Our Christian friends, we want you to know about the trouble...”",
         "reference": "2 Corinthians 1:8",
-        "explanation": "2 Corinthians 1:8 records: 'For it is our desire that you may not be without knowledge of our trouble which came on us in Asia, that the weight of it was very great, more than our power, so that it seemed that we had no hope even of life:'."
+        "explanation": "2 Corinthians 1:8 records: 'Our Christian friends, we want you to know about the trouble that we had in Asia. Those troubles were very painful. We ourselves were not strong enough to continue. We even thought that we would die.'."
       },
       {
         "id": "2co-1-q6",
         "questionNumber": 6,
         "question": "What central message or instruction is delivered in 2 Corinthians 1:10?",
         "options": [
-          "“For in our letters we say no other things...”",
-          "“Who gave us salvation from so great a death: on whom...”",
-          "“If then I had such a purpose, did I...”",
+          "“We are writing to you only about things that...”",
+          "“We nearly died, but God saved us from that great danger....”",
+          "“I did not decide this in a careless way....”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“Who gave us salvation from so great a death: on whom...”",
+        "correctAnswer": "“We nearly died, but God saved us from that great danger....”",
         "reference": "2 Corinthians 1:10",
-        "explanation": "2 Corinthians 1:10 records: 'Who gave us salvation from so great a death: on whom we have put our hope that he will still go on to give us salvation;'."
+        "explanation": "2 Corinthians 1:10 records: 'We nearly died, but God saved us from that great danger. We know that we can continue to trust him. He will save us from any future danger.'."
       },
       {
         "id": "2co-1-q7",
         "questionNumber": 7,
         "question": "What detail regarding God's work, covenant, or people is given in 2 Corinthians 1:12?",
         "options": [
-          "“And being certain of this, it was my purpose...”",
-          "“For the Son of God, Jesus Christ, whom we...”",
-          "“For our glory is in this, in the knowledge which we...”",
+          "“So, because I was sure that you trusted me,...”",
+          "“Silas, Timothy and I told you the message about...”",
+          "“We can be proud of how we have lived in this...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“For our glory is in this, in the knowledge which we...”",
+        "correctAnswer": "“We can be proud of how we have lived in this...”",
         "reference": "2 Corinthians 1:12",
-        "explanation": "2 Corinthians 1:12 records: 'For our glory is in this, in the knowledge which we have that our way of life in the world, and most of all in relation to you, has been holy and true in the eyes of God; not in the wisdom of the flesh, but in the grace of God.'."
+        "explanation": "2 Corinthians 1:12 records: 'We can be proud of how we have lived in this world. We have been careful to be honest and good with everyone. And we have been like that with you even more. We are sure in our own minds that this is true. We have not tried to be clever in a human way. But we have lived in the way that God has helped us to live.'."
       },
       {
         "id": "2co-1-q8",
         "questionNumber": 8,
         "question": "What phrase or account is recorded in 2 Corinthians 1:14?",
         "options": [
-          "“If then I had such a purpose, did I...”",
-          "“Now he who makes our faith strong together with...”",
+          "“I did not decide this in a careless way....”",
+          "“It is God that causes us to continue to...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“Even as you have been ready, in part, to say that...”"
+          "“You do not understand us completely yet. But I hope that...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“Even as you have been ready, in part, to say that...”",
+        "correctAnswer": "“You do not understand us completely yet. But I hope that...”",
         "reference": "2 Corinthians 1:14",
-        "explanation": "2 Corinthians 1:14 records: 'Even as you have been ready, in part, to say that we are your glory, in the same way that you are ours, in the day of the Lord Jesus.'."
+        "explanation": "2 Corinthians 1:14 records: 'You do not understand us completely yet. But I hope that you will understand completely on the day when our Lord Jesus returns. Then you can be proud of us in the same way that we will be proud of you.'."
       },
       {
         "id": "2co-1-q9",
         "questionNumber": 9,
         "question": "How does the passage describe the circumstances or people in 2 Corinthians 1:16?",
         "options": [
-          "“And by way of Corinth to go into Macedonia, and from...”",
-          "“For the Son of God, Jesus Christ, whom we...”",
-          "“But God is my witness that it was in...”",
+          "“I did not decide this in a careless way. I really...”",
+          "“Silas, Timothy and I told you the message about...”",
+          "“This letter is from me, Paul. God chose me...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“And by way of Corinth to go into Macedonia, and from...”",
+        "correctAnswer": "“I did not decide this in a careless way. I really...”",
         "reference": "2 Corinthians 1:16",
-        "explanation": "2 Corinthians 1:16 records: 'And by way of Corinth to go into Macedonia, and from there to come back again to you, so that you might send me on my way to Judaea.'."
+        "explanation": "2 Corinthians 1:16 records: 'I did not decide this in a careless way. I really wanted to do it. I do not decide to do things only to please myself, like someone who does not know God. I do not say ‘Yes,’ and then I immediately say ‘No.’'."
       },
       {
         "id": "2co-1-q10",
         "questionNumber": 10,
         "question": "In the concluding portion of the chapter, what takes place in 2 Corinthians 1:18?",
         "options": [
-          "“Now he who makes our faith strong together with...”",
-          "“As God is true, our word to you is not Yes...”",
-          "“Paul, an Apostle of Jesus Christ by the purpose...”",
+          "“It is God that causes us to continue to...”",
+          "“God always does what he says he will do. In the...”",
+          "“I pray that God, our Father, and the Lord...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“As God is true, our word to you is not Yes...”",
+        "correctAnswer": "“God always does what he says he will do. In the...”",
         "reference": "2 Corinthians 1:18",
-        "explanation": "2 Corinthians 1:18 records: 'As God is true, our word to you is not Yes and No.'."
+        "explanation": "2 Corinthians 1:18 records: 'God always does what he says he will do. In the same way, my promise to you was not both ‘Yes’ and ‘No’.'."
       }
     ],
     "2": [
@@ -163,150 +160,150 @@
         "questionNumber": 1,
         "question": "According to 2 Corinthians 2:1, what is the opening statement or setting of this chapter?",
         "options": [
-          "It records: “But it was my decision for myself, not to come again to you with ...”",
+          "It records: “Because of that, I decided not to visit you again at that time. I...”",
           "It begins with a prayer of thanksgiving for deliverance in 2 Corinthians",
           "It opens with a formal census and counting of the congregation",
           "It records a severe judgment pronounced against neighboring nations"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "It records: “But it was my decision for myself, not to come again to you with ...”",
+        "correctAnswer": "It records: “Because of that, I decided not to visit you again at that time. I...”",
         "reference": "2 Corinthians 2:1",
-        "explanation": "The chapter begins directly with the statement: 'But it was my decision for myself, not to come again to you with sorrow.'."
+        "explanation": "The chapter begins directly with the statement: 'Because of that, I decided not to visit you again at that time. I did not want to make you sad.'."
       },
       {
         "id": "2co-2-q2",
         "questionNumber": 2,
         "question": "What key instruction, event, or declaration is set forth in 2 Corinthians 2:2?",
         "options": [
-          "“But if anyone has been a cause of sorrow,...”",
-          "“For if I give you sorrow, who then will make me...”",
-          "“And for the same reason I sent you a...”",
+          "“Someone among you has done things that have made...”",
+          "“You are the only people who can make me happy. So,...”",
+          "“When I wrote that letter to you, I wanted...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“For if I give you sorrow, who then will make me...”",
+        "correctAnswer": "“You are the only people who can make me happy. So,...”",
         "reference": "2 Corinthians 2:2",
-        "explanation": "2 Corinthians 2:2 records: 'For if I give you sorrow, who then will make me glad, but he who is made sad by me?'."
+        "explanation": "2 Corinthians 2:2 records: 'You are the only people who can make me happy. So, if I make you sad, there will be nobody to make me happy.'."
       },
       {
         "id": "2co-2-q3",
         "questionNumber": 3,
         "question": "What significant action or revelation occurs in 2 Corinthians 2:3?",
         "options": [
-          "“Let it be enough for such a man to...”",
-          "“But if you give forgiveness to anyone, I do...”",
-          "“And I said this very thing in my letter, for fear...”",
+          "“Most of you have agreed to punish him. That...”",
+          "“When you forgive anyone, I also forgive that person....”",
+          "“That is why I did not visit you. I wrote that...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“And I said this very thing in my letter, for fear...”",
+        "correctAnswer": "“That is why I did not visit you. I wrote that...”",
         "reference": "2 Corinthians 2:3",
-        "explanation": "2 Corinthians 2:3 records: 'And I said this very thing in my letter, for fear that when I came I might have sorrow from those from whom it was right for me to have joy; being certain of this, that my joy is the joy of you all.'."
+        "explanation": "2 Corinthians 2:3 records: 'That is why I did not visit you. I wrote that letter to you instead. You are the people who should make me happy. I did not want you to make me sad when I visited you. I felt sure about all of you. I knew that, if I was happy, then all of you would be happy too.'."
       },
       {
         "id": "2co-2-q4",
         "questionNumber": 4,
         "question": "What truth or description is highlighted in 2 Corinthians 2:4?",
         "options": [
-          "“So that now, on the other hand, it is...”",
-          "“So that Satan may not get the better of...”",
+          "“Now, you should forgive him. You should comfort him....”",
+          "“We do not want Satan to win against us....”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“For out of much trouble and pain of heart and much...”"
+          "“When I wrote that letter, I was very sad and upset....”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“For out of much trouble and pain of heart and much...”",
+        "correctAnswer": "“When I wrote that letter, I was very sad and upset....”",
         "reference": "2 Corinthians 2:4",
-        "explanation": "2 Corinthians 2:4 records: 'For out of much trouble and pain of heart and much weeping I sent my letter to you; not to give you sorrow, but so that you might see how great is the love which I have to you.'."
+        "explanation": "2 Corinthians 2:4 records: 'When I wrote that letter, I was very sad and upset. I cried a lot. I did not want to make you sad. Instead, I wanted you to know that I love you very much.'."
       },
       {
         "id": "2co-2-q5",
         "questionNumber": 5,
         "question": "According to the text, what happened or was commanded in 2 Corinthians 2:5?",
         "options": [
-          "“But if anyone has been a cause of sorrow, he has...”",
-          "“For which cause my desire is that you will...”",
-          "“Now when I came to Troas for the good...”",
+          "“Someone among you has done things that have made other people...”",
+          "“So I tell you this. Please show him that...”",
+          "“I went to Troas city to tell people the...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“But if anyone has been a cause of sorrow, he has...”",
+        "correctAnswer": "“Someone among you has done things that have made other people...”",
         "reference": "2 Corinthians 2:5",
-        "explanation": "2 Corinthians 2:5 records: 'But if anyone has been a cause of sorrow, he has been so, not to me only, but in some measure to all of you (I say this that I may not be over-hard on you).'."
+        "explanation": "2 Corinthians 2:5 records: 'Someone among you has done things that have made other people sad. That person has made me sad. But really he has made all of you much more sad than I am. I do not want to say more about this than is necessary.'."
       },
       {
         "id": "2co-2-q6",
         "questionNumber": 6,
         "question": "What central message or instruction is delivered in 2 Corinthians 2:6?",
         "options": [
-          "“And for the same reason I sent you a...”",
-          "“Let it be enough for such a man to have undergone...”",
-          "“I had no rest in my spirit because Titus...”",
+          "“When I wrote that letter to you, I wanted...”",
+          "“Most of you have agreed to punish him. That should be enough.”",
+          "“But I was not happy in my thoughts because...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“Let it be enough for such a man to have undergone...”",
+        "correctAnswer": "“Most of you have agreed to punish him. That should be enough.”",
         "reference": "2 Corinthians 2:6",
-        "explanation": "2 Corinthians 2:6 records: 'Let it be enough for such a man to have undergone the punishment which the church put on him;'."
+        "explanation": "2 Corinthians 2:6 records: 'Most of you have agreed to punish him. That should be enough.'."
       },
       {
         "id": "2co-2-q7",
         "questionNumber": 7,
         "question": "What detail regarding God's work, covenant, or people is given in 2 Corinthians 2:7?",
         "options": [
-          "“But if you give forgiveness to anyone, I do...”",
-          "“But praise be to God who makes us strong...”",
-          "“So that now, on the other hand, it is right for...”",
+          "“When you forgive anyone, I also forgive that person....”",
+          "“But I thank God! He has won against sin,...”",
+          "“Now, you should forgive him. You should comfort him. If you...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“So that now, on the other hand, it is right for...”",
+        "correctAnswer": "“Now, you should forgive him. You should comfort him. If you...”",
         "reference": "2 Corinthians 2:7",
-        "explanation": "2 Corinthians 2:7 records: 'So that now, on the other hand, it is right for him to have forgiveness and comfort from you, for fear that his sorrow may be over-great.'."
+        "explanation": "2 Corinthians 2:7 records: 'Now, you should forgive him. You should comfort him. If you do not do that, he may become too sad. He may not be able to think properly.'."
       },
       {
         "id": "2co-2-q8",
         "questionNumber": 8,
         "question": "What phrase or account is recorded in 2 Corinthians 2:8?",
         "options": [
-          "“So that Satan may not get the better of...”",
-          "“For we are a sweet perfume of Christ to...”",
+          "“We do not want Satan to win against us....”",
+          "“When we tell people about Christ, we are like...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“For which cause my desire is that you will make your...”"
+          "“So I tell you this. Please show him that you really...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“For which cause my desire is that you will make your...”",
+        "correctAnswer": "“So I tell you this. Please show him that you really...”",
         "reference": "2 Corinthians 2:8",
-        "explanation": "2 Corinthians 2:8 records: 'For which cause my desire is that you will make your love to him clear by your acts.'."
+        "explanation": "2 Corinthians 2:8 records: 'So I tell you this. Please show him that you really do love him.'."
       },
       {
         "id": "2co-2-q9",
         "questionNumber": 9,
         "question": "How does the passage describe the circumstances or people in 2 Corinthians 2:9?",
         "options": [
-          "“And for the same reason I sent you a letter so...”",
-          "“Now when I came to Troas for the good...”",
-          "“To the one it is a perfume of death...”",
+          "“When I wrote that letter to you, I wanted to know...”",
+          "“I went to Troas city to tell people the...”",
+          "“For the people who are dying, we are like...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“And for the same reason I sent you a letter so...”",
+        "correctAnswer": "“When I wrote that letter to you, I wanted to know...”",
         "reference": "2 Corinthians 2:9",
-        "explanation": "2 Corinthians 2:9 records: 'And for the same reason I sent you a letter so that I might be certain of your desire to do my orders in all things.'."
+        "explanation": "2 Corinthians 2:9 records: 'When I wrote that letter to you, I wanted to know what you would do. I wanted to see if you would do everything that I told you.'."
       },
       {
         "id": "2co-2-q10",
         "questionNumber": 10,
         "question": "In the concluding portion of the chapter, what takes place in 2 Corinthians 2:10?",
         "options": [
-          "“I had no rest in my spirit because Titus...”",
-          "“But if you give forgiveness to anyone, I do the same:...”",
-          "“But it was my decision for myself, not to...”",
+          "“But I was not happy in my thoughts because...”",
+          "“When you forgive anyone, I also forgive that person. Whatever bad...”",
+          "“Because of that, I decided not to visit you...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“But if you give forgiveness to anyone, I do the same:...”",
+        "correctAnswer": "“When you forgive anyone, I also forgive that person. Whatever bad...”",
         "reference": "2 Corinthians 2:10",
-        "explanation": "2 Corinthians 2:10 records: 'But if you give forgiveness to anyone, I do the same: for if I have given forgiveness for anything, I have done it because of you, in the person of Christ;'."
+        "explanation": "2 Corinthians 2:10 records: 'When you forgive anyone, I also forgive that person. Whatever bad thing somebody has done, I have Christ's authority to forgive them. And I do it to help you.'."
       }
     ],
     "3": [
@@ -315,150 +312,150 @@
         "questionNumber": 1,
         "question": "According to 2 Corinthians 3:1, what is the opening statement or setting of this chapter?",
         "options": [
-          "It records: “Do we seem to be again attempting to put ourselves in the right? ...”",
+          "It records: “We do not need any more to show that our work is good. Some peopl...”",
           "It begins with a prayer of thanksgiving for deliverance in 2 Corinthians",
           "It opens with a formal census and counting of the congregation",
           "It records a severe judgment pronounced against neighboring nations"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "It records: “Do we seem to be again attempting to put ourselves in the right? ...”",
+        "correctAnswer": "It records: “We do not need any more to show that our work is good. Some peopl...”",
         "reference": "2 Corinthians 3:1",
-        "explanation": "The chapter begins directly with the statement: 'Do we seem to be again attempting to put ourselves in the right? or have we need, as some have, of letters of approval to you or from you?'."
+        "explanation": "The chapter begins directly with the statement: 'We do not need any more to show that our work is good. Some people need to have letters from other people to say that they do good work. We do not need to show you letters like that. Nor do we need you to write a letter like that for us.'."
       },
       {
         "id": "2co-3-q2",
         "questionNumber": 2,
         "question": "What key instruction, event, or declaration is set forth in 2 Corinthians 3:2?",
         "options": [
-          "“Not as if we were able by ourselves to...”",
-          "“You yourselves are our letter, whose writing is in our heart,...”",
-          "“For if the operation of the law, producing punishment,...”",
+          "“We know that we cannot do this work by...”",
+          "“You yourselves show that we have done good work. You are...”",
+          "“The old covenant showed people that they were guilty....”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“You yourselves are our letter, whose writing is in our heart,...”",
+        "correctAnswer": "“You yourselves show that we have done good work. You are...”",
         "reference": "2 Corinthians 3:2",
-        "explanation": "2 Corinthians 3:2 records: 'You yourselves are our letter, whose writing is in our heart, open for every man's reading and knowledge;'."
+        "explanation": "2 Corinthians 3:2 records: 'You yourselves show that we have done good work. You are like a letter that is written on our lives. Everybody can read that letter and they can understand it.'."
       },
       {
         "id": "2co-3-q3",
         "questionNumber": 3,
         "question": "What significant action or revelation occurs in 2 Corinthians 3:3?",
         "options": [
-          "“Who has made us able to be servants of...”",
-          "“For the glory of the first no longer seems...”",
-          "“For you are clearly a letter of Christ, the fruit of...”",
+          "“God has made us his servants. So we are...”",
+          "“The old covenant was great and powerful at one...”",
+          "“It is clear that you are like a letter that Christ...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“For you are clearly a letter of Christ, the fruit of...”",
+        "correctAnswer": "“It is clear that you are like a letter that Christ...”",
         "reference": "2 Corinthians 3:3",
-        "explanation": "2 Corinthians 3:3 records: 'For you are clearly a letter of Christ, the fruit of our work, recorded not with ink, but with the Spirit of the living God; not in stone, but in hearts of flesh.'."
+        "explanation": "2 Corinthians 3:3 records: 'It is clear that you are like a letter that Christ himself has written. We are the people who brought God's message to you. Now people see what God has done in your lives. That is like a letter that they read. But it is not a letter that is written on paper with ink. It is the Spirit of the living God who wrote it. God did not write it on pieces of stone. Instead, he wrote it deep inside you.'."
       },
       {
         "id": "2co-3-q4",
         "questionNumber": 4,
         "question": "What truth or description is highlighted in 2 Corinthians 3:4?",
         "options": [
-          "“For if the operation of the law, giving death,...”",
-          "“For if the order which was for a time...”",
+          "“Moses wrote the words of the old covenant on...”",
+          "“The old covenant was powerful, but it came to...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“And this is the certain faith which we have in God...”"
+          "“We know that these things are true. Because of what Christ...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“And this is the certain faith which we have in God...”",
+        "correctAnswer": "“We know that these things are true. Because of what Christ...”",
         "reference": "2 Corinthians 3:4",
-        "explanation": "2 Corinthians 3:4 records: 'And this is the certain faith which we have in God through Christ:'."
+        "explanation": "2 Corinthians 3:4 records: 'We know that these things are true. Because of what Christ has done, we trust God to help us.'."
       },
       {
         "id": "2co-3-q5",
         "questionNumber": 5,
         "question": "According to the text, what happened or was commanded in 2 Corinthians 3:5?",
         "options": [
-          "“Not as if we were able by ourselves to do anything...”",
-          "“Will not the operation of the Spirit have a...”",
-          "“Having then such a hope, we keep nothing back,”",
+          "“We know that we cannot do this work by ourselves. We...”",
+          "“So the new covenant, which comes from God's Spirit,...”",
+          "“So, because we know all this, we speak God's...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“Not as if we were able by ourselves to do anything...”",
+        "correctAnswer": "“We know that we cannot do this work by ourselves. We...”",
         "reference": "2 Corinthians 3:5",
-        "explanation": "2 Corinthians 3:5 records: 'Not as if we were able by ourselves to do anything for which we might take the credit; but our power comes from God;'."
+        "explanation": "2 Corinthians 3:5 records: 'We know that we cannot do this work by ourselves. We never think that. But God makes us able to do it.'."
       },
       {
         "id": "2co-3-q6",
         "questionNumber": 6,
         "question": "What central message or instruction is delivered in 2 Corinthians 3:6?",
         "options": [
-          "“For if the operation of the law, producing punishment,...”",
-          "“Who has made us able to be servants of a new...”",
-          "“And are not like Moses, who put a veil...”",
+          "“The old covenant showed people that they were guilty....”",
+          "“God has made us his servants. So we are able to...”",
+          "“We are not like Moses. His face did not...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“Who has made us able to be servants of a new...”",
+        "correctAnswer": "“God has made us his servants. So we are able to...”",
         "reference": "2 Corinthians 3:6",
-        "explanation": "2 Corinthians 3:6 records: 'Who has made us able to be servants of a new agreement; not of the letter, but of the Spirit: for the letter gives death, but the Spirit gives life.'."
+        "explanation": "2 Corinthians 3:6 records: 'God has made us his servants. So we are able to tell people the message of his new covenant. This new covenant is not about rules that someone has written down. Instead, it comes from God's Spirit. Rules bring death as a punishment. But God's Spirit brings new life to us, not death.'."
       },
       {
         "id": "2co-3-q7",
         "questionNumber": 7,
         "question": "What detail regarding God's work, covenant, or people is given in 2 Corinthians 3:7?",
         "options": [
-          "“For the glory of the first no longer seems...”",
-          "“But their minds were made hard: for to this...”",
-          "“For if the operation of the law, giving death, recorded in...”",
+          "“The old covenant was great and powerful at one...”",
+          "“But those Israelite people could not think properly. Even...”",
+          "“Moses wrote the words of the old covenant on pieces of...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“For if the operation of the law, giving death, recorded in...”",
+        "correctAnswer": "“Moses wrote the words of the old covenant on pieces of...”",
         "reference": "2 Corinthians 3:7",
-        "explanation": "2 Corinthians 3:7 records: 'For if the operation of the law, giving death, recorded in letters on stone, came with glory, so that the eyes of the children of Israel had to be turned away from the face of Moses because of its glory, a glory which was only for a time:'."
+        "explanation": "2 Corinthians 3:7 records: 'Moses wrote the words of the old covenant on pieces of stone. It showed how great and powerful God was. Moses' face shone brightly after God spoke to him. It did not stay bright, but the Israelite people still could not look at Moses' face.'."
       },
       {
         "id": "2co-3-q8",
         "questionNumber": 8,
         "question": "What phrase or account is recorded in 2 Corinthians 3:8?",
         "options": [
-          "“For if the order which was for a time...”",
-          "“But to this day, at the reading of the...”",
+          "“The old covenant was powerful, but it came to...”",
+          "“Even today, when the Israelite people read Moses' books,...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“Will not the operation of the Spirit have a much greater glory?”"
+          "“So the new covenant, which comes from God's Spirit, will show...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“Will not the operation of the Spirit have a much greater glory?”",
+        "correctAnswer": "“So the new covenant, which comes from God's Spirit, will show...”",
         "reference": "2 Corinthians 3:8",
-        "explanation": "2 Corinthians 3:8 records: 'Will not the operation of the Spirit have a much greater glory?'."
+        "explanation": "2 Corinthians 3:8 records: 'So the new covenant, which comes from God's Spirit, will show the power of God even more.'."
       },
       {
         "id": "2co-3-q9",
         "questionNumber": 9,
         "question": "How does the passage describe the circumstances or people in 2 Corinthians 3:9?",
         "options": [
-          "“For if the operation of the law, producing punishment, had its...”",
-          "“Having then such a hope, we keep nothing back,”",
-          "“But when it is turned to the Lord, the...”",
+          "“The old covenant showed people that they were guilty. But God's...”",
+          "“So, because we know all this, we speak God's...”",
+          "“But when a person turns to trust the Lord,...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“For if the operation of the law, producing punishment, had its...”",
+        "correctAnswer": "“The old covenant showed people that they were guilty. But God's...”",
         "reference": "2 Corinthians 3:9",
-        "explanation": "2 Corinthians 3:9 records: 'For if the operation of the law, producing punishment, had its glory, how much greater will be the operation of the Spirit causing righteousness?'."
+        "explanation": "2 Corinthians 3:9 records: 'The old covenant showed people that they were guilty. But God's new covenant makes people right with him. So the new covenant shows God's power even more than the old one did!'."
       },
       {
         "id": "2co-3-q10",
         "questionNumber": 10,
         "question": "In the concluding portion of the chapter, what takes place in 2 Corinthians 3:10?",
         "options": [
-          "“And are not like Moses, who put a veil...”",
-          "“For the glory of the first no longer seems to be...”",
-          "“Now the Lord is the Spirit: and where the...”",
+          "“We are not like Moses. His face did not...”",
+          "“The old covenant was great and powerful at one time. But...”",
+          "“The Lord is the same as the Spirit. And...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“For the glory of the first no longer seems to be...”",
+        "correctAnswer": "“The old covenant was great and powerful at one time. But...”",
         "reference": "2 Corinthians 3:10",
-        "explanation": "2 Corinthians 3:10 records: 'For the glory of the first no longer seems to be glory, because of the greater glory of that which comes after.'."
+        "explanation": "2 Corinthians 3:10 records: 'The old covenant was great and powerful at one time. But now we have God's new covenant instead of the old one. The great power of the new covenant shows that the old covenant is no longer powerful.'."
       }
     ],
     "4": [
@@ -467,150 +464,150 @@
         "questionNumber": 1,
         "question": "According to 2 Corinthians 4:1, what is the opening statement or setting of this chapter?",
         "options": [
-          "It records: “For this reason, because we have been made servants of this new o...”",
+          "It records: “God has given us this work to speak his message. Because he has b...”",
           "It begins with a prayer of thanksgiving for deliverance in 2 Corinthians",
           "It opens with a formal census and counting of the congregation",
           "It records a severe judgment pronounced against neighboring nations"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "It records: “For this reason, because we have been made servants of this new o...”",
+        "correctAnswer": "It records: “God has given us this work to speak his message. Because he has b...”",
         "reference": "2 Corinthians 4:1",
-        "explanation": "The chapter begins directly with the statement: 'For this reason, because we have been made servants of this new order, through the mercy given to us, we are strong:'."
+        "explanation": "The chapter begins directly with the statement: 'God has given us this work to speak his message. Because he has been so kind to us, we are not afraid to continue.'."
       },
       {
         "id": "2co-4-q2",
         "questionNumber": 2,
         "question": "What key instruction, event, or declaration is set forth in 2 Corinthians 4:2?",
         "options": [
-          "“For our preaching is not about ourselves, but about...”",
-          "“And we have given up the secret things of shame, not...”",
-          "“We are cruelly attacked, but not without hope; we...”",
+          "“We do not speak a message about ourselves. We...”",
+          "“We refuse to do anything secretly that we might be ashamed...”",
+          "“We have many enemies, but we always have friends....”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“And we have given up the secret things of shame, not...”",
+        "correctAnswer": "“We refuse to do anything secretly that we might be ashamed...”",
         "reference": "2 Corinthians 4:2",
-        "explanation": "2 Corinthians 4:2 records: 'And we have given up the secret things of shame, not walking in false ways, and not making use of the word of God with deceit; but by the revelation of what is true, as before God, we have the approval of every man's sense of right and wrong.'."
+        "explanation": "2 Corinthians 4:2 records: 'We refuse to do anything secretly that we might be ashamed of. We do not tell lies. We do not change God's message to deceive people. No. We tell God's true message clearly. God himself sees that we teach people in an honest way. Everyone should understand that we only do what is right.'."
       },
       {
         "id": "2co-4-q3",
         "questionNumber": 3,
         "question": "What significant action or revelation occurs in 2 Corinthians 4:3?",
         "options": [
-          "“Seeing that it is God who said, Let light...”",
-          "“In our bodies there is ever the mark of...”",
-          "“But if our good news is veiled, it is veiled from...”",
+          "“God is the one who said, ‘Let light shine...”",
+          "“As we serve Jesus, we know that we may...”",
+          "“Some people may not understand the good news that we speak....”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“But if our good news is veiled, it is veiled from...”",
+        "correctAnswer": "“Some people may not understand the good news that we speak....”",
         "reference": "2 Corinthians 4:3",
-        "explanation": "2 Corinthians 4:3 records: 'But if our good news is veiled, it is veiled from those who are on the way to destruction:'."
+        "explanation": "2 Corinthians 4:3 records: 'Some people may not understand the good news that we speak. They are only the people who are losing their lives with God.'."
       },
       {
         "id": "2co-4-q4",
         "questionNumber": 4,
         "question": "What truth or description is highlighted in 2 Corinthians 4:4?",
         "options": [
-          "“But we have this wealth in vessels of earth,...”",
-          "“For, while living, we are still being given up...”",
+          "“God has given us the gift to speak his...”",
+          "“Yes, as we live our lives, death is always...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“Because the god of this world has made blind the minds...”"
+          "“Those people do not accept God's good news. The god of...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“Because the god of this world has made blind the minds...”",
+        "correctAnswer": "“Those people do not accept God's good news. The god of...”",
         "reference": "2 Corinthians 4:4",
-        "explanation": "2 Corinthians 4:4 records: 'Because the god of this world has made blind the minds of those who have not faith, so that the light of the good news of the glory of Christ, who is the image of God, might not be shining on them.'."
+        "explanation": "2 Corinthians 4:4 records: 'Those people do not accept God's good news. The god of this world has confused their minds. They cannot see the light that the good news brings. That message teaches about the great power of Christ, who shows us exactly what God is like.'."
       },
       {
         "id": "2co-4-q5",
         "questionNumber": 5,
         "question": "According to the text, what happened or was commanded in 2 Corinthians 4:5?",
         "options": [
-          "“For our preaching is not about ourselves, but about Christ Jesus...”",
-          "“Troubles are round us on every side, but we...”",
-          "“So then, death is working in us, but life...”",
+          "“We do not speak a message about ourselves. We tell people...”",
+          "“We receive trouble all the time, but that does...”",
+          "“So death is near to us, even as we...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“For our preaching is not about ourselves, but about Christ Jesus...”",
+        "correctAnswer": "“We do not speak a message about ourselves. We tell people...”",
         "reference": "2 Corinthians 4:5",
-        "explanation": "2 Corinthians 4:5 records: 'For our preaching is not about ourselves, but about Christ Jesus as Lord, and ourselves as your servants through Jesus.'."
+        "explanation": "2 Corinthians 4:5 records: 'We do not speak a message about ourselves. We tell people that Jesus Christ is our Lord. Because we belong to Jesus, we have become your servants, not your masters.'."
       },
       {
         "id": "2co-4-q6",
         "questionNumber": 6,
         "question": "What central message or instruction is delivered in 2 Corinthians 4:6?",
         "options": [
-          "“We are cruelly attacked, but not without hope; we...”",
-          "“Seeing that it is God who said, Let light be shining...”",
-          "“But having the same spirit of faith, as it...”",
+          "“We have many enemies, but we always have friends....”",
+          "“God is the one who said, ‘Let light shine in the...”",
+          "“This is written in the Bible: ‘I believed in...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“Seeing that it is God who said, Let light be shining...”",
+        "correctAnswer": "“God is the one who said, ‘Let light shine in the...”",
         "reference": "2 Corinthians 4:6",
-        "explanation": "2 Corinthians 4:6 records: 'Seeing that it is God who said, Let light be shining out of the dark, who has put in our hearts the light of the knowledge of the glory of God in the face of Jesus Christ.'."
+        "explanation": "2 Corinthians 4:6 records: 'God is the one who said, ‘Let light shine in the dark.’ And he is the one who has caused his light to shine deep inside us. Because of that, we know how great and powerful God is. We see that his power shines brightly in Christ's face.'."
       },
       {
         "id": "2co-4-q7",
         "questionNumber": 7,
         "question": "What detail regarding God's work, covenant, or people is given in 2 Corinthians 4:7?",
         "options": [
-          "“In our bodies there is ever the mark of...”",
-          "“Because we are certain that he who made the...”",
-          "“But we have this wealth in vessels of earth, so that...”",
+          "“As we serve Jesus, we know that we may...”",
+          "“God raised up the Lord Jesus, to become alive...”",
+          "“God has given us the gift to speak his message. But...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“But we have this wealth in vessels of earth, so that...”",
+        "correctAnswer": "“God has given us the gift to speak his message. But...”",
         "reference": "2 Corinthians 4:7",
-        "explanation": "2 Corinthians 4:7 records: 'But we have this wealth in vessels of earth, so that it may be seen that the power comes not from us but from God;'."
+        "explanation": "2 Corinthians 4:7 records: 'God has given us the gift to speak his message. But we ourselves are very weak. It is like we are keeping his valuable gift in clay pots. So it is clear that the great power of God's message comes from God himself. It does not come from us.'."
       },
       {
         "id": "2co-4-q8",
         "questionNumber": 8,
         "question": "What phrase or account is recorded in 2 Corinthians 4:8?",
         "options": [
-          "“For, while living, we are still being given up...”",
-          "“For we go through all things on account of...”",
+          "“Yes, as we live our lives, death is always...”",
+          "“In everything that we do, we want to help...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“Troubles are round us on every side, but we are not...”"
+          "“We receive trouble all the time, but that does not stop...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“Troubles are round us on every side, but we are not...”",
+        "correctAnswer": "“We receive trouble all the time, but that does not stop...”",
         "reference": "2 Corinthians 4:8",
-        "explanation": "2 Corinthians 4:8 records: 'Troubles are round us on every side, but we are not shut in; things are hard for us, but we see a way out of them;'."
+        "explanation": "2 Corinthians 4:8 records: 'We receive trouble all the time, but that does not stop us. We do not always know what to do, but we are not afraid to continue.'."
       },
       {
         "id": "2co-4-q9",
         "questionNumber": 9,
         "question": "How does the passage describe the circumstances or people in 2 Corinthians 4:9?",
         "options": [
-          "“We are cruelly attacked, but not without hope; we are made...”",
-          "“So then, death is working in us, but life...”",
-          "“For which cause we do not give way to...”",
+          "“We have many enemies, but we always have friends. People hurt...”",
+          "“So death is near to us, even as we...”",
+          "“That is why we are not afraid to continue...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“We are cruelly attacked, but not without hope; we are made...”",
+        "correctAnswer": "“We have many enemies, but we always have friends. People hurt...”",
         "reference": "2 Corinthians 4:9",
-        "explanation": "2 Corinthians 4:9 records: 'We are cruelly attacked, but not without hope; we are made low, but we are not without help;'."
+        "explanation": "2 Corinthians 4:9 records: 'We have many enemies, but we always have friends. People hurt us, but they never destroy us.'."
       },
       {
         "id": "2co-4-q10",
         "questionNumber": 10,
         "question": "In the concluding portion of the chapter, what takes place in 2 Corinthians 4:10?",
         "options": [
-          "“But having the same spirit of faith, as it...”",
-          "“In our bodies there is ever the mark of the death...”",
-          "“For our present trouble, which is only for a...”",
+          "“This is written in the Bible: ‘I believed in...”",
+          "“As we serve Jesus, we know that we may die as...”",
+          "“We have these little troubles that continue for a...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“In our bodies there is ever the mark of the death...”",
+        "correctAnswer": "“As we serve Jesus, we know that we may die as...”",
         "reference": "2 Corinthians 4:10",
-        "explanation": "2 Corinthians 4:10 records: 'In our bodies there is ever the mark of the death of Jesus, so that the life of Jesus may be seen in our bodies.'."
+        "explanation": "2 Corinthians 4:10 records: 'As we serve Jesus, we know that we may die as he died. Because of that, our lives show that we live because he is alive.'."
       }
     ],
     "5": [
@@ -619,150 +616,150 @@
         "questionNumber": 1,
         "question": "According to 2 Corinthians 5:1, what is the opening statement or setting of this chapter?",
         "options": [
-          "It records: “For we are conscious that if this our tent of flesh is taken down...”",
+          "It records: “Our bodies are like a tent that we live in here on earth. One day...”",
           "It begins with a prayer of thanksgiving for deliverance in 2 Corinthians",
           "It opens with a formal census and counting of the congregation",
           "It records a severe judgment pronounced against neighboring nations"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "It records: “For we are conscious that if this our tent of flesh is taken down...”",
+        "correctAnswer": "It records: “Our bodies are like a tent that we live in here on earth. One day...”",
         "reference": "2 Corinthians 5:1",
-        "explanation": "The chapter begins directly with the statement: 'For we are conscious that if this our tent of flesh is taken down, we have a building from God, a house not made with hands, eternal, in heaven.'."
+        "explanation": "The chapter begins directly with the statement: 'Our bodies are like a tent that we live in here on earth. One day, that home will come to an end. But we know that God will give us a new home. It is not a house that a human builder has built. God has built it for us in heaven and we will live there for ever.'."
       },
       {
         "id": "2co-5-q2",
         "questionNumber": 2,
         "question": "What key instruction, event, or declaration is set forth in 2 Corinthians 5:2?",
         "options": [
-          "“Now he who has made us for this very...”",
-          "“For in this we are crying in weariness, greatly desiring to...”",
-          "“For this reason we make it our purpose, in...”",
+          "“God is the one who has prepared us to...”",
+          "“While we are in our bodies here on earth, we cry...”",
+          "“But all the time we want to please the...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“For in this we are crying in weariness, greatly desiring to...”",
+        "correctAnswer": "“While we are in our bodies here on earth, we cry...”",
         "reference": "2 Corinthians 5:2",
-        "explanation": "2 Corinthians 5:2 records: 'For in this we are crying in weariness, greatly desiring to be clothed with our house from heaven:'."
+        "explanation": "2 Corinthians 5:2 records: 'While we are in our bodies here on earth, we cry inside ourselves. We want to go and live in our house that is in heaven.'."
       },
       {
         "id": "2co-5-q3",
         "questionNumber": 3,
         "question": "What significant action or revelation occurs in 2 Corinthians 5:4?",
         "options": [
-          "“(For we are walking by faith, not by seeing,)”",
-          "“Having in mind, then, the fear of the Lord,...”",
-          "“For truly, we who are in this tent do give out...”",
+          "“As we live here, we have to trust God....”",
+          "“We know that the Lord will judge us, so...”",
+          "“While we still live in our bodies here on earth, we...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“For truly, we who are in this tent do give out...”",
+        "correctAnswer": "“While we still live in our bodies here on earth, we...”",
         "reference": "2 Corinthians 5:4",
-        "explanation": "2 Corinthians 5:4 records: 'For truly, we who are in this tent do give out cries of weariness, for the weight of care which is on us; not because we are desiring to be free from the body, but so that we may have our new body, and death may be overcome by life.'."
+        "explanation": "2 Corinthians 5:4 records: 'While we still live in our bodies here on earth, we cry inside ourselves. Many difficult things happen to us. We do not really want to take off our old body. But we do want to put on our new body, like new clothes. When that happens, we will no longer need our old body which had to die. Instead, we will have a new body that will live for ever.'."
       },
       {
         "id": "2co-5-q4",
         "questionNumber": 4,
         "question": "What truth or description is highlighted in 2 Corinthians 5:6?",
         "options": [
-          "“For this reason we make it our purpose, in...”",
-          "“For if we are foolish, it is to God;...”",
+          "“But all the time we want to please the...”",
+          "“To some people, we may seem to be crazy....”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“So, then, we are ever without fear, and though conscious that...”"
+          "“Because God's Spirit is with us, we continue to be brave....”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“So, then, we are ever without fear, and though conscious that...”",
+        "correctAnswer": "“Because God's Spirit is with us, we continue to be brave....”",
         "reference": "2 Corinthians 5:6",
-        "explanation": "2 Corinthians 5:6 records: 'So, then, we are ever without fear, and though conscious that while we are in the body we are away from the Lord,'."
+        "explanation": "2 Corinthians 5:6 records: 'Because God's Spirit is with us, we continue to be brave. While we still live here on earth, we know that we are not yet at home with the Lord.'."
       },
       {
         "id": "2co-5-q5",
         "questionNumber": 5,
         "question": "According to the text, what happened or was commanded in 2 Corinthians 5:8?",
         "options": [
-          "“We are without fear, desiring to be free from the body,...”",
-          "“Having in mind, then, the fear of the Lord,...”",
-          "“And that he underwent death for all, so that...”",
+          "“We are brave because we trust God. We would like to...”",
+          "“We know that the Lord will judge us, so...”",
+          "“He died on behalf of all people. So, while...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“We are without fear, desiring to be free from the body,...”",
+        "correctAnswer": "“We are brave because we trust God. We would like to...”",
         "reference": "2 Corinthians 5:8",
-        "explanation": "2 Corinthians 5:8 records: 'We are without fear, desiring to be free from the body, and to be with the Lord.'."
+        "explanation": "2 Corinthians 5:8 records: 'We are brave because we trust God. We would like to go away from our body here on earth. Then we would go to be at home with the Lord. And that would be better!'."
       },
       {
         "id": "2co-5-q6",
         "questionNumber": 6,
         "question": "What central message or instruction is delivered in 2 Corinthians 5:10?",
         "options": [
-          "“For if we are foolish, it is to God;...”",
-          "“For we all have to come before Christ to be judged;...”",
-          "“So if any man is in Christ, he is...”",
+          "“To some people, we may seem to be crazy....”",
+          "“Because all of us must go and stand in front of...”",
+          "“When anyone belongs to Christ, they become a new...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“For we all have to come before Christ to be judged;...”",
+        "correctAnswer": "“Because all of us must go and stand in front of...”",
         "reference": "2 Corinthians 5:10",
-        "explanation": "2 Corinthians 5:10 records: 'For we all have to come before Christ to be judged; so that every one of us may get his reward for the things done in the body, good or bad.'."
+        "explanation": "2 Corinthians 5:10 records: 'Because all of us must go and stand in front of Christ as our judge. He will decide about the things that we have done during our lives here on earth. Whether we have done good things or bad things, we will receive what is right for us.'."
       },
       {
         "id": "2co-5-q7",
         "questionNumber": 7,
         "question": "What detail regarding God's work, covenant, or people is given in 2 Corinthians 5:12?",
         "options": [
-          "“And that he underwent death for all, so that...”",
-          "“That is, that God was in Christ making peace...”",
-          "“We are not again requesting your approval, but we are giving...”",
+          "“He died on behalf of all people. So, while...”",
+          "“God's message is this: By Christ's death, God was...”",
+          "“We are not trying again to make you think that our...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“We are not again requesting your approval, but we are giving...”",
+        "correctAnswer": "“We are not trying again to make you think that our...”",
         "reference": "2 Corinthians 5:12",
-        "explanation": "2 Corinthians 5:12 records: 'We are not again requesting your approval, but we are giving you the chance of taking pride in us, so that you may be able to give an answer to those whose glory is in seeming, and not in the heart.'."
+        "explanation": "2 Corinthians 5:12 records: 'We are not trying again to make you think that our work is good. But we do want to give you the chance to be proud of us. Then you will be able to show the false teachers that they are wrong. They are proud about what they look like on the outside. They do not think about what they are really like inside themselves.'."
       },
       {
         "id": "2co-5-q8",
         "questionNumber": 8,
         "question": "What phrase or account is recorded in 2 Corinthians 5:14?",
         "options": [
-          "“So if any man is in Christ, he is...”",
-          "“For we are conscious that if this our tent...”",
+          "“When anyone belongs to Christ, they become a new...”",
+          "“Our bodies are like a tent that we live...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“For it is the love of Christ which is moving us;...”"
+          "“Whatever we do, we do it because Christ loves us. We...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“For it is the love of Christ which is moving us;...”",
+        "correctAnswer": "“Whatever we do, we do it because Christ loves us. We...”",
         "reference": "2 Corinthians 5:14",
-        "explanation": "2 Corinthians 5:14 records: 'For it is the love of Christ which is moving us; because we are of the opinion that if one was put to death for all, then all have undergone death;'."
+        "explanation": "2 Corinthians 5:14 records: 'Whatever we do, we do it because Christ loves us. We know that one man, Christ, died on behalf of all people. So we also know that all of us died with him.'."
       },
       {
         "id": "2co-5-q9",
         "questionNumber": 9,
         "question": "How does the passage describe the circumstances or people in 2 Corinthians 5:16?",
         "options": [
-          "“For this reason, from this time forward we have knowledge of...”",
-          "“That is, that God was in Christ making peace...”",
-          "“For in this we are crying in weariness, greatly...”",
+          "“So that changes how we think about people. We no longer...”",
+          "“God's message is this: By Christ's death, God was...”",
+          "“While we are in our bodies here on earth,...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“For this reason, from this time forward we have knowledge of...”",
+        "correctAnswer": "“So that changes how we think about people. We no longer...”",
         "reference": "2 Corinthians 5:16",
-        "explanation": "2 Corinthians 5:16 records: 'For this reason, from this time forward we have knowledge of no man after the flesh: even if we have had knowledge of Christ after the flesh, we have no longer any such knowledge.'."
+        "explanation": "2 Corinthians 5:16 records: 'So that changes how we think about people. We no longer use human ideas to think what they are like. At one time, we thought about Christ as humans think. But now we think about him very differently!'."
       },
       {
         "id": "2co-5-q10",
         "questionNumber": 10,
         "question": "In the concluding portion of the chapter, what takes place in 2 Corinthians 5:18?",
         "options": [
-          "“For we are conscious that if this our tent...”",
-          "“But all things are of God, who has made us at...”",
-          "“For truly, we who are in this tent do...”",
+          "“Our bodies are like a tent that we live...”",
+          "“All this is what God does for us. Because of what...”",
+          "“While we still live in our bodies here on...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“But all things are of God, who has made us at...”",
+        "correctAnswer": "“All this is what God does for us. Because of what...”",
         "reference": "2 Corinthians 5:18",
-        "explanation": "2 Corinthians 5:18 records: 'But all things are of God, who has made us at peace with himself through Christ, and has given to us the work of making peace;'."
+        "explanation": "2 Corinthians 5:18 records: 'All this is what God does for us. Because of what Christ has done, God has brought us back to himself, as his friends. Now he wants us to bring other people to be his friends too. That is the job that he has given to us.'."
       }
     ],
     "6": [
@@ -771,150 +768,150 @@
         "questionNumber": 1,
         "question": "According to 2 Corinthians 6:1, what is the opening statement or setting of this chapter?",
         "options": [
-          "It records: “We then, working together with God, make our request to you not t...”",
+          "It records: “So, as we work together with God, we tell you to be careful. Reme...”",
           "It begins with a prayer of thanksgiving for deliverance in 2 Corinthians",
           "It opens with a formal census and counting of the congregation",
           "It records a severe judgment pronounced against neighboring nations"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "It records: “We then, working together with God, make our request to you not t...”",
+        "correctAnswer": "It records: “So, as we work together with God, we tell you to be careful. Reme...”",
         "reference": "2 Corinthians 6:1",
-        "explanation": "The chapter begins directly with the statement: 'We then, working together with God, make our request to you not to take the grace of God to no purpose.'."
+        "explanation": "The chapter begins directly with the statement: 'So, as we work together with God, we tell you to be careful. Remember that God has been very kind and he has forgiven you. Do not waste that!'."
       },
       {
         "id": "2co-6-q2",
         "questionNumber": 2,
         "question": "What key instruction, event, or declaration is set forth in 2 Corinthians 6:2?",
         "options": [
-          "“In blows, in prisons, in attacks, in hard work,...”",
-          "“(For he says, I have given ear to you at a...”",
-          "“Unnoted, but still kept fully in mind; as near...”",
+          "“Sometimes people hit us. They put us in prison....”",
+          "“In the Bible God says: ‘I answered your prayer at the...”",
+          "“Some people do not want to know us. Other...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“(For he says, I have given ear to you at a...”",
+        "correctAnswer": "“In the Bible God says: ‘I answered your prayer at the...”",
         "reference": "2 Corinthians 6:2",
-        "explanation": "2 Corinthians 6:2 records: '(For he says, I have given ear to you at a good time, and I have been your helper in a day of salvation: see, now is the good time; now is the day of salvation):'."
+        "explanation": "2 Corinthians 6:2 records: 'In the Bible God says: ‘I answered your prayer at the right time for me to help you. I helped you on the right day for me to save you.’ Listen! The right time is now! The day for God to save you is now!'."
       },
       {
         "id": "2co-6-q3",
         "questionNumber": 3,
         "question": "What significant action or revelation occurs in 2 Corinthians 6:3?",
         "options": [
-          "“In a clean heart, in knowledge, in long waiting,...”",
-          "“As full of sorrow, but ever glad; as poor,...”",
-          "“Giving no cause for trouble in anything, so that no one...”",
+          "“We serve God honestly and with pure thoughts. We...”",
+          "“We seem to be sad, but really we are...”",
+          "“We do not want anyone to think bad things about our...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“Giving no cause for trouble in anything, so that no one...”",
+        "correctAnswer": "“We do not want anyone to think bad things about our...”",
         "reference": "2 Corinthians 6:3",
-        "explanation": "2 Corinthians 6:3 records: 'Giving no cause for trouble in anything, so that no one may be able to say anything against our work;'."
+        "explanation": "2 Corinthians 6:3 records: 'We do not want anyone to think bad things about our work. So we do nothing that might cause trouble for anyone.'."
       },
       {
         "id": "2co-6-q4",
         "questionNumber": 4,
         "question": "What truth or description is highlighted in 2 Corinthians 6:4?",
         "options": [
-          "“In the true word, in the power of God;...”",
-          "“Our mouth is open to you, O Corinthians, our...”",
+          "“We speak a true message. God's power gives us...”",
+          "“Our friends at Corinth, we have spoken to you...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“But in everything making it clear that we are the servants...”"
+          "“Instead, in everything that we do, we want to show that...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“But in everything making it clear that we are the servants...”",
+        "correctAnswer": "“Instead, in everything that we do, we want to show that...”",
         "reference": "2 Corinthians 6:4",
-        "explanation": "2 Corinthians 6:4 records: 'But in everything making it clear that we are the servants of God, in quiet strength, in troubles, in need, in sorrow,'."
+        "explanation": "2 Corinthians 6:4 records: 'Instead, in everything that we do, we want to show that we are God's servants. When people want to hurt us, we are patient and brave. We have many troubles. We become sad and upset.'."
       },
       {
         "id": "2co-6-q5",
         "questionNumber": 5,
         "question": "According to the text, what happened or was commanded in 2 Corinthians 6:5?",
         "options": [
-          "“In blows, in prisons, in attacks, in hard work, in watchings,...”",
-          "“By glory and by shame, by an evil name...”",
-          "“It is not our feelings to you which are...”",
+          "“Sometimes people hit us. They put us in prison. They attack...”",
+          "“Sometimes people respect us as important. Sometimes they think...”",
+          "“We have done nothing to stop you from being...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“In blows, in prisons, in attacks, in hard work, in watchings,...”",
+        "correctAnswer": "“Sometimes people hit us. They put us in prison. They attack...”",
         "reference": "2 Corinthians 6:5",
-        "explanation": "2 Corinthians 6:5 records: 'In blows, in prisons, in attacks, in hard work, in watchings, in going without food;'."
+        "explanation": "2 Corinthians 6:5 records: 'Sometimes people hit us. They put us in prison. They attack us. But we work hard. We cannot always sleep at night. We are often hungry.'."
       },
       {
         "id": "2co-6-q6",
         "questionNumber": 6,
         "question": "What central message or instruction is delivered in 2 Corinthians 6:6?",
         "options": [
-          "“Unnoted, but still kept fully in mind; as near...”",
-          "“In a clean heart, in knowledge, in long waiting, in being...”",
-          "“Now to give me back payment of the same...”",
+          "“Some people do not want to know us. Other...”",
+          "“We serve God honestly and with pure thoughts. We know what...”",
+          "“I am speaking to you as I would speak...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“In a clean heart, in knowledge, in long waiting, in being...”",
+        "correctAnswer": "“We serve God honestly and with pure thoughts. We know what...”",
         "reference": "2 Corinthians 6:6",
-        "explanation": "2 Corinthians 6:6 records: 'In a clean heart, in knowledge, in long waiting, in being kind, in the Holy Spirit, in true love,'."
+        "explanation": "2 Corinthians 6:6 records: 'We serve God honestly and with pure thoughts. We know what is true. We are patient and kind. God's Holy Spirit helps us. We love people in an honest way.'."
       },
       {
         "id": "2co-6-q7",
         "questionNumber": 7,
         "question": "What detail regarding God's work, covenant, or people is given in 2 Corinthians 6:7?",
         "options": [
-          "“As full of sorrow, but ever glad; as poor,...”",
-          "“Do not keep company with those who have not...”",
-          "“In the true word, in the power of God; with the...”",
+          "“We seem to be sad, but really we are...”",
+          "“Do not become united with people who do not...”",
+          "“We speak a true message. God's power gives us strength. We...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“In the true word, in the power of God; with the...”",
+        "correctAnswer": "“We speak a true message. God's power gives us strength. We...”",
         "reference": "2 Corinthians 6:7",
-        "explanation": "2 Corinthians 6:7 records: 'In the true word, in the power of God; with the arms of righteousness on the right hand and on the left,'."
+        "explanation": "2 Corinthians 6:7 records: 'We speak a true message. God's power gives us strength. We do what is right, so we fight like soldiers on God's behalf. It is like we have God's weapons in both hands!'."
       },
       {
         "id": "2co-6-q8",
         "questionNumber": 8,
         "question": "What phrase or account is recorded in 2 Corinthians 6:8?",
         "options": [
-          "“Our mouth is open to you, O Corinthians, our...”",
-          "“And what agreement is there between Christ and the...”",
+          "“Our friends at Corinth, we have spoken to you...”",
+          "“Christ will never agree with the devil. People who...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“By glory and by shame, by an evil name and a...”"
+          "“Sometimes people respect us as important. Sometimes they think that we...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“By glory and by shame, by an evil name and a...”",
+        "correctAnswer": "“Sometimes people respect us as important. Sometimes they think that we...”",
         "reference": "2 Corinthians 6:8",
-        "explanation": "2 Corinthians 6:8 records: 'By glory and by shame, by an evil name and a good name; as untrue, and still true;'."
+        "explanation": "2 Corinthians 6:8 records: 'Sometimes people respect us as important. Sometimes they think that we are worth nothing. People may insult us, or they may praise us. We only say true things, but some people still think that we deceive others.'."
       },
       {
         "id": "2co-6-q9",
         "questionNumber": 9,
         "question": "How does the passage describe the circumstances or people in 2 Corinthians 6:9?",
         "options": [
-          "“Unnoted, but still kept fully in mind; as near to death,...”",
-          "“It is not our feelings to you which are...”",
-          "“And what agreement has the house of God with...”",
+          "“Some people do not want to know us. Other people accept...”",
+          "“We have done nothing to stop you from being...”",
+          "“Idols do not belong in God's house. Remember that...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“Unnoted, but still kept fully in mind; as near to death,...”",
+        "correctAnswer": "“Some people do not want to know us. Other people accept...”",
         "reference": "2 Corinthians 6:9",
-        "explanation": "2 Corinthians 6:9 records: 'Unnoted, but still kept fully in mind; as near to death, but still living; as undergoing punishment, but not put to death;'."
+        "explanation": "2 Corinthians 6:9 records: 'Some people do not want to know us. Other people accept us as God's servants. It seems like we are dying, but look! We are still alive! People punish us, but they do not kill us.'."
       },
       {
         "id": "2co-6-q10",
         "questionNumber": 10,
         "question": "In the concluding portion of the chapter, what takes place in 2 Corinthians 6:10?",
         "options": [
-          "“Now to give me back payment of the same...”",
-          "“As full of sorrow, but ever glad; as poor, but giving...”",
-          "“For which cause, Come out from among them, and...”",
+          "“I am speaking to you as I would speak...”",
+          "“We seem to be sad, but really we are always happy....”",
+          "“And so, the Lord God says: ‘Come out from...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“As full of sorrow, but ever glad; as poor, but giving...”",
+        "correctAnswer": "“We seem to be sad, but really we are always happy....”",
         "reference": "2 Corinthians 6:10",
-        "explanation": "2 Corinthians 6:10 records: 'As full of sorrow, but ever glad; as poor, but giving wealth to others; as having nothing, but still having all things.'."
+        "explanation": "2 Corinthians 6:10 records: 'We seem to be sad, but really we are always happy. We seem to be poor, but we make many people rich. We seem to have nothing, but really we have everything.'."
       }
     ],
     "7": [
@@ -923,150 +920,150 @@
         "questionNumber": 1,
         "question": "According to 2 Corinthians 7:1, what is the opening statement or setting of this chapter?",
         "options": [
-          "It records: “Because God, then, will give us such rewards, dear brothers, let ...”",
+          "It records: “So, my friends, God has promised these things to us. So we must k...”",
           "It begins with a prayer of thanksgiving for deliverance in 2 Corinthians",
           "It opens with a formal census and counting of the congregation",
           "It records a severe judgment pronounced against neighboring nations"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "It records: “Because God, then, will give us such rewards, dear brothers, let ...”",
+        "correctAnswer": "It records: “So, my friends, God has promised these things to us. So we must k...”",
         "reference": "2 Corinthians 7:1",
-        "explanation": "The chapter begins directly with the statement: 'Because God, then, will give us such rewards, dear brothers, let us make ourselves clean from all evil of flesh and spirit, and become completely holy in the fear of God.'."
+        "explanation": "The chapter begins directly with the statement: 'So, my friends, God has promised these things to us. So we must keep ourselves clean from everything that makes our bodies or our spirits unclean. We must respect and obey God. Then we will become more and more like him.'."
       },
       {
         "id": "2co-7-q2",
         "questionNumber": 2,
         "question": "What key instruction, event, or declaration is set forth in 2 Corinthians 7:2?",
         "options": [
-          "“For even when we had come into Macedonia our...”",
-          "“Let your hearts be open to us: we have done no...”",
-          "“Now I am glad, not that you had sorrow,...”",
+          "“When we arrived in Macedonia, our bodies did not...”",
+          "“Be friends with us. We have done nothing wrong to any...”",
+          "“So now I am happy, but not because my...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“Let your hearts be open to us: we have done no...”",
+        "correctAnswer": "“Be friends with us. We have done nothing wrong to any...”",
         "reference": "2 Corinthians 7:2",
-        "explanation": "2 Corinthians 7:2 records: 'Let your hearts be open to us: we have done no man wrong, no man has been damaged by us, we have made no profit out of any man,'."
+        "explanation": "2 Corinthians 7:2 records: 'Be friends with us. We have done nothing wrong to any of you. We have not hurt anyone. We have not cheated anyone.'."
       },
       {
         "id": "2co-7-q3",
         "questionNumber": 3,
         "question": "What significant action or revelation occurs in 2 Corinthians 7:3?",
         "options": [
-          "“But God who gives comfort to the poor in...”",
-          "“For the sorrow which God gives is the cause...”",
-          "“It is not with the purpose of judging you that I...”",
+          "“But when people feel upset, God helps them to...”",
+          "“People need to become sad in the way that...”",
+          "“I am not saying this to make you feel ashamed. As...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“It is not with the purpose of judging you that I...”",
+        "correctAnswer": "“I am not saying this to make you feel ashamed. As...”",
         "reference": "2 Corinthians 7:3",
-        "explanation": "2 Corinthians 7:3 records: 'It is not with the purpose of judging you that I say this: for I have said before that you are in our hearts for life and death together.'."
+        "explanation": "2 Corinthians 7:3 records: 'I am not saying this to make you feel ashamed. As I have told you before, you are our special friends. We will continue to love you, whether we live together or we die together.'."
       },
       {
         "id": "2co-7-q4",
         "questionNumber": 4,
         "question": "What truth or description is highlighted in 2 Corinthians 7:4?",
         "options": [
-          "“And not by his coming only, but by the...”",
-          "“For you see what care was produced in you...”",
+          "“God comforted us not only because Titus came to...”",
+          "“You became sad in the way that God wanted....”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“My words to you are without fear, I am full of...”"
+          "“I know you and I trust you. I am proud of...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“My words to you are without fear, I am full of...”",
+        "correctAnswer": "“I know you and I trust you. I am proud of...”",
         "reference": "2 Corinthians 7:4",
-        "explanation": "2 Corinthians 7:4 records: 'My words to you are without fear, I am full of pride on account of you: I have great comfort and joy in all our troubles.'."
+        "explanation": "2 Corinthians 7:4 records: 'I know you and I trust you. I am proud of you. You have helped me to be strong. So, even when we have many troubles, I am still very happy.'."
       },
       {
         "id": "2co-7-q5",
         "questionNumber": 5,
         "question": "According to the text, what happened or was commanded in 2 Corinthians 7:5?",
         "options": [
-          "“For even when we had come into Macedonia our flesh had...”",
-          "“For though my letter gave you pain, I have...”",
-          "“So though I sent you a letter, it was...”",
+          "“When we arrived in Macedonia, our bodies did not rest at...”",
+          "“But even if I made you sad by my...”",
+          "“So why did I write that letter to you?...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“For even when we had come into Macedonia our flesh had...”",
+        "correctAnswer": "“When we arrived in Macedonia, our bodies did not rest at...”",
         "reference": "2 Corinthians 7:5",
-        "explanation": "2 Corinthians 7:5 records: 'For even when we had come into Macedonia our flesh had no rest, but we were troubled on every side; there were fightings outside and fears inside.'."
+        "explanation": "2 Corinthians 7:5 records: 'When we arrived in Macedonia, our bodies did not rest at all. We had many kinds of trouble. All around us, people argued with us. Inside us, we were afraid.'."
       },
       {
         "id": "2co-7-q6",
         "questionNumber": 6,
         "question": "What central message or instruction is delivered in 2 Corinthians 7:6?",
         "options": [
-          "“Now I am glad, not that you had sorrow,...”",
-          "“But God who gives comfort to the poor in spirit gave...”",
-          "“So we have been comforted: and we had the...”",
+          "“So now I am happy, but not because my...”",
+          "“But when people feel upset, God helps them to be strong....”",
+          "“That is how God has comforted us. It was...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“But God who gives comfort to the poor in spirit gave...”",
+        "correctAnswer": "“But when people feel upset, God helps them to be strong....”",
         "reference": "2 Corinthians 7:6",
-        "explanation": "2 Corinthians 7:6 records: 'But God who gives comfort to the poor in spirit gave us comfort by the coming of Titus;'."
+        "explanation": "2 Corinthians 7:6 records: 'But when people feel upset, God helps them to be strong. And God made us happy when Titus arrived.'."
       },
       {
         "id": "2co-7-q7",
         "questionNumber": 7,
         "question": "What detail regarding God's work, covenant, or people is given in 2 Corinthians 7:7?",
         "options": [
-          "“For the sorrow which God gives is the cause...”",
-          "“For I was not put to shame in anything...”",
-          "“And not by his coming only, but by the comfort which...”",
+          "“People need to become sad in the way that...”",
+          "“I had told Titus that I was very proud...”",
+          "“God comforted us not only because Titus came to us. He...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“And not by his coming only, but by the comfort which...”",
+        "correctAnswer": "“God comforted us not only because Titus came to us. He...”",
         "reference": "2 Corinthians 7:7",
-        "explanation": "2 Corinthians 7:7 records: 'And not by his coming only, but by the comfort which he had in you, while he gave us word of your desire, your sorrow, your care for me; so that I was still more glad.'."
+        "explanation": "2 Corinthians 7:7 records: 'God comforted us not only because Titus came to us. He comforted us also by what Titus told us about you. He said that you had helped him to be strong. He told us that you want to see me. He told us that you are very sad about what happened. He told us also that you are ready to help me. Because of what Titus told us about you, I was very happy.'."
       },
       {
         "id": "2co-7-q8",
         "questionNumber": 8,
         "question": "What phrase or account is recorded in 2 Corinthians 7:8?",
         "options": [
-          "“For you see what care was produced in you...”",
-          "“And his love to you is the more increased...”",
+          "“You became sad in the way that God wanted....”",
+          "“Now, when Titus thinks about you, he loves you...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“For though my letter gave you pain, I have no regret...”"
+          "“But even if I made you sad by my letter, I...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“For though my letter gave you pain, I have no regret...”",
+        "correctAnswer": "“But even if I made you sad by my letter, I...”",
         "reference": "2 Corinthians 7:8",
-        "explanation": "2 Corinthians 7:8 records: 'For though my letter gave you pain, I have no regret for it now, though I had before; for I see that the letter gave you pain, but only for a time.'."
+        "explanation": "2 Corinthians 7:8 records: 'But even if I made you sad by my letter, I am not sorry about that. At one time, I was sorry that I had written it. I saw that my letter had made you sad. But you were sad only for a short time.'."
       },
       {
         "id": "2co-7-q9",
         "questionNumber": 9,
         "question": "How does the passage describe the circumstances or people in 2 Corinthians 7:9?",
         "options": [
-          "“Now I am glad, not that you had sorrow, but that...”",
-          "“So though I sent you a letter, it was...”",
-          "“Because God, then, will give us such rewards, dear...”",
+          "“So now I am happy, but not because my letter made...”",
+          "“So why did I write that letter to you?...”",
+          "“So, my friends, God has promised these things to...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“Now I am glad, not that you had sorrow, but that...”",
+        "correctAnswer": "“So now I am happy, but not because my letter made...”",
         "reference": "2 Corinthians 7:9",
-        "explanation": "2 Corinthians 7:9 records: 'Now I am glad, not that you had sorrow, but that your sorrow was the cause of a change of heart; for yours was a holy sorrow so that you might undergo no loss by us in anything.'."
+        "explanation": "2 Corinthians 7:9 records: 'So now I am happy, but not because my letter made you sad. No, I am happy because it made you turn away from wrong things. You became sad as God wanted you to be sad. So, when the letter made you sad, we did not really hurt you.'."
       },
       {
         "id": "2co-7-q10",
         "questionNumber": 10,
         "question": "In the concluding portion of the chapter, what takes place in 2 Corinthians 7:10?",
         "options": [
-          "“So we have been comforted: and we had the...”",
-          "“For the sorrow which God gives is the cause of salvation...”",
-          "“Because God, then, will give us such rewards, dear...”",
+          "“That is how God has comforted us. It was...”",
+          "“People need to become sad in the way that God wants....”",
+          "“So, my friends, God has promised these things to...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“For the sorrow which God gives is the cause of salvation...”",
+        "correctAnswer": "“People need to become sad in the way that God wants....”",
         "reference": "2 Corinthians 7:10",
-        "explanation": "2 Corinthians 7:10 records: 'For the sorrow which God gives is the cause of salvation through a change of heart, in which there is no reason for grief: but the sorrow of the world is a cause of death.'."
+        "explanation": "2 Corinthians 7:10 records: 'People need to become sad in the way that God wants. When they are sad like that, it causes them to turn away from wrong things. Then God saves them from their sins. They will never be sorry about that! But when people become sad in the way that the world wants, it does not help them. They do not turn to God and they die in their spirits.'."
       }
     ],
     "8": [
@@ -1075,150 +1072,150 @@
         "questionNumber": 1,
         "question": "According to 2 Corinthians 8:1, what is the opening statement or setting of this chapter?",
         "options": [
-          "It records: “And now we give you news, brothers, about the grace of God which ...”",
+          "It records: “My Christian friends, let me tell you about the believers in the ...”",
           "It begins with a prayer of thanksgiving for deliverance in 2 Corinthians",
           "It opens with a formal census and counting of the congregation",
           "It records a severe judgment pronounced against neighboring nations"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "It records: “And now we give you news, brothers, about the grace of God which ...”",
+        "correctAnswer": "It records: “My Christian friends, let me tell you about the believers in the ...”",
         "reference": "2 Corinthians 8:1",
-        "explanation": "The chapter begins directly with the statement: 'And now we give you news, brothers, about the grace of God which has been given to the churches of Macedonia;'."
+        "explanation": "The chapter begins directly with the statement: 'My Christian friends, let me tell you about the believers in the churches in Macedonia. God has been very kind to them.'."
       },
       {
         "id": "2co-8-q2",
         "questionNumber": 2,
         "question": "What key instruction, event, or declaration is set forth in 2 Corinthians 8:2?",
         "options": [
-          "“And going even farther than our hope, they first...”",
-          "“How while they were undergoing every sort of trouble, and were...”",
-          "“For you see the grace of our Lord Jesus...”",
+          "“They did more than we had even hoped for!...”",
+          "“They have had bad troubles, but they continued to be very...”",
+          "“You know that our Lord Jesus Christ is very...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“How while they were undergoing every sort of trouble, and were...”",
+        "correctAnswer": "“They have had bad troubles, but they continued to be very...”",
         "reference": "2 Corinthians 8:2",
-        "explanation": "2 Corinthians 8:2 records: 'How while they were undergoing every sort of trouble, and were in the greatest need, they took all the greater joy in being able to give freely to the needs of others.'."
+        "explanation": "2 Corinthians 8:2 records: 'They have had bad troubles, but they continued to be very happy. As a result, they gave a lot of money to other people. They themselves are very poor, but they still helped other people a lot.'."
       },
       {
         "id": "2co-8-q3",
         "questionNumber": 3,
         "question": "What significant action or revelation occurs in 2 Corinthians 8:4?",
         "options": [
-          "“And that as you are full of every good...”",
-          "“Then make the doing of it complete; so that...”",
-          "“Seriously requesting us that they might have a part in this...”",
+          "“You have so much of everything! You trust God...”",
+          "“Now finish the work. When you started, you wanted...”",
+          "“They wanted the chance to help God's people. That would make...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“Seriously requesting us that they might have a part in this...”",
+        "correctAnswer": "“They wanted the chance to help God's people. That would make...”",
         "reference": "2 Corinthians 8:4",
-        "explanation": "2 Corinthians 8:4 records: 'Seriously requesting us that they might have a part in this grace of being servants to the needs of the saints:'."
+        "explanation": "2 Corinthians 8:4 records: 'They wanted the chance to help God's people. That would make them happy. So they asked us many times to help them to do this.'."
       },
       {
         "id": "2co-8-q4",
         "questionNumber": 4,
         "question": "What truth or description is highlighted in 2 Corinthians 8:6?",
         "options": [
-          "“For you see the grace of our Lord Jesus...”",
-          "“And I am not saying this so that others...”",
+          "“You know that our Lord Jesus Christ is very...”",
+          "“My purpose is not to bring trouble to you....”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“So that we made a request to Titus that, as he...”"
+          "“Because of that, we asked Titus to continue to help you....”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“So that we made a request to Titus that, as he...”",
+        "correctAnswer": "“Because of that, we asked Titus to continue to help you....”",
         "reference": "2 Corinthians 8:6",
-        "explanation": "2 Corinthians 8:6 records: 'So that we made a request to Titus that, as he had made a start before, so he might make this grace complete in you.'."
+        "explanation": "2 Corinthians 8:6 records: 'Because of that, we asked Titus to continue to help you. He is the person who helped you to start giving money. So he will help you to finish this good work.'."
       },
       {
         "id": "2co-8-q5",
         "questionNumber": 5,
         "question": "According to the text, what happened or was commanded in 2 Corinthians 8:8?",
         "options": [
-          "“I am not giving you an order, but using the ready...”",
-          "“Then make the doing of it complete; so that...”",
-          "“As it says in the Writings, He who had...”",
+          "“I am not telling you that you must do this. I...”",
+          "“Now finish the work. When you started, you wanted...”",
+          "“It says this in the Bible: ‘The person who...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“I am not giving you an order, but using the ready...”",
+        "correctAnswer": "“I am not telling you that you must do this. I...”",
         "reference": "2 Corinthians 8:8",
-        "explanation": "2 Corinthians 8:8 records: 'I am not giving you an order, but using the ready mind of others as a test of the quality of your love.'."
+        "explanation": "2 Corinthians 8:8 records: 'I am not telling you that you must do this. I have told you how much other believers want to give their money. In that way, I want to see if you really love other people who need your help.'."
       },
       {
         "id": "2co-8-q6",
         "questionNumber": 6,
         "question": "What central message or instruction is delivered in 2 Corinthians 8:10?",
         "options": [
-          "“And I am not saying this so that others...”",
-          "“And in this I give my opinion: for it is to...”",
-          "“For while he gladly gave ear to our request,...”",
+          "“My purpose is not to bring trouble to you....”",
+          "“This is what I think you should do. Last year, you...”",
+          "“He was very happy when we asked him to...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“And in this I give my opinion: for it is to...”",
+        "correctAnswer": "“This is what I think you should do. Last year, you...”",
         "reference": "2 Corinthians 8:10",
-        "explanation": "2 Corinthians 8:10 records: 'And in this I give my opinion: for it is to your profit, who were the first to make a start a year before, not only to do this, but to make clear that your minds were more than ready to do it.'."
+        "explanation": "2 Corinthians 8:10 records: 'This is what I think you should do. Last year, you were the first people to give money. You really wanted to do that. So the best thing for you is to finish what you started to do.'."
       },
       {
         "id": "2co-8-q7",
         "questionNumber": 7,
         "question": "What detail regarding God's work, covenant, or people is given in 2 Corinthians 8:12?",
         "options": [
-          "“As it says in the Writings, He who had...”",
-          "“And not only so, but he was marked out...”",
-          "“For if there is a ready mind, a man will have...”",
+          "“It says this in the Bible: ‘The person who...”",
+          "“Those Christians in the other churches have also chosen...”",
+          "“If you really want to give, then God will accept your...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“For if there is a ready mind, a man will have...”",
+        "correctAnswer": "“If you really want to give, then God will accept your...”",
         "reference": "2 Corinthians 8:12",
-        "explanation": "2 Corinthians 8:12 records: 'For if there is a ready mind, a man will have God's approval in the measure of what he has, and not of what he has not.'."
+        "explanation": "2 Corinthians 8:12 records: 'If you really want to give, then God will accept your gift. God does not want you to give more than you are able to give. He will be happy about what you can give.'."
       },
       {
         "id": "2co-8-q8",
         "questionNumber": 8,
         "question": "What phrase or account is recorded in 2 Corinthians 8:14?",
         "options": [
-          "“For while he gladly gave ear to our request,...”",
-          "“For the business has been so ordered by us...”",
+          "“He was very happy when we asked him to...”",
+          "“Our purpose is to do only what is right....”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“But so that things may be equal; that from those things...”"
+          "“At this time, you yourselves have plenty. So you are able...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“But so that things may be equal; that from those things...”",
+        "correctAnswer": "“At this time, you yourselves have plenty. So you are able...”",
         "reference": "2 Corinthians 8:14",
-        "explanation": "2 Corinthians 8:14 records: 'But so that things may be equal; that from those things of which you have more than enough at the present time their need may be helped, and that if you are in any need they may be a help to you in the same way, making things equal.'."
+        "explanation": "2 Corinthians 8:14 records: 'At this time, you yourselves have plenty. So you are able to help those people who do not have enough. One day, things may change. They may have plenty, and you may not have enough. Then they can give money to help you. In that way, you will all have enough when you need it.'."
       },
       {
         "id": "2co-8-q9",
         "questionNumber": 9,
         "question": "How does the passage describe the circumstances or people in 2 Corinthians 8:16?",
         "options": [
-          "“But praise be to God, who puts the same care for...”",
-          "“And not only so, but he was marked out...”",
-          "“If any question comes up about Titus, he is...”",
+          "“Titus wants to help you just as much as we do....”",
+          "“Those Christians in the other churches have also chosen...”",
+          "“As for Titus himself, he works along with me,...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“But praise be to God, who puts the same care for...”",
+        "correctAnswer": "“Titus wants to help you just as much as we do....”",
         "reference": "2 Corinthians 8:16",
-        "explanation": "2 Corinthians 8:16 records: 'But praise be to God, who puts the same care for you into the heart of Titus.'."
+        "explanation": "2 Corinthians 8:16 records: 'Titus wants to help you just as much as we do. We thank God that he has made Titus ready to do that.'."
       },
       {
         "id": "2co-8-q10",
         "questionNumber": 10,
         "question": "In the concluding portion of the chapter, what takes place in 2 Corinthians 8:18?",
         "options": [
-          "“For the business has been so ordered by us...”",
-          "“And with him we have sent a brother whose praise in...”",
-          "“And now we give you news, brothers, about the...”",
+          "“Our purpose is to do only what is right....”",
+          "“We are sending another man with Titus. He is also a...”",
+          "“My Christian friends, let me tell you about the...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“And with him we have sent a brother whose praise in...”",
+        "correctAnswer": "“We are sending another man with Titus. He is also a...”",
         "reference": "2 Corinthians 8:18",
-        "explanation": "2 Corinthians 8:18 records: 'And with him we have sent a brother whose praise in the good news has gone through all the churches;'."
+        "explanation": "2 Corinthians 8:18 records: 'We are sending another man with Titus. He is also a believer. The Christians in all the other churches praise this man. They say that he works hard to tell people the good news about Christ.'."
       }
     ],
     "9": [
@@ -1227,150 +1224,150 @@
         "questionNumber": 1,
         "question": "According to 2 Corinthians 9:1, what is the opening statement or setting of this chapter?",
         "options": [
-          "It records: “But there is no need for me to say anything in my letter about th...”",
+          "It records: “I do not need to write to you about the money that you want to se...”",
           "It begins with a prayer of thanksgiving for deliverance in 2 Corinthians",
           "It opens with a formal census and counting of the congregation",
           "It records a severe judgment pronounced against neighboring nations"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "It records: “But there is no need for me to say anything in my letter about th...”",
+        "correctAnswer": "It records: “I do not need to write to you about the money that you want to se...”",
         "reference": "2 Corinthians 9:1",
-        "explanation": "The chapter begins directly with the statement: 'But there is no need for me to say anything in my letter about the giving to the saints:'."
+        "explanation": "The chapter begins directly with the statement: 'I do not need to write to you about the money that you want to send to God's people in Jerusalem.'."
       },
       {
         "id": "2co-9-q2",
         "questionNumber": 2,
         "question": "What key instruction, event, or declaration is set forth in 2 Corinthians 9:2?",
         "options": [
-          "“So it seemed to me wise for the brothers...”",
-          "“For I have before made clear to those of Macedonia my...”",
-          "“As it is said in the Writings, He has...”",
+          "“So I decided to tell these men to visit...”",
+          "“I know that you want to help very much. I have...”",
+          "“The Bible says this about someone who helps other...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“For I have before made clear to those of Macedonia my...”",
+        "correctAnswer": "“I know that you want to help very much. I have...”",
         "reference": "2 Corinthians 9:2",
-        "explanation": "2 Corinthians 9:2 records: 'For I have before made clear to those of Macedonia my pride in your ready mind, saying to them that Achaia has been ready for a year back; and a great number have been moved to do the same by your example.'."
+        "explanation": "2 Corinthians 9:2 records: 'I know that you want to help very much. I have told the believers in Macedonia how good you are. I tell them that you believers in Achaia have been ready to give your money since last year. Because you are so ready to help, most of them now also want to help.'."
       },
       {
         "id": "2co-9-q3",
         "questionNumber": 3,
         "question": "What significant action or revelation occurs in 2 Corinthians 9:3?",
         "options": [
-          "“But in the Writings it says, He who puts...”",
-          "“And he who gives seed for putting into the...”",
-          "“But I have sent the brothers, so that the good things...”",
+          "“Remember this: If a farmer plants only a few...”",
+          "“It is God who supplies seeds for the farmer...”",
+          "“But I do not want the way that I have praised...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“But I have sent the brothers, so that the good things...”",
+        "correctAnswer": "“But I do not want the way that I have praised...”",
         "reference": "2 Corinthians 9:3",
-        "explanation": "2 Corinthians 9:3 records: 'But I have sent the brothers, so that the good things we said about you may be seen to be true, and that, as I said, you may be ready:'."
+        "explanation": "2 Corinthians 9:3 records: 'But I do not want the way that I have praised you not to be true. So I am sending these men, our Christian friends, to come to you. I want to be sure that you will be ready to give your money. That is what I have told people about you.'."
       },
       {
         "id": "2co-9-q4",
         "questionNumber": 4,
         "question": "What truth or description is highlighted in 2 Corinthians 9:4?",
         "options": [
-          "“Let every man do after the purpose of his...”",
-          "“Your wealth being increased in everything, with a simple...”",
+          "“Each of you should think carefully and then decide...”",
+          "“God will make you rich with many good things....”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“For fear that, if any from Macedonia come with me, and...”"
+          "“Perhaps some believers from Macedonia might come with me. If you...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“For fear that, if any from Macedonia come with me, and...”",
+        "correctAnswer": "“Perhaps some believers from Macedonia might come with me. If you...”",
         "reference": "2 Corinthians 9:4",
-        "explanation": "2 Corinthians 9:4 records: 'For fear that, if any from Macedonia come with me, and you are not ready, we (not to say, you) might be put to shame in this thing.'."
+        "explanation": "2 Corinthians 9:4 records: 'Perhaps some believers from Macedonia might come with me. If you are not ready when we come, we would be ashamed. We would be ashamed because we trusted you. And I think that you would be ashamed as well!'."
       },
       {
         "id": "2co-9-q5",
         "questionNumber": 5,
         "question": "According to the text, what happened or was commanded in 2 Corinthians 9:5?",
         "options": [
-          "“So it seemed to me wise for the brothers to go...”",
-          "“And God is able to give you all grace...”",
-          "“For this work of giving not only takes care...”",
+          "“So I decided to tell these men to visit you before...”",
+          "“Since God loves you, he is able to give...”",
+          "“This good work that you are doing is helping...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“So it seemed to me wise for the brothers to go...”",
+        "correctAnswer": "“So I decided to tell these men to visit you before...”",
         "reference": "2 Corinthians 9:5",
-        "explanation": "2 Corinthians 9:5 records: 'So it seemed to me wise for the brothers to go before, and see that the amount which you had undertaken to give was ready, so that it might be a cause for praise, and not as if we were making profit out of you.'."
+        "explanation": "2 Corinthians 9:5 records: 'So I decided to tell these men to visit you before I come myself. They will help you to prepare the gift that you promised. Then it will be ready when I arrive. Everyone will know that you really wanted to give this gift. Nobody has made you give it.'."
       },
       {
         "id": "2co-9-q6",
         "questionNumber": 6,
         "question": "What central message or instruction is delivered in 2 Corinthians 9:6?",
         "options": [
-          "“As it is said in the Writings, He has...”",
-          "“But in the Writings it says, He who puts in only...”",
-          "“For when, through this work of giving, they see...”",
+          "“The Bible says this about someone who helps other...”",
+          "“Remember this: If a farmer plants only a few seeds, he...”",
+          "“Your gift of money will show people that you...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“But in the Writings it says, He who puts in only...”",
+        "correctAnswer": "“Remember this: If a farmer plants only a few seeds, he...”",
         "reference": "2 Corinthians 9:6",
-        "explanation": "2 Corinthians 9:6 records: 'But in the Writings it says, He who puts in only a small number of seeds, will get in the same; and he who puts them in from a full hand, will have produce in full measure from them.'."
+        "explanation": "2 Corinthians 9:6 records: 'Remember this: If a farmer plants only a few seeds, he will not get much as a result. But if he plants plenty of seeds, he will get a big harvest.'."
       },
       {
         "id": "2co-9-q7",
         "questionNumber": 7,
         "question": "What detail regarding God's work, covenant, or people is given in 2 Corinthians 9:7?",
         "options": [
-          "“And he who gives seed for putting into the...”",
-          "“While their hearts go out to you in love...”",
-          "“Let every man do after the purpose of his heart; not...”",
+          "“It is God who supplies seeds for the farmer...”",
+          "“They will want to thank you. They will pray...”",
+          "“Each of you should think carefully and then decide how much...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“Let every man do after the purpose of his heart; not...”",
+        "correctAnswer": "“Each of you should think carefully and then decide how much...”",
         "reference": "2 Corinthians 9:7",
-        "explanation": "2 Corinthians 9:7 records: 'Let every man do after the purpose of his heart; not giving with grief, or by force: for God takes pleasure in a ready giver.'."
+        "explanation": "2 Corinthians 9:7 records: 'Each of you should think carefully and then decide how much you can give. Then you will not be sad to give that money. Nobody has made you give it. God loves someone who is happy to give help to other people.'."
       },
       {
         "id": "2co-9-q8",
         "questionNumber": 8,
         "question": "What phrase or account is recorded in 2 Corinthians 9:8?",
         "options": [
-          "“Your wealth being increased in everything, with a simple...”",
-          "“But there is no need for me to say...”",
+          "“God will make you rich with many good things....”",
+          "“I do not need to write to you about...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“And God is able to give you all grace in full...”"
+          "“Since God loves you, he is able to give you more...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“And God is able to give you all grace in full...”",
+        "correctAnswer": "“Since God loves you, he is able to give you more...”",
         "reference": "2 Corinthians 9:8",
-        "explanation": "2 Corinthians 9:8 records: 'And God is able to give you all grace in full measure; so that ever having enough of all things, you may be full of every good work:'."
+        "explanation": "2 Corinthians 9:8 records: 'Since God loves you, he is able to give you more than you need. You will always have every good thing that you need for yourselves. And you will have enough to do many good things to help other people.'."
       },
       {
         "id": "2co-9-q9",
         "questionNumber": 9,
         "question": "How does the passage describe the circumstances or people in 2 Corinthians 9:9?",
         "options": [
-          "“As it is said in the Writings, He has sent out...”",
-          "“For this work of giving not only takes care...”",
-          "“But there is no need for me to say...”",
+          "“The Bible says this about someone who helps other people: ‘He...”",
+          "“This good work that you are doing is helping...”",
+          "“I do not need to write to you about...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“As it is said in the Writings, He has sent out...”",
+        "correctAnswer": "“The Bible says this about someone who helps other people: ‘He...”",
         "reference": "2 Corinthians 9:9",
-        "explanation": "2 Corinthians 9:9 records: 'As it is said in the Writings, He has sent out far and wide, he has given to the poor; his righteousness is for ever.'."
+        "explanation": "2 Corinthians 9:9 records: 'The Bible says this about someone who helps other people: ‘He has shared his things with many poor people. People will always remember the good things that he has done.’'."
       },
       {
         "id": "2co-9-q10",
         "questionNumber": 10,
         "question": "In the concluding portion of the chapter, what takes place in 2 Corinthians 9:10?",
         "options": [
-          "“For when, through this work of giving, they see...”",
-          "“And he who gives seed for putting into the field and...”",
-          "“For I have before made clear to those of...”",
+          "“Your gift of money will show people that you...”",
+          "“It is God who supplies seeds for the farmer to plant....”",
+          "“I know that you want to help very much....”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“And he who gives seed for putting into the field and...”",
+        "correctAnswer": "“It is God who supplies seeds for the farmer to plant....”",
         "reference": "2 Corinthians 9:10",
-        "explanation": "2 Corinthians 9:10 records: 'And he who gives seed for putting into the field and bread for food, will take care of the growth of your seed, at the same time increasing the fruits of your righteousness;'."
+        "explanation": "2 Corinthians 9:10 records: 'It is God who supplies seeds for the farmer to plant. It is God who supplies bread for food. God will help you in the same way. He will give you plenty of things so that you can help other people. You will be like a farmer who plants many seeds. And God will cause those seeds to grow. There will be many good results from the help that you give to other people. That will be like a great harvest.'."
       }
     ],
     "10": [
@@ -1379,150 +1376,150 @@
         "questionNumber": 1,
         "question": "According to 2 Corinthians 10:1, what is the opening statement or setting of this chapter?",
         "options": [
-          "It records: “Now I, Paul, myself make request to you by the quiet and gentle b...”",
+          "It records: “I, Paul, need to ask you something. Perhaps you think that I am o...”",
           "It begins with a prayer of thanksgiving for deliverance in 2 Corinthians",
           "It opens with a formal census and counting of the congregation",
           "It records a severe judgment pronounced against neighboring nations"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "It records: “Now I, Paul, myself make request to you by the quiet and gentle b...”",
+        "correctAnswer": "It records: “I, Paul, need to ask you something. Perhaps you think that I am o...”",
         "reference": "2 Corinthians 10:1",
-        "explanation": "The chapter begins directly with the statement: 'Now I, Paul, myself make request to you by the quiet and gentle behaviour of Christ, I who am poor in spirit when with you, but who say what is in my mind to you without fear when I am away from you:'."
+        "explanation": "The chapter begins directly with the statement: 'I, Paul, need to ask you something. Perhaps you think that I am only humble when I am present there with you. You think that I only speak strongly to you when I am far away! Now I am away from you. But I am still humble and kind, like Christ is.'."
       },
       {
         "id": "2co-10-q2",
         "questionNumber": 2,
         "question": "What key instruction, event, or declaration is set forth in 2 Corinthians 10:2?",
         "options": [
-          "“Putting an end to reasonings, and every high thing...”",
-          "“Yes, I make my request to you, so that when I...”",
-          "“That I may not seem to have the desire...”",
+          "“People may speak proud ideas that stop other people...”",
+          "“So please listen to what I am asking you. Some people...”",
+          "“When I write letters to you, I am not...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“Yes, I make my request to you, so that when I...”",
+        "correctAnswer": "“So please listen to what I am asking you. Some people...”",
         "reference": "2 Corinthians 10:2",
-        "explanation": "2 Corinthians 10:2 records: 'Yes, I make my request to you, so that when I am with you I may not have to make use of the authority which may be needed against some to whom we seem to be walking after the flesh.'."
+        "explanation": "2 Corinthians 10:2 records: 'So please listen to what I am asking you. Some people among you think that we live like people who belong to this world. When I come to visit you, I am sure that I will be brave enough to speak against those people. But I do not want to have to speak strongly like that against all of you.'."
       },
       {
         "id": "2co-10-q3",
         "questionNumber": 3,
         "question": "What significant action or revelation occurs in 2 Corinthians 10:3?",
         "options": [
-          "“Being ready to give punishment to whatever is against...”",
-          "“For his letters, they say, have weight and are...”",
-          "“For though we may be living in the flesh, we are...”",
+          "“You must show that you are ready to obey...”",
+          "“Some people say: ‘Paul's letters are powerful and they...”",
+          "“It is true that we live in this world as humans....”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“For though we may be living in the flesh, we are...”",
+        "correctAnswer": "“It is true that we live in this world as humans....”",
         "reference": "2 Corinthians 10:3",
-        "explanation": "2 Corinthians 10:3 records: 'For though we may be living in the flesh, we are not fighting after the way of the flesh'."
+        "explanation": "2 Corinthians 10:3 records: 'It is true that we live in this world as humans. But we do not use our human ideas to fight against what is wrong.'."
       },
       {
         "id": "2co-10-q4",
         "questionNumber": 4,
         "question": "What truth or description is highlighted in 2 Corinthians 10:4?",
         "options": [
-          "“Give attention to the things which are before you....”",
-          "“Let those who say this keep in mind that,...”",
+          "“Take a careful look at what is happening among...”",
+          "“Anyone who says things like that should understand this:...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“(For the arms with which we are fighting are not those...”"
+          "“It is like we are fighting in a war, but we...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“(For the arms with which we are fighting are not those...”",
+        "correctAnswer": "“It is like we are fighting in a war, but we...”",
         "reference": "2 Corinthians 10:4",
-        "explanation": "2 Corinthians 10:4 records: '(For the arms with which we are fighting are not those of the flesh, but are strong before God for the destruction of high places);'."
+        "explanation": "2 Corinthians 10:4 records: 'It is like we are fighting in a war, but we do not use human weapons. Instead, we use God's weapons. Those weapons are powerful enough to destroy the enemy's strong places. We use those weapons to destroy people's wrong ideas.'."
       },
       {
         "id": "2co-10-q5",
         "questionNumber": 5,
         "question": "According to the text, what happened or was commanded in 2 Corinthians 10:5?",
         "options": [
-          "“Putting an end to reasonings, and every high thing which is...”",
-          "“For though I might take pride in our authority...”",
-          "“For we will not make comparison of ourselves with...”",
+          "“People may speak proud ideas that stop other people from knowing...”",
+          "“You may think that I am too proud of...”",
+          "“Some people praise themselves. They say how clever they...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“Putting an end to reasonings, and every high thing which is...”",
+        "correctAnswer": "“People may speak proud ideas that stop other people from knowing...”",
         "reference": "2 Corinthians 10:5",
-        "explanation": "2 Corinthians 10:5 records: 'Putting an end to reasonings, and every high thing which is lifted up against the knowledge of God, and causing every thought to come under the authority of Christ;'."
+        "explanation": "2 Corinthians 10:5 records: 'People may speak proud ideas that stop other people from knowing God. We show that those ideas are completely wrong. We change the way that people think, so that they want to obey Christ.'."
       },
       {
         "id": "2co-10-q6",
         "questionNumber": 6,
         "question": "What central message or instruction is delivered in 2 Corinthians 10:6?",
         "options": [
-          "“That I may not seem to have the desire...”",
-          "“Being ready to give punishment to whatever is against his authority,...”",
-          "“We will not give glory to ourselves in over-great...”",
+          "“When I write letters to you, I am not...”",
+          "“You must show that you are ready to obey completely. Then...”",
+          "“As for us, we will only be proud of...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“Being ready to give punishment to whatever is against his authority,...”",
+        "correctAnswer": "“You must show that you are ready to obey completely. Then...”",
         "reference": "2 Corinthians 10:6",
-        "explanation": "2 Corinthians 10:6 records: 'Being ready to give punishment to whatever is against his authority, after you have made it clear that you are completely under his control.'."
+        "explanation": "2 Corinthians 10:6 records: 'You must show that you are ready to obey completely. Then we will be ready to punish anyone who refuses to obey in any way.'."
       },
       {
         "id": "2co-10-q7",
         "questionNumber": 7,
         "question": "What detail regarding God's work, covenant, or people is given in 2 Corinthians 10:7?",
         "options": [
-          "“For his letters, they say, have weight and are...”",
-          "“For we have no need to make ourselves seem...”",
-          "“Give attention to the things which are before you. If any...”",
+          "“Some people say: ‘Paul's letters are powerful and they...”",
+          "“We were the first people to come as far...”",
+          "“Take a careful look at what is happening among you. If...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“Give attention to the things which are before you. If any...”",
+        "correctAnswer": "“Take a careful look at what is happening among you. If...”",
         "reference": "2 Corinthians 10:7",
-        "explanation": "2 Corinthians 10:7 records: 'Give attention to the things which are before you. If any man seems to himself to be Christ's, let him keep in mind that we are as much Christ's as he is.'."
+        "explanation": "2 Corinthians 10:7 records: 'Take a careful look at what is happening among you. If anyone is sure that he belongs to Christ, he should remember this: We also belong to Christ, just as he does.'."
       },
       {
         "id": "2co-10-q8",
         "questionNumber": 8,
         "question": "What phrase or account is recorded in 2 Corinthians 10:8?",
         "options": [
-          "“Let those who say this keep in mind that,...”",
-          "“Not taking credit to ourselves for what is not...”",
+          "“Anyone who says things like that should understand this:...”",
+          "“We do not praise ourselves for the work that...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“For though I might take pride in our authority (which the...”"
+          "“You may think that I am too proud of my authority....”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“For though I might take pride in our authority (which the...”",
+        "correctAnswer": "“You may think that I am too proud of my authority....”",
         "reference": "2 Corinthians 10:8",
-        "explanation": "2 Corinthians 10:8 records: 'For though I might take pride in our authority (which the Lord gave for building you up, and not for your destruction), it will not be a cause of shame to me:'."
+        "explanation": "2 Corinthians 10:8 records: 'You may think that I am too proud of my authority. But it is the Lord who has given that authority to us apostles. We have that authority so that we can help you become stronger as believers. We do not have it so that we can destroy you! So I am not ashamed to be proud of this.'."
       },
       {
         "id": "2co-10-q9",
         "questionNumber": 9,
         "question": "How does the passage describe the circumstances or people in 2 Corinthians 10:9?",
         "options": [
-          "“That I may not seem to have the desire of causing...”",
-          "“For we will not make comparison of ourselves with...”",
-          "“So that we may be able to go on...”",
+          "“When I write letters to you, I am not trying to...”",
+          "“Some people praise themselves. They say how clever they...”",
+          "“Then we want to tell God's good news to...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“That I may not seem to have the desire of causing...”",
+        "correctAnswer": "“When I write letters to you, I am not trying to...”",
         "reference": "2 Corinthians 10:9",
-        "explanation": "2 Corinthians 10:9 records: 'That I may not seem to have the desire of causing you fear by my letters.'."
+        "explanation": "2 Corinthians 10:9 records: 'When I write letters to you, I am not trying to frighten you. Please do not think that.'."
       },
       {
         "id": "2co-10-q10",
         "questionNumber": 10,
         "question": "In the concluding portion of the chapter, what takes place in 2 Corinthians 10:10?",
         "options": [
-          "“We will not give glory to ourselves in over-great...”",
-          "“For his letters, they say, have weight and are strong; but...”",
-          "“But whoever has a desire for glory, let his...”",
+          "“As for us, we will only be proud of...”",
+          "“Some people say: ‘Paul's letters are powerful and they say strong...”",
+          "“The Bible says this: ‘If you want to be...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“For his letters, they say, have weight and are strong; but...”",
+        "correctAnswer": "“Some people say: ‘Paul's letters are powerful and they say strong...”",
         "reference": "2 Corinthians 10:10",
-        "explanation": "2 Corinthians 10:10 records: 'For his letters, they say, have weight and are strong; but in body he is feeble, and his way of talking has little force.'."
+        "explanation": "2 Corinthians 10:10 records: 'Some people say: ‘Paul's letters are powerful and they say strong things. But when he himself is here with us, he seems to be weak. And the words that he speaks have no value.’'."
       }
     ],
     "11": [
@@ -1531,150 +1528,150 @@
         "questionNumber": 1,
         "question": "According to 2 Corinthians 11:1, what is the opening statement or setting of this chapter?",
         "options": [
-          "It records: “Put up with me if I am a little foolish: but, truly, you do put u...”",
+          "It records: “Please be patient with me! I am speaking like a fool. I know that...”",
           "It begins with a prayer of thanksgiving for deliverance in 2 Corinthians",
           "It opens with a formal census and counting of the congregation",
           "It records a severe judgment pronounced against neighboring nations"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "It records: “Put up with me if I am a little foolish: but, truly, you do put u...”",
+        "correctAnswer": "It records: “Please be patient with me! I am speaking like a fool. I know that...”",
         "reference": "2 Corinthians 11:1",
-        "explanation": "The chapter begins directly with the statement: 'Put up with me if I am a little foolish: but, truly, you do put up with me.'."
+        "explanation": "The chapter begins directly with the statement: 'Please be patient with me! I am speaking like a fool. I know that you are being patient with me already!'."
       },
       {
         "id": "2co-11-q2",
         "questionNumber": 2,
         "question": "What key instruction, event, or declaration is set forth in 2 Corinthians 11:3?",
         "options": [
-          "“But though I am rough in my way of...”",
-          "“But I have a fear, that in some way, as Eve...”",
-          "“As the true word of Christ is in me,...”",
+          "“Perhaps I do not speak as well as they...”",
+          "“Remember how the snake deceived Eve. Because he was clever, she...”",
+          "“The message that I speak about Christ is true....”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“But I have a fear, that in some way, as Eve...”",
+        "correctAnswer": "“Remember how the snake deceived Eve. Because he was clever, she...”",
         "reference": "2 Corinthians 11:3",
-        "explanation": "2 Corinthians 11:3 records: 'But I have a fear, that in some way, as Eve was tricked by the deceit of the snake, your minds may be turned away from their simple and holy love for Christ.'."
+        "explanation": "2 Corinthians 11:3 records: 'Remember how the snake deceived Eve. Because he was clever, she believed his lies. I am afraid that the same thing might happen to you. False teachers may make you believe wrong things. Then you will no longer love Christ in a pure and honest way.'."
       },
       {
         "id": "2co-11-q3",
         "questionNumber": 3,
         "question": "What significant action or revelation occurs in 2 Corinthians 11:6?",
         "options": [
-          "“And when I was present with you, and was...”",
-          "“For such men are false Apostles, workers of deceit,...”",
-          "“But though I am rough in my way of talking, I...”",
+          "“When I was there with you, I never made...”",
+          "“Those people are false apostles. They do not work...”",
+          "“Perhaps I do not speak as well as they speak. But...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“But though I am rough in my way of talking, I...”",
+        "correctAnswer": "“Perhaps I do not speak as well as they speak. But...”",
         "reference": "2 Corinthians 11:6",
-        "explanation": "2 Corinthians 11:6 records: 'But though I am rough in my way of talking, I am not so in knowledge, as we have made clear to all by our acts among you.'."
+        "explanation": "2 Corinthians 11:6 records: 'Perhaps I do not speak as well as they speak. But I do know what I am speaking about. We have always made this very clear to you in everything that we do.'."
       },
       {
         "id": "2co-11-q4",
         "questionNumber": 4,
         "question": "What truth or description is highlighted in 2 Corinthians 11:9?",
         "options": [
-          "“But what I do, that I will go on...”",
-          "“I say again, Let me not seem foolish to...”",
+          "“Yes, I will continue to work among you in...”",
+          "“I say this again: nobody should think that I...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“And when I was present with you, and was in need,...”"
+          "“When I was there with you, I never made you help...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“And when I was present with you, and was in need,...”",
+        "correctAnswer": "“When I was there with you, I never made you help...”",
         "reference": "2 Corinthians 11:9",
-        "explanation": "2 Corinthians 11:9 records: 'And when I was present with you, and was in need, I let no man be responsible for me; for the brothers, when they came from Macedonia, gave me whatever was needed; and in everything I kept myself from being a trouble to you, and I will go on doing so.'."
+        "explanation": "2 Corinthians 11:9 records: 'When I was there with you, I never made you help me. Even when I needed something, I did not cause trouble to anyone. Instead, the believers who came from Macedonia gave me everything that I needed. I was very careful never to cause you to have trouble. And I will continue to be careful like that.'."
       },
       {
         "id": "2co-11-q5",
         "questionNumber": 5,
         "question": "According to the text, what happened or was commanded in 2 Corinthians 11:12?",
         "options": [
-          "“But what I do, that I will go on doing, so...”",
-          "“So it is no great thing if his servants...”",
-          "“For you put up with the foolish gladly, being...”",
+          "“Yes, I will continue to work among you in the way...”",
+          "“So do not be surprised when Satan's servants do...”",
+          "“You think that you are very wise! So you...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“But what I do, that I will go on doing, so...”",
+        "correctAnswer": "“Yes, I will continue to work among you in the way...”",
         "reference": "2 Corinthians 11:12",
-        "explanation": "2 Corinthians 11:12 records: 'But what I do, that I will go on doing, so that I may give no chance to those who are looking for one; so that, in the cause of their pride, they may be seen to be the same as we are.'."
+        "explanation": "2 Corinthians 11:12 records: 'Yes, I will continue to work among you in the way that I am already doing. I will not take any pay from you. Then there will be no chance for those other teachers to be proud about themselves. They will not be able to say that they work in the same way that we do.'."
       },
       {
         "id": "2co-11-q6",
         "questionNumber": 6,
         "question": "What central message or instruction is delivered in 2 Corinthians 11:15?",
         "options": [
-          "“Seeing that there are those who take credit to...”",
-          "“So it is no great thing if his servants make themselves...”",
-          "“Are they Hebrews? so am I. Are they of...”",
+          "“But many other people are using human ideas to...”",
+          "“So do not be surprised when Satan's servants do the same...”",
+          "“Are they proud that they are Hebrew people? So...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“So it is no great thing if his servants make themselves...”",
+        "correctAnswer": "“So do not be surprised when Satan's servants do the same...”",
         "reference": "2 Corinthians 11:15",
-        "explanation": "2 Corinthians 11:15 records: 'So it is no great thing if his servants make themselves seem to be servants of righteousness; whose end will be the reward of their works.'."
+        "explanation": "2 Corinthians 11:15 records: 'So do not be surprised when Satan's servants do the same thing. They can also seem to be serving God. They may seem to be doing good things, but really what they do is bad. So God will punish them in the end.'."
       },
       {
         "id": "2co-11-q7",
         "questionNumber": 7,
         "question": "What detail regarding God's work, covenant, or people is given in 2 Corinthians 11:18?",
         "options": [
-          "“I say this by way of shaming ourselves, as...”",
-          "“Three times I was whipped with rods, once I...”",
-          "“Seeing that there are those who take credit to themselves after...”",
+          "“But we were not brave enough to do things...”",
+          "“Three times the Romans punished me with sticks. People...”",
+          "“But many other people are using human ideas to praise themselves....”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“Seeing that there are those who take credit to themselves after...”",
+        "correctAnswer": "“But many other people are using human ideas to praise themselves....”",
         "reference": "2 Corinthians 11:18",
-        "explanation": "2 Corinthians 11:18 records: 'Seeing that there are those who take credit to themselves after the flesh, I will do the same.'."
+        "explanation": "2 Corinthians 11:18 records: 'But many other people are using human ideas to praise themselves. So I will also do that.'."
       },
       {
         "id": "2co-11-q8",
         "questionNumber": 8,
         "question": "What phrase or account is recorded in 2 Corinthians 11:21?",
         "options": [
-          "“Five times the Jews gave me forty blows but...”",
-          "“In addition to all the other things, there is...”",
+          "“At five different times, the Jewish leaders punished me...”",
+          "“All these troubles have caused me to suffer. But...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“I say this by way of shaming ourselves, as if we...”"
+          "“But we were not brave enough to do things like that...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“I say this by way of shaming ourselves, as if we...”",
+        "correctAnswer": "“But we were not brave enough to do things like that...”",
         "reference": "2 Corinthians 11:21",
-        "explanation": "2 Corinthians 11:21 records: 'I say this by way of shaming ourselves, as if we had been feeble. But if anyone puts himself forward (I am talking like a foolish person), I will do the same.'."
+        "explanation": "2 Corinthians 11:21 records: 'But we were not brave enough to do things like that to you. Should I be ashamed of that? But other people are brave enough to praise themselves. So I will also be proud of the same things. (Now I am talking like a fool!)'."
       },
       {
         "id": "2co-11-q9",
         "questionNumber": 9,
         "question": "How does the passage describe the circumstances or people in 2 Corinthians 11:24?",
         "options": [
-          "“Five times the Jews gave me forty blows but one.”",
-          "“In hard work and weariness, in frequent watchings, going...”",
-          "“The God and Father of our Lord Jesus Christ,...”",
+          "“At five different times, the Jewish leaders punished me with whips....”",
+          "“I have worked very hard, and I have been...”",
+          "“I am not telling lies. God, the Father of...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“Five times the Jews gave me forty blows but one.”",
+        "correctAnswer": "“At five different times, the Jewish leaders punished me with whips....”",
         "reference": "2 Corinthians 11:24",
-        "explanation": "2 Corinthians 11:24 records: 'Five times the Jews gave me forty blows but one.'."
+        "explanation": "2 Corinthians 11:24 records: 'At five different times, the Jewish leaders punished me with whips. Each time they hit me 39 times.'."
       },
       {
         "id": "2co-11-q10",
         "questionNumber": 10,
         "question": "In the concluding portion of the chapter, what takes place in 2 Corinthians 11:27?",
         "options": [
-          "“If I have to take credit to myself, I...”",
-          "“In hard work and weariness, in frequent watchings, going without food...”",
-          "“Put up with me if I am a little...”",
+          "“If I must be proud about myself, I will...”",
+          "“I have worked very hard, and I have been in pain....”",
+          "“Please be patient with me! I am speaking like...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“In hard work and weariness, in frequent watchings, going without food...”",
+        "correctAnswer": "“I have worked very hard, and I have been in pain....”",
         "reference": "2 Corinthians 11:27",
-        "explanation": "2 Corinthians 11:27 records: 'In hard work and weariness, in frequent watchings, going without food and drink, cold and in need of clothing.'."
+        "explanation": "2 Corinthians 11:27 records: 'I have worked very hard, and I have been in pain. Many times I have not slept. I have often been hungry and thirsty. Many times I have had no food. I have often been cold and without enough clothes.'."
       }
     ],
     "12": [
@@ -1683,150 +1680,150 @@
         "questionNumber": 1,
         "question": "According to 2 Corinthians 12:1, what is the opening statement or setting of this chapter?",
         "options": [
-          "It records: “As it is necessary for me to take glory to myself, though it is n...”",
+          "It records: “I must continue to praise myself. It will not really help you, bu...”",
           "It begins with a prayer of thanksgiving for deliverance in 2 Corinthians",
           "It opens with a formal census and counting of the congregation",
           "It records a severe judgment pronounced against neighboring nations"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "It records: “As it is necessary for me to take glory to myself, though it is n...”",
+        "correctAnswer": "It records: “I must continue to praise myself. It will not really help you, bu...”",
         "reference": "2 Corinthians 12:1",
-        "explanation": "The chapter begins directly with the statement: 'As it is necessary for me to take glory to myself, though it is not a good thing, I will come to visions and revelations of the Lord.'."
+        "explanation": "The chapter begins directly with the statement: 'I must continue to praise myself. It will not really help you, but I will tell you anyway. The Lord has shown me special things, like in a dream.'."
       },
       {
         "id": "2co-12-q2",
         "questionNumber": 2,
         "question": "What key instruction, event, or declaration is set forth in 2 Corinthians 12:2?",
         "options": [
-          "“On account of such a one I will have...”",
-          "“I have knowledge of a man in Christ, fourteen years back...”",
-          "“And he said to me, My grace is enough...”",
+          "“I will say proud things about a man like...”",
+          "“I know a certain man who belongs to Christ. 14 years...”",
+          "“But he said to me, ‘I will be kind...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“I have knowledge of a man in Christ, fourteen years back...”",
+        "correctAnswer": "“I know a certain man who belongs to Christ. 14 years...”",
         "reference": "2 Corinthians 12:2",
-        "explanation": "2 Corinthians 12:2 records: 'I have knowledge of a man in Christ, fourteen years back (if he was in the body, or out of the body, I am not able to say, but God only), who was taken up to the third heaven.'."
+        "explanation": "2 Corinthians 12:2 records: 'I know a certain man who belongs to Christ. 14 years ago, God quickly took this man up to the third heaven. Perhaps this man was still in his body. Perhaps he had gone away from his body. I do not know. Only God knows.'."
       },
       {
         "id": "2co-12-q3",
         "questionNumber": 3,
         "question": "What significant action or revelation occurs in 2 Corinthians 12:4?",
         "options": [
-          "“And because the revelations were so very great, in...”",
-          "“I have been forced by you to become foolish,...”",
-          "“How he was taken up into Paradise, and words came to...”",
+          "“Yes, God did show me many things that were...”",
+          "“I am speaking like a proud fool, but you...”",
+          "“I will say proud things about a man like that. But...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“How he was taken up into Paradise, and words came to...”",
+        "correctAnswer": "“I will say proud things about a man like that. But...”",
         "reference": "2 Corinthians 12:4",
-        "explanation": "2 Corinthians 12:4 records: 'How he was taken up into Paradise, and words came to his ears which may not be said, and which man is not able to say.'."
+        "explanation": "2 Corinthians 12:4 records: 'I will say proud things about a man like that. But I will not be proud of anything good about myself. I will only be proud of things that show my weakness.'."
       },
       {
         "id": "2co-12-q4",
         "questionNumber": 4,
         "question": "What truth or description is highlighted in 2 Corinthians 12:6?",
         "options": [
-          "“And he said to me, My grace is enough...”",
-          "“For what is there in which you were made...”",
+          "“But he said to me, ‘I will be kind...”",
+          "“I worked among you in the same way as...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“For if I had a desire to take credit to myself,...”"
+          "“If I did want to praise myself, that would not make...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“For if I had a desire to take credit to myself,...”",
+        "correctAnswer": "“If I did want to praise myself, that would not make...”",
         "reference": "2 Corinthians 12:6",
-        "explanation": "2 Corinthians 12:6 records: 'For if I had a desire to take credit to myself, it would not be foolish, for I would be saying what is true: but I will not, for fear that I might seem to any man more than he sees me to be, or has word from me that I am.'."
+        "explanation": "2 Corinthians 12:6 records: 'If I did want to praise myself, that would not make me a fool. No, because I would be saying true things. But I will not say good things about myself. I want everyone to think properly about me. People should look at how I live. They should think about what I say. That is enough for them to decide about me.'."
       },
       {
         "id": "2co-12-q5",
         "questionNumber": 5,
         "question": "According to the text, what happened or was commanded in 2 Corinthians 12:8?",
         "options": [
-          "“And about this thing I made request to the Lord three...”",
-          "“I have been forced by you to become foolish,...”",
-          "“And I will gladly give all I have for...”",
+          "“I asked the Lord three times to take this pain away...”",
+          "“I am speaking like a proud fool, but you...”",
+          "“So I will be happy to give everything that...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“And about this thing I made request to the Lord three...”",
+        "correctAnswer": "“I asked the Lord three times to take this pain away...”",
         "reference": "2 Corinthians 12:8",
-        "explanation": "2 Corinthians 12:8 records: 'And about this thing I made request to the Lord three times that it might be taken away from me.'."
+        "explanation": "2 Corinthians 12:8 records: 'I asked the Lord three times to take this pain away from me.'."
       },
       {
         "id": "2co-12-q6",
         "questionNumber": 6,
         "question": "What central message or instruction is delivered in 2 Corinthians 12:10?",
         "options": [
-          "“For what is there in which you were made...”",
-          "“So I take pleasure in being feeble, in unkind words, in...”",
-          "“Did I make a profit out of you by...”",
+          "“I worked among you in the same way as...”",
+          "“That is why I am happy even when I am weak....”",
+          "“That is not true! When I sent people to...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“So I take pleasure in being feeble, in unkind words, in...”",
+        "correctAnswer": "“That is why I am happy even when I am weak....”",
         "reference": "2 Corinthians 12:10",
-        "explanation": "2 Corinthians 12:10 records: 'So I take pleasure in being feeble, in unkind words, in needs, in cruel attacks, in troubles, on account of Christ: for when I am feeble, then am I strong.'."
+        "explanation": "2 Corinthians 12:10 records: 'That is why I am happy even when I am weak. People may insult me. They may bring me trouble. They may want to hurt me. I may have many kinds of trouble. But I am still happy because I am serving Christ. Yes, whenever I am weak, then I am strong.'."
       },
       {
         "id": "2co-12-q7",
         "questionNumber": 7,
         "question": "What detail regarding God's work, covenant, or people is given in 2 Corinthians 12:12?",
         "options": [
-          "“And I will gladly give all I have for...”",
-          "“It may seem to you that all this time...”",
-          "“Truly the signs of an Apostle were done among you in...”",
+          "“So I will be happy to give everything that...”",
+          "“What are you thinking when you read all this?...”",
+          "“When I was there with you, I showed that I was...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“Truly the signs of an Apostle were done among you in...”",
+        "correctAnswer": "“When I was there with you, I showed that I was...”",
         "reference": "2 Corinthians 12:12",
-        "explanation": "2 Corinthians 12:12 records: 'Truly the signs of an Apostle were done among you in quiet strength, with wonders and acts of power.'."
+        "explanation": "2 Corinthians 12:12 records: 'When I was there with you, I showed that I was a true apostle. I worked patiently among you. I did many miracles and great things that showed God's power.'."
       },
       {
         "id": "2co-12-q8",
         "questionNumber": 8,
         "question": "What phrase or account is recorded in 2 Corinthians 12:14?",
         "options": [
-          "“Did I make a profit out of you by...”",
-          "“As it is necessary for me to take glory...”",
+          "“That is not true! When I sent people to...”",
+          "“I must continue to praise myself. It will not...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“This is now the third time that I am ready to...”"
+          "“Listen to me! This is the third time that I am...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“This is now the third time that I am ready to...”",
+        "correctAnswer": "“Listen to me! This is the third time that I am...”",
         "reference": "2 Corinthians 12:14",
-        "explanation": "2 Corinthians 12:14 records: 'This is now the third time that I am ready to come to you; and I will not be a trouble to you: my desire is for you, not for your property: for it is not the children's business to make store for their fathers, but the fathers for the children.'."
+        "explanation": "2 Corinthians 12:14 records: 'Listen to me! This is the third time that I am ready to visit you. I will not ask you to give anything to me. I do not want any of your things. Instead, I want you yourselves. You are like my children. Children should not have to supply what their parents need. It is parents who should supply what their children need.'."
       },
       {
         "id": "2co-12-q9",
         "questionNumber": 9,
         "question": "How does the passage describe the circumstances or people in 2 Corinthians 12:16?",
         "options": [
-          "“But let it be so, that I was not a trouble...”",
-          "“It may seem to you that all this time...”",
-          "“I have knowledge of a man in Christ, fourteen...”",
+          "“I did not give you trouble. You surely know that. But...”",
+          "“What are you thinking when you read all this?...”",
+          "“I know that God took this man up to...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“But let it be so, that I was not a trouble...”",
+        "correctAnswer": "“I did not give you trouble. You surely know that. But...”",
         "reference": "2 Corinthians 12:16",
-        "explanation": "2 Corinthians 12:16 records: 'But let it be so, that I was not a trouble to you myself; but (someone may say) being false, I took you with deceit.'."
+        "explanation": "2 Corinthians 12:16 records: 'I did not give you trouble. You surely know that. But some of you say that I deceived you. You think that I was clever and I got money from you.'."
       },
       {
         "id": "2co-12-q10",
         "questionNumber": 10,
         "question": "In the concluding portion of the chapter, what takes place in 2 Corinthians 12:18?",
         "options": [
-          "“As it is necessary for me to take glory...”",
-          "“I gave orders to Titus, and I sent the brother with...”",
-          "“How he was taken up into Paradise, and words...”",
+          "“I must continue to praise myself. It will not...”",
+          "“I asked Titus to come and visit you, and I sent...”",
+          "“I will say proud things about a man like...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“I gave orders to Titus, and I sent the brother with...”",
+        "correctAnswer": "“I asked Titus to come and visit you, and I sent...”",
         "reference": "2 Corinthians 12:18",
-        "explanation": "2 Corinthians 12:18 records: 'I gave orders to Titus, and I sent the brother with him. Did Titus make any profit out of you? were we not guided by the same Spirit, in the same ways?'."
+        "explanation": "2 Corinthians 12:18 records: 'I asked Titus to come and visit you, and I sent another Christian friend with him. But Titus certainly did not deceive you to get anything from you. Both he and I have always been completely honest with you. We both think in the same way.'."
       }
     ],
     "13": [
@@ -1835,150 +1832,150 @@
         "questionNumber": 1,
         "question": "According to 2 Corinthians 13:1, what is the opening statement or setting of this chapter?",
         "options": [
-          "It records: “This is the third time that I am coming to you. From the mouth of...”",
+          "It records: “This is the third time that I will be coming to visit you. Rememb...”",
           "It begins with a prayer of thanksgiving for deliverance in 2 Corinthians",
           "It opens with a formal census and counting of the congregation",
           "It records a severe judgment pronounced against neighboring nations"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "It records: “This is the third time that I am coming to you. From the mouth of...”",
+        "correctAnswer": "It records: “This is the third time that I will be coming to visit you. Rememb...”",
         "reference": "2 Corinthians 13:1",
-        "explanation": "The chapter begins directly with the statement: 'This is the third time that I am coming to you. From the mouth of two or three witnesses will every word be made certain.'."
+        "explanation": "The chapter begins directly with the statement: 'This is the third time that I will be coming to visit you. Remember this: ‘There must be two or three people to say certainly that another person has done something wrong. Two or three people must agree what has happened.’'."
       },
       {
         "id": "2co-13-q2",
         "questionNumber": 2,
         "question": "What key instruction, event, or declaration is set forth in 2 Corinthians 13:2?",
         "options": [
-          "“Make a test of yourselves, if you are in...”",
-          "“I said before, and still say it before I come, as...”",
-          "“For we are glad when we are feeble and...”",
+          "“Think carefully about how you are living. Are you...”",
+          "“I have already warned those people who did wrong things before....”",
+          "“We are happy when we seem to be weak,...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“I said before, and still say it before I come, as...”",
+        "correctAnswer": "“I have already warned those people who did wrong things before....”",
         "reference": "2 Corinthians 13:2",
-        "explanation": "2 Corinthians 13:2 records: 'I said before, and still say it before I come, as being present for the second time, though I am still away from you, to those who have done wrong before, and to all the others, that if I come again I will not have pity;'."
+        "explanation": "2 Corinthians 13:2 records: 'I have already warned those people who did wrong things before. I did that when I was with you on my second visit. Now I am warning them again, while I am away from you. So, when I come to you the next time, nobody will go free. I will punish those people and all the others who have done wrong things.'."
       },
       {
         "id": "2co-13-q3",
         "questionNumber": 3,
         "question": "What significant action or revelation occurs in 2 Corinthians 13:3?",
         "options": [
-          "“But it is my hope that you will have...”",
-          "“For this cause I am writing these things while...”",
-          "“Seeing that you are looking for a sign of Christ giving...”",
+          "“I hope that you will know that we ourselves...”",
+          "“That is why I am writing these things to...”",
+          "“That will tell you what you want to know about me....”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“Seeing that you are looking for a sign of Christ giving...”",
+        "correctAnswer": "“That will tell you what you want to know about me....”",
         "reference": "2 Corinthians 13:3",
-        "explanation": "2 Corinthians 13:3 records: 'Seeing that you are looking for a sign of Christ giving out his word in me; who is not feeble in relation to you, but is strong in you:'."
+        "explanation": "2 Corinthians 13:3 records: 'That will tell you what you want to know about me. You will surely know that I speak with the authority of Christ himself. Christ is not weak when he works in you. He shows his power among you.'."
       },
       {
         "id": "2co-13-q4",
         "questionNumber": 4,
         "question": "What truth or description is highlighted in 2 Corinthians 13:4?",
         "options": [
-          "“Now our prayer to God is that you may...”",
-          "“Let this be my last word, brothers; be glad;...”",
+          "“Now we pray to God that you will not...”",
+          "“Now I say ‘goodbye’ to you, my Christian friends....”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“For he was feeble in that he was put to death...”"
+          "“People killed Christ on the cross as a weak person. But...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“For he was feeble in that he was put to death...”",
+        "correctAnswer": "“People killed Christ on the cross as a weak person. But...”",
         "reference": "2 Corinthians 13:4",
-        "explanation": "2 Corinthians 13:4 records: 'For he was feeble in that he was put to death on the cross, but he is living by the power of God. And we are feeble in him, but we will be living with him through the power of God in relation to you.'."
+        "explanation": "2 Corinthians 13:4 records: 'People killed Christ on the cross as a weak person. But he now lives by God's power. We are also weak as we serve Christ, like he was weak. But we live, because he now lives. So, when we come to you, we will show God's power among you.'."
       },
       {
         "id": "2co-13-q5",
         "questionNumber": 5,
         "question": "According to the text, what happened or was commanded in 2 Corinthians 13:5?",
         "options": [
-          "“Make a test of yourselves, if you are in the faith;...”",
-          "“Because we are able to do nothing against what...”",
-          "“Give one another a holy kiss.”",
+          "“Think carefully about how you are living. Are you really believing...”",
+          "“We can only work to show what is true....”",
+          "“When you meet, kiss each other as Christian brothers...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“Make a test of yourselves, if you are in the faith;...”",
+        "correctAnswer": "“Think carefully about how you are living. Are you really believing...”",
         "reference": "2 Corinthians 13:5",
-        "explanation": "2 Corinthians 13:5 records: 'Make a test of yourselves, if you are in the faith; make certain of yourselves. Or are you not conscious in yourselves that Jesus Christ is in you, if you are truly Christ's?'."
+        "explanation": "2 Corinthians 13:5 records: 'Think carefully about how you are living. Are you really believing the message about Christ? I hope you know that Jesus Christ is in you. You ought to know that, unless you have completely failed.'."
       },
       {
         "id": "2co-13-q6",
         "questionNumber": 6,
         "question": "What central message or instruction is delivered in 2 Corinthians 13:6?",
         "options": [
-          "“For we are glad when we are feeble and...”",
-          "“But it is my hope that you will have no doubt...”",
-          "“All the saints send their love to you.”",
+          "“We are happy when we seem to be weak,...”",
+          "“I hope that you will know that we ourselves have not...”",
+          "“All God's people here say ‘hello’ to you.”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“But it is my hope that you will have no doubt...”",
+        "correctAnswer": "“I hope that you will know that we ourselves have not...”",
         "reference": "2 Corinthians 13:6",
-        "explanation": "2 Corinthians 13:6 records: 'But it is my hope that you will have no doubt that we are truly Christ's.'."
+        "explanation": "2 Corinthians 13:6 records: 'I hope that you will know that we ourselves have not failed. We do belong to Christ, as you do.'."
       },
       {
         "id": "2co-13-q7",
         "questionNumber": 7,
         "question": "What detail regarding God's work, covenant, or people is given in 2 Corinthians 13:7?",
         "options": [
-          "“For this cause I am writing these things while...”",
-          "“This is the third time that I am coming...”",
-          "“Now our prayer to God is that you may do no...”",
+          "“That is why I am writing these things to...”",
+          "“This is the third time that I will be...”",
+          "“Now we pray to God that you will not do any...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“Now our prayer to God is that you may do no...”",
+        "correctAnswer": "“Now we pray to God that you will not do any...”",
         "reference": "2 Corinthians 13:7",
-        "explanation": "2 Corinthians 13:7 records: 'Now our prayer to God is that you may do no evil; not in order that it may be put to our credit, but so that you may do what is right, whatever we may seem.'."
+        "explanation": "2 Corinthians 13:7 records: 'Now we pray to God that you will not do any wrong things. We do not pray this to show that God has accepted us as good. We pray like that because we want you to do what is right. We want that, even if we ourselves seem to have failed.'."
       },
       {
         "id": "2co-13-q8",
         "questionNumber": 8,
         "question": "What phrase or account is recorded in 2 Corinthians 13:8?",
         "options": [
-          "“Let this be my last word, brothers; be glad;...”",
-          "“This is the third time that I am coming...”",
+          "“Now I say ‘goodbye’ to you, my Christian friends....”",
+          "“This is the third time that I will be...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“Because we are able to do nothing against what is true,...”"
+          "“We can only work to show what is true. We cannot...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“Because we are able to do nothing against what is true,...”",
+        "correctAnswer": "“We can only work to show what is true. We cannot...”",
         "reference": "2 Corinthians 13:8",
-        "explanation": "2 Corinthians 13:8 records: 'Because we are able to do nothing against what is true, but only for it.'."
+        "explanation": "2 Corinthians 13:8 records: 'We can only work to show what is true. We cannot do anything against what is true.'."
       },
       {
         "id": "2co-13-q9",
         "questionNumber": 9,
         "question": "How does the passage describe the circumstances or people in 2 Corinthians 13:9?",
         "options": [
-          "“For we are glad when we are feeble and you are...”",
-          "“Give one another a holy kiss.”",
-          "“I said before, and still say it before I...”",
+          "“We are happy when we seem to be weak, if you...”",
+          "“When you meet, kiss each other as Christian brothers...”",
+          "“I have already warned those people who did wrong...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“For we are glad when we are feeble and you are...”",
+        "correctAnswer": "“We are happy when we seem to be weak, if you...”",
         "reference": "2 Corinthians 13:9",
-        "explanation": "2 Corinthians 13:9 records: 'For we are glad when we are feeble and you are strong: and this is our prayer, even that you may be made complete.'."
+        "explanation": "2 Corinthians 13:9 records: 'We are happy when we seem to be weak, if you become strong as a result. We pray that you will become completely as you should be.'."
       },
       {
         "id": "2co-13-q10",
         "questionNumber": 10,
         "question": "In the concluding portion of the chapter, what takes place in 2 Corinthians 13:10?",
         "options": [
-          "“All the saints send their love to you.”",
-          "“For this cause I am writing these things while I am...”",
-          "“Seeing that you are looking for a sign of...”",
+          "“All God's people here say ‘hello’ to you.”",
+          "“That is why I am writing these things to you now,...”",
+          "“That will tell you what you want to know...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“For this cause I am writing these things while I am...”",
+        "correctAnswer": "“That is why I am writing these things to you now,...”",
         "reference": "2 Corinthians 13:10",
-        "explanation": "2 Corinthians 13:10 records: 'For this cause I am writing these things while I am away, so that there may be need for me, when I am present, to make use of sharp measures, by the authority which the Lord has given me for building up and not for destruction.'."
+        "explanation": "2 Corinthians 13:10 records: 'That is why I am writing these things to you now, while I am away from you. Then, when I arrive, I will not need to be angry with you. I will not have to use my authority to punish you. The Lord gave that authority to me to help you to become stronger as believers. He did not give it to me so that I could destroy you.'."
       }
     ]
   }

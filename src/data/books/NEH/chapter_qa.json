@@ -1,9 +1,6 @@
 {
-  "book": "Nehemiah",
   "bookId": "NEH",
-  "totalChapters": 13,
-  "totalQuestions": 130,
-  "questionsPerChapter": 10,
+  "bookName": "Nehemiah",
   "chapters": {
     "1": [
       {
@@ -11,150 +8,150 @@
         "questionNumber": 1,
         "question": "According to Nehemiah 1:1, what is the opening statement or setting of this chapter?",
         "options": [
-          "It records: “The history of Nehemiah, the son of Hacaliah. Now it came about, ...”",
+          "It records: “These are the words of Nehemiah, Hacaliah's son. It was the month...”",
           "It begins with a prayer of thanksgiving for deliverance in Nehemiah",
           "It opens with a formal census and counting of the congregation",
           "It records a severe judgment pronounced against neighboring nations"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "It records: “The history of Nehemiah, the son of Hacaliah. Now it came about, ...”",
+        "correctAnswer": "It records: “These are the words of Nehemiah, Hacaliah's son. It was the month...”",
         "reference": "Nehemiah 1:1",
-        "explanation": "The chapter begins directly with the statement: 'The history of Nehemiah, the son of Hacaliah. Now it came about, in the month Chislev, in the twentieth year, when I was in Shushan, the king's town,'."
+        "explanation": "The chapter begins directly with the statement: 'These are the words of Nehemiah, Hacaliah's son. It was the month Kislev. This was when King Artaxerxes had ruled for 20 years. I was in the big city of Susa.'."
       },
       {
         "id": "neh-1-q2",
         "questionNumber": 2,
         "question": "What key instruction, event, or declaration is set forth in Nehemiah 1:2?",
         "options": [
-          "“And said, O Lord, the God of heaven, the...”",
-          "“That Hanani, one of my brothers, came with certain men from...”",
-          "“But if you come back to me and keep...”",
+          "“I prayed, ‘Lord, God of heaven, you are great...”",
+          "“Hanani, my brother, and some other men arrived from Judah. I...”",
+          "“But if they return to me and they obey...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“That Hanani, one of my brothers, came with certain men from...”",
+        "correctAnswer": "“Hanani, my brother, and some other men arrived from Judah. I...”",
         "reference": "Nehemiah 1:2",
-        "explanation": "Nehemiah 1:2 records: 'That Hanani, one of my brothers, came with certain men from Judah; and in answer to my request for news of the Jews who had been prisoners and had got away, and of Jerusalem,'."
+        "explanation": "Nehemiah 1:2 records: 'Hanani, my brother, and some other men arrived from Judah. I asked them for news of the Jews who had returned there from exile in Babylon. I asked them for news about Jerusalem.'."
       },
       {
         "id": "neh-1-q3",
         "questionNumber": 3,
         "question": "What significant action or revelation occurs in Nehemiah 1:3?",
         "options": [
-          "“Let your ear now take note and let your...”",
-          "“Now these are your servants and your people, whom...”",
-          "“They said to me, The small band of Jews now living...”",
+          "“Please listen to my prayer. I am your servant....”",
+          "“Lord, these are your people and your servants. You...”",
+          "“They told me, ‘The Jews who returned to Judah are in...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“They said to me, The small band of Jews now living...”",
+        "correctAnswer": "“They told me, ‘The Jews who returned to Judah are in...”",
         "reference": "Nehemiah 1:3",
-        "explanation": "Nehemiah 1:3 records: 'They said to me, The small band of Jews now living there in the land are in great trouble and shame: the wall of Jerusalem has been broken down, and its doorways burned with fire.'."
+        "explanation": "Nehemiah 1:3 records: 'They told me, ‘The Jews who returned to Judah are in much trouble. The walls of the city still have lots of holes in them. Fire has burned the city's gates down to the ground. So the people are very ashamed.’'."
       },
       {
         "id": "neh-1-q4",
         "questionNumber": 4,
         "question": "What truth or description is highlighted in Nehemiah 1:4?",
         "options": [
-          "“We have done great wrong against you, and have...”",
-          "“The history of Nehemiah, the son of Hacaliah. Now...”",
+          "“We have done wicked things against you. We have...”",
+          "“These are the words of Nehemiah, Hacaliah's son. It...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“Then, after hearing these words, for some days I gave myself...”"
+          "“After they told me this, I sat down and I wept....”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“Then, after hearing these words, for some days I gave myself...”",
+        "correctAnswer": "“After they told me this, I sat down and I wept....”",
         "reference": "Nehemiah 1:4",
-        "explanation": "Nehemiah 1:4 records: 'Then, after hearing these words, for some days I gave myself up to weeping and sorrow, seated on the earth; and taking no food I made prayer to the God of heaven,'."
+        "explanation": "Nehemiah 1:4 records: 'After they told me this, I sat down and I wept. I was very sad for many days. I did not eat or drink anything and I prayed to God.'."
       },
       {
         "id": "neh-1-q5",
         "questionNumber": 5,
         "question": "According to the text, what happened or was commanded in Nehemiah 1:5?",
         "options": [
-          "“And said, O Lord, the God of heaven, the great God,...”",
-          "“Keep in mind, O Lord, the order you gave...”",
-          "“The history of Nehemiah, the son of Hacaliah. Now...”",
+          "“I prayed, ‘Lord, God of heaven, you are great and powerful....”",
+          "“Remember what you told your servant, Moses. You told...”",
+          "“These are the words of Nehemiah, Hacaliah's son. It...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“And said, O Lord, the God of heaven, the great God,...”",
+        "correctAnswer": "“I prayed, ‘Lord, God of heaven, you are great and powerful....”",
         "reference": "Nehemiah 1:5",
-        "explanation": "Nehemiah 1:5 records: 'And said, O Lord, the God of heaven, the great God, greatly to be feared, keeping faith and mercy with those who have love for him and are true to his laws:'."
+        "explanation": "Nehemiah 1:5 records: 'I prayed, ‘Lord, God of heaven, you are great and powerful. You always continue to love your people, as you have promised to do. You are kind to those people who love you and obey your commands.'."
       },
       {
         "id": "neh-1-q6",
         "questionNumber": 6,
         "question": "What central message or instruction is delivered in Nehemiah 1:6?",
         "options": [
-          "“But if you come back to me and keep...”",
-          "“Let your ear now take note and let your eyes be...”",
-          "“That Hanani, one of my brothers, came with certain...”",
+          "“But if they return to me and they obey...”",
+          "“Please listen to my prayer. I am your servant. I am...”",
+          "“Hanani, my brother, and some other men arrived from...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“Let your ear now take note and let your eyes be...”",
+        "correctAnswer": "“Please listen to my prayer. I am your servant. I am...”",
         "reference": "Nehemiah 1:6",
-        "explanation": "Nehemiah 1:6 records: 'Let your ear now take note and let your eyes be open, so that you may give ear to the prayer of your servant, which I make before you at this time, day and night, for the children of Israel, your servants, while I put before you the sins of the children of Israel, which we have done against you: truly, I and my father's people are sinners.'."
+        "explanation": "Nehemiah 1:6 records: 'Please listen to my prayer. I am your servant. I am praying in the day and in the night on behalf of your servants, the Israelites. I agree that we have all done wrong things. That includes me and my family. We have not obeyed you.'."
       },
       {
         "id": "neh-1-q7",
         "questionNumber": 7,
         "question": "What detail regarding God's work, covenant, or people is given in Nehemiah 1:7?",
         "options": [
-          "“Now these are your servants and your people, whom...”",
-          "“They said to me, The small band of Jews...”",
-          "“We have done great wrong against you, and have not kept...”",
+          "“Lord, these are your people and your servants. You...”",
+          "“They told me, ‘The Jews who returned to Judah...”",
+          "“We have done wicked things against you. We have not obeyed...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“We have done great wrong against you, and have not kept...”",
+        "correctAnswer": "“We have done wicked things against you. We have not obeyed...”",
         "reference": "Nehemiah 1:7",
-        "explanation": "Nehemiah 1:7 records: 'We have done great wrong against you, and have not kept the orders, the rules, and the decisions, which you gave to your servant Moses.'."
+        "explanation": "Nehemiah 1:7 records: 'We have done wicked things against you. We have not obeyed the commands, the laws and the rules that you gave to your servant Moses.'."
       },
       {
         "id": "neh-1-q8",
         "questionNumber": 8,
         "question": "What phrase or account is recorded in Nehemiah 1:8?",
         "options": [
-          "“The history of Nehemiah, the son of Hacaliah. Now...”",
-          "“Then, after hearing these words, for some days I...”",
+          "“These are the words of Nehemiah, Hacaliah's son. It...”",
+          "“After they told me this, I sat down and...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“Keep in mind, O Lord, the order you gave your servant...”"
+          "“Remember what you told your servant, Moses. You told him, “If...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“Keep in mind, O Lord, the order you gave your servant...”",
+        "correctAnswer": "“Remember what you told your servant, Moses. You told him, “If...”",
         "reference": "Nehemiah 1:8",
-        "explanation": "Nehemiah 1:8 records: 'Keep in mind, O Lord, the order you gave your servant Moses, saying, If you do wrong I will send you wandering among the peoples:'."
+        "explanation": "Nehemiah 1:8 records: 'Remember what you told your servant, Moses. You told him, “If the Israelites turn away from me, I will make them live among foreign people in many different places.'."
       },
       {
         "id": "neh-1-q9",
         "questionNumber": 9,
         "question": "How does the passage describe the circumstances or people in Nehemiah 1:9?",
         "options": [
-          "“But if you come back to me and keep my orders...”",
-          "“The history of Nehemiah, the son of Hacaliah. Now...”",
-          "“And said, O Lord, the God of heaven, the...”",
+          "“But if they return to me and they obey my commands,...”",
+          "“These are the words of Nehemiah, Hacaliah's son. It...”",
+          "“I prayed, ‘Lord, God of heaven, you are great...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“But if you come back to me and keep my orders...”",
+        "correctAnswer": "“But if they return to me and they obey my commands,...”",
         "reference": "Nehemiah 1:9",
-        "explanation": "Nehemiah 1:9 records: 'But if you come back to me and keep my orders and do them, even if those of you who have been forced out are living in the farthest parts of heaven, I will get them from there, and take them back to the place marked out by me for the resting-place of my name.'."
+        "explanation": "Nehemiah 1:9 records: 'But if they return to me and they obey my commands, I will be kind to them. I will bring them back together again from all the different places where they are living. Even if they live far away, I will find them. I will bring them to the place that I have chosen to give honour to my name.”'."
       },
       {
         "id": "neh-1-q10",
         "questionNumber": 10,
         "question": "In the concluding portion of the chapter, what takes place in Nehemiah 1:10?",
         "options": [
-          "“That Hanani, one of my brothers, came with certain...”",
-          "“Now these are your servants and your people, whom you have...”",
-          "“Let your ear now take note and let your...”",
+          "“Hanani, my brother, and some other men arrived from...”",
+          "“Lord, these are your people and your servants. You used your...”",
+          "“Please listen to my prayer. I am your servant....”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“Now these are your servants and your people, whom you have...”",
+        "correctAnswer": "“Lord, these are your people and your servants. You used your...”",
         "reference": "Nehemiah 1:10",
-        "explanation": "Nehemiah 1:10 records: 'Now these are your servants and your people, whom you have made yours by your great power and by your strong hand.'."
+        "explanation": "Nehemiah 1:10 records: 'Lord, these are your people and your servants. You used your great power and strength to rescue them.'."
       }
     ],
     "2": [
@@ -163,150 +160,150 @@
         "questionNumber": 1,
         "question": "According to Nehemiah 2:1, what is the opening statement or setting of this chapter?",
         "options": [
-          "It records: “And it came about in the month Nisan, in the twentieth year of Ar...”",
+          "It records: “It was the month of Nisan, when King Artaxerxes had ruled Babylon...”",
           "It begins with a prayer of thanksgiving for deliverance in Nehemiah",
           "It opens with a formal census and counting of the congregation",
           "It records a severe judgment pronounced against neighboring nations"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "It records: “And it came about in the month Nisan, in the twentieth year of Ar...”",
+        "correctAnswer": "It records: “It was the month of Nisan, when King Artaxerxes had ruled Babylon...”",
         "reference": "Nehemiah 2:1",
-        "explanation": "The chapter begins directly with the statement: 'And it came about in the month Nisan, in the twentieth year of Artaxerxes the king, when wine was before him, that I took up the wine and gave it to the king. Now I had never before been sad when the king was present.'."
+        "explanation": "The chapter begins directly with the statement: 'It was the month of Nisan, when King Artaxerxes had ruled Babylon for 20 years. I had the king's wine ready for him to drink. I took it to give to him. He saw that I was sad. I had not been sad in front of the king before.'."
       },
       {
         "id": "neh-2-q2",
         "questionNumber": 2,
         "question": "What key instruction, event, or declaration is set forth in Nehemiah 2:2?",
         "options": [
-          "“And I said to the king, If it is...”",
-          "“And the king said to me, Why is your face sad,...”",
-          "“Then I came to the rulers of the lands...”",
+          "“Then I said to the king, ‘Please sir, if...”",
+          "“The king asked me, ‘Why are you sad? You are not...”",
+          "“The king sent officers of his army to keep...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“And the king said to me, Why is your face sad,...”",
+        "correctAnswer": "“The king asked me, ‘Why are you sad? You are not...”",
         "reference": "Nehemiah 2:2",
-        "explanation": "Nehemiah 2:2 records: 'And the king said to me, Why is your face sad, seeing that you are not ill? this is nothing but sorrow of heart. Then I was full of fear;'."
+        "explanation": "Nehemiah 2:2 records: 'The king asked me, ‘Why are you sad? You are not ill. This must mean that you are very upset.’ I was very frightened.'."
       },
       {
         "id": "neh-2-q3",
         "questionNumber": 3,
         "question": "What significant action or revelation occurs in Nehemiah 2:4?",
         "options": [
-          "“Further, I said to the king, If it is...”",
-          "“So I came to Jerusalem and was there three...”",
-          "“Then the king said to me, What is your desire? So...”",
+          "“I said to the king, ‘If the king agrees,...”",
+          "“I arrived in the city of Jerusalem. After three...”",
+          "“The king asked me, ‘What do you want me to do...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“Then the king said to me, What is your desire? So...”",
+        "correctAnswer": "“The king asked me, ‘What do you want me to do...”",
         "reference": "Nehemiah 2:4",
-        "explanation": "Nehemiah 2:4 records: 'Then the king said to me, What is your desire? So I made prayer to the God of heaven.'."
+        "explanation": "Nehemiah 2:4 records: 'The king asked me, ‘What do you want me to do for you?’ So I prayed to our God who rules from heaven.'."
       },
       {
         "id": "neh-2-q4",
         "questionNumber": 4,
         "question": "What truth or description is highlighted in Nehemiah 2:6?",
         "options": [
-          "“Then I came to the rulers of the lands...”",
-          "“And I went out by night, through the doorway...”",
+          "“The king sent officers of his army to keep...”",
+          "“I went through the Valley Gate to the Jackal...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“And the king said to me (the queen being seated by...”"
+          "“The king was sitting with the queen next to him. The...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“And the king said to me (the queen being seated by...”",
+        "correctAnswer": "“The king was sitting with the queen next to him. The...”",
         "reference": "Nehemiah 2:6",
-        "explanation": "Nehemiah 2:6 records: 'And the king said to me (the queen being seated by his side), How long will your journey take, and when will you come back? So the king was pleased to send me, and I gave him a fixed time.'."
+        "explanation": "Nehemiah 2:6 records: 'The king was sitting with the queen next to him. The king asked me, ‘How long will you be away? When will you return?’ I told the king how long I would be away. Because the king was happy to send me, I told him when I would leave.'."
       },
       {
         "id": "neh-2-q5",
         "questionNumber": 5,
         "question": "According to the text, what happened or was commanded in Nehemiah 2:8?",
         "options": [
-          "“And a letter to Asaph, the keeper of the king's park,...”",
-          "“So I came to Jerusalem and was there three...”",
-          "“Then in the night, I went up by the...”",
+          "“Also give me a letter for Asaph, who takes care of...”",
+          "“I arrived in the city of Jerusalem. After three...”",
+          "“So I went along the path in the valley...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“And a letter to Asaph, the keeper of the king's park,...”",
+        "correctAnswer": "“Also give me a letter for Asaph, who takes care of...”",
         "reference": "Nehemiah 2:8",
-        "explanation": "Nehemiah 2:8 records: 'And a letter to Asaph, the keeper of the king's park, so that he may give me wood to make boards for the doors of the tower of the house, and for the wall of the town, and for the house which is to be mine. And the king gave me this, for the hand of my God was on me.'."
+        "explanation": "Nehemiah 2:8 records: 'Also give me a letter for Asaph, who takes care of the king's forest there. Tell him to give me wood from the trees. I need to make beams to mend the gates of the strong place near the temple. I also need to mend the city's wall. And I need to build a house for myself to live in.’ The king agreed to do what I asked him, because my God was with me.'."
       },
       {
         "id": "neh-2-q6",
         "questionNumber": 6,
         "question": "What central message or instruction is delivered in Nehemiah 2:10?",
         "options": [
-          "“And I went out by night, through the doorway...”",
-          "“And Sanballat the Horonite and Tobiah the servant, the Ammonite, hearing...”",
-          "“Then I said to them, You see what a...”",
+          "“I went through the Valley Gate to the Jackal...”",
+          "“But two important men were not happy when they heard that...”",
+          "“But then I said to them, ‘We have a...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“And Sanballat the Horonite and Tobiah the servant, the Ammonite, hearing...”",
+        "correctAnswer": "“But two important men were not happy when they heard that...”",
         "reference": "Nehemiah 2:10",
-        "explanation": "Nehemiah 2:10 records: 'And Sanballat the Horonite and Tobiah the servant, the Ammonite, hearing of it, were greatly troubled because a man had come to the help of the children of Israel.'."
+        "explanation": "Nehemiah 2:10 records: 'But two important men were not happy when they heard that I had come to help the Israelite people. They were Sanballat, who came from Horon, and Tobiah, an Ammonite officer.'."
       },
       {
         "id": "neh-2-q7",
         "questionNumber": 7,
         "question": "What detail regarding God's work, covenant, or people is given in Nehemiah 2:12?",
         "options": [
-          "“Then in the night, I went up by the...”",
-          "“But Sanballat the Horonite and Tobiah the servant, the...”",
-          "“And in the night I got up, taking with me a...”",
+          "“So I went along the path in the valley...”",
+          "“But Sanballat, Tobiah and an Arab man called Geshem...”",
+          "“I went out at night. I took a few of my...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“And in the night I got up, taking with me a...”",
+        "correctAnswer": "“I went out at night. I took a few of my...”",
         "reference": "Nehemiah 2:12",
-        "explanation": "Nehemiah 2:12 records: 'And in the night I got up, taking with me a small band of men; I said nothing to any man of what God had put into my heart to do for Jerusalem: and I had no beast with me but the one on which I was seated.'."
+        "explanation": "Nehemiah 2:12 records: 'I went out at night. I took a few of my friends with me. I was riding on a donkey. That was the only animal that we took with us. I did not tell anyone the idea that God had put in my mind about Jerusalem.'."
       },
       {
         "id": "neh-2-q8",
         "questionNumber": 8,
         "question": "What phrase or account is recorded in Nehemiah 2:14?",
         "options": [
-          "“Then I said to them, You see what a...”",
-          "“And it came about in the month Nisan, in...”",
+          "“But then I said to them, ‘We have a...”",
+          "“It was the month of Nisan, when King Artaxerxes...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“Then I went on to the door of the fountain and...”"
+          "“I went to the Fountain Gate and then to the King's...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“Then I went on to the door of the fountain and...”",
+        "correctAnswer": "“I went to the Fountain Gate and then to the King's...”",
         "reference": "Nehemiah 2:14",
-        "explanation": "Nehemiah 2:14 records: 'Then I went on to the door of the fountain and to the king's pool: but there was no room for my beast to get through.'."
+        "explanation": "Nehemiah 2:14 records: 'I went to the Fountain Gate and then to the King's Pool. The path there was too narrow for my donkey to pass through.'."
       },
       {
         "id": "neh-2-q9",
         "questionNumber": 9,
         "question": "How does the passage describe the circumstances or people in Nehemiah 2:16?",
         "options": [
-          "“And the chiefs had no knowledge of where I had been...”",
-          "“But Sanballat the Horonite and Tobiah the servant, the...”",
-          "“And said to the king, May the king be...”",
+          "“The city's officers did not know that I had done this....”",
+          "“But Sanballat, Tobiah and an Arab man called Geshem...”",
+          "“I replied to the king, ‘May the king live...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“And the chiefs had no knowledge of where I had been...”",
+        "correctAnswer": "“The city's officers did not know that I had done this....”",
         "reference": "Nehemiah 2:16",
-        "explanation": "Nehemiah 2:16 records: 'And the chiefs had no knowledge of where I had been or what I was doing; and I had not then said anything to the Jews or to the priests or the great ones or the chiefs or the rest of those who were doing the work.'."
+        "explanation": "Nehemiah 2:16 records: 'The city's officers did not know that I had done this. I had not told anyone what I had decided to do. I had not told any of the other Jews, their priests, their leaders or the city's officers. I had not told any of the people who would help to do the work on the wall.'."
       },
       {
         "id": "neh-2-q10",
         "questionNumber": 10,
         "question": "In the concluding portion of the chapter, what takes place in Nehemiah 2:18?",
         "options": [
-          "“And it came about in the month Nisan, in...”",
-          "“Then I gave them an account of how the hand of...”",
-          "“And I said to the king, If it is...”",
+          "“It was the month of Nisan, when King Artaxerxes...”",
+          "“I told the people how God had helped me to come...”",
+          "“Then I said to the king, ‘Please sir, if...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“Then I gave them an account of how the hand of...”",
+        "correctAnswer": "“I told the people how God had helped me to come...”",
         "reference": "Nehemiah 2:18",
-        "explanation": "Nehemiah 2:18 records: 'Then I gave them an account of how the hand of my God was on me, helping me; and of the king's words which he had said to me. And they said, Let us get to work on the building. So they made their hands strong for the good work.'."
+        "explanation": "Nehemiah 2:18 records: 'I told the people how God had helped me to come to Jerusalem. I told them what the king had said to me. Then the people said, ‘We will start to build now!’ The people prepared to start this good work.'."
       }
     ],
     "3": [
@@ -315,150 +312,150 @@
         "questionNumber": 1,
         "question": "According to Nehemiah 3:1, what is the opening statement or setting of this chapter?",
         "options": [
-          "It records: “Then Eliashib, the chief priest, got up with his brothers the pri...”",
+          "It records: “The leader of the priests, Eliashib, and the other priests built ...”",
           "It begins with a prayer of thanksgiving for deliverance in Nehemiah",
           "It opens with a formal census and counting of the congregation",
           "It records a severe judgment pronounced against neighboring nations"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "It records: “Then Eliashib, the chief priest, got up with his brothers the pri...”",
+        "correctAnswer": "It records: “The leader of the priests, Eliashib, and the other priests built ...”",
         "reference": "Nehemiah 3:1",
-        "explanation": "The chapter begins directly with the statement: 'Then Eliashib, the chief priest, got up with his brothers the priests, and took in hand the building of the sheep doorway; they made it holy and put its doors in position; as far as the tower of Hammeah they made it holy, even to the tower of Hananel.'."
+        "explanation": "The chapter begins directly with the statement: 'The leader of the priests, Eliashib, and the other priests built the Sheep Gate. They fixed the doors in it again. They built the wall as far as the Tower of the Hundred and the Tower of Hananel. They dedicated it all to God.'."
       },
       {
         "id": "neh-3-q2",
         "questionNumber": 2,
         "question": "What key instruction, event, or declaration is set forth in Nehemiah 3:3?",
         "options": [
-          "“Joiada, the son of Paseah, and Meshullam, the son...”",
-          "“The sons of Hassenaah were the builders of the fish doorway;...”",
-          "“By his side was Jedaiah, the son of Harumaph,...”",
+          "“Paseah's son, Joiada, and Besodeiah's son, Meshullam, worked on...”",
+          "“The clan of Hassenaah built the Fish Gate. They put up...”",
+          "“Harumaph's son, Jedaiah, worked on the next part of...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“The sons of Hassenaah were the builders of the fish doorway;...”",
+        "correctAnswer": "“The clan of Hassenaah built the Fish Gate. They put up...”",
         "reference": "Nehemiah 3:3",
-        "explanation": "Nehemiah 3:3 records: 'The sons of Hassenaah were the builders of the fish doorway; they put its boards in place and put up its doors, with their locks and rods.'."
+        "explanation": "Nehemiah 3:3 records: 'The clan of Hassenaah built the Fish Gate. They put up the beams and they fixed its doors in their place. They made wooden bars and iron bars so that they could lock the doors.'."
       },
       {
         "id": "neh-3-q3",
         "questionNumber": 3,
         "question": "What significant action or revelation occurs in Nehemiah 3:6?",
         "options": [
-          "“Near them was working Rephaiah, the son of Hur,...”",
-          "“Hanun and the people of Zanoah were working on...”",
-          "“Joiada, the son of Paseah, and Meshullam, the son of Besodeiah,...”",
+          "“Hur's son, Rephaiah, repaired the next part of the...”",
+          "“Hanun and the people who lived in Zanoah repaired...”",
+          "“Paseah's son, Joiada, and Besodeiah's son, Meshullam, worked on the Old...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“Joiada, the son of Paseah, and Meshullam, the son of Besodeiah,...”",
+        "correctAnswer": "“Paseah's son, Joiada, and Besodeiah's son, Meshullam, worked on the Old...”",
         "reference": "Nehemiah 3:6",
-        "explanation": "Nehemiah 3:6 records: 'Joiada, the son of Paseah, and Meshullam, the son of Besodeiah, made good the old doorway; they put its boards in place and put up its doors, with their locks and rods.'."
+        "explanation": "Nehemiah 3:6 records: 'Paseah's son, Joiada, and Besodeiah's son, Meshullam, worked on the Old Gate. They put up the beams and they fixed its doors in their place. They made wooden bars and iron bars so that they could lock the doors.'."
       },
       {
         "id": "neh-3-q4",
         "questionNumber": 4,
         "question": "What truth or description is highlighted in Nehemiah 3:9?",
         "options": [
-          "“Near them was Shallum, the son of Hallohesh, the...”",
-          "“By his side was working Nehemiah, the son of...”",
+          "“Hallohesh's son, Shallum, repaired the next part of the...”",
+          "“Azbuk's son, Nehemiah, worked on another part of the...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“Near them was working Rephaiah, the son of Hur, the ruler...”"
+          "“Hur's son, Rephaiah, repaired the next part of the wall. Rephaiah...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“Near them was working Rephaiah, the son of Hur, the ruler...”",
+        "correctAnswer": "“Hur's son, Rephaiah, repaired the next part of the wall. Rephaiah...”",
         "reference": "Nehemiah 3:9",
-        "explanation": "Nehemiah 3:9 records: 'Near them was working Rephaiah, the son of Hur, the ruler of half Jerusalem.'."
+        "explanation": "Nehemiah 3:9 records: 'Hur's son, Rephaiah, repaired the next part of the wall. Rephaiah ruled over part of Jerusalem.'."
       },
       {
         "id": "neh-3-q5",
         "questionNumber": 5,
         "question": "According to the text, what happened or was commanded in Nehemiah 3:12?",
         "options": [
-          "“Near them was Shallum, the son of Hallohesh, the ruler of...”",
-          "“And Shallun, the son of Col-hozeh, the ruler of...”",
-          "“And by his side was working Ezer, the son...”",
+          "“Hallohesh's son, Shallum, repaired the next part of the wall. He...”",
+          "“Col-Hozeh's son, Shallun, repaired the Fountain Gate. He was...”",
+          "“Jeshua's son, Ezer, worked on another part of the...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“Near them was Shallum, the son of Hallohesh, the ruler of...”",
+        "correctAnswer": "“Hallohesh's son, Shallum, repaired the next part of the wall. He...”",
         "reference": "Nehemiah 3:12",
-        "explanation": "Nehemiah 3:12 records: 'Near them was Shallum, the son of Hallohesh, the ruler of half Jerusalem, with his daughters.'."
+        "explanation": "Nehemiah 3:12 records: 'Hallohesh's son, Shallum, repaired the next part of the wall. He ruled over part of Jerusalem. Shallum's daughters helped him with the work.'."
       },
       {
         "id": "neh-3-q6",
         "questionNumber": 6,
         "question": "What central message or instruction is delivered in Nehemiah 3:15?",
         "options": [
-          "“After him were working their brothers, Bavvai, the son...”",
-          "“And Shallun, the son of Col-hozeh, the ruler of the division...”",
-          "“After him were working the priests, the men of...”",
+          "“More Levites worked on the next part. Henadad's son,...”",
+          "“Col-Hozeh's son, Shallun, repaired the Fountain Gate. He was the ruler...”",
+          "“Priests from the region near Jerusalem repaired the next...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“And Shallun, the son of Col-hozeh, the ruler of the division...”",
+        "correctAnswer": "“Col-Hozeh's son, Shallun, repaired the Fountain Gate. He was the ruler...”",
         "reference": "Nehemiah 3:15",
-        "explanation": "Nehemiah 3:15 records: 'And Shallun, the son of Col-hozeh, the ruler of the division of Mizpah, made good the doorway of the fountain, building it up and covering it and putting up its doors, with their locks and rods, with the wall of the pool of Shelah by the king's garden, as far as the steps which go down from the town of David.'."
+        "explanation": "Nehemiah 3:15 records: 'Col-Hozeh's son, Shallun, repaired the Fountain Gate. He was the ruler of the region of Mizpah. Shallun built a roof over the Fountain Gate. He fixed its doors in their place, as well as their wooden bars and iron bars. Shallun also repaired the wall of the Pool of Siloam, near the king's garden. He repaired the wall as far as the steps that come down from the City of David.'."
       },
       {
         "id": "neh-3-q7",
         "questionNumber": 7,
         "question": "What detail regarding God's work, covenant, or people is given in Nehemiah 3:18?",
         "options": [
-          "“After him Meremoth, the son of Uriah, the son...”",
-          "“Palal, the son of Uzai, made good the wall...”",
-          "“After him were working their brothers, Bavvai, the son of Henadad,...”",
+          "“Meremoth, son of Uriah, the son of Hakkoz, repaired...”",
+          "“Uzai's son, Palal, worked near the corner and the...”",
+          "“More Levites worked on the next part. Henadad's son, Binnui, worked...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“After him were working their brothers, Bavvai, the son of Henadad,...”",
+        "correctAnswer": "“More Levites worked on the next part. Henadad's son, Binnui, worked...”",
         "reference": "Nehemiah 3:18",
-        "explanation": "Nehemiah 3:18 records: 'After him were working their brothers, Bavvai, the son of Henadad, ruler of half the division of Keilah.'."
+        "explanation": "Nehemiah 3:18 records: 'More Levites worked on the next part. Henadad's son, Binnui, worked there. He also ruled over part of Keilah.'."
       },
       {
         "id": "neh-3-q8",
         "questionNumber": 8,
         "question": "What phrase or account is recorded in Nehemiah 3:21?",
         "options": [
-          "“After him Binnui, the son of Henadad, was working...”",
-          "“Further on, past the horse doorway, the priests were...”",
+          "“Henadad's son, Binnui, repaired from Azariah's house to the...”",
+          "“The priests repaired the wall on the north side...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“After him Meremoth, the son of Uriah, the son of Hakkoz,...”"
+          "“Meremoth, son of Uriah, the son of Hakkoz, repaired the next...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“After him Meremoth, the son of Uriah, the son of Hakkoz,...”",
+        "correctAnswer": "“Meremoth, son of Uriah, the son of Hakkoz, repaired the next...”",
         "reference": "Nehemiah 3:21",
-        "explanation": "Nehemiah 3:21 records: 'After him Meremoth, the son of Uriah, the son of Hakkoz, was working on another part, from the door of the house of Eliashib as far as the end of his house.'."
+        "explanation": "Nehemiah 3:21 records: 'Meremoth, son of Uriah, the son of Hakkoz, repaired the next part, from the door of Eliashib's house to the end of it.'."
       },
       {
         "id": "neh-3-q9",
         "questionNumber": 9,
         "question": "How does the passage describe the circumstances or people in Nehemiah 3:24?",
         "options": [
-          "“After him Binnui, the son of Henadad, was working on another...”",
-          "“After him the Tekoites were making good another part,...”",
-          "“After him Malchijah, one of the gold-workers to the...”",
+          "“Henadad's son, Binnui, repaired from Azariah's house to the corner, where...”",
+          "“The men from Tekoa repaired the wall from the...”",
+          "“Malkijah repaired the wall as far as the temple...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“After him Binnui, the son of Henadad, was working on another...”",
+        "correctAnswer": "“Henadad's son, Binnui, repaired from Azariah's house to the corner, where...”",
         "reference": "Nehemiah 3:24",
-        "explanation": "Nehemiah 3:24 records: 'After him Binnui, the son of Henadad, was working on another part, from the house of Azariah as far as the turning of the wall and the angle.'."
+        "explanation": "Nehemiah 3:24 records: 'Henadad's son, Binnui, repaired from Azariah's house to the corner, where it has a strong point.'."
       },
       {
         "id": "neh-3-q10",
         "questionNumber": 10,
         "question": "In the concluding portion of the chapter, what takes place in Nehemiah 3:27?",
         "options": [
-          "“After him Hananiah, the son of Shelemiah, and Hanun,...”",
-          "“After him the Tekoites were making good another part, opposite the...”",
-          "“And by his side the men of Jericho were...”",
+          "“Next, Shelemiah's son, Hananiah, repaired the wall. Hanun worked...”",
+          "“The men from Tekoa repaired the wall from the place near...”",
+          "“The men from Jericho built the next part of...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“After him the Tekoites were making good another part, opposite the...”",
+        "correctAnswer": "“The men from Tekoa repaired the wall from the place near...”",
         "reference": "Nehemiah 3:27",
-        "explanation": "Nehemiah 3:27 records: 'After him the Tekoites were making good another part, opposite the great tower which comes out, and up to the wall of the Ophel.'."
+        "explanation": "Nehemiah 3:27 records: 'The men from Tekoa repaired the wall from the place near the great tower as far as the wall of Ophel.'."
       }
     ],
     "4": [
@@ -467,150 +464,150 @@
         "questionNumber": 1,
         "question": "According to Nehemiah 4:1, what is the opening statement or setting of this chapter?",
         "options": [
-          "It records: “Now, Sanballat, hearing that we were building the wall, was very ...”",
+          "It records: “Sanballat heard that we were building the wall. He was very angry...”",
           "It begins with a prayer of thanksgiving for deliverance in Nehemiah",
           "It opens with a formal census and counting of the congregation",
           "It records a severe judgment pronounced against neighboring nations"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "It records: “Now, Sanballat, hearing that we were building the wall, was very ...”",
+        "correctAnswer": "It records: “Sanballat heard that we were building the wall. He was very angry...”",
         "reference": "Nehemiah 4:1",
-        "explanation": "The chapter begins directly with the statement: 'Now, Sanballat, hearing that we were building the wall, was very angry, and in his wrath made sport of the Jews.'."
+        "explanation": "The chapter begins directly with the statement: 'Sanballat heard that we were building the wall. He was very angry and upset. He laughed at the Jews.'."
       },
       {
         "id": "neh-4-q2",
         "questionNumber": 2,
         "question": "What key instruction, event, or declaration is set forth in Nehemiah 4:2?",
         "options": [
-          "“Let not their wrongdoing be covered or their sin...”",
-          "“And in the hearing of his countrymen and the army of...”",
-          "“But we made our prayer to God, and had...”",
+          "“Do not forgive their sins. Do not say that...”",
+          "“His officers and Samaria's army were with him. He said to...”",
+          "“So we continued to pray to our God. We...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“And in the hearing of his countrymen and the army of...”",
+        "correctAnswer": "“His officers and Samaria's army were with him. He said to...”",
         "reference": "Nehemiah 4:2",
-        "explanation": "Nehemiah 4:2 records: 'And in the hearing of his countrymen and the army of Samaria he said, What are these feeble Jews doing? will they make themselves strong? will they make offerings? will they get the work done in a day? will they make the stones which have been burned come again out of the dust?'."
+        "explanation": "Nehemiah 4:2 records: 'His officers and Samaria's army were with him. He said to them, ‘Those Jews have great ideas, but they are weak. How will they ever repair the wall? Will they give sacrifices to their God? Will that help them to repair the wall in one day? They will never build anything from this heap of stones that fire has destroyed!’'."
       },
       {
         "id": "neh-4-q3",
         "questionNumber": 3,
         "question": "What significant action or revelation occurs in Nehemiah 4:4?",
         "options": [
-          "“But when it came to the ears of Sanballat...”",
-          "“And those who were against us said, Without their...”",
-          "“Give ear, O our God, for we are looked down on:...”",
+          "“Sanballat, Tobiah, the Arab people, the Ammonites and the...”",
+          "“At the same time, our enemies were boasting, ‘Before...”",
+          "“So I prayed, ‘Hear us, our God. Our enemies think that...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“Give ear, O our God, for we are looked down on:...”",
+        "correctAnswer": "“So I prayed, ‘Hear us, our God. Our enemies think that...”",
         "reference": "Nehemiah 4:4",
-        "explanation": "Nehemiah 4:4 records: 'Give ear, O our God, for we are looked down on: let their words of shame be turned back on themselves, and let them be given up to wasting in a land where they are prisoners:'."
+        "explanation": "Nehemiah 4:4 records: 'So I prayed, ‘Hear us, our God. Our enemies think that we are fools. Make them seem like fools themselves! Let their enemies take them away as slaves.'."
       },
       {
         "id": "neh-4-q4",
         "questionNumber": 4,
         "question": "What truth or description is highlighted in Nehemiah 4:6?",
         "options": [
-          "“But we made our prayer to God, and had...”",
-          "“So in the lowest part of the space at...”",
+          "“So we continued to pray to our God. We...”",
+          "“So I put some men behind the lowest part...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“So we went on building the wall; and all the wall...”"
+          "“The people worked hard because they wanted to build the wall....”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“So we went on building the wall; and all the wall...”",
+        "correctAnswer": "“The people worked hard because they wanted to build the wall....”",
         "reference": "Nehemiah 4:6",
-        "explanation": "Nehemiah 4:6 records: 'So we went on building the wall; and all the wall was joined together half-way up: for the people were working hard.'."
+        "explanation": "Nehemiah 4:6 records: 'The people worked hard because they wanted to build the wall. As a result, the wall all around the city soon became half as high as the old wall.'."
       },
       {
         "id": "neh-4-q5",
         "questionNumber": 5,
         "question": "According to the text, what happened or was commanded in Nehemiah 4:8?",
         "options": [
-          "“And they made designs, all of them together, to come and...”",
-          "“And those who were against us said, Without their...”",
-          "“And when it came to the ears of those...”",
+          "“They met together to decide what they should do. They decided...”",
+          "“At the same time, our enemies were boasting, ‘Before...”",
+          "“Our enemies realized that we knew what they had...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“And they made designs, all of them together, to come and...”",
+        "correctAnswer": "“They met together to decide what they should do. They decided...”",
         "reference": "Nehemiah 4:8",
-        "explanation": "Nehemiah 4:8 records: 'And they made designs, all of them together, to come and make an attack on Jerusalem, causing trouble there.'."
+        "explanation": "Nehemiah 4:8 records: 'They met together to decide what they should do. They decided to attack Jerusalem so that there would be trouble.'."
       },
       {
         "id": "neh-4-q6",
         "questionNumber": 6,
         "question": "What central message or instruction is delivered in Nehemiah 4:10?",
         "options": [
-          "“So in the lowest part of the space at...”",
-          "“And Judah said, The strength of the workmen is giving way,...”",
-          "“Those who were building the wall and those who...”",
+          "“So I put some men behind the lowest part...”",
+          "“Then the people in Judah complained, ‘Our workers are becoming weak....”",
+          "“The men who were carrying materials held them with...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“And Judah said, The strength of the workmen is giving way,...”",
+        "correctAnswer": "“Then the people in Judah complained, ‘Our workers are becoming weak....”",
         "reference": "Nehemiah 4:10",
-        "explanation": "Nehemiah 4:10 records: 'And Judah said, The strength of the workmen is giving way, and there is much waste material; it is impossible for us to put up the wall.'."
+        "explanation": "Nehemiah 4:10 records: 'Then the people in Judah complained, ‘Our workers are becoming weak. There are so many stones and rubbish! We cannot finish the work on the wall!’'."
       },
       {
         "id": "neh-4-q7",
         "questionNumber": 7,
         "question": "What detail regarding God's work, covenant, or people is given in Nehemiah 4:12?",
         "options": [
-          "“And when it came to the ears of those...”",
-          "“And I said to the great ones and the...”",
-          "“And it came about that when the Jews who were living...”",
+          "“Our enemies realized that we knew what they had...”",
+          "“I said to the leaders, the officers and all...”",
+          "“The Jews who lived near our enemies warned us many times....”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“And it came about that when the Jews who were living...”",
+        "correctAnswer": "“The Jews who lived near our enemies warned us many times....”",
         "reference": "Nehemiah 4:12",
-        "explanation": "Nehemiah 4:12 records: 'And it came about that when the Jews who were living near them came, they said to us ten times, From all directions they are coming against us.'."
+        "explanation": "Nehemiah 4:12 records: 'The Jews who lived near our enemies warned us many times. They told us that our enemies would attack us wherever we went.'."
       },
       {
         "id": "neh-4-q8",
         "questionNumber": 8,
         "question": "What phrase or account is recorded in Nehemiah 4:14?",
         "options": [
-          "“Those who were building the wall and those who...”",
-          "“So we went on with the work: and half...”",
+          "“The men who were carrying materials held them with...”",
+          "“We continued to work on the wall every day,...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“And after looking, I got up and said to the great...”"
+          "“I went round the city and I looked at everything. I...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“And after looking, I got up and said to the great...”",
+        "correctAnswer": "“I went round the city and I looked at everything. I...”",
         "reference": "Nehemiah 4:14",
-        "explanation": "Nehemiah 4:14 records: 'And after looking, I got up and said to the great ones and to the chiefs and to the rest of the people, Have no fear of them: keep in mind the Lord who is great and greatly to be feared, and take up arms for your brothers, your sons, and your daughters, your wives and your houses.'."
+        "explanation": "Nehemiah 4:14 records: 'I went round the city and I looked at everything. I said to the leaders, the officers and the people, ‘Do not be afraid of our enemies. Remember that our Lord God is great and powerful. Fight on behalf of your brothers, your sons, your daughters and your wives. Fight to keep your homes safe.’'."
       },
       {
         "id": "neh-4-q9",
         "questionNumber": 9,
         "question": "How does the passage describe the circumstances or people in Nehemiah 4:16?",
         "options": [
-          "“And from that time, half of my servants were doing their...”",
-          "“And I said to the great ones and the...”",
-          "“Now, Sanballat, hearing that we were building the wall,...”",
+          "“After that day, half of my men continued to do the...”",
+          "“I said to the leaders, the officers and all...”",
+          "“Sanballat heard that we were building the wall. He...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“And from that time, half of my servants were doing their...”",
+        "correctAnswer": "“After that day, half of my men continued to do the...”",
         "reference": "Nehemiah 4:16",
-        "explanation": "Nehemiah 4:16 records: 'And from that time, half of my servants were doing their part of the work, and half kept the spears and body-covers and the bows and the metal war-dresses; and the chiefs were at the back of the men of Judah.'."
+        "explanation": "Nehemiah 4:16 records: 'After that day, half of my men continued to do the work on the wall. The other half carried spears, shields and bows. They also wore armour. The officers stood behind the people while they built the wall.'."
       },
       {
         "id": "neh-4-q10",
         "questionNumber": 10,
         "question": "In the concluding portion of the chapter, what takes place in Nehemiah 4:18?",
         "options": [
-          "“So we went on with the work: and half...”",
-          "“Every builder was working with his sword at his side. And...”",
-          "“And in the hearing of his countrymen and the...”",
+          "“We continued to work on the wall every day,...”",
+          "“All the builders had swords tied on their belts while they...”",
+          "“His officers and Samaria's army were with him. He...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“Every builder was working with his sword at his side. And...”",
+        "correctAnswer": "“All the builders had swords tied on their belts while they...”",
         "reference": "Nehemiah 4:18",
-        "explanation": "Nehemiah 4:18 records: 'Every builder was working with his sword at his side. And by my side was a man for sounding the horn.'."
+        "explanation": "Nehemiah 4:18 records: 'All the builders had swords tied on their belts while they were building. There was a man who would make a sound with his trumpet if there was danger. He stayed near me.'."
       }
     ],
     "5": [
@@ -619,150 +616,150 @@
         "questionNumber": 1,
         "question": "According to Nehemiah 5:1, what is the opening statement or setting of this chapter?",
         "options": [
-          "It records: “Then there was a great outcry from the people and their wives aga...”",
+          "It records: “Some men and their wives were upset, because of the things that s...”",
           "It begins with a prayer of thanksgiving for deliverance in Nehemiah",
           "It opens with a formal census and counting of the congregation",
           "It records a severe judgment pronounced against neighboring nations"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "It records: “Then there was a great outcry from the people and their wives aga...”",
+        "correctAnswer": "It records: “Some men and their wives were upset, because of the things that s...”",
         "reference": "Nehemiah 5:1",
-        "explanation": "The chapter begins directly with the statement: 'Then there was a great outcry from the people and their wives against their countrymen the Jews.'."
+        "explanation": "The chapter begins directly with the statement: 'Some men and their wives were upset, because of the things that some other Jews were doing.'."
       },
       {
         "id": "neh-5-q2",
         "questionNumber": 2,
         "question": "What key instruction, event, or declaration is set forth in Nehemiah 5:2?",
         "options": [
-          "“But our flesh is the same as the flesh...”",
-          "“For there were some who said, We, our sons and our...”",
-          "“And I said, What you are doing is not...”",
+          "“Now we have to sell our sons and daughters...”",
+          "“Many of them said, ‘We are big families, with many sons...”",
+          "“Then I said to them, ‘You are doing something...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“For there were some who said, We, our sons and our...”",
+        "correctAnswer": "“Many of them said, ‘We are big families, with many sons...”",
         "reference": "Nehemiah 5:2",
-        "explanation": "Nehemiah 5:2 records: 'For there were some who said, We, our sons and our daughters, are a great number: let us get grain, so that we may have food for our needs.'."
+        "explanation": "Nehemiah 5:2 records: 'Many of them said, ‘We are big families, with many sons and daughters. We need to have food to eat so that we can stay alive.’'."
       },
       {
         "id": "neh-5-q3",
         "questionNumber": 3,
         "question": "What significant action or revelation occurs in Nehemiah 5:3?",
         "options": [
-          "“And on hearing their outcry and what they said...”",
-          "“Even I and my servants have been taking interest...”",
-          "“And there were some who said, We are giving our fields...”",
+          "“When I heard what they were complaining about, I...”",
+          "“I myself have agreed to lend poor people money...”",
+          "“Other people said, ‘People have to lend us money to buy...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“And there were some who said, We are giving our fields...”",
+        "correctAnswer": "“Other people said, ‘People have to lend us money to buy...”",
         "reference": "Nehemiah 5:3",
-        "explanation": "Nehemiah 5:3 records: 'And there were some who said, We are giving our fields and our vine-gardens and our houses for debt: let us get grain because we are in need.'."
+        "explanation": "Nehemiah 5:3 records: 'Other people said, ‘People have to lend us money to buy food. We have to give them our fields, our vineyards and our homes until we can pay them back.’'."
       },
       {
         "id": "neh-5-q4",
         "questionNumber": 4,
         "question": "What truth or description is highlighted in Nehemiah 5:4?",
         "options": [
-          "“And after turning it over in my mind, I...”",
-          "“Give back to them this very day their fields,...”",
+          "“I thought carefully about what they had said. Then...”",
+          "“Now you must give back to them their fields,...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“And there were others who said, We have given up our...”"
+          "“Some other people said, ‘We have to pay taxes to the...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“And there were others who said, We have given up our...”",
+        "correctAnswer": "“Some other people said, ‘We have to pay taxes to the...”",
         "reference": "Nehemiah 5:4",
-        "explanation": "Nehemiah 5:4 records: 'And there were others who said, We have given up our fields and our vine-gardens to get money for the king's taxes.'."
+        "explanation": "Nehemiah 5:4 records: 'Some other people said, ‘We have to pay taxes to the king for our fields and our vineyards. People had to lend us money to pay the taxes.'."
       },
       {
         "id": "neh-5-q5",
         "questionNumber": 5,
         "question": "According to the text, what happened or was commanded in Nehemiah 5:5?",
         "options": [
-          "“But our flesh is the same as the flesh of our...”",
-          "“And I said to them, We have given whatever...”",
-          "“Then they said, We will give them back, and...”",
+          "“Now we have to sell our sons and daughters as slaves...”",
+          "“I said to them all, ‘When our own Jewish...”",
+          "“The leaders replied, ‘We will give everything back to...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“But our flesh is the same as the flesh of our...”",
+        "correctAnswer": "“Now we have to sell our sons and daughters as slaves...”",
         "reference": "Nehemiah 5:5",
-        "explanation": "Nehemiah 5:5 records: 'But our flesh is the same as the flesh of our countrymen, and our children as their children: and now we are giving our sons and daughters into the hands of others, to be their servants, and some of our daughters are servants even now: and we have no power to put a stop to it; for other men have our fields and our vine-gardens.'."
+        "explanation": "Nehemiah 5:5 records: 'Now we have to sell our sons and daughters as slaves so that we can pay back the money. But we are from the same human family as those other Jews. Our children are not different from their children. Already some of our daughters have become slaves. Our fields and vineyards now belong to other people, so we are helpless to do anything.’'."
       },
       {
         "id": "neh-5-q6",
         "questionNumber": 6,
         "question": "What central message or instruction is delivered in Nehemiah 5:6?",
         "options": [
-          "“And I said, What you are doing is not...”",
-          "“And on hearing their outcry and what they said I was...”",
-          "“And shaking out the folds of my robe, I...”",
+          "“Then I said to them, ‘You are doing something...”",
+          "“When I heard what they were complaining about, I was very angry.”",
+          "“I shook my coat so that everything fell out...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“And on hearing their outcry and what they said I was...”",
+        "correctAnswer": "“When I heard what they were complaining about, I was very angry.”",
         "reference": "Nehemiah 5:6",
-        "explanation": "Nehemiah 5:6 records: 'And on hearing their outcry and what they said I was very angry.'."
+        "explanation": "Nehemiah 5:6 records: 'When I heard what they were complaining about, I was very angry.'."
       },
       {
         "id": "neh-5-q7",
         "questionNumber": 7,
         "question": "What detail regarding God's work, covenant, or people is given in Nehemiah 5:7?",
         "options": [
-          "“Even I and my servants have been taking interest...”",
-          "“Now from the time when I was made ruler...”",
-          "“And after turning it over in my mind, I made a...”",
+          "“I myself have agreed to lend poor people money...”",
+          "“All the time that I ruled the land of...”",
+          "“I thought carefully about what they had said. Then I said...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“And after turning it over in my mind, I made a...”",
+        "correctAnswer": "“I thought carefully about what they had said. Then I said...”",
         "reference": "Nehemiah 5:7",
-        "explanation": "Nehemiah 5:7 records: 'And after turning it over in my mind, I made a protest to the chiefs and the rulers, and said to them, Every one of you is taking interest from his countryman. And I got together a great meeting of protest.'."
+        "explanation": "Nehemiah 5:7 records: 'I thought carefully about what they had said. Then I said to the Jewish leaders and officers, ‘You are cheating your own people! You are taking back more money than you have lent to them.’ I told the Jews to come together for a big meeting.'."
       },
       {
         "id": "neh-5-q8",
         "questionNumber": 8,
         "question": "What phrase or account is recorded in Nehemiah 5:8?",
         "options": [
-          "“Give back to them this very day their fields,...”",
-          "“But earlier rulers who were before me made the...”",
+          "“Now you must give back to them their fields,...”",
+          "“The officers who ruled there before I came made...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“And I said to them, We have given whatever we were...”"
+          "“I said to them all, ‘When our own Jewish people have...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“And I said to them, We have given whatever we were...”",
+        "correctAnswer": "“I said to them all, ‘When our own Jewish people have...”",
         "reference": "Nehemiah 5:8",
-        "explanation": "Nehemiah 5:8 records: 'And I said to them, We have given whatever we were able to give, to make our brothers the Jews free, who were servants and prisoners of the nations: and would you now give up your brothers for a price, and are they to become our property? Then they said nothing, answering not a word.'."
+        "explanation": "Nehemiah 5:8 records: 'I said to them all, ‘When our own Jewish people have become slaves of foreign people, we have tried hard to buy them back. But now you are making your own people sell their children to you. And you want us to pay you to buy them back again!’ The Jewish leaders kept quiet. They had nothing to say.'."
       },
       {
         "id": "neh-5-q9",
         "questionNumber": 9,
         "question": "How does the passage describe the circumstances or people in Nehemiah 5:9?",
         "options": [
-          "“And I said, What you are doing is not good: is...”",
-          "“Then they said, We will give them back, and...”",
-          "“And I kept on with the work of this...”",
+          "“Then I said to them, ‘You are doing something that is...”",
+          "“The leaders replied, ‘We will give everything back to...”",
+          "“I worked hard to help the work on the...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“And I said, What you are doing is not good: is...”",
+        "correctAnswer": "“Then I said to them, ‘You are doing something that is...”",
         "reference": "Nehemiah 5:9",
-        "explanation": "Nehemiah 5:9 records: 'And I said, What you are doing is not good: is it not the more necessary for you to go in the fear of our God, because of the shame which the nations may put on us?'."
+        "explanation": "Nehemiah 5:9 records: 'Then I said to them, ‘You are doing something that is completely wrong. Instead, you should obey God and live in a good way. Then the foreign people who are our enemies will not have a chance to insult us.'."
       },
       {
         "id": "neh-5-q10",
         "questionNumber": 10,
         "question": "In the concluding portion of the chapter, what takes place in Nehemiah 5:10?",
         "options": [
-          "“And shaking out the folds of my robe, I...”",
-          "“Even I and my servants have been taking interest for the...”",
-          "“And more than this, a hundred and fifty of...”",
+          "“I shook my coat so that everything fell out...”",
+          "“I myself have agreed to lend poor people money and food....”",
+          "“150 Jews and their officers ate meals with me....”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“Even I and my servants have been taking interest for the...”",
+        "correctAnswer": "“I myself have agreed to lend poor people money and food....”",
         "reference": "Nehemiah 5:10",
-        "explanation": "Nehemiah 5:10 records: 'Even I and my servants have been taking interest for the money and the grain we have let them have. So now, let us give up this thing.'."
+        "explanation": "Nehemiah 5:10 records: 'I myself have agreed to lend poor people money and food. My family and my friends have done the same thing. But we must not make those poor people pay back more to us.'."
       }
     ],
     "6": [
@@ -771,150 +768,150 @@
         "questionNumber": 1,
         "question": "According to Nehemiah 6:1, what is the opening statement or setting of this chapter?",
         "options": [
-          "It records: “Now when word was given to Sanballat and Tobiah and to Geshem the...”",
+          "It records: “We had finished building the city's wall. There were no holes in ...”",
           "It begins with a prayer of thanksgiving for deliverance in Nehemiah",
           "It opens with a formal census and counting of the congregation",
           "It records a severe judgment pronounced against neighboring nations"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "It records: “Now when word was given to Sanballat and Tobiah and to Geshem the...”",
+        "correctAnswer": "It records: “We had finished building the city's wall. There were no holes in ...”",
         "reference": "Nehemiah 6:1",
-        "explanation": "The chapter begins directly with the statement: 'Now when word was given to Sanballat and Tobiah and to Geshem the Arabian and to the rest of our haters, that I had done the building of the wall and that there were no more broken places in it (though even then I had not put up the doors in the doorways);'."
+        "explanation": "The chapter begins directly with the statement: 'We had finished building the city's wall. There were no holes in it now, but we had not fixed the doors in the gates. Sanballat, Tobiah, Geshem (the Arab) and all our enemies heard that we had finished building the wall.'."
       },
       {
         "id": "neh-6-q2",
         "questionNumber": 2,
         "question": "What key instruction, event, or declaration is set forth in Nehemiah 6:2?",
         "options": [
-          "“Then Sanballat sent his servant to me a fifth...”",
-          "“Sanballat and Geshem sent to me saying, Come, let us have...”",
-          "“For they were hoping to put fear in us,...”",
+          "“Then Sanballat sent his officer to me with a...”",
+          "“Sanballat and Geshem sent this message to me: ‘Come and meet...”",
+          "“All our enemies wanted to frighten us. They thought,...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“Sanballat and Geshem sent to me saying, Come, let us have...”",
+        "correctAnswer": "“Sanballat and Geshem sent this message to me: ‘Come and meet...”",
         "reference": "Nehemiah 6:2",
-        "explanation": "Nehemiah 6:2 records: 'Sanballat and Geshem sent to me saying, Come, let us have a meeting in one of the little towns in the lowland of Ono. But their purpose was to do me evil.'."
+        "explanation": "Nehemiah 6:2 records: 'Sanballat and Geshem sent this message to me: ‘Come and meet with us in a village on the low land of Ono.’ I realized that they wanted to cause trouble for me.'."
       },
       {
         "id": "neh-6-q3",
         "questionNumber": 3,
         "question": "What significant action or revelation occurs in Nehemiah 6:3?",
         "options": [
-          "“And in it these words were recorded: It is...”",
-          "“And I went to the house of Shemaiah, the...”",
-          "“And I sent men to them saying, I am doing a...”",
+          "“This is what the letter said: ‘To Nehemiah. Other...”",
+          "“One day I went to Shemaiah's house. He was...”",
+          "“So I sent this message back to them: ‘I am too...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“And I sent men to them saying, I am doing a...”",
+        "correctAnswer": "“So I sent this message back to them: ‘I am too...”",
         "reference": "Nehemiah 6:3",
-        "explanation": "Nehemiah 6:3 records: 'And I sent men to them saying, I am doing a great work, so that it is not possible for me to come down: is the work to be stopped while I go away from it and come down to you?'."
+        "explanation": "Nehemiah 6:3 records: 'So I sent this message back to them: ‘I am too busy to come and meet you. The work here is too important. I cannot stop the work here to come and meet you.’'."
       },
       {
         "id": "neh-6-q4",
         "questionNumber": 4,
         "question": "What truth or description is highlighted in Nehemiah 6:4?",
         "options": [
-          "“And that you have prophets preaching about you in...”",
-          "“And I said, Am I the sort of man...”",
+          "“You have chosen some prophets to speak your message...”",
+          "“But I said, ‘I am not a man who...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“And four times they sent to me in this way, and...”"
+          "“They sent me the same message four times. Each time, I refused.”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“And four times they sent to me in this way, and...”",
+        "correctAnswer": "“They sent me the same message four times. Each time, I refused.”",
         "reference": "Nehemiah 6:4",
-        "explanation": "Nehemiah 6:4 records: 'And four times they sent to me in this way, and I sent them the same answer.'."
+        "explanation": "Nehemiah 6:4 records: 'They sent me the same message four times. Each time, I refused.'."
       },
       {
         "id": "neh-6-q5",
         "questionNumber": 5,
         "question": "According to the text, what happened or was commanded in Nehemiah 6:5?",
         "options": [
-          "“Then Sanballat sent his servant to me a fifth time with...”",
-          "“Then I sent to him, saying, No such things...”",
-          "“Then it became clear to me that God had...”",
+          "“Then Sanballat sent his officer to me with a fifth message....”",
+          "“I sent this reply: ‘What you say is not...”",
+          "“Then I realized that Shemaiah was not telling me...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“Then Sanballat sent his servant to me a fifth time with...”",
+        "correctAnswer": "“Then Sanballat sent his officer to me with a fifth message....”",
         "reference": "Nehemiah 6:5",
-        "explanation": "Nehemiah 6:5 records: 'Then Sanballat sent his servant to me a fifth time with an open letter in his hand;'."
+        "explanation": "Nehemiah 6:5 records: 'Then Sanballat sent his officer to me with a fifth message. He carried a letter that was open for anyone to read.'."
       },
       {
         "id": "neh-6-q6",
         "questionNumber": 6,
         "question": "What central message or instruction is delivered in Nehemiah 6:6?",
         "options": [
-          "“For they were hoping to put fear in us,...”",
-          "“And in it these words were recorded: It is said among...”",
-          "“For this reason they had given him money, in...”",
+          "“All our enemies wanted to frighten us. They thought,...”",
+          "“This is what the letter said: ‘To Nehemiah. Other nations have...”",
+          "“They wanted to frighten me so that I would...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“And in it these words were recorded: It is said among...”",
+        "correctAnswer": "“This is what the letter said: ‘To Nehemiah. Other nations have...”",
         "reference": "Nehemiah 6:6",
-        "explanation": "Nehemiah 6:6 records: 'And in it these words were recorded: It is said among the nations, and Geshem says so, that you and the Jews are hoping to make yourselves free from the king's authority; and that this is why you are building the wall: and they say that it is your purpose to be their king;'."
+        "explanation": "Nehemiah 6:6 records: 'This is what the letter said: ‘To Nehemiah. Other nations have heard the news that you and the other Jews have decided to turn against the king. Geshem also says that this is true. This is why you are building the city's wall. People are saying that you want to rule the Jews as their king.'."
       },
       {
         "id": "neh-6-q7",
         "questionNumber": 7,
         "question": "What detail regarding God's work, covenant, or people is given in Nehemiah 6:7?",
         "options": [
-          "“And I went to the house of Shemaiah, the...”",
-          "“Keep in mind, O my God, Tobiah and Sanballat...”",
-          "“And that you have prophets preaching about you in Jerusalem, and...”",
+          "“One day I went to Shemaiah's house. He was...”",
+          "“My God, please remember all the bad things that...”",
+          "“You have chosen some prophets to speak your message in Jerusalem....”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“And that you have prophets preaching about you in Jerusalem, and...”",
+        "correctAnswer": "“You have chosen some prophets to speak your message in Jerusalem....”",
         "reference": "Nehemiah 6:7",
-        "explanation": "Nehemiah 6:7 records: 'And that you have prophets preaching about you in Jerusalem, and saying, There is a king in Judah: now an account of these things will be sent to the king. So come now, and let us have a discussion.'."
+        "explanation": "Nehemiah 6:7 records: 'You have chosen some prophets to speak your message in Jerusalem. You have told them to say, “There is now a king in Judah!” The king of Persia will surely hear this news. So we must meet together and talk about it.’'."
       },
       {
         "id": "neh-6-q8",
         "questionNumber": 8,
         "question": "What phrase or account is recorded in Nehemiah 6:8?",
         "options": [
-          "“And I said, Am I the sort of man...”",
-          "“So the wall was complete on the twenty-fifth day...”",
+          "“But I said, ‘I am not a man who...”",
+          "“We finished the city's wall on the 25th day...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“Then I sent to him, saying, No such things as you...”"
+          "“I sent this reply: ‘What you say is not true. Nothing...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“Then I sent to him, saying, No such things as you...”",
+        "correctAnswer": "“I sent this reply: ‘What you say is not true. Nothing...”",
         "reference": "Nehemiah 6:8",
-        "explanation": "Nehemiah 6:8 records: 'Then I sent to him, saying, No such things as you say are being done, they are only a fiction you have made up yourself.'."
+        "explanation": "Nehemiah 6:8 records: 'I sent this reply: ‘What you say is not true. Nothing like that is happening. You are only speaking your own ideas.’'."
       },
       {
         "id": "neh-6-q9",
         "questionNumber": 9,
         "question": "How does the passage describe the circumstances or people in Nehemiah 6:9?",
         "options": [
-          "“For they were hoping to put fear in us, saying, Their...”",
-          "“Then it became clear to me that God had...”",
-          "“And when our haters had news of this, all...”",
+          "“All our enemies wanted to frighten us. They thought, ‘The Jews...”",
+          "“Then I realized that Shemaiah was not telling me...”",
+          "“When our enemies heard this news, they were afraid....”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“For they were hoping to put fear in us, saying, Their...”",
+        "correctAnswer": "“All our enemies wanted to frighten us. They thought, ‘The Jews...”",
         "reference": "Nehemiah 6:9",
-        "explanation": "Nehemiah 6:9 records: 'For they were hoping to put fear in us, saying, Their hands will become feeble and give up the work so that it may not get done. But now, O God, make my hands strong.'."
+        "explanation": "Nehemiah 6:9 records: 'All our enemies wanted to frighten us. They thought, ‘The Jews will be so afraid that they will not be able to work well. They will not finish building the wall.’ So I prayed to God, ‘Give me strength to continue the work.’'."
       },
       {
         "id": "neh-6-q10",
         "questionNumber": 10,
         "question": "In the concluding portion of the chapter, what takes place in Nehemiah 6:10?",
         "options": [
-          "“For this reason they had given him money, in...”",
-          "“And I went to the house of Shemaiah, the son of...”",
-          "“And further, in those days the chiefs of Judah...”",
+          "“They wanted to frighten me so that I would...”",
+          "“One day I went to Shemaiah's house. He was the son...”",
+          "“During this time, the leaders in Judah were sending...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“And I went to the house of Shemaiah, the son of...”",
+        "correctAnswer": "“One day I went to Shemaiah's house. He was the son...”",
         "reference": "Nehemiah 6:10",
-        "explanation": "Nehemiah 6:10 records: 'And I went to the house of Shemaiah, the son of Delaiah, the son of Mehetabel, who was shut up; and he said, Let us have a meeting in the house of God, inside the Temple, and let the doors be shut: for they will come to put you to death; truly, in the night they will come to put you to death.'."
+        "explanation": "Nehemiah 6:10 records: 'One day I went to Shemaiah's house. He was the son of Delaiah, Mehetabel's son. He could not go out of his house. He said to me, ‘Meet me inside the temple of God. We will close the temple's doors. Our enemies are coming to kill you. One night soon, they will come to kill you.’'."
       }
     ],
     "7": [
@@ -923,150 +920,150 @@
         "questionNumber": 1,
         "question": "According to Nehemiah 7:1, what is the opening statement or setting of this chapter?",
         "options": [
-          "It records: “Now when the building of the wall was complete and I had put up t...”",
+          "It records: “When we had built the wall, we fixed the doors in their places. W...”",
           "It begins with a prayer of thanksgiving for deliverance in Nehemiah",
           "It opens with a formal census and counting of the congregation",
           "It records a severe judgment pronounced against neighboring nations"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "It records: “Now when the building of the wall was complete and I had put up t...”",
+        "correctAnswer": "It records: “When we had built the wall, we fixed the doors in their places. W...”",
         "reference": "Nehemiah 7:1",
-        "explanation": "The chapter begins directly with the statement: 'Now when the building of the wall was complete and I had put up the doors, and the door-keepers and the music-makers and the Levites had been given their places,'."
+        "explanation": "The chapter begins directly with the statement: 'When we had built the wall, we fixed the doors in their places. We chose men to be guards for the city's gates. We also chose singers and Levites to serve God.'."
       },
       {
         "id": "neh-7-q2",
         "questionNumber": 2,
         "question": "What key instruction, event, or declaration is set forth in Nehemiah 7:7?",
         "options": [
-          "“The children of Arah, six hundred and fifty-two.”",
-          "“Who came with Zerubbabel, Jeshua, Nehemiah, Azariah, Raamiah, Nahamani, Mordecai, Bilshan,...”",
-          "“The children of Zaccai, seven hundred and sixty.”",
+          "“The clan of Arah: 652.”",
+          "“These people came from Babylon with Zerubbabel, Jeshua, Nehemiah, Azariah, Raamiah,...”",
+          "“The clan of Zaccai: 760.”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“Who came with Zerubbabel, Jeshua, Nehemiah, Azariah, Raamiah, Nahamani, Mordecai, Bilshan,...”",
+        "correctAnswer": "“These people came from Babylon with Zerubbabel, Jeshua, Nehemiah, Azariah, Raamiah,...”",
         "reference": "Nehemiah 7:7",
-        "explanation": "Nehemiah 7:7 records: 'Who came with Zerubbabel, Jeshua, Nehemiah, Azariah, Raamiah, Nahamani, Mordecai, Bilshan, Mispereth, Bigvai, Nehum, Baanah. The number of the men of the people of Israel:'."
+        "explanation": "Nehemiah 7:7 records: 'These people came from Babylon with Zerubbabel, Jeshua, Nehemiah, Azariah, Raamiah, Nahamani, Mordecai, Bilshan, Mispereth, Bigvai, Nehum and Baanah. This is a list of the number of men in each Israelite clan who returned:'."
       },
       {
         "id": "neh-7-q3",
         "questionNumber": 3,
         "question": "What significant action or revelation occurs in Nehemiah 7:14?",
         "options": [
-          "“The children of Azgad, two thousand, three hundred and...”",
-          "“The children of Ater, of Hezekiah, ninety-eight.”",
-          "“The children of Zaccai, seven hundred and sixty.”",
+          "“The clan of Azgad: 2,322.”",
+          "“The clan of Ater (descendants of Hezekiah): 98.”",
+          "“The clan of Zaccai: 760.”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“The children of Zaccai, seven hundred and sixty.”",
+        "correctAnswer": "“The clan of Zaccai: 760.”",
         "reference": "Nehemiah 7:14",
-        "explanation": "Nehemiah 7:14 records: 'The children of Zaccai, seven hundred and sixty.'."
+        "explanation": "Nehemiah 7:14 records: 'The clan of Zaccai: 760.'."
       },
       {
         "id": "neh-7-q4",
         "questionNumber": 4,
         "question": "What truth or description is highlighted in Nehemiah 7:21?",
         "options": [
-          "“The children of Hariph, a hundred and twelve.”",
-          "“The men of Beth-azmaveth, forty-two.”",
+          "“The clan of Hariph: 112.”",
+          "“Beth Azmaveth: 42.”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“The children of Ater, of Hezekiah, ninety-eight.”"
+          "“The clan of Ater (descendants of Hezekiah): 98.”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“The children of Ater, of Hezekiah, ninety-eight.”",
+        "correctAnswer": "“The clan of Ater (descendants of Hezekiah): 98.”",
         "reference": "Nehemiah 7:21",
-        "explanation": "Nehemiah 7:21 records: 'The children of Ater, of Hezekiah, ninety-eight.'."
+        "explanation": "Nehemiah 7:21 records: 'The clan of Ater (descendants of Hezekiah): 98.'."
       },
       {
         "id": "neh-7-q5",
         "questionNumber": 5,
         "question": "According to the text, what happened or was commanded in Nehemiah 7:28?",
         "options": [
-          "“The men of Beth-azmaveth, forty-two.”",
-          "“The men of Michmas, a hundred and twenty-two.”",
-          "“The children of Harim, three hundred and twenty.”",
+          "“Beth Azmaveth: 42.”",
+          "“Michmash: 122.”",
+          "“Harim: 320.”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“The men of Beth-azmaveth, forty-two.”",
+        "correctAnswer": "“Beth Azmaveth: 42.”",
         "reference": "Nehemiah 7:28",
-        "explanation": "Nehemiah 7:28 records: 'The men of Beth-azmaveth, forty-two.'."
+        "explanation": "Nehemiah 7:28 records: 'Beth Azmaveth: 42.'."
       },
       {
         "id": "neh-7-q6",
         "questionNumber": 6,
         "question": "What central message or instruction is delivered in Nehemiah 7:35?",
         "options": [
-          "“The children of Senaah, three thousand, nine hundred and...”",
-          "“The children of Harim, three hundred and twenty.”",
-          "“The children of Harim, a thousand and seventeen.”",
+          "“Senaah: 3,930. 39 These priests also returned:The clan of...”",
+          "“Harim: 320.”",
+          "“The clan of Harim: 1,017. 43 These Levites also...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“The children of Harim, three hundred and twenty.”",
+        "correctAnswer": "“Harim: 320.”",
         "reference": "Nehemiah 7:35",
-        "explanation": "Nehemiah 7:35 records: 'The children of Harim, three hundred and twenty.'."
+        "explanation": "Nehemiah 7:35 records: 'Harim: 320.'."
       },
       {
         "id": "neh-7-q7",
         "questionNumber": 7,
         "question": "What detail regarding God's work, covenant, or people is given in Nehemiah 7:42?",
         "options": [
-          "“The door-keepers: the children of Shallum, the children of...”",
-          "“The children of Hanan, the children of Giddel, the...”",
-          "“The children of Harim, a thousand and seventeen.”",
+          "“Temple guards who were descendants of Shallum, Ater, Talmon,...”",
+          "“Hanan, Giddel, Gahar,”",
+          "“The clan of Harim: 1,017. 43 These Levites also returned:The clans...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“The children of Harim, a thousand and seventeen.”",
+        "correctAnswer": "“The clan of Harim: 1,017. 43 These Levites also returned:The clans...”",
         "reference": "Nehemiah 7:42",
-        "explanation": "Nehemiah 7:42 records: 'The children of Harim, a thousand and seventeen.'."
+        "explanation": "Nehemiah 7:42 records: 'The clan of Harim: 1,017. 43 These Levites also returned:The clans of Jeshua and Kadmiel (descendants of Hodaviah): 74. 44 Singers who were descendants of Asaph: 148. 45 Temple guards who were descendants of Shallum, Ater, Talmon, Akkub, Hatita and Shobai: 138. 46 These were the families of the temple servants who returned:Ziha, Hasupha, Tabbaoth, 47 Keros, Sia, Padon, 48 Lebana, Hagaba, Shalmai, 49 Hanan, Giddel, Gahar, 50 Reaiah, Rezin, Nekoda, 51 Gazzam, Uzza, Paseah, 52 Besai, Meunim, Nephussim, 53 Bakbuk, Hakupha, Harhur, 54 Bazluth, Mehida, Harsha, 55 Barkos, Sisera, Temah, 56 Neziah and Hatipha. 57 These were the servants of King Solomon whose descendants returned:Sotai, Sophereth, Perida, 58 Jaala, Darkon, Giddel, 59 Shephatiah, Hattil, Pokereth-Hazzebaim and Amon. 60 The temple servants and the descendants of Solomon's servants were 392 men. 61 There were some people who came from the towns of Tel Melah, Tel Harsha, Kerub, Addon and Immer. But they had no lists to show that they belonged to Israelite families. 62 There were from the clans of Delaiah, Tobiah and Nekoda: 642. 63 There were also some priests from the clans of Hobaiah, Hakkoz and Barzillai. (Barzillai was a man who had married a daughter of Barzillai, who came from Gilead. So he took Barzillai's name for himself.) 64 These people could not find any lists to show who their ancestors were. Because of this, they could not serve God as priests. 65 The officer who ruled in Judah said that they must not eat the priests' special food. They must wait until there was a priest who could use the Urim and Thummim to decide the right thing to do.7:647:65 66 The number of all the people who returned to Judea was 42,360. 67 There were also 7,337 male and female servants, as well as 245 male and female singers. 68 They had 736 horses and 245 mules, 69 435 camels and 6,720 donkeys.7:69 70 Some of the family leaders gave money to help build the wall. The officer who ruled there gave 8.5 kilograms of gold, 50 bowls and 530 sets of special clothes for the priests. 71 Some family leaders gave 170 kilograms of gold and 1,300 kilograms of silver. 72 The rest of the people gave 170 kilograms of gold and 1,300 kilograms of silver. They also gave 67 sets of special clothes for the priests. 73 The priests, the Levites, the temple guards, the singers and the temple servants now lived in towns near Jerusalem. The other people also lived in the towns of Judah. When the seventh month of the year arrived, all the Israelite people were living in their towns and cities.'."
       },
       {
         "id": "neh-7-q8",
         "questionNumber": 8,
         "question": "What phrase or account is recorded in Nehemiah 7:49?",
         "options": [
-          "“The children of Besai, the children of Meunim, the...”",
-          "“The children of Neziah, the children of Hatipha.”",
+          "“Besai, Meunim, Nephussim,”",
+          "“Neziah and Hatipha. 57 These were the servants of...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“The children of Hanan, the children of Giddel, the children of Gahar,”"
+          "“Hanan, Giddel, Gahar,”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“The children of Hanan, the children of Giddel, the children of Gahar,”",
+        "correctAnswer": "“Hanan, Giddel, Gahar,”",
         "reference": "Nehemiah 7:49",
-        "explanation": "Nehemiah 7:49 records: 'The children of Hanan, the children of Giddel, the children of Gahar,'."
+        "explanation": "Nehemiah 7:49 records: 'Hanan, Giddel, Gahar,'."
       },
       {
         "id": "neh-7-q9",
         "questionNumber": 9,
         "question": "How does the passage describe the circumstances or people in Nehemiah 7:56?",
         "options": [
-          "“The children of Neziah, the children of Hatipha.”",
-          "“The children of Shephatiah, the children of Hattil, the...”",
-          "“And of the priests: the children of Hobaiah, the...”",
+          "“Neziah and Hatipha. 57 These were the servants of King Solomon...”",
+          "“Shephatiah, Hattil, Pokereth-Hazzebaim and Amon.”",
+          "“There were also some priests from the clans of...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“The children of Neziah, the children of Hatipha.”",
+        "correctAnswer": "“Neziah and Hatipha. 57 These were the servants of King Solomon...”",
         "reference": "Nehemiah 7:56",
-        "explanation": "Nehemiah 7:56 records: 'The children of Neziah, the children of Hatipha.'."
+        "explanation": "Nehemiah 7:56 records: 'Neziah and Hatipha. 57 These were the servants of King Solomon whose descendants returned:Sotai, Sophereth, Perida, 58 Jaala, Darkon, Giddel, 59 Shephatiah, Hattil, Pokereth-Hazzebaim and Amon. 60 The temple servants and the descendants of Solomon's servants were 392 men. 61 There were some people who came from the towns of Tel Melah, Tel Harsha, Kerub, Addon and Immer. But they had no lists to show that they belonged to Israelite families. 62 There were from the clans of Delaiah, Tobiah and Nekoda: 642. 63 There were also some priests from the clans of Hobaiah, Hakkoz and Barzillai. (Barzillai was a man who had married a daughter of Barzillai, who came from Gilead. So he took Barzillai's name for himself.) 64 These people could not find any lists to show who their ancestors were. Because of this, they could not serve God as priests. 65 The officer who ruled in Judah said that they must not eat the priests' special food. They must wait until there was a priest who could use the Urim and Thummim to decide the right thing to do.7:647:65 66 The number of all the people who returned to Judea was 42,360. 67 There were also 7,337 male and female servants, as well as 245 male and female singers. 68 They had 736 horses and 245 mules, 69 435 camels and 6,720 donkeys.7:69 70 Some of the family leaders gave money to help build the wall. The officer who ruled there gave 8.5 kilograms of gold, 50 bowls and 530 sets of special clothes for the priests. 71 Some family leaders gave 170 kilograms of gold and 1,300 kilograms of silver. 72 The rest of the people gave 170 kilograms of gold and 1,300 kilograms of silver. They also gave 67 sets of special clothes for the priests. 73 The priests, the Levites, the temple guards, the singers and the temple servants now lived in towns near Jerusalem. The other people also lived in the towns of Judah. When the seventh month of the year arrived, all the Israelite people were living in their towns and cities.'."
       },
       {
         "id": "neh-7-q10",
         "questionNumber": 10,
         "question": "In the concluding portion of the chapter, what takes place in Nehemiah 7:63?",
         "options": [
-          "“The number of all the people together was forty-two...”",
-          "“And of the priests: the children of Hobaiah, the children of...”",
-          "“And some of the heads of families gave money...”",
+          "“The number of all the people who returned to...”",
+          "“There were also some priests from the clans of Hobaiah, Hakkoz...”",
+          "“Some of the family leaders gave money to help...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“And of the priests: the children of Hobaiah, the children of...”",
+        "correctAnswer": "“There were also some priests from the clans of Hobaiah, Hakkoz...”",
         "reference": "Nehemiah 7:63",
-        "explanation": "Nehemiah 7:63 records: 'And of the priests: the children of Hobaiah, the children of Hakkoz, the children of Barzillai, who was married to one of the daughters of Barzillai the Gileadite, and took their name.'."
+        "explanation": "Nehemiah 7:63 records: 'There were also some priests from the clans of Hobaiah, Hakkoz and Barzillai. (Barzillai was a man who had married a daughter of Barzillai, who came from Gilead. So he took Barzillai's name for himself.)'."
       }
     ],
     "8": [
@@ -1075,150 +1072,150 @@
         "questionNumber": 1,
         "question": "According to Nehemiah 8:1, what is the opening statement or setting of this chapter?",
         "options": [
-          "It records: “And when the seventh month came, the children of Israel were in t...”",
+          "It records: “All the people met together in the open place near the Water Gate...”",
           "It begins with a prayer of thanksgiving for deliverance in Nehemiah",
           "It opens with a formal census and counting of the congregation",
           "It records a severe judgment pronounced against neighboring nations"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "It records: “And when the seventh month came, the children of Israel were in t...”",
+        "correctAnswer": "It records: “All the people met together in the open place near the Water Gate...”",
         "reference": "Nehemiah 8:1",
-        "explanation": "The chapter begins directly with the statement: 'And when the seventh month came, the children of Israel were in their towns. And all the people came together like one man into the wide place in front of the water-doorway; and they made a request to Ezra the scribe that he would put before them the book of the law of Moses which the Lord had given to Israel.'."
+        "explanation": "The chapter begins directly with the statement: 'All the people met together in the open place near the Water Gate. They asked Ezra to bring the book of the Law of Moses. The Lord had given those laws to the Israelites so that they would obey them.'."
       },
       {
         "id": "neh-8-q2",
         "questionNumber": 2,
         "question": "What key instruction, event, or declaration is set forth in Nehemiah 8:2?",
         "options": [
-          "“And Ezra took the book, opening it before the...”",
-          "“And Ezra the priest put the law before the meeting of...”",
-          "“And Nehemiah, who was the Tirshatha, and Ezra, the...”",
+          "“Ezra opened the book. All the people could see...”",
+          "“On the first day of the seventh month, Ezra brought the...”",
+          "“Then Ezra (the priest who studied God's Law), Nehemiah...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“And Ezra the priest put the law before the meeting of...”",
+        "correctAnswer": "“On the first day of the seventh month, Ezra brought the...”",
         "reference": "Nehemiah 8:2",
-        "explanation": "Nehemiah 8:2 records: 'And Ezra the priest put the law before the meeting of the people, before the men and women and all those who were able to take it in, on the first day of the seventh month.'."
+        "explanation": "Nehemiah 8:2 records: 'On the first day of the seventh month, Ezra brought the book of the Law to the people. In the crowd, there were men and women, as well as children who were old enough to understand.'."
       },
       {
         "id": "neh-8-q3",
         "questionNumber": 3,
         "question": "What significant action or revelation occurs in Nehemiah 8:3?",
         "options": [
-          "“And Ezra gave praise to the Lord, the great...”",
-          "“Then he said to them, Go away now, and...”",
-          "“He was reading it in the wide place in front of...”",
+          "“Ezra praised the Lord, the great God. All the...”",
+          "“Nehemiah said to the people, ‘Go to your homes...”",
+          "“Ezra read aloud while he stood there, in the open place...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“He was reading it in the wide place in front of...”",
+        "correctAnswer": "“Ezra read aloud while he stood there, in the open place...”",
         "reference": "Nehemiah 8:3",
-        "explanation": "Nehemiah 8:3 records: 'He was reading it in the wide place in front of the water-doorway, from early morning till the middle of the day, in the hearing of all those men and women whose minds were able to take it in; and the ears of all the people were open to the book of the law.'."
+        "explanation": "Nehemiah 8:3 records: 'Ezra read aloud while he stood there, in the open place near the Water Gate. He read to all the men, women and children from dawn until noon. Everyone listened carefully to Ezra while he read the book of the Law.'."
       },
       {
         "id": "neh-8-q4",
         "questionNumber": 4,
         "question": "What truth or description is highlighted in Nehemiah 8:4?",
         "options": [
-          "“And Jeshua and Bani and Sherebiah and Jamin, Akkub,...”",
-          "“So the Levites made all the people quiet, saying,...”",
+          "“As the people listened, some Levites taught them the...”",
+          "“The Levites also comforted the people. They said, ‘Do...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“And Ezra the scribe took his place on a tower of...”"
+          "“Ezra stood on a tall tower to speak to the people....”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“And Ezra the scribe took his place on a tower of...”",
+        "correctAnswer": "“Ezra stood on a tall tower to speak to the people....”",
         "reference": "Nehemiah 8:4",
-        "explanation": "Nehemiah 8:4 records: 'And Ezra the scribe took his place on a tower of wood which they had made for the purpose; and by his side were placed Mattithiah and Shema and Anaiah and Uriah and Hilkiah and Maaseiah on the right; and on the left, Pedaiah and Mishael and Malchijah and Hashum and Hashbaddanah, Zechariah and Meshullam.'."
+        "explanation": "Nehemiah 8:4 records: 'Ezra stood on a tall tower to speak to the people. They had built it from wood so that they could hear him. Mattithiah, Shema, Anaiah, Uriah, Hilkiah and Maaseiah stood at his right side. Pedaiah, Mishael, Malkijah, Hashum, Hashbaddanah, Zechariah and Meshullam stood at his left side.'."
       },
       {
         "id": "neh-8-q5",
         "questionNumber": 5,
         "question": "According to the text, what happened or was commanded in Nehemiah 8:5?",
         "options": [
-          "“And Ezra took the book, opening it before the eyes of...”",
-          "“And they gave out the words of the book...”",
-          "“And all the people went away to take food...”",
+          "“Ezra opened the book. All the people could see him because...”",
+          "“They read the book of the Law and they...”",
+          "“Then the people went away to eat and to...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“And Ezra took the book, opening it before the eyes of...”",
+        "correctAnswer": "“Ezra opened the book. All the people could see him because...”",
         "reference": "Nehemiah 8:5",
-        "explanation": "Nehemiah 8:5 records: 'And Ezra took the book, opening it before the eyes of all the people (for he was higher than the people); and when it was open, all the people got to their feet:'."
+        "explanation": "Nehemiah 8:5 records: 'Ezra opened the book. All the people could see him because he was high above them. When he opened the book, the crowd all stood up.'."
       },
       {
         "id": "neh-8-q6",
         "questionNumber": 6,
         "question": "What central message or instruction is delivered in Nehemiah 8:6?",
         "options": [
-          "“And Nehemiah, who was the Tirshatha, and Ezra, the...”",
-          "“And Ezra gave praise to the Lord, the great God. And...”",
-          "“And on the second day the heads of families...”",
+          "“Then Ezra (the priest who studied God's Law), Nehemiah...”",
+          "“Ezra praised the Lord, the great God. All the people lifted...”",
+          "“On the second day of the seventh month, the...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“And Ezra gave praise to the Lord, the great God. And...”",
+        "correctAnswer": "“Ezra praised the Lord, the great God. All the people lifted...”",
         "reference": "Nehemiah 8:6",
-        "explanation": "Nehemiah 8:6 records: 'And Ezra gave praise to the Lord, the great God. And all the people in answer said, So be it, so be it; lifting up their hands; and with bent heads they gave worship to the Lord, going down on their faces to the earth.'."
+        "explanation": "Nehemiah 8:6 records: 'Ezra praised the Lord, the great God. All the people lifted their hands and they shouted, ‘ Amen! Amen!’ They bent their heads to the ground and they worshipped the Lord.'."
       },
       {
         "id": "neh-8-q7",
         "questionNumber": 7,
         "question": "What detail regarding God's work, covenant, or people is given in Nehemiah 8:7?",
         "options": [
-          "“Then he said to them, Go away now, and...”",
-          "“And they saw that it was recorded in the...”",
-          "“And Jeshua and Bani and Sherebiah and Jamin, Akkub, Shabbethai, Hodiah,...”",
+          "“Nehemiah said to the people, ‘Go to your homes...”",
+          "“They discovered what the Lord had commanded about a...”",
+          "“As the people listened, some Levites taught them the meaning of...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“And Jeshua and Bani and Sherebiah and Jamin, Akkub, Shabbethai, Hodiah,...”",
+        "correctAnswer": "“As the people listened, some Levites taught them the meaning of...”",
         "reference": "Nehemiah 8:7",
-        "explanation": "Nehemiah 8:7 records: 'And Jeshua and Bani and Sherebiah and Jamin, Akkub, Shabbethai, Hodiah, Maaseiah, Kelita, Azariah, Jozabad, Hanan, Pelaiah, and the Levites made the law clear to the people: and the people kept in their places.'."
+        "explanation": "Nehemiah 8:7 records: 'As the people listened, some Levites taught them the meaning of God's Law. The names of the Levites were: Jeshua, Bani, Sherebiah, Jamin, Akkub, Shabbethai, Hodiah, Maaseiah, Kelita, Azariah, Jozabad, Hanan and Pelaiah.'."
       },
       {
         "id": "neh-8-q8",
         "questionNumber": 8,
         "question": "What phrase or account is recorded in Nehemiah 8:8?",
         "options": [
-          "“So the Levites made all the people quiet, saying,...”",
-          "“And that they were to give out an order,...”",
+          "“The Levites also comforted the people. They said, ‘Do...”",
+          "“They discovered that they must send a message to...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“And they gave out the words of the book the law...”"
+          "“They read the book of the Law and they explained it...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“And they gave out the words of the book the law...”",
+        "correctAnswer": "“They read the book of the Law and they explained it...”",
         "reference": "Nehemiah 8:8",
-        "explanation": "Nehemiah 8:8 records: 'And they gave out the words of the book the law of God, clearly, and gave the sense of it, so that their minds were able to take it in.'."
+        "explanation": "Nehemiah 8:8 records: 'They read the book of the Law and they explained it to the people. They helped the people to understand what Ezra read to them.'."
       },
       {
         "id": "neh-8-q9",
         "questionNumber": 9,
         "question": "How does the passage describe the circumstances or people in Nehemiah 8:9?",
         "options": [
-          "“And Nehemiah, who was the Tirshatha, and Ezra, the priest and...”",
-          "“And all the people went away to take food...”",
-          "“And the people went out and got them and...”",
+          "“Then Ezra (the priest who studied God's Law), Nehemiah (the ruler)...”",
+          "“Then the people went away to eat and to...”",
+          "“So the people went out and they brought back...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“And Nehemiah, who was the Tirshatha, and Ezra, the priest and...”",
+        "correctAnswer": "“Then Ezra (the priest who studied God's Law), Nehemiah (the ruler)...”",
         "reference": "Nehemiah 8:9",
-        "explanation": "Nehemiah 8:9 records: 'And Nehemiah, who was the Tirshatha, and Ezra, the priest and scribe, and the Levites who were the teachers of the people, said to all the people, This day is holy to the Lord your God; let there be no sorrow or weeping; for all the people were weeping on hearing the words of the law.'."
+        "explanation": "Nehemiah 8:9 records: 'Then Ezra (the priest who studied God's Law), Nehemiah (the ruler) and the Levites who were teaching the people said to all the people, ‘Do not cry or weep. Today is a special holy day for the Lord your God.’ They said this because the people were weeping. The words of the Law had made them sad.'."
       },
       {
         "id": "neh-8-q10",
         "questionNumber": 10,
         "question": "In the concluding portion of the chapter, what takes place in Nehemiah 8:10?",
         "options": [
-          "“And on the second day the heads of families...”",
-          "“Then he said to them, Go away now, and take the...”",
-          "“All the people who had been prisoners and had...”",
+          "“On the second day of the seventh month, the...”",
+          "“Nehemiah said to the people, ‘Go to your homes and eat...”",
+          "“Everyone who had returned from exile in Babylon built...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“Then he said to them, Go away now, and take the...”",
+        "correctAnswer": "“Nehemiah said to the people, ‘Go to your homes and eat...”",
         "reference": "Nehemiah 8:10",
-        "explanation": "Nehemiah 8:10 records: 'Then he said to them, Go away now, and take the fat for your food and the sweet for your drink, and send some to him for whom nothing is made ready: for this day is holy to our Lord: and let there be no grief in your hearts; for the joy of the Lord is your strong place.'."
+        "explanation": "Nehemiah 8:10 records: 'Nehemiah said to the people, ‘Go to your homes and eat some good food. Drink sweet drinks. Share your food and your drink with people who do not have enough for themselves. This is a holy day for our Lord, so do not be sad. The Lord will give you joy so that you can be strong.’'."
       }
     ],
     "9": [
@@ -1227,150 +1224,150 @@
         "questionNumber": 1,
         "question": "According to Nehemiah 9:1, what is the opening statement or setting of this chapter?",
         "options": [
-          "It records: “Now on the twenty-fourth day of this month the children of Israel...”",
+          "It records: “On the 24th day of the same month, the Israelite people met toget...”",
           "It begins with a prayer of thanksgiving for deliverance in Nehemiah",
           "It opens with a formal census and counting of the congregation",
           "It records a severe judgment pronounced against neighboring nations"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "It records: “Now on the twenty-fourth day of this month the children of Israel...”",
+        "correctAnswer": "It records: “On the 24th day of the same month, the Israelite people met toget...”",
         "reference": "Nehemiah 9:1",
-        "explanation": "The chapter begins directly with the statement: 'Now on the twenty-fourth day of this month the children of Israel came together, taking no food and putting haircloth and dust on their bodies.'."
+        "explanation": "The chapter begins directly with the statement: 'On the 24th day of the same month, the Israelite people met together. They did not eat or drink. They wore sackcloth and they put dust on their heads.'."
       },
       {
         "id": "neh-9-q2",
         "questionNumber": 2,
         "question": "What key instruction, event, or declaration is set forth in Nehemiah 9:3?",
         "options": [
-          "“You are the Lord, even you only; you have...”",
-          "“And for a fourth part of the day, upright in their...”",
-          "“And you did signs and wonders on Pharaoh and...”",
+          "“Only you are the Lord. You made the sky...”",
+          "“While the Israelites stood there, they read from the book of...”",
+          "“You did great miracles to show your power against...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“And for a fourth part of the day, upright in their...”",
+        "correctAnswer": "“While the Israelites stood there, they read from the book of...”",
         "reference": "Nehemiah 9:3",
-        "explanation": "Nehemiah 9:3 records: 'And for a fourth part of the day, upright in their places, they were reading from the book of the law of their God; and for a fourth part of the day they were requesting forgiveness and worshipping the Lord their God.'."
+        "explanation": "Nehemiah 9:3 records: 'While the Israelites stood there, they read from the book of God's Law during a quarter of the day. During another quarter of the day they told the Lord their God about their sins and they worshipped him.'."
       },
       {
         "id": "neh-9-q3",
         "questionNumber": 3,
         "question": "What significant action or revelation occurs in Nehemiah 9:6?",
         "options": [
-          "“And you saw the trouble of our fathers in...”",
-          "“And you came down on Mount Sinai, and your...”",
-          "“You are the Lord, even you only; you have made heaven,...”",
+          "“You saw that our ancestors suffered very much in...”",
+          "“At Mount Sinai, you came down from heaven and...”",
+          "“Only you are the Lord. You made the sky and the...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“You are the Lord, even you only; you have made heaven,...”",
+        "correctAnswer": "“Only you are the Lord. You made the sky and the...”",
         "reference": "Nehemiah 9:6",
-        "explanation": "Nehemiah 9:6 records: 'You are the Lord, even you only; you have made heaven, the heaven of heavens with all their armies, the earth and all things in it, the seas and everything in them; and you keep them from destruction: and the armies of heaven are your worshippers.'."
+        "explanation": "Nehemiah 9:6 records: 'Only you are the Lord. You made the sky and the heavens above the sky. You made all the stars, the earth and everything on it. You made the seas and everything in them. You give life to everything. The great crowd of angels in heaven bend down low to worship you.'."
       },
       {
         "id": "neh-9-q4",
         "questionNumber": 4,
         "question": "What truth or description is highlighted in Nehemiah 9:9?",
         "options": [
-          "“And you went before them by day in a...”",
-          "“But they and our fathers, in their pride, made...”",
+          "“During the day, you led your people with a...”",
+          "“But our ancestors turned away from you. They would...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“And you saw the trouble of our fathers in Egypt, and...”"
+          "“You saw that our ancestors suffered very much in Egypt. You...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“And you saw the trouble of our fathers in Egypt, and...”",
+        "correctAnswer": "“You saw that our ancestors suffered very much in Egypt. You...”",
         "reference": "Nehemiah 9:9",
-        "explanation": "Nehemiah 9:9 records: 'And you saw the trouble of our fathers in Egypt, and their cry came to your ears by the Red Sea;'."
+        "explanation": "Nehemiah 9:9 records: 'You saw that our ancestors suffered very much in Egypt. You heard them cry to you for help at the Red Sea.'."
       },
       {
         "id": "neh-9-q5",
         "questionNumber": 5,
         "question": "According to the text, what happened or was commanded in Nehemiah 9:12?",
         "options": [
-          "“And you went before them by day in a pillar of...”",
-          "“And you gave them bread from heaven when they...”",
-          "“Even then, in your great mercy, you did not...”",
+          "“During the day, you led your people with a pillar of...”",
+          "“You gave your people bread from heaven when they...”",
+          "“You were kind to them while they travelled in...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“And you went before them by day in a pillar of...”",
+        "correctAnswer": "“During the day, you led your people with a pillar of...”",
         "reference": "Nehemiah 9:12",
-        "explanation": "Nehemiah 9:12 records: 'And you went before them by day in a pillar of cloud, and in a pillar of fire by night, to give them light on the way they were to go.'."
+        "explanation": "Nehemiah 9:12 records: 'During the day, you led your people with a pillar of cloud. At night, you led them with a pillar of fire to give them light. You showed them the way that they should travel.'."
       },
       {
         "id": "neh-9-q6",
         "questionNumber": 6,
         "question": "What central message or instruction is delivered in Nehemiah 9:15?",
         "options": [
-          "“Even when they had made for themselves an ox...”",
-          "“And you gave them bread from heaven when they were in...”",
-          "“And you gave them kingdoms and peoples, making distribution...”",
+          "“Our ancestors made an image of a calf to...”",
+          "“You gave your people bread from heaven when they were hungry....”",
+          "“You gave kingdoms and nations to your people. The...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“And you gave them bread from heaven when they were in...”",
+        "correctAnswer": "“You gave your people bread from heaven when they were hungry....”",
         "reference": "Nehemiah 9:15",
-        "explanation": "Nehemiah 9:15 records: 'And you gave them bread from heaven when they were in need, and made water come out of the rock for their drink, and gave them orders to go in and take for their heritage the land which your hand had been lifted up to give them.'."
+        "explanation": "Nehemiah 9:15 records: 'You gave your people bread from heaven when they were hungry. You gave them water from a rock to drink when they were thirsty. You commanded them to go to the land that you had promised to give them. You told them to take it for themselves.'."
       },
       {
         "id": "neh-9-q7",
         "questionNumber": 7,
         "question": "What detail regarding God's work, covenant, or people is given in Nehemiah 9:18?",
         "options": [
-          "“Truly, for forty years you were their support in...”",
-          "“And they took walled towns and a fat land,...”",
-          "“Even when they had made for themselves an ox of metal,...”",
+          "“During 40 years you took care of them in...”",
+          "“They took their strong cities and their good land...”",
+          "“Our ancestors made an image of a calf to be their...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“Even when they had made for themselves an ox of metal,...”",
+        "correctAnswer": "“Our ancestors made an image of a calf to be their...”",
         "reference": "Nehemiah 9:18",
-        "explanation": "Nehemiah 9:18 records: 'Even when they had made for themselves an ox of metal, and said, This is your God who took you up out of Egypt, and had done so much to make you angry;'."
+        "explanation": "Nehemiah 9:18 records: 'Our ancestors made an image of a calf to be their god. They said to each other, “This is our god who brought us out of Egypt.” They insulted you in that way, but you still did not turn away from your people.'."
       },
       {
         "id": "neh-9-q8",
         "questionNumber": 8,
         "question": "What phrase or account is recorded in Nehemiah 9:21?",
         "options": [
-          "“So the children went in and took the land,...”",
-          "“But when they had rest, they did evil again...”",
+          "“Their descendants went there and they took the land...”",
+          "“But when your people were living safely again, they...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“Truly, for forty years you were their support in the waste...”"
+          "“During 40 years you took care of them in the desert....”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“Truly, for forty years you were their support in the waste...”",
+        "correctAnswer": "“During 40 years you took care of them in the desert....”",
         "reference": "Nehemiah 9:21",
-        "explanation": "Nehemiah 9:21 records: 'Truly, for forty years you were their support in the waste land, and they were in need of nothing; their clothing did not get old or their feet become tired.'."
+        "explanation": "Nehemiah 9:21 records: 'During 40 years you took care of them in the desert. Their clothes did not spoil. Their feet did not become big with pain.'."
       },
       {
         "id": "neh-9-q9",
         "questionNumber": 9,
         "question": "How does the passage describe the circumstances or people in Nehemiah 9:24?",
         "options": [
-          "“So the children went in and took the land, and you...”",
-          "“And so you gave them up into the hands...”",
-          "“Even then, in your great mercy, you did not...”",
+          "“Their descendants went there and they took the land for themselves....”",
+          "“So you put them under the power of their...”",
+          "“But because you are very kind, you did not...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“So the children went in and took the land, and you...”",
+        "correctAnswer": "“Their descendants went there and they took the land for themselves....”",
         "reference": "Nehemiah 9:24",
-        "explanation": "Nehemiah 9:24 records: 'So the children went in and took the land, and you overcame before them the people of the land, the Canaanites, and gave them up into their hands, with their kings and the people of the land, so that they might do with them whatever it was their pleasure to do.'."
+        "explanation": "Nehemiah 9:24 records: 'Their descendants went there and they took the land for themselves. You gave them power over the Canaanites and the other kings and nations who lived there. They could do whatever they wanted with those people.'."
       },
       {
         "id": "neh-9-q10",
         "questionNumber": 10,
         "question": "In the concluding portion of the chapter, what takes place in Nehemiah 9:27?",
         "options": [
-          "“Year after year you put up with them, and...”",
-          "“And so you gave them up into the hands of their...”",
-          "“And our kings, our rulers, our priests, and our...”",
+          "“You continued to help your people for many years....”",
+          "“So you put them under the power of their enemies. And...”",
+          "“Our kings, our leaders, our priests and our ancestors...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“And so you gave them up into the hands of their...”",
+        "correctAnswer": "“So you put them under the power of their enemies. And...”",
         "reference": "Nehemiah 9:27",
-        "explanation": "Nehemiah 9:27 records: 'And so you gave them up into the hands of their haters who were cruel to them: and in the time of their trouble, when they made their prayer to you, you gave ear to them from heaven; and in your great mercy gave them saviours, who made them free from the hands of their haters.'."
+        "explanation": "Nehemiah 9:27 records: 'So you put them under the power of their enemies. And their enemies were cruel to them. Then your people called to you for help because they were in trouble. You heard them from your home in heaven. Because you are so kind, you gave them strong leaders. And those leaders saved them from their enemies.'."
       }
     ],
     "10": [
@@ -1379,15 +1376,15 @@
         "questionNumber": 1,
         "question": "According to Nehemiah 10:1, what is the opening statement or setting of this chapter?",
         "options": [
-          "It records: “Now those who put down their names were Nehemiah the Tirshatha, t...”",
+          "It records: “These people put their mark of authority on the agreement that th...”",
           "It begins with a prayer of thanksgiving for deliverance in Nehemiah",
           "It opens with a formal census and counting of the congregation",
           "It records a severe judgment pronounced against neighboring nations"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "It records: “Now those who put down their names were Nehemiah the Tirshatha, t...”",
+        "correctAnswer": "It records: “These people put their mark of authority on the agreement that th...”",
         "reference": "Nehemiah 10:1",
-        "explanation": "The chapter begins directly with the statement: 'Now those who put down their names were Nehemiah the Tirshatha, the son of Hacaliah, and Zedekiah,'."
+        "explanation": "The chapter begins directly with the statement: 'These people put their mark of authority on the agreement that they had written: Hacaliah's son, Nehemiah (the government officer), and Zedekiah.'."
       },
       {
         "id": "neh-10-q2",
@@ -1395,22 +1392,22 @@
         "question": "What key instruction, event, or declaration is set forth in Nehemiah 10:3?",
         "options": [
           "“Daniel, Ginnethon, Baruch,”",
-          "“Pashhur, Amariah, Malchijah,”",
-          "“And their brothers, Shebaniah, Hodiah, Kelita, Pelaiah, Hanan,”",
+          "“Pashhur, Amariah, Malkijah,”",
+          "“Their relatives were: Shebaniah, Hodiah, Kelita, Pelaiah, Hanan,”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“Pashhur, Amariah, Malchijah,”",
+        "correctAnswer": "“Pashhur, Amariah, Malkijah,”",
         "reference": "Nehemiah 10:3",
-        "explanation": "Nehemiah 10:3 records: 'Pashhur, Amariah, Malchijah,'."
+        "explanation": "Nehemiah 10:3 records: 'Pashhur, Amariah, Malkijah,'."
       },
       {
         "id": "neh-10-q3",
         "questionNumber": 3,
         "question": "What significant action or revelation occurs in Nehemiah 10:6?",
         "options": [
-          "“And the Levites: by name, Jeshua, the son of...”",
-          "“Hodiah, Bani, Beninu.”",
+          "“The Levites were: Azaniah's son, Jeshua, Binnui from the...”",
+          "“Hodiah, Bani and Beninu.”",
           "“Daniel, Ginnethon, Baruch,”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
@@ -1427,12 +1424,12 @@
           "“Zaccur, Sherebiah, Shebaniah,”",
           "“Adonijah, Bigvai, Adin,”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“And the Levites: by name, Jeshua, the son of Azaniah, Binnui,...”"
+          "“The Levites were: Azaniah's son, Jeshua, Binnui from the clan of...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“And the Levites: by name, Jeshua, the son of Azaniah, Binnui,...”",
+        "correctAnswer": "“The Levites were: Azaniah's son, Jeshua, Binnui from the clan of...”",
         "reference": "Nehemiah 10:9",
-        "explanation": "Nehemiah 10:9 records: 'And the Levites: by name, Jeshua, the son of Azaniah, Binnui, of the sons of Henadad, Kadmiel,'."
+        "explanation": "Nehemiah 10:9 records: 'The Levites were: Azaniah's son, Jeshua, Binnui from the clan of Henadad, Kadmiel.'."
       },
       {
         "id": "neh-10-q5",
@@ -1441,7 +1438,7 @@
         "options": [
           "“Zaccur, Sherebiah, Shebaniah,”",
           "“Bunni, Azgad, Bebai,”",
-          "“Hariph, Anathoth, Nobai,”",
+          "“Hariph, Anathoth, Nebai,”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
@@ -1485,7 +1482,7 @@
         "question": "What phrase or account is recorded in Nehemiah 10:21?",
         "options": [
           "“Hallohesh, Pilha, Shobek,”",
-          "“And the rest of the people, the priests, the...”",
+          "“The other people joined their leaders to make the...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
           "“Meshezabel, Zadok, Jaddua,”"
         ],
@@ -1500,8 +1497,8 @@
         "question": "How does the passage describe the circumstances or people in Nehemiah 10:24?",
         "options": [
           "“Hallohesh, Pilha, Shobek,”",
-          "“Malluch, Harim, Baanah.”",
-          "“And if the peoples of the lands come to...”",
+          "“Malluch, Harim and Baanah. 28 The other people joined...”",
+          "“If foreign traders come to us on a Sabbath...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
@@ -1514,15 +1511,15 @@
         "questionNumber": 10,
         "question": "In the concluding portion of the chapter, what takes place in Nehemiah 10:27?",
         "options": [
-          "“And that we would not give our daughters to...”",
-          "“Malluch, Harim, Baanah.”",
-          "“And we, the priests and the Levites and the...”",
+          "“They said, ‘We promise not to let our daughters...”",
+          "“Malluch, Harim and Baanah. 28 The other people joined their leaders...”",
+          "“Each year we will throw dice to decide when...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“Malluch, Harim, Baanah.”",
+        "correctAnswer": "“Malluch, Harim and Baanah. 28 The other people joined their leaders...”",
         "reference": "Nehemiah 10:27",
-        "explanation": "Nehemiah 10:27 records: 'Malluch, Harim, Baanah.'."
+        "explanation": "Nehemiah 10:27 records: 'Malluch, Harim and Baanah. 28 The other people joined their leaders to make the same promise. They were priests, Levites, guards, singers and temple servants. There were also people who had kept themselves separate from their foreign neighbours so that they could obey God's Law. Their wives, sons and daughters also joined with them, as well as children who were old enough to understand. 29 All these people joined with their leaders and they promised to obey the agreement. They agreed that God should punish them if they did not obey all of God's Law. That was the Law that God had given to his servant Moses. They promised very strongly to obey all the commands, rules and laws of the Lord, our Lord. 30 They said, ‘We promise not to let our daughters marry the foreign people of this land. We will not let our sons marry their daughters. 31 If foreign traders come to us on a Sabbath day, we will not buy their things. We will not buy their things on Sabbath days or on any special feast day. Every seventh year we will not plant any crops. We will also remove the debts of other people in every seventh year. They will not have to pay us back. 32 We will obey the command to give a third of a shekel each year to take care of the temple of our God. 33 That will pay for the special bread on the table in the temple. It will also pay for grain offerings and burnt offerings each day, as well as offerings on Sabbath days, feasts at each new moon, and other festivals. We will also use it for the sin offerings that take away Israel's guilt. And we will use it for all the work in the temple of our God.10:32 34 Each year we will throw dice to decide when different families must bring wood to the temple of our God. The priests, the Levites and the other people must do this. The wood will burn sacrifices on the altar of the Lord our God. We will do this in the way that the Law of the Lord our God teaches. 35 We will also agree to bring the first crops from our land each year and the first fruits from our trees. We will bring these to the Lord's temple. 36 We will also bring our firstborn sons, as well as the first babies that our cows, sheep and goats give birth to. We will bring them to the priests who serve our God in the temple. That is what God's Law teaches us to do. 37 We will also bring the first of everything that is ready for us to eat. That includes flour, fruit, wine, olive oil and other special offerings. We will bring them all to the priests and they will store them in the rooms of the temple. We will give tithes of the crops that grow on our land to the Levites. They receive the tithes that belong to them in each of the towns where we work. 38 When the Levites receive their tithes, a priest of Aaron's family will be with them. Then the Levites will bring a tenth part of the tithes that they received to store in the temple. 39 The Levites and the other Israelites will bring their gifts of grain, wine and olive oil to store in the temple's rooms. The priests will store them with the things that they use to serve God in the temple. That is the place where the priests who are working at that time, the temple guards and the singers stay.We agree that we will always take care of the temple of our God.’'."
       }
     ],
     "11": [
@@ -1531,150 +1528,150 @@
         "questionNumber": 1,
         "question": "According to Nehemiah 11:1, what is the opening statement or setting of this chapter?",
         "options": [
-          "It records: “And the rulers of the people were living in Jerusalem: the rest o...”",
+          "It records: “The leaders of the Israelite people lived in Jerusalem. The other...”",
           "It begins with a prayer of thanksgiving for deliverance in Nehemiah",
           "It opens with a formal census and counting of the congregation",
           "It records a severe judgment pronounced against neighboring nations"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "It records: “And the rulers of the people were living in Jerusalem: the rest o...”",
+        "correctAnswer": "It records: “The leaders of the Israelite people lived in Jerusalem. The other...”",
         "reference": "Nehemiah 11:1",
-        "explanation": "The chapter begins directly with the statement: 'And the rulers of the people were living in Jerusalem: the rest of the people made selection, by the decision of chance, of one out of every ten to be living in Jerusalem, the holy town; the other nine to go to the other towns.'."
+        "explanation": "The chapter begins directly with the statement: 'The leaders of the Israelite people lived in Jerusalem. The other people threw lots to choose which other families would live there too. From every group of ten families they chose one family to live in Jerusalem, God's special city. The other families would stay in their own towns.'."
       },
       {
         "id": "neh-11-q2",
         "questionNumber": 2,
         "question": "What key instruction, event, or declaration is set forth in Nehemiah 11:3?",
         "options": [
-          "“All the sons of Perez living in Jerusalem were...”",
-          "“Now these are the chiefs of the divisions of the country...”",
-          "“Of the priests: Jedaiah, the son of Joiarib, Jachin,”",
+          "“There were 468 descendants of Perez who went to...”",
+          "“These are the leaders of the region of Judah who went...”",
+          "“From the priests: Joiarib's son, Jedaiah, and Jakin.”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“Now these are the chiefs of the divisions of the country...”",
+        "correctAnswer": "“These are the leaders of the region of Judah who went...”",
         "reference": "Nehemiah 11:3",
-        "explanation": "Nehemiah 11:3 records: 'Now these are the chiefs of the divisions of the country who were living in Jerusalem: but in the towns of Judah everyone was living on his heritage in the towns, that is, Israel, the priests, the Levites, the Nethinim, and the children of Solomon's servants.'."
+        "explanation": "Nehemiah 11:3 records: 'These are the leaders of the region of Judah who went to live in Jerusalem. Other Israelites, priests, Levites, temple servants and descendants of King Solomon's servants lived in the other towns of Judah. Each of them lived in their own homes.'."
       },
       {
         "id": "neh-11-q3",
         "questionNumber": 3,
         "question": "What significant action or revelation occurs in Nehemiah 11:6?",
         "options": [
-          "“And Joel, the son of Zichri, was their overseer;...”",
-          "“And his brothers, heads of families, two hundred and...”",
-          "“All the sons of Perez living in Jerusalem were four hundred...”",
+          "“Zicri's son, Joel, was the officer with authority over...”",
+          "“His relatives were with him. There were 242 men...”",
+          "“There were 468 descendants of Perez who went to live in...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“All the sons of Perez living in Jerusalem were four hundred...”",
+        "correctAnswer": "“There were 468 descendants of Perez who went to live in...”",
         "reference": "Nehemiah 11:6",
-        "explanation": "Nehemiah 11:6 records: 'All the sons of Perez living in Jerusalem were four hundred and sixty-eight men of good position.'."
+        "explanation": "Nehemiah 11:6 records: 'There were 468 descendants of Perez who went to live in Jerusalem. They were all brave men.'."
       },
       {
         "id": "neh-11-q4",
         "questionNumber": 4,
         "question": "What truth or description is highlighted in Nehemiah 11:9?",
         "options": [
-          "“And their brothers who did the work of the...”",
-          "“And Shabbethai and Jozabad, of the chiefs of the...”",
+          "“Their relatives worked with them in the temple. There...”",
+          "“Shabbethai and Jozabad were leaders of the Levites who...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“And Joel, the son of Zichri, was their overseer; and Judah,...”"
+          "“Zicri's son, Joel, was the officer with authority over them. Hassenuah's...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“And Joel, the son of Zichri, was their overseer; and Judah,...”",
+        "correctAnswer": "“Zicri's son, Joel, was the officer with authority over them. Hassenuah's...”",
         "reference": "Nehemiah 11:9",
-        "explanation": "Nehemiah 11:9 records: 'And Joel, the son of Zichri, was their overseer; and Judah, the son of Hassenuah, was second over the town.'."
+        "explanation": "Nehemiah 11:9 records: 'Zicri's son, Joel, was the officer with authority over them. Hassenuah's son, Judah, was the next most important officer in the city.'."
       },
       {
         "id": "neh-11-q5",
         "questionNumber": 5,
         "question": "According to the text, what happened or was commanded in Nehemiah 11:12?",
         "options": [
-          "“And their brothers who did the work of the house, eight...”",
-          "“And of the Levites: Shemaiah, the son of Hasshub,...”",
-          "“In addition the door-keepers, Akkub, Talmon, and their brothers...”",
+          "“Their relatives worked with them in the temple. There were 822...”",
+          "“From the Levites: Shemaiah, son of Hasshub and Azrikam's...”",
+          "“The temple guards were: Akkub, Talmon and their relatives....”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“And their brothers who did the work of the house, eight...”",
+        "correctAnswer": "“Their relatives worked with them in the temple. There were 822...”",
         "reference": "Nehemiah 11:12",
-        "explanation": "Nehemiah 11:12 records: 'And their brothers who did the work of the house, eight hundred and twenty-two; and Adaiah, the son of Jeroham, the son of Pelaliah, the son of Amzi, the son of Zechariah, the son of Pashhur, the son of Malchijah,'."
+        "explanation": "Nehemiah 11:12 records: 'Their relatives worked with them in the temple. There were 822 men from that clan. Adaiah, son of Jeroham and Pelaliah's grandson. His other ancestors were: Amzi, Zechariah, Pashhur and Malkijah.'."
       },
       {
         "id": "neh-11-q6",
         "questionNumber": 6,
         "question": "What central message or instruction is delivered in Nehemiah 11:15?",
         "options": [
-          "“All the Levites in the holy town were two...”",
-          "“And of the Levites: Shemaiah, the son of Hasshub, the son...”",
-          "“And the overseer of the Levites at Jerusalem was...”",
+          "“284 Levites lived in the holy city, Jerusalem.”",
+          "“From the Levites: Shemaiah, son of Hasshub and Azrikam's grandson. Azrikam...”",
+          "“Uzzi was the leader of the Levites in Jerusalem....”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“And of the Levites: Shemaiah, the son of Hasshub, the son...”",
+        "correctAnswer": "“From the Levites: Shemaiah, son of Hasshub and Azrikam's grandson. Azrikam...”",
         "reference": "Nehemiah 11:15",
-        "explanation": "Nehemiah 11:15 records: 'And of the Levites: Shemaiah, the son of Hasshub, the son of Azrikam, the son of Hashabiah, the son of Bunni,'."
+        "explanation": "Nehemiah 11:15 records: 'From the Levites: Shemaiah, son of Hasshub and Azrikam's grandson. Azrikam was the son of Hashabiah, son of Bunni.'."
       },
       {
         "id": "neh-11-q7",
         "questionNumber": 7,
         "question": "What detail regarding God's work, covenant, or people is given in Nehemiah 11:18?",
         "options": [
-          "“But the Nethinim were living in the Ophel; and...”",
-          "“And for the daughter-towns with their fields, some of...”",
-          "“All the Levites in the holy town were two hundred and eighty-four.”",
+          "“The temple servants lived on Ophel Hill. Ziha and...”",
+          "“Many people of Judah lived in villages with their...”",
+          "“284 Levites lived in the holy city, Jerusalem.”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“All the Levites in the holy town were two hundred and eighty-four.”",
+        "correctAnswer": "“284 Levites lived in the holy city, Jerusalem.”",
         "reference": "Nehemiah 11:18",
-        "explanation": "Nehemiah 11:18 records: 'All the Levites in the holy town were two hundred and eighty-four.'."
+        "explanation": "Nehemiah 11:18 records: '284 Levites lived in the holy city, Jerusalem.'."
       },
       {
         "id": "neh-11-q8",
         "questionNumber": 8,
         "question": "What phrase or account is recorded in Nehemiah 11:21?",
         "options": [
-          "“And Pethahiah, the son of Meshezabel, of the sons...”",
-          "“And in Ziklag, and in Meconah and its daughter-towns,”",
+          "“Meshezabel's son, Pethahiah, was one of the king's advisors....”",
+          "“Other people lived in Ziklag and Meconah and the...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“But the Nethinim were living in the Ophel; and Ziha and...”"
+          "“The temple servants lived on Ophel Hill. Ziha and Gishpa had...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“But the Nethinim were living in the Ophel; and Ziha and...”",
+        "correctAnswer": "“The temple servants lived on Ophel Hill. Ziha and Gishpa had...”",
         "reference": "Nehemiah 11:21",
-        "explanation": "Nehemiah 11:21 records: 'But the Nethinim were living in the Ophel; and Ziha and Gishpa were over the Nethinim.'."
+        "explanation": "Nehemiah 11:21 records: 'The temple servants lived on Ophel Hill. Ziha and Gishpa had authority over them.'."
       },
       {
         "id": "neh-11-q9",
         "questionNumber": 9,
         "question": "How does the passage describe the circumstances or people in Nehemiah 11:24?",
         "options": [
-          "“And Pethahiah, the son of Meshezabel, of the sons of Zerah,...”",
-          "“And in Hazar-shual, and in Beer-sheba and its daughter-towns,”",
-          "“And the children of Benjamin were living from Geba,...”",
+          "“Meshezabel's son, Pethahiah, was one of the king's advisors. He helped...”",
+          "“and Hazar-Shual, as well as in Beersheba and the...”",
+          "“Some of Benjamin's descendants lived in Geba, Michmash, Aija,...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“And Pethahiah, the son of Meshezabel, of the sons of Zerah,...”",
+        "correctAnswer": "“Meshezabel's son, Pethahiah, was one of the king's advisors. He helped...”",
         "reference": "Nehemiah 11:24",
-        "explanation": "Nehemiah 11:24 records: 'And Pethahiah, the son of Meshezabel, of the sons of Zerah, the son of Judah, was the king's servant in everything to do with the people.'."
+        "explanation": "Nehemiah 11:24 records: 'Meshezabel's son, Pethahiah, was one of the king's advisors. He helped the king of Persia to know how to rule the Israelite people. Pethahiah was a descendant of Judah's son, Zerah.'."
       },
       {
         "id": "neh-11-q10",
         "questionNumber": 10,
         "question": "In the concluding portion of the chapter, what takes place in Nehemiah 11:27?",
         "options": [
-          "“Zanoah, Adullam and their daughter-towns, Lachish and its fields,...”",
-          "“And in Hazar-shual, and in Beer-sheba and its daughter-towns,”",
-          "“Hadid, Zeboim, Neballat,”",
+          "“Zanoah and Adullam and the villages near to those...”",
+          "“and Hazar-Shual, as well as in Beersheba and the villages near it.”",
+          "“They also lived in Hadid, Zeboim Neballat,”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“And in Hazar-shual, and in Beer-sheba and its daughter-towns,”",
+        "correctAnswer": "“and Hazar-Shual, as well as in Beersheba and the villages near it.”",
         "reference": "Nehemiah 11:27",
-        "explanation": "Nehemiah 11:27 records: 'And in Hazar-shual, and in Beer-sheba and its daughter-towns,'."
+        "explanation": "Nehemiah 11:27 records: 'and Hazar-Shual, as well as in Beersheba and the villages near it.'."
       }
     ],
     "12": [
@@ -1683,150 +1680,150 @@
         "questionNumber": 1,
         "question": "According to Nehemiah 12:1, what is the opening statement or setting of this chapter?",
         "options": [
-          "It records: “Now these are the priests and the Levites who went up with Zerubb...”",
+          "It records: “This is a list of the priests and the Levites who returned with Z...”",
           "It begins with a prayer of thanksgiving for deliverance in Nehemiah",
           "It opens with a formal census and counting of the congregation",
           "It records a severe judgment pronounced against neighboring nations"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "It records: “Now these are the priests and the Levites who went up with Zerubb...”",
+        "correctAnswer": "It records: “This is a list of the priests and the Levites who returned with Z...”",
         "reference": "Nehemiah 12:1",
-        "explanation": "The chapter begins directly with the statement: 'Now these are the priests and the Levites who went up with Zerubbabel, the son of Shealtiel, and Jeshua: Seraiah, Jeremiah, Ezra,'."
+        "explanation": "The chapter begins directly with the statement: 'This is a list of the priests and the Levites who returned with Zerubbabel, son of Shealtiel, and with Jeshua: Seraiah, Jeremiah, Ezra,'."
       },
       {
         "id": "neh-12-q2",
         "questionNumber": 2,
         "question": "What key instruction, event, or declaration is set forth in Nehemiah 12:4?",
         "options": [
-          "“Sallu, Amok, Hilkiah, Jedaiah. These were the chiefs of...”",
-          "“Iddo, Ginnethoi, Abijah,”",
-          "“And Joiada was the father of Jonathan, and Jonathan...”",
+          "“Sallu, Amok, Hilkiah and Jedaiah. These men were the...”",
+          "“Iddo, Ginnethon, Abijah,”",
+          "“Joiada was the father of Jonathan, and Jonathan was...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“Iddo, Ginnethoi, Abijah,”",
+        "correctAnswer": "“Iddo, Ginnethon, Abijah,”",
         "reference": "Nehemiah 12:4",
-        "explanation": "Nehemiah 12:4 records: 'Iddo, Ginnethoi, Abijah,'."
+        "explanation": "Nehemiah 12:4 records: 'Iddo, Ginnethon, Abijah,'."
       },
       {
         "id": "neh-12-q3",
         "questionNumber": 3,
         "question": "What significant action or revelation occurs in Nehemiah 12:8?",
         "options": [
-          "“And Joiada was the father of Jonathan, and Jonathan...”",
-          "“Of Harim, Adna; of Meraioth, Helkai;”",
-          "“And the Levites: Jeshua, Binnui, Kadmiel, Sherebiah, Judah, and Mattaniah, who...”",
+          "“Joiada was the father of Jonathan, and Jonathan was...”",
+          "“Adna was the leader of Harim's clan. Helkai was...”",
+          "“The Levites were: Jeshua, Binnui, Kadmiel, Sherebiah, Judah and Mattaniah. Mattaniah...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“And the Levites: Jeshua, Binnui, Kadmiel, Sherebiah, Judah, and Mattaniah, who...”",
+        "correctAnswer": "“The Levites were: Jeshua, Binnui, Kadmiel, Sherebiah, Judah and Mattaniah. Mattaniah...”",
         "reference": "Nehemiah 12:8",
-        "explanation": "Nehemiah 12:8 records: 'And the Levites: Jeshua, Binnui, Kadmiel, Sherebiah, Judah, and Mattaniah, who was over the music-makers, he and his brothers.'."
+        "explanation": "Nehemiah 12:8 records: 'The Levites were: Jeshua, Binnui, Kadmiel, Sherebiah, Judah and Mattaniah. Mattaniah and his relatives had authority for the songs which they sang to thank God in the temple.'."
       },
       {
         "id": "neh-12-q4",
         "questionNumber": 4,
         "question": "What truth or description is highlighted in Nehemiah 12:12?",
         "options": [
-          "“Of Harim, Adna; of Meraioth, Helkai;”",
-          "“And of Joiarib, Mattenai; of Jedaiah, Uzzi;”",
+          "“Adna was the leader of Harim's clan. Helkai was...”",
+          "“Mattenai was the leader of Joiarib's clan. Uzzi was...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“And in the days of Joiakim there were priests, heads of...”"
+          "“In the time of Joiakim, these were the priests who were...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“And in the days of Joiakim there were priests, heads of...”",
+        "correctAnswer": "“In the time of Joiakim, these were the priests who were...”",
         "reference": "Nehemiah 12:12",
-        "explanation": "Nehemiah 12:12 records: 'And in the days of Joiakim there were priests, heads of families: of Seraiah, Meraiah; of Jeremiah, Hananiah;'."
+        "explanation": "Nehemiah 12:12 records: 'In the time of Joiakim, these were the priests who were leaders of their clans: Meraiah was the leader of Seraiah's clan. Hananiah was the leader of Jeremiah's clan.'."
       },
       {
         "id": "neh-12-q5",
         "questionNumber": 5,
         "question": "According to the text, what happened or was commanded in Nehemiah 12:16?",
         "options": [
-          "“Of Iddo, Zechariah; of Ginnethon, Meshullam;”",
-          "“And of Joiarib, Mattenai; of Jedaiah, Uzzi;”",
-          "“The sons of Levi, heads of families, were recorded...”",
+          "“Zechariah was the leader of Iddo's clan. Meshullam was the leader...”",
+          "“Mattenai was the leader of Joiarib's clan. Uzzi was...”",
+          "“They wrote the names of Levi's descendants who were...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“Of Iddo, Zechariah; of Ginnethon, Meshullam;”",
+        "correctAnswer": "“Zechariah was the leader of Iddo's clan. Meshullam was the leader...”",
         "reference": "Nehemiah 12:16",
-        "explanation": "Nehemiah 12:16 records: 'Of Iddo, Zechariah; of Ginnethon, Meshullam;'."
+        "explanation": "Nehemiah 12:16 records: 'Zechariah was the leader of Iddo's clan. Meshullam was the leader of Ginnethon's clan.'."
       },
       {
         "id": "neh-12-q6",
         "questionNumber": 6,
         "question": "What central message or instruction is delivered in Nehemiah 12:20?",
         "options": [
-          "“The sons of Levi, heads of families, were recorded...”",
-          "“Of Sallai, Kallai; of Amok, Eber;”",
-          "“And when the time came for the wall of...”",
+          "“They wrote the names of Levi's descendants who were...”",
+          "“Kallai was the leader of Sallu's clan. Eber was the leader...”",
+          "“This is what happened when we dedicated the wall...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“Of Sallai, Kallai; of Amok, Eber;”",
+        "correctAnswer": "“Kallai was the leader of Sallu's clan. Eber was the leader...”",
         "reference": "Nehemiah 12:20",
-        "explanation": "Nehemiah 12:20 records: 'Of Sallai, Kallai; of Amok, Eber;'."
+        "explanation": "Nehemiah 12:20 records: 'Kallai was the leader of Sallu's clan. Eber was the leader of Amok's clan.'."
       },
       {
         "id": "neh-12-q7",
         "questionNumber": 7,
         "question": "What detail regarding God's work, covenant, or people is given in Nehemiah 12:24?",
         "options": [
-          "“And when the time came for the wall of...”",
-          "“Then I made the rulers of Judah come up...”",
-          "“And the chiefs of the Levites: Hashabiah, Sherebiah, and Jeshua, the...”",
+          "“This is what happened when we dedicated the wall...”",
+          "“I took the leaders of Judah to go and...”",
+          "“The leaders of the Levites were: Hashabiah, Sherebiah, Kadmiel's son, Jeshua,...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“And the chiefs of the Levites: Hashabiah, Sherebiah, and Jeshua, the...”",
+        "correctAnswer": "“The leaders of the Levites were: Hashabiah, Sherebiah, Kadmiel's son, Jeshua,...”",
         "reference": "Nehemiah 12:24",
-        "explanation": "Nehemiah 12:24 records: 'And the chiefs of the Levites: Hashabiah, Sherebiah, and Jeshua, the son of Kadmiel, with their brothers opposite them, to give blessing and praise as ordered by David, the man of God, watch against watch.'."
+        "explanation": "Nehemiah 12:24 records: 'The leaders of the Levites were: Hashabiah, Sherebiah, Kadmiel's son, Jeshua, and their relatives. The two groups stood opposite each other to sing and praise and thank God. They did this in the way that God's servant, King David, had commanded.'."
       },
       {
         "id": "neh-12-q8",
         "questionNumber": 8,
         "question": "What phrase or account is recorded in Nehemiah 12:28?",
         "options": [
-          "“Then I made the rulers of Judah come up...”",
-          "“And certain of the priests' sons with wind instruments;...”",
+          "“I took the leaders of Judah to go and...”",
+          "“Some priests with trumpets went with them. They included...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“And the sons of the music-makers came together from the lowland...”"
+          "“The temple singers came together from places near Jerusalem. They came...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“And the sons of the music-makers came together from the lowland...”",
+        "correctAnswer": "“The temple singers came together from places near Jerusalem. They came...”",
         "reference": "Nehemiah 12:28",
-        "explanation": "Nehemiah 12:28 records: 'And the sons of the music-makers came together from the lowland round about Jerusalem and from the daughter-towns of the Netophathites,'."
+        "explanation": "Nehemiah 12:28 records: 'The temple singers came together from places near Jerusalem. They came from villages around Netophah,'."
       },
       {
         "id": "neh-12-q9",
         "questionNumber": 9,
         "question": "How does the passage describe the circumstances or people in Nehemiah 12:32?",
         "options": [
-          "“And after them went Hoshaiah and half of the rulers of Judah,”",
-          "“And certain of the priests' sons with wind instruments;...”",
-          "“And over the doorway of Ephraim and by the...”",
+          "“Hoshaiah and half of the leaders of Judah followed this group...”",
+          "“Some priests with trumpets went with them. They included...”",
+          "“Then we went over the Gate of Ephraim and...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“And after them went Hoshaiah and half of the rulers of Judah,”",
+        "correctAnswer": "“Hoshaiah and half of the leaders of Judah followed this group...”",
         "reference": "Nehemiah 12:32",
-        "explanation": "Nehemiah 12:32 records: 'And after them went Hoshaiah and half of the rulers of Judah,'."
+        "explanation": "Nehemiah 12:32 records: 'Hoshaiah and half of the leaders of Judah followed this group of singers.'."
       },
       {
         "id": "neh-12-q10",
         "questionNumber": 10,
         "question": "In the concluding portion of the chapter, what takes place in Nehemiah 12:36?",
         "options": [
-          "“And over the doorway of Ephraim and by the...”",
-          "“And his brothers, Shemaiah, and Azarel, Milalai, Gilalai, Maai, Nethanel and...”",
-          "“And on that day they made great offerings and...”",
+          "“Then we went over the Gate of Ephraim and...”",
+          "“These other people helped Zechariah: Shemaiah, Azarel, Milalai, Gilalai, Maai, Nethanel,...”",
+          "“On that day, the people offered many sacrifices to...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“And his brothers, Shemaiah, and Azarel, Milalai, Gilalai, Maai, Nethanel and...”",
+        "correctAnswer": "“These other people helped Zechariah: Shemaiah, Azarel, Milalai, Gilalai, Maai, Nethanel,...”",
         "reference": "Nehemiah 12:36",
-        "explanation": "Nehemiah 12:36 records: 'And his brothers, Shemaiah, and Azarel, Milalai, Gilalai, Maai, Nethanel and Judah, Hanani, with the music-instruments of David, the man of God; and Ezra the scribe was at their head;'."
+        "explanation": "Nehemiah 12:36 records: 'These other people helped Zechariah: Shemaiah, Azarel, Milalai, Gilalai, Maai, Nethanel, Judah and Hanani. They all had musical instruments, as King David had told them. Ezra, the teacher of God's Law, led this group of people.'."
       }
     ],
     "13": [
@@ -1835,150 +1832,150 @@
         "questionNumber": 1,
         "question": "According to Nehemiah 13:1, what is the opening statement or setting of this chapter?",
         "options": [
-          "It records: “On that day there was a reading from the book of Moses in the hea...”",
+          "It records: “On that day, we read the book of Moses aloud to the people. One o...”",
           "It begins with a prayer of thanksgiving for deliverance in Nehemiah",
           "It opens with a formal census and counting of the congregation",
           "It records a severe judgment pronounced against neighboring nations"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "It records: “On that day there was a reading from the book of Moses in the hea...”",
+        "correctAnswer": "It records: “On that day, we read the book of Moses aloud to the people. One o...”",
         "reference": "Nehemiah 13:1",
-        "explanation": "The chapter begins directly with the statement: 'On that day there was a reading from the book of Moses in the hearing of the people; and they saw that it said in the book that no Ammonite or Moabite might ever come into the meeting of God;'."
+        "explanation": "The chapter begins directly with the statement: 'On that day, we read the book of Moses aloud to the people. One of the laws said that no descendant of Ammon or Moab should ever join with God's people when they met together.'."
       },
       {
         "id": "neh-13-q2",
         "questionNumber": 2,
         "question": "What key instruction, event, or declaration is set forth in Nehemiah 13:3?",
         "options": [
-          "“But all this time I was not at Jerusalem:...”",
-          "“So after hearing the law, they took out of Israel all...”",
-          "“And I saw that the Levites had not been...”",
+          "“But when this happened, I was not in Jerusalem....”",
+          "“When the Israelite people heard this law, they sent away all...”",
+          "“I also discovered that there was no food that...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“So after hearing the law, they took out of Israel all...”",
+        "correctAnswer": "“When the Israelite people heard this law, they sent away all...”",
         "reference": "Nehemiah 13:3",
-        "explanation": "Nehemiah 13:3 records: 'So after hearing the law, they took out of Israel all the mixed people.'."
+        "explanation": "Nehemiah 13:3 records: 'When the Israelite people heard this law, they sent away all the people who had foreign ancestors.'."
       },
       {
         "id": "neh-13-q3",
         "questionNumber": 3,
         "question": "What significant action or revelation occurs in Nehemiah 13:6?",
         "options": [
-          "“Then I gave orders, and they made the rooms...”",
-          "“And I made controllers over the store-houses, Shelemiah the...”",
-          "“But all this time I was not at Jerusalem: for in...”",
+          "“I gave a command that they must make the...”",
+          "“I gave Shelemiah the priest, Zadok, the student of...”",
+          "“But when this happened, I was not in Jerusalem. In the...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“But all this time I was not at Jerusalem: for in...”",
+        "correctAnswer": "“But when this happened, I was not in Jerusalem. In the...”",
         "reference": "Nehemiah 13:6",
-        "explanation": "Nehemiah 13:6 records: 'But all this time I was not at Jerusalem: for in the thirty-second year of Artaxerxes, king of Babylon, I went to the king; and after some days, I got the king to let me go,'."
+        "explanation": "Nehemiah 13:6 records: 'But when this happened, I was not in Jerusalem. In the 32nd year that King Artaxerxes ruled in Babylon, I had returned to visit him. After I had been there for some time, I asked the king to let me return to Jerusalem.'."
       },
       {
         "id": "neh-13-q4",
         "questionNumber": 4,
         "question": "What truth or description is highlighted in Nehemiah 13:9?",
         "options": [
-          "“Then all Judah came with the tenth part of...”",
-          "“And there were men of Tyre there, who came...”",
+          "“After that, all the people in Judah brought their...”",
+          "“People from Tyre who lived in Jerusalem sold fish...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“Then I gave orders, and they made the rooms clean: and...”"
+          "“I gave a command that they must make the rooms clean...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“Then I gave orders, and they made the rooms clean: and...”",
+        "correctAnswer": "“I gave a command that they must make the rooms clean...”",
         "reference": "Nehemiah 13:9",
-        "explanation": "Nehemiah 13:9 records: 'Then I gave orders, and they made the rooms clean: and I put back in them the vessels of the house of God, with the meal offerings and the perfume.'."
+        "explanation": "Nehemiah 13:9 records: 'I gave a command that they must make the rooms clean again. Then I put back the special plates and tools that they used in the temple. I also put back the grain offerings and the incense.'."
       },
       {
         "id": "neh-13-q5",
         "questionNumber": 5,
         "question": "According to the text, what happened or was commanded in Nehemiah 13:12?",
         "options": [
-          "“Then all Judah came with the tenth part of the grain...”",
-          "“In those days, I saw in Judah some who...”",
-          "“And so, when the streets of Jerusalem were getting...”",
+          "“After that, all the people in Judah brought their tithes of...”",
+          "“In those days, I saw people in Judah who...”",
+          "“So I gave a command to the guards at...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“Then all Judah came with the tenth part of the grain...”",
+        "correctAnswer": "“After that, all the people in Judah brought their tithes of...”",
         "reference": "Nehemiah 13:12",
-        "explanation": "Nehemiah 13:12 records: 'Then all Judah came with the tenth part of the grain and wine and oil and put it into the store-houses.'."
+        "explanation": "Nehemiah 13:12 records: 'After that, all the people in Judah brought their tithes of grain and wine and olive oil to store in the temple rooms.'."
       },
       {
         "id": "neh-13-q6",
         "questionNumber": 6,
         "question": "What central message or instruction is delivered in Nehemiah 13:15?",
         "options": [
-          "“Did not your fathers do the same, and did...”",
-          "“In those days, I saw in Judah some who were crushing...”",
-          "“And I gave the Levites orders to make themselves...”",
+          "“Your ancestors did the same thing. That is why...”",
+          "“In those days, I saw people in Judah who were working...”",
+          "“Then I told the Levites that they must make...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“In those days, I saw in Judah some who were crushing...”",
+        "correctAnswer": "“In those days, I saw people in Judah who were working...”",
         "reference": "Nehemiah 13:15",
-        "explanation": "Nehemiah 13:15 records: 'In those days, I saw in Judah some who were crushing grapes on the Sabbath, and getting in grain and putting it on asses; as well as wine and grapes and figs and all sorts of goods which they took into Jerusalem on the Sabbath day: and I gave witness against them on the day when they were marketing food.'."
+        "explanation": "Nehemiah 13:15 records: 'In those days, I saw people in Judah who were working on Sabbath days. They were making wine. They were bringing their grain from the fields. They were making their donkeys carry the grain, as well as wine, grapes, figs and other things. They were bringing all those things into Jerusalem when it was a Sabbath day. I warned them that they must not sell things on any Sabbath day.'."
       },
       {
         "id": "neh-13-q7",
         "questionNumber": 7,
         "question": "What detail regarding God's work, covenant, or people is given in Nehemiah 13:18?",
         "options": [
-          "“Then I gave witness against them and said, Why...”",
-          "“And I took up the cause against them, cursing...”",
-          "“Did not your fathers do the same, and did not our...”",
+          "“I warned them, ‘Do not stay beside the city's...”",
+          "“I was angry with them. I asked God to...”",
+          "“Your ancestors did the same thing. That is why God punished...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“Did not your fathers do the same, and did not our...”",
+        "correctAnswer": "“Your ancestors did the same thing. That is why God punished...”",
         "reference": "Nehemiah 13:18",
-        "explanation": "Nehemiah 13:18 records: 'Did not your fathers do the same, and did not our God send all this evil on us and on this town? but you are causing more wrath to come on Israel by not keeping the Sabbath holy.'."
+        "explanation": "Nehemiah 13:18 records: 'Your ancestors did the same thing. That is why God punished them and he brought trouble on this city. Now you will make God even more angry with us, Israel's people. You are insulting God's Sabbath day.’'."
       },
       {
         "id": "neh-13-q8",
         "questionNumber": 8,
         "question": "What phrase or account is recorded in Nehemiah 13:21?",
         "options": [
-          "“And their children were talking half in the language...”",
-          "“And one of the sons of Joiada, the son...”",
+          "“Half of their children spoke the language of Ashdod,...”",
+          "“Joiada was the son of Eliashib, the leader of...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“Then I gave witness against them and said, Why are you...”"
+          "“I warned them, ‘Do not stay beside the city's wall all...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“Then I gave witness against them and said, Why are you...”",
+        "correctAnswer": "“I warned them, ‘Do not stay beside the city's wall all...”",
         "reference": "Nehemiah 13:21",
-        "explanation": "Nehemiah 13:21 records: 'Then I gave witness against them and said, Why are you waiting all night by the wall? if you do so again I will have you taken prisoners. From that time they did not come again on the Sabbath.'."
+        "explanation": "Nehemiah 13:21 records: 'I warned them, ‘Do not stay beside the city's wall all night. If you do this again, I will take hold of you.’ After I said that, they did not come again to Jerusalem on a Sabbath day.'."
       },
       {
         "id": "neh-13-q9",
         "questionNumber": 9,
         "question": "How does the passage describe the circumstances or people in Nehemiah 13:24?",
         "options": [
-          "“And their children were talking half in the language of Ashdod;...”",
-          "“Are we then without protest to let you do...”",
-          "“On that day there was a reading from the...”",
+          "“Half of their children spoke the language of Ashdod, or a...”",
+          "“We can never agree to all the evil things...”",
+          "“On that day, we read the book of Moses...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“And their children were talking half in the language of Ashdod;...”",
+        "correctAnswer": "“Half of their children spoke the language of Ashdod, or a...”",
         "reference": "Nehemiah 13:24",
-        "explanation": "Nehemiah 13:24 records: 'And their children were talking half in the language of Ashdod; they had no knowledge of the Jews' language, but made use of the language of the two peoples.'."
+        "explanation": "Nehemiah 13:24 records: 'Half of their children spoke the language of Ashdod, or a language of the other foreign nations. They did not know how to speak the language of Judah.'."
       },
       {
         "id": "neh-13-q10",
         "questionNumber": 10,
         "question": "In the concluding portion of the chapter, what takes place in Nehemiah 13:27?",
         "options": [
-          "“So I made them clean from all strange people,...”",
-          "“Are we then without protest to let you do all this...”",
-          "“So after hearing the law, they took out of...”",
+          "“After that, I made the priests and the Levites...”",
+          "“We can never agree to all the evil things that you...”",
+          "“When the Israelite people heard this law, they sent...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“Are we then without protest to let you do all this...”",
+        "correctAnswer": "“We can never agree to all the evil things that you...”",
         "reference": "Nehemiah 13:27",
-        "explanation": "Nehemiah 13:27 records: 'Are we then without protest to let you do all this great evil, sinning against our God by taking strange women for your wives?'."
+        "explanation": "Nehemiah 13:27 records: 'We can never agree to all the evil things that you have done. If we all married foreign women, we would not be faithful to our God.’'."
       }
     ]
   }

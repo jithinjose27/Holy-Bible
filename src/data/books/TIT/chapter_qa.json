@@ -1,9 +1,6 @@
 {
-  "book": "Titus",
   "bookId": "TIT",
-  "totalChapters": 3,
-  "totalQuestions": 30,
-  "questionsPerChapter": 10,
+  "bookName": "Titus",
   "chapters": {
     "1": [
       {
@@ -11,150 +8,150 @@
         "questionNumber": 1,
         "question": "According to Titus 1:1, what is the opening statement or setting of this chapter?",
         "options": [
-          "It records: “Paul, a servant of God, and an Apostle of Jesus Christ, in agreem...”",
+          "It records: “This letter is from me, Paul. I am God's servant and an apostle o...”",
           "It begins with a prayer of thanksgiving for deliverance in Titus",
           "It opens with a formal census and counting of the congregation",
           "It records a severe judgment pronounced against neighboring nations"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "It records: “Paul, a servant of God, and an Apostle of Jesus Christ, in agreem...”",
+        "correctAnswer": "It records: “This letter is from me, Paul. I am God's servant and an apostle o...”",
         "reference": "Titus 1:1",
-        "explanation": "The chapter begins directly with the statement: 'Paul, a servant of God, and an Apostle of Jesus Christ, in agreement with the faith of the saints of God and the full knowledge of what is true in harmony with religion,'."
+        "explanation": "The chapter begins directly with the statement: 'This letter is from me, Paul. I am God's servant and an apostle of Jesus Christ. God has sent me to help the people that he has chosen. I teach them to understand his true message and to trust him. As a result they will live in a way that pleases God.'."
       },
       {
         "id": "tit-1-q2",
         "questionNumber": 2,
         "question": "What key instruction, event, or declaration is set forth in Titus 1:2?",
         "options": [
-          "“I did not take you with me when I...”",
-          "“In the hope of eternal life, which was made certain before...”",
-          "“Keeping to the true word of the teaching, so...”",
+          "“I left you in Crete so that you could...”",
+          "“They will also be sure that they will live with God...”",
+          "“He must continue to believe the true message very...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“In the hope of eternal life, which was made certain before...”",
+        "correctAnswer": "“They will also be sure that they will live with God...”",
         "reference": "Titus 1:2",
-        "explanation": "Titus 1:2 records: 'In the hope of eternal life, which was made certain before eternal time, by the word of God who is ever true;'."
+        "explanation": "Titus 1:2 records: 'They will also be sure that they will live with God for ever. Before the world began, God promised that his people would have life with him. And God never tells lies.'."
       },
       {
         "id": "tit-1-q3",
         "questionNumber": 3,
         "question": "What significant action or revelation occurs in Titus 1:3?",
         "options": [
-          "“Men having a good record, husbands of one wife,...”",
-          "“For there are men who are not ruled by...”",
-          "“Who, in his time, made clear his word in the good...”",
+          "“This is what a leader in the church must...”",
+          "“I say this because there are many people who...”",
+          "“God is the one who saves us. Now, at the proper...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“Who, in his time, made clear his word in the good...”",
+        "correctAnswer": "“God is the one who saves us. Now, at the proper...”",
         "reference": "Titus 1:3",
-        "explanation": "Titus 1:3 records: 'Who, in his time, made clear his word in the good news, of which, by the order of God our Saviour, I became a preacher;'."
+        "explanation": "Titus 1:3 records: 'God is the one who saves us. Now, at the proper time, he has made his message clear. He has given his message to me so that I can tell it to people. That is what he has told me to do.'."
       },
       {
         "id": "tit-1-q4",
         "questionNumber": 4,
         "question": "What truth or description is highlighted in Titus 1:4?",
         "options": [
-          "“For it is necessary for a Bishop to be...”",
-          "“By whom some families have been completely overturned; who...”",
+          "“A leader in the church serves the believers on...”",
+          "“You must stop those people from teaching false things...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“To Titus, my true child in our common faith: Grace and...”"
+          "“I am writing to you, Titus. I told you the message...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“To Titus, my true child in our common faith: Grace and...”",
+        "correctAnswer": "“I am writing to you, Titus. I told you the message...”",
         "reference": "Titus 1:4",
-        "explanation": "Titus 1:4 records: 'To Titus, my true child in our common faith: Grace and peace from God the Father and Christ Jesus our Saviour.'."
+        "explanation": "Titus 1:4 records: 'I am writing to you, Titus. I told you the message about Jesus and now we both believe in him. So you are like my own child. I pray that God the Father and Christ Jesus our Saviour will continue to help you. I pray that they will give you peace in your mind.'."
       },
       {
         "id": "tit-1-q5",
         "questionNumber": 5,
         "question": "According to the text, what happened or was commanded in Titus 1:5?",
         "options": [
-          "“I did not take you with me when I went away...”",
-          "“But opening his house freely to guests; a lover...”",
-          "“One of their prophets has said, The men of...”",
+          "“I left you in Crete so that you could finish certain...”",
+          "“Instead, a leader in the church must be happy...”",
+          "“Many years ago, there was a certain man who...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“I did not take you with me when I went away...”",
+        "correctAnswer": "“I left you in Crete so that you could finish certain...”",
         "reference": "Titus 1:5",
-        "explanation": "Titus 1:5 records: 'I did not take you with me when I went away from Crete, so that you might do what was necessary to put things in order there, placing men in authority over the churches in every town, as I said to you;'."
+        "explanation": "Titus 1:5 records: 'I left you in Crete so that you could finish certain things. You should make right some things that were wrong. And you should choose leaders of the believers in every town, as I told you.'."
       },
       {
         "id": "tit-1-q6",
         "questionNumber": 6,
         "question": "What central message or instruction is delivered in Titus 1:6?",
         "options": [
-          "“Keeping to the true word of the teaching, so...”",
-          "“Men having a good record, husbands of one wife, whose children...”",
-          "“This witness is true. So say sharp words to...”",
+          "“He must continue to believe the true message very...”",
+          "“This is what a leader in the church must be like....”",
+          "“What that man said is true. So you must...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“Men having a good record, husbands of one wife, whose children...”",
+        "correctAnswer": "“This is what a leader in the church must be like....”",
         "reference": "Titus 1:6",
-        "explanation": "Titus 1:6 records: 'Men having a good record, husbands of one wife, whose children are of the faith, children of whom it may not be said that they are given to loose living or are uncontrolled.'."
+        "explanation": "Titus 1:6 records: 'This is what a leader in the church must be like. Nobody should have a reason to say that he has done something wrong. He must be the husband of only one wife. He must have children who respect him. Nobody should say that they enjoy bad things or that they do not obey their parents.'."
       },
       {
         "id": "tit-1-q7",
         "questionNumber": 7,
         "question": "What detail regarding God's work, covenant, or people is given in Titus 1:7?",
         "options": [
-          "“For there are men who are not ruled by...”",
-          "“Giving no attention to the fictions of the Jews...”",
-          "“For it is necessary for a Bishop to be a man...”",
+          "“I say this because there are many people who...”",
+          "“They must not listen to Jewish stories or to...”",
+          "“A leader in the church serves the believers on God's behalf....”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“For it is necessary for a Bishop to be a man...”",
+        "correctAnswer": "“A leader in the church serves the believers on God's behalf....”",
         "reference": "Titus 1:7",
-        "explanation": "Titus 1:7 records: 'For it is necessary for a Bishop to be a man of virtue, as God's servant; not pushing himself forward, not quickly moved to wrath or blows, not desiring profit for himself;'."
+        "explanation": "Titus 1:7 records: 'A leader in the church serves the believers on God's behalf. Because of that, nobody should have a reason to say that the leader has done anything wrong. A leader must not be proud. He must not become angry easily. He should not like to drink too much wine. He must not be someone who likes to fight. He must not want to get a lot of money for himself.'."
       },
       {
         "id": "tit-1-q8",
         "questionNumber": 8,
         "question": "What phrase or account is recorded in Titus 1:8?",
         "options": [
-          "“By whom some families have been completely overturned; who...”",
-          "“To the clean in heart all things are clean:...”",
+          "“You must stop those people from teaching false things...”",
+          "“If someone is clean and good inside, everything is...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“But opening his house freely to guests; a lover of what...”"
+          "“Instead, a leader in the church must be happy to have...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“But opening his house freely to guests; a lover of what...”",
+        "correctAnswer": "“Instead, a leader in the church must be happy to have...”",
         "reference": "Titus 1:8",
-        "explanation": "Titus 1:8 records: 'But opening his house freely to guests; a lover of what is good, serious-minded, upright, holy, self-controlled;'."
+        "explanation": "Titus 1:8 records: 'Instead, a leader in the church must be happy to have visitors in his home. He must want to do good things. He must be careful in how he lives. He must do what is right. He must want to serve God well. He must control himself well.'."
       },
       {
         "id": "tit-1-q9",
         "questionNumber": 9,
         "question": "How does the passage describe the circumstances or people in Titus 1:9?",
         "options": [
-          "“Keeping to the true word of the teaching, so that he...”",
-          "“One of their prophets has said, The men of...”",
-          "“Paul, a servant of God, and an Apostle of...”",
+          "“He must continue to believe the true message very well. That...”",
+          "“Many years ago, there was a certain man who...”",
+          "“This letter is from me, Paul. I am God's...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“Keeping to the true word of the teaching, so that he...”",
+        "correctAnswer": "“He must continue to believe the true message very well. That...”",
         "reference": "Titus 1:9",
-        "explanation": "Titus 1:9 records: 'Keeping to the true word of the teaching, so that he may be able to give comfort by right teaching and overcome the arguments of the doubters.'."
+        "explanation": "Titus 1:9 records: 'He must continue to believe the true message very well. That is the message which we have taught. Then he will be able to teach people what is true and right. He will also show that people who speak against the true message are wrong.'."
       },
       {
         "id": "tit-1-q10",
         "questionNumber": 10,
         "question": "In the concluding portion of the chapter, what takes place in Titus 1:10?",
         "options": [
-          "“This witness is true. So say sharp words to...”",
-          "“For there are men who are not ruled by law; foolish...”",
-          "“Paul, a servant of God, and an Apostle of...”",
+          "“What that man said is true. So you must...”",
+          "“I say this because there are many people who refuse to...”",
+          "“This letter is from me, Paul. I am God's...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“For there are men who are not ruled by law; foolish...”",
+        "correctAnswer": "“I say this because there are many people who refuse to...”",
         "reference": "Titus 1:10",
-        "explanation": "Titus 1:10 records: 'For there are men who are not ruled by law; foolish talkers, false teachers, specially those of the circumcision,'."
+        "explanation": "Titus 1:10 records: 'I say this because there are many people who refuse to obey their leaders. They speak about useless things and they deceive people. Many of them want the believers to obey all the Jewish rules.'."
       }
     ],
     "2": [
@@ -163,150 +160,150 @@
         "questionNumber": 1,
         "question": "According to Titus 2:1, what is the opening statement or setting of this chapter?",
         "options": [
-          "It records: “But let your words be in agreement with true and right teaching:”",
+          "It records: “But as for you, Titus, you must teach people to do what is right....”",
           "It begins with a prayer of thanksgiving for deliverance in Titus",
           "It opens with a formal census and counting of the congregation",
           "It records a severe judgment pronounced against neighboring nations"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "It records: “But let your words be in agreement with true and right teaching:”",
+        "correctAnswer": "It records: “But as for you, Titus, you must teach people to do what is right....”",
         "reference": "Titus 2:1",
-        "explanation": "The chapter begins directly with the statement: 'But let your words be in agreement with true and right teaching:'."
+        "explanation": "The chapter begins directly with the statement: 'But as for you, Titus, you must teach people to do what is right. Teach them only the things that belong to God's true message.'."
       },
       {
         "id": "tit-2-q2",
         "questionNumber": 2,
         "question": "What key instruction, event, or declaration is set forth in Titus 2:2?",
         "options": [
-          "“To be wise in mind, clean in heart, kind;...”",
-          "“That old men are to be simple in their tastes, serious,...”",
-          "“Servants are to be under the authority of their...”",
+          "“The young women will control themselves well and be...”",
+          "“Tell the older men to control themselves properly. They must think...”",
+          "“As for slaves, tell them to obey their masters...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“That old men are to be simple in their tastes, serious,...”",
+        "correctAnswer": "“Tell the older men to control themselves properly. They must think...”",
         "reference": "Titus 2:2",
-        "explanation": "Titus 2:2 records: 'That old men are to be simple in their tastes, serious, wise, true in faith, in love, and of a quiet mind.'."
+        "explanation": "Titus 2:2 records: 'Tell the older men to control themselves properly. They must think carefully about how they live, so that people respect them. They must continue to believe in Christ. They must continue to love other people. They must continue to be patient and strong.'."
       },
       {
         "id": "tit-2-q3",
         "questionNumber": 3,
         "question": "What significant action or revelation occurs in Titus 2:3?",
         "options": [
-          "“To the young men give orders to be wise...”",
-          "“Not taking what is not theirs, but giving clear...”",
-          "“That old women are to be self-respecting in behaviour, not saying...”",
+          "“As for the young men, tell them also to...”",
+          "“Slaves must not take things that belong to their...”",
+          "“Also, tell the older women to live in a good way....”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“That old women are to be self-respecting in behaviour, not saying...”",
+        "correctAnswer": "“Also, tell the older women to live in a good way....”",
         "reference": "Titus 2:3",
-        "explanation": "Titus 2:3 records: 'That old women are to be self-respecting in behaviour, not saying evil of others, not given to taking much wine, teachers of that which is good,'."
+        "explanation": "Titus 2:3 records: 'Also, tell the older women to live in a good way. Their lives must show that they respect God. They must not say bad things about other people. They must not be drunks. They must teach what is good.'."
       },
       {
         "id": "tit-2-q4",
         "questionNumber": 4,
         "question": "What truth or description is highlighted in Titus 2:4?",
         "options": [
-          "“In all things see that you are an example...”",
-          "“For the grace of God has come, giving salvation...”",
+          "“You yourself must always do good things too. In...”",
+          "“God has shown us clearly how very kind he...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“Training the younger women to have love for their husbands and children,”"
+          "“In this way, they can teach the young women how they...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“Training the younger women to have love for their husbands and children,”",
+        "correctAnswer": "“In this way, they can teach the young women how they...”",
         "reference": "Titus 2:4",
-        "explanation": "Titus 2:4 records: 'Training the younger women to have love for their husbands and children,'."
+        "explanation": "Titus 2:4 records: 'In this way, they can teach the young women how they should live. As a result, the young women will love their husbands and their children.'."
       },
       {
         "id": "tit-2-q5",
         "questionNumber": 5,
         "question": "According to the text, what happened or was commanded in Titus 2:5?",
         "options": [
-          "“To be wise in mind, clean in heart, kind; working in...”",
-          "“Saying true and right words, against which no protest...”",
-          "“Training us so that, turning away from evil and...”",
+          "“The young women will control themselves well and be pure in...”",
+          "“Teach a message that is correct, so that nobody...”",
+          "“Because God is kind, he teaches us to stop...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“To be wise in mind, clean in heart, kind; working in...”",
+        "correctAnswer": "“The young women will control themselves well and be pure in...”",
         "reference": "Titus 2:5",
-        "explanation": "Titus 2:5 records: 'To be wise in mind, clean in heart, kind; working in their houses, living under the authority of their husbands; so that no evil may be said of the word of God.'."
+        "explanation": "Titus 2:5 records: 'The young women will control themselves well and be pure in how they live. They will be good housewives who are kind to other people. They will respect their husbands. If they live in a good way like that, nobody will be able to say bad things about God's message.'."
       },
       {
         "id": "tit-2-q6",
         "questionNumber": 6,
         "question": "What central message or instruction is delivered in Titus 2:6?",
         "options": [
-          "“Servants are to be under the authority of their...”",
-          "“To the young men give orders to be wise and serious-minded:”",
-          "“Looking for the glad hope, the revelation of the...”",
+          "“As for slaves, tell them to obey their masters...”",
+          "“As for the young men, tell them also to control themselves...”",
+          "“We are waiting for Jesus Christ to return to...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“To the young men give orders to be wise and serious-minded:”",
+        "correctAnswer": "“As for the young men, tell them also to control themselves...”",
         "reference": "Titus 2:6",
-        "explanation": "Titus 2:6 records: 'To the young men give orders to be wise and serious-minded:'."
+        "explanation": "Titus 2:6 records: 'As for the young men, tell them also to control themselves wisely in how they live.'."
       },
       {
         "id": "tit-2-q7",
         "questionNumber": 7,
         "question": "What detail regarding God's work, covenant, or people is given in Titus 2:7?",
         "options": [
-          "“Not taking what is not theirs, but giving clear...”",
-          "“Who gave himself for us, so that he might...”",
-          "“In all things see that you are an example of good...”",
+          "“Slaves must not take things that belong to their...”",
+          "“He gave himself as a sacrifice on our behalf....”",
+          "“You yourself must always do good things too. In that way,...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“In all things see that you are an example of good...”",
+        "correctAnswer": "“You yourself must always do good things too. In that way,...”",
         "reference": "Titus 2:7",
-        "explanation": "Titus 2:7 records: 'In all things see that you are an example of good works; holy in your teaching, serious in behaviour,'."
+        "explanation": "Titus 2:7 records: 'You yourself must always do good things too. In that way, you will show the young men how they should live. When you teach the believers, be honest and serious.'."
       },
       {
         "id": "tit-2-q8",
         "questionNumber": 8,
         "question": "What phrase or account is recorded in Titus 2:8?",
         "options": [
-          "“For the grace of God has come, giving salvation...”",
-          "“But let your words be in agreement with true...”",
+          "“God has shown us clearly how very kind he...”",
+          "“But as for you, Titus, you must teach people...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“Saying true and right words, against which no protest may be...”"
+          "“Teach a message that is correct, so that nobody can say...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“Saying true and right words, against which no protest may be...”",
+        "correctAnswer": "“Teach a message that is correct, so that nobody can say...”",
         "reference": "Titus 2:8",
-        "explanation": "Titus 2:8 records: 'Saying true and right words, against which no protest may be made, so that he who is not on our side may be put to shame, unable to say any evil of us.'."
+        "explanation": "Titus 2:8 records: 'Teach a message that is correct, so that nobody can say anything against it. Then our enemies will be ashamed, because they cannot say anything bad about us.'."
       },
       {
         "id": "tit-2-q9",
         "questionNumber": 9,
         "question": "How does the passage describe the circumstances or people in Titus 2:9?",
         "options": [
-          "“Servants are to be under the authority of their masters, pleasing...”",
-          "“Training us so that, turning away from evil and...”",
-          "“But let your words be in agreement with true...”",
+          "“As for slaves, tell them to obey their masters always. They...”",
+          "“Because God is kind, he teaches us to stop...”",
+          "“But as for you, Titus, you must teach people...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“Servants are to be under the authority of their masters, pleasing...”",
+        "correctAnswer": "“As for slaves, tell them to obey their masters always. They...”",
         "reference": "Titus 2:9",
-        "explanation": "Titus 2:9 records: 'Servants are to be under the authority of their masters, pleasing them in all things, without argument;'."
+        "explanation": "Titus 2:9 records: 'As for slaves, tell them to obey their masters always. They must not argue with their masters. Instead, they should work well to please their masters.'."
       },
       {
         "id": "tit-2-q10",
         "questionNumber": 10,
         "question": "In the concluding portion of the chapter, what takes place in Titus 2:10?",
         "options": [
-          "“Looking for the glad hope, the revelation of the...”",
-          "“Not taking what is not theirs, but giving clear signs of...”",
-          "“That old men are to be simple in their...”",
+          "“We are waiting for Jesus Christ to return to...”",
+          "“Slaves must not take things that belong to their masters. Their...”",
+          "“Tell the older men to control themselves properly. They...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“Not taking what is not theirs, but giving clear signs of...”",
+        "correctAnswer": "“Slaves must not take things that belong to their masters. Their...”",
         "reference": "Titus 2:10",
-        "explanation": "Titus 2:10 records: 'Not taking what is not theirs, but giving clear signs of their good faith, in all things doing credit to the teaching of God our Saviour.'."
+        "explanation": "Titus 2:10 records: 'Slaves must not take things that belong to their masters. Their masters must be able to trust them completely. Then people will respect the message that we teach about God, our Saviour.'."
       }
     ],
     "3": [
@@ -315,150 +312,150 @@
         "questionNumber": 1,
         "question": "According to Titus 3:1, what is the opening statement or setting of this chapter?",
         "options": [
-          "It records: “Make clear to them that they are to put themselves under rulers a...”",
+          "It records: “Tell the believers there to respect the government and those who ...”",
           "It begins with a prayer of thanksgiving for deliverance in Titus",
           "It opens with a formal census and counting of the congregation",
           "It records a severe judgment pronounced against neighboring nations"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "It records: “Make clear to them that they are to put themselves under rulers a...”",
+        "correctAnswer": "It records: “Tell the believers there to respect the government and those who ...”",
         "reference": "Titus 3:1",
-        "explanation": "The chapter begins directly with the statement: 'Make clear to them that they are to put themselves under rulers and authorities, to do what they are ordered, to be ready for every good work,'."
+        "explanation": "The chapter begins directly with the statement: 'Tell the believers there to respect the government and those who have authority. They must remember to obey their rulers. They must always be ready to help other people.'."
       },
       {
         "id": "tit-3-q2",
         "questionNumber": 2,
         "question": "What key instruction, event, or declaration is set forth in Titus 3:2?",
         "options": [
-          "“Not by works of righteousness which we did ourselves,...”",
-          "“To say no evil of any man, not to be fighters,...”",
-          "“But have nothing to do with foolish questionings, and...”",
+          "“God did not save us because of any good...”",
+          "“They must not say bad things about anyone. They must not...”",
+          "“But stay away from people who argue about silly...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“To say no evil of any man, not to be fighters,...”",
+        "correctAnswer": "“They must not say bad things about anyone. They must not...”",
         "reference": "Titus 3:2",
-        "explanation": "Titus 3:2 records: 'To say no evil of any man, not to be fighters, to give way to others, to be gentle in behaviour to all men.'."
+        "explanation": "Titus 3:2 records: 'They must not say bad things about anyone. They must not argue with people. Instead, they should be kind. They should be careful to respect everyone.'."
       },
       {
         "id": "tit-3-q3",
         "questionNumber": 3,
         "question": "What significant action or revelation occurs in Titus 3:3?",
         "options": [
-          "“Which he gave us freely through Jesus Christ our...”",
-          "“A man whose opinions are not those of the...”",
-          "“For in the past we were foolish, hard in heart, turned...”",
+          "“Jesus Christ died as a sacrifice to save us....”",
+          "“If someone teaches a false message that causes trouble,...”",
+          "“Before we believed in Christ, we ourselves were fools too. We...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“For in the past we were foolish, hard in heart, turned...”",
+        "correctAnswer": "“Before we believed in Christ, we ourselves were fools too. We...”",
         "reference": "Titus 3:3",
-        "explanation": "Titus 3:3 records: 'For in the past we were foolish, hard in heart, turned from the true way, servants of evil desires and pleasures, living in bad feeling and envy, hated and hating one another.'."
+        "explanation": "Titus 3:3 records: 'Before we believed in Christ, we ourselves were fools too. We did not obey God. We believed a false message. We wanted to do many kinds of bad things to make us happy. We could not stop doing them. Every day we did evil things. We were jealous of other people. People hated us, and we hated each other.'."
       },
       {
         "id": "tit-3-q4",
         "questionNumber": 4,
         "question": "What truth or description is highlighted in Titus 3:4?",
         "options": [
-          "“So that, having been given righteousness through grace, we...”",
-          "“Clearly he is in error and a sinner, being...”",
+          "“Because God is very kind, he has accepted us...”",
+          "“You know that a person like that has chosen...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“But when the mercy of God our Saviour, and his love...”"
+          "“But then God, our Saviour, showed clearly that he is very...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“But when the mercy of God our Saviour, and his love...”",
+        "correctAnswer": "“But then God, our Saviour, showed clearly that he is very...”",
         "reference": "Titus 3:4",
-        "explanation": "Titus 3:4 records: 'But when the mercy of God our Saviour, and his love to man was seen,'."
+        "explanation": "Titus 3:4 records: 'But then God, our Saviour, showed clearly that he is very kind. He showed that he loves all people.'."
       },
       {
         "id": "tit-3-q5",
         "questionNumber": 5,
         "question": "According to the text, what happened or was commanded in Titus 3:5?",
         "options": [
-          "“Not by works of righteousness which we did ourselves, but in...”",
-          "“This is a true saying; and it is my...”",
-          "“When I send Artemas or Tychicus to you, do...”",
+          "“God did not save us because of any good things that...”",
+          "“That message is certainly true. So you must teach...”",
+          "“I will send either Artemas or Tychicus to you....”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“Not by works of righteousness which we did ourselves, but in...”",
+        "correctAnswer": "“God did not save us because of any good things that...”",
         "reference": "Titus 3:5",
-        "explanation": "Titus 3:5 records: 'Not by works of righteousness which we did ourselves, but in the measure of his mercy, he gave us salvation, through the washing of the new birth and the giving of new life in the Holy Spirit,'."
+        "explanation": "Titus 3:5 records: 'God did not save us because of any good things that we ourselves had done. He saved us because he chose to forgive us. God has washed us so that we are clean inside. We have been born again, so that we live a new life. God's Holy Spirit has done this for us.'."
       },
       {
         "id": "tit-3-q6",
         "questionNumber": 6,
         "question": "What central message or instruction is delivered in Titus 3:6?",
         "options": [
-          "“But have nothing to do with foolish questionings, and...”",
-          "“Which he gave us freely through Jesus Christ our Saviour;”",
-          "“Send Zenas, the man of law, and Apollos on...”",
+          "“But stay away from people who argue about silly...”",
+          "“Jesus Christ died as a sacrifice to save us. So now...”",
+          "“Please help Zenas, the lawyer, and Apollos as much...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“Which he gave us freely through Jesus Christ our Saviour;”",
+        "correctAnswer": "“Jesus Christ died as a sacrifice to save us. So now...”",
         "reference": "Titus 3:6",
-        "explanation": "Titus 3:6 records: 'Which he gave us freely through Jesus Christ our Saviour;'."
+        "explanation": "Titus 3:6 records: 'Jesus Christ died as a sacrifice to save us. So now God has poured his Holy Spirit into us, to fill us.'."
       },
       {
         "id": "tit-3-q7",
         "questionNumber": 7,
         "question": "What detail regarding God's work, covenant, or people is given in Titus 3:7?",
         "options": [
-          "“A man whose opinions are not those of the...”",
-          "“And let our people go on with good works...”",
-          "“So that, having been given righteousness through grace, we might have...”",
+          "“If someone teaches a false message that causes trouble,...”",
+          "“Our Christian friends there must learn to do good...”",
+          "“Because God is very kind, he has accepted us as right...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 2,
-        "correctAnswer": "“So that, having been given righteousness through grace, we might have...”",
+        "correctAnswer": "“Because God is very kind, he has accepted us as right...”",
         "reference": "Titus 3:7",
-        "explanation": "Titus 3:7 records: 'So that, having been given righteousness through grace, we might have a part in the heritage, the hope of eternal life.'."
+        "explanation": "Titus 3:7 records: 'Because God is very kind, he has accepted us as right with himself. As a result, we know that we will receive the good things that God has prepared for us. We know that we will live with God for ever.'."
       },
       {
         "id": "tit-3-q8",
         "questionNumber": 8,
         "question": "What phrase or account is recorded in Titus 3:8?",
         "options": [
-          "“Clearly he is in error and a sinner, being...”",
-          "“Make clear to them that they are to put...”",
+          "“You know that a person like that has chosen...”",
+          "“Tell the believers there to respect the government and...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary",
-          "“This is a true saying; and it is my desire that...”"
+          "“That message is certainly true. So you must teach people the...”"
         ],
         "correctAnswerIndex": 3,
-        "correctAnswer": "“This is a true saying; and it is my desire that...”",
+        "correctAnswer": "“That message is certainly true. So you must teach people the...”",
         "reference": "Titus 3:8",
-        "explanation": "Titus 3:8 records: 'This is a true saying; and it is my desire that you may give certain witness about these things, so that those who have had faith in God may give attention to good works. These things are good and of profit to men;'."
+        "explanation": "Titus 3:8 records: 'That message is certainly true. So you must teach people the things that I have said in this letter. Make sure that they understand them well. Then the people who have believed in God will be careful to do good things. Good things like that will help everyone.'."
       },
       {
         "id": "tit-3-q9",
         "questionNumber": 9,
         "question": "How does the passage describe the circumstances or people in Titus 3:9?",
         "options": [
-          "“But have nothing to do with foolish questionings, and lists of...”",
-          "“When I send Artemas or Tychicus to you, do...”",
-          "“Make clear to them that they are to put...”",
+          "“But stay away from people who argue about silly things. They...”",
+          "“I will send either Artemas or Tychicus to you....”",
+          "“Tell the believers there to respect the government and...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 0,
-        "correctAnswer": "“But have nothing to do with foolish questionings, and lists of...”",
+        "correctAnswer": "“But stay away from people who argue about silly things. They...”",
         "reference": "Titus 3:9",
-        "explanation": "Titus 3:9 records: 'But have nothing to do with foolish questionings, and lists of generations, and fights and arguments about the law; for they are of no profit and foolish.'."
+        "explanation": "Titus 3:9 records: 'But stay away from people who argue about silly things. They study long lists of their families' names from years ago. Refuse to argue with people like that. Refuse to argue about the rules in God's Law. All those kinds of things have no value and they do not help anyone.'."
       },
       {
         "id": "tit-3-q10",
         "questionNumber": 10,
         "question": "In the concluding portion of the chapter, what takes place in Titus 3:10?",
         "options": [
-          "“Send Zenas, the man of law, and Apollos on...”",
-          "“A man whose opinions are not those of the church, after...”",
-          "“To say no evil of any man, not to...”",
+          "“Please help Zenas, the lawyer, and Apollos as much...”",
+          "“If someone teaches a false message that causes trouble, warn him....”",
+          "“They must not say bad things about anyone. They...”",
           "An instruction regarding sacrificial regulations in the temple sanctuary"
         ],
         "correctAnswerIndex": 1,
-        "correctAnswer": "“A man whose opinions are not those of the church, after...”",
+        "correctAnswer": "“If someone teaches a false message that causes trouble, warn him....”",
         "reference": "Titus 3:10",
-        "explanation": "Titus 3:10 records: 'A man whose opinions are not those of the church, after a first and second protest, is to be kept out of your society;'."
+        "explanation": "Titus 3:10 records: 'If someone teaches a false message that causes trouble, warn him. If you warn him twice and he still does not stop, stay away from him.'."
       }
     ]
   }
