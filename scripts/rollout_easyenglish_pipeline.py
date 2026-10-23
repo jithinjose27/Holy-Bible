@@ -59,7 +59,14 @@ def fetch_chapter_html(slug, ch, max_retries=4):
 def parse_easyenglish_chapter(html, book_name, ch_num, url):
     """
     Parses easyenglish.bible chapter HTML into clean structured JSON.
+    Guarantees:
+    - Exactly one verse entry with verse badge per canonical verse.
+    - Subsequent poetic lines/paragraphs are tagged with isContinuation: true.
+    - Zero concatenated foreign verses or embedded verse numbers.
     """
+    # 0. Sanitize unclosed <p sfm="b"> stanza break tags that cause BeautifulSoup to nest following elements
+    html = re.sub(r'<p\s+sfm=[\'\"]b[\'\"]\s*>', '<div sfm=\"b\" class=\"stanza-break\"></div>', html)
+
     soup = BeautifulSoup(html, "html.parser")
     vc = soup.find("div", class_="viewer-content")
     if not vc:
@@ -118,23 +125,29 @@ def parse_easyenglish_chapter(html, book_name, ch_num, url):
                 current_heading = sp_text
                 continue
 
-        # Blank paragraph spacing (<p sfm="b">)
-        if child.get("sfm") == "b" and not child.get_text(strip=True):
+        # Skip blank stanza break elements or empty paragraphs
+        if child.get("sfm") == "b" or not child.get_text(strip=True):
             continue
 
         # Extract verses inside this paragraph or list item
         p_verses = []
         current_v = last_verse_num
         v_text_parts = []
+        v_started_in_this_p = False
 
         for node in child.contents:
-            if getattr(node, "name", None) == "v":
-                # Finish previous verse if any text was collected
+            node_name = getattr(node, "name", None)
+            # Guard against any nested block elements
+            if node_name in ["p", "div", "h2", "h3", "li"]:
+                continue
+
+            if node_name == "v":
+                # Finish previous verse if any text was collected before this <v>
                 if current_v is not None and v_text_parts:
                     t = "".join(v_text_parts).replace("\u00a0", " ").strip()
                     t = re.sub(r"\s+", " ", t)
                     if t:
-                        is_cont = (last_verse_num == current_v and len(p_verses) == 0 and not v_started_here)
+                        is_cont = not v_started_in_this_p
                         p_verses.append({
                             "verse": current_v,
                             "text": t,
@@ -142,15 +155,15 @@ def parse_easyenglish_chapter(html, book_name, ch_num, url):
                         })
                     v_text_parts = []
 
-                # Parse verse number or range (e.g. "1" or "1-2")
+                # Parse verse number or range (e.g. "1" or "1-2" or "38-39")
                 v_raw = str(node.get("v", "")).strip()
                 v_match = re.search(r"\d+", v_raw)
                 if v_match:
                     current_v = int(v_match.group())
                     last_verse_num = current_v
-                    v_started_here = True
+                    v_started_in_this_p = True
                 else:
-                    v_started_here = False
+                    v_started_in_this_p = False
             else:
                 txt = node.get_text() if hasattr(node, "get_text") else str(node)
                 v_text_parts.append(txt)
@@ -160,7 +173,7 @@ def parse_easyenglish_chapter(html, book_name, ch_num, url):
             t = "".join(v_text_parts).replace("\u00a0", " ").strip()
             t = re.sub(r"\s+", " ", t)
             if t:
-                is_cont = (last_verse_num == current_v and len(p_verses) == 0 and not locals().get("v_started_here", False))
+                is_cont = not v_started_in_this_p
                 p_verses.append({
                     "verse": current_v,
                     "text": t,
@@ -245,32 +258,33 @@ def update_book_assessments(book_id, book_name, book_text_data, catalog_meta=Non
             "verses": flat_verses
         })
 
-    # Write chapter_qa.json
+    # Write chapter_qa.json (preserve existing quizzes if complete)
     cqa_path = os.path.join(BOOKS_DIR, book_id, "chapter_qa.json")
-    if book_id == "GEN" and os.path.exists(cqa_path):
-        with open(cqa_path, "r", encoding="utf-8") as f:
-            existing = json.load(f)
-            if len(existing.get("chapters", {})) == 50:
-                pass  # Handcrafted Genesis questions preserved!
-            else:
-                with open(cqa_path, "w", encoding="utf-8") as f_out:
-                    json.dump({"bookId": book_id, "bookName": book_name, "chapters": chapters_qa}, f_out, indent=2, ensure_ascii=False)
-    else:
+    should_write_cqa = True
+    if os.path.exists(cqa_path):
+        try:
+            with open(cqa_path, "r", encoding="utf-8") as f:
+                existing = json.load(f)
+                if len(existing.get("chapters", {})) == len(chapters_to_parse):
+                    should_write_cqa = False  # preserve existing quizzes!
+        except Exception:
+            pass
+    if should_write_cqa:
         with open(cqa_path, "w", encoding="utf-8") as f_out:
             json.dump({"bookId": book_id, "bookName": book_name, "chapters": chapters_qa}, f_out, indent=2, ensure_ascii=False)
 
-    # Generate 50 comprehensive book review questions
+    # Generate 50 comprehensive book review questions (preserve existing review quizzes if complete)
     bqa_path = os.path.join(BOOKS_DIR, book_id, "book_qa.json")
-    if book_id == "GEN" and os.path.exists(bqa_path):
-        with open(bqa_path, "r", encoding="utf-8") as f:
-            existing_bqa = json.load(f)
-            if len(existing_bqa.get("questions", [])) == 50:
-                pass  # Handcrafted Genesis book review questions preserved!
-            else:
-                bqa_qs = generate_book_questions(book_name, book_id, flattened_chapters, catalog_meta or {})
-                with open(bqa_path, "w", encoding="utf-8") as f_out:
-                    json.dump({"bookId": book_id, "bookName": book_name, "totalQuestions": 50, "questions": bqa_qs}, f_out, indent=2, ensure_ascii=False)
-    else:
+    should_write_bqa = True
+    if os.path.exists(bqa_path):
+        try:
+            with open(bqa_path, "r", encoding="utf-8") as f:
+                existing_bqa = json.load(f)
+                if len(existing_bqa.get("questions", [])) == 50:
+                    should_write_bqa = False  # preserve existing book review quizzes!
+        except Exception:
+            pass
+    if should_write_bqa:
         bqa_qs = generate_book_questions(book_name, book_id, flattened_chapters, catalog_meta or {})
         with open(bqa_path, "w", encoding="utf-8") as f_out:
             json.dump({"bookId": book_id, "bookName": book_name, "totalQuestions": 50, "questions": bqa_qs}, f_out, indent=2, ensure_ascii=False)
@@ -317,11 +331,14 @@ def process_book(book_meta, max_workers=3):
         if not parsed:
             return False, f"Parser returned None for chapter {ch}"
 
-        # If Genesis 1, 2, or 3, verify or keep exact verified state
-        if book_id == "GEN" and ch in [1, 2, 3]:
-            # Load existing verified chapter to ensure 100% preservation
-            gen_existing = json.load(open(os.path.join(BOOKS_DIR, "GEN", "text.json")))
-            parsed = next(c for c in gen_existing["chapters"] if c["chapter"] == ch)
+        # If Genesis 1, 2, or 3, verify exact canonical verse counts
+        if book_id == "GEN":
+            if ch == 1 and parsed["totalVerses"] != 31:
+                return False, f"Genesis 1 verse count mismatch: {parsed['totalVerses']} vs 31"
+            if ch == 2 and parsed["totalVerses"] != 25:
+                return False, f"Genesis 2 verse count mismatch: {parsed['totalVerses']} vs 25"
+            if ch == 3 and parsed["totalVerses"] != 24:
+                return False, f"Genesis 3 verse count mismatch: {parsed['totalVerses']} vs 24"
 
         parsed_chapters.append(parsed)
         total_book_verses += parsed["totalVerses"]
@@ -417,6 +434,7 @@ def audit_batch(batch_info, cat_books_map):
                 errors.append(f"{b_id} Ch {ch_num}: No sections found")
 
             ch_verses = 0
+            seen_badges = set()
             for sec in sections:
                 for p in sec.get("items", []):
                     for v in p:
@@ -425,6 +443,17 @@ def audit_batch(batch_info, cat_books_map):
                         if not v_num or not v_txt:
                             errors.append(f"{b_id} Ch {ch_num}: Empty verse {v_num}")
                         ch_verses += 1
+
+                        # Verify exactly one verse badge per canonical verse
+                        if not v.get("isContinuation"):
+                            if v_num in seen_badges:
+                                errors.append(f"{b_id} Ch {ch_num}: Duplicate verse badge for verse {v_num}")
+                            seen_badges.add(v_num)
+
+                        # Check for embedded foreign verse numbers in text (e.g. "3 God will keep..." inside verse 2)
+                        m = re.search(r'[.!?‘\'"”]\s*(\d{1,3})\s+[A-Z]', v_txt)
+                        if m and int(m.group(1)) == v_num + 1:
+                            errors.append(f"{b_id} Ch {ch_num}: Embedded verse number '{m.group(0)}' inside verse {v_num} text")
 
             if ch_verses == 0:
                 errors.append(f"{b_id} Ch {ch_num}: Zero verses extracted")

@@ -411,7 +411,8 @@
             [
               {
                 "verse": 20,
-                "text": "This is how the priest will make the people clean from their sins. God will forgive them when the priest does this."
+                "text": "This is how the priest will make the people clean from their sins. God will forgive them when the priest does this.",
+                "isContinuation": true
               },
               {
                 "verse": 21,
@@ -452,7 +453,8 @@
             [
               {
                 "verse": 26,
-                "text": "This is how the priest will make the leader clean from his sin. God will forgive the leader when the priest does this."
+                "text": "This is how the priest will make the leader clean from his sin. God will forgive the leader when the priest does this.",
+                "isContinuation": true
               }
             ]
           ]
@@ -489,7 +491,8 @@
             [
               {
                 "verse": 31,
-                "text": "This is how the priest will make the person clean from his sin. God will forgive the person when the priest does this."
+                "text": "This is how the priest will make the person clean from his sin. God will forgive the person when the priest does this.",
+                "isContinuation": true
               }
             ],
             [
@@ -513,7 +516,8 @@
             [
               {
                 "verse": 35,
-                "text": "This is how the priest will make the person clean from their sin. God will forgive the person when the priest does this."
+                "text": "This is how the priest will make the person clean from their sin. God will forgive the person when the priest does this.",
+                "isContinuation": true
               }
             ]
           ]
@@ -891,25 +895,29 @@
             [
               {
                 "verse": 12,
-                "text": "flat loaves of bread that have olive oil mixed in the flour,"
+                "text": "flat loaves of bread that have olive oil mixed in the flour,",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 12,
-                "text": "flat biscuits that have olive oil on them,"
+                "text": "flat biscuits that have olive oil on them,",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 12,
-                "text": "and round loaves that have olive oil mixed with the best flour."
+                "text": "and round loaves that have olive oil mixed with the best flour.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 12,
-                "text": "None of these may have any yeast in them."
+                "text": "None of these may have any yeast in them.",
+                "isContinuation": true
               },
               {
                 "verse": 13,
@@ -1028,12 +1036,6 @@
               {
                 "verse": 36,
                 "text": "The Lord commanded the Israelites to do this on the day that Moses anointed them as priests. This part of the offerings would always belong to the priests."
-              }
-            ],
-            [
-              {
-                "verse": 36,
-                "text": "37 These are the rules for burnt offerings, grain offerings, sin offerings, guilt offerings, friendship offerings and offerings for new priests. 38 The Lord gave these rules to Moses on Mount Sinai. On that day, the Lord commanded Israel's people to start making these offerings to him in the Sinai Desert.7:38"
               }
             ],
             [
@@ -1418,7 +1420,8 @@
             [
               {
                 "verse": 3,
-                "text": "Aaron did not say anything."
+                "text": "Aaron did not say anything.",
+                "isContinuation": true
               }
             ],
             [
@@ -2741,7 +2744,8 @@
             [
               {
                 "verse": 34,
-                "text": "Moses did all these things as the Lord had commanded him."
+                "text": "Moses did all these things as the Lord had commanded him.",
+                "isContinuation": true
               }
             ]
           ]
@@ -2883,7 +2887,8 @@
             [
               {
                 "verse": 6,
-                "text": "“You must not have sex with anyone who belongs to your own family. I am the Lord."
+                "text": "“You must not have sex with anyone who belongs to your own family. I am the Lord.",
+                "isContinuation": true
               }
             ],
             [
@@ -3430,7 +3435,8 @@
             [
               {
                 "verse": 24,
-                "text": "I am the Lord your God. I have chosen you to be separate from other people."
+                "text": "I am the Lord your God. I have chosen you to be separate from other people.",
+                "isContinuation": true
               },
               {
                 "verse": 25,
@@ -3804,7 +3810,8 @@
             [
               {
                 "verse": 2,
-                "text": "These are the special days and festivals that I have chosen. At these times you must meet together to worship me."
+                "text": "These are the special days and festivals that I have chosen. At these times you must meet together to worship me.",
+                "isContinuation": true
               }
             ],
             [
@@ -4031,12 +4038,6 @@
             ],
             [
               {
-                "verse": 43,
-                "text": "44 Moses told the Israelites these rules about the festivals that the Lord had chosen. They were times for them to worship him."
-              }
-            ],
-            [
-              {
                 "verse": 44,
                 "text": "Moses told the Israelites these rules about the festivals that the Lord had chosen. They were times for them to worship him."
               }
@@ -4202,7 +4203,8 @@
             [
               {
                 "verse": 2,
-                "text": "You will go into the land that I will give to you. Then the land must have a rest every seven years. That will give me honour."
+                "text": "You will go into the land that I will give to you. Then the land must have a rest every seven years. That will give me honour.",
+                "isContinuation": true
               },
               {
                 "verse": 3,
@@ -4694,12 +4696,6 @@
             ],
             [
               {
-                "verse": 45,
-                "text": "46 These are the laws, rules and commands that the Lord told Moses on Mount Sinai. They are his covenant with Israel's people."
-              }
-            ],
-            [
-              {
                 "verse": 46,
                 "text": "These are the laws, rules and commands that the Lord told Moses on Mount Sinai. They are his covenant with Israel's people."
               }
@@ -4890,12 +4886,6 @@
               {
                 "verse": 33,
                 "text": "The owner must not pick what animal he will give to the Lord. He must not change a good animal for a bad animal. He must not change a bad animal for a good animal. If anyone does that, both animals will belong to the Lord as holy animals. The owner cannot buy the animal back for himself.” ’"
-              }
-            ],
-            [
-              {
-                "verse": 33,
-                "text": "34 These are the commands that the Lord gave to Moses on Mount Sinai. He told Moses to teach them to Israel's people."
               }
             ],
             [

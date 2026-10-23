@@ -27,7 +27,8 @@
             [
               {
                 "verse": 1,
-                "text": "We are writing to the people of the church in Thessalonica. You belong to God our Father, and to the Lord Jesus Christ."
+                "text": "We are writing to the people of the church in Thessalonica. You belong to God our Father, and to the Lord Jesus Christ.",
+                "isContinuation": true
               }
             ],
             [
@@ -75,7 +76,8 @@
             [
               {
                 "verse": 7,
-                "text": "This will happen when the Lord Jesus comes down from heaven. He will come with his powerful angels,"
+                "text": "This will happen when the Lord Jesus comes down from heaven. He will come with his powerful angels,",
+                "isContinuation": true
               },
               {
                 "verse": 8,

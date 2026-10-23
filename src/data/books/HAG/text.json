@@ -177,7 +177,8 @@
             [
               {
                 "verse": 12,
-                "text": "The priests replied, ‘No.’"
+                "text": "The priests replied, ‘No.’",
+                "isContinuation": true
               }
             ],
             [
@@ -189,7 +190,8 @@
             [
               {
                 "verse": 13,
-                "text": "The priests replied, ‘Yes, those things would be unclean.’"
+                "text": "The priests replied, ‘Yes, those things would be unclean.’",
+                "isContinuation": true
               }
             ],
             [

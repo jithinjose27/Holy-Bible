@@ -33,13 +33,15 @@
             [
               {
                 "verse": 2,
-                "text": "Isaac was the father of Jacob."
+                "text": "Isaac was the father of Jacob.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 2,
-                "text": "Jacob was the father of Judah and his brothers."
+                "text": "Jacob was the father of Judah and his brothers.",
+                "isContinuation": true
               }
             ],
             [
@@ -51,13 +53,15 @@
             [
               {
                 "verse": 3,
-                "text": "Perez was the father of Hezron."
+                "text": "Perez was the father of Hezron.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 3,
-                "text": "Hezron was the father of Ram."
+                "text": "Hezron was the father of Ram.",
+                "isContinuation": true
               }
             ],
             [
@@ -69,13 +73,15 @@
             [
               {
                 "verse": 4,
-                "text": "Amminadab was the father of Nahshon."
+                "text": "Amminadab was the father of Nahshon.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 4,
-                "text": "Nahshon was the father of Salmon."
+                "text": "Nahshon was the father of Salmon.",
+                "isContinuation": true
               }
             ],
             [
@@ -87,13 +93,15 @@
             [
               {
                 "verse": 5,
-                "text": "Boaz was the father of Obed. Ruth was his mother."
+                "text": "Boaz was the father of Obed. Ruth was his mother.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 5,
-                "text": "Obed was the father of Jesse."
+                "text": "Obed was the father of Jesse.",
+                "isContinuation": true
               }
             ],
             [
@@ -105,7 +113,8 @@
             [
               {
                 "verse": 6,
-                "text": "David was Solomon's father. Solomon's mother was the wife of Uriah."
+                "text": "David was Solomon's father. Solomon's mother was the wife of Uriah.",
+                "isContinuation": true
               }
             ],
             [
@@ -117,13 +126,15 @@
             [
               {
                 "verse": 7,
-                "text": "Rehoboam was the father of Abijah."
+                "text": "Rehoboam was the father of Abijah.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 7,
-                "text": "Abijah was the father of Asa."
+                "text": "Abijah was the father of Asa.",
+                "isContinuation": true
               }
             ],
             [
@@ -135,13 +146,15 @@
             [
               {
                 "verse": 8,
-                "text": "Jehoshaphat was the father of Jehoram."
+                "text": "Jehoshaphat was the father of Jehoram.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 8,
-                "text": "Jehoram was the father of Uzziah."
+                "text": "Jehoram was the father of Uzziah.",
+                "isContinuation": true
               }
             ],
             [
@@ -153,13 +166,15 @@
             [
               {
                 "verse": 9,
-                "text": "Jotham was the father of Ahaz."
+                "text": "Jotham was the father of Ahaz.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 9,
-                "text": "Ahaz was the father of Hezekiah."
+                "text": "Ahaz was the father of Hezekiah.",
+                "isContinuation": true
               }
             ],
             [
@@ -171,13 +186,15 @@
             [
               {
                 "verse": 10,
-                "text": "Manasseh was the father of Amon."
+                "text": "Manasseh was the father of Amon.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 10,
-                "text": "Amon was the father of Josiah."
+                "text": "Amon was the father of Josiah.",
+                "isContinuation": true
               }
             ],
             [
@@ -189,7 +206,8 @@
             [
               {
                 "verse": 11,
-                "text": "This was at the time when Babylon's army took the Israelites away to Babylon as their prisoners."
+                "text": "This was at the time when Babylon's army took the Israelites away to Babylon as their prisoners.",
+                "isContinuation": true
               }
             ],
             [
@@ -201,13 +219,15 @@
             [
               {
                 "verse": 12,
-                "text": "Jeconiah was the father of Shealtiel."
+                "text": "Jeconiah was the father of Shealtiel.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 12,
-                "text": "Shealtiel was the father of Zerubbabel."
+                "text": "Shealtiel was the father of Zerubbabel.",
+                "isContinuation": true
               }
             ],
             [
@@ -219,13 +239,15 @@
             [
               {
                 "verse": 13,
-                "text": "Abiud was the father of Eliakim."
+                "text": "Abiud was the father of Eliakim.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 13,
-                "text": "Eliakim was the father of Azor."
+                "text": "Eliakim was the father of Azor.",
+                "isContinuation": true
               }
             ],
             [
@@ -237,13 +259,15 @@
             [
               {
                 "verse": 14,
-                "text": "Zadok was the father of Akim."
+                "text": "Zadok was the father of Akim.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 14,
-                "text": "Akim was the father of Eliud."
+                "text": "Akim was the father of Eliud.",
+                "isContinuation": true
               }
             ],
             [
@@ -255,13 +279,15 @@
             [
               {
                 "verse": 15,
-                "text": "Eleazar was the father of Matthan."
+                "text": "Eleazar was the father of Matthan.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 15,
-                "text": "Matthan was the father of Jacob."
+                "text": "Matthan was the father of Jacob.",
+                "isContinuation": true
               }
             ],
             [
@@ -273,7 +299,8 @@
             [
               {
                 "verse": 16,
-                "text": "Joseph married Mary. Mary was the mother of Jesus. Jesus is the one who is called Christ, the Messiah."
+                "text": "Joseph married Mary. Mary was the mother of Jesus. Jesus is the one who is called Christ, the Messiah.",
+                "isContinuation": true
               }
             ],
             [
@@ -385,25 +412,29 @@
             [
               {
                 "verse": 6,
-                "text": "your town is a very important town in Judea."
+                "text": "your town is a very important town in Judea.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 6,
-                "text": "A person born in your town will become a ruler of my people, Israel."
+                "text": "A person born in your town will become a ruler of my people, Israel.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 6,
-                "text": "He will lead my people"
+                "text": "He will lead my people",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 6,
-                "text": "like a shepherd who leads his sheep.” ’"
+                "text": "like a shepherd who leads his sheep.” ’",
+                "isContinuation": true
               }
             ],
             [
@@ -475,25 +506,29 @@
             [
               {
                 "verse": 18,
-                "text": "Someone is weeping loudly."
+                "text": "Someone is weeping loudly.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 18,
-                "text": "It is Rachel, and she is weeping for her children."
+                "text": "It is Rachel, and she is weeping for her children.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 18,
-                "text": "Nobody can comfort her,"
+                "text": "Nobody can comfort her,",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 18,
-                "text": "because her children are dead.’"
+                "text": "because her children are dead.’",
+                "isContinuation": true
               }
             ]
           ]
@@ -571,25 +606,29 @@
             [
               {
                 "verse": 3,
-                "text": "‘Somebody's voice is shouting in the wilderness,"
+                "text": "‘Somebody's voice is shouting in the wilderness,",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 3,
-                "text": "“The Lord will come soon,"
+                "text": "“The Lord will come soon,",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 3,
-                "text": "so prepare a way for him."
+                "text": "so prepare a way for him.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 3,
-                "text": "Make the paths straight for him.” ’"
+                "text": "Make the paths straight for him.” ’",
+                "isContinuation": true
               }
             ],
             [
@@ -722,19 +761,22 @@
             [
               {
                 "verse": 6,
-                "text": "“God will tell his angels to keep you safe."
+                "text": "“God will tell his angels to keep you safe.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 6,
-                "text": "They will hold you safely in their hands."
+                "text": "They will hold you safely in their hands.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 6,
-                "text": "They will not let you hurt your foot on a stone”.’"
+                "text": "They will not let you hurt your foot on a stone”.’",
+                "isContinuation": true
               }
             ],
             [
@@ -797,19 +839,22 @@
             [
               {
                 "verse": 15,
-                "text": "Your land is on the way to Lake Galilee."
+                "text": "Your land is on the way to Lake Galilee.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 15,
-                "text": "It is across the Jordan River in Galilee,"
+                "text": "It is across the Jordan River in Galilee,",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 15,
-                "text": "where people of other nations live."
+                "text": "where people of other nations live.",
+                "isContinuation": true
               }
             ],
             [
@@ -821,19 +866,15 @@
             [
               {
                 "verse": 16,
-                "text": "They live in the shadow which death brings."
+                "text": "They live in the shadow which death brings.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 16,
-                "text": "Now God will send a light to shine on them.’"
-              }
-            ],
-            [
-              {
-                "verse": 16,
-                "text": "17 Then Jesus began to speak God's message to people. He said, ‘You must turn away from your sins and change how you live. Do this now, because the kingdom of heaven has come very near.’Jesus asks four men to be his disciples 18 One day, Jesus was walking along the shore of Lake Galilee. He saw two men who were brothers. One man was called Simon, and he was also called Peter. His brother's name was Andrew. Their job was to catch fish. They were throwing their nets into the lake to catch fish. 19 Jesus said to them, ‘Come with me and be my disciples. Then I will teach you how to catch people, instead of fish.’4:19 20 Simon and Andrew immediately put their nets down and they went with Jesus. 21 They continued to walk along the shore. Soon Jesus saw two other men who were brothers. They were called James and John. They were in their boat with their father, Zebedee. They were mending their nets. Jesus said to James and John, ‘Come with me.’ 22 The brothers immediately left the boat and their father. They went with Jesus to be his disciples.Jesus teaches God's good news and he makes sick people well 23 Jesus travelled everywhere in Galilee. He taught the people in the Jewish meeting places. He told them the good news about God's kingdom. He also caused sick people to become well again from all their different pains and illnesses. 24 More and more people in all parts of Syria heard about Jesus. So they brought all the sick people to see him. These people had many different illnesses, and some of them had strong pains. Bad spirits were living inside some of them. Some people could not control their bodies, and some people could not walk properly. Jesus caused all these people to become well again. 25 Because of this, large crowds of people followed him. They came from Galilee and from the region called ‘The ten cities’. Some of them came from Jerusalem, and other parts of Judea. And some came from the other side of the Jordan River."
+                "text": "Now God will send a light to shine on them.’",
+                "isContinuation": true
               }
             ],
             [
@@ -937,7 +978,8 @@
             [
               {
                 "verse": 3,
-                "text": "The kingdom of heaven belongs to people like that."
+                "text": "The kingdom of heaven belongs to people like that.",
+                "isContinuation": true
               }
             ],
             [
@@ -949,7 +991,8 @@
             [
               {
                 "verse": 4,
-                "text": "God will come near to help them."
+                "text": "God will come near to help them.",
+                "isContinuation": true
               }
             ],
             [
@@ -961,7 +1004,8 @@
             [
               {
                 "verse": 5,
-                "text": "The whole earth will belong to them."
+                "text": "The whole earth will belong to them.",
+                "isContinuation": true
               }
             ],
             [
@@ -973,7 +1017,8 @@
             [
               {
                 "verse": 6,
-                "text": "God will give them everything that they need."
+                "text": "God will give them everything that they need.",
+                "isContinuation": true
               }
             ],
             [
@@ -985,7 +1030,8 @@
             [
               {
                 "verse": 7,
-                "text": "God will forgive people like that."
+                "text": "God will forgive people like that.",
+                "isContinuation": true
               }
             ],
             [
@@ -997,7 +1043,8 @@
             [
               {
                 "verse": 8,
-                "text": "They will come near to God and see him."
+                "text": "They will come near to God and see him.",
+                "isContinuation": true
               }
             ],
             [
@@ -1009,7 +1056,8 @@
             [
               {
                 "verse": 9,
-                "text": "God will call them his children."
+                "text": "God will call them his children.",
+                "isContinuation": true
               }
             ],
             [
@@ -1021,7 +1069,8 @@
             [
               {
                 "verse": 10,
-                "text": "The kingdom of heaven belongs to people like that."
+                "text": "The kingdom of heaven belongs to people like that.",
+                "isContinuation": true
               }
             ],
             [
@@ -1326,13 +1375,15 @@
             [
               {
                 "verse": 9,
-                "text": "“God, our Father who is in heaven,"
+                "text": "“God, our Father who is in heaven,",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 9,
-                "text": "we want people to give honour to you."
+                "text": "we want people to give honour to you.",
+                "isContinuation": true
               }
             ],
             [
@@ -1344,13 +1395,15 @@
             [
               {
                 "verse": 10,
-                "text": "We want everyone to obey you on earth,"
+                "text": "We want everyone to obey you on earth,",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 10,
-                "text": "as everyone in heaven obeys you."
+                "text": "as everyone in heaven obeys you.",
+                "isContinuation": true
               }
             ],
             [
@@ -1368,7 +1421,8 @@
             [
               {
                 "verse": 12,
-                "text": "In the same way, please forgive us for the wrong things that we have done."
+                "text": "In the same way, please forgive us for the wrong things that we have done.",
+                "isContinuation": true
               }
             ],
             [
@@ -1380,7 +1434,8 @@
             [
               {
                 "verse": 13,
-                "text": "Keep us safe from Satan, the evil one.” ’"
+                "text": "Keep us safe from Satan, the evil one.” ’",
+                "isContinuation": true
               }
             ],
             [
@@ -1794,13 +1849,15 @@
             [
               {
                 "verse": 17,
-                "text": "‘He took away everything that makes us weak."
+                "text": "‘He took away everything that makes us weak.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 17,
-                "text": "He carried away our diseases.’"
+                "text": "He carried away our diseases.’",
+                "isContinuation": true
               }
             ]
           ]
@@ -1967,7 +2024,8 @@
             [
               {
                 "verse": 6,
-                "text": "Then Jesus said to the man who could not walk, ‘Stand up. Pick up your mat and go home.’"
+                "text": "Then Jesus said to the man who could not walk, ‘Stand up. Pick up your mat and go home.’",
+                "isContinuation": true
               },
               {
                 "verse": 7,
@@ -2113,7 +2171,8 @@
             [
               {
                 "verse": 28,
-                "text": "The men replied, ‘Yes, Master, we believe that you can do this.’"
+                "text": "The men replied, ‘Yes, Master, we believe that you can do this.’",
+                "isContinuation": true
               }
             ],
             [
@@ -2216,19 +2275,22 @@
             [
               {
                 "verse": 2,
-                "text": "The first apostle is Simon, who was also called Peter."
+                "text": "The first apostle is Simon, who was also called Peter.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 2,
-                "text": "Then Simon's brother, who was called Andrew."
+                "text": "Then Simon's brother, who was called Andrew.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 2,
-                "text": "Also James and his brother John, who were Zebedee's sons."
+                "text": "Also James and his brother John, who were Zebedee's sons.",
+                "isContinuation": true
               }
             ],
             [
@@ -2240,13 +2302,15 @@
             [
               {
                 "verse": 3,
-                "text": "There were Thomas and Matthew. (Matthew's job was to take taxes from people.)"
+                "text": "There were Thomas and Matthew. (Matthew's job was to take taxes from people.)",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 3,
-                "text": "And James who was the son of Alphaeus, and Thaddaeus."
+                "text": "And James who was the son of Alphaeus, and Thaddaeus.",
+                "isContinuation": true
               }
             ],
             [
@@ -2421,13 +2485,15 @@
             [
               {
                 "verse": 35,
-                "text": "A daughter will fight against her mother."
+                "text": "A daughter will fight against her mother.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 35,
-                "text": "A woman will fight against her husband's mother."
+                "text": "A woman will fight against her husband's mother.",
+                "isContinuation": true
               }
             ],
             [
@@ -2544,19 +2610,22 @@
             [
               {
                 "verse": 10,
-                "text": "“Listen! I will send someone to go in front of you."
+                "text": "“Listen! I will send someone to go in front of you.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 10,
-                "text": "He will speak my message."
+                "text": "He will speak my message.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 10,
-                "text": "He will prepare a way for you.” ’"
+                "text": "He will prepare a way for you.” ’",
+                "isContinuation": true
               }
             ],
             [
@@ -2596,19 +2665,22 @@
             [
               {
                 "verse": 17,
-                "text": "but you did not dance."
+                "text": "but you did not dance.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 17,
-                "text": "We sang a sad funeral song,"
+                "text": "We sang a sad funeral song,",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 17,
-                "text": "but you did not cry.”"
+                "text": "but you did not cry.”",
+                "isContinuation": true
               }
             ],
             [
@@ -2805,25 +2877,29 @@
             [
               {
                 "verse": 18,
-                "text": "I have chosen him to serve me."
+                "text": "I have chosen him to serve me.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 18,
-                "text": "I love him and he makes me very happy."
+                "text": "I love him and he makes me very happy.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 18,
-                "text": "I will give him the strength of my Spirit."
+                "text": "I will give him the strength of my Spirit.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 18,
-                "text": "He will tell all the nations that I will judge them fairly."
+                "text": "He will tell all the nations that I will judge them fairly.",
+                "isContinuation": true
               }
             ],
             [
@@ -2835,7 +2911,8 @@
             [
               {
                 "verse": 19,
-                "text": "People will not hear his loud voice in the streets."
+                "text": "People will not hear his loud voice in the streets.",
+                "isContinuation": true
               }
             ],
             [
@@ -2847,25 +2924,29 @@
             [
               {
                 "verse": 20,
-                "text": "like someone who breaks a weak reed."
+                "text": "like someone who breaks a weak reed.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 20,
-                "text": "He will not destroy helpless people,"
+                "text": "He will not destroy helpless people,",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 20,
-                "text": "like someone who puts out a weak flame."
+                "text": "like someone who puts out a weak flame.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 20,
-                "text": "He will do this until there is justice everywhere."
+                "text": "He will do this until there is justice everywhere.",
+                "isContinuation": true
               }
             ],
             [
@@ -3074,7 +3155,8 @@
             [
               {
                 "verse": 3,
-                "text": "He said to them: ‘Listen to me! A farmer went out to plant seeds in his field."
+                "text": "He said to them: ‘Listen to me! A farmer went out to plant seeds in his field.",
+                "isContinuation": true
               },
               {
                 "verse": 4,
@@ -3131,25 +3213,29 @@
             [
               {
                 "verse": 13,
-                "text": "These people look,"
+                "text": "These people look,",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 13,
-                "text": "but they do not really see clearly."
+                "text": "but they do not really see clearly.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 13,
-                "text": "They hear the words,"
+                "text": "They hear the words,",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 13,
-                "text": "but they do not really understand."
+                "text": "but they do not really understand.",
+                "isContinuation": true
               }
             ],
             [
@@ -3161,25 +3247,29 @@
             [
               {
                 "verse": 14,
-                "text": "“You will listen and listen,"
+                "text": "“You will listen and listen,",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 14,
-                "text": "but you will not understand."
+                "text": "but you will not understand.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 14,
-                "text": "You will look and look,"
+                "text": "You will look and look,",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 14,
-                "text": "but you will not see anything."
+                "text": "but you will not see anything.",
+                "isContinuation": true
               }
             ],
             [
@@ -3191,61 +3281,71 @@
             [
               {
                 "verse": 15,
-                "text": "They are like people who have shut their ears."
+                "text": "They are like people who have shut their ears.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 15,
-                "text": "They are like people who have shut their eyes."
+                "text": "They are like people who have shut their eyes.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 15,
-                "text": "If they did want to look,"
+                "text": "If they did want to look,",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 15,
-                "text": "then they would really see."
+                "text": "then they would really see.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 15,
-                "text": "If they did want to listen,"
+                "text": "If they did want to listen,",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 15,
-                "text": "then they would really hear."
+                "text": "then they would really hear.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 15,
-                "text": "They would understand my message."
+                "text": "They would understand my message.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 15,
-                "text": "They would turn back to obey me."
+                "text": "They would turn back to obey me.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 15,
-                "text": "Then I would forgive them"
+                "text": "Then I would forgive them",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 15,
-                "text": "and I would make them well.” ’"
+                "text": "and I would make them well.” ’",
+                "isContinuation": true
               }
             ],
             [
@@ -3327,7 +3427,8 @@
             [
               {
                 "verse": 28,
-                "text": "So the servants then asked the farmer, “Do you want us to go and pull up the weeds?”"
+                "text": "So the servants then asked the farmer, “Do you want us to go and pull up the weeds?”",
+                "isContinuation": true
               }
             ],
             [
@@ -3379,19 +3480,22 @@
             [
               {
                 "verse": 35,
-                "text": "‘I will use stories when I speak to them."
+                "text": "‘I will use stories when I speak to them.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 35,
-                "text": "I will teach them secret things."
+                "text": "I will teach them secret things.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 35,
-                "text": "People have never learned these things before, since the world began.’"
+                "text": "People have never learned these things before, since the world began.’",
+                "isContinuation": true
               }
             ]
           ]
@@ -3490,7 +3594,8 @@
             [
               {
                 "verse": 51,
-                "text": "They replied, ‘Yes, we have understood.’"
+                "text": "They replied, ‘Yes, we have understood.’",
+                "isContinuation": true
               }
             ],
             [
@@ -3531,7 +3636,8 @@
             [
               {
                 "verse": 57,
-                "text": "Jesus said to them, ‘If a man is a prophet from God, people everywhere will respect him. But the people in his own town will not accept him. Even the people of his own house will not respect him.’"
+                "text": "Jesus said to them, ‘If a man is a prophet from God, people everywhere will respect him. But the people in his own town will not accept him. Even the people of his own house will not respect him.’",
+                "isContinuation": true
               }
             ],
             [
@@ -3607,7 +3713,8 @@
             [
               {
                 "verse": 8,
-                "text": "So the girl said to Herod, ‘Give me the head of John the Baptist on a plate.’"
+                "text": "So the girl said to Herod, ‘Give me the head of John the Baptist on a plate.’",
+                "isContinuation": true
               }
             ],
             [
@@ -3731,7 +3838,8 @@
             [
               {
                 "verse": 29,
-                "text": "So Peter got down out of the boat. He walked on the water and he came towards Jesus."
+                "text": "So Peter got down out of the boat. He walked on the water and he came towards Jesus.",
+                "isContinuation": true
               },
               {
                 "verse": 30,
@@ -3834,7 +3942,8 @@
             [
               {
                 "verse": 8,
-                "text": "but they do not want to obey me."
+                "text": "but they do not want to obey me.",
+                "isContinuation": true
               }
             ],
             [
@@ -3846,13 +3955,15 @@
             [
               {
                 "verse": 9,
-                "text": "but what they say has no purpose."
+                "text": "but what they say has no purpose.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 9,
-                "text": "They teach their own rules, which I did not give to them.” ’"
+                "text": "They teach their own rules, which I did not give to them.” ’",
+                "isContinuation": true
               }
             ]
           ]
@@ -3972,7 +4083,8 @@
             [
               {
                 "verse": 28,
-                "text": "At that moment the woman's daughter became well again."
+                "text": "At that moment the woman's daughter became well again.",
+                "isContinuation": true
               }
             ]
           ]
@@ -4022,7 +4134,8 @@
             [
               {
                 "verse": 34,
-                "text": "They replied, ‘We have seven loaves and a few small fish.’"
+                "text": "They replied, ‘We have seven loaves and a few small fish.’",
+                "isContinuation": true
               }
             ],
             [
@@ -4088,7 +4201,8 @@
             [
               {
                 "verse": 4,
-                "text": "Then Jesus went away and left them."
+                "text": "Then Jesus went away and left them.",
+                "isContinuation": true
               }
             ]
           ]
@@ -4348,7 +4462,8 @@
             [
               {
                 "verse": 17,
-                "text": "Then Jesus said to the man, ‘Bring the boy here to me.’"
+                "text": "Then Jesus said to the man, ‘Bring the boy here to me.’",
+                "isContinuation": true
               }
             ],
             [
@@ -4408,7 +4523,8 @@
             [
               {
                 "verse": 25,
-                "text": "Then Peter returned to the house where Jesus was staying. Before Peter could say anything, Jesus spoke to him first. He said, ‘Here is a question for you to answer, Simon. Who are the people who must pay taxes and money to the kings in this world? Do the rulers take taxes from their own people? Or do they take taxes from foreign people?’"
+                "text": "Then Peter returned to the house where Jesus was staying. Before Peter could say anything, Jesus spoke to him first. He said, ‘Here is a question for you to answer, Simon. Who are the people who must pay taxes and money to the kings in this world? Do the rulers take taxes from their own people? Or do they take taxes from foreign people?’",
+                "isContinuation": true
               }
             ],
             [
@@ -4420,7 +4536,8 @@
             [
               {
                 "verse": 26,
-                "text": "Jesus said to him, ‘This means that the ruler's own people do not need to pay anything."
+                "text": "Jesus said to him, ‘This means that the ruler's own people do not need to pay anything.",
+                "isContinuation": true
               },
               {
                 "verse": 27,
@@ -4775,7 +4892,8 @@
             [
               {
                 "verse": 18,
-                "text": "So Jesus replied, ‘Do not kill anyone. Do not have sex with anyone who is not your wife. Do not rob anyone. Do not say things that are not true about people."
+                "text": "So Jesus replied, ‘Do not kill anyone. Do not have sex with anyone who is not your wife. Do not rob anyone. Do not say things that are not true about people.",
+                "isContinuation": true
               },
               {
                 "verse": 19,
@@ -4889,7 +5007,8 @@
             [
               {
                 "verse": 5,
-                "text": "The master went out again at noon, and he went again three hours after that. Both times he sent men to his field to work."
+                "text": "The master went out again at noon, and he went again three hours after that. Both times he sent men to his field to work.",
+                "isContinuation": true
               },
               {
                 "verse": 6,
@@ -4905,7 +5024,8 @@
             [
               {
                 "verse": 7,
-                "text": "So the master said to them, “You also go now and work in my field.”"
+                "text": "So the master said to them, “You also go now and work in my field.”",
+                "isContinuation": true
               }
             ],
             [
@@ -4991,7 +5111,8 @@
             [
               {
                 "verse": 21,
-                "text": "She said, ‘One day, you will be king. Then I want my two sons to rule with you. One may sit at your right side and the other one at your left side. Please will you do this?’"
+                "text": "She said, ‘One day, you will be king. Then I want my two sons to rule with you. One may sit at your right side and the other one at your left side. Please will you do this?’",
+                "isContinuation": true
               }
             ],
             [
@@ -5003,7 +5124,8 @@
             [
               {
                 "verse": 22,
-                "text": "James and John replied, ‘Yes, we can do that.’"
+                "text": "James and John replied, ‘Yes, we can do that.’",
+                "isContinuation": true
               }
             ],
             [
@@ -5122,19 +5244,22 @@
             [
               {
                 "verse": 5,
-                "text": "“Look, your king is coming to you."
+                "text": "“Look, your king is coming to you.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 5,
-                "text": "He is humble and he is riding on a donkey."
+                "text": "He is humble and he is riding on a donkey.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 5,
-                "text": "Yes, he is riding on a young donkey.” ’"
+                "text": "Yes, he is riding on a young donkey.” ’",
+                "isContinuation": true
               }
             ],
             [
@@ -5160,19 +5285,22 @@
             [
               {
                 "verse": 9,
-                "text": "‘We praise the Son of David!"
+                "text": "‘We praise the Son of David!",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 9,
-                "text": "May the Lord God bless the king who comes with his authority!"
+                "text": "May the Lord God bless the king who comes with his authority!",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 9,
-                "text": "We praise God in heaven above!’"
+                "text": "We praise God in heaven above!’",
+                "isContinuation": true
               }
             ],
             [
@@ -5223,19 +5351,22 @@
             [
               {
                 "verse": 16,
-                "text": "Jesus replied, ‘Yes, I can hear them. I am sure that you have read this in the Bible:"
+                "text": "Jesus replied, ‘Yes, I can hear them. I am sure that you have read this in the Bible:",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 16,
-                "text": "“ Lord God, babies and children praise you."
+                "text": "“ Lord God, babies and children praise you.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 16,
-                "text": "You yourself have taught them to do that.” ’"
+                "text": "You yourself have taught them to do that.” ’",
+                "isContinuation": true
               }
             ],
             [
@@ -5299,7 +5430,8 @@
             [
               {
                 "verse": 25,
-                "text": "Then the Jewish leaders talked to each other about Jesus' question. They said, ‘We could say that God gave John his authority. But if we say that, Jesus will say to us, “Then you should have believed John.”"
+                "text": "Then the Jewish leaders talked to each other about Jesus' question. They said, ‘We could say that God gave John his authority. But if we say that, Jesus will say to us, “Then you should have believed John.”",
+                "isContinuation": true
               },
               {
                 "verse": 26,
@@ -5315,7 +5447,8 @@
             [
               {
                 "verse": 27,
-                "text": "Jesus said to them, ‘You will not answer my question. So I will not tell you what authority I have to do these things.’"
+                "text": "Jesus said to them, ‘You will not answer my question. So I will not tell you what authority I have to do these things.’",
+                "isContinuation": true
               }
             ]
           ]
@@ -5350,13 +5483,15 @@
             [
               {
                 "verse": 31,
-                "text": "The Jewish leaders replied, ‘The older son did what his father wanted.’"
+                "text": "The Jewish leaders replied, ‘The older son did what his father wanted.’",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 31,
-                "text": "Jesus said to them, ‘I tell you this. The men who take taxes from people are going into the kingdom of God before you. It is the same with prostitutes. They also are going into the kingdom of God before you."
+                "text": "Jesus said to them, ‘I tell you this. The men who take taxes from people are going into the kingdom of God before you. It is the same with prostitutes. They also are going into the kingdom of God before you.",
+                "isContinuation": true
               },
               {
                 "verse": 32,
@@ -5377,7 +5512,8 @@
             [
               {
                 "verse": 33,
-                "text": "The man then found some farmers to work in the vineyard for him. Then he went away to another country."
+                "text": "The man then found some farmers to work in the vineyard for him. Then he went away to another country.",
+                "isContinuation": true
               },
               {
                 "verse": 34,
@@ -5427,31 +5563,36 @@
             [
               {
                 "verse": 42,
-                "text": "“The builders refused to use a certain stone."
+                "text": "“The builders refused to use a certain stone.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 42,
-                "text": "They thought that it had no value."
+                "text": "They thought that it had no value.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 42,
-                "text": "But now that stone has become the most important stone at the corner of the building."
+                "text": "But now that stone has become the most important stone at the corner of the building.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 42,
-                "text": "The Lord God did this."
+                "text": "The Lord God did this.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 42,
-                "text": "We can see that he did something great.”"
+                "text": "We can see that he did something great.”",
+                "isContinuation": true
               }
             ],
             [
@@ -5604,7 +5745,8 @@
             [
               {
                 "verse": 19,
-                "text": "So they brought a coin to him."
+                "text": "So they brought a coin to him.",
+                "isContinuation": true
               },
               {
                 "verse": 20,
@@ -5620,7 +5762,8 @@
             [
               {
                 "verse": 21,
-                "text": "Jesus said to them, ‘So you should give to Caesar the things that belong to Caesar. And give to God the things that belong to God.’"
+                "text": "Jesus said to them, ‘So you should give to Caesar the things that belong to Caesar. And give to God the things that belong to God.’",
+                "isContinuation": true
               }
             ],
             [
@@ -5743,7 +5886,8 @@
             [
               {
                 "verse": 42,
-                "text": "The Pharisees replied, ‘He will be King David's son.’"
+                "text": "The Pharisees replied, ‘He will be King David's son.’",
+                "isContinuation": true
               }
             ],
             [
@@ -5761,13 +5905,15 @@
             [
               {
                 "verse": 44,
-                "text": "Sit at my right side until I win against your enemies."
+                "text": "Sit at my right side until I win against your enemies.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 44,
-                "text": "Then you will be able to put your feet on them.”"
+                "text": "Then you will be able to put your feet on them.”",
+                "isContinuation": true
               }
             ],
             [
@@ -6169,25 +6315,29 @@
             [
               {
                 "verse": 29,
-                "text": "“The sun will become dark."
+                "text": "“The sun will become dark.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 29,
-                "text": "The moon will not shine any more."
+                "text": "The moon will not shine any more.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 29,
-                "text": "Stars will fall out of the sky"
+                "text": "Stars will fall out of the sky",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 29,
-                "text": "and the powerful things in the sky will shake.”"
+                "text": "and the powerful things in the sky will shake.”",
+                "isContinuation": true
               }
             ],
             [
@@ -6731,7 +6881,8 @@
             [
               {
                 "verse": 25,
-                "text": "Jesus replied to him, ‘Yes, you have said it.’"
+                "text": "Jesus replied to him, ‘Yes, you have said it.’",
+                "isContinuation": true
               }
             ],
             [
@@ -6774,13 +6925,15 @@
             [
               {
                 "verse": 31,
-                "text": "God says, “I will kill the shepherd who leads the sheep."
+                "text": "God says, “I will kill the shepherd who leads the sheep.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 31,
-                "text": "Then all the sheep will run away in different directions.” ’"
+                "text": "Then all the sheep will run away in different directions.” ’",
+                "isContinuation": true
               }
             ],
             [
@@ -6900,7 +7053,8 @@
             [
               {
                 "verse": 50,
-                "text": "Then the crowd of men came up to Jesus. They took hold of him to lead him away."
+                "text": "Then the crowd of men came up to Jesus. They took hold of him to lead him away.",
+                "isContinuation": true
               },
               {
                 "verse": 51,
@@ -6934,7 +7088,8 @@
             [
               {
                 "verse": 56,
-                "text": "Then all of Jesus' disciples ran away and left him."
+                "text": "Then all of Jesus' disciples ran away and left him.",
+                "isContinuation": true
               }
             ]
           ]
@@ -6967,7 +7122,8 @@
             [
               {
                 "verse": 60,
-                "text": "Then two men stood up and they said,"
+                "text": "Then two men stood up and they said,",
+                "isContinuation": true
               },
               {
                 "verse": 61,
@@ -6987,7 +7143,8 @@
             [
               {
                 "verse": 63,
-                "text": "So Caiaphas said to him, ‘I use the authority of the God who lives. You must promise to tell us what is true. Are you the Messiah? Are you the Son of God?’"
+                "text": "So Caiaphas said to him, ‘I use the authority of the God who lives. You must promise to tell us what is true. Are you the Messiah? Are you the Son of God?’",
+                "isContinuation": true
               }
             ],
             [
@@ -7009,7 +7166,8 @@
             [
               {
                 "verse": 66,
-                "text": "They replied, ‘He is guilty and he deserves to die.’"
+                "text": "They replied, ‘He is guilty and he deserves to die.’",
+                "isContinuation": true
               }
             ],
             [
@@ -7066,7 +7224,8 @@
             [
               {
                 "verse": 74,
-                "text": "Immediately after Peter said this, the cockerel sang."
+                "text": "Immediately after Peter said this, the cockerel sang.",
+                "isContinuation": true
               },
               {
                 "verse": 75,
@@ -7122,7 +7281,8 @@
             [
               {
                 "verse": 4,
-                "text": "They said to Judas, ‘That is not important to us. That is your problem.’"
+                "text": "They said to Judas, ‘That is not important to us. That is your problem.’",
+                "isContinuation": true
               }
             ],
             [
@@ -7169,7 +7329,8 @@
             [
               {
                 "verse": 11,
-                "text": "Jesus replied, ‘You have said it.’"
+                "text": "Jesus replied, ‘You have said it.’",
+                "isContinuation": true
               }
             ],
             [
@@ -7225,7 +7386,8 @@
             [
               {
                 "verse": 21,
-                "text": "The people answered, ‘Barabbas.’"
+                "text": "The people answered, ‘Barabbas.’",
+                "isContinuation": true
               }
             ],
             [
@@ -7237,7 +7399,8 @@
             [
               {
                 "verse": 22,
-                "text": "The people all shouted, ‘Take him and kill him on a cross!’"
+                "text": "The people all shouted, ‘Take him and kill him on a cross!’",
+                "isContinuation": true
               }
             ],
             [
@@ -7249,7 +7412,8 @@
             [
               {
                 "verse": 23,
-                "text": "But the people shouted even louder, ‘Kill him on a cross!’"
+                "text": "But the people shouted even louder, ‘Kill him on a cross!’",
+                "isContinuation": true
               }
             ],
             [

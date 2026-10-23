@@ -26,12 +26,6 @@
             ],
             [
               {
-                "verse": 1,
-                "text": "2 The Teacher says,‘Nothing has a purpose.Nothing that ever happens seems to have a purpose.’Everything continues in the same way 3 People work very hard while they live on the earth.But in the end, what do they receive in return for their work? 4 Old people die and then their children live after them.But the earth continues and it never changes. 5 The sun rises in the morningand it disappears in the evening.Then it quickly moves to rise again the next morning. 6 The wind blows to the south.Then it turns to the north.It blows in every direction.Then it starts again. 7 All rivers pour water into the sea,but the sea does not become full.The water returns to the rivers and it all happens again. 8 Everything continues in the same way.There is nothing important to talk about.Nothing that we see is enough to make us happy.There are always more things that we want to hear. 9 Things that are happening now will continue to happen in the future.What people have done beforeother people will do again.There is nothing truly new anywhere on the earth. 10 People may say, ‘Look! Here is something new!’But really it happened long ago,before we were born. 11 People do not remember things that happened in the past.In the future, people will not remember what has happened either.Wisdom has no purpose 12 I, the Teacher, ruled Israel as king in Jerusalem. 13 I decided to study everything that happens on the earth. I used wisdom to try to understand these things. I realized that God has given people hard work to do, which causes them to suffer. 14 I thought about all the things that people do on the earth. I realized that all these things have no purpose. It is like somebody who tries to catch the wind.1:12 15 If someone has bent something,you cannot always make it straight again.You cannot count things,if they are not there.1:15 16 I said to myself, ‘Listen! I have become very wise! I am much wiser than any of the kings who ruled in Jerusalem before me. I know a lot more things than they ever did!’ 17 So I decided to study how much wisdom and knowledge really help a person. I wanted to learn if it was better than someone who only does foolish things. But this was also useless, like somebody who tries to catch the wind. 18 The more wisdom you have,the more you will worry.The more you learn,the more you suffer.1:18"
-              }
-            ],
-            [
-              {
                 "verse": 2,
                 "text": "The Teacher says,"
               }
@@ -39,13 +33,15 @@
             [
               {
                 "verse": 2,
-                "text": "‘Nothing has a purpose."
+                "text": "‘Nothing has a purpose.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 2,
-                "text": "Nothing that ever happens seems to have a purpose.’"
+                "text": "Nothing that ever happens seems to have a purpose.’",
+                "isContinuation": true
               }
             ]
           ]
@@ -62,7 +58,8 @@
             [
               {
                 "verse": 3,
-                "text": "But in the end, what do they receive in return for their work?"
+                "text": "But in the end, what do they receive in return for their work?",
+                "isContinuation": true
               }
             ],
             [
@@ -74,7 +71,8 @@
             [
               {
                 "verse": 4,
-                "text": "But the earth continues and it never changes."
+                "text": "But the earth continues and it never changes.",
+                "isContinuation": true
               }
             ],
             [
@@ -86,13 +84,15 @@
             [
               {
                 "verse": 5,
-                "text": "and it disappears in the evening."
+                "text": "and it disappears in the evening.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 5,
-                "text": "Then it quickly moves to rise again the next morning."
+                "text": "Then it quickly moves to rise again the next morning.",
+                "isContinuation": true
               }
             ],
             [
@@ -104,19 +104,22 @@
             [
               {
                 "verse": 6,
-                "text": "Then it turns to the north."
+                "text": "Then it turns to the north.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 6,
-                "text": "It blows in every direction."
+                "text": "It blows in every direction.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 6,
-                "text": "Then it starts again."
+                "text": "Then it starts again.",
+                "isContinuation": true
               }
             ],
             [
@@ -128,13 +131,15 @@
             [
               {
                 "verse": 7,
-                "text": "but the sea does not become full."
+                "text": "but the sea does not become full.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 7,
-                "text": "The water returns to the rivers and it all happens again."
+                "text": "The water returns to the rivers and it all happens again.",
+                "isContinuation": true
               }
             ],
             [
@@ -146,19 +151,22 @@
             [
               {
                 "verse": 8,
-                "text": "There is nothing important to talk about."
+                "text": "There is nothing important to talk about.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 8,
-                "text": "Nothing that we see is enough to make us happy."
+                "text": "Nothing that we see is enough to make us happy.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 8,
-                "text": "There are always more things that we want to hear."
+                "text": "There are always more things that we want to hear.",
+                "isContinuation": true
               }
             ],
             [
@@ -170,19 +178,22 @@
             [
               {
                 "verse": 9,
-                "text": "What people have done before"
+                "text": "What people have done before",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 9,
-                "text": "other people will do again."
+                "text": "other people will do again.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 9,
-                "text": "There is nothing truly new anywhere on the earth."
+                "text": "There is nothing truly new anywhere on the earth.",
+                "isContinuation": true
               }
             ],
             [
@@ -194,13 +205,15 @@
             [
               {
                 "verse": 10,
-                "text": "But really it happened long ago,"
+                "text": "But really it happened long ago,",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 10,
-                "text": "before we were born."
+                "text": "before we were born.",
+                "isContinuation": true
               }
             ],
             [
@@ -212,7 +225,8 @@
             [
               {
                 "verse": 11,
-                "text": "In the future, people will not remember what has happened either."
+                "text": "In the future, people will not remember what has happened either.",
+                "isContinuation": true
               }
             ]
           ]
@@ -243,25 +257,22 @@
             [
               {
                 "verse": 15,
-                "text": "you cannot always make it straight again."
+                "text": "you cannot always make it straight again.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 15,
-                "text": "You cannot count things,"
+                "text": "You cannot count things,",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 15,
-                "text": "if they are not there."
-              }
-            ],
-            [
-              {
-                "verse": 15,
-                "text": "16 I said to myself, ‘Listen! I have become very wise! I am much wiser than any of the kings who ruled in Jerusalem before me. I know a lot more things than they ever did!’ 17 So I decided to study how much wisdom and knowledge really help a person. I wanted to learn if it was better than someone who only does foolish things. But this was also useless, like somebody who tries to catch the wind. 18 The more wisdom you have,the more you will worry.The more you learn,the more you suffer.1:18"
+                "text": "if they are not there.",
+                "isContinuation": true
               }
             ],
             [
@@ -283,19 +294,22 @@
             [
               {
                 "verse": 18,
-                "text": "the more you will worry."
+                "text": "the more you will worry.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 18,
-                "text": "The more you learn,"
+                "text": "The more you learn,",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 18,
-                "text": "the more you suffer."
+                "text": "the more you suffer.",
+                "isContinuation": true
               }
             ]
           ]
@@ -371,31 +385,36 @@
             [
               {
                 "verse": 10,
-                "text": "I took it for myself."
+                "text": "I took it for myself.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 10,
-                "text": "If something would give me pleasure,"
+                "text": "If something would give me pleasure,",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 10,
-                "text": "I did it."
+                "text": "I did it.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 10,
-                "text": "So all my work made me very happy."
+                "text": "So all my work made me very happy.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 10,
-                "text": "My hard work gave me things to enjoy."
+                "text": "My hard work gave me things to enjoy.",
+                "isContinuation": true
               }
             ],
             [
@@ -407,25 +426,29 @@
             [
               {
                 "verse": 11,
-                "text": "and all my hard work."
+                "text": "and all my hard work.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 11,
-                "text": "After all that, I realized that none of these things had a purpose."
+                "text": "After all that, I realized that none of these things had a purpose.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 11,
-                "text": "I was like somebody who tries to catch the wind."
+                "text": "I was like somebody who tries to catch the wind.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 11,
-                "text": "None of the things on earth have any value."
+                "text": "None of the things on earth have any value.",
+                "isContinuation": true
               }
             ]
           ]
@@ -442,19 +465,22 @@
             [
               {
                 "verse": 12,
-                "text": "I also thought about foolish ways to live."
+                "text": "I also thought about foolish ways to live.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 12,
-                "text": "I thought, ‘The next king will not do any more"
+                "text": "I thought, ‘The next king will not do any more",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 12,
-                "text": "than I have already done.’"
+                "text": "than I have already done.’",
+                "isContinuation": true
               }
             ],
             [
@@ -466,7 +492,8 @@
             [
               {
                 "verse": 13,
-                "text": "In the same way, the light is better than the dark."
+                "text": "In the same way, the light is better than the dark.",
+                "isContinuation": true
               }
             ],
             [
@@ -478,19 +505,22 @@
             [
               {
                 "verse": 14,
-                "text": "Foolish people walk in the dark."
+                "text": "Foolish people walk in the dark.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 14,
-                "text": "But at the end of their lives, there is no difference."
+                "text": "But at the end of their lives, there is no difference.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 14,
-                "text": "They both die."
+                "text": "They both die.",
+                "isContinuation": true
               }
             ],
             [
@@ -502,13 +532,15 @@
             [
               {
                 "verse": 15,
-                "text": "So what value have I received from my great wisdom?’"
+                "text": "So what value have I received from my great wisdom?’",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 15,
-                "text": "I said to myself, ‘Wisdom too has no purpose.’"
+                "text": "I said to myself, ‘Wisdom too has no purpose.’",
+                "isContinuation": true
               }
             ],
             [
@@ -520,25 +552,29 @@
             [
               {
                 "verse": 16,
-                "text": "as quickly as they forget about fools."
+                "text": "as quickly as they forget about fools.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 16,
-                "text": "One day, nobody will remember any of them."
+                "text": "One day, nobody will remember any of them.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 16,
-                "text": "It is true! As fools all have to die,"
+                "text": "It is true! As fools all have to die,",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 16,
-                "text": "wise people will also die."
+                "text": "wise people will also die.",
+                "isContinuation": true
               }
             ],
             [
@@ -622,7 +658,8 @@
             [
               {
                 "verse": 1,
-                "text": "Everything that we do on the earth has a proper time."
+                "text": "Everything that we do on the earth has a proper time.",
+                "isContinuation": true
               }
             ],
             [
@@ -634,19 +671,22 @@
             [
               {
                 "verse": 2,
-                "text": "and there is a time to die."
+                "text": "and there is a time to die.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 2,
-                "text": "There is a time to plant seeds."
+                "text": "There is a time to plant seeds.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 2,
-                "text": "There is a time to pull the plants out of the ground."
+                "text": "There is a time to pull the plants out of the ground.",
+                "isContinuation": true
               }
             ],
             [
@@ -658,19 +698,22 @@
             [
               {
                 "verse": 3,
-                "text": "There is a time to make people well."
+                "text": "There is a time to make people well.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 3,
-                "text": "There is a time to destroy things."
+                "text": "There is a time to destroy things.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 3,
-                "text": "There is a time to build things."
+                "text": "There is a time to build things.",
+                "isContinuation": true
               }
             ],
             [
@@ -682,19 +725,22 @@
             [
               {
                 "verse": 4,
-                "text": "There is a time to laugh."
+                "text": "There is a time to laugh.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 4,
-                "text": "There is a time to be sad."
+                "text": "There is a time to be sad.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 4,
-                "text": "There is a time to dance."
+                "text": "There is a time to dance.",
+                "isContinuation": true
               }
             ],
             [
@@ -706,19 +752,22 @@
             [
               {
                 "verse": 5,
-                "text": "There is a time to pick them up and use them."
+                "text": "There is a time to pick them up and use them.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 5,
-                "text": "There is a time to hug people."
+                "text": "There is a time to hug people.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 5,
-                "text": "There is a time to turn away from people."
+                "text": "There is a time to turn away from people.",
+                "isContinuation": true
               }
             ],
             [
@@ -730,19 +779,22 @@
             [
               {
                 "verse": 6,
-                "text": "There is a time to accept that you have lost them."
+                "text": "There is a time to accept that you have lost them.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 6,
-                "text": "There is a time to keep things."
+                "text": "There is a time to keep things.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 6,
-                "text": "There is a time to throw things away."
+                "text": "There is a time to throw things away.",
+                "isContinuation": true
               }
             ],
             [
@@ -754,19 +806,22 @@
             [
               {
                 "verse": 7,
-                "text": "There is a time to mend them."
+                "text": "There is a time to mend them.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 7,
-                "text": "There is a time to say nothing."
+                "text": "There is a time to say nothing.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 7,
-                "text": "There is a time to speak."
+                "text": "There is a time to speak.",
+                "isContinuation": true
               }
             ],
             [
@@ -778,25 +833,22 @@
             [
               {
                 "verse": 8,
-                "text": "There is a time to hate."
+                "text": "There is a time to hate.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 8,
-                "text": "There is a time for war."
+                "text": "There is a time for war.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 8,
-                "text": "There is a time for peace."
-              }
-            ],
-            [
-              {
-                "verse": 8,
-                "text": "9 People work very hard, but what do they receive in return? 10 I have seen the difficult work that God has given people to do. He has caused them to be very busy. 11 God has chosen a good time for all things to happen. He has caused people to think about things that will continue for ever. But nobody can completely understand everything that God has done, from the beginning of their lives to the end. 12 So I realized that people should be happy. They should enjoy good things as long as they live. There is nothing better for people to do than that. 13 People should be happy to eat and to drink. They should enjoy the work that they do. All these things are gifts from God. 14 I know that everything that God does continues for ever. Nobody can add anything to it. Nobody can take anything away from it. God does these things so that people will respect his authority. 15 Whatever is happening now has happened before.Everything that will happen in the future has already happened.God causes the same things to happen again and again.3:15Only God knows what will happen in the future 16 I saw something else that happens on the earth. Judges should choose what is right,but instead they choose what is wicked.They should decide what is fair,but they do evil things. 17 I said to myself,‘One day, God will judge everyone, righteous people and wicked people.He has chosen a time for everything.So there is a right time when he will judge people.’ 18 I also thought, ‘God wants people to know that they are like animals. That is why he tests us. 19 The same thing happens to humans as happens to animals. We all breathe for a time and then we die. Humans are no different to animals. Life seems to have no purpose. 20 All living things finally go to the same place. We all come from the dust of the ground. And we all go back to the dust when we die. 21 Do the spirits of humans go up into the sky when we die? Do the spirits of animals go down into the ground? Nobody really knows.’3:203:21 22 So I realized that people should enjoy the work that they do. That is the best thing for us to do. It is what God has provided for us. I think that is best, because nobody can show us what will finally happen to us."
+                "text": "There is a time for peace.",
+                "isContinuation": true
               }
             ],
             [
@@ -838,13 +890,15 @@
             [
               {
                 "verse": 15,
-                "text": "Everything that will happen in the future has already happened."
+                "text": "Everything that will happen in the future has already happened.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 15,
-                "text": "God causes the same things to happen again and again."
+                "text": "God causes the same things to happen again and again.",
+                "isContinuation": true
               }
             ]
           ]
@@ -861,25 +915,29 @@
             [
               {
                 "verse": 16,
-                "text": "Judges should choose what is right,"
+                "text": "Judges should choose what is right,",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 16,
-                "text": "but instead they choose what is wicked."
+                "text": "but instead they choose what is wicked.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 16,
-                "text": "They should decide what is fair,"
+                "text": "They should decide what is fair,",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 16,
-                "text": "but they do evil things."
+                "text": "but they do evil things.",
+                "isContinuation": true
               }
             ],
             [
@@ -891,25 +949,29 @@
             [
               {
                 "verse": 17,
-                "text": "‘One day, God will judge everyone,"
+                "text": "‘One day, God will judge everyone,",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 17,
-                "text": "righteous people and wicked people."
+                "text": "righteous people and wicked people.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 17,
-                "text": "He has chosen a time for everything."
+                "text": "He has chosen a time for everything.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 17,
-                "text": "So there is a right time when he will judge people.’"
+                "text": "So there is a right time when he will judge people.’",
+                "isContinuation": true
               }
             ],
             [
@@ -964,25 +1026,29 @@
             [
               {
                 "verse": 1,
-                "text": "I saw some people who were crying"
+                "text": "I saw some people who were crying",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 1,
-                "text": "because cruel people were hurting them."
+                "text": "because cruel people were hurting them.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 1,
-                "text": "There was nobody who could help them."
+                "text": "There was nobody who could help them.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 1,
-                "text": "Nobody could rescue them from those cruel people."
+                "text": "Nobody could rescue them from those cruel people.",
+                "isContinuation": true
               }
             ],
             [
@@ -994,7 +1060,8 @@
             [
               {
                 "verse": 2,
-                "text": "I decided that they are happier than the people who are still alive."
+                "text": "I decided that they are happier than the people who are still alive.",
+                "isContinuation": true
               }
             ],
             [
@@ -1006,13 +1073,8 @@
             [
               {
                 "verse": 3,
-                "text": "They have not seen the evil things that happen on the earth."
-              }
-            ],
-            [
-              {
-                "verse": 3,
-                "text": "4 I also thought about the clever work that people do. I saw that people work hard because they are jealous of each other. They want to do better than other people. I realized that this has no purpose. It is like somebody who tries to catch the wind. 5 Foolish people refuse to work.They sit and they do nothing.So they become hungry and they die. 6 It is good to have only a little food and be happy.It is better than too much hard work that gives you a lot of food.That is as useless as somebody who tries to catch the wind. 7 I thought about something else on the earth that seems to have no purpose. 8 There are people who live alone.They have no friends, children or brothers.They work hard every day.They want to get more riches for themselves.But they are never happy with the things that they have.They should ask themselves,‘Why am I working so hard?Am I helping anybody?I am not doing things that make me happy.’Their work seems to have no purpose.It only brings trouble to their lives.Friends can help each other 9 Two people who work togetherare better than one person who works alone.They can help each other to work well. 10 If one of them falls down,his friend can help him to get up.But it is terrible if you fall down when you are alone.There is nobody who can help you to stand up again. 11 Also, if two people sleep together,they help each other to be warm.But if you sleep alone,it is difficult to be warm. 12 If you are alone, one person might attack you and hurt you.But two people together can help each other to win the fight.If you use three strings to make a rope,it is difficult for anyone to break it. 13 A young man may be very poor. But if he is wise, he is better than a king who is foolish. When the king is old, he may not listen to his friends' advice. 14 A young man who is wise may even become king himself one day. He may have been in prison. He may have been born in a poor family in that kingdom. But he may later rule there as king. 15 I thought about all the people who live on the earth. I realized that one of them would also become king one day. He would rule instead of the other young man who became king. 16 Large crowds of people give him honour as their king. But in future years, nobody will praise him. I realized that this has no purpose. It is like somebody who tries to catch the wind."
+                "text": "They have not seen the evil things that happen on the earth.",
+                "isContinuation": true
               }
             ],
             [
@@ -1030,13 +1092,15 @@
             [
               {
                 "verse": 5,
-                "text": "They sit and they do nothing."
+                "text": "They sit and they do nothing.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 5,
-                "text": "So they become hungry and they die."
+                "text": "So they become hungry and they die.",
+                "isContinuation": true
               }
             ],
             [
@@ -1048,19 +1112,15 @@
             [
               {
                 "verse": 6,
-                "text": "It is better than too much hard work that gives you a lot of food."
+                "text": "It is better than too much hard work that gives you a lot of food.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 6,
-                "text": "That is as useless as somebody who tries to catch the wind."
-              }
-            ],
-            [
-              {
-                "verse": 6,
-                "text": "7 I thought about something else on the earth that seems to have no purpose. 8 There are people who live alone.They have no friends, children or brothers.They work hard every day.They want to get more riches for themselves.But they are never happy with the things that they have.They should ask themselves,‘Why am I working so hard?Am I helping anybody?I am not doing things that make me happy.’Their work seems to have no purpose.It only brings trouble to their lives.Friends can help each other 9 Two people who work togetherare better than one person who works alone.They can help each other to work well. 10 If one of them falls down,his friend can help him to get up.But it is terrible if you fall down when you are alone.There is nobody who can help you to stand up again. 11 Also, if two people sleep together,they help each other to be warm.But if you sleep alone,it is difficult to be warm. 12 If you are alone, one person might attack you and hurt you.But two people together can help each other to win the fight.If you use three strings to make a rope,it is difficult for anyone to break it. 13 A young man may be very poor. But if he is wise, he is better than a king who is foolish. When the king is old, he may not listen to his friends' advice. 14 A young man who is wise may even become king himself one day. He may have been in prison. He may have been born in a poor family in that kingdom. But he may later rule there as king. 15 I thought about all the people who live on the earth. I realized that one of them would also become king one day. He would rule instead of the other young man who became king. 16 Large crowds of people give him honour as their king. But in future years, nobody will praise him. I realized that this has no purpose. It is like somebody who tries to catch the wind."
+                "text": "That is as useless as somebody who tries to catch the wind.",
+                "isContinuation": true
               }
             ],
             [
@@ -1078,61 +1138,71 @@
             [
               {
                 "verse": 8,
-                "text": "They have no friends, children or brothers."
+                "text": "They have no friends, children or brothers.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 8,
-                "text": "They work hard every day."
+                "text": "They work hard every day.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 8,
-                "text": "They want to get more riches for themselves."
+                "text": "They want to get more riches for themselves.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 8,
-                "text": "But they are never happy with the things that they have."
+                "text": "But they are never happy with the things that they have.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 8,
-                "text": "They should ask themselves,"
+                "text": "They should ask themselves,",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 8,
-                "text": "‘Why am I working so hard?"
+                "text": "‘Why am I working so hard?",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 8,
-                "text": "Am I helping anybody?"
+                "text": "Am I helping anybody?",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 8,
-                "text": "I am not doing things that make me happy.’"
+                "text": "I am not doing things that make me happy.’",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 8,
-                "text": "Their work seems to have no purpose."
+                "text": "Their work seems to have no purpose.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 8,
-                "text": "It only brings trouble to their lives."
+                "text": "It only brings trouble to their lives.",
+                "isContinuation": true
               }
             ]
           ]
@@ -1149,13 +1219,15 @@
             [
               {
                 "verse": 9,
-                "text": "are better than one person who works alone."
+                "text": "are better than one person who works alone.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 9,
-                "text": "They can help each other to work well."
+                "text": "They can help each other to work well.",
+                "isContinuation": true
               }
             ],
             [
@@ -1167,19 +1239,22 @@
             [
               {
                 "verse": 10,
-                "text": "his friend can help him to get up."
+                "text": "his friend can help him to get up.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 10,
-                "text": "But it is terrible if you fall down when you are alone."
+                "text": "But it is terrible if you fall down when you are alone.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 10,
-                "text": "There is nobody who can help you to stand up again."
+                "text": "There is nobody who can help you to stand up again.",
+                "isContinuation": true
               }
             ],
             [
@@ -1191,19 +1266,22 @@
             [
               {
                 "verse": 11,
-                "text": "they help each other to be warm."
+                "text": "they help each other to be warm.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 11,
-                "text": "But if you sleep alone,"
+                "text": "But if you sleep alone,",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 11,
-                "text": "it is difficult to be warm."
+                "text": "it is difficult to be warm.",
+                "isContinuation": true
               }
             ],
             [
@@ -1215,25 +1293,22 @@
             [
               {
                 "verse": 12,
-                "text": "But two people together can help each other to win the fight."
+                "text": "But two people together can help each other to win the fight.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 12,
-                "text": "If you use three strings to make a rope,"
+                "text": "If you use three strings to make a rope,",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 12,
-                "text": "it is difficult for anyone to break it."
-              }
-            ],
-            [
-              {
-                "verse": 12,
-                "text": "13 A young man may be very poor. But if he is wise, he is better than a king who is foolish. When the king is old, he may not listen to his friends' advice. 14 A young man who is wise may even become king himself one day. He may have been in prison. He may have been born in a poor family in that kingdom. But he may later rule there as king. 15 I thought about all the people who live on the earth. I realized that one of them would also become king one day. He would rule instead of the other young man who became king. 16 Large crowds of people give him honour as their king. But in future years, nobody will praise him. I realized that this has no purpose. It is like somebody who tries to catch the wind."
+                "text": "it is difficult for anyone to break it.",
+                "isContinuation": true
               }
             ],
             [
@@ -1288,19 +1363,22 @@
             [
               {
                 "verse": 2,
-                "text": "Think carefully before you make a promise to God."
+                "text": "Think carefully before you make a promise to God.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 2,
-                "text": "God is in heaven and you are here on the earth."
+                "text": "God is in heaven and you are here on the earth.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 2,
-                "text": "So do not say too much."
+                "text": "So do not say too much.",
+                "isContinuation": true
               }
             ],
             [
@@ -1312,19 +1390,22 @@
             [
               {
                 "verse": 3,
-                "text": "you will have many dreams."
+                "text": "you will have many dreams.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 3,
-                "text": "If you talk too much,"
+                "text": "If you talk too much,",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 3,
-                "text": "you will say foolish things."
+                "text": "you will say foolish things.",
+                "isContinuation": true
               }
             ],
             [
@@ -1336,19 +1417,22 @@
             [
               {
                 "verse": 4,
-                "text": "quickly do what you have promised."
+                "text": "quickly do what you have promised.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 4,
-                "text": "God is not pleased with foolish people."
+                "text": "God is not pleased with foolish people.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 4,
-                "text": "So give what you have promised to give."
+                "text": "So give what you have promised to give.",
+                "isContinuation": true
               }
             ],
             [
@@ -1360,7 +1444,8 @@
             [
               {
                 "verse": 5,
-                "text": "than to promise something and then not do it."
+                "text": "than to promise something and then not do it.",
+                "isContinuation": true
               }
             ],
             [
@@ -1390,12 +1475,6 @@
             ],
             [
               {
-                "verse": 9,
-                "text": "10 People who love money never have enough.They may get more and more valuable things,but they are never happy.This also seems to have no purpose. 11 As a person's money becomes more,there are more people who want a share of it.Money does not help the people who have a lot of it.They see it, but it quickly disappears. 12 Someone who has worked hard all day will sleep well at night.That is true even if they have not had much food to eat.But the rich man worries about his riches.So he does not sleep well. 13 I have seen another terrible thing that happens on the earth.Some people may store their riches,but it does not help them in a time of trouble. 14 Something may happen in the futurethat causes their money to disappear.After they die,no money remains for their children. 15 When people are born,they bring nothing with them.When they die,they take nothing away with them.All their hard work finally leaves them with nothing. 16 This is also a terrible thing to happen.People leave this earth with nothing,as they came into it with nothing.All their hard work has been useless,like someone who tries to catch the wind. 17 Even if people are rich, they do not enjoy their food.They suffer all through their lives.They are upset, angry and sick.Enjoy the good things that God gives to you 18 But I realized that there is one good thing for people to do. We should be happy to eat and to drink. And we should enjoy the hard work that we do on the earth. That is what God wants us to do during the short time that he has given us on this earth. 19 God gives some people a lot of money and valuable things. He helps them to enjoy those things and to be happy with their work. All of this is a gift from God. 20 People like that do not think a lot about what has happened in their lives. God helps them to be happy as they are busy with their work."
-              }
-            ],
-            [
-              {
                 "verse": 10,
                 "text": "People who love money never have enough."
               }
@@ -1403,19 +1482,22 @@
             [
               {
                 "verse": 10,
-                "text": "They may get more and more valuable things,"
+                "text": "They may get more and more valuable things,",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 10,
-                "text": "but they are never happy."
+                "text": "but they are never happy.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 10,
-                "text": "This also seems to have no purpose."
+                "text": "This also seems to have no purpose.",
+                "isContinuation": true
               }
             ],
             [
@@ -1427,19 +1509,22 @@
             [
               {
                 "verse": 11,
-                "text": "there are more people who want a share of it."
+                "text": "there are more people who want a share of it.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 11,
-                "text": "Money does not help the people who have a lot of it."
+                "text": "Money does not help the people who have a lot of it.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 11,
-                "text": "They see it, but it quickly disappears."
+                "text": "They see it, but it quickly disappears.",
+                "isContinuation": true
               }
             ],
             [
@@ -1451,25 +1536,22 @@
             [
               {
                 "verse": 12,
-                "text": "That is true even if they have not had much food to eat."
+                "text": "That is true even if they have not had much food to eat.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 12,
-                "text": "But the rich man worries about his riches."
+                "text": "But the rich man worries about his riches.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 12,
-                "text": "So he does not sleep well."
-              }
-            ],
-            [
-              {
-                "verse": 12,
-                "text": "13 I have seen another terrible thing that happens on the earth.Some people may store their riches,but it does not help them in a time of trouble. 14 Something may happen in the futurethat causes their money to disappear.After they die,no money remains for their children. 15 When people are born,they bring nothing with them.When they die,they take nothing away with them.All their hard work finally leaves them with nothing. 16 This is also a terrible thing to happen.People leave this earth with nothing,as they came into it with nothing.All their hard work has been useless,like someone who tries to catch the wind. 17 Even if people are rich, they do not enjoy their food.They suffer all through their lives.They are upset, angry and sick.Enjoy the good things that God gives to you 18 But I realized that there is one good thing for people to do. We should be happy to eat and to drink. And we should enjoy the hard work that we do on the earth. That is what God wants us to do during the short time that he has given us on this earth. 19 God gives some people a lot of money and valuable things. He helps them to enjoy those things and to be happy with their work. All of this is a gift from God. 20 People like that do not think a lot about what has happened in their lives. God helps them to be happy as they are busy with their work."
+                "text": "So he does not sleep well.",
+                "isContinuation": true
               }
             ],
             [
@@ -1481,13 +1563,15 @@
             [
               {
                 "verse": 13,
-                "text": "Some people may store their riches,"
+                "text": "Some people may store their riches,",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 13,
-                "text": "but it does not help them in a time of trouble."
+                "text": "but it does not help them in a time of trouble.",
+                "isContinuation": true
               }
             ],
             [
@@ -1499,19 +1583,22 @@
             [
               {
                 "verse": 14,
-                "text": "that causes their money to disappear."
+                "text": "that causes their money to disappear.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 14,
-                "text": "After they die,"
+                "text": "After they die,",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 14,
-                "text": "no money remains for their children."
+                "text": "no money remains for their children.",
+                "isContinuation": true
               }
             ],
             [
@@ -1523,25 +1610,29 @@
             [
               {
                 "verse": 15,
-                "text": "they bring nothing with them."
+                "text": "they bring nothing with them.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 15,
-                "text": "When they die,"
+                "text": "When they die,",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 15,
-                "text": "they take nothing away with them."
+                "text": "they take nothing away with them.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 15,
-                "text": "All their hard work finally leaves them with nothing."
+                "text": "All their hard work finally leaves them with nothing.",
+                "isContinuation": true
               }
             ],
             [
@@ -1553,25 +1644,29 @@
             [
               {
                 "verse": 16,
-                "text": "People leave this earth with nothing,"
+                "text": "People leave this earth with nothing,",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 16,
-                "text": "as they came into it with nothing."
+                "text": "as they came into it with nothing.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 16,
-                "text": "All their hard work has been useless,"
+                "text": "All their hard work has been useless,",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 16,
-                "text": "like someone who tries to catch the wind."
+                "text": "like someone who tries to catch the wind.",
+                "isContinuation": true
               }
             ],
             [
@@ -1583,13 +1678,15 @@
             [
               {
                 "verse": 17,
-                "text": "They suffer all through their lives."
+                "text": "They suffer all through their lives.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 17,
-                "text": "They are upset, angry and sick."
+                "text": "They are upset, angry and sick.",
+                "isContinuation": true
               }
             ]
           ]
@@ -1663,7 +1760,8 @@
             [
               {
                 "verse": 7,
-                "text": "But they never have enough to eat."
+                "text": "But they never have enough to eat.",
+                "isContinuation": true
               }
             ],
             [
@@ -1675,19 +1773,22 @@
             [
               {
                 "verse": 8,
-                "text": "No, he does not!"
+                "text": "No, he does not!",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 8,
-                "text": "Does it help a poor person if he knows how to live well?"
+                "text": "Does it help a poor person if he knows how to live well?",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 8,
-                "text": "No!"
+                "text": "No!",
+                "isContinuation": true
               }
             ],
             [
@@ -1699,25 +1800,22 @@
             [
               {
                 "verse": 9,
-                "text": "That is better than to want more things all the time."
+                "text": "That is better than to want more things all the time.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 9,
-                "text": "If you always try to get more things, that has no purpose."
+                "text": "If you always try to get more things, that has no purpose.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 9,
-                "text": "It is like somebody who tries to catch the wind."
-              }
-            ],
-            [
-              {
-                "verse": 9,
-                "text": "10 Everything that is here today already has its name.Everyone knows what we humans are like.It is useless to argue with someone who is more powerful than we are. 11 If we talk too much,we will say silly things.So it will not help anyone to talk with many words. 12 Nobody knows the best way for us to live our lives.We live for only a few yearsand our lives seem to have no purpose.Our lives quickly disappear, like a shadow.Nobody can tell us what will happen on the earth after our death."
+                "text": "It is like somebody who tries to catch the wind.",
+                "isContinuation": true
               }
             ],
             [
@@ -1729,13 +1827,15 @@
             [
               {
                 "verse": 10,
-                "text": "Everyone knows what we humans are like."
+                "text": "Everyone knows what we humans are like.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 10,
-                "text": "It is useless to argue with someone who is more powerful than we are."
+                "text": "It is useless to argue with someone who is more powerful than we are.",
+                "isContinuation": true
               }
             ],
             [
@@ -1747,13 +1847,15 @@
             [
               {
                 "verse": 11,
-                "text": "we will say silly things."
+                "text": "we will say silly things.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 11,
-                "text": "So it will not help anyone to talk with many words."
+                "text": "So it will not help anyone to talk with many words.",
+                "isContinuation": true
               }
             ],
             [
@@ -1765,25 +1867,29 @@
             [
               {
                 "verse": 12,
-                "text": "We live for only a few years"
+                "text": "We live for only a few years",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 12,
-                "text": "and our lives seem to have no purpose."
+                "text": "and our lives seem to have no purpose.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 12,
-                "text": "Our lives quickly disappear, like a shadow."
+                "text": "Our lives quickly disappear, like a shadow.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 12,
-                "text": "Nobody can tell us what will happen on the earth after our death."
+                "text": "Nobody can tell us what will happen on the earth after our death.",
+                "isContinuation": true
               }
             ]
           ]
@@ -1810,13 +1916,15 @@
             [
               {
                 "verse": 1,
-                "text": "that is better than expensive perfume."
+                "text": "that is better than expensive perfume.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 1,
-                "text": "The day of your death is better than the day of your birth."
+                "text": "The day of your death is better than the day of your birth.",
+                "isContinuation": true
               }
             ],
             [
@@ -1828,19 +1936,22 @@
             [
               {
                 "verse": 2,
-                "text": "that is better for you than to go to a party."
+                "text": "that is better for you than to go to a party.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 2,
-                "text": "Everyone will die one day."
+                "text": "Everyone will die one day.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 2,
-                "text": "People should think about death while they are still alive."
+                "text": "People should think about death while they are still alive.",
+                "isContinuation": true
               }
             ],
             [
@@ -1852,13 +1963,15 @@
             [
               {
                 "verse": 3,
-                "text": "that is better for you than to laugh all the time."
+                "text": "that is better for you than to laugh all the time.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 3,
-                "text": "We learn more about ourselves when we are sad."
+                "text": "We learn more about ourselves when we are sad.",
+                "isContinuation": true
               }
             ],
             [
@@ -1870,7 +1983,8 @@
             [
               {
                 "verse": 4,
-                "text": "A foolish person thinks about how to enjoy a party."
+                "text": "A foolish person thinks about how to enjoy a party.",
+                "isContinuation": true
               }
             ],
             [
@@ -1882,7 +1996,8 @@
             [
               {
                 "verse": 5,
-                "text": "That is better for you than to listen to the songs of a foolish person."
+                "text": "That is better for you than to listen to the songs of a foolish person.",
+                "isContinuation": true
               }
             ],
             [
@@ -1894,19 +2009,22 @@
             [
               {
                 "verse": 6,
-                "text": "they make a lot of noise but they burn too quickly."
+                "text": "they make a lot of noise but they burn too quickly.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 6,
-                "text": "When a foolish person laughs,"
+                "text": "When a foolish person laughs,",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 6,
-                "text": "their noise also has no purpose."
+                "text": "their noise also has no purpose.",
+                "isContinuation": true
               }
             ],
             [
@@ -1918,19 +2036,22 @@
             [
               {
                 "verse": 7,
-                "text": "he becomes a fool."
+                "text": "he becomes a fool.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 7,
-                "text": "If you accept a bribe,"
+                "text": "If you accept a bribe,",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 7,
-                "text": "you will no longer think properly."
+                "text": "you will no longer think properly.",
+                "isContinuation": true
               }
             ],
             [
@@ -1942,13 +2063,15 @@
             [
               {
                 "verse": 8,
-                "text": "that is better than to start something new."
+                "text": "that is better than to start something new.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 8,
-                "text": "It is better to be patient than to be proud."
+                "text": "It is better to be patient than to be proud.",
+                "isContinuation": true
               }
             ],
             [
@@ -1960,7 +2083,8 @@
             [
               {
                 "verse": 9,
-                "text": "Only fools allow their anger to continue."
+                "text": "Only fools allow their anger to continue.",
+                "isContinuation": true
               }
             ],
             [
@@ -1972,7 +2096,8 @@
             [
               {
                 "verse": 10,
-                "text": "Those are not wise thoughts."
+                "text": "Those are not wise thoughts.",
+                "isContinuation": true
               }
             ],
             [
@@ -1984,13 +2109,15 @@
             [
               {
                 "verse": 11,
-                "text": "like money that you receive from your father."
+                "text": "like money that you receive from your father.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 11,
-                "text": "Wisdom helps everyone who lives."
+                "text": "Wisdom helps everyone who lives.",
+                "isContinuation": true
               }
             ],
             [
@@ -2002,19 +2129,15 @@
             [
               {
                 "verse": 12,
-                "text": "But wisdom is better."
+                "text": "But wisdom is better.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 12,
-                "text": "If you are wise, your knowledge can save your life."
-              }
-            ],
-            [
-              {
-                "verse": 12,
-                "text": "13 Think about the things that God has done.If God has bent something,nobody can make it straight again. 14 If your life is good, you should be happy.But if you have trouble, think about this:God causes both joy and trouble in our lives.We do not know what will happen next.We can never know everything 15 In my short life on the earth,I have seen these things which are difficult to understand:Sometimes righteous people may die when they are still young.They did good things, but they died.And sometimes wicked people continue to live for a long time.They did evil things, but they continued to live. 16 So do not try to be too good or too wise.That might cause you to have trouble. 17 But do not be too wicked. Do not be a fool.That might cause you to die when you are still young. 18 Remember both these things.Do not forget either of them.You can do that if you respect God and you obey him.7:18 19 Wisdom makes a wise person more powerfulthan ten rulers in a city. 20 There is nobody on the earth who is so righteousthat they always do what is right.There is nobody who never does a wrong thing. 21 Do not listen to all the things that people say about you.You might hear your servant when he is cursing you! 22 Do not forget that you also have often cursed other people. 23 I have used wisdom to study all these things.I tried very much to understand everything that happens.But I could not do it. 24 People cannot understand these things.The meaning of life is too difficult for anyone to understand. 25 I decided to study many thingsso that I would become wise.I wanted to understand the reason why things happen.I also wanted to know why it is stupid to be wicked,and why it is crazy to do foolish things. 26 I learned this:Some women are like a trap that catches animals.Women like that are more dangerous than death.They may pretend to love you.They may hold you in their arms.But really their arms are like chains.They want to catch you,as hunters catch animals.Women like that will easily catcha man who has turned away from God.But a man who pleases Godwill escape from them. 27 This is what I, the Teacher, have learned.I studied everything very carefully.I wanted to know the reason why things happen. 28 I continued to try to learn more and more.But I could not find the answers.Among one thousand people,I found one good man.But among them all,I did not find a good woman. 29 I did learn this:God made people to do what is right.But people have chosen their own way to do things."
+                "text": "If you are wise, your knowledge can save your life.",
+                "isContinuation": true
               }
             ],
             [
@@ -2026,13 +2149,15 @@
             [
               {
                 "verse": 13,
-                "text": "If God has bent something,"
+                "text": "If God has bent something,",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 13,
-                "text": "nobody can make it straight again."
+                "text": "nobody can make it straight again.",
+                "isContinuation": true
               }
             ],
             [
@@ -2044,19 +2169,22 @@
             [
               {
                 "verse": 14,
-                "text": "But if you have trouble, think about this:"
+                "text": "But if you have trouble, think about this:",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 14,
-                "text": "God causes both joy and trouble in our lives."
+                "text": "God causes both joy and trouble in our lives.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 14,
-                "text": "We do not know what will happen next."
+                "text": "We do not know what will happen next.",
+                "isContinuation": true
               }
             ]
           ]
@@ -2073,31 +2201,36 @@
             [
               {
                 "verse": 15,
-                "text": "I have seen these things which are difficult to understand:"
+                "text": "I have seen these things which are difficult to understand:",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 15,
-                "text": "Sometimes righteous people may die when they are still young."
+                "text": "Sometimes righteous people may die when they are still young.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 15,
-                "text": "They did good things, but they died."
+                "text": "They did good things, but they died.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 15,
-                "text": "And sometimes wicked people continue to live for a long time."
+                "text": "And sometimes wicked people continue to live for a long time.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 15,
-                "text": "They did evil things, but they continued to live."
+                "text": "They did evil things, but they continued to live.",
+                "isContinuation": true
               }
             ],
             [
@@ -2109,7 +2242,8 @@
             [
               {
                 "verse": 16,
-                "text": "That might cause you to have trouble."
+                "text": "That might cause you to have trouble.",
+                "isContinuation": true
               }
             ],
             [
@@ -2121,7 +2255,8 @@
             [
               {
                 "verse": 17,
-                "text": "That might cause you to die when you are still young."
+                "text": "That might cause you to die when you are still young.",
+                "isContinuation": true
               }
             ],
             [
@@ -2133,19 +2268,15 @@
             [
               {
                 "verse": 18,
-                "text": "Do not forget either of them."
+                "text": "Do not forget either of them.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 18,
-                "text": "You can do that if you respect God and you obey him."
-              }
-            ],
-            [
-              {
-                "verse": 18,
-                "text": "19 Wisdom makes a wise person more powerfulthan ten rulers in a city. 20 There is nobody on the earth who is so righteousthat they always do what is right.There is nobody who never does a wrong thing. 21 Do not listen to all the things that people say about you.You might hear your servant when he is cursing you! 22 Do not forget that you also have often cursed other people. 23 I have used wisdom to study all these things.I tried very much to understand everything that happens.But I could not do it. 24 People cannot understand these things.The meaning of life is too difficult for anyone to understand. 25 I decided to study many thingsso that I would become wise.I wanted to understand the reason why things happen.I also wanted to know why it is stupid to be wicked,and why it is crazy to do foolish things. 26 I learned this:Some women are like a trap that catches animals.Women like that are more dangerous than death.They may pretend to love you.They may hold you in their arms.But really their arms are like chains.They want to catch you,as hunters catch animals.Women like that will easily catcha man who has turned away from God.But a man who pleases Godwill escape from them. 27 This is what I, the Teacher, have learned.I studied everything very carefully.I wanted to know the reason why things happen. 28 I continued to try to learn more and more.But I could not find the answers.Among one thousand people,I found one good man.But among them all,I did not find a good woman. 29 I did learn this:God made people to do what is right.But people have chosen their own way to do things."
+                "text": "You can do that if you respect God and you obey him.",
+                "isContinuation": true
               }
             ],
             [
@@ -2157,7 +2288,8 @@
             [
               {
                 "verse": 19,
-                "text": "than ten rulers in a city."
+                "text": "than ten rulers in a city.",
+                "isContinuation": true
               }
             ],
             [
@@ -2169,13 +2301,15 @@
             [
               {
                 "verse": 20,
-                "text": "that they always do what is right."
+                "text": "that they always do what is right.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 20,
-                "text": "There is nobody who never does a wrong thing."
+                "text": "There is nobody who never does a wrong thing.",
+                "isContinuation": true
               }
             ],
             [
@@ -2187,19 +2321,14 @@
             [
               {
                 "verse": 21,
-                "text": "You might hear your servant when he is cursing you!"
+                "text": "You might hear your servant when he is cursing you!",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 22,
                 "text": "Do not forget that you also have often cursed other people."
-              }
-            ],
-            [
-              {
-                "verse": 22,
-                "text": "23 I have used wisdom to study all these things.I tried very much to understand everything that happens.But I could not do it. 24 People cannot understand these things.The meaning of life is too difficult for anyone to understand. 25 I decided to study many thingsso that I would become wise.I wanted to understand the reason why things happen.I also wanted to know why it is stupid to be wicked,and why it is crazy to do foolish things. 26 I learned this:Some women are like a trap that catches animals.Women like that are more dangerous than death.They may pretend to love you.They may hold you in their arms.But really their arms are like chains.They want to catch you,as hunters catch animals.Women like that will easily catcha man who has turned away from God.But a man who pleases Godwill escape from them. 27 This is what I, the Teacher, have learned.I studied everything very carefully.I wanted to know the reason why things happen. 28 I continued to try to learn more and more.But I could not find the answers.Among one thousand people,I found one good man.But among them all,I did not find a good woman. 29 I did learn this:God made people to do what is right.But people have chosen their own way to do things."
               }
             ],
             [
@@ -2211,13 +2340,15 @@
             [
               {
                 "verse": 23,
-                "text": "I tried very much to understand everything that happens."
+                "text": "I tried very much to understand everything that happens.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 23,
-                "text": "But I could not do it."
+                "text": "But I could not do it.",
+                "isContinuation": true
               }
             ],
             [
@@ -2229,7 +2360,8 @@
             [
               {
                 "verse": 24,
-                "text": "The meaning of life is too difficult for anyone to understand."
+                "text": "The meaning of life is too difficult for anyone to understand.",
+                "isContinuation": true
               }
             ],
             [
@@ -2241,25 +2373,29 @@
             [
               {
                 "verse": 25,
-                "text": "so that I would become wise."
+                "text": "so that I would become wise.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 25,
-                "text": "I wanted to understand the reason why things happen."
+                "text": "I wanted to understand the reason why things happen.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 25,
-                "text": "I also wanted to know why it is stupid to be wicked,"
+                "text": "I also wanted to know why it is stupid to be wicked,",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 25,
-                "text": "and why it is crazy to do foolish things."
+                "text": "and why it is crazy to do foolish things.",
+                "isContinuation": true
               }
             ],
             [
@@ -2271,73 +2407,78 @@
             [
               {
                 "verse": 26,
-                "text": "Some women are like a trap that catches animals."
+                "text": "Some women are like a trap that catches animals.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 26,
-                "text": "Women like that are more dangerous than death."
+                "text": "Women like that are more dangerous than death.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 26,
-                "text": "They may pretend to love you."
+                "text": "They may pretend to love you.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 26,
-                "text": "They may hold you in their arms."
+                "text": "They may hold you in their arms.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 26,
-                "text": "But really their arms are like chains."
+                "text": "But really their arms are like chains.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 26,
-                "text": "They want to catch you,"
+                "text": "They want to catch you,",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 26,
-                "text": "as hunters catch animals."
+                "text": "as hunters catch animals.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 26,
-                "text": "Women like that will easily catch"
+                "text": "Women like that will easily catch",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 26,
-                "text": "a man who has turned away from God."
+                "text": "a man who has turned away from God.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 26,
-                "text": "But a man who pleases God"
+                "text": "But a man who pleases God",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 26,
-                "text": "will escape from them."
-              }
-            ],
-            [
-              {
-                "verse": 26,
-                "text": "27 This is what I, the Teacher, have learned.I studied everything very carefully.I wanted to know the reason why things happen. 28 I continued to try to learn more and more.But I could not find the answers.Among one thousand people,I found one good man.But among them all,I did not find a good woman. 29 I did learn this:God made people to do what is right.But people have chosen their own way to do things."
+                "text": "will escape from them.",
+                "isContinuation": true
               }
             ],
             [
@@ -2349,13 +2490,15 @@
             [
               {
                 "verse": 27,
-                "text": "I studied everything very carefully."
+                "text": "I studied everything very carefully.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 27,
-                "text": "I wanted to know the reason why things happen."
+                "text": "I wanted to know the reason why things happen.",
+                "isContinuation": true
               }
             ],
             [
@@ -2367,31 +2510,36 @@
             [
               {
                 "verse": 28,
-                "text": "But I could not find the answers."
+                "text": "But I could not find the answers.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 28,
-                "text": "Among one thousand people,"
+                "text": "Among one thousand people,",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 28,
-                "text": "I found one good man."
+                "text": "I found one good man.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 28,
-                "text": "But among them all,"
+                "text": "But among them all,",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 28,
-                "text": "I did not find a good woman."
+                "text": "I did not find a good woman.",
+                "isContinuation": true
               }
             ],
             [
@@ -2403,13 +2551,15 @@
             [
               {
                 "verse": 29,
-                "text": "God made people to do what is right."
+                "text": "God made people to do what is right.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 29,
-                "text": "But people have chosen their own way to do things."
+                "text": "But people have chosen their own way to do things.",
+                "isContinuation": true
               }
             ]
           ]
@@ -2438,19 +2588,22 @@
             [
               {
                 "verse": 1,
-                "text": "They know how to explain things."
+                "text": "They know how to explain things.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 1,
-                "text": "Wisdom helps a person to be happy."
+                "text": "Wisdom helps a person to be happy.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 1,
-                "text": "It causes them to smile even when they have trouble."
+                "text": "It causes them to smile even when they have trouble.",
+                "isContinuation": true
               }
             ]
           ]
@@ -2467,7 +2620,8 @@
             [
               {
                 "verse": 2,
-                "text": "So obey the king's commands."
+                "text": "So obey the king's commands.",
+                "isContinuation": true
               }
             ],
             [
@@ -2479,19 +2633,22 @@
             [
               {
                 "verse": 3,
-                "text": "do not leave in a hurry."
+                "text": "do not leave in a hurry.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 3,
-                "text": "Do not join with people who plan to hurt him."
+                "text": "Do not join with people who plan to hurt him.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 3,
-                "text": "Remember that the king can do anything that he wants to do."
+                "text": "Remember that the king can do anything that he wants to do.",
+                "isContinuation": true
               }
             ],
             [
@@ -2503,7 +2660,8 @@
             [
               {
                 "verse": 4,
-                "text": "Nobody can tell him that he is wrong."
+                "text": "Nobody can tell him that he is wrong.",
+                "isContinuation": true
               }
             ],
             [
@@ -2515,13 +2673,15 @@
             [
               {
                 "verse": 5,
-                "text": "A wise person knows the right time to do things."
+                "text": "A wise person knows the right time to do things.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 5,
-                "text": "He also knows the right way to do them."
+                "text": "He also knows the right way to do them.",
+                "isContinuation": true
               }
             ],
             [
@@ -2533,13 +2693,15 @@
             [
               {
                 "verse": 6,
-                "text": "There is a right way to do things."
+                "text": "There is a right way to do things.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 6,
-                "text": "But trouble comes to people anyway."
+                "text": "But trouble comes to people anyway.",
+                "isContinuation": true
               }
             ],
             [
@@ -2551,7 +2713,8 @@
             [
               {
                 "verse": 7,
-                "text": "Nobody can tell us about it."
+                "text": "Nobody can tell us about it.",
+                "isContinuation": true
               }
             ],
             [
@@ -2563,25 +2726,29 @@
             [
               {
                 "verse": 8,
-                "text": "Also, nobody has the power to decide the day of their death."
+                "text": "Also, nobody has the power to decide the day of their death.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 8,
-                "text": "Soldiers are not allowed to leave a battle."
+                "text": "Soldiers are not allowed to leave a battle.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 8,
-                "text": "Also, if people do wicked things,"
+                "text": "Also, if people do wicked things,",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 8,
-                "text": "that will not rescue them."
+                "text": "that will not rescue them.",
+                "isContinuation": true
               }
             ]
           ]
@@ -2719,37 +2886,43 @@
             [
               {
                 "verse": 11,
-                "text": "The runner who runs fastest does not always win the race."
+                "text": "The runner who runs fastest does not always win the race.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 11,
-                "text": "The strongest soldiers do not always win the battle."
+                "text": "The strongest soldiers do not always win the battle.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 11,
-                "text": "Very wise people do not always have food to eat."
+                "text": "Very wise people do not always have food to eat.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 11,
-                "text": "Very clever people do not always become rich."
+                "text": "Very clever people do not always become rich.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 11,
-                "text": "People who have learned many things are not always successful."
+                "text": "People who have learned many things are not always successful.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 11,
-                "text": "Yes, anything may happen to anyone at any time."
+                "text": "Yes, anything may happen to anyone at any time.",
+                "isContinuation": true
               }
             ],
             [
@@ -2761,19 +2934,22 @@
             [
               {
                 "verse": 12,
-                "text": "A fish does not know when somebody will catch it in a net."
+                "text": "A fish does not know when somebody will catch it in a net.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 12,
-                "text": "A bird does not know when somebody will catch it in a trap."
+                "text": "A bird does not know when somebody will catch it in a trap.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 12,
-                "text": "In the same way, terrible trouble suddenly happens to people when they do not expect it."
+                "text": "In the same way, terrible trouble suddenly happens to people when they do not expect it.",
+                "isContinuation": true
               }
             ]
           ]
@@ -2810,19 +2986,22 @@
             [
               {
                 "verse": 17,
-                "text": "But it is good to listen carefully to him."
+                "text": "But it is good to listen carefully to him.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 17,
-                "text": "His words have more value than a king"
+                "text": "His words have more value than a king",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 17,
-                "text": "who is shouting to a crowd of fools."
+                "text": "who is shouting to a crowd of fools.",
+                "isContinuation": true
               }
             ],
             [
@@ -2834,7 +3013,8 @@
             [
               {
                 "verse": 18,
-                "text": "But one bad person can destroy many good things."
+                "text": "But one bad person can destroy many good things.",
+                "isContinuation": true
               }
             ]
           ]
@@ -2861,7 +3041,8 @@
             [
               {
                 "verse": 1,
-                "text": "In the same way, one foolish thing can destroy a lot of wisdom."
+                "text": "In the same way, one foolish thing can destroy a lot of wisdom.",
+                "isContinuation": true
               }
             ],
             [
@@ -2873,13 +3054,15 @@
             [
               {
                 "verse": 2,
-                "text": "you know the right way to go."
+                "text": "you know the right way to go.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 2,
-                "text": "But a fool is stupid and he goes the wrong way."
+                "text": "But a fool is stupid and he goes the wrong way.",
+                "isContinuation": true
               }
             ],
             [
@@ -2891,13 +3074,15 @@
             [
               {
                 "verse": 3,
-                "text": "they show that they are stupid."
+                "text": "they show that they are stupid.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 3,
-                "text": "Everyone can see that they are not wise."
+                "text": "Everyone can see that they are not wise.",
+                "isContinuation": true
               }
             ],
             [
@@ -2909,25 +3094,22 @@
             [
               {
                 "verse": 4,
-                "text": "do not leave your place."
+                "text": "do not leave your place.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 4,
-                "text": "Be patient and answer him quietly."
+                "text": "Be patient and answer him quietly.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 4,
-                "text": "Then he will forgive your mistakes."
-              }
-            ],
-            [
-              {
-                "verse": 4,
-                "text": "5 I have seen another terrible thing that happens on the earth.It happens when a ruler does a silly thing. 6 A ruler may give fools too much authority.At the same time, rich people have no authority. 7 Slaves ride on horses, as important people do.At the same time, princes have to walk, as slaves do. 8 If you dig a deep hole, you might fall into it.If you knock down a wall, a snake might bite you. 9 If you cut stones out of the ground, a stone might hurt you.If you cut wood into pieces, a piece of it might hurt you. 10 If your axe is not sharp,you will need to be very strong to use it.If you are wise, you will make the axe's edge sharp again.That is how wisdom helps you to do things well. 11 Someone may have power over dangerous snakes.But that will not help him if the snake bites him first. 12 People respect a wise person,because of the things that he says.But the words of a fool will destroy him. 13 When a fool starts to speak,he says silly things.When he finishes,he is saying crazy things that are wicked. 14 But he never stops talking.Nobody knows what will happen in the future.Nobody can tell us what will happen after we die. 15 When a fool does any work,he quickly becomes tired.He is so tired that he forgets the way to town. 16 A country is in terrible troubleif its ruler is young and foolish.If its leaders go to parties all day,a country is in trouble. 17 But if a country's ruler belongs to a good family,that country will be a happy place.Its leaders only enjoy parties at the proper time.They control themselves and they do not become drunk. 18 If a man is too lazy to work on his house,its roof will fall down.Rain will make his rooms wet. 19 Good food and wine help us to laugh and to be happy.But you need to have money to buy everything. 20 Do not say bad things about the king.Do not even think about it!Even when you are in your bedroom,do not say bad things about rich people.A little bird might hear you.It might tell people what you have said."
+                "text": "Then he will forgive your mistakes.",
+                "isContinuation": true
               }
             ],
             [
@@ -2939,7 +3121,8 @@
             [
               {
                 "verse": 5,
-                "text": "It happens when a ruler does a silly thing."
+                "text": "It happens when a ruler does a silly thing.",
+                "isContinuation": true
               }
             ],
             [
@@ -2951,7 +3134,8 @@
             [
               {
                 "verse": 6,
-                "text": "At the same time, rich people have no authority."
+                "text": "At the same time, rich people have no authority.",
+                "isContinuation": true
               }
             ],
             [
@@ -2963,13 +3147,8 @@
             [
               {
                 "verse": 7,
-                "text": "At the same time, princes have to walk, as slaves do."
-              }
-            ],
-            [
-              {
-                "verse": 7,
-                "text": "8 If you dig a deep hole, you might fall into it.If you knock down a wall, a snake might bite you. 9 If you cut stones out of the ground, a stone might hurt you.If you cut wood into pieces, a piece of it might hurt you. 10 If your axe is not sharp,you will need to be very strong to use it.If you are wise, you will make the axe's edge sharp again.That is how wisdom helps you to do things well. 11 Someone may have power over dangerous snakes.But that will not help him if the snake bites him first. 12 People respect a wise person,because of the things that he says.But the words of a fool will destroy him. 13 When a fool starts to speak,he says silly things.When he finishes,he is saying crazy things that are wicked. 14 But he never stops talking.Nobody knows what will happen in the future.Nobody can tell us what will happen after we die. 15 When a fool does any work,he quickly becomes tired.He is so tired that he forgets the way to town. 16 A country is in terrible troubleif its ruler is young and foolish.If its leaders go to parties all day,a country is in trouble. 17 But if a country's ruler belongs to a good family,that country will be a happy place.Its leaders only enjoy parties at the proper time.They control themselves and they do not become drunk. 18 If a man is too lazy to work on his house,its roof will fall down.Rain will make his rooms wet. 19 Good food and wine help us to laugh and to be happy.But you need to have money to buy everything. 20 Do not say bad things about the king.Do not even think about it!Even when you are in your bedroom,do not say bad things about rich people.A little bird might hear you.It might tell people what you have said."
+                "text": "At the same time, princes have to walk, as slaves do.",
+                "isContinuation": true
               }
             ],
             [
@@ -2981,7 +3160,8 @@
             [
               {
                 "verse": 8,
-                "text": "If you knock down a wall, a snake might bite you."
+                "text": "If you knock down a wall, a snake might bite you.",
+                "isContinuation": true
               }
             ],
             [
@@ -2993,7 +3173,8 @@
             [
               {
                 "verse": 9,
-                "text": "If you cut wood into pieces, a piece of it might hurt you."
+                "text": "If you cut wood into pieces, a piece of it might hurt you.",
+                "isContinuation": true
               }
             ],
             [
@@ -3005,19 +3186,22 @@
             [
               {
                 "verse": 10,
-                "text": "you will need to be very strong to use it."
+                "text": "you will need to be very strong to use it.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 10,
-                "text": "If you are wise, you will make the axe's edge sharp again."
+                "text": "If you are wise, you will make the axe's edge sharp again.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 10,
-                "text": "That is how wisdom helps you to do things well."
+                "text": "That is how wisdom helps you to do things well.",
+                "isContinuation": true
               }
             ],
             [
@@ -3029,13 +3213,8 @@
             [
               {
                 "verse": 11,
-                "text": "But that will not help him if the snake bites him first."
-              }
-            ],
-            [
-              {
-                "verse": 11,
-                "text": "12 People respect a wise person,because of the things that he says.But the words of a fool will destroy him. 13 When a fool starts to speak,he says silly things.When he finishes,he is saying crazy things that are wicked. 14 But he never stops talking.Nobody knows what will happen in the future.Nobody can tell us what will happen after we die. 15 When a fool does any work,he quickly becomes tired.He is so tired that he forgets the way to town. 16 A country is in terrible troubleif its ruler is young and foolish.If its leaders go to parties all day,a country is in trouble. 17 But if a country's ruler belongs to a good family,that country will be a happy place.Its leaders only enjoy parties at the proper time.They control themselves and they do not become drunk. 18 If a man is too lazy to work on his house,its roof will fall down.Rain will make his rooms wet. 19 Good food and wine help us to laugh and to be happy.But you need to have money to buy everything. 20 Do not say bad things about the king.Do not even think about it!Even when you are in your bedroom,do not say bad things about rich people.A little bird might hear you.It might tell people what you have said."
+                "text": "But that will not help him if the snake bites him first.",
+                "isContinuation": true
               }
             ],
             [
@@ -3047,13 +3226,15 @@
             [
               {
                 "verse": 12,
-                "text": "because of the things that he says."
+                "text": "because of the things that he says.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 12,
-                "text": "But the words of a fool will destroy him."
+                "text": "But the words of a fool will destroy him.",
+                "isContinuation": true
               }
             ],
             [
@@ -3065,19 +3246,22 @@
             [
               {
                 "verse": 13,
-                "text": "he says silly things."
+                "text": "he says silly things.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 13,
-                "text": "When he finishes,"
+                "text": "When he finishes,",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 13,
-                "text": "he is saying crazy things that are wicked."
+                "text": "he is saying crazy things that are wicked.",
+                "isContinuation": true
               }
             ],
             [
@@ -3089,13 +3273,15 @@
             [
               {
                 "verse": 14,
-                "text": "Nobody knows what will happen in the future."
+                "text": "Nobody knows what will happen in the future.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 14,
-                "text": "Nobody can tell us what will happen after we die."
+                "text": "Nobody can tell us what will happen after we die.",
+                "isContinuation": true
               }
             ],
             [
@@ -3107,19 +3293,15 @@
             [
               {
                 "verse": 15,
-                "text": "he quickly becomes tired."
+                "text": "he quickly becomes tired.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 15,
-                "text": "He is so tired that he forgets the way to town."
-              }
-            ],
-            [
-              {
-                "verse": 15,
-                "text": "16 A country is in terrible troubleif its ruler is young and foolish.If its leaders go to parties all day,a country is in trouble. 17 But if a country's ruler belongs to a good family,that country will be a happy place.Its leaders only enjoy parties at the proper time.They control themselves and they do not become drunk. 18 If a man is too lazy to work on his house,its roof will fall down.Rain will make his rooms wet. 19 Good food and wine help us to laugh and to be happy.But you need to have money to buy everything. 20 Do not say bad things about the king.Do not even think about it!Even when you are in your bedroom,do not say bad things about rich people.A little bird might hear you.It might tell people what you have said."
+                "text": "He is so tired that he forgets the way to town.",
+                "isContinuation": true
               }
             ],
             [
@@ -3131,19 +3313,22 @@
             [
               {
                 "verse": 16,
-                "text": "if its ruler is young and foolish."
+                "text": "if its ruler is young and foolish.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 16,
-                "text": "If its leaders go to parties all day,"
+                "text": "If its leaders go to parties all day,",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 16,
-                "text": "a country is in trouble."
+                "text": "a country is in trouble.",
+                "isContinuation": true
               }
             ],
             [
@@ -3155,19 +3340,22 @@
             [
               {
                 "verse": 17,
-                "text": "that country will be a happy place."
+                "text": "that country will be a happy place.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 17,
-                "text": "Its leaders only enjoy parties at the proper time."
+                "text": "Its leaders only enjoy parties at the proper time.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 17,
-                "text": "They control themselves and they do not become drunk."
+                "text": "They control themselves and they do not become drunk.",
+                "isContinuation": true
               }
             ],
             [
@@ -3179,13 +3367,15 @@
             [
               {
                 "verse": 18,
-                "text": "its roof will fall down."
+                "text": "its roof will fall down.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 18,
-                "text": "Rain will make his rooms wet."
+                "text": "Rain will make his rooms wet.",
+                "isContinuation": true
               }
             ],
             [
@@ -3197,7 +3387,8 @@
             [
               {
                 "verse": 19,
-                "text": "But you need to have money to buy everything."
+                "text": "But you need to have money to buy everything.",
+                "isContinuation": true
               }
             ],
             [
@@ -3209,31 +3400,36 @@
             [
               {
                 "verse": 20,
-                "text": "Do not even think about it!"
+                "text": "Do not even think about it!",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 20,
-                "text": "Even when you are in your bedroom,"
+                "text": "Even when you are in your bedroom,",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 20,
-                "text": "do not say bad things about rich people."
+                "text": "do not say bad things about rich people.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 20,
-                "text": "A little bird might hear you."
+                "text": "A little bird might hear you.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 20,
-                "text": "It might tell people what you have said."
+                "text": "It might tell people what you have said.",
+                "isContinuation": true
               }
             ]
           ]
@@ -3262,7 +3458,8 @@
             [
               {
                 "verse": 1,
-                "text": "If you do that, one day you will receive your things back again."
+                "text": "If you do that, one day you will receive your things back again.",
+                "isContinuation": true
               }
             ],
             [
@@ -3274,13 +3471,15 @@
             [
               {
                 "verse": 2,
-                "text": "You do not know when trouble will come."
+                "text": "You do not know when trouble will come.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 2,
-                "text": "Then those people can help you."
+                "text": "Then those people can help you.",
+                "isContinuation": true
               }
             ],
             [
@@ -3292,19 +3491,22 @@
             [
               {
                 "verse": 3,
-                "text": "rain will fall on the earth."
+                "text": "rain will fall on the earth.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 3,
-                "text": "If a tree falls to the ground,"
+                "text": "If a tree falls to the ground,",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 3,
-                "text": "it will stay there, in the same place."
+                "text": "it will stay there, in the same place.",
+                "isContinuation": true
               }
             ],
             [
@@ -3316,19 +3518,22 @@
             [
               {
                 "verse": 4,
-                "text": "will never plant any seeds."
+                "text": "will never plant any seeds.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 4,
-                "text": "If he is always looking at the clouds,"
+                "text": "If he is always looking at the clouds,",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 4,
-                "text": "he will never bring in his crops."
+                "text": "he will never bring in his crops.",
+                "isContinuation": true
               }
             ],
             [
@@ -3340,25 +3545,29 @@
             [
               {
                 "verse": 5,
-                "text": "Nor do we know how a baby's body grows"
+                "text": "Nor do we know how a baby's body grows",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 5,
-                "text": "inside a pregnant woman."
+                "text": "inside a pregnant woman.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 5,
-                "text": "So nobody can explain the things that God does."
+                "text": "So nobody can explain the things that God does.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 5,
-                "text": "He is the one who has made everything."
+                "text": "He is the one who has made everything.",
+                "isContinuation": true
               }
             ],
             [
@@ -3370,25 +3579,29 @@
             [
               {
                 "verse": 6,
-                "text": "and continue to work until the evening."
+                "text": "and continue to work until the evening.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 6,
-                "text": "You do not know which seeds will become strong plants."
+                "text": "You do not know which seeds will become strong plants.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 6,
-                "text": "Perhaps only some of them will grow."
+                "text": "Perhaps only some of them will grow.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 6,
-                "text": "Perhaps they will all grow well."
+                "text": "Perhaps they will all grow well.",
+                "isContinuation": true
               }
             ]
           ]
@@ -3405,7 +3618,8 @@
             [
               {
                 "verse": 7,
-                "text": "It is good to see the sun rise in the morning."
+                "text": "It is good to see the sun rise in the morning.",
+                "isContinuation": true
               }
             ],
             [
@@ -3417,31 +3631,29 @@
             [
               {
                 "verse": 8,
-                "text": "and they should happily enjoy every day."
+                "text": "and they should happily enjoy every day.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 8,
-                "text": "But they should remember that their lives will end in death."
+                "text": "But they should remember that their lives will end in death.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 8,
-                "text": "There will be many days of trouble ahead."
+                "text": "There will be many days of trouble ahead.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 8,
-                "text": "We cannot understand everything that will happen to us in the future."
-              }
-            ],
-            [
-              {
-                "verse": 8,
-                "text": "9 Young people, enjoy your life while you are young.Do the things that you think are good.Enjoy the things that you see.But remember that God will judge youfor all the things that you do. 10 Do not worry about things.Do not let your body cause you to have pain.You will not be young and strong for very long.We all become old too quickly."
+                "text": "We cannot understand everything that will happen to us in the future.",
+                "isContinuation": true
               }
             ],
             [
@@ -3453,25 +3665,29 @@
             [
               {
                 "verse": 9,
-                "text": "Do the things that you think are good."
+                "text": "Do the things that you think are good.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 9,
-                "text": "Enjoy the things that you see."
+                "text": "Enjoy the things that you see.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 9,
-                "text": "But remember that God will judge you"
+                "text": "But remember that God will judge you",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 9,
-                "text": "for all the things that you do."
+                "text": "for all the things that you do.",
+                "isContinuation": true
               }
             ],
             [
@@ -3483,19 +3699,22 @@
             [
               {
                 "verse": 10,
-                "text": "Do not let your body cause you to have pain."
+                "text": "Do not let your body cause you to have pain.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 10,
-                "text": "You will not be young and strong for very long."
+                "text": "You will not be young and strong for very long.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 10,
-                "text": "We all become old too quickly."
+                "text": "We all become old too quickly.",
+                "isContinuation": true
               }
             ]
           ]
@@ -3522,25 +3741,29 @@
             [
               {
                 "verse": 1,
-                "text": "He is the one who made you."
+                "text": "He is the one who made you.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 1,
-                "text": "Your life will have many troubles in the future."
+                "text": "Your life will have many troubles in the future.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 1,
-                "text": "During those years, you will say,"
+                "text": "During those years, you will say,",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 1,
-                "text": "‘I do not enjoy my life any more.’"
+                "text": "‘I do not enjoy my life any more.’",
+                "isContinuation": true
               }
             ],
             [
@@ -3552,13 +3775,15 @@
             [
               {
                 "verse": 2,
-                "text": "You will not see the moon or the stars."
+                "text": "You will not see the moon or the stars.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 2,
-                "text": "There will always be dark clouds after the rain."
+                "text": "There will always be dark clouds after the rain.",
+                "isContinuation": true
               }
             ],
             [
@@ -3570,19 +3795,22 @@
             [
               {
                 "verse": 3,
-                "text": "Your legs will become weak."
+                "text": "Your legs will become weak.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 3,
-                "text": "You will have only a few teeth to eat with."
+                "text": "You will have only a few teeth to eat with.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 3,
-                "text": "Your eyes will no longer see very well."
+                "text": "Your eyes will no longer see very well.",
+                "isContinuation": true
               }
             ],
             [
@@ -3594,25 +3822,29 @@
             [
               {
                 "verse": 4,
-                "text": "You will not hear the sound of people as they work."
+                "text": "You will not hear the sound of people as they work.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 4,
-                "text": "You will not hear the sound of people as they sing songs."
+                "text": "You will not hear the sound of people as they sing songs.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 4,
-                "text": "But a bird's song will wake you"
+                "text": "But a bird's song will wake you",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 4,
-                "text": "when you want to sleep."
+                "text": "when you want to sleep.",
+                "isContinuation": true
               }
             ],
             [
@@ -3624,49 +3856,57 @@
             [
               {
                 "verse": 5,
-                "text": "You will worry about danger in the streets."
+                "text": "You will worry about danger in the streets.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 5,
-                "text": "When you are old, your hair will become white,"
+                "text": "When you are old, your hair will become white,",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 5,
-                "text": "like the flowers on an almond tree."
+                "text": "like the flowers on an almond tree.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 5,
-                "text": "You will feel too tired to move yourself,"
+                "text": "You will feel too tired to move yourself,",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 5,
-                "text": "like an old grasshopper."
+                "text": "like an old grasshopper.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 5,
-                "text": "You will not want to have sex."
+                "text": "You will not want to have sex.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 5,
-                "text": "Finally, we will all die and go to our home in the ground."
+                "text": "Finally, we will all die and go to our home in the ground.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 5,
-                "text": "Many people will weep at our funeral."
+                "text": "Many people will weep at our funeral.",
+                "isContinuation": true
               }
             ],
             [
@@ -3678,31 +3918,36 @@
             [
               {
                 "verse": 6,
-                "text": "because one day your life will finish."
+                "text": "because one day your life will finish.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 6,
-                "text": "It will be like a silver chain that breaks;"
+                "text": "It will be like a silver chain that breaks;",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 6,
-                "text": "like a gold bowl that breaks;"
+                "text": "like a gold bowl that breaks;",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 6,
-                "text": "like a water pot at the well that breaks into pieces;"
+                "text": "like a water pot at the well that breaks into pieces;",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 6,
-                "text": "like a rope at the well that breaks apart."
+                "text": "like a rope at the well that breaks apart.",
+                "isContinuation": true
               }
             ],
             [
@@ -3714,19 +3959,15 @@
             [
               {
                 "verse": 7,
-                "text": "The breath of our life goes back to God,"
+                "text": "The breath of our life goes back to God,",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 7,
-                "text": "who gave it to us."
-              }
-            ],
-            [
-              {
-                "verse": 7,
-                "text": "8 So I, the Teacher, say,‘All these things seem to have no purpose.We cannot understand why they happen.’About the Teacher 9 The Teacher was a wise man. He also taught the people to understand things. He studied many proverbs and he wrote them down carefully. 10 The Teacher tried to find the right words, so that he could show the true meaning of what he wrote. 11 The words of wise people are like sharp sticks that a farmer uses to move his animals along. Their messages are like strong nails in a piece of wood. It is God, our one Shepherd, who gives these messages to us.Worship God and obey him 12 My son, I warn you to be careful about any other teaching. There will always be more and more books to read. If you try to study everything, you will become very weak and tired. 13 Now I have heard everything and this is what I have decided: Respect God and obey his commands. That is God's purpose for all people. 14 Remember that God will judge everything that we do, to see if it is good or it is bad. He knows even the things that we do secretly."
+                "text": "who gave it to us.",
+                "isContinuation": true
               }
             ],
             [
@@ -3738,13 +3979,15 @@
             [
               {
                 "verse": 8,
-                "text": "‘All these things seem to have no purpose."
+                "text": "‘All these things seem to have no purpose.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 8,
-                "text": "We cannot understand why they happen.’"
+                "text": "We cannot understand why they happen.’",
+                "isContinuation": true
               }
             ]
           ]

@@ -48,7 +48,8 @@
             [
               {
                 "verse": 4,
-                "text": "God will help you, and the seven spirits that are in front of his throne will help you."
+                "text": "God will help you, and the seven spirits that are in front of his throne will help you.",
+                "isContinuation": true
               }
             ],
             [
@@ -60,7 +61,8 @@
             [
               {
                 "verse": 5,
-                "text": "Jesus loves us and he died for us. That is how he made us free. Because of Jesus, God will not punish us for the bad things that we have done."
+                "text": "Jesus loves us and he died for us. That is how he made us free. Because of Jesus, God will not punish us for the bad things that we have done.",
+                "isContinuation": true
               },
               {
                 "verse": 6,
@@ -70,7 +72,8 @@
             [
               {
                 "verse": 6,
-                "text": "So we praise Jesus Christ! He will always be very great! He has power for all time. Amen."
+                "text": "So we praise Jesus Christ! He will always be very great! He has power for all time. Amen.",
+                "isContinuation": true
               }
             ],
             [
@@ -82,25 +85,29 @@
             [
               {
                 "verse": 7,
-                "text": "At that time, everyone will see him!"
+                "text": "At that time, everyone will see him!",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 7,
-                "text": "Even the people who pushed a spear into his body will see him."
+                "text": "Even the people who pushed a spear into his body will see him.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 7,
-                "text": "People from all the nations on earth will be sad when they see him."
+                "text": "People from all the nations on earth will be sad when they see him.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 7,
-                "text": "Yes, it is true! Amen."
+                "text": "Yes, it is true! Amen.",
+                "isContinuation": true
               }
             ],
             [
@@ -133,43 +140,50 @@
             [
               {
                 "verse": 11,
-                "text": "Ephesus,"
+                "text": "Ephesus,",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 11,
-                "text": "Smyrna,"
+                "text": "Smyrna,",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 11,
-                "text": "Pergamum,"
+                "text": "Pergamum,",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 11,
-                "text": "Thyatira,"
+                "text": "Thyatira,",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 11,
-                "text": "Sardis,"
+                "text": "Sardis,",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 11,
-                "text": "Philadelphia,"
+                "text": "Philadelphia,",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 11,
-                "text": "Laodicea.’"
+                "text": "Laodicea.’",
+                "isContinuation": true
               }
             ],
             [
@@ -248,7 +262,8 @@
             [
               {
                 "verse": 1,
-                "text": "“This is the message to you from the one who holds the seven stars. He holds them carefully in his right hand. He walks among the seven gold lampstands."
+                "text": "“This is the message to you from the one who holds the seven stars. He holds them carefully in his right hand. He walks among the seven gold lampstands.",
+                "isContinuation": true
               }
             ],
             [
@@ -295,7 +310,8 @@
             [
               {
                 "verse": 8,
-                "text": "“This is the message to you from the one who is the first and the last. He was dead, but he became alive again."
+                "text": "“This is the message to you from the one who is the first and the last. He was dead, but he became alive again.",
+                "isContinuation": true
               }
             ],
             [
@@ -328,7 +344,8 @@
             [
               {
                 "verse": 12,
-                "text": "“This is the message to you from the one who has the sharp sword with two edges."
+                "text": "“This is the message to you from the one who has the sharp sword with two edges.",
+                "isContinuation": true
               }
             ],
             [
@@ -371,7 +388,8 @@
             [
               {
                 "verse": 18,
-                "text": "“This is the message to you from the Son of God. He has eyes that burn brightly like flames of fire. His feet shine like bright metal."
+                "text": "“This is the message to you from the Son of God. He has eyes that burn brightly like flames of fire. His feet shine like bright metal.",
+                "isContinuation": true
               }
             ],
             [
@@ -464,13 +482,15 @@
             [
               {
                 "verse": 1,
-                "text": "“This is the message to you from the one who holds the seven spirits of God and the seven stars."
+                "text": "“This is the message to you from the one who holds the seven spirits of God and the seven stars.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 1,
-                "text": "I know everything that you do. I know that people praise you. They think that you are alive. But that is not true, because really you are dead in your spirits."
+                "text": "I know everything that you do. I know that people praise you. They think that you are alive. But that is not true, because really you are dead in your spirits.",
+                "isContinuation": true
               },
               {
                 "verse": 2,
@@ -509,7 +529,8 @@
             [
               {
                 "verse": 7,
-                "text": "“This is my message to you. I am the one who is completely good, the true God. I have King David's key in my hand. When I open a door, nobody can shut it. And when I shut a door, nobody can open it."
+                "text": "“This is my message to you. I am the one who is completely good, the true God. I have King David's key in my hand. When I open a door, nobody can shut it. And when I shut a door, nobody can open it.",
+                "isContinuation": true
               }
             ],
             [
@@ -556,7 +577,8 @@
             [
               {
                 "verse": 14,
-                "text": "“This is my message to you. I am the one whose name is ‘ Amen’. I faithfully tell people God's true message. Everything that God has created starts with me."
+                "text": "“This is my message to you. I am the one whose name is ‘ Amen’. I faithfully tell people God's true message. Everything that God has created starts with me.",
+                "isContinuation": true
               }
             ],
             [
@@ -656,7 +678,8 @@
             [
               {
                 "verse": 6,
-                "text": "In the middle, around the throne, there were four other beings that were alive. They had eyes all over them, on their fronts and on their backs."
+                "text": "In the middle, around the throne, there were four other beings that were alive. They had eyes all over them, on their fronts and on their backs.",
+                "isContinuation": true
               },
               {
                 "verse": 7,
@@ -670,25 +693,29 @@
             [
               {
                 "verse": 8,
-                "text": "‘The Lord God has all power and authority."
+                "text": "‘The Lord God has all power and authority.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 8,
-                "text": "He is completely good and holy."
+                "text": "He is completely good and holy.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 8,
-                "text": "He has always lived. He lives now."
+                "text": "He has always lived. He lives now.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 8,
-                "text": "He will continue to live for ever.’"
+                "text": "He will continue to live for ever.’",
+                "isContinuation": true
               }
             ],
             [
@@ -710,37 +737,43 @@
             [
               {
                 "verse": 11,
-                "text": "Everyone should give you honour"
+                "text": "Everyone should give you honour",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 11,
-                "text": "and say how great and powerful you are!"
+                "text": "and say how great and powerful you are!",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 11,
-                "text": "Everyone should worship you,"
+                "text": "Everyone should worship you,",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 11,
-                "text": "because you created everything."
+                "text": "because you created everything.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 11,
-                "text": "You decided to make them and so you made them!"
+                "text": "You decided to make them and so you made them!",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 11,
-                "text": "That is why everything in the world is here.’"
+                "text": "That is why everything in the world is here.’",
+                "isContinuation": true
               }
             ]
           ]
@@ -812,49 +845,57 @@
             [
               {
                 "verse": 9,
-                "text": "‘You are so good!"
+                "text": "‘You are so good!",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 9,
-                "text": "You are good enough to take the scroll."
+                "text": "You are good enough to take the scroll.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 9,
-                "text": "You can break its seals and open it."
+                "text": "You can break its seals and open it.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 9,
-                "text": "You can do this because people killed you."
+                "text": "You can do this because people killed you.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 9,
-                "text": "When you died,"
+                "text": "When you died,",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 9,
-                "text": "you bought people for God with your blood."
+                "text": "you bought people for God with your blood.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 9,
-                "text": "You bought them from every tribe,"
+                "text": "You bought them from every tribe,",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 9,
-                "text": "from every language and every nation."
+                "text": "from every language and every nation.",
+                "isContinuation": true
               }
             ],
             [
@@ -866,19 +907,22 @@
             [
               {
                 "verse": 10,
-                "text": "You have made them priests,"
+                "text": "You have made them priests,",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 10,
-                "text": "so that they serve God."
+                "text": "so that they serve God.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 10,
-                "text": "And they will rule on the earth.’"
+                "text": "And they will rule on the earth.’",
+                "isContinuation": true
               }
             ],
             [
@@ -894,37 +938,43 @@
             [
               {
                 "verse": 12,
-                "text": "‘The Lamb that people killed is completely good!"
+                "text": "‘The Lamb that people killed is completely good!",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 12,
-                "text": "He has all authority,"
+                "text": "He has all authority,",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 12,
-                "text": "and all things belong to him."
+                "text": "and all things belong to him.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 12,
-                "text": "He is wise and powerful."
+                "text": "He is wise and powerful.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 12,
-                "text": "Everyone must agree that he is great!"
+                "text": "Everyone must agree that he is great!",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 12,
-                "text": "Everyone must praise him and worship him!’"
+                "text": "Everyone must praise him and worship him!’",
+                "isContinuation": true
               }
             ],
             [
@@ -936,25 +986,29 @@
             [
               {
                 "verse": 13,
-                "text": "‘We praise the one who sits on the throne."
+                "text": "‘We praise the one who sits on the throne.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 13,
-                "text": "We praise the one who is the Lamb."
+                "text": "We praise the one who is the Lamb.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 13,
-                "text": "We say that they are great! We worship them!"
+                "text": "We say that they are great! We worship them!",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 13,
-                "text": "They have power to rule for ever!’"
+                "text": "They have power to rule for ever!’",
+                "isContinuation": true
               }
             ],
             [
@@ -1116,13 +1170,15 @@
             [
               {
                 "verse": 5,
-                "text": "12,000 from Reuben's tribe,"
+                "text": "12,000 from Reuben's tribe,",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 5,
-                "text": "12,000 from Gad's tribe,"
+                "text": "12,000 from Gad's tribe,",
+                "isContinuation": true
               }
             ],
             [
@@ -1134,13 +1190,15 @@
             [
               {
                 "verse": 6,
-                "text": "12,000 from Naphtali's tribe,"
+                "text": "12,000 from Naphtali's tribe,",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 6,
-                "text": "12,000 from Manasseh's tribe,"
+                "text": "12,000 from Manasseh's tribe,",
+                "isContinuation": true
               }
             ],
             [
@@ -1152,13 +1210,15 @@
             [
               {
                 "verse": 7,
-                "text": "12,000 from Levi's tribe,"
+                "text": "12,000 from Levi's tribe,",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 7,
-                "text": "12,000 from Issachar's tribe,"
+                "text": "12,000 from Issachar's tribe,",
+                "isContinuation": true
               }
             ],
             [
@@ -1170,13 +1230,15 @@
             [
               {
                 "verse": 8,
-                "text": "12,000 from Joseph's tribe,"
+                "text": "12,000 from Joseph's tribe,",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 8,
-                "text": "12,000 from Benjamin's tribe."
+                "text": "12,000 from Benjamin's tribe.",
+                "isContinuation": true
               }
             ]
           ]
@@ -1199,19 +1261,22 @@
             [
               {
                 "verse": 10,
-                "text": "‘We worship our God who sits on the throne."
+                "text": "‘We worship our God who sits on the throne.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 10,
-                "text": "And we worship the Lamb."
+                "text": "And we worship the Lamb.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 10,
-                "text": "They have saved us from Satan's power.’"
+                "text": "They have saved us from Satan's power.’",
+                "isContinuation": true
               }
             ],
             [
@@ -1227,37 +1292,43 @@
             [
               {
                 "verse": 12,
-                "text": "‘This is true!"
+                "text": "‘This is true!",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 12,
-                "text": "We worship our God and we give him honour."
+                "text": "We worship our God and we give him honour.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 12,
-                "text": "He is completely wise."
+                "text": "He is completely wise.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 12,
-                "text": "We thank him and we praise him."
+                "text": "We thank him and we praise him.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 12,
-                "text": "He has all power and authority for ever!"
+                "text": "He has all power and authority for ever!",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 12,
-                "text": "Amen!’"
+                "text": "Amen!’",
+                "isContinuation": true
               }
             ],
             [
@@ -1275,7 +1346,8 @@
             [
               {
                 "verse": 14,
-                "text": "He said to me, ‘They are the people who have had a time of very bad trouble. Now they have come out of that. They have washed their clothes in the blood of the Lamb. Now their clothes are white and clean."
+                "text": "He said to me, ‘They are the people who have had a time of very bad trouble. Now they have come out of that. They have washed their clothes in the blood of the Lamb. Now their clothes are white and clean.",
+                "isContinuation": true
               },
               {
                 "verse": 15,
@@ -1673,19 +1745,22 @@
             [
               {
                 "verse": 15,
-                "text": "‘Our Lord God and his Messiah now have all authority!"
+                "text": "‘Our Lord God and his Messiah now have all authority!",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 15,
-                "text": "The whole world has become their kingdom."
+                "text": "The whole world has become their kingdom.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 15,
-                "text": "God will rule as King for ever!’"
+                "text": "God will rule as King for ever!’",
+                "isContinuation": true
               }
             ],
             [
@@ -1701,25 +1776,29 @@
             [
               {
                 "verse": 17,
-                "text": "‘We thank you, Lord God, because you have all authority!"
+                "text": "‘We thank you, Lord God, because you have all authority!",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 17,
-                "text": "You live now and you have always lived."
+                "text": "You live now and you have always lived.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 17,
-                "text": "You have great power."
+                "text": "You have great power.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 17,
-                "text": "Now you have begun to rule the whole world!"
+                "text": "Now you have begun to rule the whole world!",
+                "isContinuation": true
               }
             ],
             [
@@ -1731,49 +1810,57 @@
             [
               {
                 "verse": 18,
-                "text": "But now it is time for you to be angry with them."
+                "text": "But now it is time for you to be angry with them.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 18,
-                "text": "Now you will judge all the people who have died."
+                "text": "Now you will judge all the people who have died.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 18,
-                "text": "You will give good things to your servants, the prophets,"
+                "text": "You will give good things to your servants, the prophets,",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 18,
-                "text": "and to all your people."
+                "text": "and to all your people.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 18,
-                "text": "You will bless everyone who respects your authority,"
+                "text": "You will bless everyone who respects your authority,",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 18,
-                "text": "whether they are important people or not."
+                "text": "whether they are important people or not.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 18,
-                "text": "But you will destroy all those people who destroy the earth."
+                "text": "But you will destroy all those people who destroy the earth.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 18,
-                "text": "The time has now come for all this to happen.’"
+                "text": "The time has now come for all this to happen.’",
+                "isContinuation": true
               }
             ],
             [
@@ -1857,37 +1944,43 @@
             [
               {
                 "verse": 10,
-                "text": "‘Now God has saved his people from Satan's power!"
+                "text": "‘Now God has saved his people from Satan's power!",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 10,
-                "text": "God has shown his great power as King."
+                "text": "God has shown his great power as King.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 10,
-                "text": "His Messiah has authority to rule."
+                "text": "His Messiah has authority to rule.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 10,
-                "text": "Satan said bad things against our people."
+                "text": "Satan said bad things against our people.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 10,
-                "text": "He never stopped telling our God that our brothers and sisters are guilty."
+                "text": "He never stopped telling our God that our brothers and sisters are guilty.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 10,
-                "text": "But now God has thrown him out of heaven."
+                "text": "But now God has thrown him out of heaven.",
+                "isContinuation": true
               }
             ],
             [
@@ -1899,25 +1992,29 @@
             [
               {
                 "verse": 11,
-                "text": "They could do this because of the death of the Lamb as a sacrifice."
+                "text": "They could do this because of the death of the Lamb as a sacrifice.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 11,
-                "text": "They continued to speak God's true message."
+                "text": "They continued to speak God's true message.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 11,
-                "text": "They were also ready to die as God's servants."
+                "text": "They were also ready to die as God's servants.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 11,
-                "text": "That is why they were able to win against Satan."
+                "text": "That is why they were able to win against Satan.",
+                "isContinuation": true
               }
             ],
             [
@@ -1929,25 +2026,22 @@
             [
               {
                 "verse": 12,
-                "text": "But terrible trouble will happen to the earth and the sea."
+                "text": "But terrible trouble will happen to the earth and the sea.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 12,
-                "text": "The devil has come down to you now and he is very angry."
+                "text": "The devil has come down to you now and he is very angry.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 12,
-                "text": "He knows that he has only a short time to hurt people.’"
-              }
-            ],
-            [
-              {
-                "verse": 12,
-                "text": "13 The dragon realized that they had thrown him down to the earth. So he chased after the woman who had given birth to the baby boy. He wanted to catch her. 14 But the woman received the two wings of a very big eagle. Then she could fly to the place in the wilderness that God had prepared for her. In that place God would keep her safe from the big snake. God would take care of her there for a time, times and half a time.12:14 15 Then the dragon poured lots of water out of his mouth like a river. He wanted the river of water to carry the woman away. 16 But a big hole opened in the ground. The river that poured from the dragon's mouth went down into the hole. That helped the woman to escape. 17 As a result, the dragon was very angry with the woman. So he went away to fight a war against her other descendants. Those are the people who obey God's commands. They continue to trust Jesus and to speak his message.12:17 18 After that, the dragon stood on the shore of the sea."
+                "text": "He knows that he has only a short time to hurt people.’",
+                "isContinuation": true
               }
             ],
             [
@@ -2052,25 +2146,29 @@
             [
               {
                 "verse": 10,
-                "text": "that is what will happen."
+                "text": "that is what will happen.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 10,
-                "text": "If it is right for someone's enemy to kill him with a sword,"
+                "text": "If it is right for someone's enemy to kill him with a sword,",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 10,
-                "text": "that is what will happen.’"
+                "text": "that is what will happen.’",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 10,
-                "text": "This means that God's people must be patient and strong. They must continue to trust God."
+                "text": "This means that God's people must be patient and strong. They must continue to trust God.",
+                "isContinuation": true
               }
             ]
           ]
@@ -2213,7 +2311,8 @@
             [
               {
                 "verse": 13,
-                "text": "God's Spirit says, ‘Yes, they will rest from their work. God will not forget the good things that they have done.’"
+                "text": "God's Spirit says, ‘Yes, they will rest from their work. God will not forget the good things that they have done.’",
+                "isContinuation": true
               }
             ]
           ]
@@ -2297,25 +2396,29 @@
             [
               {
                 "verse": 3,
-                "text": "‘ Lord God with all power,"
+                "text": "‘ Lord God with all power,",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 3,
-                "text": "what you do is great and wonderful!"
+                "text": "what you do is great and wonderful!",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 3,
-                "text": "Everything that you do is completely fair and honest."
+                "text": "Everything that you do is completely fair and honest.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 3,
-                "text": "You are King of all nations of the world."
+                "text": "You are King of all nations of the world.",
+                "isContinuation": true
               }
             ],
             [
@@ -2327,37 +2430,43 @@
             [
               {
                 "verse": 4,
-                "text": "They will say how great your name is,"
+                "text": "They will say how great your name is,",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 4,
-                "text": "because you alone are holy."
+                "text": "because you alone are holy.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 4,
-                "text": "People from every nation have seen what you do."
+                "text": "People from every nation have seen what you do.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 4,
-                "text": "You always do what is right."
+                "text": "You always do what is right.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 4,
-                "text": "So all people will come and stand in front of you,"
+                "text": "So all people will come and stand in front of you,",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 4,
-                "text": "and they will worship you.’"
+                "text": "and they will worship you.’",
+                "isContinuation": true
               }
             ],
             [
@@ -2430,19 +2539,22 @@
             [
               {
                 "verse": 5,
-                "text": "‘ Holy One, you live now and you have always lived."
+                "text": "‘ Holy One, you live now and you have always lived.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 5,
-                "text": "You are right in everything that you decide."
+                "text": "You are right in everything that you decide.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 5,
-                "text": "Now you have judged these people."
+                "text": "Now you have judged these people.",
+                "isContinuation": true
               }
             ],
             [
@@ -2454,13 +2566,15 @@
             [
               {
                 "verse": 6,
-                "text": "So now you have given them blood to drink."
+                "text": "So now you have given them blood to drink.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 6,
-                "text": "That is the punishment that they deserve.’"
+                "text": "That is the punishment that they deserve.’",
+                "isContinuation": true
               }
             ],
             [
@@ -2472,19 +2586,22 @@
             [
               {
                 "verse": 7,
-                "text": "‘Yes, Lord God, you have all power and authority."
+                "text": "‘Yes, Lord God, you have all power and authority.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 7,
-                "text": "When you judge people,"
+                "text": "When you judge people,",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 7,
-                "text": "you do what is right and fair.’"
+                "text": "you do what is right and fair.’",
+                "isContinuation": true
               }
             ],
             [
@@ -2602,19 +2719,22 @@
             [
               {
                 "verse": 5,
-                "text": "Powerful Babylon."
+                "text": "Powerful Babylon.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 5,
-                "text": "Mother of all prostitutes."
+                "text": "Mother of all prostitutes.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 5,
-                "text": "Mother of all the disgusting things on the earth."
+                "text": "Mother of all the disgusting things on the earth.",
+                "isContinuation": true
               }
             ],
             [
@@ -2711,31 +2831,36 @@
             [
               {
                 "verse": 2,
-                "text": "‘God has destroyed the great city of Babylon!"
+                "text": "‘God has destroyed the great city of Babylon!",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 2,
-                "text": "She has become a place where demons live."
+                "text": "She has become a place where demons live.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 2,
-                "text": "She is a home for every disgusting spirit."
+                "text": "She is a home for every disgusting spirit.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 2,
-                "text": "She is a home for every unclean bird."
+                "text": "She is a home for every unclean bird.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 2,
-                "text": "She is a home for every unclean and disgusting animal."
+                "text": "She is a home for every unclean and disgusting animal.",
+                "isContinuation": true
               }
             ],
             [
@@ -2747,37 +2872,36 @@
             [
               {
                 "verse": 3,
-                "text": "Then she leads them to have sex in a wrong way."
+                "text": "Then she leads them to have sex in a wrong way.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 3,
-                "text": "She has caused people from every nation to turn away from God."
+                "text": "She has caused people from every nation to turn away from God.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 3,
-                "text": "It is as if all the kings of the earth have had sex with that bad woman."
+                "text": "It is as if all the kings of the earth have had sex with that bad woman.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 3,
-                "text": "All the traders of the earth have become rich,"
+                "text": "All the traders of the earth have become rich,",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 3,
-                "text": "because she has bought things from them to enjoy a wicked life.’"
-              }
-            ],
-            [
-              {
-                "verse": 3,
-                "text": "4 Then I heard another voice which spoke from heaven. It said:‘My people, leave the city! Come out!Do not do the bad things that the people of that city have done.Then you will not receive the terrible troubles that God sends to them. 5 They have done very many bad things.Their sins have reached as high as heaven.God has remembered to punish them. 6 Yes, punish the people of that city!Do to them the same things that they have done to others.Punish them with twice the bad things that they themselves have done.She caused people to drink pain from her cup.Now make her drink twice as much pain for herself! 7 She liked to receive honour.She bought expensive things to enjoy a wicked life.So now give her the trouble and pain that she deserves.She has said to herself,“I rule people like a queen.I do not live like a widow.I will never need to be sad.” 8 Because she speaks like that,she will receive many troubles in one single day.Her people will become very ill.They will be very sad.They will have no food to eat.Fire will destroy the city.The Lord God is powerful.So he will punish her with these troubles.’ 9 When all that happens, the kings on the earth will be very sad. They enjoyed the bad things that people did in that city. They had many expensive things so that they were happy. Now they will see the smoke from the fire that burns the city. As a result, they will cry and they will weep. 10 They will stand a long way from the city because they are afraid. They do not want to suffer in the same way. They will say,‘ Terrible trouble has come to you, Babylon!Great city! Powerful city! It is very bad for you!In one single hour God has destroyed you!’ 11 The traders of this world will also be very sad. They will weep because nobody will buy their things any more. 12 They sold many expensive things like these:Things made from gold and silver.Valuable stones and pearls.Good linen and other kinds of expensive cloth that is red or purple.Things made from wood that has a nice smell.Many different things that are made from ivory.Many kinds of things that people had made from expensive wood, from different metals and from stone. 13 Different kinds of spice and incense, like myrrh and frankincense. Wine, olive oil, expensive flour and wheat.Cows and sheep.Horses and chariots.Human slaves. 14 The people who sold these things will say to the city, ‘You have now lost all the good things that you wanted so much. You have lost all those expensive things that made you beautiful. You will never have them again.’ 15 The traders had become rich because of the city. But now they will stand a long way from the city because they are afraid. They do not want to suffer in the same way themselves. They will weep and they will be very sad. 16 They will say,‘Bad trouble has come to you, Babylon!Great city! It is very bad for you!You wore beautiful clothes that were made from good linen.You wore bright things that made you look beautiful.You shone with gold, valuable stones and pearls. 17 But in one single hour God has destroyed all those valuable things.’All the sailors and the people who travel on ships will also be sad. They include every ship's captain, and everyone who works on ships on the sea. They will stand a long way from the city. 18 They will see the smoke from the fire that burns the city. Then they will shout, ‘There is no other city like this great city!’ 19 They will throw dirt from the ground on their heads because they are so sad. They will weep and they will shout,‘Bad trouble has come to you, Babylon!Great city! It is very bad for you!Everyone who had ships on the sea became rich because of you.You used your money to buy their expensive things.But in one single hour God has destroyed that city.’ 20 Yes, you who live in heaven, be happy!Be happy because God has punished Babylon!God's people, his apostles and his prophets,be happy!God has punished the city because of what she did to you. 21 Then a powerful angel picked up a very big, heavy stone. He threw it into the sea. He said,‘God will throw you down, Babylon!You are a great city,but God will throw you down like this stone.Nobody will ever see you again! 22 Nobody will ever hear music in the city again.Nobody will sing there.Nobody will make music with harps,or with flutes, or with trumpets.There will never be workers who make things in the city.Nobody will ever hear the sound of people who make flour again. 23 No light from people's lamps will ever shine in the city again.Nobody will ever hear the happy voices of a man and a woman when they marry.Your traders were the most powerful people on the earth.You used your magic to deceive people from all nations. 24 Your people killed God's people and his prophets.Their blood lies on the ground in the city.The blood of everyone on earth that people have killed is also there.This shows that you are guilty of their murder.’18:24"
+                "text": "because she has bought things from them to enjoy a wicked life.’",
+                "isContinuation": true
               }
             ],
             [
@@ -2789,19 +2913,22 @@
             [
               {
                 "verse": 4,
-                "text": "‘My people, leave the city! Come out!"
+                "text": "‘My people, leave the city! Come out!",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 4,
-                "text": "Do not do the bad things that the people of that city have done."
+                "text": "Do not do the bad things that the people of that city have done.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 4,
-                "text": "Then you will not receive the terrible troubles that God sends to them."
+                "text": "Then you will not receive the terrible troubles that God sends to them.",
+                "isContinuation": true
               }
             ],
             [
@@ -2813,19 +2940,15 @@
             [
               {
                 "verse": 5,
-                "text": "Their sins have reached as high as heaven."
+                "text": "Their sins have reached as high as heaven.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 5,
-                "text": "God has remembered to punish them."
-              }
-            ],
-            [
-              {
-                "verse": 5,
-                "text": "6 Yes, punish the people of that city!Do to them the same things that they have done to others.Punish them with twice the bad things that they themselves have done.She caused people to drink pain from her cup.Now make her drink twice as much pain for herself! 7 She liked to receive honour.She bought expensive things to enjoy a wicked life.So now give her the trouble and pain that she deserves.She has said to herself,“I rule people like a queen.I do not live like a widow.I will never need to be sad.” 8 Because she speaks like that,she will receive many troubles in one single day.Her people will become very ill.They will be very sad.They will have no food to eat.Fire will destroy the city.The Lord God is powerful.So he will punish her with these troubles.’ 9 When all that happens, the kings on the earth will be very sad. They enjoyed the bad things that people did in that city. They had many expensive things so that they were happy. Now they will see the smoke from the fire that burns the city. As a result, they will cry and they will weep. 10 They will stand a long way from the city because they are afraid. They do not want to suffer in the same way. They will say,‘ Terrible trouble has come to you, Babylon!Great city! Powerful city! It is very bad for you!In one single hour God has destroyed you!’ 11 The traders of this world will also be very sad. They will weep because nobody will buy their things any more. 12 They sold many expensive things like these:Things made from gold and silver.Valuable stones and pearls.Good linen and other kinds of expensive cloth that is red or purple.Things made from wood that has a nice smell.Many different things that are made from ivory.Many kinds of things that people had made from expensive wood, from different metals and from stone. 13 Different kinds of spice and incense, like myrrh and frankincense. Wine, olive oil, expensive flour and wheat.Cows and sheep.Horses and chariots.Human slaves. 14 The people who sold these things will say to the city, ‘You have now lost all the good things that you wanted so much. You have lost all those expensive things that made you beautiful. You will never have them again.’ 15 The traders had become rich because of the city. But now they will stand a long way from the city because they are afraid. They do not want to suffer in the same way themselves. They will weep and they will be very sad. 16 They will say,‘Bad trouble has come to you, Babylon!Great city! It is very bad for you!You wore beautiful clothes that were made from good linen.You wore bright things that made you look beautiful.You shone with gold, valuable stones and pearls. 17 But in one single hour God has destroyed all those valuable things.’All the sailors and the people who travel on ships will also be sad. They include every ship's captain, and everyone who works on ships on the sea. They will stand a long way from the city. 18 They will see the smoke from the fire that burns the city. Then they will shout, ‘There is no other city like this great city!’ 19 They will throw dirt from the ground on their heads because they are so sad. They will weep and they will shout,‘Bad trouble has come to you, Babylon!Great city! It is very bad for you!Everyone who had ships on the sea became rich because of you.You used your money to buy their expensive things.But in one single hour God has destroyed that city.’ 20 Yes, you who live in heaven, be happy!Be happy because God has punished Babylon!God's people, his apostles and his prophets,be happy!God has punished the city because of what she did to you. 21 Then a powerful angel picked up a very big, heavy stone. He threw it into the sea. He said,‘God will throw you down, Babylon!You are a great city,but God will throw you down like this stone.Nobody will ever see you again! 22 Nobody will ever hear music in the city again.Nobody will sing there.Nobody will make music with harps,or with flutes, or with trumpets.There will never be workers who make things in the city.Nobody will ever hear the sound of people who make flour again. 23 No light from people's lamps will ever shine in the city again.Nobody will ever hear the happy voices of a man and a woman when they marry.Your traders were the most powerful people on the earth.You used your magic to deceive people from all nations. 24 Your people killed God's people and his prophets.Their blood lies on the ground in the city.The blood of everyone on earth that people have killed is also there.This shows that you are guilty of their murder.’18:24"
+                "text": "God has remembered to punish them.",
+                "isContinuation": true
               }
             ],
             [
@@ -2837,25 +2960,29 @@
             [
               {
                 "verse": 6,
-                "text": "Do to them the same things that they have done to others."
+                "text": "Do to them the same things that they have done to others.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 6,
-                "text": "Punish them with twice the bad things that they themselves have done."
+                "text": "Punish them with twice the bad things that they themselves have done.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 6,
-                "text": "She caused people to drink pain from her cup."
+                "text": "She caused people to drink pain from her cup.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 6,
-                "text": "Now make her drink twice as much pain for herself!"
+                "text": "Now make her drink twice as much pain for herself!",
+                "isContinuation": true
               }
             ],
             [
@@ -2867,37 +2994,43 @@
             [
               {
                 "verse": 7,
-                "text": "She bought expensive things to enjoy a wicked life."
+                "text": "She bought expensive things to enjoy a wicked life.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 7,
-                "text": "So now give her the trouble and pain that she deserves."
+                "text": "So now give her the trouble and pain that she deserves.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 7,
-                "text": "She has said to herself,"
+                "text": "She has said to herself,",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 7,
-                "text": "“I rule people like a queen."
+                "text": "“I rule people like a queen.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 7,
-                "text": "I do not live like a widow."
+                "text": "I do not live like a widow.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 7,
-                "text": "I will never need to be sad.”"
+                "text": "I will never need to be sad.”",
+                "isContinuation": true
               }
             ],
             [
@@ -2909,43 +3042,50 @@
             [
               {
                 "verse": 8,
-                "text": "she will receive many troubles in one single day."
+                "text": "she will receive many troubles in one single day.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 8,
-                "text": "Her people will become very ill."
+                "text": "Her people will become very ill.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 8,
-                "text": "They will be very sad."
+                "text": "They will be very sad.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 8,
-                "text": "They will have no food to eat."
+                "text": "They will have no food to eat.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 8,
-                "text": "Fire will destroy the city."
+                "text": "Fire will destroy the city.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 8,
-                "text": "The Lord God is powerful."
+                "text": "The Lord God is powerful.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 8,
-                "text": "So he will punish her with these troubles.’"
+                "text": "So he will punish her with these troubles.’",
+                "isContinuation": true
               }
             ],
             [
@@ -2961,19 +3101,22 @@
             [
               {
                 "verse": 10,
-                "text": "‘ Terrible trouble has come to you, Babylon!"
+                "text": "‘ Terrible trouble has come to you, Babylon!",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 10,
-                "text": "Great city! Powerful city! It is very bad for you!"
+                "text": "Great city! Powerful city! It is very bad for you!",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 10,
-                "text": "In one single hour God has destroyed you!’"
+                "text": "In one single hour God has destroyed you!’",
+                "isContinuation": true
               }
             ],
             [
@@ -2989,37 +3132,43 @@
             [
               {
                 "verse": 12,
-                "text": "Things made from gold and silver."
+                "text": "Things made from gold and silver.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 12,
-                "text": "Valuable stones and pearls."
+                "text": "Valuable stones and pearls.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 12,
-                "text": "Good linen and other kinds of expensive cloth that is red or purple."
+                "text": "Good linen and other kinds of expensive cloth that is red or purple.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 12,
-                "text": "Things made from wood that has a nice smell."
+                "text": "Things made from wood that has a nice smell.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 12,
-                "text": "Many different things that are made from ivory."
+                "text": "Many different things that are made from ivory.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 12,
-                "text": "Many kinds of things that people had made from expensive wood, from different metals and from stone."
+                "text": "Many kinds of things that people had made from expensive wood, from different metals and from stone.",
+                "isContinuation": true
               }
             ],
             [
@@ -3031,25 +3180,29 @@
             [
               {
                 "verse": 13,
-                "text": "Wine, olive oil, expensive flour and wheat."
+                "text": "Wine, olive oil, expensive flour and wheat.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 13,
-                "text": "Cows and sheep."
+                "text": "Cows and sheep.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 13,
-                "text": "Horses and chariots."
+                "text": "Horses and chariots.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 13,
-                "text": "Human slaves."
+                "text": "Human slaves.",
+                "isContinuation": true
               }
             ],
             [
@@ -3071,31 +3224,36 @@
             [
               {
                 "verse": 16,
-                "text": "‘Bad trouble has come to you, Babylon!"
+                "text": "‘Bad trouble has come to you, Babylon!",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 16,
-                "text": "Great city! It is very bad for you!"
+                "text": "Great city! It is very bad for you!",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 16,
-                "text": "You wore beautiful clothes that were made from good linen."
+                "text": "You wore beautiful clothes that were made from good linen.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 16,
-                "text": "You wore bright things that made you look beautiful."
+                "text": "You wore bright things that made you look beautiful.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 16,
-                "text": "You shone with gold, valuable stones and pearls."
+                "text": "You shone with gold, valuable stones and pearls.",
+                "isContinuation": true
               }
             ],
             [
@@ -3107,7 +3265,8 @@
             [
               {
                 "verse": 17,
-                "text": "All the sailors and the people who travel on ships will also be sad. They include every ship's captain, and everyone who works on ships on the sea. They will stand a long way from the city."
+                "text": "All the sailors and the people who travel on ships will also be sad. They include every ship's captain, and everyone who works on ships on the sea. They will stand a long way from the city.",
+                "isContinuation": true
               },
               {
                 "verse": 18,
@@ -3121,31 +3280,36 @@
             [
               {
                 "verse": 19,
-                "text": "‘Bad trouble has come to you, Babylon!"
+                "text": "‘Bad trouble has come to you, Babylon!",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 19,
-                "text": "Great city! It is very bad for you!"
+                "text": "Great city! It is very bad for you!",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 19,
-                "text": "Everyone who had ships on the sea became rich because of you."
+                "text": "Everyone who had ships on the sea became rich because of you.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 19,
-                "text": "You used your money to buy their expensive things."
+                "text": "You used your money to buy their expensive things.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 19,
-                "text": "But in one single hour God has destroyed that city.’"
+                "text": "But in one single hour God has destroyed that city.’",
+                "isContinuation": true
               }
             ],
             [
@@ -3157,31 +3321,29 @@
             [
               {
                 "verse": 20,
-                "text": "Be happy because God has punished Babylon!"
+                "text": "Be happy because God has punished Babylon!",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 20,
-                "text": "God's people, his apostles and his prophets,"
+                "text": "God's people, his apostles and his prophets,",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 20,
-                "text": "be happy!"
+                "text": "be happy!",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 20,
-                "text": "God has punished the city because of what she did to you."
-              }
-            ],
-            [
-              {
-                "verse": 20,
-                "text": "21 Then a powerful angel picked up a very big, heavy stone. He threw it into the sea. He said,‘God will throw you down, Babylon!You are a great city,but God will throw you down like this stone.Nobody will ever see you again! 22 Nobody will ever hear music in the city again.Nobody will sing there.Nobody will make music with harps,or with flutes, or with trumpets.There will never be workers who make things in the city.Nobody will ever hear the sound of people who make flour again. 23 No light from people's lamps will ever shine in the city again.Nobody will ever hear the happy voices of a man and a woman when they marry.Your traders were the most powerful people on the earth.You used your magic to deceive people from all nations. 24 Your people killed God's people and his prophets.Their blood lies on the ground in the city.The blood of everyone on earth that people have killed is also there.This shows that you are guilty of their murder.’18:24"
+                "text": "God has punished the city because of what she did to you.",
+                "isContinuation": true
               }
             ],
             [
@@ -3193,25 +3355,29 @@
             [
               {
                 "verse": 21,
-                "text": "‘God will throw you down, Babylon!"
+                "text": "‘God will throw you down, Babylon!",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 21,
-                "text": "You are a great city,"
+                "text": "You are a great city,",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 21,
-                "text": "but God will throw you down like this stone."
+                "text": "but God will throw you down like this stone.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 21,
-                "text": "Nobody will ever see you again!"
+                "text": "Nobody will ever see you again!",
+                "isContinuation": true
               }
             ],
             [
@@ -3223,31 +3389,36 @@
             [
               {
                 "verse": 22,
-                "text": "Nobody will sing there."
+                "text": "Nobody will sing there.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 22,
-                "text": "Nobody will make music with harps,"
+                "text": "Nobody will make music with harps,",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 22,
-                "text": "or with flutes, or with trumpets."
+                "text": "or with flutes, or with trumpets.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 22,
-                "text": "There will never be workers who make things in the city."
+                "text": "There will never be workers who make things in the city.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 22,
-                "text": "Nobody will ever hear the sound of people who make flour again."
+                "text": "Nobody will ever hear the sound of people who make flour again.",
+                "isContinuation": true
               }
             ],
             [
@@ -3259,19 +3430,22 @@
             [
               {
                 "verse": 23,
-                "text": "Nobody will ever hear the happy voices of a man and a woman when they marry."
+                "text": "Nobody will ever hear the happy voices of a man and a woman when they marry.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 23,
-                "text": "Your traders were the most powerful people on the earth."
+                "text": "Your traders were the most powerful people on the earth.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 23,
-                "text": "You used your magic to deceive people from all nations."
+                "text": "You used your magic to deceive people from all nations.",
+                "isContinuation": true
               }
             ],
             [
@@ -3283,19 +3457,22 @@
             [
               {
                 "verse": 24,
-                "text": "Their blood lies on the ground in the city."
+                "text": "Their blood lies on the ground in the city.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 24,
-                "text": "The blood of everyone on earth that people have killed is also there."
+                "text": "The blood of everyone on earth that people have killed is also there.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 24,
-                "text": "This shows that you are guilty of their murder.’"
+                "text": "This shows that you are guilty of their murder.’",
+                "isContinuation": true
               }
             ]
           ]
@@ -3324,25 +3501,29 @@
             [
               {
                 "verse": 1,
-                "text": "‘ Praise the Lord our God!"
+                "text": "‘ Praise the Lord our God!",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 1,
-                "text": "He has saved us!"
+                "text": "He has saved us!",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 1,
-                "text": "He is very powerful!"
+                "text": "He is very powerful!",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 1,
-                "text": "We say that he is great!"
+                "text": "We say that he is great!",
+                "isContinuation": true
               }
             ],
             [
@@ -3354,25 +3535,29 @@
             [
               {
                 "verse": 2,
-                "text": "He has punished that great prostitute."
+                "text": "He has punished that great prostitute.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 2,
-                "text": "She led people on the earth to do wicked things."
+                "text": "She led people on the earth to do wicked things.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 2,
-                "text": "She murdered God's servants with her own hands."
+                "text": "She murdered God's servants with her own hands.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 2,
-                "text": "But now God has punished her as she deserves.’"
+                "text": "But now God has punished her as she deserves.’",
+                "isContinuation": true
               }
             ],
             [
@@ -3384,13 +3569,15 @@
             [
               {
                 "verse": 3,
-                "text": "‘Praise the Lord our God!"
+                "text": "‘Praise the Lord our God!",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 3,
-                "text": "The smoke from the fire that burns that city will go up for ever.’"
+                "text": "The smoke from the fire that burns that city will go up for ever.’",
+                "isContinuation": true
               }
             ],
             [
@@ -3408,31 +3595,36 @@
             [
               {
                 "verse": 5,
-                "text": "‘All of you who are God's servants,"
+                "text": "‘All of you who are God's servants,",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 5,
-                "text": "praise our God!"
+                "text": "praise our God!",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 5,
-                "text": "All of you who respect God's power,"
+                "text": "All of you who respect God's power,",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 5,
-                "text": "worship him!"
+                "text": "worship him!",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 5,
-                "text": "Important people and ordinary people should worship him!’"
+                "text": "Important people and ordinary people should worship him!’",
+                "isContinuation": true
               }
             ]
           ]
@@ -3449,13 +3641,15 @@
             [
               {
                 "verse": 6,
-                "text": "‘ Praise the Lord our God!"
+                "text": "‘ Praise the Lord our God!",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 6,
-                "text": "He rules with all power and authority!"
+                "text": "He rules with all power and authority!",
+                "isContinuation": true
               }
             ],
             [
@@ -3467,19 +3661,22 @@
             [
               {
                 "verse": 7,
-                "text": "We will say that God is great!"
+                "text": "We will say that God is great!",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 7,
-                "text": "The time has come for the Lamb's wedding party."
+                "text": "The time has come for the Lamb's wedding party.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 7,
-                "text": "His bride has prepared herself."
+                "text": "His bride has prepared herself.",
+                "isContinuation": true
               }
             ],
             [
@@ -3491,7 +3688,8 @@
             [
               {
                 "verse": 8,
-                "text": "These beautiful linen clothes are a picture of the good things that God's holy people have done."
+                "text": "These beautiful linen clothes are a picture of the good things that God's holy people have done.",
+                "isContinuation": true
               }
             ],
             [
@@ -3733,55 +3931,64 @@
             [
               {
                 "verse": 8,
-                "text": "people who are afraid of trouble;"
+                "text": "people who are afraid of trouble;",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 8,
-                "text": "people who do not believe in Jesus;"
+                "text": "people who do not believe in Jesus;",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 8,
-                "text": "people who do disgusting things;"
+                "text": "people who do disgusting things;",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 8,
-                "text": "people who murder other people;"
+                "text": "people who murder other people;",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 8,
-                "text": "people who have sex in a wrong way;"
+                "text": "people who have sex in a wrong way;",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 8,
-                "text": "people who use magic to hurt people;"
+                "text": "people who use magic to hurt people;",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 8,
-                "text": "people who worship idols;"
+                "text": "people who worship idols;",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 8,
-                "text": "people who tell lies."
+                "text": "people who tell lies.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 8,
-                "text": "All these people will go into the lake of fire that burns with sulphur. That is the second death for people.’"
+                "text": "All these people will go into the lake of fire that burns with sulphur. That is the second death for people.’",
+                "isContinuation": true
               }
             ]
           ]
@@ -3816,25 +4023,29 @@
             [
               {
                 "verse": 13,
-                "text": "three gates were on the east side,"
+                "text": "three gates were on the east side,",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 13,
-                "text": "three gates were on the north side,"
+                "text": "three gates were on the north side,",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 13,
-                "text": "three gates were on the south side,"
+                "text": "three gates were on the south side,",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 13,
-                "text": "three gates were on the west side."
+                "text": "three gates were on the west side.",
+                "isContinuation": true
               }
             ],
             [
@@ -3870,25 +4081,29 @@
             [
               {
                 "verse": 19,
-                "text": "1. Jasper;"
+                "text": "1. Jasper;",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 19,
-                "text": "2. Sapphire;"
+                "text": "2. Sapphire;",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 19,
-                "text": "3. Agate;"
+                "text": "3. Agate;",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 19,
-                "text": "4. Emerald;"
+                "text": "4. Emerald;",
+                "isContinuation": true
               }
             ],
             [
@@ -3900,43 +4115,50 @@
             [
               {
                 "verse": 20,
-                "text": "6. Carnelian;"
+                "text": "6. Carnelian;",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 20,
-                "text": "7. Quartz;"
+                "text": "7. Quartz;",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 20,
-                "text": "8. Beryl;"
+                "text": "8. Beryl;",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 20,
-                "text": "9. Topaz;"
+                "text": "9. Topaz;",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 20,
-                "text": "10. Chrysoprase;"
+                "text": "10. Chrysoprase;",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 20,
-                "text": "11. Jacinth;"
+                "text": "11. Jacinth;",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 20,
-                "text": "12. Amethyst."
+                "text": "12. Amethyst.",
+                "isContinuation": true
               }
             ],
             [
@@ -4077,37 +4299,43 @@
             [
               {
                 "verse": 15,
-                "text": "wicked people;"
+                "text": "wicked people;",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 15,
-                "text": "people who do magic;"
+                "text": "people who do magic;",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 15,
-                "text": "people who have sex in a wrong way;"
+                "text": "people who have sex in a wrong way;",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 15,
-                "text": "people who murder other people;"
+                "text": "people who murder other people;",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 15,
-                "text": "people who worship idols;"
+                "text": "people who worship idols;",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 15,
-                "text": "everyone who likes to tell lies and deceive people."
+                "text": "everyone who likes to tell lies and deceive people.",
+                "isContinuation": true
               }
             ],
             [
@@ -4125,13 +4353,15 @@
             [
               {
                 "verse": 17,
-                "text": "Everyone who hears this should also say, ‘Come!’"
+                "text": "Everyone who hears this should also say, ‘Come!’",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 17,
-                "text": "Yes, anyone who is thirsty should come to Jesus. Then that person will receive from Jesus the water that gives life. Anyone who wants it may take it. They will not have to pay anything for it."
+                "text": "Yes, anyone who is thirsty should come to Jesus. Then that person will receive from Jesus the water that gives life. Anyone who wants it may take it. They will not have to pay anything for it.",
+                "isContinuation": true
               }
             ],
             [
@@ -4153,13 +4383,8 @@
             [
               {
                 "verse": 20,
-                "text": "Amen! We agree! Come, Lord Jesus!"
-              }
-            ],
-            [
-              {
-                "verse": 20,
-                "text": "21 I pray that the Lord Jesus will continue to be kind to all of you."
+                "text": "Amen! We agree! Come, Lord Jesus!",
+                "isContinuation": true
               }
             ],
             [

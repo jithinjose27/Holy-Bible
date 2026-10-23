@@ -33,7 +33,8 @@
             [
               {
                 "verse": 2,
-                "text": "The Lord, the God of heaven, has given me power over all the kingdoms of the earth. He has said that I must build a temple for him in Jerusalem, the city that is in Judah."
+                "text": "The Lord, the God of heaven, has given me power over all the kingdoms of the earth. He has said that I must build a temple for him in Jerusalem, the city that is in Judah.",
+                "isContinuation": true
               },
               {
                 "verse": 3,
@@ -73,19 +74,22 @@
             [
               {
                 "verse": 9,
-                "text": "30 gold dishes."
+                "text": "30 gold dishes.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 9,
-                "text": "1,000 silver dishes."
+                "text": "1,000 silver dishes.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 9,
-                "text": "29 special tools."
+                "text": "29 special tools.",
+                "isContinuation": true
               }
             ],
             [
@@ -97,13 +101,15 @@
             [
               {
                 "verse": 10,
-                "text": "410 silver bowls."
+                "text": "410 silver bowls.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 10,
-                "text": "1,000 other things."
+                "text": "1,000 other things.",
+                "isContinuation": true
               }
             ],
             [
@@ -253,12 +259,6 @@
             ],
             [
               {
-                "verse": 20,
-                "text": "21 123 men from Bethlehem. 22 56 men from Netophah. 23 128 men from Anathoth. 24 42 men from Azmaveth. 25 743 men from Kiriath-Jearim, Kephirah and Beeroth. 26 621 men from Ramah and Geba. 27 122 men from Michmash. 28 223 men from Bethel and Ai.2:28 29 52 men from Nebo. 30 156 men from Magbish. 31 1,254 men from the other town called Elam. 32 320 men from Harim. 33 725 men from Lod, Hadid and Ono. 34 345 men from Jericho. 35 3,630 men from Senaah. 36 These were the priests:973 descendants of Jedaiah (from Jeshua's family). 37 1,052 descendants of Immer. 38 1,247 descendants of Pashhur. 39 1,017 descendants of Harim. 40 These were the Levites:74 descendants of Jeshua and Kadmiel (from Hodaviah's family). 41 The singers:128 descendants of Asaph. 42 The guards for the temple gates:139 descendants of Shallum, Ater, Talmon, Akkub, Hatita and Shobai. 43 The temple servants:the descendants of Ziha, Hasupha, Tabbaoth, 44 Keros, Siaha, Padon, 45 Lebanah, Hagabah, Akkub, 46 Hagab, Shalmai, Hanan, 47 Giddel, Gahar, Reaiah, 48 Rezin, Nekoda, Gazzam, 49 Uzza, Paseah, Besai, 50 Asnah, Meunim, Nephussim, 51 Bakbuk, Hakupha, Harhur, 52 Bazluth, Mehida, Harsha, 53 Barkos, Sisera, Temah, 54 Neziah and Hatipha. 55 The descendants of King Solomon's servants:the descendants of Sotai, Hassophereth, Peruda, 56 Jaala, Darkon, Giddel, 57 Shephatiah, Hattil, Pokereth-Hazzebaim and Ami. 58 There were 392 men who were temple servants and the descendants of Solomon's servants. 59 Some people came from the towns of Tel Melah, Tel Harsha, Kerub, Addon and Immer. But these people could not show that they belonged to Israelite families. They may not have been descendants of Israel.2:59 60 These people included 652 descendants of Delaiah, Tobiah and Nekoda. 61 These priests also could not show what families they belonged to: The descendants of Hobaiah, Hakkoz and Barzillai. (This Barzillai had married one of the daughters of a man from Gilead called Barzillai. So he took Barzillai's name for himself.) 62 These people tried to find their names in the lists of priests' families. But they could not find anything. So they could not serve as priests. 63 The officer in Judah said that they could not eat the priests' special food. They must wait until there was a leader of the priests who could use the Urim and Thummim to decide the right thing to do.2:63 64 All together, 42,360 people returned to Jerusalem. 65 There were also 7,337 male and female servants, as well as 200 male and female singers. 66 They had 736 horses, 245 mules, 67 435 camels and 6,720 donkeys.2:67 68 They arrived at the Lord's temple in Jerusalem. Some of the leaders of their families gave gifts to build the temple again where it had been before. 69 They each gave as much money as they were able to give. Together they gave about 500 kilograms of gold and nearly 3,000 kilograms of silver. They also gave 100 special sets of clothes for the priests. 70 The priests, the Levites, the singers, temple guards and other workers lived in their towns near Jerusalem. The other Israelites went to live in the towns where their ancestors had lived."
-              }
-            ],
-            [
-              {
                 "verse": 21,
                 "text": "123 men from Bethlehem."
               }
@@ -349,12 +349,6 @@
             ],
             [
               {
-                "verse": 35,
-                "text": "36 These were the priests:973 descendants of Jedaiah (from Jeshua's family). 37 1,052 descendants of Immer. 38 1,247 descendants of Pashhur. 39 1,017 descendants of Harim. 40 These were the Levites:74 descendants of Jeshua and Kadmiel (from Hodaviah's family). 41 The singers:128 descendants of Asaph. 42 The guards for the temple gates:139 descendants of Shallum, Ater, Talmon, Akkub, Hatita and Shobai. 43 The temple servants:the descendants of Ziha, Hasupha, Tabbaoth, 44 Keros, Siaha, Padon, 45 Lebanah, Hagabah, Akkub, 46 Hagab, Shalmai, Hanan, 47 Giddel, Gahar, Reaiah, 48 Rezin, Nekoda, Gazzam, 49 Uzza, Paseah, Besai, 50 Asnah, Meunim, Nephussim, 51 Bakbuk, Hakupha, Harhur, 52 Bazluth, Mehida, Harsha, 53 Barkos, Sisera, Temah, 54 Neziah and Hatipha. 55 The descendants of King Solomon's servants:the descendants of Sotai, Hassophereth, Peruda, 56 Jaala, Darkon, Giddel, 57 Shephatiah, Hattil, Pokereth-Hazzebaim and Ami. 58 There were 392 men who were temple servants and the descendants of Solomon's servants. 59 Some people came from the towns of Tel Melah, Tel Harsha, Kerub, Addon and Immer. But these people could not show that they belonged to Israelite families. They may not have been descendants of Israel.2:59 60 These people included 652 descendants of Delaiah, Tobiah and Nekoda. 61 These priests also could not show what families they belonged to: The descendants of Hobaiah, Hakkoz and Barzillai. (This Barzillai had married one of the daughters of a man from Gilead called Barzillai. So he took Barzillai's name for himself.) 62 These people tried to find their names in the lists of priests' families. But they could not find anything. So they could not serve as priests. 63 The officer in Judah said that they could not eat the priests' special food. They must wait until there was a leader of the priests who could use the Urim and Thummim to decide the right thing to do.2:63 64 All together, 42,360 people returned to Jerusalem. 65 There were also 7,337 male and female servants, as well as 200 male and female singers. 66 They had 736 horses, 245 mules, 67 435 camels and 6,720 donkeys.2:67 68 They arrived at the Lord's temple in Jerusalem. Some of the leaders of their families gave gifts to build the temple again where it had been before. 69 They each gave as much money as they were able to give. Together they gave about 500 kilograms of gold and nearly 3,000 kilograms of silver. They also gave 100 special sets of clothes for the priests. 70 The priests, the Levites, the singers, temple guards and other workers lived in their towns near Jerusalem. The other Israelites went to live in the towns where their ancestors had lived."
-              }
-            ],
-            [
-              {
                 "verse": 36,
                 "text": "These were the priests:"
               }
@@ -362,7 +356,8 @@
             [
               {
                 "verse": 36,
-                "text": "973 descendants of Jedaiah (from Jeshua's family)."
+                "text": "973 descendants of Jedaiah (from Jeshua's family).",
+                "isContinuation": true
               }
             ],
             [
@@ -385,12 +380,6 @@
             ],
             [
               {
-                "verse": 39,
-                "text": "40 These were the Levites:74 descendants of Jeshua and Kadmiel (from Hodaviah's family). 41 The singers:128 descendants of Asaph. 42 The guards for the temple gates:139 descendants of Shallum, Ater, Talmon, Akkub, Hatita and Shobai. 43 The temple servants:the descendants of Ziha, Hasupha, Tabbaoth, 44 Keros, Siaha, Padon, 45 Lebanah, Hagabah, Akkub, 46 Hagab, Shalmai, Hanan, 47 Giddel, Gahar, Reaiah, 48 Rezin, Nekoda, Gazzam, 49 Uzza, Paseah, Besai, 50 Asnah, Meunim, Nephussim, 51 Bakbuk, Hakupha, Harhur, 52 Bazluth, Mehida, Harsha, 53 Barkos, Sisera, Temah, 54 Neziah and Hatipha. 55 The descendants of King Solomon's servants:the descendants of Sotai, Hassophereth, Peruda, 56 Jaala, Darkon, Giddel, 57 Shephatiah, Hattil, Pokereth-Hazzebaim and Ami. 58 There were 392 men who were temple servants and the descendants of Solomon's servants. 59 Some people came from the towns of Tel Melah, Tel Harsha, Kerub, Addon and Immer. But these people could not show that they belonged to Israelite families. They may not have been descendants of Israel.2:59 60 These people included 652 descendants of Delaiah, Tobiah and Nekoda. 61 These priests also could not show what families they belonged to: The descendants of Hobaiah, Hakkoz and Barzillai. (This Barzillai had married one of the daughters of a man from Gilead called Barzillai. So he took Barzillai's name for himself.) 62 These people tried to find their names in the lists of priests' families. But they could not find anything. So they could not serve as priests. 63 The officer in Judah said that they could not eat the priests' special food. They must wait until there was a leader of the priests who could use the Urim and Thummim to decide the right thing to do.2:63 64 All together, 42,360 people returned to Jerusalem. 65 There were also 7,337 male and female servants, as well as 200 male and female singers. 66 They had 736 horses, 245 mules, 67 435 camels and 6,720 donkeys.2:67 68 They arrived at the Lord's temple in Jerusalem. Some of the leaders of their families gave gifts to build the temple again where it had been before. 69 They each gave as much money as they were able to give. Together they gave about 500 kilograms of gold and nearly 3,000 kilograms of silver. They also gave 100 special sets of clothes for the priests. 70 The priests, the Levites, the singers, temple guards and other workers lived in their towns near Jerusalem. The other Israelites went to live in the towns where their ancestors had lived."
-              }
-            ],
-            [
-              {
                 "verse": 40,
                 "text": "These were the Levites:"
               }
@@ -398,7 +387,8 @@
             [
               {
                 "verse": 40,
-                "text": "74 descendants of Jeshua and Kadmiel (from Hodaviah's family)."
+                "text": "74 descendants of Jeshua and Kadmiel (from Hodaviah's family).",
+                "isContinuation": true
               }
             ],
             [
@@ -410,7 +400,8 @@
             [
               {
                 "verse": 41,
-                "text": "128 descendants of Asaph."
+                "text": "128 descendants of Asaph.",
+                "isContinuation": true
               }
             ],
             [
@@ -422,7 +413,8 @@
             [
               {
                 "verse": 42,
-                "text": "139 descendants of Shallum, Ater, Talmon, Akkub, Hatita and Shobai."
+                "text": "139 descendants of Shallum, Ater, Talmon, Akkub, Hatita and Shobai.",
+                "isContinuation": true
               }
             ],
             [
@@ -434,7 +426,8 @@
             [
               {
                 "verse": 43,
-                "text": "the descendants of Ziha, Hasupha, Tabbaoth,"
+                "text": "the descendants of Ziha, Hasupha, Tabbaoth,",
+                "isContinuation": true
               }
             ],
             [
@@ -505,12 +498,6 @@
             ],
             [
               {
-                "verse": 54,
-                "text": "55 The descendants of King Solomon's servants:the descendants of Sotai, Hassophereth, Peruda, 56 Jaala, Darkon, Giddel, 57 Shephatiah, Hattil, Pokereth-Hazzebaim and Ami. 58 There were 392 men who were temple servants and the descendants of Solomon's servants. 59 Some people came from the towns of Tel Melah, Tel Harsha, Kerub, Addon and Immer. But these people could not show that they belonged to Israelite families. They may not have been descendants of Israel.2:59 60 These people included 652 descendants of Delaiah, Tobiah and Nekoda. 61 These priests also could not show what families they belonged to: The descendants of Hobaiah, Hakkoz and Barzillai. (This Barzillai had married one of the daughters of a man from Gilead called Barzillai. So he took Barzillai's name for himself.) 62 These people tried to find their names in the lists of priests' families. But they could not find anything. So they could not serve as priests. 63 The officer in Judah said that they could not eat the priests' special food. They must wait until there was a leader of the priests who could use the Urim and Thummim to decide the right thing to do.2:63 64 All together, 42,360 people returned to Jerusalem. 65 There were also 7,337 male and female servants, as well as 200 male and female singers. 66 They had 736 horses, 245 mules, 67 435 camels and 6,720 donkeys.2:67 68 They arrived at the Lord's temple in Jerusalem. Some of the leaders of their families gave gifts to build the temple again where it had been before. 69 They each gave as much money as they were able to give. Together they gave about 500 kilograms of gold and nearly 3,000 kilograms of silver. They also gave 100 special sets of clothes for the priests. 70 The priests, the Levites, the singers, temple guards and other workers lived in their towns near Jerusalem. The other Israelites went to live in the towns where their ancestors had lived."
-              }
-            ],
-            [
-              {
                 "verse": 55,
                 "text": "The descendants of King Solomon's servants:"
               }
@@ -518,7 +505,8 @@
             [
               {
                 "verse": 55,
-                "text": "the descendants of Sotai, Hassophereth, Peruda,"
+                "text": "the descendants of Sotai, Hassophereth, Peruda,",
+                "isContinuation": true
               }
             ],
             [
@@ -537,12 +525,6 @@
               {
                 "verse": 58,
                 "text": "There were 392 men who were temple servants and the descendants of Solomon's servants."
-              }
-            ],
-            [
-              {
-                "verse": 58,
-                "text": "59 Some people came from the towns of Tel Melah, Tel Harsha, Kerub, Addon and Immer. But these people could not show that they belonged to Israelite families. They may not have been descendants of Israel.2:59 60 These people included 652 descendants of Delaiah, Tobiah and Nekoda. 61 These priests also could not show what families they belonged to: The descendants of Hobaiah, Hakkoz and Barzillai. (This Barzillai had married one of the daughters of a man from Gilead called Barzillai. So he took Barzillai's name for himself.) 62 These people tried to find their names in the lists of priests' families. But they could not find anything. So they could not serve as priests. 63 The officer in Judah said that they could not eat the priests' special food. They must wait until there was a leader of the priests who could use the Urim and Thummim to decide the right thing to do.2:63 64 All together, 42,360 people returned to Jerusalem. 65 There were also 7,337 male and female servants, as well as 200 male and female singers. 66 They had 736 horses, 245 mules, 67 435 camels and 6,720 donkeys.2:67 68 They arrived at the Lord's temple in Jerusalem. Some of the leaders of their families gave gifts to build the temple again where it had been before. 69 They each gave as much money as they were able to give. Together they gave about 500 kilograms of gold and nearly 3,000 kilograms of silver. They also gave 100 special sets of clothes for the priests. 70 The priests, the Levites, the singers, temple guards and other workers lived in their towns near Jerusalem. The other Israelites went to live in the towns where their ancestors had lived."
               }
             ],
             [
@@ -683,19 +665,22 @@
             [
               {
                 "verse": 9,
-                "text": "Jeshua, his sons and his brothers."
+                "text": "Jeshua, his sons and his brothers.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 9,
-                "text": "Kadmiel and his sons. (They were descendants of Hodaviah.)"
+                "text": "Kadmiel and his sons. (They were descendants of Hodaviah.)",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 9,
-                "text": "Henadad's sons, with their sons and brothers, who were Levites."
+                "text": "Henadad's sons, with their sons and brothers, who were Levites.",
+                "isContinuation": true
               }
             ],
             [
@@ -711,19 +696,22 @@
             [
               {
                 "verse": 11,
-                "text": "‘He is good."
+                "text": "‘He is good.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 11,
-                "text": "His love for Israel will continue for ever.’"
+                "text": "His love for Israel will continue for ever.’",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 11,
-                "text": "Then all the people shouted loudly to praise the Lord. They praised him because they had finished work on the temple's foundation."
+                "text": "Then all the people shouted loudly to praise the Lord. They praised him because they had finished work on the temple's foundation.",
+                "isContinuation": true
               }
             ],
             [
@@ -821,13 +809,15 @@
             [
               {
                 "verse": 11,
-                "text": "‘To King Artaxerxes,"
+                "text": "‘To King Artaxerxes,",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 11,
-                "text": "from your servants in the land west of the Euphrates River."
+                "text": "from your servants in the land west of the Euphrates River.",
+                "isContinuation": true
               }
             ],
             [
@@ -865,7 +855,8 @@
             [
               {
                 "verse": 17,
-                "text": "‘To Rehum, my ruler, Shimshai, his officer, and all their friends in Samaria and in other parts of the region west of the Euphrates River. I thank you for your news."
+                "text": "‘To Rehum, my ruler, Shimshai, his officer, and all their friends in Samaria and in other parts of the region west of the Euphrates River. I thank you for your news.",
+                "isContinuation": true
               }
             ],
             [
@@ -975,7 +966,8 @@
             [
               {
                 "verse": 7,
-                "text": "‘King Darius, we hope that you are well."
+                "text": "‘King Darius, we hope that you are well.",
+                "isContinuation": true
               }
             ],
             [
@@ -1003,7 +995,8 @@
             [
               {
                 "verse": 11,
-                "text": "“We are servants of the God who rules heaven and earth. A great king of Israel built this temple and finished it many years ago. Now we are building it again."
+                "text": "“We are servants of the God who rules heaven and earth. A great king of Israel built this temple and finished it many years ago. Now we are building it again.",
+                "isContinuation": true
               },
               {
                 "verse": 12,
@@ -1023,7 +1016,8 @@
             [
               {
                 "verse": 14,
-                "text": "But King Cyrus gave our valuable things to Sheshbazzar. He had given authority to this man to rule over Judah."
+                "text": "But King Cyrus gave our valuable things to Sheshbazzar. He had given authority to this man to rule over Judah.",
+                "isContinuation": true
               },
               {
                 "verse": 15,
@@ -1070,7 +1064,8 @@
             [
               {
                 "verse": 2,
-                "text": "‘This is an important note."
+                "text": "‘This is an important note.",
+                "isContinuation": true
               }
             ],
             [
@@ -1082,7 +1077,8 @@
             [
               {
                 "verse": 3,
-                "text": "“The Jews must build their temple as a place where they can offer sacrifices to their God. They must build it on its foundations. They must make it 27 metres wide and 27 metres high."
+                "text": "“The Jews must build their temple as a place where they can offer sacrifices to their God. They must build it on its foundations. They must make it 27 metres wide and 27 metres high.",
+                "isContinuation": true
               },
               {
                 "verse": 4,
@@ -1132,7 +1128,8 @@
             [
               {
                 "verse": 12,
-                "text": "I, Darius, have made this command. Everyone must obey it completely.’"
+                "text": "I, Darius, have made this command. Everyone must obey it completely.’",
+                "isContinuation": true
               }
             ]
           ]
@@ -1220,7 +1217,8 @@
             [
               {
                 "verse": 1,
-                "text": "This is the list of Ezra's ancestors: He was the son of Seraiah, the son of Azariah, the son of Hilkiah."
+                "text": "This is the list of Ezra's ancestors: He was the son of Seraiah, the son of Azariah, the son of Hilkiah.",
+                "isContinuation": true
               },
               {
                 "verse": 2,
@@ -1283,7 +1281,8 @@
             [
               {
                 "verse": 12,
-                "text": "To Ezra the priest, who has studied very well the Law of the God of heaven. I hope that you are well."
+                "text": "To Ezra the priest, who has studied very well the Law of the God of heaven. I hope that you are well.",
+                "isContinuation": true
               }
             ],
             [
@@ -1337,31 +1336,36 @@
             [
               {
                 "verse": 22,
-                "text": "3,400 kilograms of silver,"
+                "text": "3,400 kilograms of silver,",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 22,
-                "text": "10,000 kilograms of wheat,"
+                "text": "10,000 kilograms of wheat,",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 22,
-                "text": "2,200 litres of wine,"
+                "text": "2,200 litres of wine,",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 22,
-                "text": "2,200 litres of oil,"
+                "text": "2,200 litres of oil,",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 22,
-                "text": "and all the salt that he wants."
+                "text": "and all the salt that he wants.",
+                "isContinuation": true
               }
             ],
             [
@@ -1429,7 +1433,8 @@
             [
               {
                 "verse": 2,
-                "text": "Daniel, from Ithamar's clan."
+                "text": "Daniel, from Ithamar's clan.",
+                "isContinuation": true
               }
             ],
             [
@@ -1441,7 +1446,8 @@
             [
               {
                 "verse": 3,
-                "text": "Zechariah and 150 other men, from Parosh's clan."
+                "text": "Zechariah and 150 other men, from Parosh's clan.",
+                "isContinuation": true
               }
             ],
             [
@@ -1671,7 +1677,8 @@
             [
               {
                 "verse": 6,
-                "text": "‘My God, I am too ashamed to look up at you. Our sins are very great. They are so many that they reach far above us. We are completely guilty."
+                "text": "‘My God, I am too ashamed to look up at you. Our sins are very great. They are so many that they reach far above us. We are completely guilty.",
+                "isContinuation": true
               },
               {
                 "verse": 7,
@@ -1744,7 +1751,8 @@
             [
               {
                 "verse": 2,
-                "text": "Shecaniah said, ‘We have not been faithful to our God. We have married foreign women from the nations who live near us. But Israel may still hope that God will forgive us."
+                "text": "Shecaniah said, ‘We have not been faithful to our God. We have married foreign women from the nations who live near us. But Israel may still hope that God will forgive us.",
+                "isContinuation": true
               },
               {
                 "verse": 3,
@@ -1835,13 +1843,15 @@
             [
               {
                 "verse": 18,
-                "text": "From the clan of Jozadak's son, Jeshua, and his brothers:"
+                "text": "From the clan of Jozadak's son, Jeshua, and his brothers:",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 18,
-                "text": "Maaseiah, Eliezer, Jarib, Gedaliah."
+                "text": "Maaseiah, Eliezer, Jarib, Gedaliah.",
+                "isContinuation": true
               }
             ],
             [
@@ -1859,7 +1869,8 @@
             [
               {
                 "verse": 20,
-                "text": "Hanani, Zebadiah."
+                "text": "Hanani, Zebadiah.",
+                "isContinuation": true
               }
             ],
             [
@@ -1871,7 +1882,8 @@
             [
               {
                 "verse": 21,
-                "text": "Maaseiah, Elijah, Shemaiah, Jehiel, Uzziah."
+                "text": "Maaseiah, Elijah, Shemaiah, Jehiel, Uzziah.",
+                "isContinuation": true
               }
             ],
             [
@@ -1883,13 +1895,8 @@
             [
               {
                 "verse": 22,
-                "text": "Elioenai, Maaseiah, Ishmael, Nethanel, Jozabad, Elasah."
-              }
-            ],
-            [
-              {
-                "verse": 22,
-                "text": "23 From the Levites:Jozabad, Shimei, Kelaiah (also called Kelita), Pethahiah, Judah, Eliezer. 24 From the singers:Eliashib.From the men who were guards at the temple gate:Shallum, Telem, Uri. 25 These are the other Israelites who had married foreign wives.From the clan of Parosh:Ramiah, Izziah, Malkijah, Mijamin, Eleazar, Malkijah, Benaiah. 26 From the clan of Elam:Mattaniah, Zechariah, Jehiel, Abdi, Jeremoth, Elijah. 27 From the clan of Zattu:Elioenai, Eliashib, Mattaniah, Jeremoth, Zabad, Aziza. 28 From the clan of Bebai:Jehohanan, Hananiah, Zabbai, Athlai. 29 From the clan of Bani:Meshullam, Malluch, Adaiah, Jashub, Sheal, Jeremoth. 30 From the clan of Pahath-Moab:Adna, Kelal, Benaiah, Maaseiah, Mattaniah, Bezalel, Binnui, Manasseh. 31 From the clan of Harim:Eliezer, Ishijah, Malkijah, Shemaiah, Shimeon, 32 Benjamin, Malluch, Shemariah. 33 From the clan of Hashum:Mattenai, Mattattah, Zabad, Eliphelet, Jeremai, Manasseh, Shimei. 34 From the clan of Bani:Maadai, Amram, Uel, 35 Benaiah, Bedeiah, Keluhi, 36 Vaniah, Meremoth, Eliashib, 37 Mattaniah, Mattenai, Jaasu. 38 From the clan of Binnui:Shimei, 39 Shelemiah, Nathan, Adaiah, 40 Macnadebai, Shashai, Sharai, 41 Azarel, Shelemiah, Shemariah, 42 Shallum, Amariah, Joseph. 43 From the clan of Nebo:Jeiel, Mattithiah, Zabad, Zebina, Jaddai, Joel, Benaiah. 44 All these men had married foreign women. They sent them away, together with their children."
+                "text": "Elioenai, Maaseiah, Ishmael, Nethanel, Jozabad, Elasah.",
+                "isContinuation": true
               }
             ],
             [
@@ -1901,7 +1908,8 @@
             [
               {
                 "verse": 23,
-                "text": "Jozabad, Shimei, Kelaiah (also called Kelita), Pethahiah, Judah, Eliezer."
+                "text": "Jozabad, Shimei, Kelaiah (also called Kelita), Pethahiah, Judah, Eliezer.",
+                "isContinuation": true
               }
             ],
             [
@@ -1913,25 +1921,22 @@
             [
               {
                 "verse": 24,
-                "text": "Eliashib."
+                "text": "Eliashib.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 24,
-                "text": "From the men who were guards at the temple gate:"
+                "text": "From the men who were guards at the temple gate:",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 24,
-                "text": "Shallum, Telem, Uri."
-              }
-            ],
-            [
-              {
-                "verse": 24,
-                "text": "25 These are the other Israelites who had married foreign wives.From the clan of Parosh:Ramiah, Izziah, Malkijah, Mijamin, Eleazar, Malkijah, Benaiah. 26 From the clan of Elam:Mattaniah, Zechariah, Jehiel, Abdi, Jeremoth, Elijah. 27 From the clan of Zattu:Elioenai, Eliashib, Mattaniah, Jeremoth, Zabad, Aziza. 28 From the clan of Bebai:Jehohanan, Hananiah, Zabbai, Athlai. 29 From the clan of Bani:Meshullam, Malluch, Adaiah, Jashub, Sheal, Jeremoth. 30 From the clan of Pahath-Moab:Adna, Kelal, Benaiah, Maaseiah, Mattaniah, Bezalel, Binnui, Manasseh. 31 From the clan of Harim:Eliezer, Ishijah, Malkijah, Shemaiah, Shimeon, 32 Benjamin, Malluch, Shemariah. 33 From the clan of Hashum:Mattenai, Mattattah, Zabad, Eliphelet, Jeremai, Manasseh, Shimei. 34 From the clan of Bani:Maadai, Amram, Uel, 35 Benaiah, Bedeiah, Keluhi, 36 Vaniah, Meremoth, Eliashib, 37 Mattaniah, Mattenai, Jaasu. 38 From the clan of Binnui:Shimei, 39 Shelemiah, Nathan, Adaiah, 40 Macnadebai, Shashai, Sharai, 41 Azarel, Shelemiah, Shemariah, 42 Shallum, Amariah, Joseph. 43 From the clan of Nebo:Jeiel, Mattithiah, Zabad, Zebina, Jaddai, Joel, Benaiah. 44 All these men had married foreign women. They sent them away, together with their children."
+                "text": "Shallum, Telem, Uri.",
+                "isContinuation": true
               }
             ],
             [
@@ -1943,13 +1948,15 @@
             [
               {
                 "verse": 25,
-                "text": "From the clan of Parosh:"
+                "text": "From the clan of Parosh:",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 25,
-                "text": "Ramiah, Izziah, Malkijah, Mijamin, Eleazar, Malkijah, Benaiah."
+                "text": "Ramiah, Izziah, Malkijah, Mijamin, Eleazar, Malkijah, Benaiah.",
+                "isContinuation": true
               }
             ],
             [
@@ -1961,7 +1968,8 @@
             [
               {
                 "verse": 26,
-                "text": "Mattaniah, Zechariah, Jehiel, Abdi, Jeremoth, Elijah."
+                "text": "Mattaniah, Zechariah, Jehiel, Abdi, Jeremoth, Elijah.",
+                "isContinuation": true
               }
             ],
             [
@@ -1973,7 +1981,8 @@
             [
               {
                 "verse": 27,
-                "text": "Elioenai, Eliashib, Mattaniah, Jeremoth, Zabad, Aziza."
+                "text": "Elioenai, Eliashib, Mattaniah, Jeremoth, Zabad, Aziza.",
+                "isContinuation": true
               }
             ],
             [
@@ -1985,7 +1994,8 @@
             [
               {
                 "verse": 28,
-                "text": "Jehohanan, Hananiah, Zabbai, Athlai."
+                "text": "Jehohanan, Hananiah, Zabbai, Athlai.",
+                "isContinuation": true
               }
             ],
             [
@@ -1997,7 +2007,8 @@
             [
               {
                 "verse": 29,
-                "text": "Meshullam, Malluch, Adaiah, Jashub, Sheal, Jeremoth."
+                "text": "Meshullam, Malluch, Adaiah, Jashub, Sheal, Jeremoth.",
+                "isContinuation": true
               }
             ],
             [
@@ -2009,7 +2020,8 @@
             [
               {
                 "verse": 30,
-                "text": "Adna, Kelal, Benaiah, Maaseiah, Mattaniah, Bezalel, Binnui, Manasseh."
+                "text": "Adna, Kelal, Benaiah, Maaseiah, Mattaniah, Bezalel, Binnui, Manasseh.",
+                "isContinuation": true
               }
             ],
             [
@@ -2021,7 +2033,8 @@
             [
               {
                 "verse": 31,
-                "text": "Eliezer, Ishijah, Malkijah, Shemaiah, Shimeon,"
+                "text": "Eliezer, Ishijah, Malkijah, Shemaiah, Shimeon,",
+                "isContinuation": true
               }
             ],
             [
@@ -2039,7 +2052,8 @@
             [
               {
                 "verse": 33,
-                "text": "Mattenai, Mattattah, Zabad, Eliphelet, Jeremai, Manasseh, Shimei."
+                "text": "Mattenai, Mattattah, Zabad, Eliphelet, Jeremai, Manasseh, Shimei.",
+                "isContinuation": true
               }
             ],
             [
@@ -2051,7 +2065,8 @@
             [
               {
                 "verse": 34,
-                "text": "Maadai, Amram, Uel,"
+                "text": "Maadai, Amram, Uel,",
+                "isContinuation": true
               }
             ],
             [
@@ -2081,7 +2096,8 @@
             [
               {
                 "verse": 38,
-                "text": "Shimei,"
+                "text": "Shimei,",
+                "isContinuation": true
               }
             ],
             [
@@ -2117,13 +2133,8 @@
             [
               {
                 "verse": 43,
-                "text": "Jeiel, Mattithiah, Zabad, Zebina, Jaddai, Joel, Benaiah."
-              }
-            ],
-            [
-              {
-                "verse": 43,
-                "text": "44 All these men had married foreign women. They sent them away, together with their children."
+                "text": "Jeiel, Mattithiah, Zabad, Zebina, Jaddai, Joel, Benaiah.",
+                "isContinuation": true
               }
             ],
             [

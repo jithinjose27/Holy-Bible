@@ -2,6 +2,7 @@
 import json
 import os
 import sys
+import re
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 CATALOG_PATH = os.path.join(BASE_DIR, "src", "data", "bible_catalog.json")
@@ -93,13 +94,27 @@ def validate():
                         errors.append(f"[{book_id}] Ch {ch_num} out of order (expected {idx})")
 
                     ch_verse_count = 0
+                    seen_badges = set()
                     sections = ch.get("sections", [])
                     if sections:
                         for sec in sections:
                             for p in sec.get("items", []):
                                 for v in p:
-                                    if v.get("verse") and v.get("text"):
+                                    v_num = v.get("verse")
+                                    v_txt = v.get("text", "").strip()
+                                    if v_num and v_txt:
                                         ch_verse_count += 1
+
+                                    # Check for duplicate non-continuation badge
+                                    if not v.get("isContinuation"):
+                                        if v_num in seen_badges:
+                                            errors.append(f"[{book_id}] Ch {ch_num}: Duplicate verse badge for verse {v_num}")
+                                        seen_badges.add(v_num)
+
+                                    # Check for embedded foreign verse numbers in text (e.g. "3 God will keep..." inside verse 2)
+                                    m = re.search(r'[.!?‘\'"”]\s*(\d{1,3})\s+[A-Z]', v_txt)
+                                    if m and int(m.group(1)) == v_num + 1:
+                                        errors.append(f"[{book_id}] Ch {ch_num}: Embedded verse number '{m.group(0)}' inside verse {v_num} text")
                     elif "verses" in ch:
                         ch_verse_count = len(ch["verses"])
 

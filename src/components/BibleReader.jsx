@@ -219,7 +219,7 @@ export default function BibleReader({
                               {/* Clickable Verse Number (Bookmark Toggle) */}
                               <button
                                 onClick={() => onToggleBookmark(chapterData.chapter, vNum, verseItem.text)}
-                                title={`Genesis ${chapterData.chapter}:${vNum} – Click to bookmark`}
+                                title={`${bookName} ${chapterData.chapter}:${vNum} – Click to bookmark`}
                                 className={`text-[0.72em] font-sans font-bold px-1.5 py-0.5 rounded transition cursor-pointer ${
                                   isBookmarked
                                     ? 'bg-amber-700 text-white shadow-xs'
@@ -232,7 +232,7 @@ export default function BibleReader({
                               {/* Unobtrusive Collapsible KJV Control Icon */}
                               <button
                                 onClick={() => toggleVerseExpand(vNum)}
-                                aria-label={isExpanded ? `Hide KJV text for Genesis ${chapterData.chapter}:${vNum}` : `Show KJV text for Genesis ${chapterData.chapter}:${vNum}`}
+                                aria-label={isExpanded ? `Hide KJV text for ${bookName} ${chapterData.chapter}:${vNum}` : `Show KJV text for ${bookName} ${chapterData.chapter}:${vNum}`}
                                 title={isExpanded ? "Hide King James Version text" : "Click to view exact King James Version (KJV) verse text from WordProject"}
                                 className={`p-1 rounded transition cursor-pointer text-stone-500 hover:text-amber-800 dark:hover:text-amber-300 ${
                                   isExpanded ? 'text-amber-800 dark:text-amber-300 bg-amber-200/70 dark:bg-amber-950 font-bold' : 'hover:bg-stone-200/60 dark:hover:bg-stone-800'

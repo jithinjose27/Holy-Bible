@@ -165,7 +165,8 @@
             [
               {
                 "verse": 13,
-                "text": "You who are young men, I am writing to you because you have won against Satan."
+                "text": "You who are young men, I am writing to you because you have won against Satan.",
+                "isContinuation": true
               }
             ],
             [
@@ -177,13 +178,15 @@
             [
               {
                 "verse": 14,
-                "text": "Fathers, I write to you because you know Christ. He was already there before the world began."
+                "text": "Fathers, I write to you because you know Christ. He was already there before the world began.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 14,
-                "text": "Young men, I write to you because you are strong. You continue to obey God's message, and you have won against Satan."
+                "text": "Young men, I write to you because you are strong. You continue to obey God's message, and you have won against Satan.",
+                "isContinuation": true
               }
             ],
             [
@@ -459,7 +462,8 @@
             [
               {
                 "verse": 6,
-                "text": "So that is how we know if someone's message comes from God's Spirit or not. God's Spirit brings us a true message, but false spirits tell lies."
+                "text": "So that is how we know if someone's message comes from God's Spirit or not. God's Spirit brings us a true message, but false spirits tell lies.",
+                "isContinuation": true
               }
             ]
           ]

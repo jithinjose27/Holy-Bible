@@ -27,7 +27,8 @@
             [
               {
                 "verse": 1,
-                "text": "The Lord said to Moses,"
+                "text": "The Lord said to Moses,",
+                "isContinuation": true
               },
               {
                 "verse": 2,
@@ -51,7 +52,8 @@
             [
               {
                 "verse": 5,
-                "text": "Reuben: Elizur, the son of Shedeur."
+                "text": "Reuben: Elizur, the son of Shedeur.",
+                "isContinuation": true
               }
             ],
             [
@@ -87,7 +89,8 @@
             [
               {
                 "verse": 10,
-                "text": "Manasseh (Joseph's son): Gamaliel, the son of Pedahzur."
+                "text": "Manasseh (Joseph's son): Gamaliel, the son of Pedahzur.",
+                "isContinuation": true
               }
             ],
             [
@@ -147,73 +150,85 @@
             [
               {
                 "verse": 20,
-                "text": "Reuben: 46,500 men."
+                "text": "Reuben: 46,500 men.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 20,
-                "text": "Simeon: 59,300 men."
+                "text": "Simeon: 59,300 men.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 20,
-                "text": "Gad: 45,650 men."
+                "text": "Gad: 45,650 men.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 20,
-                "text": "Judah: 74,600 men."
+                "text": "Judah: 74,600 men.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 20,
-                "text": "Issachar: 54,400 men."
+                "text": "Issachar: 54,400 men.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 20,
-                "text": "Zebulun: 57,400 men."
+                "text": "Zebulun: 57,400 men.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 20,
-                "text": "Ephraim (Joseph's son): 40,500 men."
+                "text": "Ephraim (Joseph's son): 40,500 men.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 20,
-                "text": "Manasseh (Joseph's son): 32,200 men."
+                "text": "Manasseh (Joseph's son): 32,200 men.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 20,
-                "text": "Benjamin: 35,400 men."
+                "text": "Benjamin: 35,400 men.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 20,
-                "text": "Dan: 62,700 men."
+                "text": "Dan: 62,700 men.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 20,
-                "text": "Asher: 41,500 men."
+                "text": "Asher: 41,500 men.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 20,
-                "text": "Naphtali: 53,400 men."
+                "text": "Naphtali: 53,400 men.",
+                "isContinuation": true
               }
             ],
             [
@@ -596,7 +611,8 @@
             [
               {
                 "verse": 20,
-                "text": "Those were the sons and grandsons of Levi. They became the leaders of the clans of Levi's tribe."
+                "text": "Those were the sons and grandsons of Levi. They became the leaders of the clans of Levi's tribe.",
+                "isContinuation": true
               }
             ]
           ]
@@ -1147,7 +1163,8 @@
             [
               {
                 "verse": 19,
-                "text": "The priest must say to her, “This water brings a curse on guilty people. If no other man has had sex with you, it will not hurt you."
+                "text": "The priest must say to her, “This water brings a curse on guilty people. If no other man has had sex with you, it will not hurt you.",
+                "isContinuation": true
               },
               {
                 "verse": 20,
@@ -1165,7 +1182,8 @@
             [
               {
                 "verse": 22,
-                "text": "The woman must say, “That should happen. I agree!”"
+                "text": "The woman must say, “That should happen. I agree!”",
+                "isContinuation": true
               }
             ],
             [
@@ -1347,13 +1365,15 @@
             [
               {
                 "verse": 24,
-                "text": "“The Lord will bless you"
+                "text": "“The Lord will bless you",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 24,
-                "text": "and he will keep you safe."
+                "text": "and he will keep you safe.",
+                "isContinuation": true
               }
             ],
             [
@@ -1365,7 +1385,8 @@
             [
               {
                 "verse": 25,
-                "text": "and he will be very kind to you."
+                "text": "and he will be very kind to you.",
+                "isContinuation": true
               }
             ],
             [
@@ -1377,7 +1398,8 @@
             [
               {
                 "verse": 26,
-                "text": "and he will give you peace in your minds.”"
+                "text": "and he will give you peace in your minds.”",
+                "isContinuation": true
               }
             ],
             [
@@ -1777,7 +1799,8 @@
             [
               {
                 "verse": 84,
-                "text": "They brought 12 plates and 12 bowls that people had made from silver."
+                "text": "They brought 12 plates and 12 bowls that people had made from silver.",
+                "isContinuation": true
               },
               {
                 "verse": 85,
@@ -2619,7 +2642,8 @@
             [
               {
                 "verse": 4,
-                "text": "From Reuben's tribe: Shammua, the son of Zaccur."
+                "text": "From Reuben's tribe: Shammua, the son of Zaccur.",
+                "isContinuation": true
               }
             ],
             [
@@ -3975,7 +3999,8 @@
             [
               {
                 "verse": 16,
-                "text": "Now we are here at Kadesh, which is a town at the border of your land."
+                "text": "Now we are here at Kadesh, which is a town at the border of your land.",
+                "isContinuation": true
               },
               {
                 "verse": 17,
@@ -4156,13 +4181,15 @@
             [
               {
                 "verse": 17,
-                "text": "‘Sing to this well."
+                "text": "‘Sing to this well.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 17,
-                "text": "Ask it to give water to us."
+                "text": "Ask it to give water to us.",
+                "isContinuation": true
               }
             ],
             [
@@ -4174,13 +4201,15 @@
             [
               {
                 "verse": 18,
-                "text": "Our leaders dug it with their sceptres and their ruler's sticks.’"
+                "text": "Our leaders dug it with their sceptres and their ruler's sticks.’",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 18,
-                "text": "After that, the Israelites went from the desert to Mattanah."
+                "text": "After that, the Israelites went from the desert to Mattanah.",
+                "isContinuation": true
               },
               {
                 "verse": 19,
@@ -4233,13 +4262,15 @@
             [
               {
                 "verse": 27,
-                "text": "‘Come to Heshbon and build it up again."
+                "text": "‘Come to Heshbon and build it up again.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 27,
-                "text": "Build the city of Sihon again."
+                "text": "Build the city of Sihon again.",
+                "isContinuation": true
               }
             ],
             [
@@ -4251,19 +4282,22 @@
             [
               {
                 "verse": 28,
-                "text": "It was like a flame that went out from Sihon's city."
+                "text": "It was like a flame that went out from Sihon's city.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 28,
-                "text": "It destroyed Ar in Moab,"
+                "text": "It destroyed Ar in Moab,",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 28,
-                "text": "and everything on the hills near the Arnon River."
+                "text": "and everything on the hills near the Arnon River.",
+                "isContinuation": true
               }
             ],
             [
@@ -4275,19 +4309,22 @@
             [
               {
                 "verse": 29,
-                "text": "King Sihon has destroyed you people who worship the god Chemosh."
+                "text": "King Sihon has destroyed you people who worship the god Chemosh.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 29,
-                "text": "Your men have run away"
+                "text": "Your men have run away",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 29,
-                "text": "and your women have become prisoners."
+                "text": "and your women have become prisoners.",
+                "isContinuation": true
               }
             ],
             [
@@ -4299,25 +4336,22 @@
             [
               {
                 "verse": 30,
-                "text": "We have destroyed Heshbon, and as far as Dibon."
+                "text": "We have destroyed Heshbon, and as far as Dibon.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 30,
-                "text": "We have killed them as far as Nophah,"
+                "text": "We have killed them as far as Nophah,",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 30,
-                "text": "and all the way to Medeba.’"
-              }
-            ],
-            [
-              {
-                "verse": 30,
-                "text": "31 So the Israelites lived in the land of the Amorites. 32 Moses sent men to find the best way to attack Jazer. Then the Israelites attacked Jazer and the towns around it. They caused the Amorites who lived there to run away. 33 After that, the Israelites travelled towards Bashan. Og, the king of Bashan, marched out with his army to fight against them at Edrei. 34 The Lord said to Moses, ‘Do not be afraid of Og. I will put him under your power, as well as his army and his land. Attack him in the same way that you attacked Sihon, the king of the Amorites who ruled in Heshbon.’ 35 So the Israelites killed Og and his sons and all his army. Nobody was left alive. Their land became the Israelites' land."
+                "text": "and all the way to Medeba.’",
+                "isContinuation": true
               }
             ],
             [
@@ -4391,7 +4425,8 @@
             [
               {
                 "verse": 4,
-                "text": "So Balak, the king of Moab,"
+                "text": "So Balak, the king of Moab,",
+                "isContinuation": true
               },
               {
                 "verse": 5,
@@ -4532,7 +4567,8 @@
             [
               {
                 "verse": 30,
-                "text": "Balaam said, ‘No.’"
+                "text": "Balaam said, ‘No.’",
+                "isContinuation": true
               }
             ],
             [
@@ -5070,7 +5106,8 @@
             [
               {
                 "verse": 4,
-                "text": "These are the names of the Israelites who came out of Egypt:"
+                "text": "These are the names of the Israelites who came out of Egypt:",
+                "isContinuation": true
               }
             ],
             [
@@ -5283,12 +5320,6 @@
               {
                 "verse": 50,
                 "text": "There were 45,400 men in the clans of the tribe of Naphtali."
-              }
-            ],
-            [
-              {
-                "verse": 50,
-                "text": "51 There were 601,730 men on the list of all the Israelites.Each tribe will receive some land in Canaan 52 The Lord said to Moses, 53 ‘I will give part of the land to each tribe. You need to know the number of names that you have on your list for each tribe. 54 The big tribes will receive a big piece of land. The small tribes will receive a smaller piece of land. 55 You must use lots to decide the land that each tribe receives. 56 The larger clans must have more land than the smaller clans.’ 57 The Levites included these clans: Gershon's family, Kohath's family and Merari's family. 58 It also included these clans: Libni's family, Hebron's family, Mahli's family, Mushi's family and Korah's family. Kohath was the father of Amram. 59 The name of Amram's wife was Jochebed. She was a descendant of Levi, and she was born in Egypt. Amram and Jochebed were the parents of Moses and Aaron, and their sister Miriam. 60 Aaron was the father of Nadab, Abihu, Eleazar and Ithamar. 61 Nadab and Abihu died when they offered strange fire to the Lord.26:61 62 There were 23,000 male Levites who were more than one month old. Moses did not include them on the list of the other Israelite tribes. They did not receive any land as the other tribes did. 63 Those are the men that Moses and Eleazar the priest counted. They counted them on the flat ground in Moab beside the Jordan River. Jericho was on the other side of the river. 64 None of the men that Moses and Aaron had counted in the Sinai Desert were still alive. 65 The Lord had said about those men, ‘They will certainly die in the desert.’ Among all those men, only Caleb the son of Jephunneh and Joshua the son of Nun were still alive."
               }
             ],
             [
@@ -6867,7 +6898,8 @@
             [
               {
                 "verse": 12,
-                "text": "That will be your land, with its borders.” ’"
+                "text": "That will be your land, with its borders.” ’",
+                "isContinuation": true
               }
             ],
             [
@@ -6910,7 +6942,8 @@
             [
               {
                 "verse": 19,
-                "text": "Caleb the son of Jephunneh from the tribe of Judah."
+                "text": "Caleb the son of Jephunneh from the tribe of Judah.",
+                "isContinuation": true
               }
             ],
             [
@@ -6940,7 +6973,8 @@
             [
               {
                 "verse": 23,
-                "text": "Hanniel the son of Ephod from the tribe of Manasseh."
+                "text": "Hanniel the son of Ephod from the tribe of Manasseh.",
+                "isContinuation": true
               }
             ],
             [

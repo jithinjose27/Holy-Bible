@@ -27,7 +27,8 @@
             [
               {
                 "verse": 1,
-                "text": "I am writing to the 12 tribes of God's people who live in many different parts of the world. I say ‘hello’ to all of you."
+                "text": "I am writing to the 12 tribes of God's people who live in many different parts of the world. I say ‘hello’ to all of you.",
+                "isContinuation": true
               }
             ]
           ]
@@ -353,7 +354,8 @@
             [
               {
                 "verse": 5,
-                "text": "Think about this. A very small fire can cause even a big forest to burn completely."
+                "text": "Think about this. A very small fire can cause even a big forest to burn completely.",
+                "isContinuation": true
               },
               {
                 "verse": 6,

@@ -126,19 +126,22 @@
             [
               {
                 "verse": 21,
-                "text": "John said, ‘No, I am not.’"
+                "text": "John said, ‘No, I am not.’",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 21,
-                "text": "They asked, ‘Are you the Prophet?’"
+                "text": "They asked, ‘Are you the Prophet?’",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 21,
-                "text": "John answered, ‘No.’"
+                "text": "John answered, ‘No.’",
+                "isContinuation": true
               }
             ],
             [
@@ -156,19 +159,22 @@
             [
               {
                 "verse": 23,
-                "text": "“The Lord will come soon."
+                "text": "“The Lord will come soon.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 23,
-                "text": "Make a straight path for him.”"
+                "text": "Make a straight path for him.”",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 23,
-                "text": "That is what the prophet Isaiah said a long time ago.’"
+                "text": "That is what the prophet Isaiah said a long time ago.’",
+                "isContinuation": true
               }
             ],
             [
@@ -258,7 +264,8 @@
             [
               {
                 "verse": 38,
-                "text": "They said, ‘Rabbi, where are you staying?’ (Rabbi means ‘Teacher’.)"
+                "text": "They said, ‘Rabbi, where are you staying?’ (Rabbi means ‘Teacher’.)",
+                "isContinuation": true
               }
             ],
             [
@@ -308,7 +315,8 @@
             [
               {
                 "verse": 46,
-                "text": "Philip replied, ‘Come and see.’"
+                "text": "Philip replied, ‘Come and see.’",
+                "isContinuation": true
               }
             ],
             [
@@ -326,7 +334,8 @@
             [
               {
                 "verse": 48,
-                "text": "Jesus answered, ‘I saw you before Philip asked you to come. I saw you when you were under the fig tree.’"
+                "text": "Jesus answered, ‘I saw you before Philip asked you to come. I saw you when you were under the fig tree.’",
+                "isContinuation": true
               }
             ],
             [
@@ -805,7 +814,8 @@
             [
               {
                 "verse": 17,
-                "text": "Jesus said to her, ‘You are right when you say, “I have no husband.”"
+                "text": "Jesus said to her, ‘You are right when you say, “I have no husband.”",
+                "isContinuation": true
               },
               {
                 "verse": 18,
@@ -1005,7 +1015,8 @@
             [
               {
                 "verse": 52,
-                "text": "They told him, ‘It was yesterday afternoon, at one o'clock. Then his body was no longer hot.’"
+                "text": "They told him, ‘It was yesterday afternoon, at one o'clock. Then his body was no longer hot.’",
+                "isContinuation": true
               }
             ],
             [
@@ -1089,7 +1100,8 @@
             [
               {
                 "verse": 9,
-                "text": "The day when this happened was a Jewish day of rest."
+                "text": "The day when this happened was a Jewish day of rest.",
+                "isContinuation": true
               },
               {
                 "verse": 10,
@@ -1624,7 +1636,8 @@
             [
               {
                 "verse": 64,
-                "text": "Jesus had known from the beginning which of them would not believe in him. Also, he had always known who would sell him to his enemies."
+                "text": "Jesus had known from the beginning which of them would not believe in him. Also, he had always known who would sell him to his enemies.",
+                "isContinuation": true
               },
               {
                 "verse": 65,
@@ -1902,7 +1915,8 @@
             [
               {
                 "verse": 41,
-                "text": "But some other people said, ‘The Messiah will not come from Galilee!"
+                "text": "But some other people said, ‘The Messiah will not come from Galilee!",
+                "isContinuation": true
               },
               {
                 "verse": 42,
@@ -2049,7 +2063,8 @@
             [
               {
                 "verse": 11,
-                "text": "So Jesus said, ‘I also do not want to punish you. Go away now and change the way you live. Do not do wrong things again.’]"
+                "text": "So Jesus said, ‘I also do not want to punish you. Go away now and change the way you live. Do not do wrong things again.’]",
+                "isContinuation": true
               }
             ]
           ]
@@ -2100,7 +2115,8 @@
             [
               {
                 "verse": 19,
-                "text": "Jesus answered, ‘You do not know either me or my Father. If you really knew me, you would also know my Father.’"
+                "text": "Jesus answered, ‘You do not know either me or my Father. If you really knew me, you would also know my Father.’",
+                "isContinuation": true
               },
               {
                 "verse": 20,
@@ -2143,7 +2159,8 @@
             [
               {
                 "verse": 25,
-                "text": "He answered, ‘I have told you who I am from the beginning."
+                "text": "He answered, ‘I have told you who I am from the beginning.",
+                "isContinuation": true
               },
               {
                 "verse": 26,
@@ -2220,7 +2237,8 @@
             [
               {
                 "verse": 39,
-                "text": "Jesus replied, ‘If you really belonged to Abraham's family, you would do the same kind of things that Abraham did."
+                "text": "Jesus replied, ‘If you really belonged to Abraham's family, you would do the same kind of things that Abraham did.",
+                "isContinuation": true
               },
               {
                 "verse": 40,
@@ -2234,7 +2252,8 @@
             [
               {
                 "verse": 41,
-                "text": "They said to Jesus, ‘God himself is our only Father, and we are his proper sons!’"
+                "text": "They said to Jesus, ‘God himself is our only Father, and we are his proper sons!’",
+                "isContinuation": true
               }
             ],
             [
@@ -2398,7 +2417,8 @@
             [
               {
                 "verse": 9,
-                "text": "But the man himself said, ‘I am that man.’"
+                "text": "But the man himself said, ‘I am that man.’",
+                "isContinuation": true
               }
             ],
             [
@@ -2422,7 +2442,8 @@
             [
               {
                 "verse": 12,
-                "text": "He replied, ‘I do not know.’"
+                "text": "He replied, ‘I do not know.’",
+                "isContinuation": true
               }
             ]
           ]
@@ -2447,7 +2468,8 @@
             [
               {
                 "verse": 15,
-                "text": "The man replied, ‘Jesus put mud on my eyes. Then I washed, and now I can see.’"
+                "text": "The man replied, ‘Jesus put mud on my eyes. Then I washed, and now I can see.’",
+                "isContinuation": true
               }
             ],
             [
@@ -2465,7 +2487,8 @@
             [
               {
                 "verse": 17,
-                "text": "The man replied, ‘He is a prophet.’"
+                "text": "The man replied, ‘He is a prophet.’",
+                "isContinuation": true
               }
             ],
             [
@@ -3018,7 +3041,8 @@
             [
               {
                 "verse": 34,
-                "text": "They answered, ‘Come and see, Lord.’"
+                "text": "They answered, ‘Come and see, Lord.’",
+                "isContinuation": true
               },
               {
                 "verse": 35,
@@ -3053,7 +3077,8 @@
             [
               {
                 "verse": 39,
-                "text": "Martha, the dead man's sister, said to Jesus, ‘But Lord, by now his dead body will have a bad smell. He has been dead for four days!’"
+                "text": "Martha, the dead man's sister, said to Jesus, ‘But Lord, by now his dead body will have a bad smell. He has been dead for four days!’",
+                "isContinuation": true
               }
             ],
             [
@@ -3244,13 +3269,15 @@
             [
               {
                 "verse": 15,
-                "text": "Look! Your king is coming."
+                "text": "Look! Your king is coming.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 15,
-                "text": "He is riding on a young donkey.’"
+                "text": "He is riding on a young donkey.’",
+                "isContinuation": true
               }
             ],
             [
@@ -3325,7 +3352,8 @@
             [
               {
                 "verse": 28,
-                "text": "Then a voice spoke from heaven and said, ‘I have shown how great and how good I am. And I will do it again.’"
+                "text": "Then a voice spoke from heaven and said, ‘I have shown how great and how good I am. And I will do it again.’",
+                "isContinuation": true
               }
             ],
             [
@@ -3386,19 +3414,22 @@
             [
               {
                 "verse": 38,
-                "text": "‘ Lord God, has anyone believed our message?"
+                "text": "‘ Lord God, has anyone believed our message?",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 38,
-                "text": "You have shown your great power,"
+                "text": "You have shown your great power,",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 38,
-                "text": "but nobody has really understood.’"
+                "text": "but nobody has really understood.’",
+                "isContinuation": true
               }
             ],
             [
@@ -3414,37 +3445,43 @@
             [
               {
                 "verse": 40,
-                "text": "‘God has caused their eyes to be blind."
+                "text": "‘God has caused their eyes to be blind.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 40,
-                "text": "He has closed their minds."
+                "text": "He has closed their minds.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 40,
-                "text": "So they cannot see with their eyes,"
+                "text": "So they cannot see with their eyes,",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 40,
-                "text": "and they cannot understand with their minds."
+                "text": "and they cannot understand with their minds.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 40,
-                "text": "They will not turn to me,"
+                "text": "They will not turn to me,",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 40,
-                "text": "so that I can make them well.’"
+                "text": "so that I can make them well.’",
+                "isContinuation": true
               }
             ],
             [
@@ -3568,7 +3605,8 @@
             [
               {
                 "verse": 8,
-                "text": "Jesus answered, ‘If I do not wash you, you do not belong with me.’"
+                "text": "Jesus answered, ‘If I do not wash you, you do not belong with me.’",
+                "isContinuation": true
               }
             ],
             [
@@ -3722,7 +3760,8 @@
             [
               {
                 "verse": 36,
-                "text": "Jesus replied, ‘You cannot follow now where I will go. But some time after this, you will follow.’"
+                "text": "Jesus replied, ‘You cannot follow now where I will go. But some time after this, you will follow.’",
+                "isContinuation": true
               }
             ],
             [
@@ -4099,7 +4138,8 @@
             [
               {
                 "verse": 4,
-                "text": "‘I did not tell you these things at the beginning, because I was with you."
+                "text": "‘I did not tell you these things at the beginning, because I was with you.",
+                "isContinuation": true
               },
               {
                 "verse": 5,
@@ -4439,13 +4479,15 @@
             [
               {
                 "verse": 5,
-                "text": "Jesus said, ‘That is who I am.’"
+                "text": "Jesus said, ‘That is who I am.’",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 5,
-                "text": "Judas, who sold Jesus to his enemies, was standing there with the soldiers."
+                "text": "Judas, who sold Jesus to his enemies, was standing there with the soldiers.",
+                "isContinuation": true
               },
               {
                 "verse": 6,
@@ -4461,7 +4503,8 @@
             [
               {
                 "verse": 7,
-                "text": "They said, ‘Jesus, who comes from Nazareth.’"
+                "text": "They said, ‘Jesus, who comes from Nazareth.’",
+                "isContinuation": true
               }
             ],
             [
@@ -4522,7 +4565,8 @@
             [
               {
                 "verse": 17,
-                "text": "Peter replied, ‘No, I am not!’"
+                "text": "Peter replied, ‘No, I am not!’",
+                "isContinuation": true
               }
             ],
             [
@@ -4584,7 +4628,8 @@
             [
               {
                 "verse": 25,
-                "text": "But Peter said, ‘No, I am not.’"
+                "text": "But Peter said, ‘No, I am not.’",
+                "isContinuation": true
               }
             ],
             [
@@ -4631,7 +4676,8 @@
             [
               {
                 "verse": 31,
-                "text": "The Jewish leaders replied, ‘We do not have authority to kill anyone when they have done something bad.’"
+                "text": "The Jewish leaders replied, ‘We do not have authority to kill anyone when they have done something bad.’",
+                "isContinuation": true
               },
               {
                 "verse": 32,
@@ -4671,7 +4717,8 @@
             [
               {
                 "verse": 37,
-                "text": "Jesus answered, ‘You have said that I am a king! I was born for this reason: I came into the world to tell people the truth about God. Everyone who believes the truth listens to my message.’"
+                "text": "Jesus answered, ‘You have said that I am a king! I was born for this reason: I came into the world to tell people the truth about God. Everyone who believes the truth listens to my message.’",
+                "isContinuation": true
               }
             ],
             [
@@ -4688,7 +4735,8 @@
             [
               {
                 "verse": 38,
-                "text": "When Pilate had said that, he went outside again to the Jewish people there. He said to them, ‘I do not see that this man is guilty of anything wrong. I have no reason to punish him."
+                "text": "When Pilate had said that, he went outside again to the Jewish people there. He said to them, ‘I do not see that this man is guilty of anything wrong. I have no reason to punish him.",
+                "isContinuation": true
               },
               {
                 "verse": 39,
@@ -4760,7 +4808,8 @@
             [
               {
                 "verse": 6,
-                "text": "Pilate said to them, ‘Take him for yourselves and kill him on a cross. I can find no reason why I should punish him.’"
+                "text": "Pilate said to them, ‘Take him for yourselves and kill him on a cross. I can find no reason why I should punish him.’",
+                "isContinuation": true
               }
             ],
             [
@@ -4810,7 +4859,8 @@
             [
               {
                 "verse": 14,
-                "text": "Pilate said to the Jews, ‘Here is your king!’"
+                "text": "Pilate said to the Jews, ‘Here is your king!’",
+                "isContinuation": true
               }
             ],
             [
@@ -4822,13 +4872,15 @@
             [
               {
                 "verse": 15,
-                "text": "Pilate asked them, ‘Do you want me to kill your king on a cross?’"
+                "text": "Pilate asked them, ‘Do you want me to kill your king on a cross?’",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 15,
-                "text": "The leaders of the priests answered, ‘Caesar is the only ruler that we call king.’"
+                "text": "The leaders of the priests answered, ‘Caesar is the only ruler that we call king.’",
+                "isContinuation": true
               }
             ],
             [
@@ -4845,7 +4897,8 @@
             [
               {
                 "verse": 16,
-                "text": "The soldiers took hold of Jesus."
+                "text": "The soldiers took hold of Jesus.",
+                "isContinuation": true
               },
               {
                 "verse": 17,
@@ -4893,19 +4946,22 @@
             [
               {
                 "verse": 24,
-                "text": "‘Each of them took some of my clothes."
+                "text": "‘Each of them took some of my clothes.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 24,
-                "text": "They played a game with dice to win what I was wearing.’"
+                "text": "They played a game with dice to win what I was wearing.’",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 24,
-                "text": "And that is what the soldiers did."
+                "text": "And that is what the soldiers did.",
+                "isContinuation": true
               }
             ]
           ]
@@ -4982,7 +5038,8 @@
             [
               {
                 "verse": 36,
-                "text": "‘Nobody will break any of his bones.’"
+                "text": "‘Nobody will break any of his bones.’",
+                "isContinuation": true
               }
             ],
             [
@@ -4994,19 +5051,22 @@
             [
               {
                 "verse": 37,
-                "text": "‘People will push a spear into that man's body,"
+                "text": "‘People will push a spear into that man's body,",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 37,
-                "text": "and then they will look at him.’"
+                "text": "and then they will look at him.’",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 37,
-                "text": "And that is how it really happened."
+                "text": "And that is how it really happened.",
+                "isContinuation": true
               }
             ]
           ]
@@ -5132,7 +5192,8 @@
             [
               {
                 "verse": 13,
-                "text": "She replied, ‘They have taken away my Lord. I do not know where they have put him.’"
+                "text": "She replied, ‘They have taken away my Lord. I do not know where they have put him.’",
+                "isContinuation": true
               },
               {
                 "verse": 14,
@@ -5148,7 +5209,8 @@
             [
               {
                 "verse": 15,
-                "text": "Mary thought that he was the gardener. So she said, ‘Sir, if you have carried him away somewhere, please tell me. Tell me where you have put him. Then I will go and I will take him away.’"
+                "text": "Mary thought that he was the gardener. So she said, ‘Sir, if you have carried him away somewhere, please tell me. Tell me where you have put him. Then I will go and I will take him away.’",
+                "isContinuation": true
               }
             ],
             [
@@ -5160,7 +5222,8 @@
             [
               {
                 "verse": 16,
-                "text": "She turned towards him and she said in the Jewish language, ‘Rabboni!’ (This means ‘Teacher’.)"
+                "text": "She turned towards him and she said in the Jewish language, ‘Rabboni!’ (This means ‘Teacher’.)",
+                "isContinuation": true
               }
             ],
             [
@@ -5222,7 +5285,8 @@
             [
               {
                 "verse": 25,
-                "text": "But Thomas said to them, ‘I will never believe that he is alive again unless I myself see him. I want to see the marks of the nails in his hands. I want to touch where the nails were with my finger. I want to put my hand into his side where the spear went in. If I cannot do that, I will not believe.’"
+                "text": "But Thomas said to them, ‘I will never believe that he is alive again unless I myself see him. I want to see the marks of the nails in his hands. I want to touch where the nails were with my finger. I want to put my hand into his side where the spear went in. If I cannot do that, I will not believe.’",
+                "isContinuation": true
               }
             ],
             [
@@ -5299,7 +5363,8 @@
             [
               {
                 "verse": 3,
-                "text": "They replied, ‘We will come with you.’ So they went out and they got into the boat. But they caught nothing during that night."
+                "text": "They replied, ‘We will come with you.’ So they went out and they got into the boat. But they caught nothing during that night.",
+                "isContinuation": true
               }
             ],
             [
@@ -5315,7 +5380,8 @@
             [
               {
                 "verse": 5,
-                "text": "They answered, ‘No!’"
+                "text": "They answered, ‘No!’",
+                "isContinuation": true
               }
             ],
             [
@@ -5380,13 +5446,15 @@
             [
               {
                 "verse": 15,
-                "text": "Peter answered, ‘Yes Lord, you know that I love you.’"
+                "text": "Peter answered, ‘Yes Lord, you know that I love you.’",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 15,
-                "text": "Jesus said to him, ‘Feed my lambs.’"
+                "text": "Jesus said to him, ‘Feed my lambs.’",
+                "isContinuation": true
               }
             ],
             [
@@ -5398,13 +5466,15 @@
             [
               {
                 "verse": 16,
-                "text": "Peter answered, ‘Yes Lord, you know that I love you.’"
+                "text": "Peter answered, ‘Yes Lord, you know that I love you.’",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 16,
-                "text": "Jesus said to him, ‘Take care of my sheep.’"
+                "text": "Jesus said to him, ‘Take care of my sheep.’",
+                "isContinuation": true
               }
             ],
             [
@@ -5416,13 +5486,15 @@
             [
               {
                 "verse": 17,
-                "text": "Peter was sad because Jesus asked him a third time, ‘Do you love me?’ So he said to Jesus, ‘Lord, you know everything. You know that I really love you!’"
+                "text": "Peter was sad because Jesus asked him a third time, ‘Do you love me?’ So he said to Jesus, ‘Lord, you know everything. You know that I really love you!’",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 17,
-                "text": "Jesus said to him, ‘Take care of my sheep."
+                "text": "Jesus said to him, ‘Take care of my sheep.",
+                "isContinuation": true
               },
               {
                 "verse": 18,

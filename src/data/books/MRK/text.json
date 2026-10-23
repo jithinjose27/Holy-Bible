@@ -31,13 +31,15 @@
             [
               {
                 "verse": 2,
-                "text": "‘Listen! I will send someone to prepare a way for you."
+                "text": "‘Listen! I will send someone to prepare a way for you.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 2,
-                "text": "He will tell people my message."
+                "text": "He will tell people my message.",
+                "isContinuation": true
               }
             ],
             [
@@ -49,13 +51,15 @@
             [
               {
                 "verse": 3,
-                "text": "“The Lord will come soon, so prepare a way for him."
+                "text": "“The Lord will come soon, so prepare a way for him.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 3,
-                "text": "Make the paths straight for him.” ’"
+                "text": "Make the paths straight for him.” ’",
+                "isContinuation": true
               }
             ],
             [
@@ -367,7 +371,8 @@
             [
               {
                 "verse": 10,
-                "text": "Then he said to the man who could not walk,"
+                "text": "Then he said to the man who could not walk,",
+                "isContinuation": true
               },
               {
                 "verse": 11,
@@ -381,7 +386,8 @@
             [
               {
                 "verse": 12,
-                "text": "Everyone watched him do this. The people were very surprised. They praised God and they said, ‘God is great. We have never seen anything like this before.’"
+                "text": "Everyone watched him do this. The people were very surprised. They praised God and they said, ‘God is great. We have never seen anything like this before.’",
+                "isContinuation": true
               }
             ]
           ]
@@ -527,7 +533,8 @@
             [
               {
                 "verse": 4,
-                "text": "Nobody said anything."
+                "text": "Nobody said anything.",
+                "isContinuation": true
               }
             ],
             [
@@ -599,7 +606,8 @@
             [
               {
                 "verse": 16,
-                "text": "Simon, (Jesus called him Peter)."
+                "text": "Simon, (Jesus called him Peter).",
+                "isContinuation": true
               }
             ],
             [
@@ -617,43 +625,50 @@
             [
               {
                 "verse": 18,
-                "text": "Philip,"
+                "text": "Philip,",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 18,
-                "text": "Bartholomew,"
+                "text": "Bartholomew,",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 18,
-                "text": "Matthew (he was also called Levi),"
+                "text": "Matthew (he was also called Levi),",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 18,
-                "text": "Thomas,"
+                "text": "Thomas,",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 18,
-                "text": "James, who was the son of Alphaeus,"
+                "text": "James, who was the son of Alphaeus,",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 18,
-                "text": "Thaddaeus,"
+                "text": "Thaddaeus,",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 18,
-                "text": "Simon the Zealot"
+                "text": "Simon the Zealot",
+                "isContinuation": true
               }
             ],
             [
@@ -787,7 +802,8 @@
             [
               {
                 "verse": 2,
-                "text": "He said to them,"
+                "text": "He said to them,",
+                "isContinuation": true
               },
               {
                 "verse": 3,
@@ -842,25 +858,29 @@
             [
               {
                 "verse": 12,
-                "text": "They are always looking but they do not see clearly."
+                "text": "They are always looking but they do not see clearly.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 12,
-                "text": "They are always listening but they do not understand."
+                "text": "They are always listening but they do not understand.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 12,
-                "text": "If they did understand, they would turn to God."
+                "text": "If they did understand, they would turn to God.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 12,
-                "text": "Then God would forgive them.’"
+                "text": "Then God would forgive them.’",
+                "isContinuation": true
               }
             ]
           ]
@@ -1091,7 +1111,8 @@
             [
               {
                 "verse": 9,
-                "text": "The man replied, ‘My name is Army because we are many bad spirits here.’"
+                "text": "The man replied, ‘My name is Army because we are many bad spirits here.’",
+                "isContinuation": true
               }
             ],
             [
@@ -1177,7 +1198,8 @@
             [
               {
                 "verse": 24,
-                "text": "A large crowd followed Jesus. The people were pushing against him."
+                "text": "A large crowd followed Jesus. The people were pushing against him.",
+                "isContinuation": true
               },
               {
                 "verse": 25,
@@ -1264,7 +1286,8 @@
             [
               {
                 "verse": 40,
-                "text": "Then Jesus sent them all out of the house. He went into the place where the child was lying. The child's father and mother went with him. He also took Peter, James and John with him."
+                "text": "Then Jesus sent them all out of the house. He went into the place where the child was lying. The child's father and mother went with him. He also took Peter, James and John with him.",
+                "isContinuation": true
               },
               {
                 "verse": 41,
@@ -1334,7 +1357,8 @@
             [
               {
                 "verse": 6,
-                "text": "Then he went to visit the other villages that were near there. He was teaching the people who lived in those villages."
+                "text": "Then he went to visit the other villages that were near there. He was teaching the people who lived in those villages.",
+                "isContinuation": true
               }
             ]
           ]
@@ -1432,7 +1456,8 @@
             [
               {
                 "verse": 22,
-                "text": "King Herod said to the girl, ‘Ask me for anything that you want. I will give it to you.’"
+                "text": "King Herod said to the girl, ‘Ask me for anything that you want. I will give it to you.’",
+                "isContinuation": true
               },
               {
                 "verse": 23,
@@ -1448,7 +1473,8 @@
             [
               {
                 "verse": 24,
-                "text": "Her mother replied, ‘Ask for the head of John the Baptist.’"
+                "text": "Her mother replied, ‘Ask for the head of John the Baptist.’",
+                "isContinuation": true
               }
             ],
             [
@@ -1523,7 +1549,8 @@
             [
               {
                 "verse": 37,
-                "text": "But the disciples said, ‘We cannot go to buy bread for all these people. A man must work for eight months to get the 200 coins that we would need for that. We cannot get enough food to give to these people.’"
+                "text": "But the disciples said, ‘We cannot go to buy bread for all these people. A man must work for eight months to get the 200 coins that we would need for that. We cannot get enough food to give to these people.’",
+                "isContinuation": true
               }
             ],
             [
@@ -1535,7 +1562,8 @@
             [
               {
                 "verse": 38,
-                "text": "When they had looked, they told Jesus, ‘We have five loaves and two fish.’"
+                "text": "When they had looked, they told Jesus, ‘We have five loaves and two fish.’",
+                "isContinuation": true
               }
             ],
             [
@@ -1600,7 +1628,8 @@
             [
               {
                 "verse": 50,
-                "text": "But immediately, Jesus said to them, ‘Be brave. It is I. Do not be afraid.’"
+                "text": "But immediately, Jesus said to them, ‘Be brave. It is I. Do not be afraid.’",
+                "isContinuation": true
               },
               {
                 "verse": 51,
@@ -1687,13 +1716,15 @@
             [
               {
                 "verse": 6,
-                "text": "God says, “These people say good things about me,"
+                "text": "God says, “These people say good things about me,",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 6,
-                "text": "but they do not really want to obey me."
+                "text": "but they do not really want to obey me.",
+                "isContinuation": true
               }
             ],
             [
@@ -1705,13 +1736,15 @@
             [
               {
                 "verse": 7,
-                "text": "But what they say has no purpose."
+                "text": "But what they say has no purpose.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 7,
-                "text": "They teach their own rules, which I did not give to them.” ’"
+                "text": "They teach their own rules, which I did not give to them.” ’",
+                "isContinuation": true
               }
             ],
             [
@@ -1778,7 +1811,8 @@
             [
               {
                 "verse": 19,
-                "text": "When Jesus said this, he was teaching that all foods are clean."
+                "text": "When Jesus said this, he was teaching that all foods are clean.",
+                "isContinuation": true
               }
             ],
             [
@@ -1934,7 +1968,8 @@
             [
               {
                 "verse": 5,
-                "text": "They replied, ‘We have seven loaves.’"
+                "text": "They replied, ‘We have seven loaves.’",
+                "isContinuation": true
               }
             ],
             [
@@ -2016,7 +2051,8 @@
             [
               {
                 "verse": 19,
-                "text": "They replied, ‘There were 12 baskets.’"
+                "text": "They replied, ‘There were 12 baskets.’",
+                "isContinuation": true
               }
             ],
             [
@@ -2028,7 +2064,8 @@
             [
               {
                 "verse": 20,
-                "text": "They replied, ‘There were seven baskets.’"
+                "text": "They replied, ‘There were seven baskets.’",
+                "isContinuation": true
               }
             ],
             [
@@ -2094,7 +2131,8 @@
             [
               {
                 "verse": 29,
-                "text": "Peter answered him, ‘You are the Messiah.’"
+                "text": "Peter answered him, ‘You are the Messiah.’",
+                "isContinuation": true
               }
             ],
             [
@@ -2297,7 +2335,8 @@
             [
               {
                 "verse": 21,
-                "text": "The father replied, ‘He has been like this since he was a small boy."
+                "text": "The father replied, ‘He has been like this since he was a small boy.",
+                "isContinuation": true
               },
               {
                 "verse": 22,
@@ -2453,7 +2492,8 @@
             [
               {
                 "verse": 48,
-                "text": "and the fire never goes out.”"
+                "text": "and the fire never goes out.”",
+                "isContinuation": true
               }
             ],
             [
@@ -2593,37 +2633,43 @@
             [
               {
                 "verse": 19,
-                "text": "“Do not kill anyone."
+                "text": "“Do not kill anyone.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 19,
-                "text": "Do not have sex with anyone who is not your wife."
+                "text": "Do not have sex with anyone who is not your wife.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 19,
-                "text": "Do not rob anyone."
+                "text": "Do not rob anyone.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 19,
-                "text": "Do not say things that are not true about people."
+                "text": "Do not say things that are not true about people.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 19,
-                "text": "Do not take things that are not yours."
+                "text": "Do not take things that are not yours.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 19,
-                "text": "Love your father and your mother, and obey them.” ’"
+                "text": "Love your father and your mother, and obey them.” ’",
+                "isContinuation": true
               }
             ],
             [
@@ -2749,7 +2795,8 @@
             [
               {
                 "verse": 39,
-                "text": "Jesus said to them, ‘Yes, that is true. You will have pain like mine. And people will want to kill you like me."
+                "text": "Jesus said to them, ‘Yes, that is true. You will have pain like mine. And people will want to kill you like me.",
+                "isContinuation": true
               },
               {
                 "verse": 40,
@@ -2810,7 +2857,8 @@
             [
               {
                 "verse": 49,
-                "text": "So the people said to the blind man, ‘Be brave! Stand up. Jesus is asking you to go to him.’"
+                "text": "So the people said to the blind man, ‘Be brave! Stand up. Jesus is asking you to go to him.’",
+                "isContinuation": true
               },
               {
                 "verse": 50,
@@ -2826,7 +2874,8 @@
             [
               {
                 "verse": 51,
-                "text": "The blind man said to Jesus, ‘Teacher, I want to see again.’"
+                "text": "The blind man said to Jesus, ‘Teacher, I want to see again.’",
+                "isContinuation": true
               }
             ],
             [
@@ -2902,13 +2951,15 @@
             [
               {
                 "verse": 9,
-                "text": "‘We praise God!"
+                "text": "‘We praise God!",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 9,
-                "text": "May the Lord God bless the king who comes with his authority!"
+                "text": "May the Lord God bless the king who comes with his authority!",
+                "isContinuation": true
               }
             ],
             [
@@ -2920,7 +2971,8 @@
             [
               {
                 "verse": 10,
-                "text": "We praise God above!’"
+                "text": "We praise God above!’",
+                "isContinuation": true
               }
             ],
             [
@@ -3058,7 +3110,8 @@
             [
               {
                 "verse": 33,
-                "text": "So Jesus said to them, ‘You will not answer my question. So I will not tell you what authority I have to do these things.’"
+                "text": "So Jesus said to them, ‘You will not answer my question. So I will not tell you what authority I have to do these things.’",
+                "isContinuation": true
               }
             ]
           ]
@@ -3135,19 +3188,22 @@
             [
               {
                 "verse": 10,
-                "text": "“The builders refused to use a certain stone."
+                "text": "“The builders refused to use a certain stone.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 10,
-                "text": "They thought that it had no value."
+                "text": "They thought that it had no value.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 10,
-                "text": "But now that stone has become the most important stone at the corner of the building."
+                "text": "But now that stone has become the most important stone at the corner of the building.",
+                "isContinuation": true
               }
             ],
             [
@@ -3159,7 +3215,8 @@
             [
               {
                 "verse": 11,
-                "text": "And we can see that he did something great.” ’"
+                "text": "And we can see that he did something great.” ’",
+                "isContinuation": true
               }
             ],
             [
@@ -3196,7 +3253,8 @@
             [
               {
                 "verse": 16,
-                "text": "They replied, ‘It is Caesar's picture and Caesar's name.’"
+                "text": "They replied, ‘It is Caesar's picture and Caesar's name.’",
+                "isContinuation": true
               }
             ],
             [
@@ -3208,7 +3266,8 @@
             [
               {
                 "verse": 17,
-                "text": "When they heard Jesus' answer, they were very surprised."
+                "text": "When they heard Jesus' answer, they were very surprised.",
+                "isContinuation": true
               }
             ]
           ]
@@ -3321,19 +3380,22 @@
             [
               {
                 "verse": 36,
-                "text": "“The Lord God said to my Lord:"
+                "text": "“The Lord God said to my Lord:",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 36,
-                "text": "Sit at my right side until I win against your enemies."
+                "text": "Sit at my right side until I win against your enemies.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 36,
-                "text": "Then you will be able to put your feet on them.”"
+                "text": "Then you will be able to put your feet on them.”",
+                "isContinuation": true
               }
             ],
             [
@@ -3345,7 +3407,8 @@
             [
               {
                 "verse": 37,
-                "text": "The large crowd liked to listen to the things that Jesus was saying. It made them happy."
+                "text": "The large crowd liked to listen to the things that Jesus was saying. It made them happy.",
+                "isContinuation": true
               }
             ]
           ]
@@ -3796,13 +3859,15 @@
             [
               {
                 "verse": 27,
-                "text": "God says, “I will kill the shepherd who leads the sheep."
+                "text": "God says, “I will kill the shepherd who leads the sheep.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 27,
-                "text": "Then the sheep will run away in different directions.” ’"
+                "text": "Then the sheep will run away in different directions.” ’",
+                "isContinuation": true
               }
             ],
             [
@@ -3999,7 +4064,8 @@
             [
               {
                 "verse": 61,
-                "text": "So again, Caiaphas asked Jesus, ‘Are you the Messiah? Are you the Son of God?’"
+                "text": "So again, Caiaphas asked Jesus, ‘Are you the Messiah? Are you the Son of God?’",
+                "isContinuation": true
               }
             ],
             [
@@ -4021,7 +4087,8 @@
             [
               {
                 "verse": 64,
-                "text": "Everyone agreed that Jesus deserved to die."
+                "text": "Everyone agreed that Jesus deserved to die.",
+                "isContinuation": true
               }
             ],
             [
@@ -4048,7 +4115,8 @@
             [
               {
                 "verse": 67,
-                "text": "She looked at him and she said, ‘You also were a friend of Jesus, the man from Nazareth.’"
+                "text": "She looked at him and she said, ‘You also were a friend of Jesus, the man from Nazareth.’",
+                "isContinuation": true
               }
             ],
             [
@@ -4070,7 +4138,8 @@
             [
               {
                 "verse": 70,
-                "text": "After a little time, the other people who were standing there said to Peter, ‘We know you are from Galilee. So we are sure that you are one of those men.’"
+                "text": "After a little time, the other people who were standing there said to Peter, ‘We know you are from Galilee. So we are sure that you are one of those men.’",
+                "isContinuation": true
               }
             ],
             [
@@ -4086,7 +4155,8 @@
             [
               {
                 "verse": 72,
-                "text": "Then Peter remembered what Jesus had said to him: ‘You will say three times that you do not know me. You will do it before the cockerel sings for the second time.’ When Peter thought about this, he wept very much."
+                "text": "Then Peter remembered what Jesus had said to him: ‘You will say three times that you do not know me. You will do it before the cockerel sings for the second time.’ When Peter thought about this, he wept very much.",
+                "isContinuation": true
               }
             ]
           ]
@@ -4128,7 +4198,8 @@
             [
               {
                 "verse": 2,
-                "text": "Jesus replied, ‘You have said it.’"
+                "text": "Jesus replied, ‘You have said it.’",
+                "isContinuation": true
               }
             ],
             [
@@ -4203,7 +4274,8 @@
             [
               {
                 "verse": 14,
-                "text": "But the people shouted even louder, ‘Kill him on a cross!’"
+                "text": "But the people shouted even louder, ‘Kill him on a cross!’",
+                "isContinuation": true
               }
             ],
             [

@@ -27,7 +27,8 @@
             [
               {
                 "verse": 1,
-                "text": "I am writing to you, God's own people who live in Ephesus. You are those who continue to believe in Christ Jesus, and so you belong to him."
+                "text": "I am writing to you, God's own people who live in Ephesus. You are those who continue to believe in Christ Jesus, and so you belong to him.",
+                "isContinuation": true
               }
             ],
             [
@@ -127,7 +128,8 @@
             [
               {
                 "verse": 19,
-                "text": "God's power is greater than anything we could ever know."
+                "text": "God's power is greater than anything we could ever know.",
+                "isContinuation": true
               },
               {
                 "verse": 20,
@@ -450,19 +452,22 @@
             [
               {
                 "verse": 8,
-                "text": "‘When he went up to the highest place,"
+                "text": "‘When he went up to the highest place,",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 8,
-                "text": "he led many prisoners with him."
+                "text": "he led many prisoners with him.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 8,
-                "text": "Then he gave gifts to his people.’"
+                "text": "Then he gave gifts to his people.’",
+                "isContinuation": true
               }
             ],
             [
@@ -673,19 +678,22 @@
             [
               {
                 "verse": 14,
-                "text": "‘Wake up, you people who are asleep!"
+                "text": "‘Wake up, you people who are asleep!",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 14,
-                "text": "Rise up from among the dead people!"
+                "text": "Rise up from among the dead people!",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 14,
-                "text": "Then Christ will shine his light on you.’"
+                "text": "Then Christ will shine his light on you.’",
+                "isContinuation": true
               }
             ],
             [

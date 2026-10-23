@@ -51,7 +51,8 @@
             [
               {
                 "verse": 7,
-                "text": "I pray that God, our Father, and the Lord Jesus Christ will continue to help you. I pray that they will give you peace in your minds."
+                "text": "I pray that God, our Father, and the Lord Jesus Christ will continue to help you. I pray that they will give you peace in your minds.",
+                "isContinuation": true
               }
             ]
           ]
@@ -110,7 +111,8 @@
             [
               {
                 "verse": 17,
-                "text": "‘The righteous person will live because he trusts God.’"
+                "text": "‘The righteous person will live because he trusts God.’",
+                "isContinuation": true
               }
             ]
           ]
@@ -333,7 +335,8 @@
             [
               {
                 "verse": 24,
-                "text": "‘Because of you Jews, the Gentiles are insulting God.’"
+                "text": "‘Because of you Jews, the Gentiles are insulting God.’",
+                "isContinuation": true
               }
             ],
             [
@@ -403,25 +406,22 @@
             [
               {
                 "verse": 4,
-                "text": "‘People will know that what you say is true."
+                "text": "‘People will know that what you say is true.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 4,
-                "text": "If people judge you,"
+                "text": "If people judge you,",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 4,
-                "text": "it will always be clear that you are right.’"
-              }
-            ],
-            [
-              {
-                "verse": 4,
-                "text": "5 Some people might say, ‘The wrong things that we do show more clearly that God is always right. So perhaps God is wrong to punish us.’ That is a human way to talk. 6 It is completely wrong! God always decides what is right and fair. That is why he is able to judge everyone in the world. 7 Someone might also say, ‘When I tell lies, that shows how great and good God is. My lies show more clearly that God always says what is true. So God should not say that I am a bad person. He should not punish me.’ 8 But if that is true, you could also say, ‘We should do more and more bad things. Then something good will happen as a result.’ Some people even say that is the message which I teach. But if they say that, they are insulting me. It is right that God should punish those people.Nobody is right with God 9 So, what do we learn from that? We cannot say that we Jews are in less danger than other people. No, certainly we cannot say that! I have said already that sin has power over everyone. That is true for both Jews and Gentiles. 10 This is written in the Bible:‘There is nobody who is right with God.There is not even one person who is like that. 11 There is nobody who understands what is true.There is nobody who wants to know God. 12 Everyone has turned away from God.All people have become completely bad.Nobody does what is good or kind.There is not even one person who is like that.3:12 13 Bad words come out of their mouths,like a bad smell from a grave.They tell lies all the time,so that they deceive people.The things that they say hurt people, like a snake's poison.3:13 14 They are always saying bad things against people,because they want to cause trouble for them.3:14 15 They hurry to kill people. 16 Everywhere they go, they destroy things.They make people very sad. 17 They have never known how to live in peace.3:17 18 They refuse to respect God in any way.’3:18 19 We know that God's Law belongs to the Jews. God told them to obey everything that his Law teaches. As a result, nobody can say: ‘I am not guilty.’ Everybody in the world must stand in front of God and he will judge them. 20 Nobody can become right with God because they obey the Law's commands. Instead, God's Law shows people clearly the wrong things that they have done.God accepts everyone who believes in Christ 21 But now we know how to become right with God. God has shown us the way that he will accept people as right with himself. This is not part of the Law that he gave to Moses. But God's Law and the messages of his prophets have told us about it. 22 God accepts people as right with himself because Jesus Christ did what God wanted. God accepts every person who believes in Christ. It is the same way for everyone, whether they are Jews or Gentiles. 23 All people have done wrong things. Nobody is as good as God in his glory wants them to be. 24 But because God is very kind, he accepts us as right with himself. That is God's gift to us. Jesus Christ has paid for our sins so that we have become free. 25 God showed clearly that Jesus Christ died on the cross as a sacrifice for our sins. God forgives us if we trust in Jesus and the blood of his sacrifice. God did this to show clearly that he is always right and fair. In past times, God was patient. He did not punish people who did wrong things. 26 He did this to show us today that he is completely right and fair. He accepts people as right with himself if they believe in Jesus. 27 So nobody should boast about themselves. Nobody becomes right with God because they have done good things. No! God accepts someone only if they believe in Jesus Christ. 28 So this is what we are saying: A person becomes right with God if they trust in Christ. It is not because they do the good things which God's Law teaches. 29 God is not God only for Jewish people. He is also God for the Gentiles. Yes! He is the God for all people. 30 There is only one God. He will accept Jews as right with himself if they believe in Christ. He will also accept other people as right with himself if they believe in Christ. 31 What does this show us about God's Law which he gave to Moses? When we say that all people need to believe in Jesus, does that mean that God's Law has no purpose? No! When we believe in Jesus, we are showing the true purpose of God's Law."
+                "text": "it will always be clear that you are right.’",
+                "isContinuation": true
               }
             ],
             [
@@ -462,13 +462,15 @@
             [
               {
                 "verse": 10,
-                "text": "‘There is nobody who is right with God."
+                "text": "‘There is nobody who is right with God.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 10,
-                "text": "There is not even one person who is like that."
+                "text": "There is not even one person who is like that.",
+                "isContinuation": true
               }
             ],
             [
@@ -480,7 +482,8 @@
             [
               {
                 "verse": 11,
-                "text": "There is nobody who wants to know God."
+                "text": "There is nobody who wants to know God.",
+                "isContinuation": true
               }
             ],
             [
@@ -492,19 +495,22 @@
             [
               {
                 "verse": 12,
-                "text": "All people have become completely bad."
+                "text": "All people have become completely bad.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 12,
-                "text": "Nobody does what is good or kind."
+                "text": "Nobody does what is good or kind.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 12,
-                "text": "There is not even one person who is like that."
+                "text": "There is not even one person who is like that.",
+                "isContinuation": true
               }
             ],
             [
@@ -516,25 +522,29 @@
             [
               {
                 "verse": 13,
-                "text": "like a bad smell from a grave."
+                "text": "like a bad smell from a grave.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 13,
-                "text": "They tell lies all the time,"
+                "text": "They tell lies all the time,",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 13,
-                "text": "so that they deceive people."
+                "text": "so that they deceive people.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 13,
-                "text": "The things that they say hurt people, like a snake's poison."
+                "text": "The things that they say hurt people, like a snake's poison.",
+                "isContinuation": true
               }
             ],
             [
@@ -546,7 +556,8 @@
             [
               {
                 "verse": 14,
-                "text": "because they want to cause trouble for them."
+                "text": "because they want to cause trouble for them.",
+                "isContinuation": true
               }
             ],
             [
@@ -564,7 +575,8 @@
             [
               {
                 "verse": 16,
-                "text": "They make people very sad."
+                "text": "They make people very sad.",
+                "isContinuation": true
               }
             ],
             [
@@ -577,12 +589,6 @@
               {
                 "verse": 18,
                 "text": "They refuse to respect God in any way.’"
-              }
-            ],
-            [
-              {
-                "verse": 18,
-                "text": "19 We know that God's Law belongs to the Jews. God told them to obey everything that his Law teaches. As a result, nobody can say: ‘I am not guilty.’ Everybody in the world must stand in front of God and he will judge them. 20 Nobody can become right with God because they obey the Law's commands. Instead, God's Law shows people clearly the wrong things that they have done.God accepts everyone who believes in Christ 21 But now we know how to become right with God. God has shown us the way that he will accept people as right with himself. This is not part of the Law that he gave to Moses. But God's Law and the messages of his prophets have told us about it. 22 God accepts people as right with himself because Jesus Christ did what God wanted. God accepts every person who believes in Christ. It is the same way for everyone, whether they are Jews or Gentiles. 23 All people have done wrong things. Nobody is as good as God in his glory wants them to be. 24 But because God is very kind, he accepts us as right with himself. That is God's gift to us. Jesus Christ has paid for our sins so that we have become free. 25 God showed clearly that Jesus Christ died on the cross as a sacrifice for our sins. God forgives us if we trust in Jesus and the blood of his sacrifice. God did this to show clearly that he is always right and fair. In past times, God was patient. He did not punish people who did wrong things. 26 He did this to show us today that he is completely right and fair. He accepts people as right with himself if they believe in Jesus. 27 So nobody should boast about themselves. Nobody becomes right with God because they have done good things. No! God accepts someone only if they believe in Jesus Christ. 28 So this is what we are saying: A person becomes right with God if they trust in Christ. It is not because they do the good things which God's Law teaches. 29 God is not God only for Jewish people. He is also God for the Gentiles. Yes! He is the God for all people. 30 There is only one God. He will accept Jews as right with himself if they believe in Christ. He will also accept other people as right with himself if they believe in Christ. 31 What does this show us about God's Law which he gave to Moses? When we say that all people need to believe in Jesus, does that mean that God's Law has no purpose? No! When we believe in Jesus, we are showing the true purpose of God's Law."
               }
             ],
             [
@@ -709,19 +715,22 @@
             [
               {
                 "verse": 7,
-                "text": "‘The people that God has forgiven are truly happy."
+                "text": "‘The people that God has forgiven are truly happy.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 7,
-                "text": "They have done wrong things,"
+                "text": "They have done wrong things,",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 7,
-                "text": "but he has forgiven them."
+                "text": "but he has forgiven them.",
+                "isContinuation": true
               }
             ],
             [
@@ -733,13 +742,8 @@
             [
               {
                 "verse": 8,
-                "text": "The Lord does not think about that person's sin any more.’"
-              }
-            ],
-            [
-              {
-                "verse": 8,
-                "text": "9 God does this for all people, both Jews and Gentiles. All people can be happy like this, when God accepts them. As we have said, Abraham believed God. As a result, God accepted Abraham as right with him. 10 Someone circumcised Abraham to show that he belonged to God's people. Think about the time when God accepted Abraham. Did it happen before someone circumcised him, or after that? We know that it was before anyone circumcised him! 11 Abraham's circumcision was a mark on his body to show that God had already accepted him. God had accepted Abraham because Abraham believed in him. This shows that Abraham is like a father to everyone that God has accepted. Like Abraham, God has accepted them because they have believed in him. It is not important that nobody has circumcised them. 12 But Abraham is also like the father of all Jews who believe in God. Someone has circumcised those Jews, but they have also copied Abraham's example. They have believed in God, as Abraham believed before anyone had circumcised him.4:12Everyone who trusts God receives what God promised to Abraham 13 God promised Abraham and his descendants that the world would belong to them one day. God did not promise this because Abraham obeyed any rules. God promised it because Abraham believed in him. That is why God accepted Abraham as right with him. 14 People cannot receive what God has promised because they obey rules. If they could get it like that, faith in God would be worth nothing. And what God has promised would be worth nothing. 15 The rules in God's Law say that God will punish people who do not obey those rules. But without any rules, there is nothing for people to obey.4:13 16 So God gives us his promise as a gift, because he is very kind. We receive it when we trust him. If we believe in God like Abraham did, then God accepts us. That is God's promise to all of Abraham's family. If we believe in God, we can call Abraham our ancestor. We can all receive what God has promised. It is not only for those who have Moses' Law to obey. 17 In the Bible, God said to Abraham, ‘I have chosen you to become the ancestor of many nations of people.’ Abraham believed in God's promise, so God calls him our ancestor. God is the one who causes dead people to become alive again. He speaks about things that are not yet there as if they were already there.4:17 18 Abraham continued to trust God. He hoped to receive what God had promised. He continued to hope even when he had no good reason to hope. That is why he became the ancestor of many nations. It happened just like God had said: ‘You will have very many descendants.’ 19 Abraham was about 100 years old. His body was already so old that it was nearly dead. His wife, Sarah, was unable to have children. Abraham understood all that, but he did not stop trusting God. 20 He never stopped believing what God had promised. Instead, he believed in God more strongly. He gave honour to God. 21 Abraham was sure that God was able to do what he had promised to do. 22 So we see that it is true: because Abraham believed God, God accepted Abraham as right with him.4:184:22 23 Think about those words, ‘God accepted him as right.’ They are not only speaking about Abraham. 24 They are written in the Bible to help us too. If we believe in God, he will accept us as right with him. God raised our Lord Jesus to become alive again after his death. 25 God let people kill Jesus on the cross because of the wrong things that we have done. Then God raised Jesus from death, to show that he would accept us as right with him."
+                "text": "The Lord does not think about that person's sin any more.’",
+                "isContinuation": true
               }
             ],
             [
@@ -924,7 +928,8 @@
             [
               {
                 "verse": 14,
-                "text": "Adam shows us something about God's Messiah who would come at a future time."
+                "text": "Adam shows us something about God's Messiah who would come at a future time.",
+                "isContinuation": true
               },
               {
                 "verse": 15,
@@ -1245,7 +1250,8 @@
             [
               {
                 "verse": 25,
-                "text": "So with my mind I want to obey God's laws. But, at the same time, I serve sin as my master, because I am weak and human."
+                "text": "So with my mind I want to obey God's laws. But, at the same time, I serve sin as my master, because I am weak and human.",
+                "isContinuation": true
               }
             ]
           ]
@@ -1451,31 +1457,29 @@
             [
               {
                 "verse": 36,
-                "text": "‘Because we are your people, God,"
+                "text": "‘Because we are your people, God,",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 36,
-                "text": "people try to kill us all the time."
+                "text": "people try to kill us all the time.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 36,
-                "text": "They think that we are like sheep,"
+                "text": "They think that we are like sheep,",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 36,
-                "text": "and we are ready to be killed.’"
-              }
-            ],
-            [
-              {
-                "verse": 36,
-                "text": "37 Because God loves us, none of these troubles can ever beat us. He makes us win against them. 38-39 I am sure of this. Nothing can stop God from loving us. Death cannot do that. Life cannot do that. Angels cannot do that, nor can demons do that. Nothing that happens to us now, or that will happen in the future can do that. No powerful spirits can do that. Nothing that is high above the world can do that, nor anything that is deep down below the ground. Nothing else in the whole universe can stop God from loving us. Because of our Lord Christ Jesus, we know how much God loves us."
+                "text": "and we are ready to be killed.’",
+                "isContinuation": true
               }
             ],
             [
@@ -1635,31 +1639,29 @@
             [
               {
                 "verse": 25,
-                "text": "‘I will say to people who were not my people,"
+                "text": "‘I will say to people who were not my people,",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 25,
-                "text": "“Now you are my people.”"
+                "text": "“Now you are my people.”",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 25,
-                "text": "I will say to people that I did not love,"
+                "text": "I will say to people that I did not love,",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 25,
-                "text": "“I love you.” ’"
-              }
-            ],
-            [
-              {
-                "verse": 25,
-                "text": "26 ‘God had said to them,“You are not my people.”In the same place where he said that,people will now call them “Children of God who lives for ever.” ’9:26 27 Also, Isaiah, God's prophet, said this about Israel's people:‘There are so many of Israel's people, nobody can count them.They are as many as the bits of sand on the shore of the sea.But God will save only a few of them. 28 The Lord God will finish his work quickly.He has warned his people what he will do.And he will punish them completely.’9:28 29 Isaiah had already said this:‘The Almighty Lord has let some of our children live.If he had not done that,no descendants would remain.We would have become like the people in Sodom and Gomorrah.’9:29 30 So, we must think about what all this means. The Gentiles were not trying to become right with God. But some of them have now become right with him. God has accepted them as right, because they have believed in Jesus Christ. 31 Israel's people tried to find a law that would make them right with God. But they failed to become right with God. 32 They failed because they refused to believe in Christ. Instead, they were trying to do certain things so that God would accept them. Because of that they fell to the ground. Their feet hit the stone which causes people to fall. 33 It says this in the Bible:‘Look, I am putting a special stone in Zion.That stone will cause people to fall to the ground.It is a rock that will make them fall down.But anyone who believes in him will never become disappointed.’9:33"
+                "text": "“I love you.” ’",
+                "isContinuation": true
               }
             ],
             [
@@ -1671,25 +1673,22 @@
             [
               {
                 "verse": 26,
-                "text": "“You are not my people.”"
+                "text": "“You are not my people.”",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 26,
-                "text": "In the same place where he said that,"
+                "text": "In the same place where he said that,",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 26,
-                "text": "people will now call them “Children of God who lives for ever.” ’"
-              }
-            ],
-            [
-              {
-                "verse": 26,
-                "text": "27 Also, Isaiah, God's prophet, said this about Israel's people:‘There are so many of Israel's people, nobody can count them.They are as many as the bits of sand on the shore of the sea.But God will save only a few of them. 28 The Lord God will finish his work quickly.He has warned his people what he will do.And he will punish them completely.’9:28 29 Isaiah had already said this:‘The Almighty Lord has let some of our children live.If he had not done that,no descendants would remain.We would have become like the people in Sodom and Gomorrah.’9:29 30 So, we must think about what all this means. The Gentiles were not trying to become right with God. But some of them have now become right with him. God has accepted them as right, because they have believed in Jesus Christ. 31 Israel's people tried to find a law that would make them right with God. But they failed to become right with God. 32 They failed because they refused to believe in Christ. Instead, they were trying to do certain things so that God would accept them. Because of that they fell to the ground. Their feet hit the stone which causes people to fall. 33 It says this in the Bible:‘Look, I am putting a special stone in Zion.That stone will cause people to fall to the ground.It is a rock that will make them fall down.But anyone who believes in him will never become disappointed.’9:33"
+                "text": "people will now call them “Children of God who lives for ever.” ’",
+                "isContinuation": true
               }
             ],
             [
@@ -1701,19 +1700,22 @@
             [
               {
                 "verse": 27,
-                "text": "‘There are so many of Israel's people, nobody can count them."
+                "text": "‘There are so many of Israel's people, nobody can count them.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 27,
-                "text": "They are as many as the bits of sand on the shore of the sea."
+                "text": "They are as many as the bits of sand on the shore of the sea.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 27,
-                "text": "But God will save only a few of them."
+                "text": "But God will save only a few of them.",
+                "isContinuation": true
               }
             ],
             [
@@ -1725,19 +1727,15 @@
             [
               {
                 "verse": 28,
-                "text": "He has warned his people what he will do."
+                "text": "He has warned his people what he will do.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 28,
-                "text": "And he will punish them completely.’"
-              }
-            ],
-            [
-              {
-                "verse": 28,
-                "text": "29 Isaiah had already said this:‘The Almighty Lord has let some of our children live.If he had not done that,no descendants would remain.We would have become like the people in Sodom and Gomorrah.’9:29 30 So, we must think about what all this means. The Gentiles were not trying to become right with God. But some of them have now become right with him. God has accepted them as right, because they have believed in Jesus Christ. 31 Israel's people tried to find a law that would make them right with God. But they failed to become right with God. 32 They failed because they refused to believe in Christ. Instead, they were trying to do certain things so that God would accept them. Because of that they fell to the ground. Their feet hit the stone which causes people to fall. 33 It says this in the Bible:‘Look, I am putting a special stone in Zion.That stone will cause people to fall to the ground.It is a rock that will make them fall down.But anyone who believes in him will never become disappointed.’9:33"
+                "text": "And he will punish them completely.’",
+                "isContinuation": true
               }
             ],
             [
@@ -1749,31 +1747,29 @@
             [
               {
                 "verse": 29,
-                "text": "‘The Almighty Lord has let some of our children live."
+                "text": "‘The Almighty Lord has let some of our children live.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 29,
-                "text": "If he had not done that,"
+                "text": "If he had not done that,",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 29,
-                "text": "no descendants would remain."
+                "text": "no descendants would remain.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 29,
-                "text": "We would have become like the people in Sodom and Gomorrah.’"
-              }
-            ],
-            [
-              {
-                "verse": 29,
-                "text": "30 So, we must think about what all this means. The Gentiles were not trying to become right with God. But some of them have now become right with him. God has accepted them as right, because they have believed in Jesus Christ. 31 Israel's people tried to find a law that would make them right with God. But they failed to become right with God. 32 They failed because they refused to believe in Christ. Instead, they were trying to do certain things so that God would accept them. Because of that they fell to the ground. Their feet hit the stone which causes people to fall. 33 It says this in the Bible:‘Look, I am putting a special stone in Zion.That stone will cause people to fall to the ground.It is a rock that will make them fall down.But anyone who believes in him will never become disappointed.’9:33"
+                "text": "We would have become like the people in Sodom and Gomorrah.’",
+                "isContinuation": true
               }
             ],
             [
@@ -1797,25 +1793,29 @@
             [
               {
                 "verse": 33,
-                "text": "‘Look, I am putting a special stone in Zion."
+                "text": "‘Look, I am putting a special stone in Zion.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 33,
-                "text": "That stone will cause people to fall to the ground."
+                "text": "That stone will cause people to fall to the ground.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 33,
-                "text": "It is a rock that will make them fall down."
+                "text": "It is a rock that will make them fall down.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 33,
-                "text": "But anyone who believes in him will never become disappointed.’"
+                "text": "But anyone who believes in him will never become disappointed.’",
+                "isContinuation": true
               }
             ]
           ]
@@ -1908,7 +1908,8 @@
             [
               {
                 "verse": 11,
-                "text": "‘Everyone who believes in him will not be disappointed.’"
+                "text": "‘Everyone who believes in him will not be disappointed.’",
+                "isContinuation": true
               }
             ],
             [
@@ -1950,13 +1951,15 @@
             [
               {
                 "verse": 18,
-                "text": "‘People have spoken God's message everywhere."
+                "text": "‘People have spoken God's message everywhere.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 18,
-                "text": "People have heard his message in every part of the world.’"
+                "text": "People have heard his message in every part of the world.’",
+                "isContinuation": true
               }
             ],
             [
@@ -1968,13 +1971,15 @@
             [
               {
                 "verse": 19,
-                "text": "‘I will make you jealous because of people who are not my people."
+                "text": "‘I will make you jealous because of people who are not my people.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 19,
-                "text": "I will make you angry because of people who know nothing about me.’"
+                "text": "I will make you angry because of people who know nothing about me.’",
+                "isContinuation": true
               }
             ],
             [
@@ -1986,13 +1991,15 @@
             [
               {
                 "verse": 20,
-                "text": "‘God says, “Those people who were not looking for me have found me."
+                "text": "‘God says, “Those people who were not looking for me have found me.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 20,
-                "text": "I showed myself to people who were not even asking about me.” ’"
+                "text": "I showed myself to people who were not even asking about me.” ’",
+                "isContinuation": true
               }
             ],
             [
@@ -2004,25 +2011,29 @@
             [
               {
                 "verse": 21,
-                "text": "‘God says, “For a very long time,"
+                "text": "‘God says, “For a very long time,",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 21,
-                "text": "I have been asking my people to return to me."
+                "text": "I have been asking my people to return to me.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 21,
-                "text": "But they refused to obey me."
+                "text": "But they refused to obey me.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 21,
-                "text": "They turned against me.” ’"
+                "text": "They turned against me.” ’",
+                "isContinuation": true
               }
             ]
           ]
@@ -2092,19 +2103,22 @@
             [
               {
                 "verse": 8,
-                "text": "‘God caused them to be like people who are sleeping."
+                "text": "‘God caused them to be like people who are sleeping.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 8,
-                "text": "Even until today, their eyes cannot really see,"
+                "text": "Even until today, their eyes cannot really see,",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 8,
-                "text": "and their ears cannot really hear.’"
+                "text": "and their ears cannot really hear.’",
+                "isContinuation": true
               }
             ],
             [
@@ -2116,13 +2130,15 @@
             [
               {
                 "verse": 9,
-                "text": "‘I pray that their feasts will become a trap for them."
+                "text": "‘I pray that their feasts will become a trap for them.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 9,
-                "text": "Let their feasts bring them trouble and punishment."
+                "text": "Let their feasts bring them trouble and punishment.",
+                "isContinuation": true
               }
             ],
             [
@@ -2134,13 +2150,8 @@
             [
               {
                 "verse": 10,
-                "text": "Let their bodies always be in pain, like slaves.’"
-              }
-            ],
-            [
-              {
-                "verse": 10,
-                "text": "11 So now I ask this: ‘When Israel's people failed to accept God's Messiah, did they make themselves separate from God for ever?’ No, certainly that is not true! Because of their mistake, God is now saving Gentiles. He is doing that to make Israel's people become jealous. 12 Because of their mistake, God has blessed everyone in the world. Israel's people failed to receive what God wanted to give them. As a result, God has blessed the Gentiles with many good things. So, when the complete number of Israel's people do turn to God, the result will be even better!Jews and Gentiles are like branches on an olive tree 13 Now I am speaking to you who are Gentiles. God has sent me to be his apostle to the Gentiles. I thank him that he has given this important work to me. 14 I hope that my work among you Gentiles will cause my own Jewish people to be jealous. As a result, some of them may turn to God, so that he saves them. 15 When God turned away from Israel's people, he then accepted other people in the world as his friends. So, when God does accept Israel's people, the result will be even better! It will seem that dead people have become alive again! 16 If you offer the first piece of bread to God, then all the bread will belong to God. If the roots of a tree belong to God, then the branches will also be his. 17 Israel's people are like an olive tree that a farmer has planted. But God has broken off some of that tree's branches. Then he has taken a branch from a wild olive tree. He has put that wild branch into the farmer's tree, to become part of that tree. You Gentiles are like the wild branch. Now you receive food from the root of the farmer's tree, to make you strong. 18 Israel's people are like the branches that God broke off. But you Gentiles must not think that you are better than those branches. Remember that you are still only a branch. You do not make the root strong. No, it is the root that holds you up and makes you strong. 19 You might say, ‘God broke off the branches so that I could become part of the tree.’ 20 That is true. God broke them off because they did not believe in Christ. God has accepted you as part of the tree because you do believe in Christ. So do not become proud. Instead, be afraid. 21 God broke off the proper branches and he did not let them stay in the tree. So, if you no longer trust him, he may not let you stay either. 22 So you should think about what God is like. He is kind, but he also punishes people. He has punished Israel's people, because they turned away from him. He has been kind to you. But you must continue to accept his kind gift. If you do not do that, he will break you off from his tree too. 23 God is able to accept Israel's people back again. If they come to believe in Christ, God will put them back as part of the tree. He is able to make them become branches of the tree again. 24 God cut you like branches from a wild olive tree. Then he put you into the farmer's olive tree so that you became part of it. He could do that even though that was not your own tree. So God will be able to do that for Israel's people. He can easily put them back into their own tree that they were part of before.11:24God will save Israel's people 25 My Christian friends, I want to help you to understand about Israel's people. It is a secret that God has shown to us. If you really understand it, you will not be proud that you are so clever. Many of Israel's people have refused to believe in Christ. They will continue to refuse him until the complete number of Gentiles have believed. 26 When this has happened, God will save all Israel's people. This is written in the Bible:‘The one who rescues will come from Zion.He will turn Jacob's people away from their sins.11:26 27 And I will make this covenant with them.I will forgive them for their sins.’11:27 28 Israel's people have become God's enemies, because they have refused to believe the good news about Christ. This has happened to help you who are Gentiles. But God still loves Israel's people, because he has chosen them as his own people. That is what he promised to their ancestors. 29 God's thoughts about his people cannot change. He has blessed them with gifts. He has chosen them to belong to him. 30 In past times, you Gentiles did not obey God. But now God has been very kind to you, because Israel's people refused to obey him. 31 Even now, they do not obey God. As a result, God may now be kind to them, in the same way that he has been kind to you. 32 God says that everyone is guilty because they do not obey him. He says that so that he can be kind and he can forgive everyone.God is great and we should praise him 33 Yes! God is very great! He has everything! He knows and he understands all things! Nobody can completely understand the things that he decides. Nobody can explain the ways in which he works. 34 The Bible says this:‘Nobody knows the thoughts of the Lord God.Nobody is able to tell him what he should do.’11:34 35 ‘Nobody has ever given anything to Godso that God had to pay something back to that person.’11:35 36 It is God who made all things. He also causes all things to continue. And all things are there to show how great he is.We praise him for ever! He is great! Amen. This is true!"
+                "text": "Let their bodies always be in pain, like slaves.’",
+                "isContinuation": true
               }
             ],
             [
@@ -2234,13 +2245,15 @@
             [
               {
                 "verse": 26,
-                "text": "‘The one who rescues will come from Zion."
+                "text": "‘The one who rescues will come from Zion.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 26,
-                "text": "He will turn Jacob's people away from their sins."
+                "text": "He will turn Jacob's people away from their sins.",
+                "isContinuation": true
               }
             ],
             [
@@ -2252,7 +2265,8 @@
             [
               {
                 "verse": 27,
-                "text": "I will forgive them for their sins.’"
+                "text": "I will forgive them for their sins.’",
+                "isContinuation": true
               }
             ],
             [
@@ -2297,13 +2311,15 @@
             [
               {
                 "verse": 34,
-                "text": "‘Nobody knows the thoughts of the Lord God."
+                "text": "‘Nobody knows the thoughts of the Lord God.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 34,
-                "text": "Nobody is able to tell him what he should do.’"
+                "text": "Nobody is able to tell him what he should do.’",
+                "isContinuation": true
               }
             ],
             [
@@ -2315,7 +2331,8 @@
             [
               {
                 "verse": 35,
-                "text": "so that God had to pay something back to that person.’"
+                "text": "so that God had to pay something back to that person.’",
+                "isContinuation": true
               }
             ],
             [
@@ -2327,7 +2344,8 @@
             [
               {
                 "verse": 36,
-                "text": "We praise him for ever! He is great! Amen. This is true!"
+                "text": "We praise him for ever! He is great! Amen. This is true!",
+                "isContinuation": true
               }
             ]
           ]
@@ -2459,25 +2477,29 @@
             [
               {
                 "verse": 19,
-                "text": "‘The Lord God says,"
+                "text": "‘The Lord God says,",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 19,
-                "text": "“When people do something wrong,"
+                "text": "“When people do something wrong,",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 19,
-                "text": "I am the one who will punish them."
+                "text": "I am the one who will punish them.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 19,
-                "text": "I will pay them back.” ’"
+                "text": "I will pay them back.” ’",
+                "isContinuation": true
               }
             ],
             [
@@ -2489,31 +2511,29 @@
             [
               {
                 "verse": 20,
-                "text": "‘If your enemy is hungry, feed him."
+                "text": "‘If your enemy is hungry, feed him.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 20,
-                "text": "If he is thirsty, give him something to drink."
+                "text": "If he is thirsty, give him something to drink.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 20,
-                "text": "If you help your enemy, he will become ashamed."
+                "text": "If you help your enemy, he will become ashamed.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 20,
-                "text": "He will be sorry because of what he did to you.’"
-              }
-            ],
-            [
-              {
-                "verse": 20,
-                "text": "21 Do not let evil things win against you! Instead, do good things. Then you will win against the evil things that people do."
+                "text": "He will be sorry because of what he did to you.’",
+                "isContinuation": true
               }
             ],
             [
@@ -2695,25 +2715,29 @@
             [
               {
                 "verse": 11,
-                "text": "‘The Lord God says,"
+                "text": "‘The Lord God says,",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 11,
-                "text": "“As surely as I live, this will certainly happen:"
+                "text": "“As surely as I live, this will certainly happen:",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 11,
-                "text": "Everyone will go down on their knees in front of me."
+                "text": "Everyone will go down on their knees in front of me.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 11,
-                "text": "Everyone will praise me that I am God.” ’"
+                "text": "Everyone will praise me that I am God.” ’",
+                "isContinuation": true
               }
             ],
             [
@@ -2850,25 +2874,22 @@
             [
               {
                 "verse": 9,
-                "text": "‘I will tell the Gentiles about you, God."
+                "text": "‘I will tell the Gentiles about you, God.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 9,
-                "text": "I will praise you with songs,"
+                "text": "I will praise you with songs,",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 9,
-                "text": "to show how great you are.’"
-              }
-            ],
-            [
-              {
-                "verse": 9,
-                "text": "10 It says also in the Bible:‘Be very happy, you Gentiles!Praise God together with his people.’15:10 11 It also says this:‘Praise the Lord God, all you Gentiles.All people, from every country, should say how great he is.’15:11 12 God's prophet Isaiah says this:‘The root of Jesse will arrive.He will come to rule the Gentiles.The Gentiles will trust him to save them.’15:12 13 God is the one who causes us to hope for good things. I pray that God will bless you very much. I pray that he will cause you to be happy and to have peace in your minds. He will do this because you believe in him. As a result, God's Holy Spirit will make you strong with his power, so that you hope even more certainly.Paul explains about his work among the Gentiles 14 My Christian friends, I myself am completely sure about you. I know that you are good in every way. You know everything about God's message. You are able to teach one another what is right. 15 But I still needed to write this letter to you. I have written to you strongly about some things, so that you would remember them. God has kindly chosen me to serve him in this way. 16 I am a servant of Christ Jesus among the Gentiles, to tell them God's good news. Like a priest, I offer the Gentiles to God, so that he will accept them. The Holy Spirit has made them a pure offering that pleases God. 17 So I am proud about the way that I serve God, because I belong to Christ Jesus. 18 But I will only speak about the work that Christ has let me do. He has used the message that I have spoken and the things that I have done. As a result, the Gentiles have obeyed God. 19 They have seen miracles and great things as God's Holy Spirit worked powerfully among them. In this way, I have told the good news about Christ to many people. I have done this all the way from Jerusalem as far as Illyricum.15:19 20 I want to go to places where nobody has ever told people about Christ before. I want to tell the good news to people in those places. That is what I have always wanted to do. I do not want to work in a place where someone else has already started to teach God's message. 21 This is written in the Bible about God's Messiah:‘The people who had never been told about himwill now see.The people who had never heard about himwill now understand.’15:21Paul hopes to visit the Christians in Rome 22 Because of my work, I have never had a chance to visit you. 23 For many years I have been waiting for the chance to come to you. But now I have finished my work here in these places. 24 So I hope to visit you while I am travelling to Spain. I will stay with you in Rome for a short time. I will really enjoy some time together with you there. Then you can help me to continue my journey. 25 But now, I am ready to go to Jerusalem to help God's people there. 26 The Christians in Macedonia and Achaia want to help the poor people among the believers in Jerusalem. So they have some money ready to send to those people. 27 The Christians in Macedonia and Achaia chose to share what they had. But really, they have a duty to help the Jewish Christians in Jerusalem. It is the Jews who shared good things from God to help the Gentiles in their spiritual lives. So now the Gentiles ought to help the Jewish Christians with the money that they need to live. 28 So I must take their gift safely to the Christians in Jerusalem. When I have done that, I will come to visit you. Then I will continue my journey to Spain. 29 When I visit you, I know that Christ will bless us very much while we are together.15:26 30 My Christian friends, please pray for me as I do this difficult work. Together we belong to our Lord Jesus Christ. God's Spirit has given us love for each other. So I ask you to help me and to pray with me. 31 Some people in Judea have refused to believe in Jesus. Pray that God will keep me safe from those people. Pray also that God's people in Jerusalem will happily accept the gift that I am taking to them.15:31 32 If God agrees, I will be able to come to you. That will make us happy. I will enjoy some rest while I stay there with you. 33 God is the one who gives us peace in our minds. I pray that he will be with all of you to help you. Amen."
+                "text": "to show how great you are.’",
+                "isContinuation": true
               }
             ],
             [
@@ -2880,19 +2901,15 @@
             [
               {
                 "verse": 10,
-                "text": "‘Be very happy, you Gentiles!"
+                "text": "‘Be very happy, you Gentiles!",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 10,
-                "text": "Praise God together with his people.’"
-              }
-            ],
-            [
-              {
-                "verse": 10,
-                "text": "11 It also says this:‘Praise the Lord God, all you Gentiles.All people, from every country, should say how great he is.’15:11 12 God's prophet Isaiah says this:‘The root of Jesse will arrive.He will come to rule the Gentiles.The Gentiles will trust him to save them.’15:12 13 God is the one who causes us to hope for good things. I pray that God will bless you very much. I pray that he will cause you to be happy and to have peace in your minds. He will do this because you believe in him. As a result, God's Holy Spirit will make you strong with his power, so that you hope even more certainly.Paul explains about his work among the Gentiles 14 My Christian friends, I myself am completely sure about you. I know that you are good in every way. You know everything about God's message. You are able to teach one another what is right. 15 But I still needed to write this letter to you. I have written to you strongly about some things, so that you would remember them. God has kindly chosen me to serve him in this way. 16 I am a servant of Christ Jesus among the Gentiles, to tell them God's good news. Like a priest, I offer the Gentiles to God, so that he will accept them. The Holy Spirit has made them a pure offering that pleases God. 17 So I am proud about the way that I serve God, because I belong to Christ Jesus. 18 But I will only speak about the work that Christ has let me do. He has used the message that I have spoken and the things that I have done. As a result, the Gentiles have obeyed God. 19 They have seen miracles and great things as God's Holy Spirit worked powerfully among them. In this way, I have told the good news about Christ to many people. I have done this all the way from Jerusalem as far as Illyricum.15:19 20 I want to go to places where nobody has ever told people about Christ before. I want to tell the good news to people in those places. That is what I have always wanted to do. I do not want to work in a place where someone else has already started to teach God's message. 21 This is written in the Bible about God's Messiah:‘The people who had never been told about himwill now see.The people who had never heard about himwill now understand.’15:21Paul hopes to visit the Christians in Rome 22 Because of my work, I have never had a chance to visit you. 23 For many years I have been waiting for the chance to come to you. But now I have finished my work here in these places. 24 So I hope to visit you while I am travelling to Spain. I will stay with you in Rome for a short time. I will really enjoy some time together with you there. Then you can help me to continue my journey. 25 But now, I am ready to go to Jerusalem to help God's people there. 26 The Christians in Macedonia and Achaia want to help the poor people among the believers in Jerusalem. So they have some money ready to send to those people. 27 The Christians in Macedonia and Achaia chose to share what they had. But really, they have a duty to help the Jewish Christians in Jerusalem. It is the Jews who shared good things from God to help the Gentiles in their spiritual lives. So now the Gentiles ought to help the Jewish Christians with the money that they need to live. 28 So I must take their gift safely to the Christians in Jerusalem. When I have done that, I will come to visit you. Then I will continue my journey to Spain. 29 When I visit you, I know that Christ will bless us very much while we are together.15:26 30 My Christian friends, please pray for me as I do this difficult work. Together we belong to our Lord Jesus Christ. God's Spirit has given us love for each other. So I ask you to help me and to pray with me. 31 Some people in Judea have refused to believe in Jesus. Pray that God will keep me safe from those people. Pray also that God's people in Jerusalem will happily accept the gift that I am taking to them.15:31 32 If God agrees, I will be able to come to you. That will make us happy. I will enjoy some rest while I stay there with you. 33 God is the one who gives us peace in our minds. I pray that he will be with all of you to help you. Amen."
+                "text": "Praise God together with his people.’",
+                "isContinuation": true
               }
             ],
             [
@@ -2904,19 +2921,15 @@
             [
               {
                 "verse": 11,
-                "text": "‘Praise the Lord God, all you Gentiles."
+                "text": "‘Praise the Lord God, all you Gentiles.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 11,
-                "text": "All people, from every country, should say how great he is.’"
-              }
-            ],
-            [
-              {
-                "verse": 11,
-                "text": "12 God's prophet Isaiah says this:‘The root of Jesse will arrive.He will come to rule the Gentiles.The Gentiles will trust him to save them.’15:12 13 God is the one who causes us to hope for good things. I pray that God will bless you very much. I pray that he will cause you to be happy and to have peace in your minds. He will do this because you believe in him. As a result, God's Holy Spirit will make you strong with his power, so that you hope even more certainly.Paul explains about his work among the Gentiles 14 My Christian friends, I myself am completely sure about you. I know that you are good in every way. You know everything about God's message. You are able to teach one another what is right. 15 But I still needed to write this letter to you. I have written to you strongly about some things, so that you would remember them. God has kindly chosen me to serve him in this way. 16 I am a servant of Christ Jesus among the Gentiles, to tell them God's good news. Like a priest, I offer the Gentiles to God, so that he will accept them. The Holy Spirit has made them a pure offering that pleases God. 17 So I am proud about the way that I serve God, because I belong to Christ Jesus. 18 But I will only speak about the work that Christ has let me do. He has used the message that I have spoken and the things that I have done. As a result, the Gentiles have obeyed God. 19 They have seen miracles and great things as God's Holy Spirit worked powerfully among them. In this way, I have told the good news about Christ to many people. I have done this all the way from Jerusalem as far as Illyricum.15:19 20 I want to go to places where nobody has ever told people about Christ before. I want to tell the good news to people in those places. That is what I have always wanted to do. I do not want to work in a place where someone else has already started to teach God's message. 21 This is written in the Bible about God's Messiah:‘The people who had never been told about himwill now see.The people who had never heard about himwill now understand.’15:21Paul hopes to visit the Christians in Rome 22 Because of my work, I have never had a chance to visit you. 23 For many years I have been waiting for the chance to come to you. But now I have finished my work here in these places. 24 So I hope to visit you while I am travelling to Spain. I will stay with you in Rome for a short time. I will really enjoy some time together with you there. Then you can help me to continue my journey. 25 But now, I am ready to go to Jerusalem to help God's people there. 26 The Christians in Macedonia and Achaia want to help the poor people among the believers in Jerusalem. So they have some money ready to send to those people. 27 The Christians in Macedonia and Achaia chose to share what they had. But really, they have a duty to help the Jewish Christians in Jerusalem. It is the Jews who shared good things from God to help the Gentiles in their spiritual lives. So now the Gentiles ought to help the Jewish Christians with the money that they need to live. 28 So I must take their gift safely to the Christians in Jerusalem. When I have done that, I will come to visit you. Then I will continue my journey to Spain. 29 When I visit you, I know that Christ will bless us very much while we are together.15:26 30 My Christian friends, please pray for me as I do this difficult work. Together we belong to our Lord Jesus Christ. God's Spirit has given us love for each other. So I ask you to help me and to pray with me. 31 Some people in Judea have refused to believe in Jesus. Pray that God will keep me safe from those people. Pray also that God's people in Jerusalem will happily accept the gift that I am taking to them.15:31 32 If God agrees, I will be able to come to you. That will make us happy. I will enjoy some rest while I stay there with you. 33 God is the one who gives us peace in our minds. I pray that he will be with all of you to help you. Amen."
+                "text": "All people, from every country, should say how great he is.’",
+                "isContinuation": true
               }
             ],
             [
@@ -2928,25 +2941,22 @@
             [
               {
                 "verse": 12,
-                "text": "‘The root of Jesse will arrive."
+                "text": "‘The root of Jesse will arrive.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 12,
-                "text": "He will come to rule the Gentiles."
+                "text": "He will come to rule the Gentiles.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 12,
-                "text": "The Gentiles will trust him to save them.’"
-              }
-            ],
-            [
-              {
-                "verse": 12,
-                "text": "13 God is the one who causes us to hope for good things. I pray that God will bless you very much. I pray that he will cause you to be happy and to have peace in your minds. He will do this because you believe in him. As a result, God's Holy Spirit will make you strong with his power, so that you hope even more certainly.Paul explains about his work among the Gentiles 14 My Christian friends, I myself am completely sure about you. I know that you are good in every way. You know everything about God's message. You are able to teach one another what is right. 15 But I still needed to write this letter to you. I have written to you strongly about some things, so that you would remember them. God has kindly chosen me to serve him in this way. 16 I am a servant of Christ Jesus among the Gentiles, to tell them God's good news. Like a priest, I offer the Gentiles to God, so that he will accept them. The Holy Spirit has made them a pure offering that pleases God. 17 So I am proud about the way that I serve God, because I belong to Christ Jesus. 18 But I will only speak about the work that Christ has let me do. He has used the message that I have spoken and the things that I have done. As a result, the Gentiles have obeyed God. 19 They have seen miracles and great things as God's Holy Spirit worked powerfully among them. In this way, I have told the good news about Christ to many people. I have done this all the way from Jerusalem as far as Illyricum.15:19 20 I want to go to places where nobody has ever told people about Christ before. I want to tell the good news to people in those places. That is what I have always wanted to do. I do not want to work in a place where someone else has already started to teach God's message. 21 This is written in the Bible about God's Messiah:‘The people who had never been told about himwill now see.The people who had never heard about himwill now understand.’15:21Paul hopes to visit the Christians in Rome 22 Because of my work, I have never had a chance to visit you. 23 For many years I have been waiting for the chance to come to you. But now I have finished my work here in these places. 24 So I hope to visit you while I am travelling to Spain. I will stay with you in Rome for a short time. I will really enjoy some time together with you there. Then you can help me to continue my journey. 25 But now, I am ready to go to Jerusalem to help God's people there. 26 The Christians in Macedonia and Achaia want to help the poor people among the believers in Jerusalem. So they have some money ready to send to those people. 27 The Christians in Macedonia and Achaia chose to share what they had. But really, they have a duty to help the Jewish Christians in Jerusalem. It is the Jews who shared good things from God to help the Gentiles in their spiritual lives. So now the Gentiles ought to help the Jewish Christians with the money that they need to live. 28 So I must take their gift safely to the Christians in Jerusalem. When I have done that, I will come to visit you. Then I will continue my journey to Spain. 29 When I visit you, I know that Christ will bless us very much while we are together.15:26 30 My Christian friends, please pray for me as I do this difficult work. Together we belong to our Lord Jesus Christ. God's Spirit has given us love for each other. So I ask you to help me and to pray with me. 31 Some people in Judea have refused to believe in Jesus. Pray that God will keep me safe from those people. Pray also that God's people in Jerusalem will happily accept the gift that I am taking to them.15:31 32 If God agrees, I will be able to come to you. That will make us happy. I will enjoy some rest while I stay there with you. 33 God is the one who gives us peace in our minds. I pray that he will be with all of you to help you. Amen."
+                "text": "The Gentiles will trust him to save them.’",
+                "isContinuation": true
               }
             ],
             [
@@ -3001,25 +3011,29 @@
             [
               {
                 "verse": 21,
-                "text": "‘The people who had never been told about him"
+                "text": "‘The people who had never been told about him",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 21,
-                "text": "will now see."
+                "text": "will now see.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 21,
-                "text": "The people who had never heard about him"
+                "text": "The people who had never heard about him",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 21,
-                "text": "will now understand.’"
+                "text": "will now understand.’",
+                "isContinuation": true
               }
             ]
           ]
@@ -3136,7 +3150,8 @@
             [
               {
                 "verse": 5,
-                "text": "Say ‘hello’ to my very good friend Epenetus. He was the first person in the region of Asia who believed in Christ."
+                "text": "Say ‘hello’ to my very good friend Epenetus. He was the first person in the region of Asia who believed in Christ.",
+                "isContinuation": true
               }
             ],
             [

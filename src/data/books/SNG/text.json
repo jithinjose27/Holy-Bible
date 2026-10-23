@@ -23,12 +23,6 @@
                 "verse": 1,
                 "text": "This is Solomon's most beautiful song."
               }
-            ],
-            [
-              {
-                "verse": 1,
-                "text": "The young woman: 2 Please kiss me with your lips!Your love makes me happier than wine does. 3 You have put perfume on your body.It has a lovely smell.The sound of your name causes pleasure everywhere,like sweet perfume.All the young women love you! 4 Take me away with you. Come quickly.I want the king to take me into his rooms.The woman's friends:1:4We are very happy!You make us happy.We praise your love,because it is better than wine.The young woman:I agree! The young women are right to praise you like that. 5 Young women of Jerusalem,my skin is dark but I am beautiful.1:5My skin is dark, like the tents of Kedar.It is beautiful, like the curtains of King Solomon's tent. 6 The sun has caused my skin to become dark.Please do not look at me as if I am strange.My brothers were angry with me.They caused me to work outside in the sun.I took care of the vineyards,and I could not take care of my own vineyard, my body. 7 I love you, my dear one.1:7Tell me where you take your sheep to eat grass.Where will you take them to rest at midday?I do not want to look for you everywhereamong the sheep of your friends.They might not understand what I am doing.The man and the woman praise each otherThe young man: 8 You are the most beautiful woman of all.If you do not know where to find me,follow the marks from the feet of my sheep.Take your young goats to eat grassamong the tents of the shepherds. 9 My dear friend, you are very beautiful.You seem to me like a beautiful horse that pulls one of Pharaoh's chariots.1:9 10 Your face is beautiful with jewels.A necklace makes your neck beautiful too. 11 We will use gold to make ear rings for you,and we will add pieces of silver.The young woman: 12 While the king was eating a meal,the sweet smell of my perfume was in the air. 13 My lover is like a bag of myrrhthat lies between my breasts. 14 He is like a group of henna flowersthat grow in the vineyards at En Gedi.1:14The young man: 15 My dear friend, I see that you are very beautiful!Yes, you are beautifuland your eyes are like doves.The young woman: 16 My lover, I see that you are very handsome!Yes, you are lovely!This field of fresh, green grass is our comfortable bed. 17 The cedar trees above us are the beams of our bedroom.1:17The pine trees cover us like a roof."
-              }
             ]
           ]
         },
@@ -44,7 +38,8 @@
             [
               {
                 "verse": 2,
-                "text": "Your love makes me happier than wine does."
+                "text": "Your love makes me happier than wine does.",
+                "isContinuation": true
               }
             ],
             [
@@ -56,25 +51,29 @@
             [
               {
                 "verse": 3,
-                "text": "It has a lovely smell."
+                "text": "It has a lovely smell.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 3,
-                "text": "The sound of your name causes pleasure everywhere,"
+                "text": "The sound of your name causes pleasure everywhere,",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 3,
-                "text": "like sweet perfume."
+                "text": "like sweet perfume.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 3,
-                "text": "All the young women love you!"
+                "text": "All the young women love you!",
+                "isContinuation": true
               }
             ],
             [
@@ -86,7 +85,8 @@
             [
               {
                 "verse": 4,
-                "text": "I want the king to take me into his rooms."
+                "text": "I want the king to take me into his rooms.",
+                "isContinuation": true
               }
             ]
           ]
@@ -97,25 +97,29 @@
             [
               {
                 "verse": 4,
-                "text": "We are very happy!"
+                "text": "We are very happy!",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 4,
-                "text": "You make us happy."
+                "text": "You make us happy.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 4,
-                "text": "We praise your love,"
+                "text": "We praise your love,",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 4,
-                "text": "because it is better than wine."
+                "text": "because it is better than wine.",
+                "isContinuation": true
               }
             ]
           ]
@@ -126,13 +130,8 @@
             [
               {
                 "verse": 4,
-                "text": "I agree! The young women are right to praise you like that."
-              }
-            ],
-            [
-              {
-                "verse": 4,
-                "text": "5 Young women of Jerusalem,my skin is dark but I am beautiful.1:5My skin is dark, like the tents of Kedar.It is beautiful, like the curtains of King Solomon's tent. 6 The sun has caused my skin to become dark.Please do not look at me as if I am strange.My brothers were angry with me.They caused me to work outside in the sun.I took care of the vineyards,and I could not take care of my own vineyard, my body. 7 I love you, my dear one.1:7Tell me where you take your sheep to eat grass.Where will you take them to rest at midday?I do not want to look for you everywhereamong the sheep of your friends.They might not understand what I am doing.The man and the woman praise each otherThe young man: 8 You are the most beautiful woman of all.If you do not know where to find me,follow the marks from the feet of my sheep.Take your young goats to eat grassamong the tents of the shepherds. 9 My dear friend, you are very beautiful.You seem to me like a beautiful horse that pulls one of Pharaoh's chariots.1:9 10 Your face is beautiful with jewels.A necklace makes your neck beautiful too. 11 We will use gold to make ear rings for you,and we will add pieces of silver.The young woman: 12 While the king was eating a meal,the sweet smell of my perfume was in the air. 13 My lover is like a bag of myrrhthat lies between my breasts. 14 He is like a group of henna flowersthat grow in the vineyards at En Gedi.1:14The young man: 15 My dear friend, I see that you are very beautiful!Yes, you are beautifuland your eyes are like doves.The young woman: 16 My lover, I see that you are very handsome!Yes, you are lovely!This field of fresh, green grass is our comfortable bed. 17 The cedar trees above us are the beams of our bedroom.1:17The pine trees cover us like a roof."
+                "text": "I agree! The young women are right to praise you like that.",
+                "isContinuation": true
               }
             ],
             [
@@ -144,19 +143,22 @@
             [
               {
                 "verse": 5,
-                "text": "my skin is dark but I am beautiful."
+                "text": "my skin is dark but I am beautiful.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 5,
-                "text": "My skin is dark, like the tents of Kedar."
+                "text": "My skin is dark, like the tents of Kedar.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 5,
-                "text": "It is beautiful, like the curtains of King Solomon's tent."
+                "text": "It is beautiful, like the curtains of King Solomon's tent.",
+                "isContinuation": true
               }
             ],
             [
@@ -168,37 +170,36 @@
             [
               {
                 "verse": 6,
-                "text": "Please do not look at me as if I am strange."
+                "text": "Please do not look at me as if I am strange.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 6,
-                "text": "My brothers were angry with me."
+                "text": "My brothers were angry with me.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 6,
-                "text": "They caused me to work outside in the sun."
+                "text": "They caused me to work outside in the sun.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 6,
-                "text": "I took care of the vineyards,"
+                "text": "I took care of the vineyards,",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 6,
-                "text": "and I could not take care of my own vineyard, my body."
-              }
-            ],
-            [
-              {
-                "verse": 6,
-                "text": "7 I love you, my dear one.1:7Tell me where you take your sheep to eat grass.Where will you take them to rest at midday?I do not want to look for you everywhereamong the sheep of your friends.They might not understand what I am doing.The man and the woman praise each otherThe young man: 8 You are the most beautiful woman of all.If you do not know where to find me,follow the marks from the feet of my sheep.Take your young goats to eat grassamong the tents of the shepherds. 9 My dear friend, you are very beautiful.You seem to me like a beautiful horse that pulls one of Pharaoh's chariots.1:9 10 Your face is beautiful with jewels.A necklace makes your neck beautiful too. 11 We will use gold to make ear rings for you,and we will add pieces of silver.The young woman: 12 While the king was eating a meal,the sweet smell of my perfume was in the air. 13 My lover is like a bag of myrrhthat lies between my breasts. 14 He is like a group of henna flowersthat grow in the vineyards at En Gedi.1:14The young man: 15 My dear friend, I see that you are very beautiful!Yes, you are beautifuland your eyes are like doves.The young woman: 16 My lover, I see that you are very handsome!Yes, you are lovely!This field of fresh, green grass is our comfortable bed. 17 The cedar trees above us are the beams of our bedroom.1:17The pine trees cover us like a roof."
+                "text": "and I could not take care of my own vineyard, my body.",
+                "isContinuation": true
               }
             ],
             [
@@ -210,31 +211,36 @@
             [
               {
                 "verse": 7,
-                "text": "Tell me where you take your sheep to eat grass."
+                "text": "Tell me where you take your sheep to eat grass.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 7,
-                "text": "Where will you take them to rest at midday?"
+                "text": "Where will you take them to rest at midday?",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 7,
-                "text": "I do not want to look for you everywhere"
+                "text": "I do not want to look for you everywhere",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 7,
-                "text": "among the sheep of your friends."
+                "text": "among the sheep of your friends.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 7,
-                "text": "They might not understand what I am doing."
+                "text": "They might not understand what I am doing.",
+                "isContinuation": true
               }
             ]
           ]
@@ -251,25 +257,29 @@
             [
               {
                 "verse": 8,
-                "text": "If you do not know where to find me,"
+                "text": "If you do not know where to find me,",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 8,
-                "text": "follow the marks from the feet of my sheep."
+                "text": "follow the marks from the feet of my sheep.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 8,
-                "text": "Take your young goats to eat grass"
+                "text": "Take your young goats to eat grass",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 8,
-                "text": "among the tents of the shepherds."
+                "text": "among the tents of the shepherds.",
+                "isContinuation": true
               }
             ],
             [
@@ -281,7 +291,8 @@
             [
               {
                 "verse": 9,
-                "text": "You seem to me like a beautiful horse that pulls one of Pharaoh's chariots."
+                "text": "You seem to me like a beautiful horse that pulls one of Pharaoh's chariots.",
+                "isContinuation": true
               }
             ],
             [
@@ -293,7 +304,8 @@
             [
               {
                 "verse": 10,
-                "text": "A necklace makes your neck beautiful too."
+                "text": "A necklace makes your neck beautiful too.",
+                "isContinuation": true
               }
             ],
             [
@@ -305,7 +317,8 @@
             [
               {
                 "verse": 11,
-                "text": "and we will add pieces of silver."
+                "text": "and we will add pieces of silver.",
+                "isContinuation": true
               }
             ]
           ]
@@ -322,7 +335,8 @@
             [
               {
                 "verse": 12,
-                "text": "the sweet smell of my perfume was in the air."
+                "text": "the sweet smell of my perfume was in the air.",
+                "isContinuation": true
               }
             ],
             [
@@ -334,7 +348,8 @@
             [
               {
                 "verse": 13,
-                "text": "that lies between my breasts."
+                "text": "that lies between my breasts.",
+                "isContinuation": true
               }
             ],
             [
@@ -346,7 +361,8 @@
             [
               {
                 "verse": 14,
-                "text": "that grow in the vineyards at En Gedi."
+                "text": "that grow in the vineyards at En Gedi.",
+                "isContinuation": true
               }
             ]
           ]
@@ -363,13 +379,15 @@
             [
               {
                 "verse": 15,
-                "text": "Yes, you are beautiful"
+                "text": "Yes, you are beautiful",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 15,
-                "text": "and your eyes are like doves."
+                "text": "and your eyes are like doves.",
+                "isContinuation": true
               }
             ]
           ]
@@ -386,13 +404,15 @@
             [
               {
                 "verse": 16,
-                "text": "Yes, you are lovely!"
+                "text": "Yes, you are lovely!",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 16,
-                "text": "This field of fresh, green grass is our comfortable bed."
+                "text": "This field of fresh, green grass is our comfortable bed.",
+                "isContinuation": true
               }
             ],
             [
@@ -404,7 +424,8 @@
             [
               {
                 "verse": 17,
-                "text": "The pine trees cover us like a roof."
+                "text": "The pine trees cover us like a roof.",
+                "isContinuation": true
               }
             ]
           ]
@@ -438,7 +459,8 @@
             [
               {
                 "verse": 1,
-                "text": "I am a lily from the valleys."
+                "text": "I am a lily from the valleys.",
+                "isContinuation": true
               }
             ]
           ]
@@ -455,13 +477,15 @@
             [
               {
                 "verse": 2,
-                "text": "my dear friend is like a lily"
+                "text": "my dear friend is like a lily",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 2,
-                "text": "that grows among thorn bushes."
+                "text": "that grows among thorn bushes.",
+                "isContinuation": true
               }
             ]
           ]
@@ -478,25 +502,29 @@
             [
               {
                 "verse": 3,
-                "text": "my lover is like an apple tree"
+                "text": "my lover is like an apple tree",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 3,
-                "text": "that grows among the trees of the forest."
+                "text": "that grows among the trees of the forest.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 3,
-                "text": "I love to sit in his shade."
+                "text": "I love to sit in his shade.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 3,
-                "text": "His fruit is sweet when I taste it."
+                "text": "His fruit is sweet when I taste it.",
+                "isContinuation": true
               }
             ],
             [
@@ -508,7 +536,8 @@
             [
               {
                 "verse": 4,
-                "text": "Everyone can see that he loves me."
+                "text": "Everyone can see that he loves me.",
+                "isContinuation": true
               }
             ],
             [
@@ -520,19 +549,15 @@
             [
               {
                 "verse": 5,
-                "text": "So give me raisins to make me strong."
+                "text": "So give me raisins to make me strong.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 5,
-                "text": "Give me apples to keep me awake."
-              }
-            ],
-            [
-              {
-                "verse": 5,
-                "text": "6 His left hand is under my head.His right hand brings me near to him. 7 Promise this to me, young women of Jerusalem:Do not cause our love to wake up.Do not cause it to become too stronguntil the time is right.The gazelles and the wild deer will know about your promise.The young man comes to the young woman 8 Listen! I hear the voice of my lover!Look! He is coming!He moves quickly across the mountains.He runs across the hills. 9 My lover is like a gazelle or a young male deer.Look! There he is!He is standing behind our wall.He is looking through the window.He wants to see into the room. 10 My lover said this to me:‘My beautiful friend, I love you.Get up now and come with me. 11 Look! The winter time has finished.The heavy rains have stopped. 12 Flowers are appearing everywhere.It is now the season to sing happy songs.We can hear the voices of doves around us. 13 New fruit is growing on the fig trees.There are flowers on the vines,and their sweet smell is in the air.I love you, my beautiful friend.Please get up now and come with me!’The young man: 14 My dear friend, you are like a dove that is hiding among the rocks.You hide from me in the mountains.Show your face to mebecause it is lovely.Let me hear your voicebecause it has a sweet sound. 15 Catch the foxes for us!Our vines now have flowersand they will soon give us fruit.So catch the little foxes before they destroy our vineyards.2:15The young woman: 16 My lover belongs to me,and I belong to him.He moves among the lilies with his sheep. 17 Turn back to me, my lover.Stay until dawn comes and the shadows have gone,Be like a gazelle or a young male deerthat plays among the mountains' rocks."
+                "text": "Give me apples to keep me awake.",
+                "isContinuation": true
               }
             ],
             [
@@ -544,13 +569,8 @@
             [
               {
                 "verse": 6,
-                "text": "His right hand brings me near to him."
-              }
-            ],
-            [
-              {
-                "verse": 6,
-                "text": "7 Promise this to me, young women of Jerusalem:Do not cause our love to wake up.Do not cause it to become too stronguntil the time is right.The gazelles and the wild deer will know about your promise.The young man comes to the young woman 8 Listen! I hear the voice of my lover!Look! He is coming!He moves quickly across the mountains.He runs across the hills. 9 My lover is like a gazelle or a young male deer.Look! There he is!He is standing behind our wall.He is looking through the window.He wants to see into the room. 10 My lover said this to me:‘My beautiful friend, I love you.Get up now and come with me. 11 Look! The winter time has finished.The heavy rains have stopped. 12 Flowers are appearing everywhere.It is now the season to sing happy songs.We can hear the voices of doves around us. 13 New fruit is growing on the fig trees.There are flowers on the vines,and their sweet smell is in the air.I love you, my beautiful friend.Please get up now and come with me!’The young man: 14 My dear friend, you are like a dove that is hiding among the rocks.You hide from me in the mountains.Show your face to mebecause it is lovely.Let me hear your voicebecause it has a sweet sound. 15 Catch the foxes for us!Our vines now have flowersand they will soon give us fruit.So catch the little foxes before they destroy our vineyards.2:15The young woman: 16 My lover belongs to me,and I belong to him.He moves among the lilies with his sheep. 17 Turn back to me, my lover.Stay until dawn comes and the shadows have gone,Be like a gazelle or a young male deerthat plays among the mountains' rocks."
+                "text": "His right hand brings me near to him.",
+                "isContinuation": true
               }
             ],
             [
@@ -562,25 +582,29 @@
             [
               {
                 "verse": 7,
-                "text": "Do not cause our love to wake up."
+                "text": "Do not cause our love to wake up.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 7,
-                "text": "Do not cause it to become too strong"
+                "text": "Do not cause it to become too strong",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 7,
-                "text": "until the time is right."
+                "text": "until the time is right.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 7,
-                "text": "The gazelles and the wild deer will know about your promise."
+                "text": "The gazelles and the wild deer will know about your promise.",
+                "isContinuation": true
               }
             ]
           ]
@@ -597,19 +621,22 @@
             [
               {
                 "verse": 8,
-                "text": "Look! He is coming!"
+                "text": "Look! He is coming!",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 8,
-                "text": "He moves quickly across the mountains."
+                "text": "He moves quickly across the mountains.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 8,
-                "text": "He runs across the hills."
+                "text": "He runs across the hills.",
+                "isContinuation": true
               }
             ],
             [
@@ -621,25 +648,29 @@
             [
               {
                 "verse": 9,
-                "text": "Look! There he is!"
+                "text": "Look! There he is!",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 9,
-                "text": "He is standing behind our wall."
+                "text": "He is standing behind our wall.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 9,
-                "text": "He is looking through the window."
+                "text": "He is looking through the window.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 9,
-                "text": "He wants to see into the room."
+                "text": "He wants to see into the room.",
+                "isContinuation": true
               }
             ],
             [
@@ -651,13 +682,15 @@
             [
               {
                 "verse": 10,
-                "text": "‘My beautiful friend, I love you."
+                "text": "‘My beautiful friend, I love you.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 10,
-                "text": "Get up now and come with me."
+                "text": "Get up now and come with me.",
+                "isContinuation": true
               }
             ],
             [
@@ -669,7 +702,8 @@
             [
               {
                 "verse": 11,
-                "text": "The heavy rains have stopped."
+                "text": "The heavy rains have stopped.",
+                "isContinuation": true
               }
             ],
             [
@@ -681,13 +715,15 @@
             [
               {
                 "verse": 12,
-                "text": "It is now the season to sing happy songs."
+                "text": "It is now the season to sing happy songs.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 12,
-                "text": "We can hear the voices of doves around us."
+                "text": "We can hear the voices of doves around us.",
+                "isContinuation": true
               }
             ],
             [
@@ -699,25 +735,29 @@
             [
               {
                 "verse": 13,
-                "text": "There are flowers on the vines,"
+                "text": "There are flowers on the vines,",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 13,
-                "text": "and their sweet smell is in the air."
+                "text": "and their sweet smell is in the air.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 13,
-                "text": "I love you, my beautiful friend."
+                "text": "I love you, my beautiful friend.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 13,
-                "text": "Please get up now and come with me!’"
+                "text": "Please get up now and come with me!’",
+                "isContinuation": true
               }
             ]
           ]
@@ -734,37 +774,36 @@
             [
               {
                 "verse": 14,
-                "text": "You hide from me in the mountains."
+                "text": "You hide from me in the mountains.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 14,
-                "text": "Show your face to me"
+                "text": "Show your face to me",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 14,
-                "text": "because it is lovely."
+                "text": "because it is lovely.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 14,
-                "text": "Let me hear your voice"
+                "text": "Let me hear your voice",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 14,
-                "text": "because it has a sweet sound."
-              }
-            ],
-            [
-              {
-                "verse": 14,
-                "text": "15 Catch the foxes for us!Our vines now have flowersand they will soon give us fruit.So catch the little foxes before they destroy our vineyards.2:15The young woman: 16 My lover belongs to me,and I belong to him.He moves among the lilies with his sheep. 17 Turn back to me, my lover.Stay until dawn comes and the shadows have gone,Be like a gazelle or a young male deerthat plays among the mountains' rocks."
+                "text": "because it has a sweet sound.",
+                "isContinuation": true
               }
             ],
             [
@@ -776,19 +815,22 @@
             [
               {
                 "verse": 15,
-                "text": "Our vines now have flowers"
+                "text": "Our vines now have flowers",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 15,
-                "text": "and they will soon give us fruit."
+                "text": "and they will soon give us fruit.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 15,
-                "text": "So catch the little foxes before they destroy our vineyards."
+                "text": "So catch the little foxes before they destroy our vineyards.",
+                "isContinuation": true
               }
             ]
           ]
@@ -805,13 +847,15 @@
             [
               {
                 "verse": 16,
-                "text": "and I belong to him."
+                "text": "and I belong to him.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 16,
-                "text": "He moves among the lilies with his sheep."
+                "text": "He moves among the lilies with his sheep.",
+                "isContinuation": true
               }
             ],
             [
@@ -823,19 +867,22 @@
             [
               {
                 "verse": 17,
-                "text": "Stay until dawn comes and the shadows have gone,"
+                "text": "Stay until dawn comes and the shadows have gone,",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 17,
-                "text": "Be like a gazelle or a young male deer"
+                "text": "Be like a gazelle or a young male deer",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 17,
-                "text": "that plays among the mountains' rocks."
+                "text": "that plays among the mountains' rocks.",
+                "isContinuation": true
               }
             ]
           ]
@@ -868,13 +915,15 @@
             [
               {
                 "verse": 1,
-                "text": "I wanted my lover to come to me."
+                "text": "I wanted my lover to come to me.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 1,
-                "text": "I looked for him but he did not appear."
+                "text": "I looked for him but he did not appear.",
+                "isContinuation": true
               }
             ],
             [
@@ -886,31 +935,36 @@
             [
               {
                 "verse": 2,
-                "text": "I will look everywhere for my lover."
+                "text": "I will look everywhere for my lover.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 2,
-                "text": "I will look in all the streets."
+                "text": "I will look in all the streets.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 2,
-                "text": "I will look in all the market places.’"
+                "text": "I will look in all the market places.’",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 2,
-                "text": "So I looked for him,"
+                "text": "So I looked for him,",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 2,
-                "text": "but I did not find him."
+                "text": "but I did not find him.",
+                "isContinuation": true
               }
             ],
             [
@@ -922,19 +976,22 @@
             [
               {
                 "verse": 3,
-                "text": "as they walked in the streets of the city."
+                "text": "as they walked in the streets of the city.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 3,
-                "text": "I asked them,"
+                "text": "I asked them,",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 3,
-                "text": "‘Have you seen the man that I love?’"
+                "text": "‘Have you seen the man that I love?’",
+                "isContinuation": true
               }
             ],
             [
@@ -946,31 +1003,29 @@
             [
               {
                 "verse": 4,
-                "text": "I hugged him and I would not let him go."
+                "text": "I hugged him and I would not let him go.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 4,
-                "text": "I took him to my mother's house."
+                "text": "I took him to my mother's house.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 4,
-                "text": "I took him into my mother's bedroom."
+                "text": "I took him into my mother's bedroom.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 4,
-                "text": "That is where my life started, inside my mother's body."
-              }
-            ],
-            [
-              {
-                "verse": 4,
-                "text": "5 Promise this to me, young women of Jerusalem:Do not cause our love to wake up.Do not cause it to become too stronguntil the time is right.The gazelles and the wild deer will know about your promise.A royal wedding 6 Who is this who is coming from the desert?3:6It seems that smoke is rising into the air!There is a lovely smell of myrrh and incense.3:6It is the smell of all the spices that a trader sells. 7 Look! They are carrying King Solomon on a throne!3:760 soldiers are travelling with it.They are Israel's bravest soldiers. 8 All of them have swords.They all know how to fight well.Their swords are ready for them to use.They are ready for any danger that comes in the night. 9 King Solomon made the throne for himself.He used wood from Lebanon to make it.3:9 10 He used silver to make the posts for it.He used gold to make its back.Its seat has valuable purple cloth to cover it.The young women of Jerusalem made it beautiful inside,to show their love. 11 Young women of Zion,come out to see King Solomon!3:11He is wearing his crown.His mother put the crown on him on his wedding day.It was the happiest day of his life!"
+                "text": "That is where my life started, inside my mother's body.",
+                "isContinuation": true
               }
             ],
             [
@@ -982,25 +1037,29 @@
             [
               {
                 "verse": 5,
-                "text": "Do not cause our love to wake up."
+                "text": "Do not cause our love to wake up.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 5,
-                "text": "Do not cause it to become too strong"
+                "text": "Do not cause it to become too strong",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 5,
-                "text": "until the time is right."
+                "text": "until the time is right.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 5,
-                "text": "The gazelles and the wild deer will know about your promise."
+                "text": "The gazelles and the wild deer will know about your promise.",
+                "isContinuation": true
               }
             ]
           ]
@@ -1017,19 +1076,22 @@
             [
               {
                 "verse": 6,
-                "text": "It seems that smoke is rising into the air!"
+                "text": "It seems that smoke is rising into the air!",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 6,
-                "text": "There is a lovely smell of myrrh and incense."
+                "text": "There is a lovely smell of myrrh and incense.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 6,
-                "text": "It is the smell of all the spices that a trader sells."
+                "text": "It is the smell of all the spices that a trader sells.",
+                "isContinuation": true
               }
             ],
             [
@@ -1041,13 +1103,15 @@
             [
               {
                 "verse": 7,
-                "text": "60 soldiers are travelling with it."
+                "text": "60 soldiers are travelling with it.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 7,
-                "text": "They are Israel's bravest soldiers."
+                "text": "They are Israel's bravest soldiers.",
+                "isContinuation": true
               }
             ],
             [
@@ -1059,19 +1123,22 @@
             [
               {
                 "verse": 8,
-                "text": "They all know how to fight well."
+                "text": "They all know how to fight well.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 8,
-                "text": "Their swords are ready for them to use."
+                "text": "Their swords are ready for them to use.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 8,
-                "text": "They are ready for any danger that comes in the night."
+                "text": "They are ready for any danger that comes in the night.",
+                "isContinuation": true
               }
             ],
             [
@@ -1083,7 +1150,8 @@
             [
               {
                 "verse": 9,
-                "text": "He used wood from Lebanon to make it."
+                "text": "He used wood from Lebanon to make it.",
+                "isContinuation": true
               }
             ],
             [
@@ -1095,25 +1163,29 @@
             [
               {
                 "verse": 10,
-                "text": "He used gold to make its back."
+                "text": "He used gold to make its back.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 10,
-                "text": "Its seat has valuable purple cloth to cover it."
+                "text": "Its seat has valuable purple cloth to cover it.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 10,
-                "text": "The young women of Jerusalem made it beautiful inside,"
+                "text": "The young women of Jerusalem made it beautiful inside,",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 10,
-                "text": "to show their love."
+                "text": "to show their love.",
+                "isContinuation": true
               }
             ],
             [
@@ -1125,25 +1197,29 @@
             [
               {
                 "verse": 11,
-                "text": "come out to see King Solomon!"
+                "text": "come out to see King Solomon!",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 11,
-                "text": "He is wearing his crown."
+                "text": "He is wearing his crown.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 11,
-                "text": "His mother put the crown on him on his wedding day."
+                "text": "His mother put the crown on him on his wedding day.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 11,
-                "text": "It was the happiest day of his life!"
+                "text": "It was the happiest day of his life!",
+                "isContinuation": true
               }
             ]
           ]
@@ -1177,25 +1253,29 @@
             [
               {
                 "verse": 1,
-                "text": "Yes, you are very beautiful!"
+                "text": "Yes, you are very beautiful!",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 1,
-                "text": "Your eyes behind your veil are like doves."
+                "text": "Your eyes behind your veil are like doves.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 1,
-                "text": "Your hair is like a group of goats"
+                "text": "Your hair is like a group of goats",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 1,
-                "text": "that are coming down from Mount Gilead."
+                "text": "that are coming down from Mount Gilead.",
+                "isContinuation": true
               }
             ],
             [
@@ -1207,25 +1287,29 @@
             [
               {
                 "verse": 2,
-                "text": "They are like sheep after someone has cut off their dirty wool"
+                "text": "They are like sheep after someone has cut off their dirty wool",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 2,
-                "text": "and they are coming from the pool of water."
+                "text": "and they are coming from the pool of water.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 2,
-                "text": "Each tooth is one of a pair."
+                "text": "Each tooth is one of a pair.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 2,
-                "text": "Not one of them is alone."
+                "text": "Not one of them is alone.",
+                "isContinuation": true
               }
             ],
             [
@@ -1237,25 +1321,29 @@
             [
               {
                 "verse": 3,
-                "text": "Your mouth is lovely."
+                "text": "Your mouth is lovely.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 3,
-                "text": "The sides of your face are beautiful,"
+                "text": "The sides of your face are beautiful,",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 3,
-                "text": "like the halves of a pomegranate."
+                "text": "like the halves of a pomegranate.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 3,
-                "text": "I see them through your veil."
+                "text": "I see them through your veil.",
+                "isContinuation": true
               }
             ],
             [
@@ -1267,19 +1355,22 @@
             [
               {
                 "verse": 4,
-                "text": "It is round and strong."
+                "text": "It is round and strong.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 4,
-                "text": "Your necklace is like the shields of 1,000 brave soldiers"
+                "text": "Your necklace is like the shields of 1,000 brave soldiers",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 4,
-                "text": "that hang from the stones of the tower."
+                "text": "that hang from the stones of the tower.",
+                "isContinuation": true
               }
             ],
             [
@@ -1291,13 +1382,15 @@
             [
               {
                 "verse": 5,
-                "text": "like two young gazelles that are twins."
+                "text": "like two young gazelles that are twins.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 5,
-                "text": "They feed themselves among the lilies."
+                "text": "They feed themselves among the lilies.",
+                "isContinuation": true
               }
             ],
             [
@@ -1309,19 +1402,22 @@
             [
               {
                 "verse": 6,
-                "text": "and the hill of frankincense."
+                "text": "and the hill of frankincense.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 6,
-                "text": "I will stay among them until the dawn comes"
+                "text": "I will stay among them until the dawn comes",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 6,
-                "text": "and the shadows go away."
+                "text": "and the shadows go away.",
+                "isContinuation": true
               }
             ],
             [
@@ -1333,13 +1429,8 @@
             [
               {
                 "verse": 7,
-                "text": "Your body is perfect in every way."
-              }
-            ],
-            [
-              {
-                "verse": 7,
-                "text": "8 Come with me from Lebanon, my bride.Yes, come with me from Lebanon.Come down from the top of Amana, from the top of Senir.Come down from the highest part of Hermon.4:8Come away from those mountains where lions live,and where there are leopards. 9 I love you so much that I never want to leave you,my sister and my bride.4:9When you looked at me only onceand I saw one jewel in your necklace,I knew that I could never leave you. 10 Your love for me is wonderful,my sister and my bride.I enjoy your love even more than I enjoy wine.Your perfume has a smellthat is more lovely than any spice! 11 Your lips taste very sweet to me, my bride.They taste like honey that falls from the honeycomb.4:11Milk and honey are under your tongue.The smell of your clothesis like the cedar trees of Lebanon. 12 My sister and my bride, you are like a garden for methat is locked to other men.You are like a spring or a fountainthat other people may not drink water from. 13 Your body is like a special garden.It is full of pomegranate trees with their sweet fruit.There are wonderful fruits to enjoy.There are also henna and nard. 14 There are nard, saffron, calamus, cinnamonand many different spices.There are myrrh, aloesand all the best spices.4:14 15 You are like a spring of water in a garden.You are like a well that has fresh water.The water runs down from Lebanon's mountains.The young woman: 16 Wake up, north wind! Come now, south wind!Blow on my garden!Make the sweet smell of its spices move in the air.May my lover come into his garden now!Let him taste its wonderful fruits!"
+                "text": "Your body is perfect in every way.",
+                "isContinuation": true
               }
             ],
             [
@@ -1351,31 +1442,36 @@
             [
               {
                 "verse": 8,
-                "text": "Yes, come with me from Lebanon."
+                "text": "Yes, come with me from Lebanon.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 8,
-                "text": "Come down from the top of Amana, from the top of Senir."
+                "text": "Come down from the top of Amana, from the top of Senir.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 8,
-                "text": "Come down from the highest part of Hermon."
+                "text": "Come down from the highest part of Hermon.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 8,
-                "text": "Come away from those mountains where lions live,"
+                "text": "Come away from those mountains where lions live,",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 8,
-                "text": "and where there are leopards."
+                "text": "and where there are leopards.",
+                "isContinuation": true
               }
             ],
             [
@@ -1387,25 +1483,29 @@
             [
               {
                 "verse": 9,
-                "text": "my sister and my bride."
+                "text": "my sister and my bride.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 9,
-                "text": "When you looked at me only once"
+                "text": "When you looked at me only once",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 9,
-                "text": "and I saw one jewel in your necklace,"
+                "text": "and I saw one jewel in your necklace,",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 9,
-                "text": "I knew that I could never leave you."
+                "text": "I knew that I could never leave you.",
+                "isContinuation": true
               }
             ],
             [
@@ -1417,25 +1517,29 @@
             [
               {
                 "verse": 10,
-                "text": "my sister and my bride."
+                "text": "my sister and my bride.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 10,
-                "text": "I enjoy your love even more than I enjoy wine."
+                "text": "I enjoy your love even more than I enjoy wine.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 10,
-                "text": "Your perfume has a smell"
+                "text": "Your perfume has a smell",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 10,
-                "text": "that is more lovely than any spice!"
+                "text": "that is more lovely than any spice!",
+                "isContinuation": true
               }
             ],
             [
@@ -1447,25 +1551,29 @@
             [
               {
                 "verse": 11,
-                "text": "They taste like honey that falls from the honeycomb."
+                "text": "They taste like honey that falls from the honeycomb.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 11,
-                "text": "Milk and honey are under your tongue."
+                "text": "Milk and honey are under your tongue.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 11,
-                "text": "The smell of your clothes"
+                "text": "The smell of your clothes",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 11,
-                "text": "is like the cedar trees of Lebanon."
+                "text": "is like the cedar trees of Lebanon.",
+                "isContinuation": true
               }
             ],
             [
@@ -1477,19 +1585,22 @@
             [
               {
                 "verse": 12,
-                "text": "that is locked to other men."
+                "text": "that is locked to other men.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 12,
-                "text": "You are like a spring or a fountain"
+                "text": "You are like a spring or a fountain",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 12,
-                "text": "that other people may not drink water from."
+                "text": "that other people may not drink water from.",
+                "isContinuation": true
               }
             ],
             [
@@ -1501,19 +1612,22 @@
             [
               {
                 "verse": 13,
-                "text": "It is full of pomegranate trees with their sweet fruit."
+                "text": "It is full of pomegranate trees with their sweet fruit.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 13,
-                "text": "There are wonderful fruits to enjoy."
+                "text": "There are wonderful fruits to enjoy.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 13,
-                "text": "There are also henna and nard."
+                "text": "There are also henna and nard.",
+                "isContinuation": true
               }
             ],
             [
@@ -1525,19 +1639,22 @@
             [
               {
                 "verse": 14,
-                "text": "and many different spices."
+                "text": "and many different spices.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 14,
-                "text": "There are myrrh, aloes"
+                "text": "There are myrrh, aloes",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 14,
-                "text": "and all the best spices."
+                "text": "and all the best spices.",
+                "isContinuation": true
               }
             ],
             [
@@ -1549,13 +1666,15 @@
             [
               {
                 "verse": 15,
-                "text": "You are like a well that has fresh water."
+                "text": "You are like a well that has fresh water.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 15,
-                "text": "The water runs down from Lebanon's mountains."
+                "text": "The water runs down from Lebanon's mountains.",
+                "isContinuation": true
               }
             ]
           ]
@@ -1572,25 +1691,29 @@
             [
               {
                 "verse": 16,
-                "text": "Blow on my garden!"
+                "text": "Blow on my garden!",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 16,
-                "text": "Make the sweet smell of its spices move in the air."
+                "text": "Make the sweet smell of its spices move in the air.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 16,
-                "text": "May my lover come into his garden now!"
+                "text": "May my lover come into his garden now!",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 16,
-                "text": "Let him taste its wonderful fruits!"
+                "text": "Let him taste its wonderful fruits!",
+                "isContinuation": true
               }
             ]
           ]
@@ -1624,19 +1747,22 @@
             [
               {
                 "verse": 1,
-                "text": "I have taken my myrrh with my spice."
+                "text": "I have taken my myrrh with my spice.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 1,
-                "text": "I have eaten my honeycomb and my honey."
+                "text": "I have eaten my honeycomb and my honey.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 1,
-                "text": "I have drunk my wine and my milk."
+                "text": "I have drunk my wine and my milk.",
+                "isContinuation": true
               }
             ]
           ]
@@ -1647,13 +1773,15 @@
             [
               {
                 "verse": 1,
-                "text": "Eat, friends, and drink, you who love each other!"
+                "text": "Eat, friends, and drink, you who love each other!",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 1,
-                "text": "Drink until you can drink no more!"
+                "text": "Drink until you can drink no more!",
+                "isContinuation": true
               }
             ]
           ]
@@ -1670,55 +1798,50 @@
             [
               {
                 "verse": 2,
-                "text": "Listen! My lover is knocking on my door!"
+                "text": "Listen! My lover is knocking on my door!",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 2,
-                "text": "He said, ‘Open the door for me, my dear friend.You are my sister,the perfect one that I love.To me, you are like a beautiful dove. Dew from the night air covers my head.My hair is very wet.’ 3 I said, ‘I have taken off my day clothes.I do not want to dress myself again.I have washed my feet.I do not want them to get dirty again.’ 4 My lover pushed his hand through the hole in the door.My heart began to beat faster because he was near. 5 I got up to open the door for my lover.My hands were wet with myrrh.Myrrh dropped from my fingersonto the handle of the door. 6 I opened the door for my lover,but he had already turned away.He had gone!I was very upset that he had gone away.I looked for him but I did not find him.I called to him but he did not answer me. 7 The city guards found meas they walked in the streets of the city.They beat me and they hurt my body.Those guards on the city walls took away my robe. 8 Young women of Jerusalem,please find my lover!Promise me to tell him this, if you find him.Tell him that my love for him has made me weak!The young women of Jerusalem: 9 Tell us this, most beautiful of all women.Why do you think that your lover is better than other men?Why must we promise to do this for you?The young woman: 10 My lover is very handsome and healthy.He is the greatest man among 10,000 men. 11 His head is like very pure gold.The hairs on his head are like waves.They are black like a raven. 12 His eyes are like doves beside streams of water.They are like doves that someone has washed in milk.They shine like jewels. 13 The sides of his face are like a garden with spice trees.Their smell is like perfume.His lips are like lilieswith myrrh that falls from them. 14 His arms are like bars of goldwith jewels in them.His body shines like bright ivory,with sapphire jewels to make it more beautiful. 15 His legs are like pillars of beautiful stone.They stand on feet that are like pure gold.He stands tall like the mountains of Lebanon.He is as handsome as its best cedar trees. 16 The taste of his mouth is very sweet.Everything about him causes me to love him.I say to you, young women of Jerusalem,this is my lover!This is my true friend."
+                "text": "He said, ‘Open the door for me, my dear friend.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 2,
-                "text": "He said, ‘Open the door for me, my dear friend."
+                "text": "You are my sister,",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 2,
-                "text": "You are my sister,"
+                "text": "the perfect one that I love.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 2,
-                "text": "the perfect one that I love."
+                "text": "To me, you are like a beautiful dove.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 2,
-                "text": "To me, you are like a beautiful dove."
+                "text": "Dew from the night air covers my head.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 2,
-                "text": "Dew from the night air covers my head."
-              }
-            ],
-            [
-              {
-                "verse": 2,
-                "text": "My hair is very wet.’"
-              }
-            ],
-            [
-              {
-                "verse": 2,
-                "text": "3 I said, ‘I have taken off my day clothes.I do not want to dress myself again.I have washed my feet.I do not want them to get dirty again.’ 4 My lover pushed his hand through the hole in the door.My heart began to beat faster because he was near. 5 I got up to open the door for my lover.My hands were wet with myrrh.Myrrh dropped from my fingersonto the handle of the door. 6 I opened the door for my lover,but he had already turned away.He had gone!I was very upset that he had gone away.I looked for him but I did not find him.I called to him but he did not answer me. 7 The city guards found meas they walked in the streets of the city.They beat me and they hurt my body.Those guards on the city walls took away my robe. 8 Young women of Jerusalem,please find my lover!Promise me to tell him this, if you find him.Tell him that my love for him has made me weak!The young women of Jerusalem: 9 Tell us this, most beautiful of all women.Why do you think that your lover is better than other men?Why must we promise to do this for you?The young woman: 10 My lover is very handsome and healthy.He is the greatest man among 10,000 men. 11 His head is like very pure gold.The hairs on his head are like waves.They are black like a raven. 12 His eyes are like doves beside streams of water.They are like doves that someone has washed in milk.They shine like jewels. 13 The sides of his face are like a garden with spice trees.Their smell is like perfume.His lips are like lilieswith myrrh that falls from them. 14 His arms are like bars of goldwith jewels in them.His body shines like bright ivory,with sapphire jewels to make it more beautiful. 15 His legs are like pillars of beautiful stone.They stand on feet that are like pure gold.He stands tall like the mountains of Lebanon.He is as handsome as its best cedar trees. 16 The taste of his mouth is very sweet.Everything about him causes me to love him.I say to you, young women of Jerusalem,this is my lover!This is my true friend."
+                "text": "My hair is very wet.’",
+                "isContinuation": true
               }
             ],
             [
@@ -1730,25 +1853,22 @@
             [
               {
                 "verse": 3,
-                "text": "I do not want to dress myself again."
+                "text": "I do not want to dress myself again.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 3,
-                "text": "I have washed my feet."
+                "text": "I have washed my feet.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 3,
-                "text": "I do not want them to get dirty again.’"
-              }
-            ],
-            [
-              {
-                "verse": 3,
-                "text": "4 My lover pushed his hand through the hole in the door.My heart began to beat faster because he was near. 5 I got up to open the door for my lover.My hands were wet with myrrh.Myrrh dropped from my fingersonto the handle of the door. 6 I opened the door for my lover,but he had already turned away.He had gone!I was very upset that he had gone away.I looked for him but I did not find him.I called to him but he did not answer me. 7 The city guards found meas they walked in the streets of the city.They beat me and they hurt my body.Those guards on the city walls took away my robe. 8 Young women of Jerusalem,please find my lover!Promise me to tell him this, if you find him.Tell him that my love for him has made me weak!The young women of Jerusalem: 9 Tell us this, most beautiful of all women.Why do you think that your lover is better than other men?Why must we promise to do this for you?The young woman: 10 My lover is very handsome and healthy.He is the greatest man among 10,000 men. 11 His head is like very pure gold.The hairs on his head are like waves.They are black like a raven. 12 His eyes are like doves beside streams of water.They are like doves that someone has washed in milk.They shine like jewels. 13 The sides of his face are like a garden with spice trees.Their smell is like perfume.His lips are like lilieswith myrrh that falls from them. 14 His arms are like bars of goldwith jewels in them.His body shines like bright ivory,with sapphire jewels to make it more beautiful. 15 His legs are like pillars of beautiful stone.They stand on feet that are like pure gold.He stands tall like the mountains of Lebanon.He is as handsome as its best cedar trees. 16 The taste of his mouth is very sweet.Everything about him causes me to love him.I say to you, young women of Jerusalem,this is my lover!This is my true friend."
+                "text": "I do not want them to get dirty again.’",
+                "isContinuation": true
               }
             ],
             [
@@ -1760,7 +1880,8 @@
             [
               {
                 "verse": 4,
-                "text": "My heart began to beat faster because he was near."
+                "text": "My heart began to beat faster because he was near.",
+                "isContinuation": true
               }
             ],
             [
@@ -1772,19 +1893,22 @@
             [
               {
                 "verse": 5,
-                "text": "My hands were wet with myrrh."
+                "text": "My hands were wet with myrrh.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 5,
-                "text": "Myrrh dropped from my fingers"
+                "text": "Myrrh dropped from my fingers",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 5,
-                "text": "onto the handle of the door."
+                "text": "onto the handle of the door.",
+                "isContinuation": true
               }
             ],
             [
@@ -1796,31 +1920,36 @@
             [
               {
                 "verse": 6,
-                "text": "but he had already turned away."
+                "text": "but he had already turned away.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 6,
-                "text": "He had gone!"
+                "text": "He had gone!",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 6,
-                "text": "I was very upset that he had gone away."
+                "text": "I was very upset that he had gone away.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 6,
-                "text": "I looked for him but I did not find him."
+                "text": "I looked for him but I did not find him.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 6,
-                "text": "I called to him but he did not answer me."
+                "text": "I called to him but he did not answer me.",
+                "isContinuation": true
               }
             ],
             [
@@ -1832,25 +1961,22 @@
             [
               {
                 "verse": 7,
-                "text": "as they walked in the streets of the city."
+                "text": "as they walked in the streets of the city.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 7,
-                "text": "They beat me and they hurt my body."
+                "text": "They beat me and they hurt my body.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 7,
-                "text": "Those guards on the city walls took away my robe."
-              }
-            ],
-            [
-              {
-                "verse": 7,
-                "text": "8 Young women of Jerusalem,please find my lover!Promise me to tell him this, if you find him.Tell him that my love for him has made me weak!The young women of Jerusalem: 9 Tell us this, most beautiful of all women.Why do you think that your lover is better than other men?Why must we promise to do this for you?The young woman: 10 My lover is very handsome and healthy.He is the greatest man among 10,000 men. 11 His head is like very pure gold.The hairs on his head are like waves.They are black like a raven. 12 His eyes are like doves beside streams of water.They are like doves that someone has washed in milk.They shine like jewels. 13 The sides of his face are like a garden with spice trees.Their smell is like perfume.His lips are like lilieswith myrrh that falls from them. 14 His arms are like bars of goldwith jewels in them.His body shines like bright ivory,with sapphire jewels to make it more beautiful. 15 His legs are like pillars of beautiful stone.They stand on feet that are like pure gold.He stands tall like the mountains of Lebanon.He is as handsome as its best cedar trees. 16 The taste of his mouth is very sweet.Everything about him causes me to love him.I say to you, young women of Jerusalem,this is my lover!This is my true friend."
+                "text": "Those guards on the city walls took away my robe.",
+                "isContinuation": true
               }
             ],
             [
@@ -1862,19 +1988,22 @@
             [
               {
                 "verse": 8,
-                "text": "please find my lover!"
+                "text": "please find my lover!",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 8,
-                "text": "Promise me to tell him this, if you find him."
+                "text": "Promise me to tell him this, if you find him.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 8,
-                "text": "Tell him that my love for him has made me weak!"
+                "text": "Tell him that my love for him has made me weak!",
+                "isContinuation": true
               }
             ]
           ]
@@ -1891,13 +2020,15 @@
             [
               {
                 "verse": 9,
-                "text": "Why do you think that your lover is better than other men?"
+                "text": "Why do you think that your lover is better than other men?",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 9,
-                "text": "Why must we promise to do this for you?"
+                "text": "Why must we promise to do this for you?",
+                "isContinuation": true
               }
             ]
           ]
@@ -1914,7 +2045,8 @@
             [
               {
                 "verse": 10,
-                "text": "He is the greatest man among 10,000 men."
+                "text": "He is the greatest man among 10,000 men.",
+                "isContinuation": true
               }
             ],
             [
@@ -1926,13 +2058,15 @@
             [
               {
                 "verse": 11,
-                "text": "The hairs on his head are like waves."
+                "text": "The hairs on his head are like waves.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 11,
-                "text": "They are black like a raven."
+                "text": "They are black like a raven.",
+                "isContinuation": true
               }
             ],
             [
@@ -1944,13 +2078,15 @@
             [
               {
                 "verse": 12,
-                "text": "They are like doves that someone has washed in milk."
+                "text": "They are like doves that someone has washed in milk.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 12,
-                "text": "They shine like jewels."
+                "text": "They shine like jewels.",
+                "isContinuation": true
               }
             ],
             [
@@ -1962,19 +2098,22 @@
             [
               {
                 "verse": 13,
-                "text": "Their smell is like perfume."
+                "text": "Their smell is like perfume.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 13,
-                "text": "His lips are like lilies"
+                "text": "His lips are like lilies",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 13,
-                "text": "with myrrh that falls from them."
+                "text": "with myrrh that falls from them.",
+                "isContinuation": true
               }
             ],
             [
@@ -1986,19 +2125,22 @@
             [
               {
                 "verse": 14,
-                "text": "with jewels in them."
+                "text": "with jewels in them.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 14,
-                "text": "His body shines like bright ivory,"
+                "text": "His body shines like bright ivory,",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 14,
-                "text": "with sapphire jewels to make it more beautiful."
+                "text": "with sapphire jewels to make it more beautiful.",
+                "isContinuation": true
               }
             ],
             [
@@ -2010,19 +2152,22 @@
             [
               {
                 "verse": 15,
-                "text": "They stand on feet that are like pure gold."
+                "text": "They stand on feet that are like pure gold.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 15,
-                "text": "He stands tall like the mountains of Lebanon."
+                "text": "He stands tall like the mountains of Lebanon.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 15,
-                "text": "He is as handsome as its best cedar trees."
+                "text": "He is as handsome as its best cedar trees.",
+                "isContinuation": true
               }
             ],
             [
@@ -2034,31 +2179,29 @@
             [
               {
                 "verse": 16,
-                "text": "Everything about him causes me to love him."
+                "text": "Everything about him causes me to love him.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 16,
-                "text": "I say to you, young women of Jerusalem,this is my lover!This is my true friend."
+                "text": "I say to you, young women of Jerusalem,",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 16,
-                "text": "I say to you, young women of Jerusalem,"
+                "text": "this is my lover!",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 16,
-                "text": "this is my lover!"
-              }
-            ],
-            [
-              {
-                "verse": 16,
-                "text": "This is my true friend."
+                "text": "This is my true friend.",
+                "isContinuation": true
               }
             ]
           ]
@@ -2087,19 +2230,22 @@
             [
               {
                 "verse": 1,
-                "text": "Where has your lover gone?"
+                "text": "Where has your lover gone?",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 1,
-                "text": "Which way did he go?"
+                "text": "Which way did he go?",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 1,
-                "text": "Tell us, so that we can look for him with you."
+                "text": "Tell us, so that we can look for him with you.",
+                "isContinuation": true
               }
             ]
           ]
@@ -2116,25 +2262,22 @@
             [
               {
                 "verse": 2,
-                "text": "He has gone to his garden of spice trees."
+                "text": "He has gone to his garden of spice trees.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 2,
-                "text": "He has gone there to walk in the gardens"
+                "text": "He has gone there to walk in the gardens",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 2,
-                "text": "and to pick lilies."
-              }
-            ],
-            [
-              {
-                "verse": 2,
-                "text": "3 My lover belongs to me,and I belong to him.He moves among the lilies with his sheep.The young man praises the young womanThe young man: 4 My dear friend, you are as beautiful as Tirzah.You are as lovely as Jerusalem.6:4You are as wonderful as an army that is waving its flags. 5 Turn your eyes away from me.They give me pleasure that is too strong for me!Your hair is like a group of goatsthat are coming down from Mount Gilead. 6 Your teeth are very whitelike a group of clean sheep that is coming from the pool of water.Each tooth is one of a pair.Not one of them is alone. 7 The sides of your face are beautiful,like the halves of a pomegranate.I see them through your veil. 8 A king may have 60 queens.He may have 80 slave wives.He may have many other young women too.There may be too many for him to count! 9 But there is only one woman that I want.Nobody is like her in any way.She is my perfect one, as lovely as a dove.She is the special daughter of her mother.Her mother loves her best among all her children.The young women saw her and they praised her.The queens and the slave wives also praised her. 10 They said, ‘She is like the light that appears at dawn.She is as beautiful as the moon.She is as bright as the sun.She is as wonderful as the stars that shine brightly in their places.’ 11 I went down to the garden of walnut trees.6:11I wanted to see the new plants that were growing in the valley;to see if the vines had new leaves now;to see if the pomegranate trees had flowers. 12 I became so happythat I did not understand what was happening.I knew that I wanted to be with her.I felt that I was riding with the king's men in their chariots.The young women of Jerusalem: 13 Come back, come back, young woman from Shulam!Yes, come back,so that we can look at you again.The young man:Why do you want to look at the young woman from Shulam?Do not look at her as if she is dancing the dance of Mahanaim.6:13"
+                "text": "and to pick lilies.",
+                "isContinuation": true
               }
             ],
             [
@@ -2146,13 +2289,15 @@
             [
               {
                 "verse": 3,
-                "text": "and I belong to him."
+                "text": "and I belong to him.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 3,
-                "text": "He moves among the lilies with his sheep."
+                "text": "He moves among the lilies with his sheep.",
+                "isContinuation": true
               }
             ]
           ]
@@ -2169,13 +2314,15 @@
             [
               {
                 "verse": 4,
-                "text": "You are as lovely as Jerusalem."
+                "text": "You are as lovely as Jerusalem.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 4,
-                "text": "You are as wonderful as an army that is waving its flags."
+                "text": "You are as wonderful as an army that is waving its flags.",
+                "isContinuation": true
               }
             ],
             [
@@ -2187,19 +2334,22 @@
             [
               {
                 "verse": 5,
-                "text": "They give me pleasure that is too strong for me!"
+                "text": "They give me pleasure that is too strong for me!",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 5,
-                "text": "Your hair is like a group of goats"
+                "text": "Your hair is like a group of goats",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 5,
-                "text": "that are coming down from Mount Gilead."
+                "text": "that are coming down from Mount Gilead.",
+                "isContinuation": true
               }
             ],
             [
@@ -2211,19 +2361,22 @@
             [
               {
                 "verse": 6,
-                "text": "like a group of clean sheep that is coming from the pool of water."
+                "text": "like a group of clean sheep that is coming from the pool of water.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 6,
-                "text": "Each tooth is one of a pair."
+                "text": "Each tooth is one of a pair.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 6,
-                "text": "Not one of them is alone."
+                "text": "Not one of them is alone.",
+                "isContinuation": true
               }
             ],
             [
@@ -2235,19 +2388,15 @@
             [
               {
                 "verse": 7,
-                "text": "like the halves of a pomegranate."
+                "text": "like the halves of a pomegranate.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 7,
-                "text": "I see them through your veil."
-              }
-            ],
-            [
-              {
-                "verse": 7,
-                "text": "8 A king may have 60 queens.He may have 80 slave wives.He may have many other young women too.There may be too many for him to count! 9 But there is only one woman that I want.Nobody is like her in any way.She is my perfect one, as lovely as a dove.She is the special daughter of her mother.Her mother loves her best among all her children.The young women saw her and they praised her.The queens and the slave wives also praised her. 10 They said, ‘She is like the light that appears at dawn.She is as beautiful as the moon.She is as bright as the sun.She is as wonderful as the stars that shine brightly in their places.’ 11 I went down to the garden of walnut trees.6:11I wanted to see the new plants that were growing in the valley;to see if the vines had new leaves now;to see if the pomegranate trees had flowers. 12 I became so happythat I did not understand what was happening.I knew that I wanted to be with her.I felt that I was riding with the king's men in their chariots.The young women of Jerusalem: 13 Come back, come back, young woman from Shulam!Yes, come back,so that we can look at you again.The young man:Why do you want to look at the young woman from Shulam?Do not look at her as if she is dancing the dance of Mahanaim.6:13"
+                "text": "I see them through your veil.",
+                "isContinuation": true
               }
             ],
             [
@@ -2259,19 +2408,22 @@
             [
               {
                 "verse": 8,
-                "text": "He may have 80 slave wives."
+                "text": "He may have 80 slave wives.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 8,
-                "text": "He may have many other young women too."
+                "text": "He may have many other young women too.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 8,
-                "text": "There may be too many for him to count!"
+                "text": "There may be too many for him to count!",
+                "isContinuation": true
               }
             ],
             [
@@ -2283,37 +2435,43 @@
             [
               {
                 "verse": 9,
-                "text": "Nobody is like her in any way."
+                "text": "Nobody is like her in any way.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 9,
-                "text": "She is my perfect one, as lovely as a dove."
+                "text": "She is my perfect one, as lovely as a dove.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 9,
-                "text": "She is the special daughter of her mother."
+                "text": "She is the special daughter of her mother.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 9,
-                "text": "Her mother loves her best among all her children."
+                "text": "Her mother loves her best among all her children.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 9,
-                "text": "The young women saw her and they praised her."
+                "text": "The young women saw her and they praised her.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 9,
-                "text": "The queens and the slave wives also praised her."
+                "text": "The queens and the slave wives also praised her.",
+                "isContinuation": true
               }
             ],
             [
@@ -2325,25 +2483,22 @@
             [
               {
                 "verse": 10,
-                "text": "She is as beautiful as the moon."
+                "text": "She is as beautiful as the moon.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 10,
-                "text": "She is as bright as the sun."
+                "text": "She is as bright as the sun.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 10,
-                "text": "She is as wonderful as the stars that shine brightly in their places.’"
-              }
-            ],
-            [
-              {
-                "verse": 10,
-                "text": "11 I went down to the garden of walnut trees.6:11I wanted to see the new plants that were growing in the valley;to see if the vines had new leaves now;to see if the pomegranate trees had flowers. 12 I became so happythat I did not understand what was happening.I knew that I wanted to be with her.I felt that I was riding with the king's men in their chariots.The young women of Jerusalem: 13 Come back, come back, young woman from Shulam!Yes, come back,so that we can look at you again.The young man:Why do you want to look at the young woman from Shulam?Do not look at her as if she is dancing the dance of Mahanaim.6:13"
+                "text": "She is as wonderful as the stars that shine brightly in their places.’",
+                "isContinuation": true
               }
             ],
             [
@@ -2355,19 +2510,22 @@
             [
               {
                 "verse": 11,
-                "text": "I wanted to see the new plants that were growing in the valley;"
+                "text": "I wanted to see the new plants that were growing in the valley;",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 11,
-                "text": "to see if the vines had new leaves now;"
+                "text": "to see if the vines had new leaves now;",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 11,
-                "text": "to see if the pomegranate trees had flowers."
+                "text": "to see if the pomegranate trees had flowers.",
+                "isContinuation": true
               }
             ],
             [
@@ -2379,19 +2537,22 @@
             [
               {
                 "verse": 12,
-                "text": "that I did not understand what was happening."
+                "text": "that I did not understand what was happening.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 12,
-                "text": "I knew that I wanted to be with her."
+                "text": "I knew that I wanted to be with her.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 12,
-                "text": "I felt that I was riding with the king's men in their chariots."
+                "text": "I felt that I was riding with the king's men in their chariots.",
+                "isContinuation": true
               }
             ]
           ]
@@ -2408,13 +2569,15 @@
             [
               {
                 "verse": 13,
-                "text": "Yes, come back,"
+                "text": "Yes, come back,",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 13,
-                "text": "so that we can look at you again."
+                "text": "so that we can look at you again.",
+                "isContinuation": true
               }
             ]
           ]
@@ -2425,13 +2588,15 @@
             [
               {
                 "verse": 13,
-                "text": "Why do you want to look at the young woman from Shulam?"
+                "text": "Why do you want to look at the young woman from Shulam?",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 13,
-                "text": "Do not look at her as if she is dancing the dance of Mahanaim."
+                "text": "Do not look at her as if she is dancing the dance of Mahanaim.",
+                "isContinuation": true
               }
             ]
           ]
@@ -2462,19 +2627,22 @@
             [
               {
                 "verse": 1,
-                "text": "my princess!"
+                "text": "my princess!",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 1,
-                "text": "Your round hips are as beautiful as jewels"
+                "text": "Your round hips are as beautiful as jewels",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 1,
-                "text": "that a clever worker has made."
+                "text": "that a clever worker has made.",
+                "isContinuation": true
               }
             ],
             [
@@ -2486,19 +2654,22 @@
             [
               {
                 "verse": 2,
-                "text": "that is always full of good wine."
+                "text": "that is always full of good wine.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 2,
-                "text": "Your stomach is like a round heap of wheat"
+                "text": "Your stomach is like a round heap of wheat",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 2,
-                "text": "with lilies around the edge."
+                "text": "with lilies around the edge.",
+                "isContinuation": true
               }
             ],
             [
@@ -2510,7 +2681,8 @@
             [
               {
                 "verse": 3,
-                "text": "that are twins."
+                "text": "that are twins.",
+                "isContinuation": true
               }
             ],
             [
@@ -2522,25 +2694,29 @@
             [
               {
                 "verse": 4,
-                "text": "Your eyes shine like the pools in Heshbon"
+                "text": "Your eyes shine like the pools in Heshbon",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 4,
-                "text": "that are near the Bath Rabbim gate."
+                "text": "that are near the Bath Rabbim gate.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 4,
-                "text": "Your nose is like the tower of Lebanon"
+                "text": "Your nose is like the tower of Lebanon",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 4,
-                "text": "that looks towards Damascus."
+                "text": "that looks towards Damascus.",
+                "isContinuation": true
               }
             ],
             [
@@ -2552,13 +2728,15 @@
             [
               {
                 "verse": 5,
-                "text": "Your long hair hangs down like a royal cloth."
+                "text": "Your long hair hangs down like a royal cloth.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 5,
-                "text": "It is so beautiful that it can make the king its prisoner!"
+                "text": "It is so beautiful that it can make the king its prisoner!",
+                "isContinuation": true
               }
             ],
             [
@@ -2570,19 +2748,15 @@
             [
               {
                 "verse": 6,
-                "text": "and I love you."
+                "text": "and I love you.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 6,
-                "text": "You give a lot of pleasure to me."
-              }
-            ],
-            [
-              {
-                "verse": 6,
-                "text": "7 You stand like a tall palm tree.Your breasts are like bunches of fruit that hang from the tree.7:7 8 I said, ‘I will climb the palm tree.I will take hold of its fruit.’For me, your breasts are like bunches of grapes.Your breath is like the sweet smell of apples. 9 For me, your mouth has the taste of the best wine.The young woman wants to be with her loverThe young woman:May the wine pour out for my lover.May it pour over his lips and his teeth. 10 I belong to my lover,and he wants to be with me! 11 Come with me now, my lover!Let us go and walk through the fields.We can stay in the villages for the night. 12 We can get up early in the morningand go to the vineyards.We can see if the vines have started to make new leaves.We can see if their flowers have opened.We can see if the pomegranate trees have flowers.When we are thereI will give my love to you. 13 The mandrake plants send out their sweet smell.At our door, there are many good things to eat.7:13I have stored many good things that are both old and new.I have kept them all for you, my lover."
+                "text": "You give a lot of pleasure to me.",
+                "isContinuation": true
               }
             ],
             [
@@ -2594,7 +2768,8 @@
             [
               {
                 "verse": 7,
-                "text": "Your breasts are like bunches of fruit that hang from the tree."
+                "text": "Your breasts are like bunches of fruit that hang from the tree.",
+                "isContinuation": true
               }
             ],
             [
@@ -2606,19 +2781,22 @@
             [
               {
                 "verse": 8,
-                "text": "I will take hold of its fruit.’"
+                "text": "I will take hold of its fruit.’",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 8,
-                "text": "For me, your breasts are like bunches of grapes."
+                "text": "For me, your breasts are like bunches of grapes.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 8,
-                "text": "Your breath is like the sweet smell of apples."
+                "text": "Your breath is like the sweet smell of apples.",
+                "isContinuation": true
               }
             ],
             [
@@ -2635,13 +2813,15 @@
             [
               {
                 "verse": 9,
-                "text": "May the wine pour out for my lover."
+                "text": "May the wine pour out for my lover.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 9,
-                "text": "May it pour over his lips and his teeth."
+                "text": "May it pour over his lips and his teeth.",
+                "isContinuation": true
               }
             ],
             [
@@ -2653,13 +2833,8 @@
             [
               {
                 "verse": 10,
-                "text": "and he wants to be with me!"
-              }
-            ],
-            [
-              {
-                "verse": 10,
-                "text": "11 Come with me now, my lover!Let us go and walk through the fields.We can stay in the villages for the night. 12 We can get up early in the morningand go to the vineyards.We can see if the vines have started to make new leaves.We can see if their flowers have opened.We can see if the pomegranate trees have flowers.When we are thereI will give my love to you. 13 The mandrake plants send out their sweet smell.At our door, there are many good things to eat.7:13I have stored many good things that are both old and new.I have kept them all for you, my lover."
+                "text": "and he wants to be with me!",
+                "isContinuation": true
               }
             ],
             [
@@ -2671,13 +2846,15 @@
             [
               {
                 "verse": 11,
-                "text": "Let us go and walk through the fields."
+                "text": "Let us go and walk through the fields.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 11,
-                "text": "We can stay in the villages for the night."
+                "text": "We can stay in the villages for the night.",
+                "isContinuation": true
               }
             ],
             [
@@ -2689,37 +2866,43 @@
             [
               {
                 "verse": 12,
-                "text": "and go to the vineyards."
+                "text": "and go to the vineyards.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 12,
-                "text": "We can see if the vines have started to make new leaves."
+                "text": "We can see if the vines have started to make new leaves.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 12,
-                "text": "We can see if their flowers have opened."
+                "text": "We can see if their flowers have opened.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 12,
-                "text": "We can see if the pomegranate trees have flowers."
+                "text": "We can see if the pomegranate trees have flowers.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 12,
-                "text": "When we are there"
+                "text": "When we are there",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 12,
-                "text": "I will give my love to you."
+                "text": "I will give my love to you.",
+                "isContinuation": true
               }
             ],
             [
@@ -2731,19 +2914,22 @@
             [
               {
                 "verse": 13,
-                "text": "At our door, there are many good things to eat."
+                "text": "At our door, there are many good things to eat.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 13,
-                "text": "I have stored many good things that are both old and new."
+                "text": "I have stored many good things that are both old and new.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 13,
-                "text": "I have kept them all for you, my lover."
+                "text": "I have kept them all for you, my lover.",
+                "isContinuation": true
               }
             ]
           ]
@@ -2779,25 +2965,29 @@
             [
               {
                 "verse": 1,
-                "text": "who drank milk from my mother's breasts!"
+                "text": "who drank milk from my mother's breasts!",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 1,
-                "text": "If you were my brother,"
+                "text": "If you were my brother,",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 1,
-                "text": "if I met you outside, I could kiss you."
+                "text": "if I met you outside, I could kiss you.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 1,
-                "text": "Nobody would think that I was doing something wrong."
+                "text": "Nobody would think that I was doing something wrong.",
+                "isContinuation": true
               }
             ],
             [
@@ -2809,25 +2999,22 @@
             [
               {
                 "verse": 2,
-                "text": "She is the one who has taught me."
+                "text": "She is the one who has taught me.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 2,
-                "text": "I would give you wine with spices to drink,"
+                "text": "I would give you wine with spices to drink,",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 2,
-                "text": "the juice from my pomegranates."
-              }
-            ],
-            [
-              {
-                "verse": 2,
-                "text": "3 His left hand is under my head.His right hand brings me near to him. 4 Promise this to me, young women of Jerusalem:Do not cause our love to wake up.Do not cause it to become too stronguntil the time is right.Love is very powerfulThe young women of Jerusalem: 5 Who is this who is coming from the desert?Her head is on her lover's shoulder.The young woman:Under the apple tree,I caused your love to wake.That is the place where your mother became pregnant.In that place too, your mother gave birth to you in pain. 6 Keep me near to you, like a seal over your heart.8:6Keep me like a seal on your arm.Keep me there always,because love is as powerful as death.It keeps hold of people as strongly as the grave does.Love burns like a hot fire.It burns with bright flames. 7 Even a flood of water cannot stop the flames.Rivers of water cannot carry it away.A man might try to give all his richesto buy a woman's love.But she would refuse to accept what he offers to her.The young woman's brothers: 8 We have a younger sister.Her breasts have not yet grown.What will we do to help herwhen it is the time for her to marry? 9 If she is a wall,we will use silver to build towers on her.But if she is a door,we will use boards of cedar wood to keep the door shut.The young woman: 10 I am a wall.My breasts are like strong towers.So my lover is happy when he looks at me. 11 King Solomon had a vineyard in Baal Hamon.He allowed other people to take care of it.They each paid him 1,000 silver coins for its fruit. 12 But my own vineyard belongs to me alone.I take care of it myself.You may keep the 1,000 silver coins, Solomon.And I will give 200 silver coins to those who take care of the fruit.The young man: 13 You have been staying in the gardenwith your friends who are listening to you.Let me too hear your voice!The young woman: 14 Come quickly to me now, my lover!Run like a gazelle or a young deer.Come to the mountains that have sweet spices!"
+                "text": "the juice from my pomegranates.",
+                "isContinuation": true
               }
             ],
             [
@@ -2839,13 +3026,8 @@
             [
               {
                 "verse": 3,
-                "text": "His right hand brings me near to him."
-              }
-            ],
-            [
-              {
-                "verse": 3,
-                "text": "4 Promise this to me, young women of Jerusalem:Do not cause our love to wake up.Do not cause it to become too stronguntil the time is right.Love is very powerfulThe young women of Jerusalem: 5 Who is this who is coming from the desert?Her head is on her lover's shoulder.The young woman:Under the apple tree,I caused your love to wake.That is the place where your mother became pregnant.In that place too, your mother gave birth to you in pain. 6 Keep me near to you, like a seal over your heart.8:6Keep me like a seal on your arm.Keep me there always,because love is as powerful as death.It keeps hold of people as strongly as the grave does.Love burns like a hot fire.It burns with bright flames. 7 Even a flood of water cannot stop the flames.Rivers of water cannot carry it away.A man might try to give all his richesto buy a woman's love.But she would refuse to accept what he offers to her.The young woman's brothers: 8 We have a younger sister.Her breasts have not yet grown.What will we do to help herwhen it is the time for her to marry? 9 If she is a wall,we will use silver to build towers on her.But if she is a door,we will use boards of cedar wood to keep the door shut.The young woman: 10 I am a wall.My breasts are like strong towers.So my lover is happy when he looks at me. 11 King Solomon had a vineyard in Baal Hamon.He allowed other people to take care of it.They each paid him 1,000 silver coins for its fruit. 12 But my own vineyard belongs to me alone.I take care of it myself.You may keep the 1,000 silver coins, Solomon.And I will give 200 silver coins to those who take care of the fruit.The young man: 13 You have been staying in the gardenwith your friends who are listening to you.Let me too hear your voice!The young woman: 14 Come quickly to me now, my lover!Run like a gazelle or a young deer.Come to the mountains that have sweet spices!"
+                "text": "His right hand brings me near to him.",
+                "isContinuation": true
               }
             ],
             [
@@ -2857,19 +3039,22 @@
             [
               {
                 "verse": 4,
-                "text": "Do not cause our love to wake up."
+                "text": "Do not cause our love to wake up.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 4,
-                "text": "Do not cause it to become too strong"
+                "text": "Do not cause it to become too strong",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 4,
-                "text": "until the time is right."
+                "text": "until the time is right.",
+                "isContinuation": true
               }
             ]
           ]
@@ -2886,7 +3071,8 @@
             [
               {
                 "verse": 5,
-                "text": "Her head is on her lover's shoulder."
+                "text": "Her head is on her lover's shoulder.",
+                "isContinuation": true
               }
             ]
           ]
@@ -2897,31 +3083,29 @@
             [
               {
                 "verse": 5,
-                "text": "Under the apple tree,"
+                "text": "Under the apple tree,",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 5,
-                "text": "I caused your love to wake."
+                "text": "I caused your love to wake.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 5,
-                "text": "That is the place where your mother became pregnant."
+                "text": "That is the place where your mother became pregnant.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 5,
-                "text": "In that place too, your mother gave birth to you in pain."
-              }
-            ],
-            [
-              {
-                "verse": 5,
-                "text": "6 Keep me near to you, like a seal over your heart.8:6Keep me like a seal on your arm.Keep me there always,because love is as powerful as death.It keeps hold of people as strongly as the grave does.Love burns like a hot fire.It burns with bright flames. 7 Even a flood of water cannot stop the flames.Rivers of water cannot carry it away.A man might try to give all his richesto buy a woman's love.But she would refuse to accept what he offers to her.The young woman's brothers: 8 We have a younger sister.Her breasts have not yet grown.What will we do to help herwhen it is the time for her to marry? 9 If she is a wall,we will use silver to build towers on her.But if she is a door,we will use boards of cedar wood to keep the door shut.The young woman: 10 I am a wall.My breasts are like strong towers.So my lover is happy when he looks at me. 11 King Solomon had a vineyard in Baal Hamon.He allowed other people to take care of it.They each paid him 1,000 silver coins for its fruit. 12 But my own vineyard belongs to me alone.I take care of it myself.You may keep the 1,000 silver coins, Solomon.And I will give 200 silver coins to those who take care of the fruit.The young man: 13 You have been staying in the gardenwith your friends who are listening to you.Let me too hear your voice!The young woman: 14 Come quickly to me now, my lover!Run like a gazelle or a young deer.Come to the mountains that have sweet spices!"
+                "text": "In that place too, your mother gave birth to you in pain.",
+                "isContinuation": true
               }
             ],
             [
@@ -2933,37 +3117,43 @@
             [
               {
                 "verse": 6,
-                "text": "Keep me like a seal on your arm."
+                "text": "Keep me like a seal on your arm.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 6,
-                "text": "Keep me there always,"
+                "text": "Keep me there always,",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 6,
-                "text": "because love is as powerful as death."
+                "text": "because love is as powerful as death.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 6,
-                "text": "It keeps hold of people as strongly as the grave does."
+                "text": "It keeps hold of people as strongly as the grave does.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 6,
-                "text": "Love burns like a hot fire."
+                "text": "Love burns like a hot fire.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 6,
-                "text": "It burns with bright flames."
+                "text": "It burns with bright flames.",
+                "isContinuation": true
               }
             ],
             [
@@ -2975,25 +3165,29 @@
             [
               {
                 "verse": 7,
-                "text": "Rivers of water cannot carry it away."
+                "text": "Rivers of water cannot carry it away.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 7,
-                "text": "A man might try to give all his riches"
+                "text": "A man might try to give all his riches",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 7,
-                "text": "to buy a woman's love."
+                "text": "to buy a woman's love.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 7,
-                "text": "But she would refuse to accept what he offers to her."
+                "text": "But she would refuse to accept what he offers to her.",
+                "isContinuation": true
               }
             ]
           ]
@@ -3010,19 +3204,22 @@
             [
               {
                 "verse": 8,
-                "text": "Her breasts have not yet grown."
+                "text": "Her breasts have not yet grown.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 8,
-                "text": "What will we do to help her"
+                "text": "What will we do to help her",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 8,
-                "text": "when it is the time for her to marry?"
+                "text": "when it is the time for her to marry?",
+                "isContinuation": true
               }
             ],
             [
@@ -3034,19 +3231,22 @@
             [
               {
                 "verse": 9,
-                "text": "we will use silver to build towers on her."
+                "text": "we will use silver to build towers on her.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 9,
-                "text": "But if she is a door,"
+                "text": "But if she is a door,",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 9,
-                "text": "we will use boards of cedar wood to keep the door shut."
+                "text": "we will use boards of cedar wood to keep the door shut.",
+                "isContinuation": true
               }
             ]
           ]
@@ -3063,19 +3263,15 @@
             [
               {
                 "verse": 10,
-                "text": "My breasts are like strong towers."
+                "text": "My breasts are like strong towers.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 10,
-                "text": "So my lover is happy when he looks at me."
-              }
-            ],
-            [
-              {
-                "verse": 10,
-                "text": "11 King Solomon had a vineyard in Baal Hamon.He allowed other people to take care of it.They each paid him 1,000 silver coins for its fruit. 12 But my own vineyard belongs to me alone.I take care of it myself.You may keep the 1,000 silver coins, Solomon.And I will give 200 silver coins to those who take care of the fruit.The young man: 13 You have been staying in the gardenwith your friends who are listening to you.Let me too hear your voice!The young woman: 14 Come quickly to me now, my lover!Run like a gazelle or a young deer.Come to the mountains that have sweet spices!"
+                "text": "So my lover is happy when he looks at me.",
+                "isContinuation": true
               }
             ],
             [
@@ -3087,13 +3283,15 @@
             [
               {
                 "verse": 11,
-                "text": "He allowed other people to take care of it."
+                "text": "He allowed other people to take care of it.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 11,
-                "text": "They each paid him 1,000 silver coins for its fruit."
+                "text": "They each paid him 1,000 silver coins for its fruit.",
+                "isContinuation": true
               }
             ],
             [
@@ -3105,19 +3303,22 @@
             [
               {
                 "verse": 12,
-                "text": "I take care of it myself."
+                "text": "I take care of it myself.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 12,
-                "text": "You may keep the 1,000 silver coins, Solomon."
+                "text": "You may keep the 1,000 silver coins, Solomon.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 12,
-                "text": "And I will give 200 silver coins to those who take care of the fruit."
+                "text": "And I will give 200 silver coins to those who take care of the fruit.",
+                "isContinuation": true
               }
             ]
           ]
@@ -3134,13 +3335,15 @@
             [
               {
                 "verse": 13,
-                "text": "with your friends who are listening to you."
+                "text": "with your friends who are listening to you.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 13,
-                "text": "Let me too hear your voice!"
+                "text": "Let me too hear your voice!",
+                "isContinuation": true
               }
             ]
           ]
@@ -3157,13 +3360,15 @@
             [
               {
                 "verse": 14,
-                "text": "Run like a gazelle or a young deer."
+                "text": "Run like a gazelle or a young deer.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 14,
-                "text": "Come to the mountains that have sweet spices!"
+                "text": "Come to the mountains that have sweet spices!",
+                "isContinuation": true
               }
             ]
           ]

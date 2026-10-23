@@ -27,7 +27,8 @@
             [
               {
                 "verse": 1,
-                "text": "It was the month Kislev. This was when King Artaxerxes had ruled for 20 years. I was in the big city of Susa."
+                "text": "It was the month Kislev. This was when King Artaxerxes had ruled for 20 years. I was in the big city of Susa.",
+                "isContinuation": true
               },
               {
                 "verse": 2,
@@ -81,7 +82,8 @@
             [
               {
                 "verse": 11,
-                "text": "I was the king's cupbearer."
+                "text": "I was the king's cupbearer.",
+                "isContinuation": true
               }
             ]
           ]
@@ -140,7 +142,8 @@
             [
               {
                 "verse": 6,
-                "text": "I told the king how long I would be away. Because the king was happy to send me, I told him when I would leave."
+                "text": "I told the king how long I would be away. Because the king was happy to send me, I told him when I would leave.",
+                "isContinuation": true
               },
               {
                 "verse": 7,
@@ -154,7 +157,8 @@
             [
               {
                 "verse": 8,
-                "text": "The king agreed to do what I asked him, because my God was with me."
+                "text": "The king agreed to do what I asked him, because my God was with me.",
+                "isContinuation": true
               }
             ],
             [
@@ -215,7 +219,8 @@
             [
               {
                 "verse": 18,
-                "text": "The people prepared to start this good work."
+                "text": "The people prepared to start this good work.",
+                "isContinuation": true
               },
               {
                 "verse": 19,
@@ -382,7 +387,8 @@
             [
               {
                 "verse": 25,
-                "text": "Parosh's son, Pedaiah,"
+                "text": "Parosh's son, Pedaiah,",
+                "isContinuation": true
               },
               {
                 "verse": 26,
@@ -620,7 +626,8 @@
             [
               {
                 "verse": 7,
-                "text": "I told the Jews to come together for a big meeting."
+                "text": "I told the Jews to come together for a big meeting.",
+                "isContinuation": true
               },
               {
                 "verse": 8,
@@ -650,7 +657,8 @@
             [
               {
                 "verse": 12,
-                "text": "I told the priests to come to our meeting. While they were with us, I made the Jewish leaders and officers make a strong promise. They agreed to do what they had promised to do."
+                "text": "I told the priests to come to our meeting. While they were with us, I made the Jewish leaders and officers make a strong promise. They agreed to do what they had promised to do.",
+                "isContinuation": true
               },
               {
                 "verse": 13,
@@ -660,7 +668,8 @@
             [
               {
                 "verse": 13,
-                "text": "All the people did what they had promised to do."
+                "text": "All the people did what they had promised to do.",
+                "isContinuation": true
               }
             ],
             [
@@ -721,7 +730,8 @@
             [
               {
                 "verse": 2,
-                "text": "I realized that they wanted to cause trouble for me."
+                "text": "I realized that they wanted to cause trouble for me.",
+                "isContinuation": true
               },
               {
                 "verse": 3,
@@ -745,7 +755,8 @@
             [
               {
                 "verse": 6,
-                "text": "‘To Nehemiah. Other nations have heard the news that you and the other Jews have decided to turn against the king. Geshem also says that this is true. This is why you are building the city's wall. People are saying that you want to rule the Jews as their king."
+                "text": "‘To Nehemiah. Other nations have heard the news that you and the other Jews have decided to turn against the king. Geshem also says that this is true. This is why you are building the city's wall. People are saying that you want to rule the Jews as their king.",
+                "isContinuation": true
               },
               {
                 "verse": 7,
@@ -767,7 +778,8 @@
             [
               {
                 "verse": 9,
-                "text": "So I prayed to God, ‘Give me strength to continue the work.’"
+                "text": "So I prayed to God, ‘Give me strength to continue the work.’",
+                "isContinuation": true
               }
             ],
             [
@@ -889,7 +901,8 @@
             [
               {
                 "verse": 7,
-                "text": "This is a list of the number of men in each Israelite clan who returned:"
+                "text": "This is a list of the number of men in each Israelite clan who returned:",
+                "isContinuation": true
               }
             ],
             [
@@ -1002,12 +1015,6 @@
             ],
             [
               {
-                "verse": 25,
-                "text": "26 The number of men who belonged to these towns:Bethlehem and Netophah: 188. 27 Anathoth: 128. 28 Beth Azmaveth: 42. 29 Kiriath-Jearim, Kephirah and Beeroth: 743. 30 Ramah and Geba: 621. 31 Michmash: 122. 32 Bethel and Ai: 123.7:32 33 The other Nebo: 52. 34 The other Elam: 1,254. 35 Harim: 320. 36 Jericho: 345. 37 Lod, Hadid and Ono: 721. 38 Senaah: 3,930. 39 These priests also returned:The clan of Jedaiah (descendants of Jeshua): 973. 40 The clan of Immer: 1,052. 41 The clan of Pashhur: 1,247. 42 The clan of Harim: 1,017. 43 These Levites also returned:The clans of Jeshua and Kadmiel (descendants of Hodaviah): 74. 44 Singers who were descendants of Asaph: 148. 45 Temple guards who were descendants of Shallum, Ater, Talmon, Akkub, Hatita and Shobai: 138. 46 These were the families of the temple servants who returned:Ziha, Hasupha, Tabbaoth, 47 Keros, Sia, Padon, 48 Lebana, Hagaba, Shalmai, 49 Hanan, Giddel, Gahar, 50 Reaiah, Rezin, Nekoda, 51 Gazzam, Uzza, Paseah, 52 Besai, Meunim, Nephussim, 53 Bakbuk, Hakupha, Harhur, 54 Bazluth, Mehida, Harsha, 55 Barkos, Sisera, Temah, 56 Neziah and Hatipha. 57 These were the servants of King Solomon whose descendants returned:Sotai, Sophereth, Perida, 58 Jaala, Darkon, Giddel, 59 Shephatiah, Hattil, Pokereth-Hazzebaim and Amon. 60 The temple servants and the descendants of Solomon's servants were 392 men. 61 There were some people who came from the towns of Tel Melah, Tel Harsha, Kerub, Addon and Immer. But they had no lists to show that they belonged to Israelite families. 62 There were from the clans of Delaiah, Tobiah and Nekoda: 642. 63 There were also some priests from the clans of Hobaiah, Hakkoz and Barzillai. (Barzillai was a man who had married a daughter of Barzillai, who came from Gilead. So he took Barzillai's name for himself.) 64 These people could not find any lists to show who their ancestors were. Because of this, they could not serve God as priests. 65 The officer who ruled in Judah said that they must not eat the priests' special food. They must wait until there was a priest who could use the Urim and Thummim to decide the right thing to do.7:647:65 66 The number of all the people who returned to Judea was 42,360. 67 There were also 7,337 male and female servants, as well as 245 male and female singers. 68 They had 736 horses and 245 mules, 69 435 camels and 6,720 donkeys.7:69 70 Some of the family leaders gave money to help build the wall. The officer who ruled there gave 8.5 kilograms of gold, 50 bowls and 530 sets of special clothes for the priests. 71 Some family leaders gave 170 kilograms of gold and 1,300 kilograms of silver. 72 The rest of the people gave 170 kilograms of gold and 1,300 kilograms of silver. They also gave 67 sets of special clothes for the priests. 73 The priests, the Levites, the temple guards, the singers and the temple servants now lived in towns near Jerusalem. The other people also lived in the towns of Judah. When the seventh month of the year arrived, all the Israelite people were living in their towns and cities."
-              }
-            ],
-            [
-              {
                 "verse": 26,
                 "text": "The number of men who belonged to these towns:"
               }
@@ -1015,7 +1022,8 @@
             [
               {
                 "verse": 26,
-                "text": "Bethlehem and Netophah: 188."
+                "text": "Bethlehem and Netophah: 188.",
+                "isContinuation": true
               }
             ],
             [
@@ -1092,12 +1100,6 @@
             ],
             [
               {
-                "verse": 38,
-                "text": "39 These priests also returned:The clan of Jedaiah (descendants of Jeshua): 973. 40 The clan of Immer: 1,052. 41 The clan of Pashhur: 1,247. 42 The clan of Harim: 1,017. 43 These Levites also returned:The clans of Jeshua and Kadmiel (descendants of Hodaviah): 74. 44 Singers who were descendants of Asaph: 148. 45 Temple guards who were descendants of Shallum, Ater, Talmon, Akkub, Hatita and Shobai: 138. 46 These were the families of the temple servants who returned:Ziha, Hasupha, Tabbaoth, 47 Keros, Sia, Padon, 48 Lebana, Hagaba, Shalmai, 49 Hanan, Giddel, Gahar, 50 Reaiah, Rezin, Nekoda, 51 Gazzam, Uzza, Paseah, 52 Besai, Meunim, Nephussim, 53 Bakbuk, Hakupha, Harhur, 54 Bazluth, Mehida, Harsha, 55 Barkos, Sisera, Temah, 56 Neziah and Hatipha. 57 These were the servants of King Solomon whose descendants returned:Sotai, Sophereth, Perida, 58 Jaala, Darkon, Giddel, 59 Shephatiah, Hattil, Pokereth-Hazzebaim and Amon. 60 The temple servants and the descendants of Solomon's servants were 392 men. 61 There were some people who came from the towns of Tel Melah, Tel Harsha, Kerub, Addon and Immer. But they had no lists to show that they belonged to Israelite families. 62 There were from the clans of Delaiah, Tobiah and Nekoda: 642. 63 There were also some priests from the clans of Hobaiah, Hakkoz and Barzillai. (Barzillai was a man who had married a daughter of Barzillai, who came from Gilead. So he took Barzillai's name for himself.) 64 These people could not find any lists to show who their ancestors were. Because of this, they could not serve God as priests. 65 The officer who ruled in Judah said that they must not eat the priests' special food. They must wait until there was a priest who could use the Urim and Thummim to decide the right thing to do.7:647:65 66 The number of all the people who returned to Judea was 42,360. 67 There were also 7,337 male and female servants, as well as 245 male and female singers. 68 They had 736 horses and 245 mules, 69 435 camels and 6,720 donkeys.7:69 70 Some of the family leaders gave money to help build the wall. The officer who ruled there gave 8.5 kilograms of gold, 50 bowls and 530 sets of special clothes for the priests. 71 Some family leaders gave 170 kilograms of gold and 1,300 kilograms of silver. 72 The rest of the people gave 170 kilograms of gold and 1,300 kilograms of silver. They also gave 67 sets of special clothes for the priests. 73 The priests, the Levites, the temple guards, the singers and the temple servants now lived in towns near Jerusalem. The other people also lived in the towns of Judah. When the seventh month of the year arrived, all the Israelite people were living in their towns and cities."
-              }
-            ],
-            [
-              {
                 "verse": 39,
                 "text": "These priests also returned:"
               }
@@ -1105,7 +1107,8 @@
             [
               {
                 "verse": 39,
-                "text": "The clan of Jedaiah (descendants of Jeshua): 973."
+                "text": "The clan of Jedaiah (descendants of Jeshua): 973.",
+                "isContinuation": true
               }
             ],
             [
@@ -1128,12 +1131,6 @@
             ],
             [
               {
-                "verse": 42,
-                "text": "43 These Levites also returned:The clans of Jeshua and Kadmiel (descendants of Hodaviah): 74. 44 Singers who were descendants of Asaph: 148. 45 Temple guards who were descendants of Shallum, Ater, Talmon, Akkub, Hatita and Shobai: 138. 46 These were the families of the temple servants who returned:Ziha, Hasupha, Tabbaoth, 47 Keros, Sia, Padon, 48 Lebana, Hagaba, Shalmai, 49 Hanan, Giddel, Gahar, 50 Reaiah, Rezin, Nekoda, 51 Gazzam, Uzza, Paseah, 52 Besai, Meunim, Nephussim, 53 Bakbuk, Hakupha, Harhur, 54 Bazluth, Mehida, Harsha, 55 Barkos, Sisera, Temah, 56 Neziah and Hatipha. 57 These were the servants of King Solomon whose descendants returned:Sotai, Sophereth, Perida, 58 Jaala, Darkon, Giddel, 59 Shephatiah, Hattil, Pokereth-Hazzebaim and Amon. 60 The temple servants and the descendants of Solomon's servants were 392 men. 61 There were some people who came from the towns of Tel Melah, Tel Harsha, Kerub, Addon and Immer. But they had no lists to show that they belonged to Israelite families. 62 There were from the clans of Delaiah, Tobiah and Nekoda: 642. 63 There were also some priests from the clans of Hobaiah, Hakkoz and Barzillai. (Barzillai was a man who had married a daughter of Barzillai, who came from Gilead. So he took Barzillai's name for himself.) 64 These people could not find any lists to show who their ancestors were. Because of this, they could not serve God as priests. 65 The officer who ruled in Judah said that they must not eat the priests' special food. They must wait until there was a priest who could use the Urim and Thummim to decide the right thing to do.7:647:65 66 The number of all the people who returned to Judea was 42,360. 67 There were also 7,337 male and female servants, as well as 245 male and female singers. 68 They had 736 horses and 245 mules, 69 435 camels and 6,720 donkeys.7:69 70 Some of the family leaders gave money to help build the wall. The officer who ruled there gave 8.5 kilograms of gold, 50 bowls and 530 sets of special clothes for the priests. 71 Some family leaders gave 170 kilograms of gold and 1,300 kilograms of silver. 72 The rest of the people gave 170 kilograms of gold and 1,300 kilograms of silver. They also gave 67 sets of special clothes for the priests. 73 The priests, the Levites, the temple guards, the singers and the temple servants now lived in towns near Jerusalem. The other people also lived in the towns of Judah. When the seventh month of the year arrived, all the Israelite people were living in their towns and cities."
-              }
-            ],
-            [
-              {
                 "verse": 43,
                 "text": "These Levites also returned:"
               }
@@ -1141,7 +1138,8 @@
             [
               {
                 "verse": 43,
-                "text": "The clans of Jeshua and Kadmiel (descendants of Hodaviah): 74."
+                "text": "The clans of Jeshua and Kadmiel (descendants of Hodaviah): 74.",
+                "isContinuation": true
               }
             ],
             [
@@ -1165,7 +1163,8 @@
             [
               {
                 "verse": 46,
-                "text": "Ziha, Hasupha, Tabbaoth,"
+                "text": "Ziha, Hasupha, Tabbaoth,",
+                "isContinuation": true
               }
             ],
             [
@@ -1230,12 +1229,6 @@
             ],
             [
               {
-                "verse": 56,
-                "text": "57 These were the servants of King Solomon whose descendants returned:Sotai, Sophereth, Perida, 58 Jaala, Darkon, Giddel, 59 Shephatiah, Hattil, Pokereth-Hazzebaim and Amon. 60 The temple servants and the descendants of Solomon's servants were 392 men. 61 There were some people who came from the towns of Tel Melah, Tel Harsha, Kerub, Addon and Immer. But they had no lists to show that they belonged to Israelite families. 62 There were from the clans of Delaiah, Tobiah and Nekoda: 642. 63 There were also some priests from the clans of Hobaiah, Hakkoz and Barzillai. (Barzillai was a man who had married a daughter of Barzillai, who came from Gilead. So he took Barzillai's name for himself.) 64 These people could not find any lists to show who their ancestors were. Because of this, they could not serve God as priests. 65 The officer who ruled in Judah said that they must not eat the priests' special food. They must wait until there was a priest who could use the Urim and Thummim to decide the right thing to do.7:647:65 66 The number of all the people who returned to Judea was 42,360. 67 There were also 7,337 male and female servants, as well as 245 male and female singers. 68 They had 736 horses and 245 mules, 69 435 camels and 6,720 donkeys.7:69 70 Some of the family leaders gave money to help build the wall. The officer who ruled there gave 8.5 kilograms of gold, 50 bowls and 530 sets of special clothes for the priests. 71 Some family leaders gave 170 kilograms of gold and 1,300 kilograms of silver. 72 The rest of the people gave 170 kilograms of gold and 1,300 kilograms of silver. They also gave 67 sets of special clothes for the priests. 73 The priests, the Levites, the temple guards, the singers and the temple servants now lived in towns near Jerusalem. The other people also lived in the towns of Judah. When the seventh month of the year arrived, all the Israelite people were living in their towns and cities."
-              }
-            ],
-            [
-              {
                 "verse": 57,
                 "text": "These were the servants of King Solomon whose descendants returned:"
               }
@@ -1243,7 +1236,8 @@
             [
               {
                 "verse": 57,
-                "text": "Sotai, Sophereth, Perida,"
+                "text": "Sotai, Sophereth, Perida,",
+                "isContinuation": true
               }
             ],
             [
@@ -1262,12 +1256,6 @@
               {
                 "verse": 60,
                 "text": "The temple servants and the descendants of Solomon's servants were 392 men."
-              }
-            ],
-            [
-              {
-                "verse": 60,
-                "text": "61 There were some people who came from the towns of Tel Melah, Tel Harsha, Kerub, Addon and Immer. But they had no lists to show that they belonged to Israelite families. 62 There were from the clans of Delaiah, Tobiah and Nekoda: 642. 63 There were also some priests from the clans of Hobaiah, Hakkoz and Barzillai. (Barzillai was a man who had married a daughter of Barzillai, who came from Gilead. So he took Barzillai's name for himself.) 64 These people could not find any lists to show who their ancestors were. Because of this, they could not serve God as priests. 65 The officer who ruled in Judah said that they must not eat the priests' special food. They must wait until there was a priest who could use the Urim and Thummim to decide the right thing to do.7:647:65 66 The number of all the people who returned to Judea was 42,360. 67 There were also 7,337 male and female servants, as well as 245 male and female singers. 68 They had 736 horses and 245 mules, 69 435 camels and 6,720 donkeys.7:69 70 Some of the family leaders gave money to help build the wall. The officer who ruled there gave 8.5 kilograms of gold, 50 bowls and 530 sets of special clothes for the priests. 71 Some family leaders gave 170 kilograms of gold and 1,300 kilograms of silver. 72 The rest of the people gave 170 kilograms of gold and 1,300 kilograms of silver. They also gave 67 sets of special clothes for the priests. 73 The priests, the Levites, the temple guards, the singers and the temple servants now lived in towns near Jerusalem. The other people also lived in the towns of Judah. When the seventh month of the year arrived, all the Israelite people were living in their towns and cities."
               }
             ],
             [
@@ -1402,7 +1390,8 @@
             [
               {
                 "verse": 9,
-                "text": "They said this because the people were weeping. The words of the Law had made them sad."
+                "text": "They said this because the people were weeping. The words of the Law had made them sad.",
+                "isContinuation": true
               },
               {
                 "verse": 10,
@@ -1503,7 +1492,8 @@
             [
               {
                 "verse": 5,
-                "text": "They said, ‘Your name is great and wonderful. We praise you more than words could ever say."
+                "text": "They said, ‘Your name is great and wonderful. We praise you more than words could ever say.",
+                "isContinuation": true
               },
               {
                 "verse": 6,
@@ -1705,7 +1695,8 @@
             [
               {
                 "verse": 1,
-                "text": "Hacaliah's son, Nehemiah (the government officer), and Zedekiah."
+                "text": "Hacaliah's son, Nehemiah (the government officer), and Zedekiah.",
+                "isContinuation": true
               }
             ],
             [
@@ -1753,7 +1744,8 @@
             [
               {
                 "verse": 8,
-                "text": "Those were the priests."
+                "text": "Those were the priests.",
+                "isContinuation": true
               }
             ],
             [
@@ -1765,7 +1757,8 @@
             [
               {
                 "verse": 9,
-                "text": "Azaniah's son, Jeshua, Binnui from the clan of Henadad, Kadmiel."
+                "text": "Azaniah's son, Jeshua, Binnui from the clan of Henadad, Kadmiel.",
+                "isContinuation": true
               }
             ],
             [
@@ -1777,7 +1770,8 @@
             [
               {
                 "verse": 10,
-                "text": "Shebaniah, Hodiah, Kelita, Pelaiah, Hanan,"
+                "text": "Shebaniah, Hodiah, Kelita, Pelaiah, Hanan,",
+                "isContinuation": true
               }
             ],
             [
@@ -1807,7 +1801,8 @@
             [
               {
                 "verse": 14,
-                "text": "Parosh, Pahath-Moab, Elam, Zattu, Bani,"
+                "text": "Parosh, Pahath-Moab, Elam, Zattu, Bani,",
+                "isContinuation": true
               }
             ],
             [
@@ -1890,12 +1885,6 @@
             ],
             [
               {
-                "verse": 27,
-                "text": "28 The other people joined their leaders to make the same promise. They were priests, Levites, guards, singers and temple servants. There were also people who had kept themselves separate from their foreign neighbours so that they could obey God's Law. Their wives, sons and daughters also joined with them, as well as children who were old enough to understand. 29 All these people joined with their leaders and they promised to obey the agreement. They agreed that God should punish them if they did not obey all of God's Law. That was the Law that God had given to his servant Moses. They promised very strongly to obey all the commands, rules and laws of the Lord, our Lord. 30 They said, ‘We promise not to let our daughters marry the foreign people of this land. We will not let our sons marry their daughters. 31 If foreign traders come to us on a Sabbath day, we will not buy their things. We will not buy their things on Sabbath days or on any special feast day. Every seventh year we will not plant any crops. We will also remove the debts of other people in every seventh year. They will not have to pay us back. 32 We will obey the command to give a third of a shekel each year to take care of the temple of our God. 33 That will pay for the special bread on the table in the temple. It will also pay for grain offerings and burnt offerings each day, as well as offerings on Sabbath days, feasts at each new moon, and other festivals. We will also use it for the sin offerings that take away Israel's guilt. And we will use it for all the work in the temple of our God.10:32 34 Each year we will throw dice to decide when different families must bring wood to the temple of our God. The priests, the Levites and the other people must do this. The wood will burn sacrifices on the altar of the Lord our God. We will do this in the way that the Law of the Lord our God teaches. 35 We will also agree to bring the first crops from our land each year and the first fruits from our trees. We will bring these to the Lord's temple. 36 We will also bring our firstborn sons, as well as the first babies that our cows, sheep and goats give birth to. We will bring them to the priests who serve our God in the temple. That is what God's Law teaches us to do. 37 We will also bring the first of everything that is ready for us to eat. That includes flour, fruit, wine, olive oil and other special offerings. We will bring them all to the priests and they will store them in the rooms of the temple. We will give tithes of the crops that grow on our land to the Levites. They receive the tithes that belong to them in each of the towns where we work. 38 When the Levites receive their tithes, a priest of Aaron's family will be with them. Then the Levites will bring a tenth part of the tithes that they received to store in the temple. 39 The Levites and the other Israelites will bring their gifts of grain, wine and olive oil to store in the temple's rooms. The priests will store them with the things that they use to serve God in the temple. That is the place where the priests who are working at that time, the temple guards and the singers stay.We agree that we will always take care of the temple of our God.’"
-              }
-            ],
-            [
-              {
                 "verse": 28,
                 "text": "The other people joined their leaders to make the same promise. They were priests, Levites, guards, singers and temple servants. There were also people who had kept themselves separate from their foreign neighbours so that they could obey God's Law. Their wives, sons and daughters also joined with them, as well as children who were old enough to understand."
               }
@@ -1963,7 +1952,8 @@
             [
               {
                 "verse": 39,
-                "text": "We agree that we will always take care of the temple of our God.’"
+                "text": "We agree that we will always take care of the temple of our God.’",
+                "isContinuation": true
               }
             ]
           ]
@@ -2006,13 +1996,15 @@
             [
               {
                 "verse": 4,
-                "text": "From the tribe of Judah:"
+                "text": "From the tribe of Judah:",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 4,
-                "text": "Athaiah, son of Uzziah and Zechariah's grandson. His other ancestors were: Amariah, Shephatiah and Mahalalel. They were descendants of Judah's son, Perez."
+                "text": "Athaiah, son of Uzziah and Zechariah's grandson. His other ancestors were: Amariah, Shephatiah and Mahalalel. They were descendants of Judah's son, Perez.",
+                "isContinuation": true
               }
             ],
             [
@@ -2036,7 +2028,8 @@
             [
               {
                 "verse": 7,
-                "text": "Sallu, son of Meshullam and Joed's grandson. His other ancestors were: Pedaiah, Kolaiah, Maaseiah, Ithiel and Jeshaiah."
+                "text": "Sallu, son of Meshullam and Joed's grandson. His other ancestors were: Pedaiah, Kolaiah, Maaseiah, Ithiel and Jeshaiah.",
+                "isContinuation": true
               },
               {
                 "verse": 8,
@@ -2052,7 +2045,8 @@
             [
               {
                 "verse": 9,
-                "text": "Hassenuah's son, Judah, was the next most important officer in the city."
+                "text": "Hassenuah's son, Judah, was the next most important officer in the city.",
+                "isContinuation": true
               }
             ],
             [
@@ -2064,7 +2058,8 @@
             [
               {
                 "verse": 10,
-                "text": "Joiarib's son, Jedaiah, and Jakin."
+                "text": "Joiarib's son, Jedaiah, and Jakin.",
+                "isContinuation": true
               }
             ],
             [
@@ -2080,7 +2075,8 @@
             [
               {
                 "verse": 12,
-                "text": "Adaiah, son of Jeroham and Pelaliah's grandson. His other ancestors were: Amzi, Zechariah, Pashhur and Malkijah."
+                "text": "Adaiah, son of Jeroham and Pelaliah's grandson. His other ancestors were: Amzi, Zechariah, Pashhur and Malkijah.",
+                "isContinuation": true
               },
               {
                 "verse": 13,
@@ -2090,7 +2086,8 @@
             [
               {
                 "verse": 13,
-                "text": "Amashsai, son of Azarel and Ahzai's grandson. Ahzai was the son of Meshillemoth, son of Immer."
+                "text": "Amashsai, son of Azarel and Ahzai's grandson. Ahzai was the son of Meshillemoth, son of Immer.",
+                "isContinuation": true
               },
               {
                 "verse": 14,
@@ -2100,7 +2097,8 @@
             [
               {
                 "verse": 14,
-                "text": "Haggedolim's son, Zabdiel, was the officer with authority over them."
+                "text": "Haggedolim's son, Zabdiel, was the officer with authority over them.",
+                "isContinuation": true
               }
             ],
             [
@@ -2112,7 +2110,8 @@
             [
               {
                 "verse": 15,
-                "text": "Shemaiah, son of Hasshub and Azrikam's grandson. Azrikam was the son of Hashabiah, son of Bunni."
+                "text": "Shemaiah, son of Hasshub and Azrikam's grandson. Azrikam was the son of Hashabiah, son of Bunni.",
+                "isContinuation": true
               }
             ],
             [
@@ -2130,7 +2129,8 @@
             [
               {
                 "verse": 17,
-                "text": "Bakbukiah helped Mattaniah, as well as Shammua's son, Abda. Shammua was the son of Galal, the son of Jeduthun."
+                "text": "Bakbukiah helped Mattaniah, as well as Shammua's son, Abda. Shammua was the son of Galal, the son of Jeduthun.",
+                "isContinuation": true
               }
             ],
             [
@@ -2148,13 +2148,8 @@
             [
               {
                 "verse": 19,
-                "text": "Akkub, Talmon and their relatives. There were 172 guards who watched the gates."
-              }
-            ],
-            [
-              {
-                "verse": 19,
-                "text": "20 The other Israelite people, priests and Levites lived in the other towns of Judah. They lived in the homes that belonged to their families. 21 The temple servants lived on Ophel Hill. Ziha and Gishpa had authority over them. 22 Uzzi was the leader of the Levites in Jerusalem. He was the son of Bani and grandson of Hashabiah. His other ancestors were Mattaniah and Mica. Uzzi was one of Asaph's descendants. Asaph's family were the singers who had authority for the music in the temple. 23 The king commanded the singers what they must do each day. 24 Meshezabel's son, Pethahiah, was one of the king's advisors. He helped the king of Persia to know how to rule the Israelite people. Pethahiah was a descendant of Judah's son, Zerah.The people who lived in other places in Judah 25 Many people of Judah lived in villages with their farms near them. Some of them lived in Kiriath Arba, Dibon and Jekabzeel, and in the villages near those towns. 26 Other people lived in Jeshua, Moladah, Beth Pelet 27 and Hazar-Shual, as well as in Beersheba and the villages near it. 28 Other people lived in Ziklag and Meconah and the villages near it. 29 Some people lived in En Rimmon, Zorah, Jarmuth, 30 Zanoah and Adullam and the villages near to those towns. Other people lived in Lachish and its fields, and in Azekah and its villages. The people were living everywhere from Beersheba to the Hinnom Valley.11:30 31 Some of Benjamin's descendants lived in Geba, Michmash, Aija, Bethel and its villages. 32 Some of them lived in Anathoth, Nob, Ananiah, 33 Hazor, Ramah and Gittaim. 34 They also lived in Hadid, Zeboim Neballat, 35 Lod, Ono and Ge-Harashim. 36 Some of the Levites' clans who belonged with Judah went to live in Benjamin's land."
+                "text": "Akkub, Talmon and their relatives. There were 172 guards who watched the gates.",
+                "isContinuation": true
               }
             ],
             [
@@ -2269,7 +2264,8 @@
             [
               {
                 "verse": 1,
-                "text": "Seraiah, Jeremiah, Ezra,"
+                "text": "Seraiah, Jeremiah, Ezra,",
+                "isContinuation": true
               },
               {
                 "verse": 2,
@@ -2305,7 +2301,8 @@
             [
               {
                 "verse": 7,
-                "text": "These men were the leaders of the priests and the people who helped them in the time of Jeshua."
+                "text": "These men were the leaders of the priests and the people who helped them in the time of Jeshua.",
+                "isContinuation": true
               }
             ],
             [
@@ -2317,13 +2314,15 @@
             [
               {
                 "verse": 8,
-                "text": "Jeshua, Binnui, Kadmiel, Sherebiah, Judah and Mattaniah."
+                "text": "Jeshua, Binnui, Kadmiel, Sherebiah, Judah and Mattaniah.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 8,
-                "text": "Mattaniah and his relatives had authority for the songs which they sang to thank God in the temple."
+                "text": "Mattaniah and his relatives had authority for the songs which they sang to thank God in the temple.",
+                "isContinuation": true
               },
               {
                 "verse": 9,
@@ -2349,13 +2348,15 @@
             [
               {
                 "verse": 12,
-                "text": "Meraiah was the leader of Seraiah's clan."
+                "text": "Meraiah was the leader of Seraiah's clan.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 12,
-                "text": "Hananiah was the leader of Jeremiah's clan."
+                "text": "Hananiah was the leader of Jeremiah's clan.",
+                "isContinuation": true
               }
             ],
             [
@@ -2367,7 +2368,8 @@
             [
               {
                 "verse": 13,
-                "text": "Jehohanan was the leader of Amariah's clan."
+                "text": "Jehohanan was the leader of Amariah's clan.",
+                "isContinuation": true
               }
             ],
             [
@@ -2379,7 +2381,8 @@
             [
               {
                 "verse": 14,
-                "text": "Joseph was the leader of Shecaniah's clan."
+                "text": "Joseph was the leader of Shecaniah's clan.",
+                "isContinuation": true
               }
             ],
             [
@@ -2391,7 +2394,8 @@
             [
               {
                 "verse": 15,
-                "text": "Helkai was the leader of Meremoth's clan."
+                "text": "Helkai was the leader of Meremoth's clan.",
+                "isContinuation": true
               }
             ],
             [
@@ -2403,7 +2407,8 @@
             [
               {
                 "verse": 16,
-                "text": "Meshullam was the leader of Ginnethon's clan."
+                "text": "Meshullam was the leader of Ginnethon's clan.",
+                "isContinuation": true
               }
             ],
             [
@@ -2415,7 +2420,8 @@
             [
               {
                 "verse": 17,
-                "text": "Piltai was the leader of the clans of Miniamin and Moadiah."
+                "text": "Piltai was the leader of the clans of Miniamin and Moadiah.",
+                "isContinuation": true
               }
             ],
             [
@@ -2427,7 +2433,8 @@
             [
               {
                 "verse": 18,
-                "text": "Jehonathan was the leader of Shemaiah's clan."
+                "text": "Jehonathan was the leader of Shemaiah's clan.",
+                "isContinuation": true
               }
             ],
             [
@@ -2439,7 +2446,8 @@
             [
               {
                 "verse": 19,
-                "text": "Uzzi was the leader of Jedaiah's clan."
+                "text": "Uzzi was the leader of Jedaiah's clan.",
+                "isContinuation": true
               }
             ],
             [
@@ -2451,7 +2459,8 @@
             [
               {
                 "verse": 20,
-                "text": "Eber was the leader of Amok's clan."
+                "text": "Eber was the leader of Amok's clan.",
+                "isContinuation": true
               }
             ],
             [
@@ -2463,13 +2472,8 @@
             [
               {
                 "verse": 21,
-                "text": "Nethanel was the leader of Jedaiah's clan."
-              }
-            ],
-            [
-              {
-                "verse": 21,
-                "text": "22 During the time when Eliashib, Joiada, Johanan and Jaddua were the leaders of the priests, they recorded the names of the Levites and the priests who were leaders of their clans. They did this until the time when King Darius ruled Persia. 23 They wrote the names of Levi's descendants who were leaders of their clans in the history book of Israel. They did that until the time of Eliashib's son, Johanan. 24 The leaders of the Levites were:Hashabiah, Sherebiah, Kadmiel's son, Jeshua, and their relatives.The two groups stood opposite each other to sing and praise and thank God. They did this in the way that God's servant, King David, had commanded. 25 The guards for the temple gates were:Mattaniah, Bakbukiah, Obadiah, Meshullam, Talmon and Akkub.They watched the temple rooms near the gates, where they stored special things. 26 They served as guards in the time of Joiakim, son of Jeshua and grandson of Jozadak. This was in the time when Nehemiah had authority over Judah, and Ezra the priest was teaching people God's Law.The people dedicate Jerusalem's wall to God 27 This is what happened when we dedicated the wall around Jerusalem to God. The people told the Levites to come to Jerusalem from the places where they lived. They wanted the Levites to help them to praise God with joy. The Levites would sing songs to thank God. They would make music with cymbals, harps and lyres.12:27 28 The temple singers came together from places near Jerusalem. They came from villages around Netophah, 29 and from Beth Gilgal, Geba and Azmaveth. The singers had built these villages so that they could live near to Jerusalem. 30 The priests and the Levites made themselves clean to serve God. Then they made the people clean, as well as the city's gates and its wall.12:30 31 I took the leaders of Judah to go and stand on top of the wall. I chose two large groups of singers to thank God with songs. I told the first group to walk along the wall to the south, in the direction of the Dung Gate. 32 Hoshaiah and half of the leaders of Judah followed this group of singers. 33 Azariah, Ezra, Meshullam, 34 Judah, Benjamin, Shemaiah and Jeremiah also followed them. 35 Some priests with trumpets went with them. They included Jonathan's son, Zechariah. He was a descendant of Asaph, through Shemaiah, Mattaniah, Micaiah and Zaccur, Asaph's son. 36 These other people helped Zechariah: Shemaiah, Azarel, Milalai, Gilalai, Maai, Nethanel, Judah and Hanani. They all had musical instruments, as King David had told them.Ezra, the teacher of God's Law, led this group of people. 37 When they arrived at the Fountain Gate they all went up the steps of the City of David. While they went up the steps, they passed King David's palace. Then they continued along the wall to the Water Gate, on the east side of the city. 38 The second group of singers went in the opposite direction. I followed them along the top of the wall, with half of the people. We went past the Tower of the Ovens and we continued to the Broad Wall. 39 Then we went over the Gate of Ephraim and over the Jeshanah Gate. We went along to the Fish Gate, the Tower of Hananel, the Tower of the Hundred and the Sheep Gate. We stopped at the Gate of the Guards. 40 Then the two groups of singers went to stand in the yard of God's temple. I went with them, together with half of the officers. 41 The priests who had trumpets were there: Eliakim, Maaseiah, Miniamin, Micaiah, Elioenai, Zechariah and Hananiah. 42 Maaseiah, Shemaiah, Eleazar, Uzzi, Jehohanan, Malkijah, Elam and Ezer followed them. Jezrahiah led the groups of singers, so that they sang loudly. 43 On that day, the people offered many sacrifices to God. They were full of joy because God had caused them to be very happy. Men, women and children were all shouting with joy. Far away from the city, people could hear the noise! 44 On the same day, we chose men to take care of the rooms where they stored the people's gifts. Those gifts to God were the first fruits from the harvest and the tithes. They had to bring these gifts from the fields near each city. They read this in the Law. They were gifts for the Levites and the priests, as God's Law commanded. The people of Judah were happy to help the priests and Levites who served God. 45 The priests and the Levites did the work that God had given them to make the people clean. The temple singers and guards also served God in the way that King David and his son Solomon had commanded. 46 Long ago, when King David and Asaph were alive, there had been people to lead the singers. They sang songs to praise God and to thank him. 47 In the time of Zerubbabel and Nehemiah, all the Israelites shared their food with the singers and the guards. Every day they kept separate the part that was for the Levites. The Levites also kept separate the part that was for the priests."
+                "text": "Nethanel was the leader of Jedaiah's clan.",
+                "isContinuation": true
               }
             ],
             [
@@ -2491,13 +2495,15 @@
             [
               {
                 "verse": 24,
-                "text": "Hashabiah, Sherebiah, Kadmiel's son, Jeshua, and their relatives."
+                "text": "Hashabiah, Sherebiah, Kadmiel's son, Jeshua, and their relatives.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 24,
-                "text": "The two groups stood opposite each other to sing and praise and thank God. They did this in the way that God's servant, King David, had commanded."
+                "text": "The two groups stood opposite each other to sing and praise and thank God. They did this in the way that God's servant, King David, had commanded.",
+                "isContinuation": true
               }
             ],
             [
@@ -2509,13 +2515,15 @@
             [
               {
                 "verse": 25,
-                "text": "Mattaniah, Bakbukiah, Obadiah, Meshullam, Talmon and Akkub."
+                "text": "Mattaniah, Bakbukiah, Obadiah, Meshullam, Talmon and Akkub.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 25,
-                "text": "They watched the temple rooms near the gates, where they stored special things."
+                "text": "They watched the temple rooms near the gates, where they stored special things.",
+                "isContinuation": true
               },
               {
                 "verse": 26,
@@ -2578,7 +2586,8 @@
             [
               {
                 "verse": 36,
-                "text": "Ezra, the teacher of God's Law, led this group of people."
+                "text": "Ezra, the teacher of God's Law, led this group of people.",
+                "isContinuation": true
               },
               {
                 "verse": 37,
@@ -2766,7 +2775,8 @@
             [
               {
                 "verse": 22,
-                "text": "My God, please remember this good thing that I have done. Because of your faithful love, please be kind to me."
+                "text": "My God, please remember this good thing that I have done. Because of your faithful love, please be kind to me.",
+                "isContinuation": true
               }
             ],
             [
@@ -2820,7 +2830,8 @@
             [
               {
                 "verse": 31,
-                "text": "My God, please remember to bless me."
+                "text": "My God, please remember to bless me.",
+                "isContinuation": true
               }
             ]
           ]

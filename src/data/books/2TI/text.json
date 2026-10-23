@@ -33,7 +33,8 @@
             [
               {
                 "verse": 2,
-                "text": "I pray that God the Father and Christ Jesus our Lord will continue to help you and be kind to you. I pray that they will give you peace in your mind."
+                "text": "I pray that God the Father and Christ Jesus our Lord will continue to help you and be kind to you. I pray that they will give you peace in your mind.",
+                "isContinuation": true
               }
             ],
             [
@@ -202,13 +203,15 @@
             [
               {
                 "verse": 11,
-                "text": "‘If we have died with Christ in this world,"
+                "text": "‘If we have died with Christ in this world,",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 11,
-                "text": "we will also live with him in the future world."
+                "text": "we will also live with him in the future world.",
+                "isContinuation": true
               }
             ],
             [
@@ -220,19 +223,22 @@
             [
               {
                 "verse": 12,
-                "text": "we will also rule with him there in heaven."
+                "text": "we will also rule with him there in heaven.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 12,
-                "text": "But if we say that we do not know Christ,"
+                "text": "But if we say that we do not know Christ,",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 12,
-                "text": "he will also say that he does not know us."
+                "text": "he will also say that he does not know us.",
+                "isContinuation": true
               }
             ],
             [
@@ -244,13 +250,15 @@
             [
               {
                 "verse": 13,
-                "text": "he will still be someone that people can trust."
+                "text": "he will still be someone that people can trust.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 13,
-                "text": "He will always remain true to his nature.’"
+                "text": "He will always remain true to his nature.’",
+                "isContinuation": true
               }
             ]
           ]

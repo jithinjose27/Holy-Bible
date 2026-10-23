@@ -33,7 +33,8 @@
             [
               {
                 "verse": 2,
-                "text": "I, the Lord, was very angry with your ancestors."
+                "text": "I, the Lord, was very angry with your ancestors.",
+                "isContinuation": true
               },
               {
                 "verse": 3,
@@ -80,7 +81,8 @@
             [
               {
                 "verse": 9,
-                "text": "The angel said to me, ‘I will show you what they are.’"
+                "text": "The angel said to me, ‘I will show you what they are.’",
+                "isContinuation": true
               }
             ],
             [
@@ -145,7 +147,8 @@
             [
               {
                 "verse": 19,
-                "text": "The angel replied, ‘These are the powerful enemies that took away the people of Judah, the people of Israel and the people of Jerusalem.’"
+                "text": "The angel replied, ‘These are the powerful enemies that took away the people of Judah, the people of Israel and the people of Jerusalem.’",
+                "isContinuation": true
               }
             ],
             [
@@ -161,7 +164,8 @@
             [
               {
                 "verse": 21,
-                "text": "The Lord answered, ‘The horns are the enemies that took away Judah's people so that they have become helpless. But the workers have come to frighten the nations that have attacked Judah. The workers will take away the power of those nations.’"
+                "text": "The Lord answered, ‘The horns are the enemies that took away Judah's people so that they have become helpless. But the workers have come to frighten the nations that have attacked Judah. The workers will take away the power of those nations.’",
+                "isContinuation": true
               }
             ]
           ]
@@ -197,7 +201,8 @@
             [
               {
                 "verse": 2,
-                "text": "He replied, ‘I am going to measure Jerusalem. I want to see how wide it is and how long it is.’"
+                "text": "He replied, ‘I am going to measure Jerusalem. I want to see how wide it is and how long it is.’",
+                "isContinuation": true
               }
             ],
             [
@@ -355,7 +360,8 @@
             [
               {
                 "verse": 2,
-                "text": "I answered, ‘I see a lampstand that is made of gold. It has a bowl on top and there are seven lamps. There are seven pipes that take oil from the bowl to each lamp."
+                "text": "I answered, ‘I see a lampstand that is made of gold. It has a bowl on top and there are seven lamps. There are seven pipes that take oil from the bowl to each lamp.",
+                "isContinuation": true
               },
               {
                 "verse": 3,
@@ -377,7 +383,8 @@
             [
               {
                 "verse": 5,
-                "text": "I said, ‘No, sir, I do not know.’"
+                "text": "I said, ‘No, sir, I do not know.’",
+                "isContinuation": true
               }
             ],
             [
@@ -427,7 +434,8 @@
             [
               {
                 "verse": 13,
-                "text": "I said, ‘No, sir, I do not know.’"
+                "text": "I said, ‘No, sir, I do not know.’",
+                "isContinuation": true
               }
             ],
             [
@@ -469,7 +477,8 @@
             [
               {
                 "verse": 2,
-                "text": "I answered, ‘I see a scroll that is flying in the air. It is about 10 metres long and 5 metres wide.’"
+                "text": "I answered, ‘I see a scroll that is flying in the air. It is about 10 metres long and 5 metres wide.’",
+                "isContinuation": true
               }
             ],
             [
@@ -502,7 +511,8 @@
             [
               {
                 "verse": 6,
-                "text": "He said, ‘It is a basket that people use to measure grain.’ He also said, ‘It shows the sin of all the people in the land.’"
+                "text": "He said, ‘It is a basket that people use to measure grain.’ He also said, ‘It shows the sin of all the people in the land.’",
+                "isContinuation": true
               }
             ],
             [
@@ -877,7 +887,8 @@
             [
               {
                 "verse": 1,
-                "text": "Everyone looks to see what the Lord will do, including all the tribes of Israel."
+                "text": "Everyone looks to see what the Lord will do, including all the tribes of Israel.",
+                "isContinuation": true
               },
               {
                 "verse": 2,
@@ -930,31 +941,36 @@
             [
               {
                 "verse": 9,
-                "text": "Shout with joy, people of Jerusalem!"
+                "text": "Shout with joy, people of Jerusalem!",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 9,
-                "text": "Look! Your king is coming to you."
+                "text": "Look! Your king is coming to you.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 9,
-                "text": "He is righteous and he has won against his enemies."
+                "text": "He is righteous and he has won against his enemies.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 9,
-                "text": "He is humble and he is riding on a donkey."
+                "text": "He is humble and he is riding on a donkey.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 9,
-                "text": "Yes, he is riding on a young donkey."
+                "text": "Yes, he is riding on a young donkey.",
+                "isContinuation": true
               }
             ],
             [
@@ -966,37 +982,36 @@
             [
               {
                 "verse": 10,
-                "text": "I will remove the soldiers' horses from Jerusalem,"
+                "text": "I will remove the soldiers' horses from Jerusalem,",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 10,
-                "text": "and I will destroy their bows and their arrows."
+                "text": "and I will destroy their bows and their arrows.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 10,
-                "text": "The king will tell the nations that they will live in peace."
+                "text": "The king will tell the nations that they will live in peace.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 10,
-                "text": "He will rule as king from the sea in the west to the sea in the east."
+                "text": "He will rule as king from the sea in the west to the sea in the east.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 10,
-                "text": "He will rule everywhere, from the Euphrates River to the furthest places on the earth."
-              }
-            ],
-            [
-              {
-                "verse": 10,
-                "text": "11 I made a covenant with you, my people. The blood of sacrifices showed that you agreed with that covenant. Now some of you are prisoners. I will rescue those prisoners from dark places where there is no water. 12 Yes, you prisoners who now hope for better things, return home where you will be safe. I tell you this today: I will give back to you twice as much as you have lost.9:11 13 I will use Judah as my bow and Ephraim as my arrow to attack my enemies! I will use you, young men of Zion, to attack the soldiers of Greece. I will cause Zion to be like a soldier's sword in my hand. 14 Then the Lord will appear above his people.He will shoot his arrows like lightning in the sky.The Almighty Lord will make a loud noise with his trumpet.He will march into battle like a storm from the south. 15 The Lord Almighty will protect his people.They will attack their enemies with stones from their slingsand they will win the battle.They will drink and they will shout loudly,like men who are drunk.The blood of their enemies will make them full,as a priest's bowl is full of bloodwhen he pours it on the corners of the altar. 16 On that day, the Lord their God will rescue his people,as a shepherd rescues his sheep.They will live in his land,like bright jewels that shine in a crown. 17 It will all be very good and beautiful! Grain from the land will make the young men strong.The young women will become strongas they drink new wine."
+                "text": "He will rule everywhere, from the Euphrates River to the furthest places on the earth.",
+                "isContinuation": true
               }
             ],
             [
@@ -1017,12 +1032,6 @@
             ],
             [
               {
-                "verse": 13,
-                "text": "14 Then the Lord will appear above his people.He will shoot his arrows like lightning in the sky.The Almighty Lord will make a loud noise with his trumpet.He will march into battle like a storm from the south. 15 The Lord Almighty will protect his people.They will attack their enemies with stones from their slingsand they will win the battle.They will drink and they will shout loudly,like men who are drunk.The blood of their enemies will make them full,as a priest's bowl is full of bloodwhen he pours it on the corners of the altar. 16 On that day, the Lord their God will rescue his people,as a shepherd rescues his sheep.They will live in his land,like bright jewels that shine in a crown. 17 It will all be very good and beautiful! Grain from the land will make the young men strong.The young women will become strongas they drink new wine."
-              }
-            ],
-            [
-              {
                 "verse": 14,
                 "text": "Then the Lord will appear above his people."
               }
@@ -1030,19 +1039,22 @@
             [
               {
                 "verse": 14,
-                "text": "He will shoot his arrows like lightning in the sky."
+                "text": "He will shoot his arrows like lightning in the sky.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 14,
-                "text": "The Almighty Lord will make a loud noise with his trumpet."
+                "text": "The Almighty Lord will make a loud noise with his trumpet.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 14,
-                "text": "He will march into battle like a storm from the south."
+                "text": "He will march into battle like a storm from the south.",
+                "isContinuation": true
               }
             ],
             [
@@ -1054,43 +1066,50 @@
             [
               {
                 "verse": 15,
-                "text": "They will attack their enemies with stones from their slings"
+                "text": "They will attack their enemies with stones from their slings",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 15,
-                "text": "and they will win the battle."
+                "text": "and they will win the battle.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 15,
-                "text": "They will drink and they will shout loudly,"
+                "text": "They will drink and they will shout loudly,",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 15,
-                "text": "like men who are drunk."
+                "text": "like men who are drunk.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 15,
-                "text": "The blood of their enemies will make them full,"
+                "text": "The blood of their enemies will make them full,",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 15,
-                "text": "as a priest's bowl is full of blood"
+                "text": "as a priest's bowl is full of blood",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 15,
-                "text": "when he pours it on the corners of the altar."
+                "text": "when he pours it on the corners of the altar.",
+                "isContinuation": true
               }
             ],
             [
@@ -1102,19 +1121,22 @@
             [
               {
                 "verse": 16,
-                "text": "as a shepherd rescues his sheep."
+                "text": "as a shepherd rescues his sheep.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 16,
-                "text": "They will live in his land,"
+                "text": "They will live in his land,",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 16,
-                "text": "like bright jewels that shine in a crown."
+                "text": "like bright jewels that shine in a crown.",
+                "isContinuation": true
               }
             ],
             [
@@ -1126,19 +1148,22 @@
             [
               {
                 "verse": 17,
-                "text": "Grain from the land will make the young men strong."
+                "text": "Grain from the land will make the young men strong.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 17,
-                "text": "The young women will become strong"
+                "text": "The young women will become strong",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 17,
-                "text": "as they drink new wine."
+                "text": "as they drink new wine.",
+                "isContinuation": true
               }
             ]
           ]
@@ -1183,7 +1208,8 @@
             [
               {
                 "verse": 3,
-                "text": "Like a shepherd, the Lord Almighty takes care of his people. He will cause Judah's people to become strong, like horses that are ready to fight in a battle."
+                "text": "Like a shepherd, the Lord Almighty takes care of his people. He will cause Judah's people to become strong, like horses that are ready to fight in a battle.",
+                "isContinuation": true
               }
             ],
             [
@@ -1195,25 +1221,29 @@
             [
               {
                 "verse": 4,
-                "text": "He is like the most important stone at the corner of a building."
+                "text": "He is like the most important stone at the corner of a building.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 4,
-                "text": "He is like a strong peg in a wall."
+                "text": "He is like a strong peg in a wall.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 4,
-                "text": "He is like a bow that is ready to shoot arrows."
+                "text": "He is like a bow that is ready to shoot arrows.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 4,
-                "text": "Every strong ruler will come from Judah's descendants."
+                "text": "Every strong ruler will come from Judah's descendants.",
+                "isContinuation": true
               }
             ],
             [
@@ -1261,13 +1291,15 @@
             [
               {
                 "verse": 11,
-                "text": "Proud Assyria will become ashamed."
+                "text": "Proud Assyria will become ashamed.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 11,
-                "text": "Egypt will no longer have the power to rule other nations."
+                "text": "Egypt will no longer have the power to rule other nations.",
+                "isContinuation": true
               }
             ],
             [
@@ -1279,13 +1311,15 @@
             [
               {
                 "verse": 12,
-                "text": "They will give me honour wherever they go.’"
+                "text": "They will give me honour wherever they go.’",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 12,
-                "text": "That is what the Lord says."
+                "text": "That is what the Lord says.",
+                "isContinuation": true
               }
             ]
           ]
@@ -1314,7 +1348,8 @@
             [
               {
                 "verse": 1,
-                "text": "so that the fire can destroy your cedar trees."
+                "text": "so that the fire can destroy your cedar trees.",
+                "isContinuation": true
               }
             ],
             [
@@ -1326,19 +1361,22 @@
             [
               {
                 "verse": 2,
-                "text": "The great trees are completely spoiled."
+                "text": "The great trees are completely spoiled.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 2,
-                "text": "Cry aloud, Bashan's oak trees."
+                "text": "Cry aloud, Bashan's oak trees.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 2,
-                "text": "Enemies have cut down the whole forest."
+                "text": "Enemies have cut down the whole forest.",
+                "isContinuation": true
               }
             ],
             [
@@ -1350,19 +1388,22 @@
             [
               {
                 "verse": 3,
-                "text": "Enemies have destroyed the fields where their sheep feed."
+                "text": "Enemies have destroyed the fields where their sheep feed.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 3,
-                "text": "Listen to the young lions as they roar!"
+                "text": "Listen to the young lions as they roar!",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 3,
-                "text": "The trees of the Jordan Valley are completely spoiled."
+                "text": "The trees of the Jordan Valley are completely spoiled.",
+                "isContinuation": true
               }
             ]
           ]
@@ -1379,7 +1420,8 @@
             [
               {
                 "verse": 4,
-                "text": "‘You must take care of my people, as a shepherd takes care of his sheep. My people are like sheep that people will soon kill."
+                "text": "‘You must take care of my people, as a shepherd takes care of his sheep. My people are like sheep that people will soon kill.",
+                "isContinuation": true
               },
               {
                 "verse": 5,
@@ -1455,19 +1497,22 @@
             [
               {
                 "verse": 17,
-                "text": "His enemy's sword will cut his arm and his right eye."
+                "text": "His enemy's sword will cut his arm and his right eye.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 17,
-                "text": "His arm will become weak and useless."
+                "text": "His arm will become weak and useless.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 17,
-                "text": "His right eye will become completely blind.’"
+                "text": "His right eye will become completely blind.’",
+                "isContinuation": true
               }
             ]
           ]
@@ -1630,25 +1675,29 @@
             [
               {
                 "verse": 7,
-                "text": "‘Wake up, my sword!"
+                "text": "‘Wake up, my sword!",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 7,
-                "text": "Attack my shepherd, the man who is near to me."
+                "text": "Attack my shepherd, the man who is near to me.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 7,
-                "text": "Kill the shepherd and the sheep will run away."
+                "text": "Kill the shepherd and the sheep will run away.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 7,
-                "text": "I will attack the little sheep.’"
+                "text": "I will attack the little sheep.’",
+                "isContinuation": true
               }
             ],
             [
@@ -1660,13 +1709,15 @@
             [
               {
                 "verse": 8,
-                "text": "‘In the whole land, only one third of the people will remain alive."
+                "text": "‘In the whole land, only one third of the people will remain alive.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 8,
-                "text": "Two-thirds of the people will die."
+                "text": "Two-thirds of the people will die.",
+                "isContinuation": true
               }
             ],
             [
@@ -1678,37 +1729,43 @@
             [
               {
                 "verse": 9,
-                "text": "I will make them pure,"
+                "text": "I will make them pure,",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 9,
-                "text": "as men use fire to make gold and silver pure."
+                "text": "as men use fire to make gold and silver pure.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 9,
-                "text": "They will call to me for help"
+                "text": "They will call to me for help",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 9,
-                "text": "and I will answer them."
+                "text": "and I will answer them.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 9,
-                "text": "I will say, “These are my people.”"
+                "text": "I will say, “These are my people.”",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 9,
-                "text": "They will say, “The Lord is our God.” ’"
+                "text": "They will say, “The Lord is our God.” ’",
+                "isContinuation": true
               }
             ]
           ]
@@ -1758,7 +1815,8 @@
             [
               {
                 "verse": 5,
-                "text": "Then the Lord my God will appear. He will bring his holy angels with him."
+                "text": "Then the Lord my God will appear. He will bring his holy angels with him.",
+                "isContinuation": true
               }
             ],
             [

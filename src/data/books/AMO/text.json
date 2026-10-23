@@ -44,7 +44,8 @@
             [
               {
                 "verse": 3,
-                "text": "They have been cruel to the people of Gilead. They used their iron weapons to tear them into pieces."
+                "text": "They have been cruel to the people of Gilead. They used their iron weapons to tear them into pieces.",
+                "isContinuation": true
               },
               {
                 "verse": 4,
@@ -57,12 +58,6 @@
             ],
             [
               {
-                "verse": 5,
-                "text": "6 The Lord says, ‘The people of Gaza have done more and more wrong things. So I will certainly punish them.1:6They caught my people and they took them away from their homes. They sold them to the people of Edom. 7 So I will send a fire to burn the walls of Gaza. It will destroy the strong buildings in Gaza. 8 I will remove the king of Ashdod city. And I will remove the king who rules in Ashkelon city. I will punish the people who live in Ekron city. All the Philistines who remain will die.’ That is what the Lord God says.1:8 9 The Lord says, ‘The people of Tyre have done more and more wrong things. So I will certainly punish them.Before, they had been friends with Israel's people. They had promised the Israelites, “We will be like brothers.” But the people of Tyre did not do what they had promised. They took my people away. They sold my people to the people of Edom and my people became slaves. 10 So I will start a fire on the walls of Tyre. And the fire will burn all the strong buildings. It will destroy them completely.’ 11 The Lord says, ‘The people of Edom have done more and more wrong things. So I will certainly punish them.They took their swords and they chased after their cousins, the Israelites. They were not kind. Instead, they continued to be angry all the time. They did not stop attacking them. 12 So I will start a fire. And the fire will destroy the big city of Teman. The fire will also burn the strong buildings of Bozrah city.’1:11 13 The Lord says, ‘The people of Ammon have done more and more wrong things. So I will certainly punish them.People from Ammon fought against the people of Gilead. They wanted to get more land for themselves. While they were killing people there, they also cut pregnant women open. 14 So I will send fire. And the fire will destroy the walls of Rabbah. It will destroy the strong buildings too. People will fight and they will shout. They will shout loudly, like the noise that a strong wind makes in a storm. 15 The enemies will take away their king and their leaders. They will take them to another country. The king and the leaders will not be free to return.’ That is what the Lord says.1:14"
-              }
-            ],
-            [
-              {
                 "verse": 6,
                 "text": "The Lord says, ‘The people of Gaza have done more and more wrong things. So I will certainly punish them."
               }
@@ -70,7 +65,8 @@
             [
               {
                 "verse": 6,
-                "text": "They caught my people and they took them away from their homes. They sold them to the people of Edom."
+                "text": "They caught my people and they took them away from their homes. They sold them to the people of Edom.",
+                "isContinuation": true
               },
               {
                 "verse": 7,
@@ -83,12 +79,6 @@
             ],
             [
               {
-                "verse": 8,
-                "text": "9 The Lord says, ‘The people of Tyre have done more and more wrong things. So I will certainly punish them.Before, they had been friends with Israel's people. They had promised the Israelites, “We will be like brothers.” But the people of Tyre did not do what they had promised. They took my people away. They sold my people to the people of Edom and my people became slaves. 10 So I will start a fire on the walls of Tyre. And the fire will burn all the strong buildings. It will destroy them completely.’ 11 The Lord says, ‘The people of Edom have done more and more wrong things. So I will certainly punish them.They took their swords and they chased after their cousins, the Israelites. They were not kind. Instead, they continued to be angry all the time. They did not stop attacking them. 12 So I will start a fire. And the fire will destroy the big city of Teman. The fire will also burn the strong buildings of Bozrah city.’1:11 13 The Lord says, ‘The people of Ammon have done more and more wrong things. So I will certainly punish them.People from Ammon fought against the people of Gilead. They wanted to get more land for themselves. While they were killing people there, they also cut pregnant women open. 14 So I will send fire. And the fire will destroy the walls of Rabbah. It will destroy the strong buildings too. People will fight and they will shout. They will shout loudly, like the noise that a strong wind makes in a storm. 15 The enemies will take away their king and their leaders. They will take them to another country. The king and the leaders will not be free to return.’ That is what the Lord says.1:14"
-              }
-            ],
-            [
-              {
                 "verse": 9,
                 "text": "The Lord says, ‘The people of Tyre have done more and more wrong things. So I will certainly punish them."
               }
@@ -96,17 +86,12 @@
             [
               {
                 "verse": 9,
-                "text": "Before, they had been friends with Israel's people. They had promised the Israelites, “We will be like brothers.” But the people of Tyre did not do what they had promised. They took my people away. They sold my people to the people of Edom and my people became slaves."
+                "text": "Before, they had been friends with Israel's people. They had promised the Israelites, “We will be like brothers.” But the people of Tyre did not do what they had promised. They took my people away. They sold my people to the people of Edom and my people became slaves.",
+                "isContinuation": true
               },
               {
                 "verse": 10,
                 "text": "So I will start a fire on the walls of Tyre. And the fire will burn all the strong buildings. It will destroy them completely.’"
-              }
-            ],
-            [
-              {
-                "verse": 10,
-                "text": "11 The Lord says, ‘The people of Edom have done more and more wrong things. So I will certainly punish them.They took their swords and they chased after their cousins, the Israelites. They were not kind. Instead, they continued to be angry all the time. They did not stop attacking them. 12 So I will start a fire. And the fire will destroy the big city of Teman. The fire will also burn the strong buildings of Bozrah city.’1:11 13 The Lord says, ‘The people of Ammon have done more and more wrong things. So I will certainly punish them.People from Ammon fought against the people of Gilead. They wanted to get more land for themselves. While they were killing people there, they also cut pregnant women open. 14 So I will send fire. And the fire will destroy the walls of Rabbah. It will destroy the strong buildings too. People will fight and they will shout. They will shout loudly, like the noise that a strong wind makes in a storm. 15 The enemies will take away their king and their leaders. They will take them to another country. The king and the leaders will not be free to return.’ That is what the Lord says.1:14"
               }
             ],
             [
@@ -118,17 +103,12 @@
             [
               {
                 "verse": 11,
-                "text": "They took their swords and they chased after their cousins, the Israelites. They were not kind. Instead, they continued to be angry all the time. They did not stop attacking them."
+                "text": "They took their swords and they chased after their cousins, the Israelites. They were not kind. Instead, they continued to be angry all the time. They did not stop attacking them.",
+                "isContinuation": true
               },
               {
                 "verse": 12,
                 "text": "So I will start a fire. And the fire will destroy the big city of Teman. The fire will also burn the strong buildings of Bozrah city.’"
-              }
-            ],
-            [
-              {
-                "verse": 12,
-                "text": "13 The Lord says, ‘The people of Ammon have done more and more wrong things. So I will certainly punish them.People from Ammon fought against the people of Gilead. They wanted to get more land for themselves. While they were killing people there, they also cut pregnant women open. 14 So I will send fire. And the fire will destroy the walls of Rabbah. It will destroy the strong buildings too. People will fight and they will shout. They will shout loudly, like the noise that a strong wind makes in a storm. 15 The enemies will take away their king and their leaders. They will take them to another country. The king and the leaders will not be free to return.’ That is what the Lord says.1:14"
               }
             ],
             [
@@ -140,7 +120,8 @@
             [
               {
                 "verse": 13,
-                "text": "People from Ammon fought against the people of Gilead. They wanted to get more land for themselves. While they were killing people there, they also cut pregnant women open."
+                "text": "People from Ammon fought against the people of Gilead. They wanted to get more land for themselves. While they were killing people there, they also cut pregnant women open.",
+                "isContinuation": true
               },
               {
                 "verse": 14,
@@ -182,7 +163,8 @@
             [
               {
                 "verse": 1,
-                "text": "They dug up the bones of Edom's king. They burned his bones until they became ashes."
+                "text": "They dug up the bones of Edom's king. They burned his bones until they became ashes.",
+                "isContinuation": true
               },
               {
                 "verse": 2,
@@ -207,7 +189,8 @@
             [
               {
                 "verse": 4,
-                "text": "They refused to obey my laws and my commands. They have listened to their false gods. Those are the same false gods that their ancestors served."
+                "text": "They refused to obey my laws and my commands. They have listened to their false gods. Those are the same false gods that their ancestors served.",
+                "isContinuation": true
               },
               {
                 "verse": 5,
@@ -228,7 +211,8 @@
             [
               {
                 "verse": 6,
-                "text": "They sold righteous people for silver. And they sold poor people for only the price of shoes."
+                "text": "They sold righteous people for silver. And they sold poor people for only the price of shoes.",
+                "isContinuation": true
               },
               {
                 "verse": 7,
@@ -539,12 +523,6 @@
             ],
             [
               {
-                "verse": 9,
-                "text": "10 ‘You Israelites hate honest judges. You laugh at anyone who speaks the truth. 11 You cheat poor people so that they pay too much tax. You take away their food for yourselves. Because of that, you will not live in the beautiful houses that you have built for yourselves. You will not drink wine from the vines that you have planted. 12 I, the Lord, know all the wrong things that you have done. They are very many and they are very bad. You are cruel to good people. You take bribes to tell lies. Sometimes a person gives money to you to make you tell lies. As a result, poor people do not receive justice. 13 This is such an evil time that clever people say nothing. That is how they keep themselves safe.’ 14 You say that the Lord God Almighty is with you. Stop doing evil things. Do good things, so that you will live. Then the Lord God Almighty will really be with you, as you say. 15 Hate evil things and love good things. When you judge people, be fair and honest. Then maybe the Lord God Almighty will be kind to those of his people who still remain, Joseph's descendants. 16 The Lord, the Lord God Almighty says, ‘All the people will be sad. They will weep and cry loudly in all the streets. They will tell the farmers to weep with them. They will tell the singers to sing sad songs for them. 17 In every field and garden, people will be weeping, because I will come to punish them all.’ That is what the Lord says.The great day of the Lord will bring punishment 18 You want the great day of the Lord to come. But it will be very bad for you! You think that God will punish your enemies on that day. But that day will not bring light to you, it will bring darkness. 19 Nobody will escape! It will be like a man who runs away from a lion, but then he meets a bear! When he goes into his house to be safe, he puts his hand on a wall and a snake bites him! 20 Know this: The day of the Lord will be dark, not light. It will bring trouble, not joy.God wants his people to do what is right 21 The Lord says, ‘When you have your festivals, I hate them! When you meet to worship me, it does not make me happy! 22 When you bring burnt offerings and grain offerings to me, they do not please me. I will not accept your friendship offerings of fat animals. 23 When you sing songs to worship me, I will not listen. They are just noise! I do not want to hear the music of your harps. 24 What I do want to see is justice! I want to see that you always do what is right. Those good things should never stop, like a river that always runs with water. 25 You people of Israel's family, listen to me! I led you through the wilderness for 40 years. During that time, did you worship me with sacrifices and offerings? No! 26 Instead, you have idols that you have made for yourselves. You have the idol of Sakkuth, your king. You have the idol of Kaiwan, your star god. Now you will have to carry them with you. 27 I will send you away as prisoners. Your enemies will take you beyond Damascus.’That is what the Lord says, and he is God Almighty."
-              }
-            ],
-            [
-              {
                 "verse": 10,
                 "text": "‘You Israelites hate honest judges. You laugh at anyone who speaks the truth."
               },
@@ -561,12 +539,6 @@
               {
                 "verse": 13,
                 "text": "This is such an evil time that clever people say nothing. That is how they keep themselves safe.’"
-              }
-            ],
-            [
-              {
-                "verse": 13,
-                "text": "14 You say that the Lord God Almighty is with you. Stop doing evil things. Do good things, so that you will live. Then the Lord God Almighty will really be with you, as you say. 15 Hate evil things and love good things. When you judge people, be fair and honest. Then maybe the Lord God Almighty will be kind to those of his people who still remain, Joseph's descendants. 16 The Lord, the Lord God Almighty says, ‘All the people will be sad. They will weep and cry loudly in all the streets. They will tell the farmers to weep with them. They will tell the singers to sing sad songs for them. 17 In every field and garden, people will be weeping, because I will come to punish them all.’ That is what the Lord says.The great day of the Lord will bring punishment 18 You want the great day of the Lord to come. But it will be very bad for you! You think that God will punish your enemies on that day. But that day will not bring light to you, it will bring darkness. 19 Nobody will escape! It will be like a man who runs away from a lion, but then he meets a bear! When he goes into his house to be safe, he puts his hand on a wall and a snake bites him! 20 Know this: The day of the Lord will be dark, not light. It will bring trouble, not joy.God wants his people to do what is right 21 The Lord says, ‘When you have your festivals, I hate them! When you meet to worship me, it does not make me happy! 22 When you bring burnt offerings and grain offerings to me, they do not please me. I will not accept your friendship offerings of fat animals. 23 When you sing songs to worship me, I will not listen. They are just noise! I do not want to hear the music of your harps. 24 What I do want to see is justice! I want to see that you always do what is right. Those good things should never stop, like a river that always runs with water. 25 You people of Israel's family, listen to me! I led you through the wilderness for 40 years. During that time, did you worship me with sacrifices and offerings? No! 26 Instead, you have idols that you have made for yourselves. You have the idol of Sakkuth, your king. You have the idol of Kaiwan, your star god. Now you will have to carry them with you. 27 I will send you away as prisoners. Your enemies will take you beyond Damascus.’That is what the Lord says, and he is God Almighty."
               }
             ],
             [
@@ -654,7 +626,8 @@
             [
               {
                 "verse": 27,
-                "text": "That is what the Lord says, and he is God Almighty."
+                "text": "That is what the Lord says, and he is God Almighty.",
+                "isContinuation": true
               }
             ]
           ]
@@ -727,13 +700,15 @@
             [
               {
                 "verse": 10,
-                "text": "The relative will answer, ‘No.’"
+                "text": "The relative will answer, ‘No.’",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 10,
-                "text": "Then the man will say, ‘Be quiet! Do not speak the name of the Lord!’"
+                "text": "Then the man will say, ‘Be quiet! Do not speak the name of the Lord!’",
+                "isContinuation": true
               }
             ],
             [
@@ -831,13 +806,15 @@
             [
               {
                 "verse": 8,
-                "text": "I said, ‘You are measuring the wall to see if it is straight.’"
+                "text": "I said, ‘You are measuring the wall to see if it is straight.’",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 8,
-                "text": "The Lord God said, ‘Understand this. I am ready to measure my people with this string. I will test them and I will punish them for their sins. I will not forgive them any more."
+                "text": "The Lord God said, ‘Understand this. I am ready to measure my people with this string. I will test them and I will punish them for their sins. I will not forgive them any more.",
+                "isContinuation": true
               },
               {
                 "verse": 9,
@@ -917,13 +894,15 @@
             [
               {
                 "verse": 2,
-                "text": "I answered him, ‘I see a basket of summer fruit.’"
+                "text": "I answered him, ‘I see a basket of summer fruit.’",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 2,
-                "text": "Then the Lord said to me, ‘The time has now come to punish my people. I will not forgive them any longer."
+                "text": "Then the Lord said to me, ‘The time has now come to punish my people. I will not forgive them any longer.",
+                "isContinuation": true
               },
               {
                 "verse": 3,
@@ -1038,12 +1017,6 @@
             ],
             [
               {
-                "verse": 6,
-                "text": "7 The Lord says, ‘You Israelite people, do not think that you are more important to me than the people of Ethiopia. It is true that I led you safely out of Egypt. But I also brought the Philistines from Crete. And I brought the Aramean people from Kir. 8 I, the Lord God, am carefully watching you Israelites. I see that you are a wicked nation, so I will remove you from the earth. But I will not completely destroy all the descendants of Jacob.’ That is what the Lord says.9:7 9 ‘Listen to me! I will cause trouble to come to Israel's family, as they live among other nations. It will be like a person who shakes a sieve to remove dirt from grain. 10 Those among my people who do bad things will die. They say, “God will not send trouble to us. Nothing bad will happen to us.” But their enemies will kill those bad people in war.’9:9Israel will become a strong kingdom again 11 The Lord says, ‘When that time comes, I will make David's kingdom strong again. It has become like a broken hut, but I will repair it. I will cause it to become as good and strong as it was when King David ruled. 12 You Israelites will fight the Edomites who still remain. You will win against them and the other nations that once belonged to me.’9:12That is what the Lord says, and he will do it. 13 The Lord says, ‘The time will come when food will grow very well in your fields. People will need to work quickly to cut down all their crops before they plough the ground to plant again. Lots of grapes will grow on your vines. People will work quickly to make wine from the grapes before they plant new vines. So much juice will pour out of the grapes that it will run down the hills! 14 I will bring the people of Israel, my people, back to their own land. Enemies destroyed their cities, but now my people will build them again. They will live safely in them. My people will plant vines. They will drink wine from their grapes. They will eat the fruit from trees that they have planted in their gardens. 15 And I will plant my people in their own land. That is the land that I have given to them, and nobody will ever pull them out of that land.’That is what the Lord your God says."
-              }
-            ],
-            [
-              {
                 "verse": 7,
                 "text": "The Lord says, ‘You Israelite people, do not think that you are more important to me than the people of Ethiopia. It is true that I led you safely out of Egypt. But I also brought the Philistines from Crete. And I brought the Aramean people from Kir."
               },
@@ -1080,7 +1053,8 @@
             [
               {
                 "verse": 12,
-                "text": "That is what the Lord says, and he will do it."
+                "text": "That is what the Lord says, and he will do it.",
+                "isContinuation": true
               }
             ],
             [
@@ -1102,7 +1076,8 @@
             [
               {
                 "verse": 15,
-                "text": "That is what the Lord your God says."
+                "text": "That is what the Lord your God says.",
+                "isContinuation": true
               }
             ]
           ]

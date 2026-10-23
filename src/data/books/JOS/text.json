@@ -31,7 +31,8 @@
             [
               {
                 "verse": 2,
-                "text": "‘Moses, my servant, is dead. Now you and all these people must get ready to go across the Jordan River. Lead the people of Israel into the land that I am giving to them."
+                "text": "‘Moses, my servant, is dead. Now you and all these people must get ready to go across the Jordan River. Lead the people of Israel into the land that I am giving to them.",
+                "isContinuation": true
               },
               {
                 "verse": 3,
@@ -137,7 +138,8 @@
             [
               {
                 "verse": 1,
-                "text": "When they came to Jericho city, they arrived at the house of a prostitute. Her name was Rahab. They stayed there."
+                "text": "When they came to Jericho city, they arrived at the house of a prostitute. Her name was Rahab. They stayed there.",
+                "isContinuation": true
               }
             ],
             [
@@ -424,7 +426,8 @@
             [
               {
                 "verse": 10,
-                "text": "The people went across the river quickly."
+                "text": "The people went across the river quickly.",
+                "isContinuation": true
               },
               {
                 "verse": 11,
@@ -561,7 +564,8 @@
             [
               {
                 "verse": 9,
-                "text": "So they called that place Gilgal, and it still has that name."
+                "text": "So they called that place Gilgal, and it still has that name.",
+                "isContinuation": true
               }
             ],
             [
@@ -598,7 +602,8 @@
             [
               {
                 "verse": 14,
-                "text": "Joshua fell on the ground to worship the man. He said, ‘Sir, I am your servant. Tell me what I should do.’"
+                "text": "Joshua fell on the ground to worship the man. He said, ‘Sir, I am your servant. Tell me what I should do.’",
+                "isContinuation": true
               }
             ],
             [
@@ -793,7 +798,8 @@
             [
               {
                 "verse": 2,
-                "text": "So the men went to Ai to see what they could discover."
+                "text": "So the men went to Ai to see what they could discover.",
+                "isContinuation": true
               },
               {
                 "verse": 3,
@@ -913,7 +919,8 @@
             [
               {
                 "verse": 25,
-                "text": "Then all the Israelites threw stones at him until he died. They also killed his family and they burned all the bodies."
+                "text": "Then all the Israelites threw stones at him until he died. They also killed his family and they burned all the bodies.",
+                "isContinuation": true
               },
               {
                 "verse": 26,
@@ -1027,7 +1034,8 @@
             [
               {
                 "verse": 18,
-                "text": "So Joshua held out his spear towards Ai."
+                "text": "So Joshua held out his spear towards Ai.",
+                "isContinuation": true
               }
             ],
             [
@@ -1174,7 +1182,8 @@
             [
               {
                 "verse": 8,
-                "text": "Joshua asked them, ‘Who are you? Where do you come from?’"
+                "text": "Joshua asked them, ‘Who are you? Where do you come from?’",
+                "isContinuation": true
               }
             ],
             [
@@ -1228,7 +1237,8 @@
             [
               {
                 "verse": 18,
-                "text": "The Israelite people were angry with their leaders, because of the agreement."
+                "text": "The Israelite people were angry with their leaders, because of the agreement.",
+                "isContinuation": true
               },
               {
                 "verse": 19,
@@ -1353,13 +1363,15 @@
             [
               {
                 "verse": 12,
-                "text": "‘Sun, stand still over Gibeon city."
+                "text": "‘Sun, stand still over Gibeon city.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 12,
-                "text": "Moon, stand still over Aijalon Valley.’"
+                "text": "Moon, stand still over Aijalon Valley.’",
+                "isContinuation": true
               }
             ],
             [
@@ -1659,7 +1671,8 @@
             [
               {
                 "verse": 23,
-                "text": "After all that, the people did not have to fight any more."
+                "text": "After all that, the people did not have to fight any more.",
+                "isContinuation": true
               }
             ]
           ]
@@ -1733,13 +1746,15 @@
             [
               {
                 "verse": 9,
-                "text": "king of Jericho,"
+                "text": "king of Jericho,",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 9,
-                "text": "king of Ai (near Bethel),"
+                "text": "king of Ai (near Bethel),",
+                "isContinuation": true
               }
             ],
             [
@@ -1751,7 +1766,8 @@
             [
               {
                 "verse": 10,
-                "text": "king of Hebron,"
+                "text": "king of Hebron,",
+                "isContinuation": true
               }
             ],
             [
@@ -1763,7 +1779,8 @@
             [
               {
                 "verse": 11,
-                "text": "king of Lachish,"
+                "text": "king of Lachish,",
+                "isContinuation": true
               }
             ],
             [
@@ -1775,7 +1792,8 @@
             [
               {
                 "verse": 12,
-                "text": "king of Gezer,"
+                "text": "king of Gezer,",
+                "isContinuation": true
               }
             ],
             [
@@ -1787,7 +1805,8 @@
             [
               {
                 "verse": 13,
-                "text": "king of Geder,"
+                "text": "king of Geder,",
+                "isContinuation": true
               }
             ],
             [
@@ -1799,7 +1818,8 @@
             [
               {
                 "verse": 14,
-                "text": "king of Arad,"
+                "text": "king of Arad,",
+                "isContinuation": true
               }
             ],
             [
@@ -1811,7 +1831,8 @@
             [
               {
                 "verse": 15,
-                "text": "king of Adullam,"
+                "text": "king of Adullam,",
+                "isContinuation": true
               }
             ],
             [
@@ -1823,7 +1844,8 @@
             [
               {
                 "verse": 16,
-                "text": "king of Bethel,"
+                "text": "king of Bethel,",
+                "isContinuation": true
               }
             ],
             [
@@ -1835,7 +1857,8 @@
             [
               {
                 "verse": 17,
-                "text": "king of Hepher,"
+                "text": "king of Hepher,",
+                "isContinuation": true
               }
             ],
             [
@@ -1847,7 +1870,8 @@
             [
               {
                 "verse": 18,
-                "text": "king of Lasharon,"
+                "text": "king of Lasharon,",
+                "isContinuation": true
               }
             ],
             [
@@ -1859,7 +1883,8 @@
             [
               {
                 "verse": 19,
-                "text": "king of Hazor,"
+                "text": "king of Hazor,",
+                "isContinuation": true
               }
             ],
             [
@@ -1871,7 +1896,8 @@
             [
               {
                 "verse": 20,
-                "text": "king of Acshaph,"
+                "text": "king of Acshaph,",
+                "isContinuation": true
               }
             ],
             [
@@ -1883,7 +1909,8 @@
             [
               {
                 "verse": 21,
-                "text": "king of Megiddo,"
+                "text": "king of Megiddo,",
+                "isContinuation": true
               }
             ],
             [
@@ -1895,7 +1922,8 @@
             [
               {
                 "verse": 22,
-                "text": "king of Jokneam in Carmel,"
+                "text": "king of Jokneam in Carmel,",
+                "isContinuation": true
               }
             ],
             [
@@ -1907,7 +1935,8 @@
             [
               {
                 "verse": 23,
-                "text": "king of Goyim in Gilgal,"
+                "text": "king of Goyim in Gilgal,",
+                "isContinuation": true
               }
             ],
             [
@@ -1919,7 +1948,8 @@
             [
               {
                 "verse": 24,
-                "text": "Joshua and the Israelites took the land of these 31 kings."
+                "text": "Joshua and the Israelites took the land of these 31 kings.",
+                "isContinuation": true
               }
             ]
           ]
@@ -1953,7 +1983,8 @@
             [
               {
                 "verse": 2,
-                "text": "All the land of the Philistines and the Geshurites."
+                "text": "All the land of the Philistines and the Geshurites.",
+                "isContinuation": true
               },
               {
                 "verse": 3,
@@ -2076,7 +2107,8 @@
             [
               {
                 "verse": 23,
-                "text": "Moses gave these towns and their villages to the tribe of Reuben, family by family."
+                "text": "Moses gave these towns and their villages to the tribe of Reuben, family by family.",
+                "isContinuation": true
               }
             ]
           ]
@@ -2129,12 +2161,6 @@
               {
                 "verse": 31,
                 "text": "It included half of Gilead, Ashtaroth and Edrei. (These were the cities that belonged to King Og in Bashan.) This land was for half the descendants of Makir, Manasseh's son, to live in, family by family."
-              }
-            ],
-            [
-              {
-                "verse": 31,
-                "text": "32 Moses gave all that land to those tribes, while they were still on the east side of the Jordan River. They were in Moab, on the flat land near Jericho. 33 Moses gave no part of the land to Levi's tribe. The Lord himself, Israel's God, would be their part, as he had promised them."
               }
             ],
             [
@@ -2243,7 +2269,8 @@
             [
               {
                 "verse": 15,
-                "text": "After that, there were no more battles in Canaan."
+                "text": "After that, there were no more battles in Canaan.",
+                "isContinuation": true
               }
             ]
           ]
@@ -2293,7 +2320,8 @@
             [
               {
                 "verse": 5,
-                "text": "Their north border started from the end of the Jordan at the Salt Sea."
+                "text": "Their north border started from the end of the Jordan at the Salt Sea.",
+                "isContinuation": true
               },
               {
                 "verse": 6,
@@ -2329,7 +2357,8 @@
             [
               {
                 "verse": 12,
-                "text": "Those were the borders of the land which Judah's tribe and its clans received."
+                "text": "Those were the borders of the land which Judah's tribe and its clans received.",
+                "isContinuation": true
               }
             ]
           ]
@@ -2391,7 +2420,8 @@
             [
               {
                 "verse": 21,
-                "text": "Kabzeel, Eder, Jagur,"
+                "text": "Kabzeel, Eder, Jagur,",
+                "isContinuation": true
               },
               {
                 "verse": 22,
@@ -2441,7 +2471,8 @@
             [
               {
                 "verse": 32,
-                "text": "That is 29 towns with their villages."
+                "text": "That is 29 towns with their villages.",
+                "isContinuation": true
               }
             ],
             [
@@ -2453,7 +2484,8 @@
             [
               {
                 "verse": 33,
-                "text": "Eshtaol, Zorah, Ashnah,"
+                "text": "Eshtaol, Zorah, Ashnah,",
+                "isContinuation": true
               },
               {
                 "verse": 34,
@@ -2471,7 +2503,8 @@
             [
               {
                 "verse": 36,
-                "text": "There were 14 towns and villages."
+                "text": "There were 14 towns and villages.",
+                "isContinuation": true
               }
             ],
             [
@@ -2499,7 +2532,8 @@
             [
               {
                 "verse": 41,
-                "text": "There were 16 towns and their villages."
+                "text": "There were 16 towns and their villages.",
+                "isContinuation": true
               }
             ],
             [
@@ -2519,7 +2553,8 @@
             [
               {
                 "verse": 44,
-                "text": "There were nine towns with their villages."
+                "text": "There were nine towns with their villages.",
+                "isContinuation": true
               }
             ],
             [
@@ -2545,7 +2580,8 @@
             [
               {
                 "verse": 48,
-                "text": "Shamir, Jattir, Sokoh,"
+                "text": "Shamir, Jattir, Sokoh,",
+                "isContinuation": true
               },
               {
                 "verse": 49,
@@ -2563,7 +2599,8 @@
             [
               {
                 "verse": 51,
-                "text": "There were 11 towns and their villages."
+                "text": "There were 11 towns and their villages.",
+                "isContinuation": true
               }
             ],
             [
@@ -2583,7 +2620,8 @@
             [
               {
                 "verse": 54,
-                "text": "There were nine towns and their villages."
+                "text": "There were nine towns and their villages.",
+                "isContinuation": true
               }
             ],
             [
@@ -2603,7 +2641,8 @@
             [
               {
                 "verse": 57,
-                "text": "There were ten towns and their villages."
+                "text": "There were ten towns and their villages.",
+                "isContinuation": true
               }
             ],
             [
@@ -2619,7 +2658,8 @@
             [
               {
                 "verse": 59,
-                "text": "There were six towns and their villages."
+                "text": "There were six towns and their villages.",
+                "isContinuation": true
               }
             ],
             [
@@ -2631,7 +2671,8 @@
             [
               {
                 "verse": 60,
-                "text": "There were two towns and their villages."
+                "text": "There were two towns and their villages.",
+                "isContinuation": true
               }
             ],
             [
@@ -2643,7 +2684,8 @@
             [
               {
                 "verse": 61,
-                "text": "Beth Arabah, Middin, Secacah,"
+                "text": "Beth Arabah, Middin, Secacah,",
+                "isContinuation": true
               },
               {
                 "verse": 62,
@@ -2653,7 +2695,8 @@
             [
               {
                 "verse": 62,
-                "text": "There were six towns and their villages."
+                "text": "There were six towns and their villages.",
+                "isContinuation": true
               }
             ],
             [
@@ -2716,7 +2759,8 @@
             [
               {
                 "verse": 5,
-                "text": "The border of their land went from Ataroth Addar in the east to Beth Horon."
+                "text": "The border of their land went from Ataroth Addar in the east to Beth Horon.",
+                "isContinuation": true
               },
               {
                 "verse": 6,
@@ -2734,7 +2778,8 @@
             [
               {
                 "verse": 8,
-                "text": "That is the land that Joshua gave to the families of the tribe of Ephraim."
+                "text": "That is the land that Joshua gave to the families of the tribe of Ephraim.",
+                "isContinuation": true
               },
               {
                 "verse": 9,
@@ -2790,7 +2835,8 @@
             [
               {
                 "verse": 4,
-                "text": "Joshua agreed and he gave land to them, like the other families."
+                "text": "Joshua agreed and he gave land to them, like the other families.",
+                "isContinuation": true
               },
               {
                 "verse": 5,
@@ -2994,7 +3040,8 @@
             [
               {
                 "verse": 20,
-                "text": "Those are the borders of the land that Joshua gave to the families of Benjamin's tribe."
+                "text": "Those are the borders of the land that Joshua gave to the families of Benjamin's tribe.",
+                "isContinuation": true
               }
             ],
             [
@@ -3006,7 +3053,8 @@
             [
               {
                 "verse": 21,
-                "text": "Jericho, Beth Hoglah, Emek Keziz,"
+                "text": "Jericho, Beth Hoglah, Emek Keziz,",
+                "isContinuation": true
               },
               {
                 "verse": 22,
@@ -3024,7 +3072,8 @@
             [
               {
                 "verse": 24,
-                "text": "There were 12 towns and their villages."
+                "text": "There were 12 towns and their villages.",
+                "isContinuation": true
               }
             ],
             [
@@ -3048,13 +3097,15 @@
             [
               {
                 "verse": 28,
-                "text": "There were 14 towns and their villages."
+                "text": "There were 14 towns and their villages.",
+                "isContinuation": true
               }
             ],
             [
               {
                 "verse": 28,
-                "text": "Joshua gave these cities to Benjamin's tribe, for each clan to live in."
+                "text": "Joshua gave these cities to Benjamin's tribe, for each clan to live in.",
+                "isContinuation": true
               }
             ]
           ]
@@ -3088,7 +3139,8 @@
             [
               {
                 "verse": 2,
-                "text": "Beersheba (also called Sheba), Moladah,"
+                "text": "Beersheba (also called Sheba), Moladah,",
+                "isContinuation": true
               },
               {
                 "verse": 3,
@@ -3110,7 +3162,8 @@
             [
               {
                 "verse": 6,
-                "text": "There were 13 towns and their villages."
+                "text": "There were 13 towns and their villages.",
+                "isContinuation": true
               }
             ],
             [
@@ -3122,7 +3175,8 @@
             [
               {
                 "verse": 7,
-                "text": "There were four towns and their villages."
+                "text": "There were four towns and their villages.",
+                "isContinuation": true
               },
               {
                 "verse": 8,
@@ -3132,7 +3186,8 @@
             [
               {
                 "verse": 8,
-                "text": "That was the land that Joshua gave to the families of Simeon's tribe."
+                "text": "That was the land that Joshua gave to the families of Simeon's tribe.",
+                "isContinuation": true
               },
               {
                 "verse": 9,
@@ -3173,7 +3228,8 @@
             [
               {
                 "verse": 15,
-                "text": "There were 12 towns and their villages."
+                "text": "There were 12 towns and their villages.",
+                "isContinuation": true
               }
             ],
             [
@@ -3216,7 +3272,8 @@
             [
               {
                 "verse": 22,
-                "text": "There were 16 towns and their villages."
+                "text": "There were 16 towns and their villages.",
+                "isContinuation": true
               }
             ],
             [
@@ -3659,12 +3716,6 @@
             ],
             [
               {
-                "verse": 42,
-                "text": "43 That is how the Lord gave the land to all the Israelite people. He had promised their ancestors that he would give the land to them. They took it from the people who had lived there, and then they lived there themselves. 44 The Lord let them live there safely, as he had promised to their ancestors. The Lord made them stronger than their enemies, so nobody could attack them. 45 The Lord did all the good things that he had promised to do for the people of Israel. He did not fail to do anything that he had promised."
-              }
-            ],
-            [
-              {
                 "verse": 43,
                 "text": "That is how the Lord gave the land to all the Israelite people. He had promised their ancestors that he would give the land to them. They took it from the people who had lived there, and then they lived there themselves."
               },
@@ -3899,7 +3950,8 @@
             [
               {
                 "verse": 2,
-                "text": "‘I am now very old."
+                "text": "‘I am now very old.",
+                "isContinuation": true
               },
               {
                 "verse": 3,
@@ -3994,7 +4046,8 @@
             [
               {
                 "verse": 2,
-                "text": "“A long time ago, your ancestors lived on the other side of the Euphrates River. They included Terah who was the father of Abraham and Nahor. They worshipped other gods."
+                "text": "“A long time ago, your ancestors lived on the other side of the Euphrates River. They included Terah who was the father of Abraham and Nahor. They worshipped other gods.",
+                "isContinuation": true
               },
               {
                 "verse": 3,
@@ -4096,7 +4149,8 @@
             [
               {
                 "verse": 22,
-                "text": "They replied, ‘Yes, we agree!’"
+                "text": "They replied, ‘Yes, we agree!’",
+                "isContinuation": true
               }
             ],
             [
