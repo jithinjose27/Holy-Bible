@@ -9,3 +9,6 @@ src/data/raw_html
 src/data/kjv_html
 data_sources/
 src/data/books_backup/
+*.apk
+package-lock.json
+.idea/

@@ -7,6 +7,9 @@ import AboutCopyrightModal from './components/AboutCopyrightModal';
 import InstallAppModal from './components/InstallAppModal';
 import BookReviewModal from './components/BookReviewModal';
 import { CheckCircle2, WifiOff } from 'lucide-react';
+import { Capacitor } from '@capacitor/core';
+import { App as CapApp } from '@capacitor/app';
+import { StatusBar, Style as StatusBarStyle } from '@capacitor/status-bar';
 
 import { 
   getBookMeta, 
@@ -121,6 +124,9 @@ export default function App() {
   const [deferredPrompt, setDeferredPrompt] = useState(null);
   const [isInstalled, setIsInstalled] = useState(() => {
     if (typeof window === 'undefined') return false;
+    try {
+      if (Capacitor.isNativePlatform()) return true;
+    } catch {}
     return (
       window.matchMedia('(display-mode: standalone)').matches ||
       window.navigator.standalone === true
@@ -198,6 +204,13 @@ export default function App() {
     document.documentElement.style.backgroundColor = themeBg;
     document.body.style.backgroundColor = themeBg;
     document.body.style.color = themeColor;
+
+    if (Capacitor.isNativePlatform()) {
+      try {
+        StatusBar.setStyle({ style: isDark ? StatusBarStyle.Dark : StatusBarStyle.Light }).catch(() => {});
+        StatusBar.setBackgroundColor({ color: themeBg }).catch(() => {});
+      } catch {}
+    }
   }, [theme]);
 
   useEffect(() => {
@@ -329,6 +342,63 @@ export default function App() {
       handleSelectBook(adjacentBooks.next.id);
     }
   };
+
+  // Native Android hardware back button listener
+  useEffect(() => {
+    if (!Capacitor.isNativePlatform()) return;
+
+    let removeListener = null;
+    CapApp.addListener('backButton', () => {
+      if (isSearchOpen) {
+        setIsSearchOpen(false);
+        return;
+      }
+      if (isBookmarksOpen) {
+        setIsBookmarksOpen(false);
+        return;
+      }
+      if (isBookReviewOpen) {
+        setIsBookReviewOpen(false);
+        return;
+      }
+      if (isCopyrightOpen) {
+        setIsCopyrightOpen(false);
+        return;
+      }
+      if (isInstallModalOpen) {
+        setIsInstallModalOpen(false);
+        return;
+      }
+
+      if (currentChapter > 1) {
+        handleSelectChapter(currentChapter - 1);
+        return;
+      }
+
+      if (adjacentBooks.prev) {
+        handleSelectBook(adjacentBooks.prev.id);
+        return;
+      }
+
+      CapApp.exitApp();
+    }).then((handle) => {
+      removeListener = handle;
+    });
+
+    return () => {
+      if (removeListener) {
+        removeListener.remove();
+      }
+    };
+  }, [
+    isSearchOpen,
+    isBookmarksOpen,
+    isBookReviewOpen,
+    isCopyrightOpen,
+    isInstallModalOpen,
+    currentChapter,
+    adjacentBooks.prev
+  ]);
 
   const handleToggleBookmark = (ch, verseNum, text) => {
     setBookmarks((prev) => {
