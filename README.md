@@ -1,117 +1,173 @@
-# Interactive Bible Reader with Comic / Manhwa Storytelling Mode
+# Holy Bible Reader
 
-A modern, responsive Bible reading application using the **EasyEnglish Bible** as the source translation, featuring an optional illustrated storytelling mode that presents Bible chapters as full-colour comic or manhwa-style reading experiences.
+A clean, responsive, and completely offline-capable Bible reading and study application. It contains all 66 canonical books of the Old and New Testaments with dual translations (EasyEnglish and King James Version), full chapter assessments, and book reviews.
 
----
+The app is built as a unified codebase that runs in modern web browsers, installs as a Progressive Web App (PWA) on phones and computers, and builds as a standalone Android app using Capacitor.
 
-## 📖 Key Experiences
-
-### 1. Bible Reading Mode (Default Experience)
-- **Peaceful, distraction-free reading**: Clean typography, generous line-height, and paper-like neutral backgrounds.
-- **Complete Genesis 1–50**: Full text of all 50 chapters parsed directly from the authorized EasyEnglish Bible text.
-- **Section Headings & Study Notes**: Distinct pericopes and linguistic footnotes preserved from the source.
-- **Interactive Verses**: Click any verse number to copy the citation or bookmark it.
-- **Search System**: Fast, client-side search across all 50 chapters with query highlighting and direct jump-to-verse.
-- **Personalization**:
-  - Themes: Paper White, Warm Sepia, Dark Charcoal, Midnight OLED.
-  - Font scaling: Small, Medium, Large, Extra Large.
-  - Bookmarks & Reading Progress tracker (persisted in `localStorage`).
-- **Unobtrusive Story Action**: A compact `🎨 Read as Story` button in the chapter header toolbar opens Visual Story Mode without cluttering the scripture text.
+Live Web App: https://holy-bible-five.vercel.app/
 
 ---
 
-### 2. Visual Story Mode (Comic / Manhwa Experience)
-- **Dedicated Graphic Novel Interface**: Opens exclusively upon reader request.
-- **Dual Reading Formats**:
-  1. **Vertical Webtoon / Manhwa Scroll**: Continuous vertical reading optimized for mobile and immersive desktop scrolling.
-  2. **Page-by-Page Comic**: Traditional sequential pages with page flip controls and keyboard navigation (`←` and `→`).
-- **Chapter-Specific Narratives for Genesis 1–50**:
-  - Sequential illustrated panels with chapter-specific artwork.
-  - Prominent Bible verse range citations (e.g., `Genesis 1:1–2`).
-  - Distinct **Narration Boxes** (`📜 Narration`), clearly separated from Scripture.
-  - Dynamic **Dialogue Speech Bubbles** (`💬`), with creative adaptations explicitly marked.
-- **Character Continuity & Art Direction**:
-  - Includes a dedicated **Character & Visual Guide** modal detailing appearance, palette signatures, and historical context for Abraham, Sarah, Isaac, Rebekah, Jacob, Esau, Joseph, Judah, and key landscapes.
-- **Seamless Return**: "Back to Bible" button returns the reader directly to the chapter without losing context.
+## What This Project Includes
+
+- All 66 Books and 1,189 Chapters: Complete text covering Genesis through Revelation in standard Protestant canonical order.
+- Dual Translations: Read in the contemporary, clear EasyEnglish translation or switch to the classic King James Version (KJV).
+- Chapter and Book Assessments: 10 review questions for every individual chapter (11,890 questions total) plus a 50-question comprehensive review test for every book (3,300 questions total).
+- Study Tools: Verse-by-verse bookmarking, four-color verse highlighting, search across chapters, and quick navigation.
+- Reader Personalization: Four themes tailored for different lighting conditions (Paper, Warm Sepia, Dark, and OLED Midnight) with adjustable typography sizes.
+- Works 100% Offline: All books, translations, and questions are bundled locally into code-split chunks. Once opened or installed, no internet connection is required.
+- Cross-Platform:
+  - Web and PWA: Installable directly from your browser on Android, iOS, Windows, macOS, and Linux.
+  - Native Android: An installable APK package built with Capacitor, supporting the physical Android back button, adaptive status bar coloring, and custom home screen launcher icons.
 
 ---
 
-## 🎨 Artwork Production Pipeline & Genesis 1 Masterpiece
+## Live Reader
 
-- **AI-Generated Masterpieces**:
-  - `Genesis 1:1–2`: The primeval cosmos and Spirit hovering over the deep waters.
-  - `Genesis 1:3–5`: Dawn of divine light piercing primeval darkness.
-  - `Genesis 2:1–3`: The Garden of Eden, the Tree of Life, and the sacred Sabbath rest.
-- **Automated Illustration Pipeline**:
-  - `scripts/build_story_dataset_and_artwork.py`: Renders stylized 16:9 cinematic manhwa graphic panels across all chapters with theme palettes, vignettes, and comic panel framing.
-  - Any panel can be replaced or regenerated independently by placing new images in `public/assets/genesis/{chapter}/panel-{scene}.jpg`.
+You can read and use the app immediately in any browser without installing anything:
+
+https://holy-bible-five.vercel.app/
 
 ---
 
-## ⚖️ Copyright & Text Accuracy
+## How to Set Up and Run Your Own Copy
 
-- **Translation**: EasyEnglish Bible (EASY) by MissionAssist (UK Registered Charity 1162807).
-- **Mandatory Attribution**:
-  > *Scripture quotations are from the EasyEnglish Bible Copyright © MissionAssist 2018, 2024 – UK Charitable Incorporated Organisation 1162807. Used by permission. All rights reserved.*
-- **Official Source**: Each chapter includes direct hyperlinks to the authorized text on [EasyEnglish.bible](https://www.easyenglish.bible/bible/easy/).
+If you want to clone this project, run it locally, customize it, or deploy your own copy, follow these steps.
 
----
+### Prerequisites
 
-## 🛠️ Project Structure
+Make sure you have the following installed on your computer:
+- Node.js (version 18 or newer recommended, version 20+ tested)
+- Yarn or npm (Yarn 1.22+ is used in this repository)
 
-```
-├── public/
-│   └── assets/
-│       └── genesis/
-│           ├── 1/  (8 sequential manhwa panel illustrations)
-│           ├── 2/  (3 sequential manhwa panel illustrations)
-│           └── ... (panels for chapters 1 through 50)
-├── scripts/
-│   ├── fetch_all_genesis.py             # Fetches and parses Genesis 1-50 from EasyEnglish
-│   ├── manhwa_artist.py                 # Panel artwork generation utility
-│   └── build_story_dataset_and_artwork.py # Generates story database & graphic panels
-├── src/
-│   ├── components/
-│   │   ├── Navbar.jsx                   # Book, chapter, theme, and tool navigation
-│   │   ├── BibleReader.jsx              # Traditional Scripture reading interface
-│   │   ├── VisualStoryReader.jsx        # Manhwa / comic reading experience
-│   │   ├── SearchModal.jsx              # Full-text search across Genesis
-│   │   ├── BookmarksDrawer.jsx          # Bookmarks and reading progress drawer
-│   │   ├── CharacterGuideModal.jsx      # Visual art direction & character sheet
-│   │   └── AboutCopyrightModal.jsx      # Copyright & translation details
-│   ├── data/
-│   │   ├── genesis_bible_text.json      # Structured EasyEnglish Bible text (Ch. 1-50)
-│   │   ├── genesis_story_data.json      # Structured Manhwa story data (Ch. 1-50)
-│   │   ├── character_reference_sheet.json # Visual guide & character continuity
-│   │   └── bible_catalog.json           # All 66 books of the Bible catalog
-│   ├── App.jsx
-│   ├── main.jsx
-│   └── index.css
-├── package.json
-└── vite.config.js
-```
-
----
-
-## 🚀 Running the Project
+### 1. Clone the Repository
 
 ```bash
-# Start development server
+git clone https://github.com/jithinjose27/Holy-Bible.git
+cd Holy-Bible
+```
+
+### 2. Install Dependencies
+
+```bash
+yarn install
+```
+
+### 3. Start the Local Development Server
+
+```bash
 yarn dev
+```
 
-# Build for production
+Open your browser to the URL shown in your terminal (usually http://localhost:5173). Any changes you make to the code will update live in the browser.
+
+### 4. Build the Web App for Production
+
+To create an optimized production build:
+
+```bash
 yarn build
+```
 
-# Preview production build
+This creates a `dist/` directory containing all compiled HTML, CSS, JavaScript, and Bible data chunks. You can preview this build locally with:
+
+```bash
 yarn preview
 ```
 
 ---
 
-## 🌟 Extending to Future Books
+## Deploying Your Own Web Version
 
-To add subsequent books (e.g., Exodus):
-1. Add the book entry to `src/data/bible_catalog.json` with `hasFullText: true`.
-2. Adapt `scripts/fetch_all_genesis.py` to target the new book slug.
-3. Define story scenes in `scripts/build_story_dataset_and_artwork.py` and run it to generate panel assets.
-4. The frontend components automatically adapt to any book data schema.
+Because the production build is a static single-page application, you can host it for free on Vercel, Netlify, Cloudflare Pages, or GitHub Pages.
+
+### Deploy with Vercel
+
+1. Push your repository to GitHub.
+2. Sign in to https://vercel.com and click "Add New Project".
+3. Import your Holy Bible repository.
+4. Keep the default settings:
+   - Framework Preset: Vite
+   - Build Command: `yarn build` (or `npm run build`)
+   - Output Directory: `dist`
+5. Click "Deploy". Your app will be live on a secure HTTPS address with PWA install support enabled out of the box.
+
+---
+
+## Building the Android App (APK)
+
+This project uses Capacitor to package the web build into a native Android app without rewriting the application.
+
+### Android Build Prerequisites
+
+To compile the APK on your machine, you need:
+- Java Development Kit (JDK 17 or JDK 21)
+- Android SDK with Command-line Tools (`cmdline-tools`), Platform SDK 34 or higher, and Build Tools
+
+### Building the APK
+
+You can build the debug APK with a single command:
+
+```bash
+yarn build:apk
+```
+
+This command runs three steps automatically:
+1. Compiles the web assets (`vite build`).
+2. Syncs the web assets and plugins into the Android project (`cap sync android`).
+3. Runs the Gradle build to compile the APK (`cd android && ./gradlew assembleDebug`).
+
+The compiled APK will be located at:
+- `HolyBible-debug.apk` (copied to the project root for easy access)
+- `android/app/build/outputs/apk/debug/app-debug.apk`
+
+### Installing the APK on Your Phone
+
+You can transfer `HolyBible-debug.apk` to your Android device via USB cable, messaging, or cloud drive, and tap it to install.
+
+If you have your phone connected to your computer with USB Debugging enabled, you can also install it directly via the terminal:
+
+```bash
+adb install -r HolyBible-debug.apk
+```
+
+---
+
+## Project Structure
+
+A quick guide to how the project files are organized:
+
+```
+Holy-Bible/
+├── android/                 # Native Android project generated by Capacitor
+├── dist/                    # Production web build output
+├── public/                  # Static assets, icons, manifest.webmanifest, sw.js
+│   └── icons/               # App icons for web, PWA, and Android
+├── src/
+│   ├── components/          # UI components (Navbar, BibleReader, Search, Modals)
+│   ├── data/
+│   │   ├── bible_catalog.json # Metadata for all 66 books (chapters, testaments)
+│   │   └── books/           # Data for each book (text.json, kjv.json, chapter_qa.json, book_qa.json)
+│   ├── services/
+│   │   └── bibleService.js  # Dynamic loading and in-memory caching for book data
+│   ├── App.jsx              # Main application shell, state, themes, and Android back button
+│   ├── main.jsx             # React entry point and PWA service worker registration
+│   └── index.css            # Tailwind CSS styling and theme definitions
+├── capacitor.config.json    # Capacitor configuration for Android app ID and name
+├── package.json             # Scripts and dependencies
+└── vite.config.js           # Vite configuration
+```
+
+---
+
+## Translation and Content Attribution
+
+- EasyEnglish Bible: Scripture text is from the EasyEnglish Bible, Copyright MissionAssist. Used by permission. Official reference: https://www.easyenglish.bible/bible/easy/
+- King James Version (KJV): Public domain translation.
+- Questions and Study Aids: Chapter quizzes and book reviews are included for personal reading comprehension and study reflection.
+
+---
+
+## License
+
+This project code is open source and available for personal and educational use. Scripture texts remain subject to their respective copyright holders and public domain designations.
